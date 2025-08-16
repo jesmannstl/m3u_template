@@ -15,6 +15,8 @@ http://example.local/MEX-AETV.ts
 http://example.local/MEX-XHIMTTDT2.ts
 #EXTINF:-1 tvg-chno="108082" tvg-name="ABC ESP HD (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="ABCESHD" tvc-guide-stationid="108082",ABC ESP HD (ABC)
 http://example.local/MEX-ABCESHD.ts
+#EXTINF:-1 tvg-chno="105654" tvg-name="ACUSTIK TV" tvg-logo="None" group-title="Mexico" tvg-id="ACUSTIK" tvc-guide-stationid="105654",ACUSTIK TV
+http://example.local/MEX-ACUSTIK.ts
 #EXTINF:-1 tvg-chno="75278" tvg-name="ADN 40" tvg-logo="https://zap2it.tmsimg.com/assets/s15384_h3_ba.png?w=360&h=270" group-title="Mexico" tvg-id="ADN40HD" tvc-guide-stationid="75278",ADN 40
 http://example.local/MEX-ADN40HD.ts
 #EXTINF:-1 tvg-chno="32279" tvg-name="ADN 40 (ADN40)" tvg-logo="https://zap2it.tmsimg.com/assets/s15384_h3_ba.png?w=360&h=270" group-title="Mexico" tvg-id="XHTVM" tvc-guide-stationid="32279",ADN 40 (ADN40)
@@ -35,6 +37,8 @@ http://example.local/MEX-ADSMX.ts
 http://example.local/MEX-AFIZZHD.ts
 #EXTINF:-1 tvg-chno="108506" tvg-name="Afizzionados SD" tvg-logo="https://zap2it.tmsimg.com/assets/s108506_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="AFIZZSD" tvc-guide-stationid="108506",Afizzionados SD
 http://example.local/MEX-AFIZZSD.ts
+#EXTINF:-1 tvg-chno="47605" tvg-name="Aguascalientes TV" tvg-logo="None" group-title="Mexico" tvg-id="AGUASC" tvc-guide-stationid="47605",Aguascalientes TV
+http://example.local/MEX-AGUASC.ts
 #EXTINF:-1 tvg-chno="111165" tvg-name="Al Jazeera" tvg-logo="https://zap2it.tmsimg.com/assets/s49968_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="ALJALA" tvc-guide-stationid="111165",Al Jazeera
 http://example.local/MEX-ALJALA.ts
 #EXTINF:-1 tvg-chno="102458" tvg-name="Al Jazeera HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49968_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="ALJZHDI" tvc-guide-stationid="102458",Al Jazeera HD
@@ -73,6 +77,8 @@ http://example.local/MEX-ARANG.ts
 http://example.local/MEX-ARANGSP.ts
 #EXTINF:-1 tvg-chno="87646" tvg-name="Arirang TV" tvg-logo="https://zap2it.tmsimg.com/assets/s87646_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="ARANGTV" tvc-guide-stationid="87646",Arirang TV
 http://example.local/MEX-ARANGTV.ts
+#EXTINF:-1 tvg-chno="36250" tvg-name="ARTS" tvg-logo="None" group-title="Mexico" tvg-id="ARTST" tvc-guide-stationid="36250",ARTS
+http://example.local/MEX-ARTST.ts
 #EXTINF:-1 tvg-chno="82808" tvg-name="Atrescine" tvg-logo="https://zap2it.tmsimg.com/assets/s82808_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="A3CINE" tvc-guide-stationid="82808",Atrescine
 http://example.local/MEX-A3CINE.ts
 #EXTINF:-1 tvg-chno="90898" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="ATRES" tvc-guide-stationid="90898",Atreseries
@@ -81,6 +87,8 @@ http://example.local/MEX-ATRES.ts
 http://example.local/MEX-ATRESSD.ts
 #EXTINF:-1 tvg-chno="102943" tvg-name="Atreseries HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="ATSESHD" tvc-guide-stationid="102943",Atreseries HD
 http://example.local/MEX-ATSESHD.ts
+#EXTINF:-1 tvg-chno="42389" tvg-name="AUDIO AEI LA LATIN JAZZ" tvg-logo="None" group-title="Mexico" tvg-id="LATJAZZ" tvc-guide-stationid="42389",AUDIO AEI LA LATIN JAZZ
+http://example.local/MEX-LATJAZZ.ts
 #EXTINF:-1 tvg-chno="40279" tvg-name="AUDIO DLA ADULTO CONTEMPORÁNEO" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="DLADULT" tvc-guide-stationid="40279",AUDIO DLA ADULTO CONTEMPORÁNEO
 http://example.local/MEX-DLADULT.ts
 #EXTINF:-1 tvg-chno="37862" tvg-name="AUDIO DLA BLUES" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="BLUESDL" tvc-guide-stationid="37862",AUDIO DLA BLUES
@@ -173,6 +181,8 @@ http://example.local/MEX-AXNARG.ts
 http://example.local/MEX-AYM.ts
 #EXTINF:-1 tvg-chno="105163" tvg-name="AyM Sports HD" tvg-logo="https://zap2it.tmsimg.com/assets/s34863_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="AYMHD" tvc-guide-stationid="105163",AyM Sports HD
 http://example.local/MEX-AYMHD.ts
+#EXTINF:-1 tvg-chno="103803" tvg-name="Azteca 13-Delay HD" tvg-logo="None" group-title="Mexico" tvg-id="AZDLYHD" tvc-guide-stationid="103803",Azteca 13-Delay HD
+http://example.local/MEX-AZDLYHD.ts
 #EXTINF:-1 tvg-chno="56276" tvg-name="Azteca 24 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="AZ24HD" tvc-guide-stationid="56276",Azteca 24 HD
 http://example.local/MEX-AZ24HD.ts
 #EXTINF:-1 tvg-chno="16464" tvg-name="Azteca 7 (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHIMT" tvc-guide-stationid="16464",Azteca 7 (AZ7NET)
@@ -191,6 +201,8 @@ http://example.local/MEX-AZINTL.ts
 http://example.local/MEX-AZDELAY.ts
 #EXTINF:-1 tvg-chno="52628" tvg-name="Azteca uno (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="XHDFTDT" tvc-guide-stationid="52628",Azteca uno (AZ1NET)
 http://example.local/MEX-XHDFTDT.ts
+#EXTINF:-1 tvg-chno="123854" tvg-name="Azteca uno" tvg-logo="None" group-title="Mexico" tvg-id="XHDFID7" tvc-guide-stationid="123854",Azteca uno
+http://example.local/MEX-XHDFID7.ts
 #EXTINF:-1 tvg-chno="102456" tvg-name="Azteca uno menos dos horas" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="XHDF2DH" tvc-guide-stationid="102456",Azteca uno menos dos horas
 http://example.local/MEX-XHDF2DH.ts
 #EXTINF:-1 tvg-chno="100034" tvg-name="Azteca uno menos una hora (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHDFTDT2" tvc-guide-stationid="100034",Azteca uno menos una hora (AZ1NET)
@@ -219,6 +231,18 @@ http://example.local/MEX-BITME.ts
 http://example.local/MEX-BLOOM4K.ts
 #EXTINF:-1 tvg-chno="75994" tvg-name="C5N" tvg-logo="https://zap2it.tmsimg.com/assets/s75994_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="C5NARG" tvc-guide-stationid="75994",C5N
 http://example.local/MEX-C5NARG.ts
+#EXTINF:-1 tvg-chno="51343" tvg-name="Cablevision Especial Channel" tvg-logo="None" group-title="Mexico" tvg-id="CANALE" tvc-guide-stationid="51343",Cablevision Especial Channel
+http://example.local/MEX-CANALE.ts
+#EXTINF:-1 tvg-chno="50572" tvg-name="Cablevision Infocable" tvg-logo="None" group-title="Mexico" tvg-id="INFOCV" tvc-guide-stationid="50572",Cablevision Infocable
+http://example.local/MEX-INFOCV.ts
+#EXTINF:-1 tvg-chno="73337" tvg-name="Cablevision Mex WOPGTV" tvg-logo="None" group-title="Mexico" tvg-id="WOPGTV" tvc-guide-stationid="73337",Cablevision Mex WOPGTV
+http://example.local/MEX-WOPGTV.ts
+#EXTINF:-1 tvg-chno="69242" tvg-name="CABLEVISION MEXICO INFORMATION HD" tvg-logo="None" group-title="Mexico" tvg-id="CBLMXHD" tvc-guide-stationid="69242",CABLEVISION MEXICO INFORMATION HD
+http://example.local/MEX-CBLMXHD.ts
+#EXTINF:-1 tvg-chno="59826" tvg-name="Cablevision Mosaico Noticias" tvg-logo="None" group-title="Mexico" tvg-id="MOSNO" tvc-guide-stationid="59826",Cablevision Mosaico Noticias
+http://example.local/MEX-MOSNO.ts
+#EXTINF:-1 tvg-chno="60226" tvg-name="Cablevision MX Cable HD" tvg-logo="None" group-title="Mexico" tvg-id="CABLEHD" tvc-guide-stationid="60226",Cablevision MX Cable HD
+http://example.local/MEX-CABLEHD.ts
 #EXTINF:-1 tvg-chno="111582" tvg-name="Cadena Trendy" tvg-logo="https://zap2it.tmsimg.com/assets/s111582_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="CATR" tvc-guide-stationid="111582",Cadena Trendy
 http://example.local/MEX-CATR.ts
 #EXTINF:-1 tvg-chno="80064" tvg-name="Cali TV" tvg-logo="https://zap2it.tmsimg.com/assets/s80064_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="CALITV" tvc-guide-stationid="80064",Cali TV
@@ -249,6 +273,8 @@ http://example.local/MEX-CAN26SD.ts
 http://example.local/MEX-XHUDGTDT.ts
 #EXTINF:-1 tvg-chno="16463" tvg-name="Canal 5 (C5NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116152_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHGC" tvc-guide-stationid="16463",Canal 5 (C5NET)
 http://example.local/MEX-XHGC.ts
+#EXTINF:-1 tvg-chno="47604" tvg-name="Canal 7 Cancun" tvg-logo="None" group-title="Mexico" tvg-id="CANL7" tvc-guide-stationid="47604",Canal 7 Cancun
+http://example.local/MEX-CANL7.ts
 #EXTINF:-1 tvg-chno="110075" tvg-name="Canal 9" tvg-logo="https://zap2it.tmsimg.com/assets/s110075_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="CAN9M" tvc-guide-stationid="110075",Canal 9
 http://example.local/MEX-CAN9M.ts
 #EXTINF:-1 tvg-chno="20548" tvg-name="Canal del Congreso" tvg-logo="https://zap2it.tmsimg.com/assets/s20548_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="CONG" tvc-guide-stationid="20548",Canal del Congreso
@@ -257,6 +283,8 @@ http://example.local/MEX-CONG.ts
 http://example.local/MEX-CNLDHE.ts
 #EXTINF:-1 tvg-chno="81623" tvg-name="Canal DHE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s81623_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="CNLDHEH" tvc-guide-stationid="81623",Canal DHE HD
 http://example.local/MEX-CNLDHEH.ts
+#EXTINF:-1 tvg-chno="47425" tvg-name="Canal Local" tvg-logo="None" group-title="Mexico" tvg-id="CLOCAL" tvc-guide-stationid="47425",Canal Local
+http://example.local/MEX-CLOCAL.ts
 #EXTINF:-1 tvg-chno="16466" tvg-name="Canal Nueve (NU9NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116171_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XEQ" tvc-guide-stationid="16466",Canal Nueve (NU9NET)
 http://example.local/MEX-XEQ.ts
 #EXTINF:-1 tvg-chno="59528" tvg-name="Canal Nueve (NU9NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s59528_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XEQTDT" tvc-guide-stationid="59528",Canal Nueve (NU9NET)
@@ -297,6 +325,8 @@ http://example.local/MEX-CARTHDP.ts
 http://example.local/MEX-CBS.ts
 #EXTINF:-1 tvg-chno="108080" tvg-name="CBS ESP HD (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="CBSESHD" tvc-guide-stationid="108080",CBS ESP HD (CBS)
 http://example.local/MEX-CBSESHD.ts
+#EXTINF:-1 tvg-chno="93334" tvg-name="CCTV" tvg-logo="None" group-title="Mexico" tvg-id="CCTVI" tvc-guide-stationid="93334",CCTV
+http://example.local/MEX-CCTVI.ts
 #EXTINF:-1 tvg-chno="104529" tvg-name="CGTN" tvg-logo="https://zap2it.tmsimg.com/assets/s104529_ll_h9_ac.png?w=360&h=270" group-title="Mexico" tvg-id="CGTNEU" tvc-guide-stationid="104529",CGTN
 http://example.local/MEX-CGTNEU.ts
 #EXTINF:-1 tvg-chno="44479" tvg-name="CGTN Español" tvg-logo="https://zap2it.tmsimg.com/assets/s44479_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="CGTNE" tvc-guide-stationid="44479",CGTN Español
@@ -673,6 +703,10 @@ http://example.local/MEX-FOODNET.ts
 http://example.local/MEX-XHUAATDT2.ts
 #EXTINF:-1 tvg-chno="72313" tvg-name="Foro TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s66635_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="NMASFOMXH" tvc-guide-stationid="72313",Foro TV HD
 http://example.local/MEX-NMASFOMXH.ts
+#EXTINF:-1 tvg-chno="101732" tvg-name="Fox Life" tvg-logo="None" group-title="Mexico" tvg-id="FOXLFHD" tvc-guide-stationid="101732",Fox Life
+http://example.local/MEX-FOXLFHD.ts
+#EXTINF:-1 tvg-chno="95131" tvg-name="Fox Mexico HD" tvg-logo="None" group-title="Mexico" tvg-id="DFOXLHD" tvc-guide-stationid="95131",Fox Mexico HD
+http://example.local/MEX-DFOXLHD.ts
 #EXTINF:-1 tvg-chno="110959" tvg-name="Fox News" tvg-logo="https://zap2it.tmsimg.com/assets/s110959_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="ESFNCHD" tvc-guide-stationid="110959",Fox News
 http://example.local/MEX-ESFNCHD.ts
 #EXTINF:-1 tvg-chno="16374" tvg-name="Fox News Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16374_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="FNC" tvc-guide-stationid="16374",Fox News Channel
@@ -685,6 +719,8 @@ http://example.local/MEX-FNCHD.ts
 http://example.local/MEX-FSALPM.ts
 #EXTINF:-1 tvg-chno="61704" tvg-name="Fox Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s41677_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="FSALPHD" tvc-guide-stationid="61704",Fox Sports
 http://example.local/MEX-FSALPHD.ts
+#EXTINF:-1 tvg-chno="68952" tvg-name="FOX SPORTS" tvg-logo="None" group-title="Mexico" tvg-id="FSARH" tvc-guide-stationid="68952",FOX SPORTS
+http://example.local/MEX-FSARH.ts
 #EXTINF:-1 tvg-chno="30262" tvg-name="FOX Sports (Cono Sur Argentina)" tvg-logo="https://zap2it.tmsimg.com/assets/s41677_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="FSALA" tvc-guide-stationid="30262",FOX Sports (Cono Sur Argentina)
 http://example.local/MEX-FSALA.ts
 #EXTINF:-1 tvg-chno="66365" tvg-name="Fox Sports 2" tvg-logo="https://zap2it.tmsimg.com/assets/s66365_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="FOXS2" tvc-guide-stationid="66365",Fox Sports 2
@@ -697,6 +733,8 @@ http://example.local/MEX-FSP3.ts
 http://example.local/MEX-FSP3HD.ts
 #EXTINF:-1 tvg-chno="112239" tvg-name="Fox Sports 3" tvg-logo="https://zap2it.tmsimg.com/assets/s105006_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="FOXS3AM" tvc-guide-stationid="112239",Fox Sports 3
 http://example.local/MEX-FOXS3AM.ts
+#EXTINF:-1 tvg-chno="123189" tvg-name="Fox Sports 3 (Argentina)" tvg-logo="None" group-title="Mexico" tvg-id="FS3AR" tvc-guide-stationid="123189",Fox Sports 3 (Argentina)
+http://example.local/MEX-FS3AR.ts
 #EXTINF:-1 tvg-chno="123582" tvg-name="Fox Sports Premium" tvg-logo="https://zap2it.tmsimg.com/assets/s123582_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="FSPRMM" tvc-guide-stationid="123582",Fox Sports Premium
 http://example.local/MEX-FSPRMM.ts
 #EXTINF:-1 tvg-chno="58685" tvg-name="France 24" tvg-logo="https://zap2it.tmsimg.com/assets/s58685_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="FRNC24" tvc-guide-stationid="58685",France 24
@@ -747,6 +785,10 @@ http://example.local/MEX-GARATVHD.ts
 http://example.local/MEX-GBITV.ts
 #EXTINF:-1 tvg-chno="84094" tvg-name="GIGABITV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59836_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="GBITVHD" tvc-guide-stationid="84094",GIGABITV HD
 http://example.local/MEX-GBITVHD.ts
+#EXTINF:-1 tvg-chno="66136" tvg-name="Gigacable Aguascalientes TV" tvg-logo="None" group-title="Mexico" tvg-id="AGUASTV" tvc-guide-stationid="66136",Gigacable Aguascalientes TV
+http://example.local/MEX-AGUASTV.ts
+#EXTINF:-1 tvg-chno="62009" tvg-name="Gigacable Canal Tecnico" tvg-logo="None" group-title="Mexico" tvg-id="GIGATEC" tvc-guide-stationid="62009",Gigacable Canal Tecnico
+http://example.local/MEX-GIGATEC.ts
 #EXTINF:-1 tvg-chno="125039" tvg-name="Ginx TV International" tvg-logo="https://zap2it.tmsimg.com/assets/s118698_ll_h9_ab.png?w=360&h=270" group-title="Mexico" tvg-id="GINXUSD" tvc-guide-stationid="125039",Ginx TV International
 http://example.local/MEX-GINXUSD.ts
 #EXTINF:-1 tvg-chno="118698" tvg-name="Ginx TV International" tvg-logo="https://zap2it.tmsimg.com/assets/s118698_ll_h9_ab.png?w=360&h=270" group-title="Mexico" tvg-id="GINXUSI" tvc-guide-stationid="118698",Ginx TV International
@@ -885,6 +927,10 @@ http://example.local/MEX-IDHD.ts
 http://example.local/MEX-ISATMX.ts
 #EXTINF:-1 tvg-chno="59724" tvg-name="izzi" tvg-logo="https://zap2it.tmsimg.com/assets/s59724_ll_h9_aa.png?w=360&h=270" group-title="Mexico" tvg-id="IZZI" tvc-guide-stationid="59724",izzi
 http://example.local/MEX-IZZI.ts
+#EXTINF:-1 tvg-chno="98718" tvg-name="izzi HD" tvg-logo="None" group-title="Mexico" tvg-id="IZZIHD" tvc-guide-stationid="98718",izzi HD
+http://example.local/MEX-IZZIHD.ts
+#EXTINF:-1 tvg-chno="109610" tvg-name="IZZI2" tvg-logo="None" group-title="Mexico" tvg-id="IZZI2" tvc-guide-stationid="109610",IZZI2
+http://example.local/MEX-IZZI2.ts
 #EXTINF:-1 tvg-chno="100795" tvg-name="Jesus Christ Network" tvg-logo="https://zap2it.tmsimg.com/assets/s100795_ll_h6_aa.png?w=360&h=270" group-title="Mexico" tvg-id="JCNET" tvc-guide-stationid="100795",Jesus Christ Network
 http://example.local/MEX-JCNET.ts
 #EXTINF:-1 tvg-chno="62629" tvg-name="JUICY Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s58684_h3_ba.png?w=360&h=270" group-title="Mexico" tvg-id="JUICYLA" tvc-guide-stationid="62629",JUICY Spanish
@@ -923,6 +969,8 @@ http://example.local/MEX-LIFEMEX.ts
 http://example.local/MEX-LIFEMXH.ts
 #EXTINF:-1 tvg-chno="159513" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="LIFSURH" tvc-guide-stationid="159513",Lifetime
 http://example.local/MEX-LIFSURH.ts
+#EXTINF:-1 tvg-chno="105818" tvg-name="LIGA MEXICANA DEL PACIFICO" tvg-logo="None" group-title="Mexico" tvg-id="LMP" tvc-guide-stationid="105818",LIGA MEXICANA DEL PACIFICO
+http://example.local/MEX-LMP.ts
 #EXTINF:-1 tvg-chno="101238" tvg-name="LN+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s101238_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="NACIONP" tvc-guide-stationid="101238",LN+ HD
 http://example.local/MEX-NACIONP.ts
 #EXTINF:-1 tvg-chno="12034" tvg-name="Maria Visión" tvg-logo="https://zap2it.tmsimg.com/assets/s12034_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="MARIA" tvc-guide-stationid="12034",Maria Visión
@@ -955,6 +1003,8 @@ http://example.local/MEX-MTCH.ts
 http://example.local/MEX-MILENIO.ts
 #EXTINF:-1 tvg-chno="99566" tvg-name="Milenio TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61719_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="MILENHD" tvc-guide-stationid="99566",Milenio TV HD
 http://example.local/MEX-MILENHD.ts
+#EXTINF:-1 tvg-chno="49261" tvg-name="Monte Maria TV" tvg-logo="None" group-title="Mexico" tvg-id="MMTV" tvc-guide-stationid="49261",Monte Maria TV
+http://example.local/MEX-MMTV.ts
 #EXTINF:-1 tvg-chno="119829" tvg-name="Moto ADV" tvg-logo="https://zap2it.tmsimg.com/assets/s119829_ll_h9_aa.png?w=360&h=270" group-title="Mexico" tvg-id="MOTOADV" tvc-guide-stationid="119829",Moto ADV
 http://example.local/MEX-MOTOADV.ts
 #EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="MTVL" tvc-guide-stationid="12712",MTV
@@ -1005,6 +1055,8 @@ http://example.local/MEX-MORBTV.ts
 http://example.local/MEX-XHTV.ts
 #EXTINF:-1 tvg-chno="105877" tvg-name="Nat Geo Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="NGKCM" tvc-guide-stationid="105877",Nat Geo Kids
 http://example.local/MEX-NGKCM.ts
+#EXTINF:-1 tvg-chno="105878" tvg-name="Nat Geo Kids HD" tvg-logo="None" group-title="Mexico" tvg-id="NGKCMHD" tvc-guide-stationid="105878",Nat Geo Kids HD
+http://example.local/MEX-NGKCMHD.ts
 #EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png?w=360&h=270" group-title="Mexico" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
 http://example.local/MEX-NGCLA.ts
 #EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
@@ -1085,12 +1137,20 @@ http://example.local/MEX-PASNLAH.ts
 http://example.local/MEX-PLIMEX.ts
 #EXTINF:-1 tvg-chno="73704" tvg-name="Penthouse" tvg-logo="https://zap2it.tmsimg.com/assets/s73704_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="PENTVLM" tvc-guide-stationid="73704",Penthouse
 http://example.local/MEX-PENTVLM.ts
+#EXTINF:-1 tvg-chno="80442" tvg-name="Planeta Fútbol 1" tvg-logo="None" group-title="Mexico" tvg-id="PLFUT1" tvc-guide-stationid="80442",Planeta Fútbol 1
+http://example.local/MEX-PLFUT1.ts
+#EXTINF:-1 tvg-chno="80466" tvg-name="Planeta Fútbol 1 HD" tvg-logo="None" group-title="Mexico" tvg-id="PLFUT1H" tvc-guide-stationid="80466",Planeta Fútbol 1 HD
+http://example.local/MEX-PLFUT1H.ts
 #EXTINF:-1 tvg-chno="54335" tvg-name="Playboy" tvg-logo="https://zap2it.tmsimg.com/assets/s54335_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="PLAYLA" tvc-guide-stationid="54335",Playboy
 http://example.local/MEX-PLAYLA.ts
 #EXTINF:-1 tvg-chno="70673" tvg-name="Playboy Latin America HD" tvg-logo="https://zap2it.tmsimg.com/assets/s70673_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="PLAYLHD" tvc-guide-stationid="70673",Playboy Latin America HD
 http://example.local/MEX-PLAYLHD.ts
 #EXTINF:-1 tvg-chno="16788" tvg-name="Playboy TV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16788_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="PLAYL" tvc-guide-stationid="16788",Playboy TV Latin America
 http://example.local/MEX-PLAYL.ts
+#EXTINF:-1 tvg-chno="37021" tvg-name="PPE BARKER" tvg-logo="None" group-title="Mexico" tvg-id="PPEBARK" tvc-guide-stationid="37021",PPE BARKER
+http://example.local/MEX-PPEBARK.ts
+#EXTINF:-1 tvg-chno="24102" tvg-name="PPE-1 Cablevision PPV" tvg-logo="None" group-title="Mexico" tvg-id="PPE1" tvc-guide-stationid="24102",PPE-1 Cablevision PPV
+http://example.local/MEX-PPE1.ts
 #EXTINF:-1 tvg-chno="107338" tvg-name="Presumiendo México Televisión" tvg-logo="https://zap2it.tmsimg.com/assets/s107338_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="PRESMX" tvc-guide-stationid="107338",Presumiendo México Televisión
 http://example.local/MEX-PRESMX.ts
 #EXTINF:-1 tvg-chno="72625" tvg-name="PX Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72625_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="PXSP" tvc-guide-stationid="72625",PX Sports
@@ -1115,6 +1175,8 @@ http://example.local/MEX-RAIIS.ts
 http://example.local/MEX-RAII.ts
 #EXTINF:-1 tvg-chno="109462" tvg-name="Rai Italia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="RAIIHD" tvc-guide-stationid="109462",Rai Italia HD
 http://example.local/MEX-RAIIHD.ts
+#EXTINF:-1 tvg-chno="46481" tvg-name="RCG Acuna Canal 36" tvg-logo="None" group-title="Mexico" tvg-id="RCG" tvc-guide-stationid="46481",RCG Acuna Canal 36
+http://example.local/MEX-RCG.ts
 #EXTINF:-1 tvg-chno="109784" tvg-name="Real Madrid TV" tvg-logo="https://zap2it.tmsimg.com/assets/s109784_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="RMAD" tvc-guide-stationid="109784",Real Madrid TV
 http://example.local/MEX-RMAD.ts
 #EXTINF:-1 tvg-chno="109786" tvg-name="Real Madrid TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s109784_h3_ba.png?w=360&h=270" group-title="Mexico" tvg-id="RMADH" tvc-guide-stationid="109786",Real Madrid TV HD
@@ -1127,6 +1189,8 @@ http://example.local/MEX-RGTIHD.ts
 http://example.local/MEX-ROCKALT.ts
 #EXTINF:-1 tvg-chno="138947" tvg-name="Romance Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s138947_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="RCL" tvc-guide-stationid="138947",Romance Channel
 http://example.local/MEX-RCL.ts
+#EXTINF:-1 tvg-chno="142035" tvg-name="Romance Channel SD" tvg-logo="None" group-title="Mexico" tvg-id="RCLSD" tvc-guide-stationid="142035",Romance Channel SD
+http://example.local/MEX-RCLSD.ts
 #EXTINF:-1 tvg-chno="69367" tvg-name="RT en español" tvg-logo="https://zap2it.tmsimg.com/assets/s69367_ll_h6_aa.png?w=360&h=270" group-title="Mexico" tvg-id="RTSPAN" tvc-guide-stationid="69367",RT en español
 http://example.local/MEX-RTSPAN.ts
 #EXTINF:-1 tvg-chno="72143" tvg-name="SeXtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s72143_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="SEXTRME" tvc-guide-stationid="72143",SeXtreme
@@ -1143,8 +1207,14 @@ http://example.local/MEX-SHORTS.ts
 http://example.local/MEX-SHWBUSI.ts
 #EXTINF:-1 tvg-chno="32207" tvg-name="Siraj TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32207_ll_h9_ab.png?w=360&h=270" group-title="Mexico" tvg-id="SIRAJTV" tvc-guide-stationid="32207",Siraj TV
 http://example.local/MEX-SIRAJTV.ts
+#EXTINF:-1 tvg-chno="47418" tvg-name="SKY Local News" tvg-logo="None" group-title="Mexico" tvg-id="SKYLN" tvc-guide-stationid="47418",SKY Local News
+http://example.local/MEX-SKYLN.ts
 #EXTINF:-1 tvg-chno="50367" tvg-name="SKY One Mexico" tvg-logo="https://zap2it.tmsimg.com/assets/s50367_ll_h9_aa.png?w=360&h=270" group-title="Mexico" tvg-id="SKYMEX" tvc-guide-stationid="50367",SKY One Mexico
 http://example.local/MEX-SKYMEX.ts
+#EXTINF:-1 tvg-chno="47421" tvg-name="Sky Portal Interactivo" tvg-logo="None" group-title="Mexico" tvg-id="SKYPOR" tvc-guide-stationid="47421",Sky Portal Interactivo
+http://example.local/MEX-SKYPOR.ts
+#EXTINF:-1 tvg-chno="47423" tvg-name="SKY Special Weekends" tvg-logo="None" group-title="Mexico" tvg-id="SKYWKND" tvc-guide-stationid="47423",SKY Special Weekends
+http://example.local/MEX-SKYWKND.ts
 #EXTINF:-1 tvg-chno="123608" tvg-name="Sony Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s124605_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="SONYML" tvc-guide-stationid="123608",Sony Movies
 http://example.local/MEX-SONYML.ts
 #EXTINF:-1 tvg-chno="123692" tvg-name="Sony Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s124605_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="SONYMS" tvc-guide-stationid="123692",Sony Movies
@@ -1437,12 +1507,16 @@ http://example.local/MEX-TUDNMH.ts
 http://example.local/MEX-TUDNC.ts
 #EXTINF:-1 tvg-chno="16046" tvg-name="TV Chile" tvg-logo="https://zap2it.tmsimg.com/assets/s16046_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="TVNI" tvc-guide-stationid="16046",TV Chile
 http://example.local/MEX-TVNI.ts
+#EXTINF:-1 tvg-chno="47558" tvg-name="TV Hidalgo" tvg-logo="None" group-title="Mexico" tvg-id="HIDALGO" tvc-guide-stationid="47558",TV Hidalgo
+http://example.local/MEX-HIDALGO.ts
 #EXTINF:-1 tvg-chno="28440" tvg-name="TV Mexiquense" tvg-logo="https://zap2it.tmsimg.com/assets/s28440_ll_h9_aa.png?w=360&h=270" group-title="Mexico" tvg-id="TXMEXI" tvc-guide-stationid="28440",TV Mexiquense
 http://example.local/MEX-TXMEXI.ts
 #EXTINF:-1 tvg-chno="92422" tvg-name="TV Mexiquense HD (TXMEXI)" tvg-logo="https://zap2it.tmsimg.com/assets/s28440_ll_h9_aa.png?w=360&h=270" group-title="Mexico" tvg-id="TXMEXHD" tvc-guide-stationid="92422",TV Mexiquense HD (TXMEXI)
 http://example.local/MEX-TXMEXHD.ts
 #EXTINF:-1 tvg-chno="186893" tvg-name="TV Migrante" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00248E43.png?w=360&h=270" group-title="Mexico" tvg-id="TVMIGRAS" tvc-guide-stationid="186893",TV Migrante
 http://example.local/MEX-TVMIGRAS.ts
+#EXTINF:-1 tvg-chno="47664" tvg-name="TV Tabasquena" tvg-logo="None" group-title="Mexico" tvg-id="TVT" tvc-guide-stationid="47664",TV Tabasquena
+http://example.local/MEX-TVT.ts
 #EXTINF:-1 tvg-chno="114312" tvg-name="TV UNAM" tvg-logo="https://zap2it.tmsimg.com/assets/s116169_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="UNAIZD2" tvc-guide-stationid="114312",TV UNAM
 http://example.local/MEX-UNAIZD2.ts
 #EXTINF:-1 tvg-chno="16422" tvg-name="TV5 Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16422_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="TV5L" tvc-guide-stationid="16422",TV5 Latin America
@@ -1555,6 +1629,10 @@ http://example.local/MEX-XEDKTDT.ts
 http://example.local/MEX-XEFB.ts
 #EXTINF:-1 tvg-chno="91729" tvg-name="XEFB-TDT" tvg-logo="https://zap2it.tmsimg.com/assets/s26130_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XEFBTDT" tvc-guide-stationid="91729",XEFB-TDT
 http://example.local/MEX-XEFBTDT.ts
+#EXTINF:-1 tvg-chno="12024" tvg-name="XEFE Canal 2 Nuevo Laredo" tvg-logo="None" group-title="Mexico" tvg-id="XEFE" tvc-guide-stationid="12024",XEFE Canal 2 Nuevo Laredo
+http://example.local/MEX-XEFE.ts
+#EXTINF:-1 tvg-chno="91608" tvg-name="XEFE-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XEFETDT" tvc-guide-stationid="91608",XEFE-TDT
+http://example.local/MEX-XEFETDT.ts
 #EXTINF:-1 tvg-chno="15232" tvg-name="XEIMT TV Metropolitan (Canal 22) (C22NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116168_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XEIMT" tvc-guide-stationid="15232",XEIMT TV Metropolitan (Canal 22) (C22NET)
 http://example.local/MEX-XEIMT.ts
 #EXTINF:-1 tvg-chno="102008" tvg-name="XEIMT-DT2 (SD Feed)" tvg-logo="https://zap2it.tmsimg.com/assets/s116168_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XEIMT2SD" tvc-guide-stationid="102008",XEIMT-DT2 (SD Feed)
@@ -1589,6 +1667,8 @@ http://example.local/MEX-XEWDT2A.ts
 http://example.local/MEX-XEW1.ts
 #EXTINF:-1 tvg-chno="70110" tvg-name="XEW2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XEW2HD" tvc-guide-stationid="70110",XEW2 HD
 http://example.local/MEX-XEW2HD.ts
+#EXTINF:-1 tvg-chno="47440" tvg-name="XEWH-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XEWHTDT" tvc-guide-stationid="47440",XEWH-TDT
+http://example.local/MEX-XEWHTDT.ts
 #EXTINF:-1 tvg-chno="91851" tvg-name="XEWO-TDT (NU9NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116171_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XEWOTDT" tvc-guide-stationid="91851",XEWO-TDT (NU9NET)
 http://example.local/MEX-XEWOTDT.ts
 #EXTINF:-1 tvg-chno="69701" tvg-name="XEWT-TDT" tvg-logo="https://zap2it.tmsimg.com/assets/s12028_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XEWTTDT" tvc-guide-stationid="69701",XEWT-TDT
@@ -1601,6 +1681,8 @@ http://example.local/MEX-XEZTDT.ts
 http://example.local/MEX-XHATDT.ts
 #EXTINF:-1 tvg-chno="60578" tvg-name="XHAB-TDT" tvg-logo="https://zap2it.tmsimg.com/assets/s26130_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHABTDT" tvc-guide-stationid="60578",XHAB-TDT
 http://example.local/MEX-XHABTDT.ts
+#EXTINF:-1 tvg-chno="109268" tvg-name="XHABC-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHABCTDT" tvc-guide-stationid="109268",XHABC-TDT
+http://example.local/MEX-XHABCTDT.ts
 #EXTINF:-1 tvg-chno="96595" tvg-name="XHACC-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHACCTDT" tvc-guide-stationid="96595",XHACC-TDT (AZ7NET)
 http://example.local/MEX-XHACCTDT.ts
 #EXTINF:-1 tvg-chno="96596" tvg-name="XHACZ-TDT (NU9NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116171_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHACZTDT" tvc-guide-stationid="96596",XHACZ-TDT (NU9NET)
@@ -1619,8 +1701,12 @@ http://example.local/MEX-XHAGUTDT.ts
 http://example.local/MEX-XHAHTDT.ts
 #EXTINF:-1 tvg-chno="96730" tvg-name="XHAJ-TDT (C5NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116152_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHAJTDT" tvc-guide-stationid="96730",XHAJ-TDT (C5NET)
 http://example.local/MEX-XHAJTDT.ts
+#EXTINF:-1 tvg-chno="36267" tvg-name="XHAK-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHAKTDT" tvc-guide-stationid="36267",XHAK-TDT
+http://example.local/MEX-XHAKTDT.ts
 #EXTINF:-1 tvg-chno="96605" tvg-name="XHAL-TDT (C5NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116152_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHALTDT" tvc-guide-stationid="96605",XHAL-TDT (C5NET)
 http://example.local/MEX-XHALTDT.ts
+#EXTINF:-1 tvg-chno="92093" tvg-name="XHAMO-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHAMOTDT" tvc-guide-stationid="92093",XHAMO-TDT
+http://example.local/MEX-XHAMOTDT.ts
 #EXTINF:-1 tvg-chno="36575" tvg-name="XHAN-TDT (C5NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116152_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHANTDT" tvc-guide-stationid="36575",XHAN-TDT (C5NET)
 http://example.local/MEX-XHANTDT.ts
 #EXTINF:-1 tvg-chno="96701" tvg-name="XHAO-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHAOTDT" tvc-guide-stationid="96701",XHAO-TDT (ESTRNET)
@@ -1659,12 +1745,16 @@ http://example.local/MEX-XHBCTDT.ts
 http://example.local/MEX-XHBDTDT.ts
 #EXTINF:-1 tvg-chno="96697" tvg-name="XHBE-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="XHBETDT" tvc-guide-stationid="96697",XHBE-TDT (AZ1NET)
 http://example.local/MEX-XHBETDT.ts
+#EXTINF:-1 tvg-chno="91828" tvg-name="XHBG-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHBGTDT" tvc-guide-stationid="91828",XHBG-TDT
+http://example.local/MEX-XHBGTDT.ts
 #EXTINF:-1 tvg-chno="91687" tvg-name="XHBJ-TDT (MULTVHD)" tvg-logo="https://zap2it.tmsimg.com/assets/s91505_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="XHBJTDT" tvc-guide-stationid="91687",XHBJ-TDT (MULTVHD)
 http://example.local/MEX-XHBJTDT.ts
 #EXTINF:-1 tvg-chno="96944" tvg-name="XHBK-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHBKTDT" tvc-guide-stationid="96944",XHBK-TDT (AZ7NET)
 http://example.local/MEX-XHBKTDT.ts
 #EXTINF:-1 tvg-chno="91673" tvg-name="XHBM-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHBMTDT" tvc-guide-stationid="91673",XHBM-TDT (ESTRNET)
 http://example.local/MEX-XHBMTDT.ts
+#EXTINF:-1 tvg-chno="36581" tvg-name="XHBO-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHBOTDT" tvc-guide-stationid="36581",XHBO-TDT
+http://example.local/MEX-XHBOTDT.ts
 #EXTINF:-1 tvg-chno="96778" tvg-name="XHBQ-TDT (C5NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116152_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHBQTDT" tvc-guide-stationid="96778",XHBQ-TDT (C5NET)
 http://example.local/MEX-XHBQTDT.ts
 #EXTINF:-1 tvg-chno="90278" tvg-name="XHBR-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHBRTDT" tvc-guide-stationid="90278",XHBR-TDT (ESTRNET)
@@ -1683,14 +1773,20 @@ http://example.local/MEX-XHBXTDT.ts
 http://example.local/MEX-XHBYTDT.ts
 #EXTINF:-1 tvg-chno="36586" tvg-name="XHBZ-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHBZTDT" tvc-guide-stationid="36586",XHBZ-TDT (ESTRNET)
 http://example.local/MEX-XHBZTDT.ts
+#EXTINF:-1 tvg-chno="48236" tvg-name="XHBZC-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHBZCTDT" tvc-guide-stationid="48236",XHBZC-TDT
+http://example.local/MEX-XHBZCTDT.ts
 #EXTINF:-1 tvg-chno="96621" tvg-name="XHCAM-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHCAMTDT" tvc-guide-stationid="96621",XHCAM-TDT (AZ7NET)
 http://example.local/MEX-XHCAMTDT.ts
+#EXTINF:-1 tvg-chno="96942" tvg-name="XHCAN-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHCANTDT" tvc-guide-stationid="96942",XHCAN-TDT
+http://example.local/MEX-XHCANTDT.ts
 #EXTINF:-1 tvg-chno="36645" tvg-name="XHCAW 58 (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHCAW" tvc-guide-stationid="36645",XHCAW 58 (ESTRNET)
 http://example.local/MEX-XHCAW.ts
 #EXTINF:-1 tvg-chno="91829" tvg-name="XHCBM-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHCBMTDT" tvc-guide-stationid="91829",XHCBM-TDT (AZ1NET)
 http://example.local/MEX-XHCBMTDT.ts
 #EXTINF:-1 tvg-chno="16477" tvg-name="XHCC-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_h3_ba.png?w=360&h=270" group-title="Mexico" tvg-id="XHCCTDT" tvc-guide-stationid="16477",XHCC-TDT (ESTRNET)
 http://example.local/MEX-XHCCTDT.ts
+#EXTINF:-1 tvg-chno="48187" tvg-name="XHCCA-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHCCATDT" tvc-guide-stationid="48187",XHCCA-TDT
+http://example.local/MEX-XHCCATDT.ts
 #EXTINF:-1 tvg-chno="96566" tvg-name="XHCCB-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHCCBTDT" tvc-guide-stationid="96566",XHCCB-TDT (AZ7NET)
 http://example.local/MEX-XHCCBTDT.ts
 #EXTINF:-1 tvg-chno="91820" tvg-name="XHCCG-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHCCGTDT" tvc-guide-stationid="91820",XHCCG-TDT (AZ7NET)
@@ -1745,10 +1841,14 @@ http://example.local/MEX-XHCJHTDT2.ts
 http://example.local/MEX-XHCKTDT.ts
 #EXTINF:-1 tvg-chno="36704" tvg-name="XHCKW-TDT (NU9NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116171_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHCKWTDT" tvc-guide-stationid="36704",XHCKW-TDT (NU9NET)
 http://example.local/MEX-XHCKWTDT.ts
+#EXTINF:-1 tvg-chno="91819" tvg-name="XHCL-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHCLTDT" tvc-guide-stationid="91819",XHCL-TDT
+http://example.local/MEX-XHCLTDT.ts
 #EXTINF:-1 tvg-chno="91733" tvg-name="XHCLP-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHCLPTDT" tvc-guide-stationid="91733",XHCLP-TDT (AZ7NET)
 http://example.local/MEX-XHCLPTDT.ts
 #EXTINF:-1 tvg-chno="96731" tvg-name="XHCLV-TDT (NU9NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116171_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHCLVTDT" tvc-guide-stationid="96731",XHCLV-TDT (NU9NET)
 http://example.local/MEX-XHCLVTDT.ts
+#EXTINF:-1 tvg-chno="91700" tvg-name="XHCMO-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHCMOTDT" tvc-guide-stationid="91700",XHCMO-TDT
+http://example.local/MEX-XHCMOTDT.ts
 #EXTINF:-1 tvg-chno="91703" tvg-name="XHCNL-TDT" tvg-logo="https://zap2it.tmsimg.com/assets/s26130_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHCNLTDT" tvc-guide-stationid="91703",XHCNL-TDT
 http://example.local/MEX-XHCNLTDT.ts
 #EXTINF:-1 tvg-chno="96575" tvg-name="XHCOC-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHCOCTDT" tvc-guide-stationid="96575",XHCOC-TDT (AZ1NET)
@@ -1799,6 +1899,8 @@ http://example.local/MEX-XHCTMYTDT.ts
 http://example.local/MEX-XHCTMZTDT.ts
 #EXTINF:-1 tvg-chno="110575" tvg-name="XHCTNL-TDT (IMAGTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s101096_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHCTNLTDT" tvc-guide-stationid="110575",XHCTNL-TDT (IMAGTV)
 http://example.local/MEX-XHCTNLTDT.ts
+#EXTINF:-1 tvg-chno="118085" tvg-name="XHCTNL-TDT4" tvg-logo="None" group-title="Mexico" tvg-id="XHCTNLTDT4" tvc-guide-stationid="118085",XHCTNL-TDT4
+http://example.local/MEX-XHCTNLTDT4.ts
 #EXTINF:-1 tvg-chno="108118" tvg-name="XHCTRM-TDT (IMAGTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s101096_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHCTRMTDT" tvc-guide-stationid="108118",XHCTRM-TDT (IMAGTV)
 http://example.local/MEX-XHCTRMTDT.ts
 #EXTINF:-1 tvg-chno="108119" tvg-name="XHCTRM-TDT4 (IMAGTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s101096_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHCTRMTDT4" tvc-guide-stationid="108119",XHCTRM-TDT4 (IMAGTV)
@@ -1863,6 +1965,8 @@ http://example.local/MEX-XHDTVTDT.ts
 http://example.local/MEX-XHDUTDT.ts
 #EXTINF:-1 tvg-chno="96580" tvg-name="XHDUH-TDT (NU9NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116171_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHDUHTDT" tvc-guide-stationid="96580",XHDUH-TDT (NU9NET)
 http://example.local/MEX-XHDUHTDT.ts
+#EXTINF:-1 tvg-chno="96703" tvg-name="XHDY-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHDYTDT" tvc-guide-stationid="96703",XHDY-TDT
+http://example.local/MEX-XHDYTDT.ts
 #EXTINF:-1 tvg-chno="96699" tvg-name="XHDZ-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHDZTDT" tvc-guide-stationid="96699",XHDZ-TDT (AZ1NET)
 http://example.local/MEX-XHDZTDT.ts
 #EXTINF:-1 tvg-chno="36722" tvg-name="XHEBC-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHEBCTDT" tvc-guide-stationid="36722",XHEBC-TDT (ESTRNET)
@@ -1883,6 +1987,8 @@ http://example.local/MEX-XHEXTTDT.ts
 http://example.local/MEX-XHEXTTDT2.ts
 #EXTINF:-1 tvg-chno="96608" tvg-name="XHFA-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="XHFATDT" tvc-guide-stationid="96608",XHFA-TDT (AZ1NET)
 http://example.local/MEX-XHFATDT.ts
+#EXTINF:-1 tvg-chno="48357" tvg-name="XHFCQ-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHFCQTDT" tvc-guide-stationid="48357",XHFCQ-TDT
+http://example.local/MEX-XHFCQTDT.ts
 #EXTINF:-1 tvg-chno="91686" tvg-name="XHFEC-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHFECTDT" tvc-guide-stationid="91686",XHFEC-TDT (AZ1NET)
 http://example.local/MEX-XHFECTDT.ts
 #EXTINF:-1 tvg-chno="91623" tvg-name="XHFET-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHFETTDT" tvc-guide-stationid="91623",XHFET-TDT (AZ1NET)
@@ -2001,6 +2107,8 @@ http://example.local/MEX-XHIRTDT.ts
 http://example.local/MEX-XHITTDT.ts
 #EXTINF:-1 tvg-chno="96779" tvg-name="XHIV-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHIVTDT" tvc-guide-stationid="96779",XHIV-TDT (AZ7NET)
 http://example.local/MEX-XHIVTDT.ts
+#EXTINF:-1 tvg-chno="48257" tvg-name="XHIXM-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHIXMTDT" tvc-guide-stationid="48257",XHIXM-TDT
+http://example.local/MEX-XHIXMTDT.ts
 #EXTINF:-1 tvg-chno="96648" tvg-name="XHIXZ-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="XHIXZTDT" tvc-guide-stationid="96648",XHIXZ-TDT (AZ1NET)
 http://example.local/MEX-XHIXZTDT.ts
 #EXTINF:-1 tvg-chno="91866" tvg-name="XHJAL-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="XHJALTDT" tvc-guide-stationid="91866",XHJAL-TDT (AZ1NET)
@@ -2013,6 +2121,8 @@ http://example.local/MEX-XHJCCTDT.ts
 http://example.local/MEX-XHJCHTDT.ts
 #EXTINF:-1 tvg-chno="67403" tvg-name="XHJCI-TDT" tvg-logo="https://zap2it.tmsimg.com/assets/s26130_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHJCITDT" tvc-guide-stationid="67403",XHJCI-TDT
 http://example.local/MEX-XHJCITDT.ts
+#EXTINF:-1 tvg-chno="93253" tvg-name="XHJCI-TDT2" tvg-logo="None" group-title="Mexico" tvg-id="XHJCITDT2" tvc-guide-stationid="93253",XHJCI-TDT2
+http://example.local/MEX-XHJCITDT2.ts
 #EXTINF:-1 tvg-chno="91658" tvg-name="XHJCM-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="XHJCMTDT" tvc-guide-stationid="91658",XHJCM-TDT (AZ1NET)
 http://example.local/MEX-XHJCMTDT.ts
 #EXTINF:-1 tvg-chno="68084" tvg-name="XHJK-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="XHJKTDT" tvc-guide-stationid="68084",XHJK-TDT (AZ1NET)
@@ -2033,10 +2143,14 @@ http://example.local/MEX-XHKCTDT.ts
 http://example.local/MEX-XHKDTDT.ts
 #EXTINF:-1 tvg-chno="91761" tvg-name="XHKF-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="XHKFTDT" tvc-guide-stationid="91761",XHKF-TDT (AZ1NET)
 http://example.local/MEX-XHKFTDT.ts
+#EXTINF:-1 tvg-chno="42606" tvg-name="XHKG-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHKGTDT" tvc-guide-stationid="42606",XHKG-TDT
+http://example.local/MEX-XHKGTDT.ts
 #EXTINF:-1 tvg-chno="91835" tvg-name="XHKW-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHKWTDT" tvc-guide-stationid="91835",XHKW-TDT (ESTRNET)
 http://example.local/MEX-XHKWTDT.ts
 #EXTINF:-1 tvg-chno="96773" tvg-name="XHKYU-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHKYUTDT" tvc-guide-stationid="96773",XHKYU-TDT (AZ1NET)
 http://example.local/MEX-XHKYUTDT.ts
+#EXTINF:-1 tvg-chno="91822" tvg-name="XHL-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHLTDT" tvc-guide-stationid="91822",XHL-TDT
+http://example.local/MEX-XHLTDT.ts
 #EXTINF:-1 tvg-chno="91622" tvg-name="XHLAR-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHLARTDT" tvc-guide-stationid="91622",XHLAR-TDT (ESTRNET)
 http://example.local/MEX-XHLARTDT.ts
 #EXTINF:-1 tvg-chno="79545" tvg-name="XHLAT-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHLATTDT" tvc-guide-stationid="79545",XHLAT-TDT (AZ7NET)
@@ -2047,6 +2161,8 @@ http://example.local/MEX-XHLATTDT2.ts
 http://example.local/MEX-XHLBNTDT.ts
 #EXTINF:-1 tvg-chno="96663" tvg-name="XHLCM-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="XHLCMTDT" tvc-guide-stationid="96663",XHLCM-TDT (AZ1NET)
 http://example.local/MEX-XHLCMTDT.ts
+#EXTINF:-1 tvg-chno="91818" tvg-name="XHLEG-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHLEGTDT" tvc-guide-stationid="91818",XHLEG-TDT
+http://example.local/MEX-XHLEGTDT.ts
 #EXTINF:-1 tvg-chno="91823" tvg-name="XHLEJ-TDT (C5NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116152_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHLEJTDT" tvc-guide-stationid="91823",XHLEJ-TDT (C5NET)
 http://example.local/MEX-XHLEJTDT.ts
 #EXTINF:-1 tvg-chno="91659" tvg-name="XHLGA-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHLGATDT" tvc-guide-stationid="91659",XHLGA-TDT (AZ7NET)
@@ -2085,16 +2201,24 @@ http://example.local/MEX-XHMCHTDT.ts
 http://example.local/MEX-XHMEETDT.ts
 #EXTINF:-1 tvg-chno="96759" tvg-name="XHMEN-TDT (C5NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116152_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHMENTDT" tvc-guide-stationid="96759",XHMEN-TDT (C5NET)
 http://example.local/MEX-XHMENTDT.ts
+#EXTINF:-1 tvg-chno="48424" tvg-name="XHMET-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHMETTDT" tvc-guide-stationid="48424",XHMET-TDT
+http://example.local/MEX-XHMETTDT.ts
 #EXTINF:-1 tvg-chno="91685" tvg-name="XHMEX-TDT (C5NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116152_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHMEXTDT" tvc-guide-stationid="91685",XHMEX-TDT (C5NET)
 http://example.local/MEX-XHMEXTDT.ts
 #EXTINF:-1 tvg-chno="96760" tvg-name="XHMEY-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHMEYTDT" tvc-guide-stationid="96760",XHMEY-TDT (AZ7NET)
 http://example.local/MEX-XHMEYTDT.ts
+#EXTINF:-1 tvg-chno="48248" tvg-name="XHMH" tvg-logo="None" group-title="Mexico" tvg-id="XHMH" tvc-guide-stationid="48248",XHMH
+http://example.local/MEX-XHMH.ts
 #EXTINF:-1 tvg-chno="96848" tvg-name="XHMIS-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHMISTDT" tvc-guide-stationid="96848",XHMIS-TDT (AZ7NET)
 http://example.local/MEX-XHMISTDT.ts
 #EXTINF:-1 tvg-chno="96737" tvg-name="XHMLA-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHMLATDT" tvc-guide-stationid="96737",XHMLA-TDT (AZ7NET)
 http://example.local/MEX-XHMLATDT.ts
 #EXTINF:-1 tvg-chno="91741" tvg-name="XHMNL-TDT" tvg-logo="https://zap2it.tmsimg.com/assets/s116228_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="XHMNLTDT" tvc-guide-stationid="91741",XHMNL-TDT
 http://example.local/MEX-XHMNLTDT.ts
+#EXTINF:-1 tvg-chno="91742" tvg-name="XHMNU-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHMNUTDT" tvc-guide-stationid="91742",XHMNU-TDT
+http://example.local/MEX-XHMNUTDT.ts
+#EXTINF:-1 tvg-chno="48116" tvg-name="XHMOR-TDT (TELEMCH)" tvg-logo="None" group-title="Mexico" tvg-id="XHMORTDT" tvc-guide-stationid="48116",XHMOR-TDT (TELEMCH)
+http://example.local/MEX-XHMORTDT.ts
 #EXTINF:-1 tvg-chno="91834" tvg-name="XHMOW-TDT (C5NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116152_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHMOWTDT" tvc-guide-stationid="91834",XHMOW-TDT (C5NET)
 http://example.local/MEX-XHMOWTDT.ts
 #EXTINF:-1 tvg-chno="91749" tvg-name="XHMOY-TDT (NU9NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116171_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHMOYTDT" tvc-guide-stationid="91749",XHMOY-TDT (NU9NET)
@@ -2115,12 +2239,16 @@ http://example.local/MEX-XHNATTDT3.ts
 http://example.local/MEX-XHNATTDT4.ts
 #EXTINF:-1 tvg-chno="91774" tvg-name="XHNCI-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHNCITDT" tvc-guide-stationid="91774",XHNCI-TDT (AZ7NET)
 http://example.local/MEX-XHNCITDT.ts
+#EXTINF:-1 tvg-chno="96824" tvg-name="XHND-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHNDTDT" tvc-guide-stationid="96824",XHND-TDT
+http://example.local/MEX-XHNDTDT.ts
 #EXTINF:-1 tvg-chno="44332" tvg-name="XHNOA Canal 22 (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHNOA" tvc-guide-stationid="44332",XHNOA Canal 22 (AZ7NET)
 http://example.local/MEX-XHNOA.ts
 #EXTINF:-1 tvg-chno="96609" tvg-name="XHNOA-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHNOATDT" tvc-guide-stationid="96609",XHNOA-TDT (AZ7NET)
 http://example.local/MEX-XHNOATDT.ts
 #EXTINF:-1 tvg-chno="109964" tvg-name="XHNON-TDT (C5NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116152_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHNONTDT" tvc-guide-stationid="109964",XHNON-TDT (C5NET)
 http://example.local/MEX-XHNONTDT.ts
+#EXTINF:-1 tvg-chno="96610" tvg-name="XHNSS-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHNSSTDT" tvc-guide-stationid="96610",XHNSS-TDT
+http://example.local/MEX-XHNSSTDT.ts
 #EXTINF:-1 tvg-chno="91737" tvg-name="XHO-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHOTDT" tvc-guide-stationid="91737",XHO-TDT (ESTRNET)
 http://example.local/MEX-XHOTDT.ts
 #EXTINF:-1 tvg-chno="91738" tvg-name="XHOAH-TDT (MULTVHD)" tvg-logo="https://zap2it.tmsimg.com/assets/s91505_h3_ba.png?w=360&h=270" group-title="Mexico" tvg-id="XHOAHTDT" tvc-guide-stationid="91738",XHOAH-TDT (MULTVHD)
@@ -2141,6 +2269,8 @@ http://example.local/MEX-XHOXXTDT.ts
 http://example.local/MEX-XHP.ts
 #EXTINF:-1 tvg-chno="91868" tvg-name="XHP-TDT (TXMEXI)" tvg-logo="https://zap2it.tmsimg.com/assets/s28440_ll_h9_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHPTDT" tvc-guide-stationid="91868",XHP-TDT (TXMEXI)
 http://example.local/MEX-XHPTDT.ts
+#EXTINF:-1 tvg-chno="47672" tvg-name="XHPAH-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHPAHTDT" tvc-guide-stationid="47672",XHPAH-TDT
+http://example.local/MEX-XHPAHTDT.ts
 #EXTINF:-1 tvg-chno="96594" tvg-name="XHPAP-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHPAPTDT" tvc-guide-stationid="96594",XHPAP-TDT (AZ1NET)
 http://example.local/MEX-XHPAPTDT.ts
 #EXTINF:-1 tvg-chno="96581" tvg-name="XHPBC-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHPBCTDT" tvc-guide-stationid="96581",XHPBC-TDT (AZ7NET)
@@ -2169,6 +2299,8 @@ http://example.local/MEX-XHPSOTDT.ts
 http://example.local/MEX-XHPTPTDT.ts
 #EXTINF:-1 tvg-chno="120549" tvg-name="XHPTP-TDT2 (TXMEXI)" tvg-logo="https://zap2it.tmsimg.com/assets/s28440_ll_h9_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHPTPTDT2" tvc-guide-stationid="120549",XHPTP-TDT2 (TXMEXI)
 http://example.local/MEX-XHPTPTDT2.ts
+#EXTINF:-1 tvg-chno="36650" tvg-name="XHPUE 26" tvg-logo="None" group-title="Mexico" tvg-id="XHPUE" tvc-guide-stationid="36650",XHPUE 26
+http://example.local/MEX-XHPUE.ts
 #EXTINF:-1 tvg-chno="91826" tvg-name="XHPUR-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="XHPURTDT" tvc-guide-stationid="91826",XHPUR-TDT (AZ1NET)
 http://example.local/MEX-XHPURTDT.ts
 #EXTINF:-1 tvg-chno="96783" tvg-name="XHPVC-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="XHPVCTDT" tvc-guide-stationid="96783",XHPVC-TDT (AZ1NET)
@@ -2181,6 +2313,8 @@ http://example.local/MEX-XHQTDT.ts
 http://example.local/MEX-XHQCZ.ts
 #EXTINF:-1 tvg-chno="91750" tvg-name="XHQCZ-TDT (NU9NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116171_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHQCZTDT" tvc-guide-stationid="91750",XHQCZ-TDT (NU9NET)
 http://example.local/MEX-XHQCZTDT.ts
+#EXTINF:-1 tvg-chno="131267" tvg-name="XHQMGU-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHQMGUTDT" tvc-guide-stationid="131267",XHQMGU-TDT
+http://example.local/MEX-XHQMGUTDT.ts
 #EXTINF:-1 tvg-chno="96747" tvg-name="XHQRO-TDT (C5NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116152_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHQROTDT" tvc-guide-stationid="96747",XHQRO-TDT (C5NET)
 http://example.local/MEX-XHQROTDT.ts
 #EXTINF:-1 tvg-chno="91661" tvg-name="XHQUE-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHQUETDT" tvc-guide-stationid="91661",XHQUE-TDT (AZ7NET)
@@ -2201,6 +2335,10 @@ http://example.local/MEX-XHRCSTDT.ts
 http://example.local/MEX-XHREYTDT.ts
 #EXTINF:-1 tvg-chno="102813" tvg-name="XHREY-TDT2 (ADN40)" tvg-logo="https://zap2it.tmsimg.com/assets/s15384_h3_ba.png?w=360&h=270" group-title="Mexico" tvg-id="XHREYTDT2" tvc-guide-stationid="102813",XHREY-TDT2 (ADN40)
 http://example.local/MEX-XHREYTDT2.ts
+#EXTINF:-1 tvg-chno="16459" tvg-name="XHS-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHSTDT" tvc-guide-stationid="16459",XHS-TDT
+http://example.local/MEX-XHSTDT.ts
+#EXTINF:-1 tvg-chno="91752" tvg-name="XHSAW-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHSAWTDT" tvc-guide-stationid="91752",XHSAW-TDT
+http://example.local/MEX-XHSAWTDT.ts
 #EXTINF:-1 tvg-chno="96704" tvg-name="XHSCC-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHSCCTDT" tvc-guide-stationid="96704",XHSCC-TDT (ESTRNET)
 http://example.local/MEX-XHSCCTDT.ts
 #EXTINF:-1 tvg-chno="48042" tvg-name="XHSCE (C11NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116166_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHSCE" tvc-guide-stationid="48042",XHSCE (C11NET)
@@ -2215,6 +2353,8 @@ http://example.local/MEX-XHSJCTDT.ts
 http://example.local/MEX-XHSLATDT.ts
 #EXTINF:-1 tvg-chno="91748" tvg-name="XHSLP-TDT (C11NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116166_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHSLPTDT" tvc-guide-stationid="91748",XHSLP-TDT (C11NET)
 http://example.local/MEX-XHSLPTDT.ts
+#EXTINF:-1 tvg-chno="91716" tvg-name="XHSLS-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHSLSTDT" tvc-guide-stationid="91716",XHSLS-TDT
+http://example.local/MEX-XHSLSTDT.ts
 #EXTINF:-1 tvg-chno="91715" tvg-name="XHSLT-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHSLTTDT" tvc-guide-stationid="91715",XHSLT-TDT (ESTRNET)
 http://example.local/MEX-XHSLTTDT.ts
 #EXTINF:-1 tvg-chno="91714" tvg-name="XHSLV-TDT (NU9NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116171_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHSLVTDT" tvc-guide-stationid="91714",XHSLV-TDT (NU9NET)
@@ -2231,12 +2371,16 @@ http://example.local/MEX-XHSPCTDT.ts
 http://example.local/MEX-XHSPRTDT.ts
 #EXTINF:-1 tvg-chno="101606" tvg-name="XHSPR-TDT2 (TVUNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116169_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHSPRTDT2" tvc-guide-stationid="101606",XHSPR-TDT2 (TVUNET)
 http://example.local/MEX-XHSPRTDT2.ts
+#EXTINF:-1 tvg-chno="131255" tvg-name="XHSPRCC-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHSPRCCTDT" tvc-guide-stationid="131255",XHSPRCC-TDT
+http://example.local/MEX-XHSPRCCTDT.ts
 #EXTINF:-1 tvg-chno="120889" tvg-name="XHSPRM-TDT2 (TVUNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116169_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHSPRMTDT2" tvc-guide-stationid="120889",XHSPRM-TDT2 (TVUNET)
 http://example.local/MEX-XHSPRMTDT2.ts
 #EXTINF:-1 tvg-chno="120888" tvg-name="XHSPRMT-TDT (C14MX)" tvg-logo="https://zap2it.tmsimg.com/assets/s90518_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHSPRMTTDT" tvc-guide-stationid="120888",XHSPRMT-TDT (C14MX)
 http://example.local/MEX-XHSPRMTTDT.ts
 #EXTINF:-1 tvg-chno="131260" tvg-name="XHSPROS-TDT4 (APRENMAS)" tvg-logo="https://zap2it.tmsimg.com/assets/s87915_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="XHSPROSTD4" tvc-guide-stationid="131260",XHSPROS-TDT4 (APRENMAS)
 http://example.local/MEX-XHSPROSTD4.ts
+#EXTINF:-1 tvg-chno="47537" tvg-name="XHSTA-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHSTATDT" tvc-guide-stationid="47537",XHSTA-TDT
+http://example.local/MEX-XHSTATDT.ts
 #EXTINF:-1 tvg-chno="96763" tvg-name="XHSTC-TDT (NU9NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116171_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHSTCTDT" tvc-guide-stationid="96763",XHSTC-TDT (NU9NET)
 http://example.local/MEX-XHSTCTDT.ts
 #EXTINF:-1 tvg-chno="96756" tvg-name="XHSTE-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHSTETDT" tvc-guide-stationid="96756",XHSTE-TDT (AZ7NET)
@@ -2263,6 +2407,8 @@ http://example.local/MEX-XHTDMXTDT.ts
 http://example.local/MEX-XHTDMXT.ts
 #EXTINF:-1 tvg-chno="109855" tvg-name="XHTDMX-TDT2 (MILENIO)" tvg-logo="https://zap2it.tmsimg.com/assets/s61719_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHTDMXTDT2" tvc-guide-stationid="109855",XHTDMX-TDT2 (MILENIO)
 http://example.local/MEX-XHTDMXTDT2.ts
+#EXTINF:-1 tvg-chno="109856" tvg-name="XHTDMX-TDT3" tvg-logo="None" group-title="Mexico" tvg-id="XHTDMXTDT3" tvc-guide-stationid="109856",XHTDMX-TDT3
+http://example.local/MEX-XHTDMXTDT3.ts
 #EXTINF:-1 tvg-chno="91783" tvg-name="XHTEM-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHTEMTDT" tvc-guide-stationid="91783",XHTEM-TDT (AZ7NET)
 http://example.local/MEX-XHTEMTDT.ts
 #EXTINF:-1 tvg-chno="96680" tvg-name="XHTEN-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHTENTDT" tvc-guide-stationid="96680",XHTEN-TDT (ESTRNET)
@@ -2283,10 +2429,18 @@ http://example.local/MEX-XHTITTDT2.ts
 http://example.local/MEX-XHTJBTDT.ts
 #EXTINF:-1 tvg-chno="96636" tvg-name="XHTK-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHTKTDT" tvc-guide-stationid="96636",XHTK-TDT (ESTRNET)
 http://example.local/MEX-XHTKTDT.ts
+#EXTINF:-1 tvg-chno="48439" tvg-name="XHTLX-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHTLXTDT" tvc-guide-stationid="48439",XHTLX-TDT
+http://example.local/MEX-XHTLXTDT.ts
 #EXTINF:-1 tvg-chno="91862" tvg-name="XHTM-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHTMTDT" tvc-guide-stationid="91862",XHTM-TDT (ESTRNET)
 http://example.local/MEX-XHTMTDT.ts
+#EXTINF:-1 tvg-chno="117196" tvg-name="XHTMCH-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHTMCHTDT" tvc-guide-stationid="117196",XHTMCH-TDT
+http://example.local/MEX-XHTMCHTDT.ts
 #EXTINF:-1 tvg-chno="91740" tvg-name="XHTOB-TDT (NU9NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116171_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHTOBTDT" tvc-guide-stationid="91740",XHTOB-TDT (NU9NET)
 http://example.local/MEX-XHTOBTDT.ts
+#EXTINF:-1 tvg-chno="96612" tvg-name="XHTOE-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHTOETDT" tvc-guide-stationid="96612",XHTOE-TDT
+http://example.local/MEX-XHTOETDT.ts
+#EXTINF:-1 tvg-chno="48261" tvg-name="XHTOH-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHTOHTDT" tvc-guide-stationid="48261",XHTOH-TDT
+http://example.local/MEX-XHTOHTDT.ts
 #EXTINF:-1 tvg-chno="91858" tvg-name="XHTOK-TDT (C5NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116152_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHTOKTDT" tvc-guide-stationid="91858",XHTOK-TDT (C5NET)
 http://example.local/MEX-XHTOKTDT.ts
 #EXTINF:-1 tvg-chno="91840" tvg-name="XHTOL-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHTOLTDT" tvc-guide-stationid="91840",XHTOL-TDT (ESTRNET)
@@ -2295,6 +2449,8 @@ http://example.local/MEX-XHTOLTDT.ts
 http://example.local/MEX-XHTONTDT.ts
 #EXTINF:-1 tvg-chno="96761" tvg-name="XHTP-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHTPTDT" tvc-guide-stationid="96761",XHTP-TDT (ESTRNET)
 http://example.local/MEX-XHTPTDT.ts
+#EXTINF:-1 tvg-chno="48134" tvg-name="XHTPG-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHTPGTDT" tvc-guide-stationid="48134",XHTPG-TDT
+http://example.local/MEX-XHTPGTDT.ts
 #EXTINF:-1 tvg-chno="36822" tvg-name="XHTPZ 24 (NU9NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116171_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHTPZ" tvc-guide-stationid="36822",XHTPZ 24 (NU9NET)
 http://example.local/MEX-XHTPZ.ts
 #EXTINF:-1 tvg-chno="96694" tvg-name="XHTPZ-TDT (NU9NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116171_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHTPZTDT" tvc-guide-stationid="96694",XHTPZ-TDT (NU9NET)
@@ -2327,6 +2483,8 @@ http://example.local/MEX-XHUNAM.ts
 http://example.local/MEX-XHUNAMTDT.ts
 #EXTINF:-1 tvg-chno="91702" tvg-name="XHURT-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHURTTDT" tvc-guide-stationid="91702",XHURT-TDT (ESTRNET)
 http://example.local/MEX-XHURTTDT.ts
+#EXTINF:-1 tvg-chno="96345" tvg-name="XHUS-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHUSTDT" tvc-guide-stationid="96345",XHUS-TDT
+http://example.local/MEX-XHUSTDT.ts
 #EXTINF:-1 tvg-chno="96774" tvg-name="XHVAD-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHVADTDT" tvc-guide-stationid="96774",XHVAD-TDT (AZ7NET)
 http://example.local/MEX-XHVADTDT.ts
 #EXTINF:-1 tvg-chno="91792" tvg-name="XHVEL-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="XHVELTDT" tvc-guide-stationid="91792",XHVEL-TDT (AZ1NET)
@@ -2341,6 +2499,8 @@ http://example.local/MEX-XHVIHTDT.ts
 http://example.local/MEX-XHVIZTDT.ts
 #EXTINF:-1 tvg-chno="119203" tvg-name="XHVIZ-TDT3 (NU9NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116171_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHVIZTDT3" tvc-guide-stationid="119203",XHVIZ-TDT3 (NU9NET)
 http://example.local/MEX-XHVIZTDT3.ts
+#EXTINF:-1 tvg-chno="91732" tvg-name="XHVSL-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHVSLTDT" tvc-guide-stationid="91732",XHVSL-TDT
+http://example.local/MEX-XHVSLTDT.ts
 #EXTINF:-1 tvg-chno="96638" tvg-name="XHVTU-TDT (MULTVHD)" tvg-logo="https://zap2it.tmsimg.com/assets/s91505_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="XHVTUTDT" tvc-guide-stationid="96638",XHVTU-TDT (MULTVHD)
 http://example.local/MEX-XHVTUTDT.ts
 #EXTINF:-1 tvg-chno="114030" tvg-name="XHVTV-TDT (MULTVHD)" tvg-logo="https://zap2it.tmsimg.com/assets/s91505_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="XHVTVTDT" tvc-guide-stationid="114030",XHVTV-TDT (MULTVHD)
@@ -2359,6 +2519,8 @@ http://example.local/MEX-XHWXTDT.ts
 http://example.local/MEX-XHXTDT.ts
 #EXTINF:-1 tvg-chno="91839" tvg-name="XHXEM-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHXEMTDT" tvc-guide-stationid="91839",XHXEM-TDT (AZ1NET)
 http://example.local/MEX-XHXEMTDT.ts
+#EXTINF:-1 tvg-chno="96762" tvg-name="XHY-TDT" tvg-logo="None" group-title="Mexico" tvg-id="XHYTDT" tvc-guide-stationid="96762",XHY-TDT
+http://example.local/MEX-XHYTDT.ts
 #EXTINF:-1 tvg-chno="91663" tvg-name="XHZ-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png?w=360&h=270" group-title="Mexico" tvg-id="XHZTDT" tvc-guide-stationid="91663",XHZ-TDT (ESTRNET)
 http://example.local/MEX-XHZTDT.ts
 #EXTINF:-1 tvg-chno="91705" tvg-name="XHZAM-TDT (C5NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116152_ll_h15_aa.png?w=360&h=270" group-title="Mexico" tvg-id="XHZAMTDT" tvc-guide-stationid="91705",XHZAM-TDT (C5NET)

@@ -23,6 +23,8 @@ http://example.local/GRD-APL.ts
 http://example.local/GRD-ANT3I.ts
 #EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png?w=360&h=270" group-title="Grenada" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
 http://example.local/GRD-ATRESSD.ts
+#EXTINF:-1 tvg-chno="42386" tvg-name="AUDIO AEI LA EL MOCAMBO" tvg-logo="None" group-title="Grenada" tvg-id="MOCBO" tvc-guide-stationid="42386",AUDIO AEI LA EL MOCAMBO
+http://example.local/GRD-MOCBO.ts
 #EXTINF:-1 tvg-chno="41084" tvg-name="AUDIO DLA BALADAS EN ESP" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Grenada" tvg-id="BALADA" tvc-guide-stationid="41084",AUDIO DLA BALADAS EN ESP
 http://example.local/GRD-BALADA.ts
 #EXTINF:-1 tvg-chno="37862" tvg-name="AUDIO DLA BLUES" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Grenada" tvg-id="BLUESDL" tvc-guide-stationid="37862",AUDIO DLA BLUES
@@ -129,6 +131,10 @@ http://example.local/GRD-BRAVO.ts
 http://example.local/GRD-CNN.ts
 #EXTINF:-1 tvg-chno="80063" tvg-name="Cala Classics" tvg-logo="https://zap2it.tmsimg.com/assets/s80063_ll_h15_aa.png?w=360&h=270" group-title="Grenada" tvg-id="CLCSC" tvc-guide-stationid="80063",Cala Classics
 http://example.local/GRD-CLCSC.ts
+#EXTINF:-1 tvg-chno="98191" tvg-name="CALA Westerns" tvg-logo="None" group-title="Grenada" tvg-id="CALAWST" tvc-guide-stationid="98191",CALA Westerns
+http://example.local/GRD-CALAWST.ts
+#EXTINF:-1 tvg-chno="109825" tvg-name="CalaAction" tvg-logo="None" group-title="Grenada" tvg-id="CALAACT" tvc-guide-stationid="109825",CalaAction
+http://example.local/GRD-CALAACT.ts
 #EXTINF:-1 tvg-chno="79913" tvg-name="CalaWeather" tvg-logo="https://zap2it.tmsimg.com/assets/s79913_ll_h15_aa.png?w=360&h=270" group-title="Grenada" tvg-id="CLWTR" tvc-guide-stationid="79913",CalaWeather
 http://example.local/GRD-CLWTR.ts
 #EXTINF:-1 tvg-chno="20742" tvg-name="Canal 24 Horas HD" tvg-logo="https://zap2it.tmsimg.com/assets/s20742_ll_h9_aa.png?w=360&h=270" group-title="Grenada" tvg-id="CAN24" tvc-guide-stationid="20742",Canal 24 Horas HD
@@ -167,6 +173,8 @@ http://example.local/GRD-CUBVIS.ts
 http://example.local/GRD-DYSTR.ts
 #EXTINF:-1 tvg-chno="16288" tvg-name="De Película" tvg-logo="https://zap2it.tmsimg.com/assets/s16288_ll_h15_ac.png?w=360&h=270" group-title="Grenada" tvg-id="DEPEL" tvc-guide-stationid="16288",De Película
 http://example.local/GRD-DEPEL.ts
+#EXTINF:-1 tvg-chno="106261" tvg-name="DirecTV2 Sports" tvg-logo="None" group-title="Grenada" tvg-id="DT2SPT" tvc-guide-stationid="106261",DirecTV2 Sports
+http://example.local/GRD-DT2SPT.ts
 #EXTINF:-1 tvg-chno="11150" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11150_h3_ba.png?w=360&h=270" group-title="Grenada" tvg-id="DSC" tvc-guide-stationid="11150",Discovery Channel
 http://example.local/GRD-DSC.ts
 #EXTINF:-1 tvg-chno="96307" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_h3_aa.png?w=360&h=270" group-title="Grenada" tvg-id="DISCCHD" tvc-guide-stationid="96307",Discovery Channel
@@ -235,6 +243,8 @@ http://example.local/GRD-ESPN2HC.ts
 http://example.local/GRD-ESPN2HD.ts
 #EXTINF:-1 tvg-chno="16350" tvg-name="EWTN Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16350_ll_h9_ab.png?w=360&h=270" group-title="Grenada" tvg-id="EWTNL" tvc-guide-stationid="16350",EWTN Latin America
 http://example.local/GRD-EWTNL.ts
+#EXTINF:-1 tvg-chno="75777" tvg-name="Fiesta 106.5" tvg-logo="None" group-title="Grenada" tvg-id="FSTA" tvc-guide-stationid="75777",Fiesta 106.5
+http://example.local/GRD-FSTA.ts
 #EXTINF:-1 tvg-chno="16215" tvg-name="Film & Arts" tvg-logo="https://zap2it.tmsimg.com/assets/s87687_ll_h15_aa.png?w=360&h=270" group-title="Grenada" tvg-id="FABL" tvc-guide-stationid="16215",Film & Arts
 http://example.local/GRD-FABL.ts
 #EXTINF:-1 tvg-chno="99697" tvg-name="Flow Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s99697_ll_h15_ab.png?w=360&h=270" group-title="Grenada" tvg-id="FLOWSP" tvc-guide-stationid="99697",Flow Sports
@@ -263,6 +273,8 @@ http://example.local/GRD-FYISD.ts
 http://example.local/GRD-GAME1.ts
 #EXTINF:-1 tvg-chno="14909" tvg-name="Game Show Network" tvg-logo="https://zap2it.tmsimg.com/assets/s14909_ll_h15_ad.png?w=360&h=270" group-title="Grenada" tvg-id="GSN" tvc-guide-stationid="14909",Game Show Network
 http://example.local/GRD-GSN.ts
+#EXTINF:-1 tvg-chno="59728" tvg-name="Gayelle TV" tvg-logo="None" group-title="Grenada" tvg-id="GAYELLE" tvc-guide-stationid="59728",Gayelle TV
+http://example.local/GRD-GAYELLE.ts
 #EXTINF:-1 tvg-chno="24459" tvg-name="Glitz" tvg-logo="https://zap2it.tmsimg.com/assets/s61514_ll_h15_aa.png?w=360&h=270" group-title="Grenada" tvg-id="GLITZ" tvc-guide-stationid="24459",Glitz
 http://example.local/GRD-GLITZ.ts
 #EXTINF:-1 tvg-chno="33904" tvg-name="Globovision" tvg-logo="https://zap2it.tmsimg.com/assets/s33904_ll_h9_aa.png?w=360&h=270" group-title="Grenada" tvg-id="GLOVIS" tvc-guide-stationid="33904",Globovision
@@ -385,6 +397,12 @@ http://example.local/GRD-PASNLA.ts
 http://example.local/GRD-WPCH.ts
 #EXTINF:-1 tvg-chno="16788" tvg-name="Playboy TV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16788_ll_h15_aa.png?w=360&h=270" group-title="Grenada" tvg-id="PLAYL" tvc-guide-stationid="16788",Playboy TV Latin America
 http://example.local/GRD-PLAYL.ts
+#EXTINF:-1 tvg-chno="14782" tvg-name="PPVP/Pay-Per-View Previews" tvg-logo="None" group-title="Grenada" tvg-id="PPVP" tvc-guide-stationid="14782",PPVP/Pay-Per-View Previews
+http://example.local/GRD-PPVP.ts
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" tvg-logo="None" group-title="Grenada" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+http://example.local/GRD-RCARA.ts
+#EXTINF:-1 tvg-chno="75906" tvg-name="RFI" tvg-logo="None" group-title="Grenada" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
+http://example.local/GRD-RFIRAD.ts
 #EXTINF:-1 tvg-chno="67040" tvg-name="Sky News HD" tvg-logo="https://zap2it.tmsimg.com/assets/s67040_ll_h9_aa.png?w=360&h=270" group-title="Grenada" tvg-id="SNEWSHD" tvc-guide-stationid="67040",Sky News HD
 http://example.local/GRD-SNEWSHD.ts
 #EXTINF:-1 tvg-chno="69490" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png?w=360&h=270" group-title="Grenada" tvg-id="SPACEEH" tvc-guide-stationid="69490",Space
@@ -517,6 +535,8 @@ http://example.local/GRD-TBN.ts
 http://example.local/GRD-TV5L.ts
 #EXTINF:-1 tvg-chno="16217" tvg-name="TVE" tvg-logo="https://zap2it.tmsimg.com/assets/s16217_ll_h15_aa.png?w=360&h=270" group-title="Grenada" tvg-id="TVEI" tvc-guide-stationid="16217",TVE
 http://example.local/GRD-TVEI.ts
+#EXTINF:-1 tvg-chno="75774" tvg-name="Union Radio Noticias" tvg-logo="None" group-title="Grenada" tvg-id="CNUR" tvc-guide-stationid="75774",Union Radio Noticias
+http://example.local/GRD-CNUR.ts
 #EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png?w=360&h=270" group-title="Grenada" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/GRD-UNICI.ts
 #EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png?w=360&h=270" group-title="Grenada" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
@@ -549,8 +569,12 @@ http://example.local/GRD-WBTV.ts
 http://example.local/GRD-WFORDT.ts
 #EXTINF:-1 tvg-chno="11474" tvg-name="WGN (Chicago) (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s51306_ll_h15_ac.png?w=360&h=270" group-title="Grenada" tvg-id="WGN" tvc-guide-stationid="11474",WGN (Chicago) (CW)
 http://example.local/GRD-WGN.ts
+#EXTINF:-1 tvg-chno="10196" tvg-name="WLRN Cable -FL36MI" tvg-logo="None" group-title="Grenada" tvg-id="FL36MI" tvc-guide-stationid="10196",WLRN Cable -FL36MI
+http://example.local/GRD-FL36MI.ts
 #EXTINF:-1 tvg-chno="11779" tvg-name="WPIX (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s11779_ll_h15_aa.png?w=360&h=270" group-title="Grenada" tvg-id="WPIX" tvc-guide-stationid="11779",WPIX (CW)
 http://example.local/GRD-WPIX.ts
+#EXTINF:-1 tvg-chno="20493" tvg-name="WPLG-DT" tvg-logo="None" group-title="Grenada" tvg-id="WPLGDT" tvc-guide-stationid="20493",WPLG-DT
+http://example.local/GRD-WPLGDT.ts
 #EXTINF:-1 tvg-chno="21220" tvg-name="WSVN-DT (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&h=270" group-title="Grenada" tvg-id="WSVNDT" tvc-guide-stationid="21220",WSVN-DT (FOX)
 http://example.local/GRD-WSVNDT.ts
 #EXTINF:-1 tvg-chno="11916" tvg-name="WTVJ (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png?w=360&h=270" group-title="Grenada" tvg-id="WTVJ" tvc-guide-stationid="11916",WTVJ (NBC)

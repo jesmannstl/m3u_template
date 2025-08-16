@@ -37,6 +37,8 @@ http://example.local/BMU-BBCAHD.ts
 http://example.local/BMU-BBCNEEU.ts
 #EXTINF:-1 tvg-chno="76774" tvg-name="BBC News Europe HD" tvg-logo="https://zap2it.tmsimg.com/assets/s76774_ll_h15_ab.png?w=360&h=270" group-title="Bermuda" tvg-id="BBCNEUHD" tvc-guide-stationid="76774",BBC News Europe HD
 http://example.local/BMU-BBCNEUHD.ts
+#EXTINF:-1 tvg-chno="37871" tvg-name="BERMUDA CHANNEL" tvg-logo="None" group-title="Bermuda" tvg-id="BERMC" tvc-guide-stationid="37871",BERMUDA CHANNEL
+http://example.local/BMU-BERMC.ts
 #EXTINF:-1 tvg-chno="10051" tvg-name="BET" tvg-logo="https://zap2it.tmsimg.com/assets/s10051_ll_h15_ad.png?w=360&h=270" group-title="Bermuda" tvg-id="BET" tvc-guide-stationid="10051",BET
 http://example.local/BMU-BET.ts
 #EXTINF:-1 tvg-chno="61005" tvg-name="BET Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s10051_ll_h15_ad.png?w=360&h=270" group-title="Bermuda" tvg-id="BETCAR" tvc-guide-stationid="61005",BET Caribbean
@@ -65,14 +67,22 @@ http://example.local/BMU-BRAVO.ts
 http://example.local/BMU-BRAVOHD.ts
 #EXTINF:-1 tvg-chno="10142" tvg-name="Cable News Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10142_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="CNN" tvc-guide-stationid="10142",Cable News Network
 http://example.local/BMU-CNN.ts
+#EXTINF:-1 tvg-chno="77589" tvg-name="Cablevision Channel 500 On Demand (Bermuda)" tvg-logo="None" group-title="Bermuda" tvg-id="OD500DM" tvc-guide-stationid="77589",Cablevision Channel 500 On Demand (Bermuda)
+http://example.local/BMU-OD500DM.ts
 #EXTINF:-1 tvg-chno="80063" tvg-name="Cala Classics" tvg-logo="https://zap2it.tmsimg.com/assets/s80063_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="CLCSC" tvc-guide-stationid="80063",Cala Classics
 http://example.local/BMU-CLCSC.ts
+#EXTINF:-1 tvg-chno="98191" tvg-name="CALA Westerns" tvg-logo="None" group-title="Bermuda" tvg-id="CALAWST" tvc-guide-stationid="98191",CALA Westerns
+http://example.local/BMU-CALAWST.ts
 #EXTINF:-1 tvg-chno="30823" tvg-name="Canal Fox Central" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_h3_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="FOXLC" tvc-guide-stationid="30823",Canal Fox Central
 http://example.local/BMU-FOXLC.ts
 #EXTINF:-1 tvg-chno="49411" tvg-name="Caribvision" tvg-logo="https://zap2it.tmsimg.com/assets/s49411_ll_h6_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="CARIBVN" tvc-guide-stationid="49411",Caribvision
 http://example.local/BMU-CARIBVN.ts
 #EXTINF:-1 tvg-chno="12131" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s12131_h3_ba.png?w=360&h=270" group-title="Bermuda" tvg-id="TOON" tvc-guide-stationid="12131",Cartoon Network
 http://example.local/BMU-TOON.ts
+#EXTINF:-1 tvg-chno="97805" tvg-name="Catch" tvg-logo="None" group-title="Bermuda" tvg-id="CATCHTV" tvc-guide-stationid="97805",Catch
+http://example.local/BMU-CATCHTV.ts
+#EXTINF:-1 tvg-chno="98023" tvg-name="Catch 2" tvg-logo="None" group-title="Bermuda" tvg-id="CATCH2" tvc-guide-stationid="98023",Catch 2
+http://example.local/BMU-CATCH2.ts
 #EXTINF:-1 tvg-chno="10091" tvg-name="CBC Toronto (CBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10084_ll_h15_ab.png?w=360&h=270" group-title="Bermuda" tvg-id="CBLT" tvc-guide-stationid="10091",CBC Toronto (CBC)
 http://example.local/BMU-CBLT.ts
 #EXTINF:-1 tvg-chno="46245" tvg-name="CBC Toronto HD (CBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s46245_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="CBLTDT" tvc-guide-stationid="46245",CBC Toronto HD (CBC)
@@ -107,6 +117,8 @@ http://example.local/BMU-CMTMUS.ts
 http://example.local/BMU-CNBC.ts
 #EXTINF:-1 tvg-chno="58780" tvg-name="CNBC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58780_ll_h15_ab.png?w=360&h=270" group-title="Bermuda" tvg-id="CNBCHD" tvc-guide-stationid="58780",CNBC HD
 http://example.local/BMU-CNBCHD.ts
+#EXTINF:-1 tvg-chno="66299" tvg-name="CNBC HD - Olympic Alternate" tvg-logo="None" group-title="Bermuda" tvg-id="CNBCHDA" tvc-guide-stationid="66299",CNBC HD - Olympic Alternate
+http://example.local/BMU-CNBCHDA.ts
 #EXTINF:-1 tvg-chno="58646" tvg-name="CNN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&h=270" group-title="Bermuda" tvg-id="CNNHD" tvc-guide-stationid="58646",CNN HD
 http://example.local/BMU-CNNHD.ts
 #EXTINF:-1 tvg-chno="20436" tvg-name="CNN Headline News LatinAm" tvg-logo="https://zap2it.tmsimg.com/assets/s20436_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="CNNHL" tvc-guide-stationid="20436",CNN Headline News LatinAm
@@ -173,10 +185,20 @@ http://example.local/BMU-DJCH.ts
 http://example.local/BMU-DXD.ts
 #EXTINF:-1 tvg-chno="61812" tvg-name="E! Entertainment Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="EHD" tvc-guide-stationid="61812",E! Entertainment Television HD
 http://example.local/BMU-EHD.ts
+#EXTINF:-1 tvg-chno="27759" tvg-name="EPG Government Access" tvg-logo="None" group-title="Bermuda" tvg-id="EPGGA" tvc-guide-stationid="27759",EPG Government Access
+http://example.local/BMU-EPGGA.ts
+#EXTINF:-1 tvg-chno="27837" tvg-name="EPG Local Weather" tvg-logo="None" group-title="Bermuda" tvg-id="EPGLW" tvc-guide-stationid="27837",EPG Local Weather
+http://example.local/BMU-EPGLW.ts
+#EXTINF:-1 tvg-chno="49301" tvg-name="EPG PPV Barker (In Demand)" tvg-logo="None" group-title="Bermuda" tvg-id="PPVBARK" tvc-guide-stationid="49301",EPG PPV Barker (In Demand)
+http://example.local/BMU-PPVBARK.ts
 #EXTINF:-1 tvg-chno="10179" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s10179_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="ESPN" tvc-guide-stationid="10179",ESPN
 http://example.local/BMU-ESPN.ts
 #EXTINF:-1 tvg-chno="10180" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png?w=360&h=270" group-title="Bermuda" tvg-id="ESP2ME" tvc-guide-stationid="10180",ESPN 2
 http://example.local/BMU-ESP2ME.ts
+#EXTINF:-1 tvg-chno="78764" tvg-name="ESPN Caribbean" tvg-logo="None" group-title="Bermuda" tvg-id="ESPNICH" tvc-guide-stationid="78764",ESPN Caribbean
+http://example.local/BMU-ESPNICH.ts
+#EXTINF:-1 tvg-chno="64997" tvg-name="ESPN Caribbean" tvg-logo="None" group-title="Bermuda" tvg-id="ESPNIC" tvc-guide-stationid="64997",ESPN Caribbean
+http://example.local/BMU-ESPNIC.ts
 #EXTINF:-1 tvg-chno="32645" tvg-name="ESPN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" group-title="Bermuda" tvg-id="ESPNHD" tvc-guide-stationid="32645",ESPN HD
 http://example.local/BMU-ESPNHD.ts
 #EXTINF:-1 tvg-chno="12444" tvg-name="ESPN2" tvg-logo="https://zap2it.tmsimg.com/assets/s12444_ll_h15_ab.png?w=360&h=270" group-title="Bermuda" tvg-id="ESPN2" tvc-guide-stationid="12444",ESPN2
@@ -195,6 +217,8 @@ http://example.local/BMU-FIGSAHD.ts
 http://example.local/BMU-FLIX.ts
 #EXTINF:-1 tvg-chno="99697" tvg-name="Flow Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s99697_ll_h15_ab.png?w=360&h=270" group-title="Bermuda" tvg-id="FLOWSP" tvc-guide-stationid="99697",Flow Sports
 http://example.local/BMU-FLOWSP.ts
+#EXTINF:-1 tvg-chno="101118" tvg-name="Flow Sports Rush HD" tvg-logo="None" group-title="Bermuda" tvg-id="FLOSPHD" tvc-guide-stationid="101118",Flow Sports Rush HD
+http://example.local/BMU-FLOSPHD.ts
 #EXTINF:-1 tvg-chno="100170" tvg-name="Flow SportsTV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99697_h3_ba.png?w=360&h=270" group-title="Bermuda" tvg-id="FLOWHD" tvc-guide-stationid="100170",Flow SportsTV HD
 http://example.local/BMU-FLOWHD.ts
 #EXTINF:-1 tvg-chno="12574" tvg-name="Food Network" tvg-logo="https://zap2it.tmsimg.com/assets/s12574_ll_h15_ab.png?w=360&h=270" group-title="Bermuda" tvg-id="FOOD" tvc-guide-stationid="12574",Food Network
@@ -273,6 +297,8 @@ http://example.local/BMU-GOLF.ts
 http://example.local/BMU-GOLFHD.ts
 #EXTINF:-1 tvg-chno="75757" tvg-name="Gone Viral TV" tvg-logo="https://zap2it.tmsimg.com/assets/s75757_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="GNVIRTV" tvc-guide-stationid="75757",Gone Viral TV
 http://example.local/BMU-GNVIRTV.ts
+#EXTINF:-1 tvg-chno="14787" tvg-name="Government Access - GOAC" tvg-logo="None" group-title="Bermuda" tvg-id="GOAC" tvc-guide-stationid="14787",Government Access - GOAC
+http://example.local/BMU-GOAC.ts
 #EXTINF:-1 tvg-chno="11221" tvg-name="Hallmark Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11221_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="HALL" tvc-guide-stationid="11221",Hallmark Channel
 http://example.local/BMU-HALL.ts
 #EXTINF:-1 tvg-chno="10240" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s10240_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="HBO" tvc-guide-stationid="10240",HBO
@@ -337,12 +363,16 @@ http://example.local/BMU-PPV1.ts
 http://example.local/BMU-PPV2.ts
 #EXTINF:-1 tvg-chno="16611" tvg-name="iN Demand 3" tvg-logo="https://zap2it.tmsimg.com/assets/s16611_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="PPV3" tvc-guide-stationid="16611",iN Demand 3
 http://example.local/BMU-PPV3.ts
+#EXTINF:-1 tvg-chno="22579" tvg-name="Information Channel - INFO" tvg-logo="None" group-title="Bermuda" tvg-id="INFO" tvc-guide-stationid="22579",Information Channel - INFO
+http://example.local/BMU-INFO.ts
 #EXTINF:-1 tvg-chno="69443" tvg-name="Inspirational Network International" tvg-logo="https://zap2it.tmsimg.com/assets/s69443_ll_h15_ab.png?w=360&h=270" group-title="Bermuda" tvg-id="INSPI" tvc-guide-stationid="69443",Inspirational Network International
 http://example.local/BMU-INSPI.ts
 #EXTINF:-1 tvg-chno="90848" tvg-name="Investigacion Discovery Latin AmEnglish HD" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png?w=360&h=270" group-title="Bermuda" tvg-id="IDLEHD" tvc-guide-stationid="90848",Investigacion Discovery Latin AmEnglish HD
 http://example.local/BMU-IDLEHD.ts
 #EXTINF:-1 tvg-chno="69073" tvg-name="ISAT" tvg-logo="https://zap2it.tmsimg.com/assets/s16497_h3_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="ISATENG" tvc-guide-stationid="69073",ISAT
 http://example.local/BMU-ISATENG.ts
+#EXTINF:-1 tvg-chno="92199" tvg-name="JCTV" tvg-logo="None" group-title="Bermuda" tvg-id="JCTV" tvc-guide-stationid="92199",JCTV
+http://example.local/BMU-JCTV.ts
 #EXTINF:-1 tvg-chno="16604" tvg-name="Jewelry Television" tvg-logo="https://zap2it.tmsimg.com/assets/s16604_ll_h15_ab.png?w=360&h=270" group-title="Bermuda" tvg-id="JTV" tvc-guide-stationid="16604",Jewelry Television
 http://example.local/BMU-JTV.ts
 #EXTINF:-1 tvg-chno="58684" tvg-name="Juicy-New Frontier" tvg-logo="https://zap2it.tmsimg.com/assets/s58684_h3_ba.png?w=360&h=270" group-title="Bermuda" tvg-id="JUICY" tvc-guide-stationid="58684",Juicy-New Frontier
@@ -367,12 +397,16 @@ http://example.local/BMU-LMNHD.ts
 http://example.local/BMU-LOOR.ts
 #EXTINF:-1 tvg-chno="16175" tvg-name="Local Programming" tvg-logo="https://zap2it.tmsimg.com/assets/s16175_ll_h15_ab.png?w=360&h=270" group-title="Bermuda" tvg-id="LOCAL" tvc-guide-stationid="16175",Local Programming
 http://example.local/BMU-LOCAL.ts
+#EXTINF:-1 tvg-chno="22567" tvg-name="Local weather" tvg-logo="None" group-title="Bermuda" tvg-id="LWEA" tvc-guide-stationid="22567",Local weather
+http://example.local/BMU-LWEA.ts
 #EXTINF:-1 tvg-chno="18544" tvg-name="Magnolia Network" tvg-logo="https://zap2it.tmsimg.com/assets/s18544_h3_ba.png?w=360&h=270" group-title="Bermuda" tvg-id="MAGN" tvc-guide-stationid="18544",Magnolia Network
 http://example.local/BMU-MAGN.ts
 #EXTINF:-1 tvg-chno="67375" tvg-name="Magnolia Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s67375_ll_h15_ad.png?w=360&h=270" group-title="Bermuda" tvg-id="MAGNHD" tvc-guide-stationid="67375",Magnolia Network HD
 http://example.local/BMU-MAGNHD.ts
 #EXTINF:-1 tvg-chno="65669" tvg-name="MGM+ East" tvg-logo="https://zap2it.tmsimg.com/assets/s65669_ll_h15_ae.png?w=360&h=270" group-title="Bermuda" tvg-id="MGM" tvc-guide-stationid="65669",MGM+ East
 http://example.local/BMU-MGM.ts
+#EXTINF:-1 tvg-chno="76969" tvg-name="MISSOURI VS MURRAY STATE" tvg-logo="None" group-title="Bermuda" tvg-id="MIZZOU" tvc-guide-stationid="76969",MISSOURI VS MURRAY STATE
+http://example.local/BMU-MIZZOU.ts
 #EXTINF:-1 tvg-chno="10271" tvg-name="Monumental Sports Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10271_ll_h15_ad.png?w=360&h=270" group-title="Bermuda" tvg-id="MNMT" tvc-guide-stationid="10271",Monumental Sports Network
 http://example.local/BMU-MNMT.ts
 #EXTINF:-1 tvg-chno="10121" tvg-name="MoreMAX" tvg-logo="https://zap2it.tmsimg.com/assets/s10121_h3_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="MOMAX" tvc-guide-stationid="10121",MoreMAX
@@ -381,6 +415,8 @@ http://example.local/BMU-MOMAX.ts
 http://example.local/BMU-MOVIE.ts
 #EXTINF:-1 tvg-chno="16300" tvg-name="MSNBC" tvg-logo="https://zap2it.tmsimg.com/assets/s16300_ll_h15_ac.png?w=360&h=270" group-title="Bermuda" tvg-id="MSNBC" tvc-guide-stationid="16300",MSNBC
 http://example.local/BMU-MSNBC.ts
+#EXTINF:-1 tvg-chno="24394" tvg-name="MSNBC - Olympics Alternate" tvg-logo="None" group-title="Bermuda" tvg-id="MSNBCA" tvc-guide-stationid="24394",MSNBC - Olympics Alternate
+http://example.local/BMU-MSNBCA.ts
 #EXTINF:-1 tvg-chno="64241" tvg-name="MSNBC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s64241_ll_h15_ac.png?w=360&h=270" group-title="Bermuda" tvg-id="MNBCHD" tvc-guide-stationid="64241",MSNBC HD
 http://example.local/BMU-MNBCHD.ts
 #EXTINF:-1 tvg-chno="10986" tvg-name="MTV - Music Television" tvg-logo="https://zap2it.tmsimg.com/assets/s10986_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="MTV" tvc-guide-stationid="10986",MTV - Music Television
@@ -393,6 +429,8 @@ http://example.local/BMU-MTVHTLA.ts
 http://example.local/BMU-MTVLVHD.ts
 #EXTINF:-1 tvg-chno="16361" tvg-name="MTV2: Music Television" tvg-logo="https://zap2it.tmsimg.com/assets/s16361_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="MTV2" tvc-guide-stationid="16361",MTV2: Music Television
 http://example.local/BMU-MTV2.ts
+#EXTINF:-1 tvg-chno="75965" tvg-name="Music Choice on Demand" tvg-logo="None" group-title="Bermuda" tvg-id="MCCHOD" tvc-guide-stationid="75965",Music Choice on Demand
+http://example.local/BMU-MCCHOD.ts
 #EXTINF:-1 tvg-chno="19332" tvg-name="Music Choice: '60s" tvg-logo="https://zap2it.tmsimg.com/assets/s19332_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="MC04" tvc-guide-stationid="19332",Music Choice: '60s
 http://example.local/BMU-MC04.ts
 #EXTINF:-1 tvg-chno="19326" tvg-name="Music Choice: '70's" tvg-logo="https://zap2it.tmsimg.com/assets/s19326_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="MC29" tvc-guide-stationid="19326",Music Choice: '70's
@@ -505,6 +543,8 @@ http://example.local/BMU-NGC.ts
 http://example.local/BMU-NGWIHD.ts
 #EXTINF:-1 tvg-chno="45526" tvg-name="NBA TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&h=270" group-title="Bermuda" tvg-id="NBATVHD" tvc-guide-stationid="45526",NBA TV HD
 http://example.local/BMU-NBATVHD.ts
+#EXTINF:-1 tvg-chno="76399" tvg-name="NBCSN HD Non-Olympic" tvg-logo="None" group-title="Bermuda" tvg-id="NBCSNOH" tvc-guide-stationid="76399",NBCSN HD Non-Olympic
+http://example.local/BMU-NBCSNOH.ts
 #EXTINF:-1 tvg-chno="10996" tvg-name="New England Sports Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10996_h3_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="NESN" tvc-guide-stationid="10996",New England Sports Network
 http://example.local/BMU-NESN.ts
 #EXTINF:-1 tvg-chno="91097" tvg-name="NewsNation SD" tvg-logo="https://zap2it.tmsimg.com/assets/s91097_ll_h15_af.png?w=360&h=270" group-title="Bermuda" tvg-id="NWSNTSD" tvc-guide-stationid="91097",NewsNation SD
@@ -551,6 +591,8 @@ http://example.local/BMU-OUTHD.ts
 http://example.local/BMU-OMAX.ts
 #EXTINF:-1 tvg-chno="21484" tvg-name="Oxygen True Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s21484_ll_h15_ac.png?w=360&h=270" group-title="Bermuda" tvg-id="OXYGEN" tvc-guide-stationid="21484",Oxygen True Crime
 http://example.local/BMU-OXYGEN.ts
+#EXTINF:-1 tvg-chno="92002" tvg-name="Paramount Network" tvg-logo="None" group-title="Bermuda" tvg-id="PARMNHE" tvc-guide-stationid="92002",Paramount Network
+http://example.local/BMU-PARMNHE.ts
 #EXTINF:-1 tvg-chno="11163" tvg-name="Paramount Network" tvg-logo="https://zap2it.tmsimg.com/assets/s11163_ll_h15_ac.png?w=360&h=270" group-title="Bermuda" tvg-id="PAR" tvc-guide-stationid="11163",Paramount Network
 http://example.local/BMU-PAR.ts
 #EXTINF:-1 tvg-chno="90277" tvg-name="Paramount Network Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s90277_ll_h15_ab.png?w=360&h=270" group-title="Bermuda" tvg-id="PARCAR" tvc-guide-stationid="90277",Paramount Network Caribbean
@@ -577,6 +619,8 @@ http://example.local/BMU-RACER.ts
 http://example.local/BMU-RACERHD.ts
 #EXTINF:-1 tvg-chno="17250" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="RAII" tvc-guide-stationid="17250",Rai Italia
 http://example.local/BMU-RAII.ts
+#EXTINF:-1 tvg-chno="21916" tvg-name="Religious Programming - RELI" tvg-logo="None" group-title="Bermuda" tvg-id="RELI" tvc-guide-stationid="21916",Religious Programming - RELI
+http://example.local/BMU-RELI.ts
 #EXTINF:-1 tvg-chno="83098" tvg-name="Revolt HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&h=270" group-title="Bermuda" tvg-id="RVLTHD" tvc-guide-stationid="83098",Revolt HD
 http://example.local/BMU-RVLTHD.ts
 #EXTINF:-1 tvg-chno="105350" tvg-name="RT America" tvg-logo="https://zap2it.tmsimg.com/assets/s105350_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="RTAMER" tvc-guide-stationid="105350",RT America
@@ -589,6 +633,8 @@ http://example.local/BMU-RTDOCHD.ts
 http://example.local/BMU-RTSPAN.ts
 #EXTINF:-1 tvg-chno="105169" tvg-name="RT in Spanish HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105169_ll_h9_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="RTSPANH" tvc-guide-stationid="105169",RT in Spanish HD
 http://example.local/BMU-RTSPANH.ts
+#EXTINF:-1 tvg-chno="105976" tvg-name="RT International" tvg-logo="None" group-title="Bermuda" tvg-id="RTINT" tvc-guide-stationid="105976",RT International
+http://example.local/BMU-RTINT.ts
 #EXTINF:-1 tvg-chno="106274" tvg-name="RTP Açores Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s106274_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="RTPACOR" tvc-guide-stationid="106274",RTP Açores Internacional
 http://example.local/BMU-RTPACOR.ts
 #EXTINF:-1 tvg-chno="106171" tvg-name="RTP3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s106171_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="RTP3" tvc-guide-stationid="106171",RTP3 Internacional
@@ -687,6 +733,8 @@ http://example.local/BMU-SMUS04.ts
 http://example.local/BMU-SMUS50.ts
 #EXTINF:-1 tvg-chno="68623" tvg-name="Stingray Maximum Party" tvg-logo="https://zap2it.tmsimg.com/assets/s95856_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="SMUS08" tvc-guide-stationid="68623",Stingray Maximum Party
 http://example.local/BMU-SMUS08.ts
+#EXTINF:-1 tvg-chno="68620" tvg-name="Stingray Nothin' But 90's" tvg-logo="None" group-title="Bermuda" tvg-id="SMUS07" tvc-guide-stationid="68620",Stingray Nothin' But 90's
+http://example.local/BMU-SMUS07.ts
 #EXTINF:-1 tvg-chno="45249" tvg-name="Stingray Opera Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s45249_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="SM031" tvc-guide-stationid="45249",Stingray Opera Plus
 http://example.local/BMU-SM031.ts
 #EXTINF:-1 tvg-chno="67558" tvg-name="Stingray Pop Adult" tvg-logo="https://zap2it.tmsimg.com/assets/s21637_ll_h15_ac.png?w=360&h=270" group-title="Bermuda" tvg-id="SMUS02" tvc-guide-stationid="67558",Stingray Pop Adult

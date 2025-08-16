@@ -23,6 +23,8 @@ http://example.local/DOM-ADSLAHD.ts
 http://example.local/DOM-ALJZENG.ts
 #EXTINF:-1 tvg-chno="55999" tvg-name="ALL TV (KOREA)" tvg-logo="https://zap2it.tmsimg.com/assets/s55999_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="ALLTVK" tvc-guide-stationid="55999",ALL TV (KOREA)
 http://example.local/DOM-ALLTVK.ts
+#EXTINF:-1 tvg-chno="75981" tvg-name="ALTERLATINA" tvg-logo="None" group-title="Dominican Republic" tvg-id="ALTLATA" tvc-guide-stationid="75981",ALTERLATINA
+http://example.local/DOM-ALTLATA.ts
 #EXTINF:-1 tvg-chno="10021" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s10021_ll_h15_ab.png?w=360&h=270" group-title="Dominican Republic" tvg-id="AMC" tvc-guide-stationid="10021",AMC
 http://example.local/DOM-AMC.ts
 #EXTINF:-1 tvg-chno="90653" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png?w=360&h=270" group-title="Dominican Republic" tvg-id="AMCMEX" tvc-guide-stationid="90653",AMC
@@ -49,6 +51,14 @@ http://example.local/DOM-ANT7.ts
 http://example.local/DOM-APRENMAS.ts
 #EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
 http://example.local/DOM-ARANG.ts
+#EXTINF:-1 tvg-chno="42384" tvg-name="AUDIO AEI LA ARG CONTEM" tvg-logo="None" group-title="Dominican Republic" tvg-id="ARGCON" tvc-guide-stationid="42384",AUDIO AEI LA ARG CONTEM
+http://example.local/DOM-ARGCON.ts
+#EXTINF:-1 tvg-chno="42387" tvg-name="AUDIO AEI LA ESPIRITO Brasilero" tvg-logo="None" group-title="Dominican Republic" tvg-id="ESPIRB" tvc-guide-stationid="42387",AUDIO AEI LA ESPIRITO Brasilero
+http://example.local/DOM-ESPIRB.ts
+#EXTINF:-1 tvg-chno="42388" tvg-name="AUDIO AEI LA LATIN BEAT" tvg-logo="None" group-title="Dominican Republic" tvg-id="LABEAT" tvc-guide-stationid="42388",AUDIO AEI LA LATIN BEAT
+http://example.local/DOM-LABEAT.ts
+#EXTINF:-1 tvg-chno="42389" tvg-name="AUDIO AEI LA LATIN JAZZ" tvg-logo="None" group-title="Dominican Republic" tvg-id="LATJAZZ" tvc-guide-stationid="42389",AUDIO AEI LA LATIN JAZZ
+http://example.local/DOM-LATJAZZ.ts
 #EXTINF:-1 tvg-chno="41084" tvg-name="AUDIO DLA BALADAS EN ESP" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="BALADA" tvc-guide-stationid="41084",AUDIO DLA BALADAS EN ESP
 http://example.local/DOM-BALADA.ts
 #EXTINF:-1 tvg-chno="37862" tvg-name="AUDIO DLA BLUES" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="BLUESDL" tvc-guide-stationid="37862",AUDIO DLA BLUES
@@ -83,6 +93,8 @@ http://example.local/DOM-ALATINA.ts
 http://example.local/DOM-DLALOVE.ts
 #EXTINF:-1 tvg-chno="38805" tvg-name="AUDIO DLA MARIACHI" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="MARIACH" tvc-guide-stationid="38805",AUDIO DLA MARIACHI
 http://example.local/DOM-MARIACH.ts
+#EXTINF:-1 tvg-chno="41963" tvg-name="AUDIO DLA MUSICA PARA CRIANCAS" tvg-logo="None" group-title="Dominican Republic" tvg-id="CRIANCA" tvc-guide-stationid="41963",AUDIO DLA MUSICA PARA CRIANCAS
+http://example.local/DOM-CRIANCA.ts
 #EXTINF:-1 tvg-chno="41964" tvg-name="AUDIO DLA MUSICA POPULAR BRASI" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="MUSPOPB" tvc-guide-stationid="41964",AUDIO DLA MUSICA POPULAR BRASI
 http://example.local/DOM-MUSPOPB.ts
 #EXTINF:-1 tvg-chno="41761" tvg-name="AUDIO DLA MÚSICA DE LAS AMÉRI" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="MUSICAM" tvc-guide-stationid="41761",AUDIO DLA MÚSICA DE LAS AMÉRI
@@ -167,6 +179,18 @@ http://example.local/DOM-BOOM.ts
 http://example.local/DOM-BRAVO.ts
 #EXTINF:-1 tvg-chno="10142" tvg-name="Cable News Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10142_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="CNN" tvc-guide-stationid="10142",Cable News Network
 http://example.local/DOM-CNN.ts
+#EXTINF:-1 tvg-chno="59822" tvg-name="Cablevision Mosaico Deportes" tvg-logo="None" group-title="Dominican Republic" tvg-id="MDEPOR" tvc-guide-stationid="59822",Cablevision Mosaico Deportes
+http://example.local/DOM-MDEPOR.ts
+#EXTINF:-1 tvg-chno="59818" tvg-name="Cablevision Mosaico Entretenimiento 1" tvg-logo="None" group-title="Dominican Republic" tvg-id="MENTRET" tvc-guide-stationid="59818",Cablevision Mosaico Entretenimiento 1
+http://example.local/DOM-MENTRET.ts
+#EXTINF:-1 tvg-chno="59821" tvg-name="Cablevision Mosaico Mundo y Aprendizaje" tvg-logo="None" group-title="Dominican Republic" tvg-id="MOSMU" tvc-guide-stationid="59821",Cablevision Mosaico Mundo y Aprendizaje
+http://example.local/DOM-MOSMU.ts
+#EXTINF:-1 tvg-chno="59820" tvg-name="Cablevision Mosaico Ninos" tvg-logo="None" group-title="Dominican Republic" tvg-id="MOSNI" tvc-guide-stationid="59820",Cablevision Mosaico Ninos
+http://example.local/DOM-MOSNI.ts
+#EXTINF:-1 tvg-chno="59826" tvg-name="Cablevision Mosaico Noticias" tvg-logo="None" group-title="Dominican Republic" tvg-id="MOSNO" tvc-guide-stationid="59826",Cablevision Mosaico Noticias
+http://example.local/DOM-MOSNO.ts
+#EXTINF:-1 tvg-chno="59827" tvg-name="Cablevision Mosaico PPE Adultos" tvg-logo="None" group-title="Dominican Republic" tvg-id="MOSPA" tvc-guide-stationid="59827",Cablevision Mosaico PPE Adultos
+http://example.local/DOM-MOSPA.ts
 #EXTINF:-1 tvg-chno="92395" tvg-name="Canal 14 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90518_h3_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="C14MXHD" tvc-guide-stationid="92395",Canal 14 HD
 http://example.local/DOM-C14MXHD.ts
 #EXTINF:-1 tvg-chno="91071" tvg-name="CANAL 22 INTERNACIONAL HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91071_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="CNL22HD" tvc-guide-stationid="91071",CANAL 22 INTERNACIONAL HD
@@ -177,6 +201,8 @@ http://example.local/DOM-CAN4REP.ts
 http://example.local/DOM-XHGC.ts
 #EXTINF:-1 tvg-chno="20548" tvg-name="Canal del Congreso" tvg-logo="https://zap2it.tmsimg.com/assets/s20548_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="CONG" tvc-guide-stationid="20548",Canal del Congreso
 http://example.local/DOM-CONG.ts
+#EXTINF:-1 tvg-chno="60653" tvg-name="CANAL DEL SOL" tvg-logo="None" group-title="Dominican Republic" tvg-id="CANDEL" tvc-guide-stationid="60653",CANAL DEL SOL
+http://example.local/DOM-CANDEL.ts
 #EXTINF:-1 tvg-chno="81622" tvg-name="Canal DHE" tvg-logo="https://zap2it.tmsimg.com/assets/s81622_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="CNLDHE" tvc-guide-stationid="81622",Canal DHE
 http://example.local/DOM-CNLDHE.ts
 #EXTINF:-1 tvg-chno="16466" tvg-name="Canal Nueve (NU9NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116171_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="XEQ" tvc-guide-stationid="16466",Canal Nueve (NU9NET)
@@ -211,8 +237,12 @@ http://example.local/DOM-CCENT.ts
 http://example.local/DOM-CCTV4.ts
 #EXTINF:-1 tvg-chno="60654" tvg-name="CDN" tvg-logo="https://zap2it.tmsimg.com/assets/s60654_ll_h9_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="CDNDR" tvc-guide-stationid="60654",CDN
 http://example.local/DOM-CDNDR.ts
+#EXTINF:-1 tvg-chno="60667" tvg-name="CERTV" tvg-logo="None" group-title="Dominican Republic" tvg-id="CERTV" tvc-guide-stationid="60667",CERTV
+http://example.local/DOM-CERTV.ts
 #EXTINF:-1 tvg-chno="44479" tvg-name="CGTN Español" tvg-logo="https://zap2it.tmsimg.com/assets/s44479_ll_h15_ab.png?w=360&h=270" group-title="Dominican Republic" tvg-id="CGTNE" tvc-guide-stationid="44479",CGTN Español
 http://example.local/DOM-CGTNE.ts
+#EXTINF:-1 tvg-chno="78997" tvg-name="Cine Canal Plus HD" tvg-logo="None" group-title="Dominican Republic" tvg-id="CINEPLH" tvc-guide-stationid="78997",Cine Canal Plus HD
+http://example.local/DOM-CINEPLH.ts
 #EXTINF:-1 tvg-chno="15296" tvg-name="Cine Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s15296_ll_h9_ab.png?w=360&h=270" group-title="Dominican Republic" tvg-id="CINL" tvc-guide-stationid="15296",Cine Latino
 http://example.local/DOM-CINL.ts
 #EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
@@ -221,8 +251,14 @@ http://example.local/DOM-CCL.ts
 http://example.local/DOM-CINCHD.ts
 #EXTINF:-1 tvg-chno="82420" tvg-name="Cinema Dinamita MX (Claro Chile)" tvg-logo="https://zap2it.tmsimg.com/assets/s82420_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="CINDINA" tvc-guide-stationid="82420",Cinema Dinamita MX (Claro Chile)
 http://example.local/DOM-CINDINA.ts
+#EXTINF:-1 tvg-chno="64240" tvg-name="Cinema Plus" tvg-logo="None" group-title="Dominican Republic" tvg-id="CINPLS" tvc-guide-stationid="64240",Cinema Plus
+http://example.local/DOM-CINPLS.ts
 #EXTINF:-1 tvg-chno="70409" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png?w=360&h=270" group-title="Dominican Republic" tvg-id="MAXPNEN" tvc-guide-stationid="70409",Cinemax
 http://example.local/DOM-MAXPNEN.ts
+#EXTINF:-1 tvg-chno="60660" tvg-name="CINEVISION" tvg-logo="None" group-title="Dominican Republic" tvg-id="CINEVSN" tvc-guide-stationid="60660",CINEVISION
+http://example.local/DOM-CINEVSN.ts
+#EXTINF:-1 tvg-chno="46642" tvg-name="CITY TV 18" tvg-logo="None" group-title="Dominican Republic" tvg-id="CITY18" tvc-guide-stationid="46642",CITY TV 18
+http://example.local/DOM-CITY18.ts
 #EXTINF:-1 tvg-chno="58323" tvg-name="City TV Bogota" tvg-logo="https://zap2it.tmsimg.com/assets/s58323_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="CITYTVB" tvc-guide-stationid="58323",City TV Bogota
 http://example.local/DOM-CITYTVB.ts
 #EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png?w=360&h=270" group-title="Dominican Republic" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
@@ -231,8 +267,14 @@ http://example.local/DOM-CITY.ts
 http://example.local/DOM-CLACI.ts
 #EXTINF:-1 tvg-chno="72291" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72291_ll_h15_ab.png?w=360&h=270" group-title="Dominican Republic" tvg-id="CLAROSP" tvc-guide-stationid="72291",Claro Sports
 http://example.local/DOM-CLAROSP.ts
+#EXTINF:-1 tvg-chno="60630" tvg-name="CLAROPPV" tvg-logo="None" group-title="Dominican Republic" tvg-id="CLAROPPV" tvc-guide-stationid="60630",CLAROPPV
+http://example.local/DOM-CLAROPPV.ts
+#EXTINF:-1 tvg-chno="60628" tvg-name="CLAROTV" tvg-logo="None" group-title="Dominican Republic" tvg-id="CLAROTV" tvc-guide-stationid="60628",CLAROTV
+http://example.local/DOM-CLAROTV.ts
 #EXTINF:-1 tvg-chno="10139" tvg-name="CNBC" tvg-logo="https://zap2it.tmsimg.com/assets/s10139_ll_h15_ae.png?w=360&h=270" group-title="Dominican Republic" tvg-id="CNBC" tvc-guide-stationid="10139",CNBC
 http://example.local/DOM-CNBC.ts
+#EXTINF:-1 tvg-chno="10141" tvg-name="CNBC LatinAm" tvg-logo="None" group-title="Dominican Republic" tvg-id="CNBCL" tvc-guide-stationid="10141",CNBC LatinAm
+http://example.local/DOM-CNBCL.ts
 #EXTINF:-1 tvg-chno="26849" tvg-name="CNBC World" tvg-logo="https://zap2it.tmsimg.com/assets/s26849_ll_h15_ab.png?w=360&h=270" group-title="Dominican Republic" tvg-id="CNBCWLD" tvc-guide-stationid="26849",CNBC World
 http://example.local/DOM-CNBCWLD.ts
 #EXTINF:-1 tvg-chno="17054" tvg-name="CNN En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png?w=360&h=270" group-title="Dominican Republic" tvg-id="CNNL" tvc-guide-stationid="17054",CNN En Español
@@ -243,6 +285,10 @@ http://example.local/DOM-CNNEM.ts
 http://example.local/DOM-CNNHD.ts
 #EXTINF:-1 tvg-chno="15192" tvg-name="CNNI Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s15192_ll_h9_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="CNNIL" tvc-guide-stationid="15192",CNNI Latin America
 http://example.local/DOM-CNNIL.ts
+#EXTINF:-1 tvg-chno="60771" tvg-name="Codetel Sport Vision" tvg-logo="None" group-title="Dominican Republic" tvg-id="TSPVSN" tvc-guide-stationid="60771",Codetel Sport Vision
+http://example.local/DOM-TSPVSN.ts
+#EXTINF:-1 tvg-chno="60665" tvg-name="COLOR VISION" tvg-logo="None" group-title="Dominican Republic" tvg-id="COLVISN" tvc-guide-stationid="60665",COLOR VISION
+http://example.local/DOM-COLVISN.ts
 #EXTINF:-1 tvg-chno="74528" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s76326_ll_h15_ab.png?w=360&h=270" group-title="Dominican Republic" tvg-id="COMCELA" tvc-guide-stationid="74528",Comedy Central
 http://example.local/DOM-COMCELA.ts
 #EXTINF:-1 tvg-chno="74906" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s100848_ll_h15_ac.png?w=360&h=270" group-title="Dominican Republic" tvg-id="COMCLAH" tvc-guide-stationid="74906",Comedy Central
@@ -269,6 +315,8 @@ http://example.local/DOM-DEPELPL.ts
 http://example.local/DOM-DEPEL.ts
 #EXTINF:-1 tvg-chno="16617" tvg-name="Destination America" tvg-logo="https://zap2it.tmsimg.com/assets/s16617_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="DEST" tvc-guide-stationid="16617",Destination America
 http://example.local/DOM-DEST.ts
+#EXTINF:-1 tvg-chno="60663" tvg-name="DIGITAL 15" tvg-logo="None" group-title="Dominican Republic" tvg-id="DIG15" tvc-guide-stationid="60663",DIGITAL 15
+http://example.local/DOM-DIG15.ts
 #EXTINF:-1 tvg-chno="15798" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png?w=360&h=270" group-title="Dominican Republic" tvg-id="TDCL" tvc-guide-stationid="15798",Discovery Channel
 http://example.local/DOM-TDCL.ts
 #EXTINF:-1 tvg-chno="25788" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png?w=360&h=270" group-title="Dominican Republic" tvg-id="DISCCH" tvc-guide-stationid="25788",Discovery Channel
@@ -619,6 +667,8 @@ http://example.local/DOM-H2LAME.ts
 http://example.local/DOM-HLN.ts
 #EXTINF:-1 tvg-chno="14902" tvg-name="Home & Garden Television" tvg-logo="https://zap2it.tmsimg.com/assets/s14902_ll_h15_ab.png?w=360&h=270" group-title="Dominican Republic" tvg-id="HGTV" tvc-guide-stationid="14902",Home & Garden Television
 http://example.local/DOM-HGTV.ts
+#EXTINF:-1 tvg-chno="26134" tvg-name="Home Shopping Network Español" tvg-logo="None" group-title="Dominican Republic" tvg-id="HSNE" tvc-guide-stationid="26134",Home Shopping Network Español
+http://example.local/DOM-HSNE.ts
 #EXTINF:-1 tvg-chno="15969" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="HTVLA" tvc-guide-stationid="15969",HTV
 http://example.local/DOM-HTVLA.ts
 #EXTINF:-1 tvg-chno="45498" tvg-name="Hustler TV" tvg-logo="https://zap2it.tmsimg.com/assets/s45498_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="HUSTLR" tvc-guide-stationid="45498",Hustler TV
@@ -631,8 +681,12 @@ http://example.local/DOM-IDM.ts
 http://example.local/DOM-IDLHD.ts
 #EXTINF:-1 tvg-chno="16446" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png?w=360&h=270" group-title="Dominican Republic" tvg-id="IDLE" tvc-guide-stationid="16446",ID
 http://example.local/DOM-IDLE.ts
+#EXTINF:-1 tvg-chno="38899" tvg-name="IMAGEN INFORMATIVA" tvg-logo="None" group-title="Dominican Republic" tvg-id="IMAGEN" tvc-guide-stationid="38899",IMAGEN INFORMATIVA
+http://example.local/DOM-IMAGEN.ts
 #EXTINF:-1 tvg-chno="101111" tvg-name="Imagen TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s101096_h3_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="IMGTVHD" tvc-guide-stationid="101111",Imagen TV HD
 http://example.local/DOM-IMGTVHD.ts
+#EXTINF:-1 tvg-chno="47560" tvg-name="Interactive Secrets" tvg-logo="None" group-title="Dominican Republic" tvg-id="SECRETS" tvc-guide-stationid="47560",Interactive Secrets
+http://example.local/DOM-SECRETS.ts
 #EXTINF:-1 tvg-chno="60799" tvg-name="ISAT 21 Mexico" tvg-logo="https://zap2it.tmsimg.com/assets/s16497_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="ISATMX" tvc-guide-stationid="60799",ISAT 21 Mexico
 http://example.local/DOM-ISATMX.ts
 #EXTINF:-1 tvg-chno="59350" tvg-name="Jesus Broadcasting Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59350_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="JBN" tvc-guide-stationid="59350",Jesus Broadcasting Network
@@ -647,6 +701,8 @@ http://example.local/DOM-JUSTV.ts
 http://example.local/DOM-KTLA.ts
 #EXTINF:-1 tvg-chno="52300" tvg-name="La Liga Sky Sports Mexico" tvg-logo="https://zap2it.tmsimg.com/assets/s52300_ll_h9_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="LALIGAM" tvc-guide-stationid="52300",La Liga Sky Sports Mexico
 http://example.local/DOM-LALIGAM.ts
+#EXTINF:-1 tvg-chno="46611" tvg-name="La Voz de America" tvg-logo="None" group-title="Dominican Republic" tvg-id="LAVOZ" tvc-guide-stationid="46611",La Voz de America
+http://example.local/DOM-LAVOZ.ts
 #EXTINF:-1 tvg-chno="16461" tvg-name="Las Estrellas (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png?w=360&h=270" group-title="Dominican Republic" tvg-id="XEW" tvc-guide-stationid="16461",Las Estrellas (ESTRNET)
 http://example.local/DOM-XEW.ts
 #EXTINF:-1 tvg-chno="45831" tvg-name="Las Estrellas (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png?w=360&h=270" group-title="Dominican Republic" tvg-id="XEWTDT" tvc-guide-stationid="45831",Las Estrellas (ESTRNET)
@@ -663,16 +719,32 @@ http://example.local/DOM-LRW.ts
 http://example.local/DOM-LMN.ts
 #EXTINF:-1 tvg-chno="16175" tvg-name="Local Programming" tvg-logo="https://zap2it.tmsimg.com/assets/s16175_ll_h15_ab.png?w=360&h=270" group-title="Dominican Republic" tvg-id="LOCAL" tvc-guide-stationid="16175",Local Programming
 http://example.local/DOM-LOCAL.ts
+#EXTINF:-1 tvg-chno="60819" tvg-name="Mango TV" tvg-logo="None" group-title="Dominican Republic" tvg-id="MANGOTV" tvc-guide-stationid="60819",Mango TV
+http://example.local/DOM-MANGOTV.ts
 #EXTINF:-1 tvg-chno="73869" tvg-name="Manhandle XX.5 - New Frontier" tvg-logo="https://zap2it.tmsimg.com/assets/s73869_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="MANXX5" tvc-guide-stationid="73869",Manhandle XX.5 - New Frontier
 http://example.local/DOM-MANXX5.ts
 #EXTINF:-1 tvg-chno="12034" tvg-name="Maria Visión" tvg-logo="https://zap2it.tmsimg.com/assets/s12034_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="MARIA" tvc-guide-stationid="12034",Maria Visión
 http://example.local/DOM-MARIA.ts
+#EXTINF:-1 tvg-chno="60664" tvg-name="MARKET TV" tvg-logo="None" group-title="Dominican Republic" tvg-id="MRKTTV" tvc-guide-stationid="60664",MARKET TV
+http://example.local/DOM-MRKTTV.ts
 #EXTINF:-1 tvg-chno="17457" tvg-name="Mas Chic" tvg-logo="https://zap2it.tmsimg.com/assets/s17457_ll_h15_ad.png?w=360&h=270" group-title="Dominican Republic" tvg-id="MASCHIC" tvc-guide-stationid="17457",Mas Chic
 http://example.local/DOM-MASCHIC.ts
 #EXTINF:-1 tvg-chno="61719" tvg-name="Milenio" tvg-logo="https://zap2it.tmsimg.com/assets/s61719_ll_h15_ab.png?w=360&h=270" group-title="Dominican Republic" tvg-id="MILENIO" tvc-guide-stationid="61719",Milenio
 http://example.local/DOM-MILENIO.ts
 #EXTINF:-1 tvg-chno="10121" tvg-name="MoreMAX" tvg-logo="https://zap2it.tmsimg.com/assets/s10121_h3_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="MOMAX" tvc-guide-stationid="10121",MoreMAX
 http://example.local/DOM-MOMAX.ts
+#EXTINF:-1 tvg-chno="47348" tvg-name="Mosaico Cinema" tvg-logo="None" group-title="Dominican Republic" tvg-id="MCINEMA" tvc-guide-stationid="47348",Mosaico Cinema
+http://example.local/DOM-MCINEMA.ts
+#EXTINF:-1 tvg-chno="47351" tvg-name="Mosaico Cinema 2" tvg-logo="None" group-title="Dominican Republic" tvg-id="MCINMA2" tvc-guide-stationid="47351",Mosaico Cinema 2
+http://example.local/DOM-MCINMA2.ts
+#EXTINF:-1 tvg-chno="47364" tvg-name="Mosaico Musica" tvg-logo="None" group-title="Dominican Republic" tvg-id="MMUSICA" tvc-guide-stationid="47364",Mosaico Musica
+http://example.local/DOM-MMUSICA.ts
+#EXTINF:-1 tvg-chno="47366" tvg-name="Mosaico PPE" tvg-logo="None" group-title="Dominican Republic" tvg-id="MPPE" tvc-guide-stationid="47366",Mosaico PPE
+http://example.local/DOM-MPPE.ts
+#EXTINF:-1 tvg-chno="47367" tvg-name="Mosaico Sky Premiere 1" tvg-logo="None" group-title="Dominican Republic" tvg-id="MSKYP1" tvc-guide-stationid="47367",Mosaico Sky Premiere 1
+http://example.local/DOM-MSKYP1.ts
+#EXTINF:-1 tvg-chno="47368" tvg-name="Mosaico Sky Premiere 2" tvg-logo="None" group-title="Dominican Republic" tvg-id="MSKYP2" tvc-guide-stationid="47368",Mosaico Sky Premiere 2
+http://example.local/DOM-MSKYP2.ts
 #EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png?w=360&h=270" group-title="Dominican Republic" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
 http://example.local/DOM-MTHD.ts
 #EXTINF:-1 tvg-chno="16300" tvg-name="MSNBC" tvg-logo="https://zap2it.tmsimg.com/assets/s16300_ll_h15_ac.png?w=360&h=270" group-title="Dominican Republic" tvg-id="MSNBC" tvc-guide-stationid="16300",MSNBC
@@ -829,12 +901,56 @@ http://example.local/DOM-RCNTV.ts
 http://example.local/DOM-XREALLA.ts
 #EXTINF:-1 tvg-chno="50798" tvg-name="Rede Globo INTL 2 (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/s50798_ll_h15_cc.png?w=360&h=270" group-title="Dominican Republic" tvg-id="RGTI2" tvc-guide-stationid="50798",Rede Globo INTL 2 (REDEGL)
 http://example.local/DOM-RGTI2.ts
+#EXTINF:-1 tvg-chno="79316" tvg-name="RNN - Red Nacional de Noticias 27" tvg-logo="None" group-title="Dominican Republic" tvg-id="RNN27" tvc-guide-stationid="79316",RNN - Red Nacional de Noticias 27
+http://example.local/DOM-RNN27.ts
+#EXTINF:-1 tvg-chno="75989" tvg-name="ROCK EN VINILO" tvg-logo="None" group-title="Dominican Republic" tvg-id="ROCKVI" tvc-guide-stationid="75989",ROCK EN VINILO
+http://example.local/DOM-ROCKVI.ts
 #EXTINF:-1 tvg-chno="69367" tvg-name="RT en español" tvg-logo="https://zap2it.tmsimg.com/assets/s69367_ll_h6_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="RTSPAN" tvc-guide-stationid="69367",RT en español
 http://example.local/DOM-RTSPAN.ts
+#EXTINF:-1 tvg-chno="60907" tvg-name="Santo Domingo TV" tvg-logo="None" group-title="Dominican Republic" tvg-id="SADOMTV" tvc-guide-stationid="60907",Santo Domingo TV
+http://example.local/DOM-SADOMTV.ts
 #EXTINF:-1 tvg-chno="16616" tvg-name="Science" tvg-logo="https://zap2it.tmsimg.com/assets/s16616_ll_h15_ab.png?w=360&h=270" group-title="Dominican Republic" tvg-id="SCIENCE" tvc-guide-stationid="16616",Science
 http://example.local/DOM-SCIENCE.ts
+#EXTINF:-1 tvg-chno="47418" tvg-name="SKY Local News" tvg-logo="None" group-title="Dominican Republic" tvg-id="SKYLN" tvc-guide-stationid="47418",SKY Local News
+http://example.local/DOM-SKYLN.ts
 #EXTINF:-1 tvg-chno="50367" tvg-name="SKY One Mexico" tvg-logo="https://zap2it.tmsimg.com/assets/s50367_ll_h9_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="SKYMEX" tvc-guide-stationid="50367",SKY One Mexico
 http://example.local/DOM-SKYMEX.ts
+#EXTINF:-1 tvg-chno="47421" tvg-name="Sky Portal Interactivo" tvg-logo="None" group-title="Dominican Republic" tvg-id="SKYPOR" tvc-guide-stationid="47421",Sky Portal Interactivo
+http://example.local/DOM-SKYPOR.ts
+#EXTINF:-1 tvg-chno="47332" tvg-name="Sky Premiere PPV 1" tvg-logo="None" group-title="Dominican Republic" tvg-id="SKYPV1" tvc-guide-stationid="47332",Sky Premiere PPV 1
+http://example.local/DOM-SKYPV1.ts
+#EXTINF:-1 tvg-chno="47333" tvg-name="Sky Premiere PPV 10" tvg-logo="None" group-title="Dominican Republic" tvg-id="SKYPV10" tvc-guide-stationid="47333",Sky Premiere PPV 10
+http://example.local/DOM-SKYPV10.ts
+#EXTINF:-1 tvg-chno="47334" tvg-name="Sky Premiere PPV 11" tvg-logo="None" group-title="Dominican Republic" tvg-id="SKYPV11" tvc-guide-stationid="47334",Sky Premiere PPV 11
+http://example.local/DOM-SKYPV11.ts
+#EXTINF:-1 tvg-chno="47335" tvg-name="Sky Premiere PPV 12" tvg-logo="None" group-title="Dominican Republic" tvg-id="SKYPV12" tvc-guide-stationid="47335",Sky Premiere PPV 12
+http://example.local/DOM-SKYPV12.ts
+#EXTINF:-1 tvg-chno="47336" tvg-name="Sky Premiere PPV 13" tvg-logo="None" group-title="Dominican Republic" tvg-id="SKYPV13" tvc-guide-stationid="47336",Sky Premiere PPV 13
+http://example.local/DOM-SKYPV13.ts
+#EXTINF:-1 tvg-chno="47337" tvg-name="Sky Premiere PPV 14" tvg-logo="None" group-title="Dominican Republic" tvg-id="SKYPV14" tvc-guide-stationid="47337",Sky Premiere PPV 14
+http://example.local/DOM-SKYPV14.ts
+#EXTINF:-1 tvg-chno="47339" tvg-name="Sky Premiere PPV 15" tvg-logo="None" group-title="Dominican Republic" tvg-id="SKYPV15" tvc-guide-stationid="47339",Sky Premiere PPV 15
+http://example.local/DOM-SKYPV15.ts
+#EXTINF:-1 tvg-chno="47344" tvg-name="Sky Premiere PPV 2" tvg-logo="None" group-title="Dominican Republic" tvg-id="SKYPV2" tvc-guide-stationid="47344",Sky Premiere PPV 2
+http://example.local/DOM-SKYPV2.ts
+#EXTINF:-1 tvg-chno="47352" tvg-name="Sky Premiere PPV 3" tvg-logo="None" group-title="Dominican Republic" tvg-id="SKYPV3" tvc-guide-stationid="47352",Sky Premiere PPV 3
+http://example.local/DOM-SKYPV3.ts
+#EXTINF:-1 tvg-chno="47353" tvg-name="Sky Premiere PPV 4" tvg-logo="None" group-title="Dominican Republic" tvg-id="SKYPV4" tvc-guide-stationid="47353",Sky Premiere PPV 4
+http://example.local/DOM-SKYPV4.ts
+#EXTINF:-1 tvg-chno="47354" tvg-name="Sky Premiere PPV 5" tvg-logo="None" group-title="Dominican Republic" tvg-id="SKYPV5" tvc-guide-stationid="47354",Sky Premiere PPV 5
+http://example.local/DOM-SKYPV5.ts
+#EXTINF:-1 tvg-chno="47355" tvg-name="Sky Premiere PPV 6" tvg-logo="None" group-title="Dominican Republic" tvg-id="SKYPV6" tvc-guide-stationid="47355",Sky Premiere PPV 6
+http://example.local/DOM-SKYPV6.ts
+#EXTINF:-1 tvg-chno="47356" tvg-name="Sky Premiere PPV 7" tvg-logo="None" group-title="Dominican Republic" tvg-id="SKYPV7" tvc-guide-stationid="47356",Sky Premiere PPV 7
+http://example.local/DOM-SKYPV7.ts
+#EXTINF:-1 tvg-chno="47357" tvg-name="Sky Premiere PPV 8" tvg-logo="None" group-title="Dominican Republic" tvg-id="SKYPV8" tvc-guide-stationid="47357",Sky Premiere PPV 8
+http://example.local/DOM-SKYPV8.ts
+#EXTINF:-1 tvg-chno="47358" tvg-name="Sky Premiere PPV 9" tvg-logo="None" group-title="Dominican Republic" tvg-id="SKYPV9" tvc-guide-stationid="47358",Sky Premiere PPV 9
+http://example.local/DOM-SKYPV9.ts
+#EXTINF:-1 tvg-chno="47423" tvg-name="SKY Special Weekends" tvg-logo="None" group-title="Dominican Republic" tvg-id="SKYWKND" tvc-guide-stationid="47423",SKY Special Weekends
+http://example.local/DOM-SKYWKND.ts
+#EXTINF:-1 tvg-chno="47424" tvg-name="Sky View" tvg-logo="None" group-title="Dominican Republic" tvg-id="SKYVIEW" tvc-guide-stationid="47424",Sky View
+http://example.local/DOM-SKYVIEW.ts
 #EXTINF:-1 tvg-chno="25347" tvg-name="Sorpresa" tvg-logo="https://zap2it.tmsimg.com/assets/s56405_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="SORPRESA" tvc-guide-stationid="25347",Sorpresa
 http://example.local/DOM-SORPRESA.ts
 #EXTINF:-1 tvg-chno="60801" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="SPACEM" tvc-guide-stationid="60801",Space
@@ -921,12 +1037,16 @@ http://example.local/DOM-TEFEI.ts
 http://example.local/DOM-TFORM.ts
 #EXTINF:-1 tvg-chno="46996" tvg-name="Telefuturo" tvg-logo="https://zap2it.tmsimg.com/assets/s46996_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="TELEFU" tvc-guide-stationid="46996",Telefuturo
 http://example.local/DOM-TELEFU.ts
+#EXTINF:-1 tvg-chno="60670" tvg-name="TELEGLOBO" tvg-logo="None" group-title="Dominican Republic" tvg-id="TLGLOBO" tvc-guide-stationid="60670",TELEGLOBO
+http://example.local/DOM-TLGLOBO.ts
 #EXTINF:-1 tvg-chno="15211" tvg-name="Telehit" tvg-logo="https://zap2it.tmsimg.com/assets/s15211_ll_h15_ac.png?w=360&h=270" group-title="Dominican Republic" tvg-id="THIT" tvc-guide-stationid="15211",Telehit
 http://example.local/DOM-THIT.ts
 #EXTINF:-1 tvg-chno="15210" tvg-name="Telehit Música" tvg-logo="https://zap2it.tmsimg.com/assets/s34394_ll_h15_ae.png?w=360&h=270" group-title="Dominican Republic" tvg-id="THMU" tvc-guide-stationid="15210",Telehit Música
 http://example.local/DOM-THMU.ts
 #EXTINF:-1 tvg-chno="73070" tvg-name="Telehit Música Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s73070_ll_h15_ab.png?w=360&h=270" group-title="Dominican Republic" tvg-id="THITPL" tvc-guide-stationid="73070",Telehit Música Plus
 http://example.local/DOM-THITPL.ts
+#EXTINF:-1 tvg-chno="47524" tvg-name="Teleimpacto" tvg-logo="None" group-title="Dominican Republic" tvg-id="IMPCTO" tvc-guide-stationid="47524",Teleimpacto
+http://example.local/DOM-IMPCTO.ts
 #EXTINF:-1 tvg-chno="61566" tvg-name="TELEMICRO Canal 5" tvg-logo="https://zap2it.tmsimg.com/assets/s61566_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="TELEMCR" tvc-guide-stationid="61566",TELEMICRO Canal 5
 http://example.local/DOM-TELEMCR.ts
 #EXTINF:-1 tvg-chno="45243" tvg-name="Telemicro Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s45243_ll_h9_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="TMICRO" tvc-guide-stationid="45243",Telemicro Internacional
@@ -935,6 +1055,8 @@ http://example.local/DOM-TMICRO.ts
 http://example.local/DOM-CABTELE.ts
 #EXTINF:-1 tvg-chno="48523" tvg-name="TeleN" tvg-logo="https://zap2it.tmsimg.com/assets/s48523_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="TELEN" tvc-guide-stationid="48523",TeleN
 http://example.local/DOM-TELEN.ts
+#EXTINF:-1 tvg-chno="60671" tvg-name="TELERADIOAMERICA" tvg-logo="None" group-title="Dominican Republic" tvg-id="TLRADAM" tvc-guide-stationid="60671",TELERADIOAMERICA
+http://example.local/DOM-TLRADAM.ts
 #EXTINF:-1 tvg-chno="46322" tvg-name="TELESISTEMA" tvg-logo="https://zap2it.tmsimg.com/assets/s46322_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="SISTEMA" tvc-guide-stationid="46322",TELESISTEMA
 http://example.local/DOM-SISTEMA.ts
 #EXTINF:-1 tvg-chno="47620" tvg-name="TeleSur" tvg-logo="https://zap2it.tmsimg.com/assets/s47620_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="TELESUR" tvc-guide-stationid="47620",TeleSur
@@ -983,6 +1105,8 @@ http://example.local/DOM-TUDNMH.ts
 http://example.local/DOM-TVEB.ts
 #EXTINF:-1 tvg-chno="16046" tvg-name="TV Chile" tvg-logo="https://zap2it.tmsimg.com/assets/s16046_ll_h15_ab.png?w=360&h=270" group-title="Dominican Republic" tvg-id="TVNI" tvc-guide-stationid="16046",TV Chile
 http://example.local/DOM-TVNI.ts
+#EXTINF:-1 tvg-chno="47561" tvg-name="TV Hot" tvg-logo="None" group-title="Dominican Republic" tvg-id="TVHOT" tvc-guide-stationid="47561",TV Hot
+http://example.local/DOM-TVHOT.ts
 #EXTINF:-1 tvg-chno="28440" tvg-name="TV Mexiquense" tvg-logo="https://zap2it.tmsimg.com/assets/s28440_ll_h9_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="TXMEXI" tvc-guide-stationid="28440",TV Mexiquense
 http://example.local/DOM-TXMEXI.ts
 #EXTINF:-1 tvg-chno="16422" tvg-name="TV5 Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16422_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="TV5L" tvc-guide-stationid="16422",TV5 Latin America
@@ -991,6 +1115,8 @@ http://example.local/DOM-TV5L.ts
 http://example.local/DOM-TV5LFR.ts
 #EXTINF:-1 tvg-chno="16217" tvg-name="TVE" tvg-logo="https://zap2it.tmsimg.com/assets/s16217_ll_h15_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="TVEI" tvc-guide-stationid="16217",TVE
 http://example.local/DOM-TVEI.ts
+#EXTINF:-1 tvg-chno="77845" tvg-name="TVE International América Latine" tvg-logo="None" group-title="Dominican Republic" tvg-id="TVELAT" tvc-guide-stationid="77845",TVE International América Latine
+http://example.local/DOM-TVELAT.ts
 #EXTINF:-1 tvg-chno="49262" tvg-name="TVV" tvg-logo="https://zap2it.tmsimg.com/assets/s49262_ll_h15_ac.png?w=360&h=270" group-title="Dominican Republic" tvg-id="TVV" tvc-guide-stationid="49262",TVV
 http://example.local/DOM-TVV.ts
 #EXTINF:-1 tvg-chno="16275" tvg-name="TyC Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s16275_h3_ba.png?w=360&h=270" group-title="Dominican Republic" tvg-id="TYC" tvc-guide-stationid="16275",TyC Sports
@@ -1061,6 +1187,8 @@ http://example.local/DOM-WORA.ts
 http://example.local/DOM-WPIX.ts
 #EXTINF:-1 tvg-chno="20373" tvg-name="WPIX-DT (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s53098_ll_h15_ac.png?w=360&h=270" group-title="Dominican Republic" tvg-id="WPIXDT" tvc-guide-stationid="20373",WPIX-DT (CW)
 http://example.local/DOM-WPIXDT.ts
+#EXTINF:-1 tvg-chno="20493" tvg-name="WPLG-DT" tvg-logo="None" group-title="Dominican Republic" tvg-id="WPLGDT" tvc-guide-stationid="20493",WPLG-DT
+http://example.local/DOM-WPLGDT.ts
 #EXTINF:-1 tvg-chno="11837" tvg-name="WSEE (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png?w=360&h=270" group-title="Dominican Republic" tvg-id="WSEE" tvc-guide-stationid="11837",WSEE (CBS)
 http://example.local/DOM-WSEE.ts
 #EXTINF:-1 tvg-chno="85923" tvg-name="WSJPLP (Spanish) (COZITV)" tvg-logo="https://zap2it.tmsimg.com/assets/s78851_h3_aa.png?w=360&h=270" group-title="Dominican Republic" tvg-id="WSJPLPS" tvc-guide-stationid="85923",WSJPLP (Spanish) (COZITV)

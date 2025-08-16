@@ -31,6 +31,8 @@ http://example.local/CRI-APRENMAS.ts
 http://example.local/CRI-ARANG.ts
 #EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png?w=360&h=270" group-title="Costa Rica" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
 http://example.local/CRI-ATRESSD.ts
+#EXTINF:-1 tvg-chno="42389" tvg-name="AUDIO AEI LA LATIN JAZZ" tvg-logo="None" group-title="Costa Rica" tvg-id="LATJAZZ" tvc-guide-stationid="42389",AUDIO AEI LA LATIN JAZZ
+http://example.local/CRI-LATJAZZ.ts
 #EXTINF:-1 tvg-chno="37862" tvg-name="AUDIO DLA BLUES" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="BLUESDL" tvc-guide-stationid="37862",AUDIO DLA BLUES
 http://example.local/CRI-BLUESDL.ts
 #EXTINF:-1 tvg-chno="50249" tvg-name="Audio DLA Canal de Conciertos" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="CANCON" tvc-guide-stationid="50249",Audio DLA Canal de Conciertos
@@ -53,12 +55,16 @@ http://example.local/CRI-INFANTE.ts
 http://example.local/CRI-INSTRN.ts
 #EXTINF:-1 tvg-chno="39711" tvg-name="AUDIO DLA JAZZ LATINO" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="JAZZLAT" tvc-guide-stationid="39711",AUDIO DLA JAZZ LATINO
 http://example.local/CRI-JAZZLAT.ts
+#EXTINF:-1 tvg-chno="38478" tvg-name="AUDIO DLA LATIN LOUNGE" tvg-logo="None" group-title="Costa Rica" tvg-id="LATLNG" tvc-guide-stationid="38478",AUDIO DLA LATIN LOUNGE
+http://example.local/CRI-LATLNG.ts
 #EXTINF:-1 tvg-chno="39425" tvg-name="AUDIO DLA LOVE MUSIC" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="DLALOVE" tvc-guide-stationid="39425",AUDIO DLA LOVE MUSIC
 http://example.local/CRI-DLALOVE.ts
 #EXTINF:-1 tvg-chno="38805" tvg-name="AUDIO DLA MARIACHI" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="MARIACH" tvc-guide-stationid="38805",AUDIO DLA MARIACHI
 http://example.local/CRI-MARIACH.ts
 #EXTINF:-1 tvg-chno="41964" tvg-name="AUDIO DLA MUSICA POPULAR BRASI" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="MUSPOPB" tvc-guide-stationid="41964",AUDIO DLA MUSICA POPULAR BRASI
 http://example.local/CRI-MUSPOPB.ts
+#EXTINF:-1 tvg-chno="40278" tvg-name="AUDIO DLA MÚSICA CLÁSICA" tvg-logo="None" group-title="Costa Rica" tvg-id="DLACLA" tvc-guide-stationid="40278",AUDIO DLA MÚSICA CLÁSICA
+http://example.local/CRI-DLACLA.ts
 #EXTINF:-1 tvg-chno="41761" tvg-name="AUDIO DLA MÚSICA DE LAS AMÉRI" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="MUSICAM" tvc-guide-stationid="41761",AUDIO DLA MÚSICA DE LAS AMÉRI
 http://example.local/CRI-MUSICAM.ts
 #EXTINF:-1 tvg-chno="39110" tvg-name="AUDIO DLA NEW AGE" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="NEWAGES" tvc-guide-stationid="39110",AUDIO DLA NEW AGE
@@ -73,6 +79,8 @@ http://example.local/CRI-POWERHT.ts
 http://example.local/CRI-REGTON.ts
 #EXTINF:-1 tvg-chno="41081" tvg-name="AUDIO DLA REGIONAL MEXICAN" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="DLAMEX" tvc-guide-stationid="41081",AUDIO DLA REGIONAL MEXICAN
 http://example.local/CRI-DLAMEX.ts
+#EXTINF:-1 tvg-chno="41083" tvg-name="AUDIO DLA RITMOS DEL MUNDO" tvg-logo="None" group-title="Costa Rica" tvg-id="RITMOMN" tvc-guide-stationid="41083",AUDIO DLA RITMOS DEL MUNDO
+http://example.local/CRI-RITMOMN.ts
 #EXTINF:-1 tvg-chno="39964" tvg-name="AUDIO DLA ROCK CLÁSICO" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="ROCKCLS" tvc-guide-stationid="39964",AUDIO DLA ROCK CLÁSICO
 http://example.local/CRI-ROCKCLS.ts
 #EXTINF:-1 tvg-chno="39714" tvg-name="AUDIO DLA ROCK LATINO" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="ROCKLAT" tvc-guide-stationid="39714",AUDIO DLA ROCK LATINO
@@ -125,6 +133,20 @@ http://example.local/CRI-BBCWDNA.ts
 http://example.local/CRI-BITME.ts
 #EXTINF:-1 tvg-chno="16829" tvg-name="Bloomberg Tv" tvg-logo="https://zap2it.tmsimg.com/assets/s14755_ll_h15_ab.png?w=360&h=270" group-title="Costa Rica" tvg-id="BLOOMI" tvc-guide-stationid="16829",Bloomberg Tv
 http://example.local/CRI-BLOOMI.ts
+#EXTINF:-1 tvg-chno="59822" tvg-name="Cablevision Mosaico Deportes" tvg-logo="None" group-title="Costa Rica" tvg-id="MDEPOR" tvc-guide-stationid="59822",Cablevision Mosaico Deportes
+http://example.local/CRI-MDEPOR.ts
+#EXTINF:-1 tvg-chno="59818" tvg-name="Cablevision Mosaico Entretenimiento 1" tvg-logo="None" group-title="Costa Rica" tvg-id="MENTRET" tvc-guide-stationid="59818",Cablevision Mosaico Entretenimiento 1
+http://example.local/CRI-MENTRET.ts
+#EXTINF:-1 tvg-chno="59819" tvg-name="Cablevision Mosaico Entretenimiento 2" tvg-logo="None" group-title="Costa Rica" tvg-id="MOSE2" tvc-guide-stationid="59819",Cablevision Mosaico Entretenimiento 2
+http://example.local/CRI-MOSE2.ts
+#EXTINF:-1 tvg-chno="59821" tvg-name="Cablevision Mosaico Mundo y Aprendizaje" tvg-logo="None" group-title="Costa Rica" tvg-id="MOSMU" tvc-guide-stationid="59821",Cablevision Mosaico Mundo y Aprendizaje
+http://example.local/CRI-MOSMU.ts
+#EXTINF:-1 tvg-chno="59820" tvg-name="Cablevision Mosaico Ninos" tvg-logo="None" group-title="Costa Rica" tvg-id="MOSNI" tvc-guide-stationid="59820",Cablevision Mosaico Ninos
+http://example.local/CRI-MOSNI.ts
+#EXTINF:-1 tvg-chno="59826" tvg-name="Cablevision Mosaico Noticias" tvg-logo="None" group-title="Costa Rica" tvg-id="MOSNO" tvc-guide-stationid="59826",Cablevision Mosaico Noticias
+http://example.local/CRI-MOSNO.ts
+#EXTINF:-1 tvg-chno="59827" tvg-name="Cablevision Mosaico PPE Adultos" tvg-logo="None" group-title="Costa Rica" tvg-id="MOSPA" tvc-guide-stationid="59827",Cablevision Mosaico PPE Adultos
+http://example.local/CRI-MOSPA.ts
 #EXTINF:-1 tvg-chno="79913" tvg-name="CalaWeather" tvg-logo="https://zap2it.tmsimg.com/assets/s79913_ll_h15_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="CLWTR" tvc-guide-stationid="79913",CalaWeather
 http://example.local/CRI-CLWTR.ts
 #EXTINF:-1 tvg-chno="38484" tvg-name="CANAL 11 REPRETEL" tvg-logo="https://zap2it.tmsimg.com/assets/s38484_ll_h15_ab.png?w=360&h=270" group-title="Costa Rica" tvg-id="CAN11R" tvc-guide-stationid="38484",CANAL 11 REPRETEL
@@ -181,6 +203,8 @@ http://example.local/CRI-CBS.ts
 http://example.local/CRI-CCTV4.ts
 #EXTINF:-1 tvg-chno="88752" tvg-name="CDR Canal 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88752_ll_h15_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="CDR2" tvc-guide-stationid="88752",CDR Canal 2
 http://example.local/CRI-CDR2.ts
+#EXTINF:-1 tvg-chno="78997" tvg-name="Cine Canal Plus HD" tvg-logo="None" group-title="Costa Rica" tvg-id="CINEPLH" tvc-guide-stationid="78997",Cine Canal Plus HD
+http://example.local/CRI-CINEPLH.ts
 #EXTINF:-1 tvg-chno="15296" tvg-name="Cine Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s15296_ll_h9_ab.png?w=360&h=270" group-title="Costa Rica" tvg-id="CINL" tvc-guide-stationid="15296",Cine Latino
 http://example.local/CRI-CINL.ts
 #EXTINF:-1 tvg-chno="62401" tvg-name="Cine Latino US" tvg-logo="https://zap2it.tmsimg.com/assets/s15296_h3_ba.png?w=360&h=270" group-title="Costa Rica" tvg-id="CINLUS" tvc-guide-stationid="62401",Cine Latino US
@@ -201,6 +225,8 @@ http://example.local/CRI-CINEM.ts
 http://example.local/CRI-CINDINA.ts
 #EXTINF:-1 tvg-chno="16522" tvg-name="Cinema Platino" tvg-logo="https://zap2it.tmsimg.com/assets/s16522_h3_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="CINPLA" tvc-guide-stationid="16522",Cinema Platino
 http://example.local/CRI-CINPLA.ts
+#EXTINF:-1 tvg-chno="64240" tvg-name="Cinema Plus" tvg-logo="None" group-title="Costa Rica" tvg-id="CINPLS" tvc-guide-stationid="64240",Cinema Plus
+http://example.local/CRI-CINPLS.ts
 #EXTINF:-1 tvg-chno="86931" tvg-name="Clan TVE" tvg-logo="https://zap2it.tmsimg.com/assets/s86931_ll_h15_ab.png?w=360&h=270" group-title="Costa Rica" tvg-id="CLANTVE" tvc-guide-stationid="86931",Clan TVE
 http://example.local/CRI-CLANTVE.ts
 #EXTINF:-1 tvg-chno="72291" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72291_ll_h15_ab.png?w=360&h=270" group-title="Costa Rica" tvg-id="CLAROSP" tvc-guide-stationid="72291",Claro Sports
@@ -269,6 +295,8 @@ http://example.local/CRI-DISNJMX.ts
 http://example.local/CRI-DISNXD.ts
 #EXTINF:-1 tvg-chno="55980" tvg-name="Distrito Comedia" tvg-logo="https://zap2it.tmsimg.com/assets/s55980_ll_h15_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="DISTCOM" tvc-guide-stationid="55980",Distrito Comedia
 http://example.local/CRI-DISTCOM.ts
+#EXTINF:-1 tvg-chno="26611" tvg-name="DMX 50's & 60's Hits" tvg-logo="None" group-title="Costa Rica" tvg-id="56HITS" tvc-guide-stationid="26611",DMX 50's & 60's Hits
+http://example.local/CRI-56HITS.ts
 #EXTINF:-1 tvg-chno="50415" tvg-name="DMX A Very Jazzy Holiday" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="AJAZZHO" tvc-guide-stationid="50415",DMX A Very Jazzy Holiday
 http://example.local/CRI-AJAZZHO.ts
 #EXTINF:-1 tvg-chno="50414" tvg-name="DMX Adult Contemporary Holiday" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_h3_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="ADCOHOL" tvc-guide-stationid="50414",DMX Adult Contemporary Holiday
@@ -391,6 +419,8 @@ http://example.local/CRI-FABL.ts
 http://example.local/CRI-FOOD.ts
 #EXTINF:-1 tvg-chno="91919" tvg-name="Food Network" tvg-logo="https://zap2it.tmsimg.com/assets/s91919_ll_h15_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="FOODLA" tvc-guide-stationid="91919",Food Network
 http://example.local/CRI-FOODLA.ts
+#EXTINF:-1 tvg-chno="112146" tvg-name="Food Network Latam HD" tvg-logo="None" group-title="Costa Rica" tvg-id="FODAMCO" tvc-guide-stationid="112146",Food Network Latam HD
+http://example.local/CRI-FODAMCO.ts
 #EXTINF:-1 tvg-chno="15377" tvg-name="Fox Deportes" tvg-logo="https://zap2it.tmsimg.com/assets/s15377_ll_h15_ab.png?w=360&h=270" group-title="Costa Rica" tvg-id="FXDEP" tvc-guide-stationid="15377",Fox Deportes
 http://example.local/CRI-FXDEP.ts
 #EXTINF:-1 tvg-chno="16374" tvg-name="Fox News Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16374_ll_h15_ab.png?w=360&h=270" group-title="Costa Rica" tvg-id="FNC" tvc-guide-stationid="16374",Fox News Channel
@@ -507,6 +537,8 @@ http://example.local/CRI-HGTV.ts
 http://example.local/CRI-HTVLA.ts
 #EXTINF:-1 tvg-chno="110785" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="HTVLAH" tvc-guide-stationid="110785",HTV
 http://example.local/CRI-HTVLAH.ts
+#EXTINF:-1 tvg-chno="52760" tvg-name="HTV Musica On Demand" tvg-logo="None" group-title="Costa Rica" tvg-id="HTVMUDM" tvc-guide-stationid="52760",HTV Musica On Demand
+http://example.local/CRI-HTVMUDM.ts
 #EXTINF:-1 tvg-chno="45498" tvg-name="Hustler TV" tvg-logo="https://zap2it.tmsimg.com/assets/s45498_ll_h15_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="HUSTLR" tvc-guide-stationid="45498",Hustler TV
 http://example.local/CRI-HUSTLR.ts
 #EXTINF:-1 tvg-chno="25793" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png?w=360&h=270" group-title="Costa Rica" tvg-id="IDM" tvc-guide-stationid="25793",ID
@@ -515,8 +547,12 @@ http://example.local/CRI-IDM.ts
 http://example.local/CRI-IDL.ts
 #EXTINF:-1 tvg-chno="77635" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png?w=360&h=270" group-title="Costa Rica" tvg-id="IDLHD" tvc-guide-stationid="77635",ID
 http://example.local/CRI-IDLHD.ts
+#EXTINF:-1 tvg-chno="38899" tvg-name="IMAGEN INFORMATIVA" tvg-logo="None" group-title="Costa Rica" tvg-id="IMAGEN" tvc-guide-stationid="38899",IMAGEN INFORMATIVA
+http://example.local/CRI-IMAGEN.ts
 #EXTINF:-1 tvg-chno="101111" tvg-name="Imagen TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s101096_h3_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="IMGTVHD" tvc-guide-stationid="101111",Imagen TV HD
 http://example.local/CRI-IMGTVHD.ts
+#EXTINF:-1 tvg-chno="47560" tvg-name="Interactive Secrets" tvg-logo="None" group-title="Costa Rica" tvg-id="SECRETS" tvc-guide-stationid="47560",Interactive Secrets
+http://example.local/CRI-SECRETS.ts
 #EXTINF:-1 tvg-chno="60799" tvg-name="ISAT 21 Mexico" tvg-logo="https://zap2it.tmsimg.com/assets/s16497_ll_h15_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="ISATMX" tvc-guide-stationid="60799",ISAT 21 Mexico
 http://example.local/CRI-ISATMX.ts
 #EXTINF:-1 tvg-chno="62629" tvg-name="JUICY Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s58684_h3_ba.png?w=360&h=270" group-title="Costa Rica" tvg-id="JUICYLA" tvc-guide-stationid="62629",JUICY Spanish
@@ -537,6 +573,18 @@ http://example.local/CRI-MARIA.ts
 http://example.local/CRI-MASCHIC.ts
 #EXTINF:-1 tvg-chno="61719" tvg-name="Milenio" tvg-logo="https://zap2it.tmsimg.com/assets/s61719_ll_h15_ab.png?w=360&h=270" group-title="Costa Rica" tvg-id="MILENIO" tvc-guide-stationid="61719",Milenio
 http://example.local/CRI-MILENIO.ts
+#EXTINF:-1 tvg-chno="47348" tvg-name="Mosaico Cinema" tvg-logo="None" group-title="Costa Rica" tvg-id="MCINEMA" tvc-guide-stationid="47348",Mosaico Cinema
+http://example.local/CRI-MCINEMA.ts
+#EXTINF:-1 tvg-chno="47351" tvg-name="Mosaico Cinema 2" tvg-logo="None" group-title="Costa Rica" tvg-id="MCINMA2" tvc-guide-stationid="47351",Mosaico Cinema 2
+http://example.local/CRI-MCINMA2.ts
+#EXTINF:-1 tvg-chno="47364" tvg-name="Mosaico Musica" tvg-logo="None" group-title="Costa Rica" tvg-id="MMUSICA" tvc-guide-stationid="47364",Mosaico Musica
+http://example.local/CRI-MMUSICA.ts
+#EXTINF:-1 tvg-chno="47366" tvg-name="Mosaico PPE" tvg-logo="None" group-title="Costa Rica" tvg-id="MPPE" tvc-guide-stationid="47366",Mosaico PPE
+http://example.local/CRI-MPPE.ts
+#EXTINF:-1 tvg-chno="47367" tvg-name="Mosaico Sky Premiere 1" tvg-logo="None" group-title="Costa Rica" tvg-id="MSKYP1" tvc-guide-stationid="47367",Mosaico Sky Premiere 1
+http://example.local/CRI-MSKYP1.ts
+#EXTINF:-1 tvg-chno="47368" tvg-name="Mosaico Sky Premiere 2" tvg-logo="None" group-title="Costa Rica" tvg-id="MSKYP2" tvc-guide-stationid="47368",Mosaico Sky Premiere 2
+http://example.local/CRI-MSKYP2.ts
 #EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png?w=360&h=270" group-title="Costa Rica" tvg-id="MTVL" tvc-guide-stationid="12712",MTV
 http://example.local/CRI-MTVL.ts
 #EXTINF:-1 tvg-chno="60964" tvg-name="MTV - Music Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="MTVHD" tvc-guide-stationid="60964",MTV - Music Television HD
@@ -615,6 +663,8 @@ http://example.local/CRI-PARAMNT.ts
 http://example.local/CRI-PARMNHD.ts
 #EXTINF:-1 tvg-chno="71621" tvg-name="Pasiones TV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s71621_ll_h15_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="PASNLA" tvc-guide-stationid="71621",Pasiones TV Latin America
 http://example.local/CRI-PASNLA.ts
+#EXTINF:-1 tvg-chno="80442" tvg-name="Planeta Fútbol 1" tvg-logo="None" group-title="Costa Rica" tvg-id="PLFUT1" tvc-guide-stationid="80442",Planeta Fútbol 1
+http://example.local/CRI-PLFUT1.ts
 #EXTINF:-1 tvg-chno="16788" tvg-name="Playboy TV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16788_ll_h15_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="PLAYL" tvc-guide-stationid="16788",Playboy TV Latin America
 http://example.local/CRI-PLAYL.ts
 #EXTINF:-1 tvg-chno="106729" tvg-name="Quiero Mi Musica en Mi Idioma HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75978_ll_h15_ac.png?w=360&h=270" group-title="Costa Rica" tvg-id="QMMIHD" tvc-guide-stationid="106729",Quiero Mi Musica en Mi Idioma HD
@@ -641,6 +691,42 @@ http://example.local/CRI-SET.ts
 http://example.local/CRI-CR13.ts
 #EXTINF:-1 tvg-chno="50367" tvg-name="SKY One Mexico" tvg-logo="https://zap2it.tmsimg.com/assets/s50367_ll_h9_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="SKYMEX" tvc-guide-stationid="50367",SKY One Mexico
 http://example.local/CRI-SKYMEX.ts
+#EXTINF:-1 tvg-chno="47421" tvg-name="Sky Portal Interactivo" tvg-logo="None" group-title="Costa Rica" tvg-id="SKYPOR" tvc-guide-stationid="47421",Sky Portal Interactivo
+http://example.local/CRI-SKYPOR.ts
+#EXTINF:-1 tvg-chno="47332" tvg-name="Sky Premiere PPV 1" tvg-logo="None" group-title="Costa Rica" tvg-id="SKYPV1" tvc-guide-stationid="47332",Sky Premiere PPV 1
+http://example.local/CRI-SKYPV1.ts
+#EXTINF:-1 tvg-chno="47333" tvg-name="Sky Premiere PPV 10" tvg-logo="None" group-title="Costa Rica" tvg-id="SKYPV10" tvc-guide-stationid="47333",Sky Premiere PPV 10
+http://example.local/CRI-SKYPV10.ts
+#EXTINF:-1 tvg-chno="47334" tvg-name="Sky Premiere PPV 11" tvg-logo="None" group-title="Costa Rica" tvg-id="SKYPV11" tvc-guide-stationid="47334",Sky Premiere PPV 11
+http://example.local/CRI-SKYPV11.ts
+#EXTINF:-1 tvg-chno="47335" tvg-name="Sky Premiere PPV 12" tvg-logo="None" group-title="Costa Rica" tvg-id="SKYPV12" tvc-guide-stationid="47335",Sky Premiere PPV 12
+http://example.local/CRI-SKYPV12.ts
+#EXTINF:-1 tvg-chno="47336" tvg-name="Sky Premiere PPV 13" tvg-logo="None" group-title="Costa Rica" tvg-id="SKYPV13" tvc-guide-stationid="47336",Sky Premiere PPV 13
+http://example.local/CRI-SKYPV13.ts
+#EXTINF:-1 tvg-chno="47337" tvg-name="Sky Premiere PPV 14" tvg-logo="None" group-title="Costa Rica" tvg-id="SKYPV14" tvc-guide-stationid="47337",Sky Premiere PPV 14
+http://example.local/CRI-SKYPV14.ts
+#EXTINF:-1 tvg-chno="47339" tvg-name="Sky Premiere PPV 15" tvg-logo="None" group-title="Costa Rica" tvg-id="SKYPV15" tvc-guide-stationid="47339",Sky Premiere PPV 15
+http://example.local/CRI-SKYPV15.ts
+#EXTINF:-1 tvg-chno="47344" tvg-name="Sky Premiere PPV 2" tvg-logo="None" group-title="Costa Rica" tvg-id="SKYPV2" tvc-guide-stationid="47344",Sky Premiere PPV 2
+http://example.local/CRI-SKYPV2.ts
+#EXTINF:-1 tvg-chno="47352" tvg-name="Sky Premiere PPV 3" tvg-logo="None" group-title="Costa Rica" tvg-id="SKYPV3" tvc-guide-stationid="47352",Sky Premiere PPV 3
+http://example.local/CRI-SKYPV3.ts
+#EXTINF:-1 tvg-chno="47353" tvg-name="Sky Premiere PPV 4" tvg-logo="None" group-title="Costa Rica" tvg-id="SKYPV4" tvc-guide-stationid="47353",Sky Premiere PPV 4
+http://example.local/CRI-SKYPV4.ts
+#EXTINF:-1 tvg-chno="47354" tvg-name="Sky Premiere PPV 5" tvg-logo="None" group-title="Costa Rica" tvg-id="SKYPV5" tvc-guide-stationid="47354",Sky Premiere PPV 5
+http://example.local/CRI-SKYPV5.ts
+#EXTINF:-1 tvg-chno="47355" tvg-name="Sky Premiere PPV 6" tvg-logo="None" group-title="Costa Rica" tvg-id="SKYPV6" tvc-guide-stationid="47355",Sky Premiere PPV 6
+http://example.local/CRI-SKYPV6.ts
+#EXTINF:-1 tvg-chno="47356" tvg-name="Sky Premiere PPV 7" tvg-logo="None" group-title="Costa Rica" tvg-id="SKYPV7" tvc-guide-stationid="47356",Sky Premiere PPV 7
+http://example.local/CRI-SKYPV7.ts
+#EXTINF:-1 tvg-chno="47357" tvg-name="Sky Premiere PPV 8" tvg-logo="None" group-title="Costa Rica" tvg-id="SKYPV8" tvc-guide-stationid="47357",Sky Premiere PPV 8
+http://example.local/CRI-SKYPV8.ts
+#EXTINF:-1 tvg-chno="47358" tvg-name="Sky Premiere PPV 9" tvg-logo="None" group-title="Costa Rica" tvg-id="SKYPV9" tvc-guide-stationid="47358",Sky Premiere PPV 9
+http://example.local/CRI-SKYPV9.ts
+#EXTINF:-1 tvg-chno="47423" tvg-name="SKY Special Weekends" tvg-logo="None" group-title="Costa Rica" tvg-id="SKYWKND" tvc-guide-stationid="47423",SKY Special Weekends
+http://example.local/CRI-SKYWKND.ts
+#EXTINF:-1 tvg-chno="47424" tvg-name="Sky View" tvg-logo="None" group-title="Costa Rica" tvg-id="SKYVIEW" tvc-guide-stationid="47424",Sky View
+http://example.local/CRI-SKYVIEW.ts
 #EXTINF:-1 tvg-chno="60801" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="SPACEM" tvc-guide-stationid="60801",Space
 http://example.local/CRI-SPACEM.ts
 #EXTINF:-1 tvg-chno="16499" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="SPACE" tvc-guide-stationid="16499",Space
@@ -745,12 +831,16 @@ http://example.local/CRI-TUDNMH.ts
 http://example.local/CRI-TVAGRO.ts
 #EXTINF:-1 tvg-chno="16046" tvg-name="TV Chile" tvg-logo="https://zap2it.tmsimg.com/assets/s16046_ll_h15_ab.png?w=360&h=270" group-title="Costa Rica" tvg-id="TVNI" tvc-guide-stationid="16046",TV Chile
 http://example.local/CRI-TVNI.ts
+#EXTINF:-1 tvg-chno="47561" tvg-name="TV Hot" tvg-logo="None" group-title="Costa Rica" tvg-id="TVHOT" tvc-guide-stationid="47561",TV Hot
+http://example.local/CRI-TVHOT.ts
 #EXTINF:-1 tvg-chno="28440" tvg-name="TV Mexiquense" tvg-logo="https://zap2it.tmsimg.com/assets/s28440_ll_h9_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="TXMEXI" tvc-guide-stationid="28440",TV Mexiquense
 http://example.local/CRI-TXMEXI.ts
 #EXTINF:-1 tvg-chno="16422" tvg-name="TV5 Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16422_ll_h15_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="TV5L" tvc-guide-stationid="16422",TV5 Latin America
 http://example.local/CRI-TV5L.ts
 #EXTINF:-1 tvg-chno="16217" tvg-name="TVE" tvg-logo="https://zap2it.tmsimg.com/assets/s16217_ll_h15_aa.png?w=360&h=270" group-title="Costa Rica" tvg-id="TVEI" tvc-guide-stationid="16217",TVE
 http://example.local/CRI-TVEI.ts
+#EXTINF:-1 tvg-chno="77845" tvg-name="TVE International América Latine" tvg-logo="None" group-title="Costa Rica" tvg-id="TVELAT" tvc-guide-stationid="77845",TVE International América Latine
+http://example.local/CRI-TVELAT.ts
 #EXTINF:-1 tvg-chno="16275" tvg-name="TyC Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s16275_h3_ba.png?w=360&h=270" group-title="Costa Rica" tvg-id="TYC" tvc-guide-stationid="16275",TyC Sports
 http://example.local/CRI-TYC.ts
 #EXTINF:-1 tvg-chno="16521" tvg-name="Unicable" tvg-logo="https://zap2it.tmsimg.com/assets/s16521_ll_h15_ad.png?w=360&h=270" group-title="Costa Rica" tvg-id="UNIC" tvc-guide-stationid="16521",Unicable

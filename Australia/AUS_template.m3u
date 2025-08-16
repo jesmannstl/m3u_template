@@ -159,6 +159,8 @@ http://example.local/AUS-SBNA.ts
 http://example.local/AUS-44ADANZ.ts
 #EXTINF:-1 tvg-chno="104017" tvg-name="7 Brisbane (SEVEN)" tvg-logo="https://zap2it.tmsimg.com/assets/s104017_ll_h9_ab.png?w=360&h=270" group-title="Australia" tvg-id="7BRIANZ" tvc-guide-stationid="104017",7 Brisbane (SEVEN)
 http://example.local/AUS-7BRIANZ.ts
+#EXTINF:-1 tvg-chno="104010" tvg-name="7 Darwin (SEVEN)" tvg-logo="None" group-title="Australia" tvg-id="7SCDANZ" tvc-guide-stationid="104010",7 Darwin (SEVEN)
+http://example.local/AUS-7SCDANZ.ts
 #EXTINF:-1 tvg-chno="104429" tvg-name="7 Gold Coast (SEVEN)" tvg-logo="https://zap2it.tmsimg.com/assets/s104028_ll_h9_aa.png?w=360&h=270" group-title="Australia" tvg-id="7PGCANZ" tvc-guide-stationid="104429",7 Gold Coast (SEVEN)
 http://example.local/AUS-7PGCANZ.ts
 #EXTINF:-1 tvg-chno="132039" tvg-name="7 Griffith (SEVEN)" tvg-logo="https://zap2it.tmsimg.com/assets/s104011_h3_bc.png?w=360&h=270" group-title="Australia" tvg-id="7GRIFANZ" tvc-guide-stationid="132039",7 Griffith (SEVEN)
@@ -207,6 +209,14 @@ http://example.local/AUS-7QSCANZ.ts
 http://example.local/AUS-7GWNANZ.ts
 #EXTINF:-1 tvg-chno="104422" tvg-name="7 SA (SEVEN)" tvg-logo="https://zap2it.tmsimg.com/assets/s104422_ll_h9_ab.png?w=360&h=270" group-title="Australia" tvg-id="7CGBANZ" tvc-guide-stationid="104422",7 SA (SEVEN)
 http://example.local/AUS-7CGBANZ.ts
+#EXTINF:-1 tvg-chno="104424" tvg-name="7 SA (SEVEN)" tvg-logo="None" group-title="Australia" tvg-id="7GTSANZ" tvc-guide-stationid="104424",7 SA (SEVEN)
+http://example.local/AUS-7GTSANZ.ts
+#EXTINF:-1 tvg-chno="114362" tvg-name="7 SA (SEVEN)" tvg-logo="None" group-title="Australia" tvg-id="7BHANZ" tvc-guide-stationid="114362",7 SA (SEVEN)
+http://example.local/AUS-7BHANZ.ts
+#EXTINF:-1 tvg-chno="114363" tvg-name="7 SA (SEVEN)" tvg-logo="None" group-title="Australia" tvg-id="7PLANZ" tvc-guide-stationid="114363",7 SA (SEVEN)
+http://example.local/AUS-7PLANZ.ts
+#EXTINF:-1 tvg-chno="114364" tvg-name="7 SA (SEVEN)" tvg-logo="None" group-title="Australia" tvg-id="7PPANZ" tvc-guide-stationid="114364",7 SA (SEVEN)
+http://example.local/AUS-7PPANZ.ts
 #EXTINF:-1 tvg-chno="104433" tvg-name="7 Southern, Canberra (SEVEN)" tvg-logo="https://zap2it.tmsimg.com/assets/s104028_ll_h9_aa.png?w=360&h=270" group-title="Australia" tvg-id="7PCANZ" tvc-guide-stationid="104433",7 Southern, Canberra (SEVEN)
 http://example.local/AUS-7PCANZ.ts
 #EXTINF:-1 tvg-chno="104434" tvg-name="7 Southern, Orange (SEVEN)" tvg-logo="https://zap2it.tmsimg.com/assets/s104028_h3_aa.png?w=360&h=270" group-title="Australia" tvg-id="7POANZ" tvc-guide-stationid="104434",7 Southern, Orange (SEVEN)
@@ -567,6 +577,10 @@ http://example.local/AUS-ABCCPRNZ.ts
 http://example.local/AUS-ABCCSYNZ.ts
 #EXTINF:-1 tvg-chno="112209" tvg-name="ABC Country Adelaide (ABCTN)" tvg-logo="https://zap2it.tmsimg.com/assets/s112209_ll_h9_aa.png?w=360&h=270" group-title="Australia" tvg-id="ABCOUAANZ" tvc-guide-stationid="112209",ABC Country Adelaide (ABCTN)
 http://example.local/AUS-ABCOUAANZ.ts
+#EXTINF:-1 tvg-chno="112210" tvg-name="ABC Country Brisbane (ABCTN)" tvg-logo="None" group-title="Australia" tvg-id="ABCOUBANZ" tvc-guide-stationid="112210",ABC Country Brisbane (ABCTN)
+http://example.local/AUS-ABCOUBANZ.ts
+#EXTINF:-1 tvg-chno="112211" tvg-name="ABC Country Canberra (ABCTN)" tvg-logo="None" group-title="Australia" tvg-id="ABCOUCANZ" tvc-guide-stationid="112211",ABC Country Canberra (ABCTN)
+http://example.local/AUS-ABCOUCANZ.ts
 #EXTINF:-1 tvg-chno="112212" tvg-name="ABC Country Darwin (ABCTN)" tvg-logo="https://zap2it.tmsimg.com/assets/s112212_ll_h9_ab.png?w=360&h=270" group-title="Australia" tvg-id="ABCOUDANZ" tvc-guide-stationid="112212",ABC Country Darwin (ABCTN)
 http://example.local/AUS-ABCOUDANZ.ts
 #EXTINF:-1 tvg-chno="112213" tvg-name="ABC Country Hobart (ABCTN)" tvg-logo="https://zap2it.tmsimg.com/assets/s112213_ll_h9_aa.png?w=360&h=270" group-title="Australia" tvg-id="ABCOUHANZ" tvc-guide-stationid="112213",ABC Country Hobart (ABCTN)
@@ -727,6 +741,18 @@ http://example.local/AUS-AWAANZ.ts
 http://example.local/AUS-ABRIANZ.ts
 #EXTINF:-1 tvg-chno="103086" tvg-name="Action+2" tvg-logo="https://zap2it.tmsimg.com/assets/s103086_ll_h15_aa.png?w=360&h=270" group-title="Australia" tvg-id="ACT2ANZ" tvc-guide-stationid="103086",Action+2
 http://example.local/AUS-ACT2ANZ.ts
+#EXTINF:-1 tvg-chno="123408" tvg-name="AFC Asian Qualifiers 1" tvg-logo="None" group-title="Australia" tvg-id="AFCQ1" tvc-guide-stationid="123408",AFC Asian Qualifiers 1
+http://example.local/AUS-AFCQ1.ts
+#EXTINF:-1 tvg-chno="123409" tvg-name="AFC Asian Qualifiers 2" tvg-logo="None" group-title="Australia" tvg-id="AFCQ2" tvc-guide-stationid="123409",AFC Asian Qualifiers 2
+http://example.local/AUS-AFCQ2.ts
+#EXTINF:-1 tvg-chno="123410" tvg-name="AFC Asian Qualifiers 3" tvg-logo="None" group-title="Australia" tvg-id="AFCQ3" tvc-guide-stationid="123410",AFC Asian Qualifiers 3
+http://example.local/AUS-AFCQ3.ts
+#EXTINF:-1 tvg-chno="123411" tvg-name="AFC Asian Qualifiers 4" tvg-logo="None" group-title="Australia" tvg-id="AFCQ4" tvc-guide-stationid="123411",AFC Asian Qualifiers 4
+http://example.local/AUS-AFCQ4.ts
+#EXTINF:-1 tvg-chno="123412" tvg-name="AFC Asian Qualifiers 5" tvg-logo="None" group-title="Australia" tvg-id="AFCQ5" tvc-guide-stationid="123412",AFC Asian Qualifiers 5
+http://example.local/AUS-AFCQ5.ts
+#EXTINF:-1 tvg-chno="123413" tvg-name="AFC Asian Qualifiers 6" tvg-logo="None" group-title="Australia" tvg-id="AFCQ6" tvc-guide-stationid="123413",AFC Asian Qualifiers 6
+http://example.local/AUS-AFCQ6.ts
 #EXTINF:-1 tvg-chno="123420" tvg-name="AFC Championship" tvg-logo="https://zap2it.tmsimg.com/assets/s123420_ll_h9_aa.png?w=360&h=270" group-title="Australia" tvg-id="AFCANZ" tvc-guide-stationid="123420",AFC Championship
 http://example.local/AUS-AFCANZ.ts
 #EXTINF:-1 tvg-chno="103222" tvg-name="Al Jazeera English" tvg-logo="https://zap2it.tmsimg.com/assets/s103222_ll_h9_aa.png?w=360&h=270" group-title="Australia" tvg-id="ALJEANZ" tvc-guide-stationid="103222",Al Jazeera English
@@ -745,6 +771,12 @@ http://example.local/AUS-AUROANZ.ts
 http://example.local/AUS-ROOUANZ.ts
 #EXTINF:-1 tvg-chno="103099" tvg-name="BBC News" tvg-logo="https://zap2it.tmsimg.com/assets/s103099_ll_h15_ac.png?w=360&h=270" group-title="Australia" tvg-id="BBCWANZ" tvc-guide-stationid="103099",BBC News
 http://example.local/AUS-BBCWANZ.ts
+#EXTINF:-1 tvg-chno="103102" tvg-name="beIN SPORTS 1 HD" tvg-logo="None" group-title="Australia" tvg-id="BSHDANZ" tvc-guide-stationid="103102",beIN SPORTS 1 HD
+http://example.local/AUS-BSHDANZ.ts
+#EXTINF:-1 tvg-chno="103108" tvg-name="beIN SPORTS 2 HD" tvg-logo="None" group-title="Australia" tvg-id="B2HDANZ" tvc-guide-stationid="103108",beIN SPORTS 2 HD
+http://example.local/AUS-B2HDANZ.ts
+#EXTINF:-1 tvg-chno="103112" tvg-name="beIN SPORTS 3 HD" tvg-logo="None" group-title="Australia" tvg-id="B3HDANZ" tvc-guide-stationid="103112",beIN SPORTS 3 HD
+http://example.local/AUS-B3HDANZ.ts
 #EXTINF:-1 tvg-chno="146761" tvg-name="beIN Sports MAX 1" tvg-logo="https://zap2it.tmsimg.com/assets/s146761_ll_h9_ab.png?w=360&h=270" group-title="Australia" tvg-id="BEINSC1" tvc-guide-stationid="146761",beIN Sports MAX 1
 http://example.local/AUS-BEINSC1.ts
 #EXTINF:-1 tvg-chno="150861" tvg-name="beIN Sports MAX 10" tvg-logo="https://zap2it.tmsimg.com/assets/s150861_ll_h9_aa.png?w=360&h=270" group-title="Australia" tvg-id="BEINSC10" tvc-guide-stationid="150861",beIN Sports MAX 10
@@ -851,6 +883,8 @@ http://example.local/AUS-DIHDANZ.ts
 http://example.local/AUS-DTURANZ.ts
 #EXTINF:-1 tvg-chno="103307" tvg-name="Discovery Turbo +2" tvg-logo="https://zap2it.tmsimg.com/assets/s103307_ll_h9_aa.png?w=360&h=270" group-title="Australia" tvg-id="DTU2ANZ" tvc-guide-stationid="103307",Discovery Turbo +2
 http://example.local/AUS-DTU2ANZ.ts
+#EXTINF:-1 tvg-chno="162143" tvg-name="Docplay" tvg-logo="None" group-title="Australia" tvg-id="DPANZ" tvc-guide-stationid="162143",Docplay
+http://example.local/AUS-DPANZ.ts
 #EXTINF:-1 tvg-chno="112186" tvg-name="Double J Adelaide (ABCTN)" tvg-logo="https://zap2it.tmsimg.com/assets/s112186_ll_h9_aa.png?w=360&h=270" group-title="Australia" tvg-id="JJRAALANZ" tvc-guide-stationid="112186",Double J Adelaide (ABCTN)
 http://example.local/AUS-JJRAALANZ.ts
 #EXTINF:-1 tvg-chno="112189" tvg-name="Double J Brisbane (ABCTN)" tvg-logo="https://zap2it.tmsimg.com/assets/s112189_ll_h9_aa.png?w=360&h=270" group-title="Australia" tvg-id="JJRABANZ" tvc-guide-stationid="112189",Double J Brisbane (ABCTN)
@@ -877,8 +911,20 @@ http://example.local/AUS-ESPHDAZ.ts
 http://example.local/AUS-ESPN2AZ.ts
 #EXTINF:-1 tvg-chno="103360" tvg-name="ESPN2HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103360_ll_h15_ab.png?w=360&h=270" group-title="Australia" tvg-id="ES2HDAZ" tvc-guide-stationid="103360",ESPN2HD
 http://example.local/AUS-ES2HDAZ.ts
+#EXTINF:-1 tvg-chno="103365" tvg-name="EXPO" tvg-logo="None" group-title="Australia" tvg-id="EXPOANZ" tvc-guide-stationid="103365",EXPO
+http://example.local/AUS-EXPOANZ.ts
 #EXTINF:-1 tvg-chno="116092" tvg-name="Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s116092_ll_h15_aa.png?w=360&h=270" group-title="Australia" tvg-id="EXTANZ" tvc-guide-stationid="116092",Extra
 http://example.local/AUS-EXTANZ.ts
+#EXTINF:-1 tvg-chno="123414" tvg-name="FA Cup 1" tvg-logo="None" group-title="Australia" tvg-id="FAC1ANZ" tvc-guide-stationid="123414",FA Cup 1
+http://example.local/AUS-FAC1ANZ.ts
+#EXTINF:-1 tvg-chno="123415" tvg-name="FA Cup 2" tvg-logo="None" group-title="Australia" tvg-id="FAC2ANZ" tvc-guide-stationid="123415",FA Cup 2
+http://example.local/AUS-FAC2ANZ.ts
+#EXTINF:-1 tvg-chno="123416" tvg-name="FA Cup 3" tvg-logo="None" group-title="Australia" tvg-id="FAC3ANZ" tvc-guide-stationid="123416",FA Cup 3
+http://example.local/AUS-FAC3ANZ.ts
+#EXTINF:-1 tvg-chno="123417" tvg-name="FA Cup 4" tvg-logo="None" group-title="Australia" tvg-id="FAC4ANZ" tvc-guide-stationid="123417",FA Cup 4
+http://example.local/AUS-FAC4ANZ.ts
+#EXTINF:-1 tvg-chno="123418" tvg-name="FA Cup 5" tvg-logo="None" group-title="Australia" tvg-id="FAC5ANZ" tvc-guide-stationid="123418",FA Cup 5
+http://example.local/AUS-FAC5ANZ.ts
 #EXTINF:-1 tvg-chno="123419" tvg-name="FA Cup 6" tvg-logo="https://zap2it.tmsimg.com/assets/s123419_ll_h9_aa.png?w=360&h=270" group-title="Australia" tvg-id="FAC6ANZ" tvc-guide-stationid="123419",FA Cup 6
 http://example.local/AUS-FAC6ANZ.ts
 #EXTINF:-1 tvg-chno="103073" tvg-name="Famous" tvg-logo="https://zap2it.tmsimg.com/assets/s103073_ll_h15_ab.png?w=360&h=270" group-title="Australia" tvg-id="ARTSANZ" tvc-guide-stationid="103073",Famous
@@ -915,6 +961,8 @@ http://example.local/AUS-505HANZ.ts
 http://example.local/AUS-F506ANZ.ts
 #EXTINF:-1 tvg-chno="103078" tvg-name="FOX SPORTS 506 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103078_ll_h15_ab.png?w=360&h=270" group-title="Australia" tvg-id="506HANZ" tvc-guide-stationid="103078",FOX SPORTS 506 HD
 http://example.local/AUS-506HANZ.ts
+#EXTINF:-1 tvg-chno="103080" tvg-name="FOX SPORTS 507" tvg-logo="None" group-title="Australia" tvg-id="FSMRANZ" tvc-guide-stationid="103080",FOX SPORTS 507
+http://example.local/AUS-FSMRANZ.ts
 #EXTINF:-1 tvg-chno="103082" tvg-name="FOX SPORTS News" tvg-logo="https://zap2it.tmsimg.com/assets/s103082_ll_h15_ab.png?w=360&h=270" group-title="Australia" tvg-id="FSNWANZ" tvc-guide-stationid="103082",FOX SPORTS News
 http://example.local/AUS-FSNWANZ.ts
 #EXTINF:-1 tvg-chno="103083" tvg-name="FOX SPORTS News HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103083_ll_h15_aa.png?w=360&h=270" group-title="Australia" tvg-id="FSNHANZ" tvc-guide-stationid="103083",FOX SPORTS News HD
@@ -1053,6 +1101,8 @@ http://example.local/AUS-NBGCANZ.ts
 http://example.local/AUS-NBNANZ.ts
 #EXTINF:-1 tvg-chno="103320" tvg-name="NHK World" tvg-logo="https://zap2it.tmsimg.com/assets/s103320_ll_h15_aa.png?w=360&h=270" group-title="Australia" tvg-id="NHKWANZ" tvc-guide-stationid="103320",NHK World
 http://example.local/AUS-NHKWANZ.ts
+#EXTINF:-1 tvg-chno="103321" tvg-name="Nick Jr" tvg-logo="None" group-title="Australia" tvg-id="NJRANZ" tvc-guide-stationid="103321",Nick Jr
+http://example.local/AUS-NJRANZ.ts
 #EXTINF:-1 tvg-chno="103322" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s103322_ll_h15_ab.png?w=360&h=270" group-title="Australia" tvg-id="NCKANZ" tvc-guide-stationid="103322",Nickelodeon
 http://example.local/AUS-NCKANZ.ts
 #EXTINF:-1 tvg-chno="115988" tvg-name="Nickelodeon Adelaide (NETTN)" tvg-logo="https://zap2it.tmsimg.com/assets/s115988_ll_h9_ag.png?w=360&h=270" group-title="Australia" tvg-id="SHADANZ" tvc-guide-stationid="115988",Nickelodeon Adelaide (NETTN)
@@ -1433,3 +1483,17 @@ http://example.local/AUS-WGSAANZ.ts
 http://example.local/AUS-WGTAANZ.ts
 #EXTINF:-1 tvg-chno="104497" tvg-name="WIN GOLD VIC (NETTN)" tvg-logo="https://zap2it.tmsimg.com/assets/s104497_ll_h9_aa.png?w=360&h=270" group-title="Australia" tvg-id="WGVIANZ" tvc-guide-stationid="104497",WIN GOLD VIC (NETTN)
 http://example.local/AUS-WGVIANZ.ts
+#EXTINF:-1 tvg-chno="162145" tvg-name="you.tv NSW" tvg-logo="None" group-title="Australia" tvg-id="YOUNSW" tvc-guide-stationid="162145",you.tv NSW
+http://example.local/AUS-YOUNSW.ts
+#EXTINF:-1 tvg-chno="162146" tvg-name="you.tv NT" tvg-logo="None" group-title="Australia" tvg-id="YOUNT" tvc-guide-stationid="162146",you.tv NT
+http://example.local/AUS-YOUNT.ts
+#EXTINF:-1 tvg-chno="162147" tvg-name="you.tv QLD" tvg-logo="None" group-title="Australia" tvg-id="YOUQLD" tvc-guide-stationid="162147",you.tv QLD
+http://example.local/AUS-YOUQLD.ts
+#EXTINF:-1 tvg-chno="162148" tvg-name="you.tv SA" tvg-logo="None" group-title="Australia" tvg-id="YOUSA" tvc-guide-stationid="162148",you.tv SA
+http://example.local/AUS-YOUSA.ts
+#EXTINF:-1 tvg-chno="162149" tvg-name="you.tv TAS" tvg-logo="None" group-title="Australia" tvg-id="YOUTAS" tvc-guide-stationid="162149",you.tv TAS
+http://example.local/AUS-YOUTAS.ts
+#EXTINF:-1 tvg-chno="162150" tvg-name="you.tv VIC" tvg-logo="None" group-title="Australia" tvg-id="YOUVIC" tvc-guide-stationid="162150",you.tv VIC
+http://example.local/AUS-YOUVIC.ts
+#EXTINF:-1 tvg-chno="162151" tvg-name="you.tv WA" tvg-logo="None" group-title="Australia" tvg-id="YOUWA" tvc-guide-stationid="162151",you.tv WA
+http://example.local/AUS-YOUWA.ts

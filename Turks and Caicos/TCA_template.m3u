@@ -163,6 +163,8 @@ http://example.local/TCA-PARSHO.ts
 http://example.local/TCA-PARSHOH.ts
 #EXTINF:-1 tvg-chno="19556" tvg-name="Peachtree TV (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s19556_ll_h15_aa.png?w=360&h=270" group-title="Turks and Caicos" tvg-id="WPCH" tvc-guide-stationid="19556",Peachtree TV (CW)
 http://example.local/TCA-WPCH.ts
+#EXTINF:-1 tvg-chno="14782" tvg-name="PPVP/Pay-Per-View Previews" tvg-logo="None" group-title="Turks and Caicos" tvg-id="PPVP" tvc-guide-stationid="14782",PPVP/Pay-Per-View Previews
+http://example.local/TCA-PPVP.ts
 #EXTINF:-1 tvg-chno="45169" tvg-name="RACER Network" tvg-logo="https://zap2it.tmsimg.com/assets/s45169_ll_h15_ac.png?w=360&h=270" group-title="Turks and Caicos" tvg-id="RACER" tvc-guide-stationid="45169",RACER Network
 http://example.local/TCA-RACER.ts
 #EXTINF:-1 tvg-chno="61036" tvg-name="RACER Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61036_ll_h15_ac.png?w=360&h=270" group-title="Turks and Caicos" tvg-id="RACERHD" tvc-guide-stationid="61036",RACER Network HD
@@ -187,6 +189,8 @@ http://example.local/TCA-STZK.ts
 http://example.local/TCA-STULA.ts
 #EXTINF:-1 tvg-chno="19246" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s19246_h3_aa.png?w=360&h=270" group-title="Turks and Caicos" tvg-id="TCML" tvc-guide-stationid="19246",TCM
 http://example.local/TCA-TCML.ts
+#EXTINF:-1 tvg-chno="75710" tvg-name="TeleHaiti Tele National" tvg-logo="None" group-title="Turks and Caicos" tvg-id="TLENATL" tvc-guide-stationid="75710",TeleHaiti Tele National
+http://example.local/TCA-TLENATL.ts
 #EXTINF:-1 tvg-chno="61566" tvg-name="TELEMICRO Canal 5" tvg-logo="https://zap2it.tmsimg.com/assets/s61566_ll_h15_aa.png?w=360&h=270" group-title="Turks and Caicos" tvg-id="TELEMCR" tvc-guide-stationid="61566",TELEMICRO Canal 5
 http://example.local/TCA-TELEMCR.ts
 #EXTINF:-1 tvg-chno="49948" tvg-name="TEMPO" tvg-logo="https://zap2it.tmsimg.com/assets/s49948_ll_h15_aa.png?w=360&h=270" group-title="Turks and Caicos" tvg-id="TEMPO" tvc-guide-stationid="49948",TEMPO
