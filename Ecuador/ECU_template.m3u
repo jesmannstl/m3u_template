@@ -51,7 +51,7 @@ http://example.local/ECU-BLUESDL.ts
 http://example.local/ECU-CANCON.ts
 #EXTINF:-1 tvg-chno="41074" tvg-name="AUDIO DLA CARIBBEAN RHYTHM" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="CARBRYM" tvc-guide-stationid="41074",AUDIO DLA CARIBBEAN RHYTHM
 http://example.local/ECU-CARBRYM.ts
-#EXTINF:-1 tvg-chno="40556" tvg-name="AUDIO DLA CHILL OUT ENG" tvg-logo="None" group-title="Ecuador" tvg-id="DLACHIL" tvc-guide-stationid="40556",AUDIO DLA CHILL OUT ENG
+#EXTINF:-1 tvg-chno="40556" tvg-name="AUDIO DLA CHILL OUT ENG" group-title="Ecuador" tvg-id="DLACHIL" tvc-guide-stationid="40556",AUDIO DLA CHILL OUT ENG
 http://example.local/ECU-DLACHIL.ts
 #EXTINF:-1 tvg-chno="41758" tvg-name="AUDIO DLA CLASICOS INSTRUMENTALES" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="CLSINST" tvc-guide-stationid="41758",AUDIO DLA CLASICOS INSTRUMENTALES
 http://example.local/ECU-CLSINST.ts
@@ -79,7 +79,7 @@ http://example.local/ECU-HOTJAMZ.ts
 http://example.local/ECU-ITALIAN.ts
 #EXTINF:-1 tvg-chno="38149" tvg-name="AUDIO DLA LATINA" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="ALATINA" tvc-guide-stationid="38149",AUDIO DLA LATINA
 http://example.local/ECU-ALATINA.ts
-#EXTINF:-1 tvg-chno="40557" tvg-name="AUDIO DLA LITE CLASSICAL" tvg-logo="None" group-title="Ecuador" tvg-id="LITECLA" tvc-guide-stationid="40557",AUDIO DLA LITE CLASSICAL
+#EXTINF:-1 tvg-chno="40557" tvg-name="AUDIO DLA LITE CLASSICAL" group-title="Ecuador" tvg-id="LITECLA" tvc-guide-stationid="40557",AUDIO DLA LITE CLASSICAL
 http://example.local/ECU-LITECLA.ts
 #EXTINF:-1 tvg-chno="39425" tvg-name="AUDIO DLA LOVE MUSIC" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="DLALOVE" tvc-guide-stationid="39425",AUDIO DLA LOVE MUSIC
 http://example.local/ECU-DLALOVE.ts
@@ -205,7 +205,7 @@ http://example.local/ECU-CARTOA.ts
 http://example.local/ECU-CBEETV.ts
 #EXTINF:-1 tvg-chno="24248" tvg-name="CCTV4-China Central TV" tvg-logo="https://zap2it.tmsimg.com/assets/s24248_ll_h15_ac.png?w=360&h=270" group-title="Ecuador" tvg-id="CCTV4" tvc-guide-stationid="24248",CCTV4-China Central TV
 http://example.local/ECU-CCTV4.ts
-#EXTINF:-1 tvg-chno="78997" tvg-name="Cine Canal Plus HD" tvg-logo="None" group-title="Ecuador" tvg-id="CINEPLH" tvc-guide-stationid="78997",Cine Canal Plus HD
+#EXTINF:-1 tvg-chno="78997" tvg-name="Cine Canal Plus HD" group-title="Ecuador" tvg-id="CINEPLH" tvc-guide-stationid="78997",Cine Canal Plus HD
 http://example.local/ECU-CINEPLH.ts
 #EXTINF:-1 tvg-chno="15296" tvg-name="Cine Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s15296_ll_h9_ab.png?w=360&h=270" group-title="Ecuador" tvg-id="CINL" tvc-guide-stationid="15296",Cine Latino
 http://example.local/ECU-CINL.ts
@@ -217,7 +217,7 @@ http://example.local/ECU-CCANAL.ts
 http://example.local/ECU-CANALHD.ts
 #EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
 http://example.local/ECU-CCLHD.ts
-#EXTINF:-1 tvg-chno="64240" tvg-name="Cinema Plus" tvg-logo="None" group-title="Ecuador" tvg-id="CINPLS" tvc-guide-stationid="64240",Cinema Plus
+#EXTINF:-1 tvg-chno="64240" tvg-name="Cinema Plus" group-title="Ecuador" tvg-id="CINPLS" tvc-guide-stationid="64240",Cinema Plus
 http://example.local/ECU-CINPLS.ts
 #EXTINF:-1 tvg-chno="70314" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png?w=360&h=270" group-title="Ecuador" tvg-id="MAXPNAM" tvc-guide-stationid="70314",Cinemax
 http://example.local/ECU-MAXPNAM.ts
@@ -255,17 +255,17 @@ http://example.local/ECU-DEPELPL.ts
 http://example.local/ECU-DEPEL.ts
 #EXTINF:-1 tvg-chno="75773" tvg-name="Deportiva 1300" tvg-logo="https://zap2it.tmsimg.com/assets/s75773_ll_h15_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="DEP1300" tvc-guide-stationid="75773",Deportiva 1300
 http://example.local/ECU-DEP1300.ts
-#EXTINF:-1 tvg-chno="20813" tvg-name="DirecTV - NFL Sunday Ticket - NFLST2" tvg-logo="None" group-title="Ecuador" tvg-id="NFLST2" tvc-guide-stationid="20813",DirecTV - NFL Sunday Ticket - NFLST2
+#EXTINF:-1 tvg-chno="20813" tvg-name="DirecTV - NFL Sunday Ticket - NFLST2" group-title="Ecuador" tvg-id="NFLST2" tvc-guide-stationid="20813",DirecTV - NFL Sunday Ticket - NFLST2
 http://example.local/ECU-NFLST2.ts
-#EXTINF:-1 tvg-chno="20814" tvg-name="DirecTV - NFL Sunday Ticket - NFLST3" tvg-logo="None" group-title="Ecuador" tvg-id="NFLST3" tvc-guide-stationid="20814",DirecTV - NFL Sunday Ticket - NFLST3
+#EXTINF:-1 tvg-chno="20814" tvg-name="DirecTV - NFL Sunday Ticket - NFLST3" group-title="Ecuador" tvg-id="NFLST3" tvc-guide-stationid="20814",DirecTV - NFL Sunday Ticket - NFLST3
 http://example.local/ECU-NFLST3.ts
 #EXTINF:-1 tvg-chno="108538" tvg-name="DIRECTV 4K" tvg-logo="https://zap2it.tmsimg.com/assets/s108538_ll_h15_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="DTVL4K" tvc-guide-stationid="108538",DIRECTV 4K
 http://example.local/ECU-DTVL4K.ts
-#EXTINF:-1 tvg-chno="12782" tvg-name="DIRECTV NEWS MIX" tvg-logo="None" group-title="Ecuador" tvg-id="NEWSMIX" tvc-guide-stationid="12782",DIRECTV NEWS MIX
+#EXTINF:-1 tvg-chno="12782" tvg-name="DIRECTV NEWS MIX" group-title="Ecuador" tvg-id="NEWSMIX" tvc-guide-stationid="12782",DIRECTV NEWS MIX
 http://example.local/ECU-NEWSMIX.ts
 #EXTINF:-1 tvg-chno="107426" tvg-name="DIRECTV Sports Ecuador" tvg-logo="https://zap2it.tmsimg.com/assets/s109752_ll_h15_ab.png?w=360&h=270" group-title="Ecuador" tvg-id="SPOEQ" tvc-guide-stationid="107426",DIRECTV Sports Ecuador
 http://example.local/ECU-SPOEQ.ts
-#EXTINF:-1 tvg-chno="106261" tvg-name="DirecTV2 Sports" tvg-logo="None" group-title="Ecuador" tvg-id="DT2SPT" tvc-guide-stationid="106261",DirecTV2 Sports
+#EXTINF:-1 tvg-chno="106261" tvg-name="DirecTV2 Sports" group-title="Ecuador" tvg-id="DT2SPT" tvc-guide-stationid="106261",DirecTV2 Sports
 http://example.local/ECU-DT2SPT.ts
 #EXTINF:-1 tvg-chno="25788" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png?w=360&h=270" group-title="Ecuador" tvg-id="DISCCH" tvc-guide-stationid="25788",Discovery Channel
 http://example.local/ECU-DISCCH.ts
@@ -329,11 +329,11 @@ http://example.local/ECU-HTJAMZ.ts
 http://example.local/ECU-JAZZ.ts
 #EXTINF:-1 tvg-chno="19799" tvg-name="DMX: Jazz Vocal Blends" tvg-logo="https://zap2it.tmsimg.com/assets/s19799_ll_h9_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="JZZVCL" tvc-guide-stationid="19799",DMX: Jazz Vocal Blends
 http://example.local/ECU-JZZVCL.ts
-#EXTINF:-1 tvg-chno="66461" tvg-name="DMX: Riviera Discotheque" tvg-logo="None" group-title="Ecuador" tvg-id="RDISCO" tvc-guide-stationid="66461",DMX: Riviera Discotheque
+#EXTINF:-1 tvg-chno="66461" tvg-name="DMX: Riviera Discotheque" group-title="Ecuador" tvg-id="RDISCO" tvc-guide-stationid="66461",DMX: Riviera Discotheque
 http://example.local/ECU-RDISCO.ts
 #EXTINF:-1 tvg-chno="19827" tvg-name="DMX: Soft Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="SFTHITS" tvc-guide-stationid="19827",DMX: Soft Hits
 http://example.local/ECU-SFTHITS.ts
-#EXTINF:-1 tvg-chno="125102" tvg-name="DNews" tvg-logo="None" group-title="Ecuador" tvg-id="DNEWS" tvc-guide-stationid="125102",DNews
+#EXTINF:-1 tvg-chno="125102" tvg-name="DNews" group-title="Ecuador" tvg-id="DNEWS" tvc-guide-stationid="125102",DNews
 http://example.local/ECU-DNEWS.ts
 #EXTINF:-1 tvg-chno="81235" tvg-name="DNU Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s41223_ll_h15_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="DISNMUH" tvc-guide-stationid="81235",DNU Disney Channel
 http://example.local/ECU-DISNMUH.ts
@@ -439,7 +439,7 @@ http://example.local/ECU-FABL.ts
 http://example.local/ECU-FM.ts
 #EXTINF:-1 tvg-chno="91919" tvg-name="Food Network" tvg-logo="https://zap2it.tmsimg.com/assets/s91919_ll_h15_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="FOODLA" tvc-guide-stationid="91919",Food Network
 http://example.local/ECU-FOODLA.ts
-#EXTINF:-1 tvg-chno="112146" tvg-name="Food Network Latam HD" tvg-logo="None" group-title="Ecuador" tvg-id="FODAMCO" tvc-guide-stationid="112146",Food Network Latam HD
+#EXTINF:-1 tvg-chno="112146" tvg-name="Food Network Latam HD" group-title="Ecuador" tvg-id="FODAMCO" tvc-guide-stationid="112146",Food Network Latam HD
 http://example.local/ECU-FODAMCO.ts
 #EXTINF:-1 tvg-chno="16374" tvg-name="Fox News Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16374_ll_h15_ab.png?w=360&h=270" group-title="Ecuador" tvg-id="FNC" tvc-guide-stationid="16374",Fox News Channel
 http://example.local/ECU-FNC.ts
@@ -447,7 +447,7 @@ http://example.local/ECU-FNC.ts
 http://example.local/ECU-FNCHD.ts
 #EXTINF:-1 tvg-chno="30191" tvg-name="FOX SPORTS" tvg-logo="https://zap2it.tmsimg.com/assets/s41677_ll_h15_ac.png?w=360&h=270" group-title="Ecuador" tvg-id="FSAR" tvc-guide-stationid="30191",FOX SPORTS
 http://example.local/ECU-FSAR.ts
-#EXTINF:-1 tvg-chno="68952" tvg-name="FOX SPORTS" tvg-logo="None" group-title="Ecuador" tvg-id="FSARH" tvc-guide-stationid="68952",FOX SPORTS
+#EXTINF:-1 tvg-chno="68952" tvg-name="FOX SPORTS" group-title="Ecuador" tvg-id="FSARH" tvc-guide-stationid="68952",FOX SPORTS
 http://example.local/ECU-FSARH.ts
 #EXTINF:-1 tvg-chno="30262" tvg-name="FOX Sports (Cono Sur Argentina)" tvg-logo="https://zap2it.tmsimg.com/assets/s41677_ll_h15_ac.png?w=360&h=270" group-title="Ecuador" tvg-id="FSALA" tvc-guide-stationid="30262",FOX Sports (Cono Sur Argentina)
 http://example.local/ECU-FSALA.ts
@@ -569,11 +569,11 @@ http://example.local/ECU-IDM.ts
 http://example.local/ECU-IDL.ts
 #EXTINF:-1 tvg-chno="77635" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png?w=360&h=270" group-title="Ecuador" tvg-id="IDLHD" tvc-guide-stationid="77635",ID
 http://example.local/ECU-IDLHD.ts
-#EXTINF:-1 tvg-chno="37958" tvg-name="INFORMACION 104" tvg-logo="None" group-title="Ecuador" tvg-id="INF104" tvc-guide-stationid="37958",INFORMACION 104
+#EXTINF:-1 tvg-chno="37958" tvg-name="INFORMACION 104" group-title="Ecuador" tvg-id="INF104" tvc-guide-stationid="37958",INFORMACION 104
 http://example.local/ECU-INF104.ts
 #EXTINF:-1 tvg-chno="108605" tvg-name="IVC Net HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97002_ll_h15_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="IVNETHD" tvc-guide-stationid="108605",IVC Net HD
 http://example.local/ECU-IVNETHD.ts
-#EXTINF:-1 tvg-chno="72758" tvg-name="La Redonda TV" tvg-logo="None" group-title="Ecuador" tvg-id="REDOTV" tvc-guide-stationid="72758",La Redonda TV
+#EXTINF:-1 tvg-chno="72758" tvg-name="La Redonda TV" group-title="Ecuador" tvg-id="REDOTV" tvc-guide-stationid="72758",La Redonda TV
 http://example.local/ECU-REDOTV.ts
 #EXTINF:-1 tvg-chno="16461" tvg-name="Las Estrellas (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png?w=360&h=270" group-title="Ecuador" tvg-id="XEW" tvc-guide-stationid="16461",Las Estrellas (ESTRNET)
 http://example.local/ECU-XEW.ts
@@ -587,21 +587,21 @@ http://example.local/ECU-LIFELA.ts
 http://example.local/ECU-LIFELC.ts
 #EXTINF:-1 tvg-chno="159513" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png?w=360&h=270" group-title="Ecuador" tvg-id="LIFSURH" tvc-guide-stationid="159513",Lifetime
 http://example.local/ECU-LIFSURH.ts
-#EXTINF:-1 tvg-chno="82046" tvg-name="Majestad TV" tvg-logo="None" group-title="Ecuador" tvg-id="MAJE" tvc-guide-stationid="82046",Majestad TV
+#EXTINF:-1 tvg-chno="82046" tvg-name="Majestad TV" group-title="Ecuador" tvg-id="MAJE" tvc-guide-stationid="82046",Majestad TV
 http://example.local/ECU-MAJE.ts
 #EXTINF:-1 tvg-chno="82047" tvg-name="Manavision" tvg-logo="https://zap2it.tmsimg.com/assets/s82047_ll_h15_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="MANA9" tvc-guide-stationid="82047",Manavision
 http://example.local/ECU-MANA9.ts
 #EXTINF:-1 tvg-chno="17457" tvg-name="Mas Chic" tvg-logo="https://zap2it.tmsimg.com/assets/s17457_ll_h15_ad.png?w=360&h=270" group-title="Ecuador" tvg-id="MASCHIC" tvc-guide-stationid="17457",Mas Chic
 http://example.local/ECU-MASCHIC.ts
-#EXTINF:-1 tvg-chno="60490" tvg-name="Mosaico Deportes" tvg-logo="None" group-title="Ecuador" tvg-id="MODEPDM" tvc-guide-stationid="60490",Mosaico Deportes
+#EXTINF:-1 tvg-chno="60490" tvg-name="Mosaico Deportes" group-title="Ecuador" tvg-id="MODEPDM" tvc-guide-stationid="60490",Mosaico Deportes
 http://example.local/ECU-MODEPDM.ts
-#EXTINF:-1 tvg-chno="47359" tvg-name="Mosaico Entretenimiento" tvg-logo="None" group-title="Ecuador" tvg-id="MENTRE" tvc-guide-stationid="47359",Mosaico Entretenimiento
+#EXTINF:-1 tvg-chno="47359" tvg-name="Mosaico Entretenimiento" group-title="Ecuador" tvg-id="MENTRE" tvc-guide-stationid="47359",Mosaico Entretenimiento
 http://example.local/ECU-MENTRE.ts
-#EXTINF:-1 tvg-chno="47360" tvg-name="Mosaico Entretenimiento 2" tvg-logo="None" group-title="Ecuador" tvg-id="MENTRE2" tvc-guide-stationid="47360",Mosaico Entretenimiento 2
+#EXTINF:-1 tvg-chno="47360" tvg-name="Mosaico Entretenimiento 2" group-title="Ecuador" tvg-id="MENTRE2" tvc-guide-stationid="47360",Mosaico Entretenimiento 2
 http://example.local/ECU-MENTRE2.ts
-#EXTINF:-1 tvg-chno="60608" tvg-name="MOSAICO HBO" tvg-logo="None" group-title="Ecuador" tvg-id="MOSHBO" tvc-guide-stationid="60608",MOSAICO HBO
+#EXTINF:-1 tvg-chno="60608" tvg-name="MOSAICO HBO" group-title="Ecuador" tvg-id="MOSHBO" tvc-guide-stationid="60608",MOSAICO HBO
 http://example.local/ECU-MOSHBO.ts
-#EXTINF:-1 tvg-chno="60488" tvg-name="Mosaico Infantil" tvg-logo="None" group-title="Ecuador" tvg-id="MINFANT" tvc-guide-stationid="60488",Mosaico Infantil
+#EXTINF:-1 tvg-chno="60488" tvg-name="Mosaico Infantil" group-title="Ecuador" tvg-id="MINFANT" tvc-guide-stationid="60488",Mosaico Infantil
 http://example.local/ECU-MINFANT.ts
 #EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png?w=360&h=270" group-title="Ecuador" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
 http://example.local/ECU-MTHD.ts
@@ -621,7 +621,7 @@ http://example.local/ECU-MTVLVHD.ts
 http://example.local/ECU-MPREL.ts
 #EXTINF:-1 tvg-chno="109487" tvg-name="Music Top" tvg-logo="https://zap2it.tmsimg.com/assets/s109487_ll_h15_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="MTOPHD" tvc-guide-stationid="109487",Music Top
 http://example.local/ECU-MTOPHD.ts
-#EXTINF:-1 tvg-chno="47432" tvg-name="Musica Clasica" tvg-logo="None" group-title="Ecuador" tvg-id="MUSCLAS" tvc-guide-stationid="47432",Musica Clasica
+#EXTINF:-1 tvg-chno="47432" tvg-name="Musica Clasica" group-title="Ecuador" tvg-id="MUSCLAS" tvc-guide-stationid="47432",Musica Clasica
 http://example.local/ECU-MUSCLAS.ts
 #EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
 http://example.local/ECU-NGKLA.ts
@@ -671,13 +671,13 @@ http://example.local/ECU-PENTVLM.ts
 http://example.local/ECU-PLAYLA.ts
 #EXTINF:-1 tvg-chno="70673" tvg-name="Playboy Latin America HD" tvg-logo="https://zap2it.tmsimg.com/assets/s70673_ll_h15_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="PLAYLHD" tvc-guide-stationid="70673",Playboy Latin America HD
 http://example.local/ECU-PLAYLHD.ts
-#EXTINF:-1 tvg-chno="11046" tvg-name="Playboy TV - PLAYB" tvg-logo="None" group-title="Ecuador" tvg-id="PLAYB" tvc-guide-stationid="11046",Playboy TV - PLAYB
+#EXTINF:-1 tvg-chno="11046" tvg-name="Playboy TV - PLAYB" group-title="Ecuador" tvg-id="PLAYB" tvc-guide-stationid="11046",Playboy TV - PLAYB
 http://example.local/ECU-PLAYB.ts
 #EXTINF:-1 tvg-chno="16788" tvg-name="Playboy TV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16788_ll_h15_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="PLAYL" tvc-guide-stationid="16788",Playboy TV Latin America
 http://example.local/ECU-PLAYL.ts
 #EXTINF:-1 tvg-chno="84072" tvg-name="PX Sports HD" tvg-logo="https://zap2it.tmsimg.com/assets/s72625_ll_h15_ab.png?w=360&h=270" group-title="Ecuador" tvg-id="PXSPHD" tvc-guide-stationid="84072",PX Sports HD
 http://example.local/ECU-PXSPHD.ts
-#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" tvg-logo="None" group-title="Ecuador" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Ecuador" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
 http://example.local/ECU-RCARA.ts
 #EXTINF:-1 tvg-chno="19040" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="RAIIS" tvc-guide-stationid="19040",Rai Italia
 http://example.local/ECU-RAIIS.ts
@@ -691,7 +691,7 @@ http://example.local/ECU-RCNTV.ts
 http://example.local/ECU-DIATV.ts
 #EXTINF:-1 tvg-chno="50798" tvg-name="Rede Globo INTL 2 (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/s50798_ll_h15_cc.png?w=360&h=270" group-title="Ecuador" tvg-id="RGTI2" tvc-guide-stationid="50798",Rede Globo INTL 2 (REDEGL)
 http://example.local/ECU-RGTI2.ts
-#EXTINF:-1 tvg-chno="75906" tvg-name="RFI" tvg-logo="None" group-title="Ecuador" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
+#EXTINF:-1 tvg-chno="75906" tvg-name="RFI" group-title="Ecuador" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
 http://example.local/ECU-RFIRAD.ts
 #EXTINF:-1 tvg-chno="39708" tvg-name="Rock Alternativo" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="ROCKALT" tvc-guide-stationid="39708",Rock Alternativo
 http://example.local/ECU-ROCKALT.ts
@@ -779,11 +779,11 @@ http://example.local/ECU-NIKLAHD.ts
 http://example.local/ECU-TELEMED.ts
 #EXTINF:-1 tvg-chno="61598" tvg-name="TeleAmazonas" tvg-logo="https://zap2it.tmsimg.com/assets/s61598_ll_h15_ac.png?w=360&h=270" group-title="Ecuador" tvg-id="AMAZG" tvc-guide-stationid="61598",TeleAmazonas
 http://example.local/ECU-AMAZG.ts
-#EXTINF:-1 tvg-chno="61134" tvg-name="Teleandina" tvg-logo="None" group-title="Ecuador" tvg-id="TANDI" tvc-guide-stationid="61134",Teleandina
+#EXTINF:-1 tvg-chno="61134" tvg-name="Teleandina" group-title="Ecuador" tvg-id="TANDI" tvc-guide-stationid="61134",Teleandina
 http://example.local/ECU-TANDI.ts
 #EXTINF:-1 tvg-chno="55427" tvg-name="Telecaribe" tvg-logo="https://zap2it.tmsimg.com/assets/s55427_ll_h15_ab.png?w=360&h=270" group-title="Ecuador" tvg-id="TELECAR" tvc-guide-stationid="55427",Telecaribe
 http://example.local/ECU-TELECAR.ts
-#EXTINF:-1 tvg-chno="92236" tvg-name="Teleciudadana" tvg-logo="None" group-title="Ecuador" tvg-id="CIUDA" tvc-guide-stationid="92236",Teleciudadana
+#EXTINF:-1 tvg-chno="92236" tvg-name="Teleciudadana" group-title="Ecuador" tvg-id="CIUDA" tvc-guide-stationid="92236",Teleciudadana
 http://example.local/ECU-CIUDA.ts
 #EXTINF:-1 tvg-chno="16189" tvg-name="Telefe Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s100066_ll_h15_ad.png?w=360&h=270" group-title="Ecuador" tvg-id="TEFEI" tvc-guide-stationid="16189",Telefe Internacional
 http://example.local/ECU-TEFEI.ts
@@ -797,7 +797,7 @@ http://example.local/ECU-CABTELE.ts
 http://example.local/ECU-RAMA.ts
 #EXTINF:-1 tvg-chno="46322" tvg-name="TELESISTEMA" tvg-logo="https://zap2it.tmsimg.com/assets/s46322_ll_h15_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="SISTEMA" tvc-guide-stationid="46322",TELESISTEMA
 http://example.local/ECU-SISTEMA.ts
-#EXTINF:-1 tvg-chno="61754" tvg-name="Telesucesos" tvg-logo="None" group-title="Ecuador" tvg-id="TSUCESO" tvc-guide-stationid="61754",Telesucesos
+#EXTINF:-1 tvg-chno="61754" tvg-name="Telesucesos" group-title="Ecuador" tvg-id="TSUCESO" tvc-guide-stationid="61754",Telesucesos
 http://example.local/ECU-TSUCESO.ts
 #EXTINF:-1 tvg-chno="47620" tvg-name="TeleSur" tvg-logo="https://zap2it.tmsimg.com/assets/s47620_ll_h15_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="TELESUR" tvc-guide-stationid="47620",TeleSur
 http://example.local/ECU-TELESUR.ts
@@ -835,23 +835,23 @@ http://example.local/ECU-TOONCST.ts
 http://example.local/ECU-TVAGRO.ts
 #EXTINF:-1 tvg-chno="16046" tvg-name="TV Chile" tvg-logo="https://zap2it.tmsimg.com/assets/s16046_ll_h15_ab.png?w=360&h=270" group-title="Ecuador" tvg-id="TVNI" tvc-guide-stationid="16046",TV Chile
 http://example.local/ECU-TVNI.ts
-#EXTINF:-1 tvg-chno="75762" tvg-name="TV Familia" tvg-logo="None" group-title="Ecuador" tvg-id="FLIA" tvc-guide-stationid="75762",TV Familia
+#EXTINF:-1 tvg-chno="75762" tvg-name="TV Familia" group-title="Ecuador" tvg-id="FLIA" tvc-guide-stationid="75762",TV Familia
 http://example.local/ECU-FLIA.ts
-#EXTINF:-1 tvg-chno="46327" tvg-name="TV Hoy" tvg-logo="None" group-title="Ecuador" tvg-id="TVHOYE" tvc-guide-stationid="46327",TV Hoy
+#EXTINF:-1 tvg-chno="46327" tvg-name="TV Hoy" group-title="Ecuador" tvg-id="TVHOYE" tvc-guide-stationid="46327",TV Hoy
 http://example.local/ECU-TVHOYE.ts
-#EXTINF:-1 tvg-chno="46329" tvg-name="TV Satelital" tvg-logo="None" group-title="Ecuador" tvg-id="TVSATEL" tvc-guide-stationid="46329",TV Satelital
+#EXTINF:-1 tvg-chno="46329" tvg-name="TV Satelital" group-title="Ecuador" tvg-id="TVSATEL" tvc-guide-stationid="46329",TV Satelital
 http://example.local/ECU-TVSATEL.ts
 #EXTINF:-1 tvg-chno="16422" tvg-name="TV5 Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16422_ll_h15_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="TV5L" tvc-guide-stationid="16422",TV5 Latin America
 http://example.local/ECU-TV5L.ts
 #EXTINF:-1 tvg-chno="16217" tvg-name="TVE" tvg-logo="https://zap2it.tmsimg.com/assets/s16217_ll_h15_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="TVEI" tvc-guide-stationid="16217",TVE
 http://example.local/ECU-TVEI.ts
-#EXTINF:-1 tvg-chno="77845" tvg-name="TVE International América Latine" tvg-logo="None" group-title="Ecuador" tvg-id="TVELAT" tvc-guide-stationid="77845",TVE International América Latine
+#EXTINF:-1 tvg-chno="77845" tvg-name="TVE International América Latine" group-title="Ecuador" tvg-id="TVELAT" tvc-guide-stationid="77845",TVE International América Latine
 http://example.local/ECU-TVELAT.ts
 #EXTINF:-1 tvg-chno="16275" tvg-name="TyC Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s16275_h3_ba.png?w=360&h=270" group-title="Ecuador" tvg-id="TYC" tvc-guide-stationid="16275",TyC Sports
 http://example.local/ECU-TYC.ts
 #EXTINF:-1 tvg-chno="62043" tvg-name="TyC Sports International" tvg-logo="https://zap2it.tmsimg.com/assets/s16275_ll_h15_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="TYCINTL" tvc-guide-stationid="62043",TyC Sports International
 http://example.local/ECU-TYCINTL.ts
-#EXTINF:-1 tvg-chno="122760" tvg-name="UNIPRMH" tvg-logo="None" group-title="Ecuador" tvg-id="UNIPRMH" tvc-guide-stationid="122760",UNIPRMH
+#EXTINF:-1 tvg-chno="122760" tvg-name="UNIPRMH" group-title="Ecuador" tvg-id="UNIPRMH" tvc-guide-stationid="122760",UNIPRMH
 http://example.local/ECU-UNIPRMH.ts
 #EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png?w=360&h=270" group-title="Ecuador" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/ECU-UNICI.ts

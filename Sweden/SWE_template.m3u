@@ -15,9 +15,9 @@ http://example.local/SWE-ALJZHDI.ts
 http://example.local/SWE-ANIPLHD.ts
 #EXTINF:-1 tvg-chno="67146" tvg-name="ARTE" tvg-logo="https://zap2it.tmsimg.com/assets/s67146_ll_h15_ab.png?w=360&h=270" group-title="Sweden" tvg-id="ARTEGRH" tvc-guide-stationid="67146",ARTE
 http://example.local/SWE-ARTEGRH.ts
-#EXTINF:-1 tvg-chno="107718" tvg-name="ATG Live" tvg-logo="None" group-title="Sweden" tvg-id="ATGLIVE" tvc-guide-stationid="107718",ATG Live
+#EXTINF:-1 tvg-chno="107718" tvg-name="ATG Live" group-title="Sweden" tvg-id="ATGLIVE" tvc-guide-stationid="107718",ATG Live
 http://example.local/SWE-ATGLIVE.ts
-#EXTINF:-1 tvg-chno="77691" tvg-name="Axess TV" tvg-logo="None" group-title="Sweden" tvg-id="AXESSTV" tvc-guide-stationid="77691",Axess TV
+#EXTINF:-1 tvg-chno="77691" tvg-name="Axess TV" group-title="Sweden" tvg-id="AXESSTV" tvc-guide-stationid="77691",Axess TV
 http://example.local/SWE-AXESSTV.ts
 #EXTINF:-1 tvg-chno="36844" tvg-name="BBC News" tvg-logo="https://zap2it.tmsimg.com/assets/s36844_ll_h15_ad.png?w=360&h=270" group-title="Sweden" tvg-id="BBCNEEU" tvc-guide-stationid="36844",BBC News
 http://example.local/SWE-BBCNEEU.ts
@@ -51,7 +51,7 @@ http://example.local/SWE-CNNEU.ts
 http://example.local/SWE-CNNEUHD.ts
 #EXTINF:-1 tvg-chno="67295" tvg-name="Das Erste" tvg-logo="https://zap2it.tmsimg.com/assets/s67295_ll_h15_ab.png?w=360&h=270" group-title="Sweden" tvg-id="DASERST" tvc-guide-stationid="67295",Das Erste
 http://example.local/SWE-DASERST.ts
-#EXTINF:-1 tvg-chno="108178" tvg-name="Di TV HD" tvg-logo="None" group-title="Sweden" tvg-id="DITVHD" tvc-guide-stationid="108178",Di TV HD
+#EXTINF:-1 tvg-chno="108178" tvg-name="Di TV HD" group-title="Sweden" tvg-id="DITVHD" tvc-guide-stationid="108178",Di TV HD
 http://example.local/SWE-DITVHD.ts
 #EXTINF:-1 tvg-chno="69424" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s69424_ll_h9_ab.png?w=360&h=270" group-title="Sweden" tvg-id="DISCCHA" tvc-guide-stationid="69424",Discovery Channel
 http://example.local/SWE-DISCCHA.ts
@@ -247,7 +247,7 @@ http://example.local/SWE-RTLGER.ts
 http://example.local/SWE-RTL2GRH.ts
 #EXTINF:-1 tvg-chno="100435" tvg-name="RTS Sat" tvg-logo="https://zap2it.tmsimg.com/assets/s100435_ll_h15_ab.png?w=360&h=270" group-title="Sweden" tvg-id="RTSSATE" tvc-guide-stationid="100435",RTS Sat
 http://example.local/SWE-RTSSATE.ts
-#EXTINF:-1 tvg-chno="113460" tvg-name="Sat.1" tvg-logo="None" group-title="Sweden" tvg-id="SAT1DEU" tvc-guide-stationid="113460",Sat.1
+#EXTINF:-1 tvg-chno="113460" tvg-name="Sat.1" group-title="Sweden" tvg-id="SAT1DEU" tvc-guide-stationid="113460",Sat.1
 http://example.local/SWE-SAT1DEU.ts
 #EXTINF:-1 tvg-chno="77678" tvg-name="SF Kanalen" tvg-logo="https://zap2it.tmsimg.com/assets/s77678_ll_h15_ab.png?w=360&h=270" group-title="Sweden" tvg-id="SFKANAL" tvc-guide-stationid="77678",SF Kanalen
 http://example.local/SWE-SFKANAL.ts
@@ -261,7 +261,7 @@ http://example.local/SWE-SKYNEWS.ts
 http://example.local/SWE-SKYS1SV.ts
 #EXTINF:-1 tvg-chno="122288" tvg-name="SkyShowtime 2" tvg-logo="https://zap2it.tmsimg.com/assets/s122288_ll_h15_as.png?w=360&h=270" group-title="Sweden" tvg-id="SKYS2SV" tvc-guide-stationid="122288",SkyShowtime 2
 http://example.local/SWE-SKYS2SV.ts
-#EXTINF:-1 tvg-chno="107029" tvg-name="Sport Expressen TV" tvg-logo="None" group-title="Sweden" tvg-id="SPEXTV" tvc-guide-stationid="107029",Sport Expressen TV
+#EXTINF:-1 tvg-chno="107029" tvg-name="Sport Expressen TV" group-title="Sweden" tvg-id="SPEXTV" tvc-guide-stationid="107029",Sport Expressen TV
 http://example.local/SWE-SPEXTV.ts
 #EXTINF:-1 tvg-chno="52814" tvg-name="Super RTL" tvg-logo="https://zap2it.tmsimg.com/assets/s52814_ll_h15_ac.png?w=360&h=270" group-title="Sweden" tvg-id="SUPRTL" tvc-guide-stationid="52814",Super RTL
 http://example.local/SWE-SUPRTL.ts
@@ -455,11 +455,11 @@ http://example.local/SWE-VIASPHD.ts
 http://example.local/SWE-VSPOEXT.ts
 #EXTINF:-1 tvg-chno="98543" tvg-name="V Sport Extra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s98543_ll_h15_ac.png?w=360&h=270" group-title="Sweden" tvg-id="VSSPXHD" tvc-guide-stationid="98543",V Sport Extra HD
 http://example.local/SWE-VSSPXHD.ts
-#EXTINF:-1 tvg-chno="167022" tvg-name="V Sport Football Live 1" tvg-logo="None" group-title="Sweden" tvg-id="VSPFOL1" tvc-guide-stationid="167022",V Sport Football Live 1
+#EXTINF:-1 tvg-chno="167022" tvg-name="V Sport Football Live 1" group-title="Sweden" tvg-id="VSPFOL1" tvc-guide-stationid="167022",V Sport Football Live 1
 http://example.local/SWE-VSPFOL1.ts
-#EXTINF:-1 tvg-chno="167023" tvg-name="V Sport Football Live 2" tvg-logo="None" group-title="Sweden" tvg-id="VSPFOL2" tvc-guide-stationid="167023",V Sport Football Live 2
+#EXTINF:-1 tvg-chno="167023" tvg-name="V Sport Football Live 2" group-title="Sweden" tvg-id="VSPFOL2" tvc-guide-stationid="167023",V Sport Football Live 2
 http://example.local/SWE-VSPFOL2.ts
-#EXTINF:-1 tvg-chno="167024" tvg-name="V Sport Football Live 3" tvg-logo="None" group-title="Sweden" tvg-id="VSPFOL3" tvc-guide-stationid="167024",V Sport Football Live 3
+#EXTINF:-1 tvg-chno="167024" tvg-name="V Sport Football Live 3" group-title="Sweden" tvg-id="VSPFOL3" tvc-guide-stationid="167024",V Sport Football Live 3
 http://example.local/SWE-VSPFOL3.ts
 #EXTINF:-1 tvg-chno="77730" tvg-name="V Sport Fotboll HD" tvg-logo="https://zap2it.tmsimg.com/assets/s77730_ll_h15_aa.png?w=360&h=270" group-title="Sweden" tvg-id="VIAFOHD" tvc-guide-stationid="77730",V Sport Fotboll HD
 http://example.local/SWE-VIAFOHD.ts
@@ -509,7 +509,7 @@ http://example.local/SWE-YLE2.ts
 http://example.local/SWE-YLE2HD.ts
 #EXTINF:-1 tvg-chno="86886" tvg-name="ZDF" tvg-logo="https://zap2it.tmsimg.com/assets/s86886_ll_h15_ab.png?w=360&h=270" group-title="Sweden" tvg-id="ZDFG" tvc-guide-stationid="86886",ZDF
 http://example.local/SWE-ZDFG.ts
-#EXTINF:-1 tvg-chno="86792" tvg-name="Öppna Kanalen Göteborg" tvg-logo="None" group-title="Sweden" tvg-id="OKANG" tvc-guide-stationid="86792",Öppna Kanalen Göteborg
+#EXTINF:-1 tvg-chno="86792" tvg-name="Öppna Kanalen Göteborg" group-title="Sweden" tvg-id="OKANG" tvc-guide-stationid="86792",Öppna Kanalen Göteborg
 http://example.local/SWE-OKANG.ts
-#EXTINF:-1 tvg-chno="78632" tvg-name="Öppna Kanalen Stockholm" tvg-logo="None" group-title="Sweden" tvg-id="OPPNA" tvc-guide-stationid="78632",Öppna Kanalen Stockholm
+#EXTINF:-1 tvg-chno="78632" tvg-name="Öppna Kanalen Stockholm" group-title="Sweden" tvg-id="OPPNA" tvc-guide-stationid="78632",Öppna Kanalen Stockholm
 http://example.local/SWE-OPPNA.ts

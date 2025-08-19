@@ -41,9 +41,9 @@ http://example.local/ARG-AMER24.ts
 http://example.local/ARG-AMR24HD.ts
 #EXTINF:-1 tvg-chno="16271" tvg-name="America Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s16271_ll_h9_ab.png?w=360&h=270" group-title="Argentina" tvg-id="AMSP" tvc-guide-stationid="16271",America Sports
 http://example.local/ARG-AMSP.ts
-#EXTINF:-1 tvg-chno="99799" tvg-name="America TV Internacional HD" tvg-logo="None" group-title="Argentina" tvg-id="AMRTVHD" tvc-guide-stationid="99799",America TV Internacional HD
+#EXTINF:-1 tvg-chno="99799" tvg-name="America TV Internacional HD" group-title="Argentina" tvg-id="AMRTVHD" tvc-guide-stationid="99799",America TV Internacional HD
 http://example.local/ARG-AMRTVHD.ts
-#EXTINF:-1 tvg-chno="79722" tvg-name="América Satelital" tvg-logo="None" group-title="Argentina" tvg-id="AMSATE" tvc-guide-stationid="79722",América Satelital
+#EXTINF:-1 tvg-chno="79722" tvg-name="América Satelital" group-title="Argentina" tvg-id="AMSATE" tvc-guide-stationid="79722",América Satelital
 http://example.local/ARG-AMSATE.ts
 #EXTINF:-1 tvg-chno="16395" tvg-name="América Tv" tvg-logo="https://zap2it.tmsimg.com/assets/s16395_h3_aa.png?w=360&h=270" group-title="Argentina" tvg-id="AMSAT" tvc-guide-stationid="16395",América Tv
 http://example.local/ARG-AMSAT.ts
@@ -51,7 +51,7 @@ http://example.local/ARG-AMSAT.ts
 http://example.local/ARG-AMETV.ts
 #EXTINF:-1 tvg-chno="102994" tvg-name="América TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s16395_h3_aa.png?w=360&h=270" group-title="Argentina" tvg-id="AMETVHD" tvc-guide-stationid="102994",América TV HD
 http://example.local/ARG-AMETVHD.ts
-#EXTINF:-1 tvg-chno="170998" tvg-name="AND" tvg-logo="None" group-title="Argentina" tvg-id="ANDARG" tvc-guide-stationid="170998",AND
+#EXTINF:-1 tvg-chno="170998" tvg-name="AND" group-title="Argentina" tvg-id="ANDARG" tvc-guide-stationid="170998",AND
 http://example.local/ARG-ANDARG.ts
 #EXTINF:-1 tvg-chno="97167" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_h3_ba.png?w=360&h=270" group-title="Argentina" tvg-id="ANIPLH" tvc-guide-stationid="97167",Animal Planet
 http://example.local/ARG-ANIPLH.ts
@@ -67,7 +67,7 @@ http://example.local/ARG-ANT3SPH.ts
 http://example.local/ARG-ANT3I.ts
 #EXTINF:-1 tvg-chno="100652" tvg-name="Antena 3 Internacional HD DTVPA" tvg-logo="https://zap2it.tmsimg.com/assets/s100652_ll_h9_aa.png?w=360&h=270" group-title="Argentina" tvg-id="DANT3IH" tvc-guide-stationid="100652",Antena 3 Internacional HD DTVPA
 http://example.local/ARG-DANT3IH.ts
-#EXTINF:-1 tvg-chno="18091" tvg-name="Argentinisima" tvg-logo="None" group-title="Argentina" tvg-id="ARGEN" tvc-guide-stationid="18091",Argentinisima
+#EXTINF:-1 tvg-chno="18091" tvg-name="Argentinisima" group-title="Argentina" tvg-id="ARGEN" tvc-guide-stationid="18091",Argentinisima
 http://example.local/ARG-ARGEN.ts
 #EXTINF:-1 tvg-chno="120581" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png?w=360&h=270" group-title="Argentina" tvg-id="ARANGSP" tvc-guide-stationid="120581",Arirang
 http://example.local/ARG-ARANGSP.ts
@@ -125,7 +125,7 @@ http://example.local/ARG-TVB.ts
 http://example.local/ARG-BOOM.ts
 #EXTINF:-1 tvg-chno="58625" tvg-name="Bravo HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58625_ll_h15_ab.png?w=360&h=270" group-title="Argentina" tvg-id="BRAVOHD" tvc-guide-stationid="58625",Bravo HD
 http://example.local/ARG-BRAVOHD.ts
-#EXTINF:-1 tvg-chno="123195" tvg-name="Bravo TV" tvg-logo="None" group-title="Argentina" tvg-id="BRAVOTV" tvc-guide-stationid="123195",Bravo TV
+#EXTINF:-1 tvg-chno="123195" tvg-name="Bravo TV" group-title="Argentina" tvg-id="BRAVOTV" tvc-guide-stationid="123195",Bravo TV
 http://example.local/ARG-BRAVOTV.ts
 #EXTINF:-1 tvg-chno="16790" tvg-name="Brazzers TV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16790_ll_h15_aa.png?w=360&h=270" group-title="Argentina" tvg-id="BRAZZLA" tvc-guide-stationid="16790",Brazzers TV Latin America
 http://example.local/ARG-BRAZZLA.ts
@@ -159,11 +159,11 @@ http://example.local/ARG-CNINT.ts
 http://example.local/ARG-CALUZ.ts
 #EXTINF:-1 tvg-chno="94955" tvg-name="Canal Orbe 21" tvg-logo="https://zap2it.tmsimg.com/assets/s94955_ll_h15_aa.png?w=360&h=270" group-title="Argentina" tvg-id="ORBE21" tvc-guide-stationid="94955",Canal Orbe 21
 http://example.local/ARG-ORBE21.ts
-#EXTINF:-1 tvg-chno="170999" tvg-name="Canal Provincial TeleRed" tvg-logo="None" group-title="Argentina" tvg-id="CPTERED" tvc-guide-stationid="170999",Canal Provincial TeleRed
+#EXTINF:-1 tvg-chno="170999" tvg-name="Canal Provincial TeleRed" group-title="Argentina" tvg-id="CPTERED" tvc-guide-stationid="170999",Canal Provincial TeleRed
 http://example.local/ARG-CPTERED.ts
 #EXTINF:-1 tvg-chno="20402" tvg-name="Canal Rural" tvg-logo="https://zap2it.tmsimg.com/assets/s20402_ll_h15_aa.png?w=360&h=270" group-title="Argentina" tvg-id="RURAL" tvc-guide-stationid="20402",Canal Rural
 http://example.local/ARG-RURAL.ts
-#EXTINF:-1 tvg-chno="79752" tvg-name="Canal Santa Maria" tvg-logo="None" group-title="Argentina" tvg-id="CNSTMAR" tvc-guide-stationid="79752",Canal Santa Maria
+#EXTINF:-1 tvg-chno="79752" tvg-name="Canal Santa Maria" group-title="Argentina" tvg-id="CNSTMAR" tvc-guide-stationid="79752",Canal Santa Maria
 http://example.local/ARG-CNSTMAR.ts
 #EXTINF:-1 tvg-chno="71721" tvg-name="Canal Sony" tvg-logo="https://zap2it.tmsimg.com/assets/s71721_ll_h15_aa.png?w=360&h=270" group-title="Argentina" tvg-id="SETLVHD" tvc-guide-stationid="71721",Canal Sony
 http://example.local/ARG-SETLVHD.ts
@@ -175,7 +175,7 @@ http://example.local/ARG-SETLC.ts
 http://example.local/ARG-SETARGE.ts
 #EXTINF:-1 tvg-chno="88517" tvg-name="Canal Sony" tvg-logo="https://zap2it.tmsimg.com/assets/s19385_ll_h15_ac.png?w=360&h=270" group-title="Argentina" tvg-id="SENTTVH" tvc-guide-stationid="88517",Canal Sony
 http://example.local/ARG-SENTTVH.ts
-#EXTINF:-1 tvg-chno="171000" tvg-name="Canal TeleRed" tvg-logo="None" group-title="Argentina" tvg-id="CANTRED" tvc-guide-stationid="171000",Canal TeleRed
+#EXTINF:-1 tvg-chno="171000" tvg-name="Canal TeleRed" group-title="Argentina" tvg-id="CANTRED" tvc-guide-stationid="171000",Canal TeleRed
 http://example.local/ARG-CANTRED.ts
 #EXTINF:-1 tvg-chno="60312" tvg-name="Canal Universitario de Antioquia - Canal U" tvg-logo="https://zap2it.tmsimg.com/assets/s60312_ll_h15_aa.png?w=360&h=270" group-title="Argentina" tvg-id="CANALU" tvc-guide-stationid="60312",Canal Universitario de Antioquia - Canal U
 http://example.local/ARG-CANALU.ts
@@ -207,7 +207,7 @@ http://example.local/ARG-CARTOMH.ts
 http://example.local/ARG-CGTNE.ts
 #EXTINF:-1 tvg-chno="139926" tvg-name="Chacra TV" tvg-logo="https://zap2it.tmsimg.com/assets/s139926_ll_h15_aa.png?w=360&h=270" group-title="Argentina" tvg-id="CHATV" tvc-guide-stationid="139926",Chacra TV
 http://example.local/ARG-CHATV.ts
-#EXTINF:-1 tvg-chno="78997" tvg-name="Cine Canal Plus HD" tvg-logo="None" group-title="Argentina" tvg-id="CINEPLH" tvc-guide-stationid="78997",Cine Canal Plus HD
+#EXTINF:-1 tvg-chno="78997" tvg-name="Cine Canal Plus HD" group-title="Argentina" tvg-id="CINEPLH" tvc-guide-stationid="78997",Cine Canal Plus HD
 http://example.local/ARG-CINEPLH.ts
 #EXTINF:-1 tvg-chno="81974" tvg-name="Cine.Ar" tvg-logo="https://zap2it.tmsimg.com/assets/s81974_ll_h9_ad.png?w=360&h=270" group-title="Argentina" tvg-id="CINEAR" tvc-guide-stationid="81974",Cine.Ar
 http://example.local/ARG-CINEAR.ts
@@ -259,9 +259,9 @@ http://example.local/ARG-CCLASHD.ts
 http://example.local/ARG-COMCELA.ts
 #EXTINF:-1 tvg-chno="74906" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s100848_ll_h15_ac.png?w=360&h=270" group-title="Argentina" tvg-id="COMCLAH" tvc-guide-stationid="74906",Comedy Central
 http://example.local/ARG-COMCLAH.ts
-#EXTINF:-1 tvg-chno="108368" tvg-name="Construir Tv" tvg-logo="None" group-title="Argentina" tvg-id="CONSTVC" tvc-guide-stationid="108368",Construir Tv
+#EXTINF:-1 tvg-chno="108368" tvg-name="Construir Tv" group-title="Argentina" tvg-id="CONSTVC" tvc-guide-stationid="108368",Construir Tv
 http://example.local/ARG-CONSTVC.ts
-#EXTINF:-1 tvg-chno="76004" tvg-name="Construir TV" tvg-logo="None" group-title="Argentina" tvg-id="CONSTV" tvc-guide-stationid="76004",Construir TV
+#EXTINF:-1 tvg-chno="76004" tvg-name="Construir TV" group-title="Argentina" tvg-id="CONSTV" tvc-guide-stationid="76004",Construir TV
 http://example.local/ARG-CONSTV.ts
 #EXTINF:-1 tvg-chno="16258" tvg-name="Cronica TV" tvg-logo="https://zap2it.tmsimg.com/assets/s16258_ll_h15_ab.png?w=360&h=270" group-title="Argentina" tvg-id="CRON" tvc-guide-stationid="16258",Cronica TV
 http://example.local/ARG-CRON.ts
@@ -283,7 +283,7 @@ http://example.local/ARG-DEPORHA.ts
 http://example.local/ARG-DEST.ts
 #EXTINF:-1 tvg-chno="85720" tvg-name="Deutsche Welle Latin America English" tvg-logo="https://zap2it.tmsimg.com/assets/s64230_ll_h15_ag.png?w=360&h=270" group-title="Argentina" tvg-id="DDWLAE" tvc-guide-stationid="85720",Deutsche Welle Latin America English
 http://example.local/ARG-DDWLAE.ts
-#EXTINF:-1 tvg-chno="12782" tvg-name="DIRECTV NEWS MIX" tvg-logo="None" group-title="Argentina" tvg-id="NEWSMIX" tvc-guide-stationid="12782",DIRECTV NEWS MIX
+#EXTINF:-1 tvg-chno="12782" tvg-name="DIRECTV NEWS MIX" group-title="Argentina" tvg-id="NEWSMIX" tvc-guide-stationid="12782",DIRECTV NEWS MIX
 http://example.local/ARG-NEWSMIX.ts
 #EXTINF:-1 tvg-chno="109337" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png?w=360&h=270" group-title="Argentina" tvg-id="TDCLVHD" tvc-guide-stationid="109337",Discovery Channel
 http://example.local/ARG-TDCLVHD.ts
@@ -355,9 +355,9 @@ http://example.local/ARG-DISNJMX.ts
 http://example.local/ARG-DISNXD.ts
 #EXTINF:-1 tvg-chno="21458" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_ll_h15_ab.png?w=360&h=270" group-title="Argentina" tvg-id="DISNXDA" tvc-guide-stationid="21458",Disney XD
 http://example.local/ARG-DISNXDA.ts
-#EXTINF:-1 tvg-chno="26611" tvg-name="DMX 50's & 60's Hits" tvg-logo="None" group-title="Argentina" tvg-id="56HITS" tvc-guide-stationid="26611",DMX 50's & 60's Hits
+#EXTINF:-1 tvg-chno="26611" tvg-name="DMX 50's & 60's Hits" group-title="Argentina" tvg-id="56HITS" tvc-guide-stationid="26611",DMX 50's & 60's Hits
 http://example.local/ARG-56HITS.ts
-#EXTINF:-1 tvg-chno="125102" tvg-name="DNews" tvg-logo="None" group-title="Argentina" tvg-id="DNEWS" tvc-guide-stationid="125102",DNews
+#EXTINF:-1 tvg-chno="125102" tvg-name="DNews" group-title="Argentina" tvg-id="DNEWS" tvc-guide-stationid="125102",DNews
 http://example.local/ARG-DNEWS.ts
 #EXTINF:-1 tvg-chno="81235" tvg-name="DNU Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s41223_ll_h15_aa.png?w=360&h=270" group-title="Argentina" tvg-id="DISNMUH" tvc-guide-stationid="81235",DNU Disney Channel
 http://example.local/ARG-DISNMUH.ts
@@ -369,9 +369,9 @@ http://example.local/ARG-FXLAHD.ts
 http://example.local/ARG-STRPHD.ts
 #EXTINF:-1 tvg-chno="123193" tvg-name="Dreamworks" tvg-logo="https://zap2it.tmsimg.com/assets/s123192_ll_h15_aa.png?w=360&h=270" group-title="Argentina" tvg-id="DREAMWS" tvc-guide-stationid="123193",Dreamworks
 http://example.local/ARG-DREAMWS.ts
-#EXTINF:-1 tvg-chno="137118" tvg-name="DShow" tvg-logo="None" group-title="Argentina" tvg-id="DSHOW" tvc-guide-stationid="137118",DShow
+#EXTINF:-1 tvg-chno="137118" tvg-name="DShow" group-title="Argentina" tvg-id="DSHOW" tvc-guide-stationid="137118",DShow
 http://example.local/ARG-DSHOW.ts
-#EXTINF:-1 tvg-chno="171001" tvg-name="DTV Cinema" tvg-logo="None" group-title="Argentina" tvg-id="DTVCARG" tvc-guide-stationid="171001",DTV Cinema
+#EXTINF:-1 tvg-chno="171001" tvg-name="DTV Cinema" group-title="Argentina" tvg-id="DTVCARG" tvc-guide-stationid="171001",DTV Cinema
 http://example.local/ARG-DTVCARG.ts
 #EXTINF:-1 tvg-chno="109813" tvg-name="DumDum HD" tvg-logo="https://zap2it.tmsimg.com/assets/s109813_ll_h15_ac.png?w=360&h=270" group-title="Argentina" tvg-id="DUMHDBR" tvc-guide-stationid="109813",DumDum HD
 http://example.local/ARG-DUMHDBR.ts
@@ -393,7 +393,7 @@ http://example.local/ARG-DETVLHD.ts
 http://example.local/ARG-ELDOCE.ts
 #EXTINF:-1 tvg-chno="87311" tvg-name="El Financiero" tvg-logo="https://zap2it.tmsimg.com/assets/s87311_ll_h15_ab.png?w=360&h=270" group-title="Argentina" tvg-id="FINANC" tvc-guide-stationid="87311",El Financiero
 http://example.local/ARG-FINANC.ts
-#EXTINF:-1 tvg-chno="107180" tvg-name="El Garage" tvg-logo="None" group-title="Argentina" tvg-id="ELGARMX" tvc-guide-stationid="107180",El Garage
+#EXTINF:-1 tvg-chno="107180" tvg-name="El Garage" group-title="Argentina" tvg-id="ELGARMX" tvc-guide-stationid="107180",El Garage
 http://example.local/ARG-ELGARMX.ts
 #EXTINF:-1 tvg-chno="100602" tvg-name="El Gourmet" tvg-logo="https://zap2it.tmsimg.com/assets/s25553_h3_ba.png?w=360&h=270" group-title="Argentina" tvg-id="GOURNSD" tvc-guide-stationid="100602",El Gourmet
 http://example.local/ARG-GOURNSD.ts
@@ -497,7 +497,7 @@ http://example.local/ARG-FOODLA.ts
 http://example.local/ARG-FOOD.ts
 #EXTINF:-1 tvg-chno="50747" tvg-name="Food Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s50747_ll_h15_ab.png?w=360&h=270" group-title="Argentina" tvg-id="FOODHD" tvc-guide-stationid="50747",Food Network HD
 http://example.local/ARG-FOODHD.ts
-#EXTINF:-1 tvg-chno="112146" tvg-name="Food Network Latam HD" tvg-logo="None" group-title="Argentina" tvg-id="FODAMCO" tvc-guide-stationid="112146",Food Network Latam HD
+#EXTINF:-1 tvg-chno="112146" tvg-name="Food Network Latam HD" group-title="Argentina" tvg-id="FODAMCO" tvc-guide-stationid="112146",Food Network Latam HD
 http://example.local/ARG-FODAMCO.ts
 #EXTINF:-1 tvg-chno="15377" tvg-name="Fox Deportes" tvg-logo="https://zap2it.tmsimg.com/assets/s15377_ll_h15_ab.png?w=360&h=270" group-title="Argentina" tvg-id="FXDEP" tvc-guide-stationid="15377",Fox Deportes
 http://example.local/ARG-FXDEP.ts
@@ -505,7 +505,7 @@ http://example.local/ARG-FXDEP.ts
 http://example.local/ARG-FNC.ts
 #EXTINF:-1 tvg-chno="60179" tvg-name="Fox News Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60179_ll_h15_ab.png?w=360&h=270" group-title="Argentina" tvg-id="FNCHD" tvc-guide-stationid="60179",Fox News Channel HD
 http://example.local/ARG-FNCHD.ts
-#EXTINF:-1 tvg-chno="68952" tvg-name="FOX SPORTS" tvg-logo="None" group-title="Argentina" tvg-id="FSARH" tvc-guide-stationid="68952",FOX SPORTS
+#EXTINF:-1 tvg-chno="68952" tvg-name="FOX SPORTS" group-title="Argentina" tvg-id="FSARH" tvc-guide-stationid="68952",FOX SPORTS
 http://example.local/ARG-FSARH.ts
 #EXTINF:-1 tvg-chno="61704" tvg-name="Fox Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s41677_ll_h15_ac.png?w=360&h=270" group-title="Argentina" tvg-id="FSALPHD" tvc-guide-stationid="61704",Fox Sports
 http://example.local/ARG-FSALPHD.ts
@@ -517,9 +517,9 @@ http://example.local/ARG-FS2AR.ts
 http://example.local/ARG-FOXSHD2.ts
 #EXTINF:-1 tvg-chno="66365" tvg-name="Fox Sports 2" tvg-logo="https://zap2it.tmsimg.com/assets/s66365_ll_h15_ab.png?w=360&h=270" group-title="Argentina" tvg-id="FOXS2" tvc-guide-stationid="66365",Fox Sports 2
 http://example.local/ARG-FOXS2.ts
-#EXTINF:-1 tvg-chno="105692" tvg-name="Fox Sports 2 (Argentina)" tvg-logo="None" group-title="Argentina" tvg-id="FS2ARHD" tvc-guide-stationid="105692",Fox Sports 2 (Argentina)
+#EXTINF:-1 tvg-chno="105692" tvg-name="Fox Sports 2 (Argentina)" group-title="Argentina" tvg-id="FS2ARHD" tvc-guide-stationid="105692",Fox Sports 2 (Argentina)
 http://example.local/ARG-FS2ARHD.ts
-#EXTINF:-1 tvg-chno="123189" tvg-name="Fox Sports 3 (Argentina)" tvg-logo="None" group-title="Argentina" tvg-id="FS3AR" tvc-guide-stationid="123189",Fox Sports 3 (Argentina)
+#EXTINF:-1 tvg-chno="123189" tvg-name="Fox Sports 3 (Argentina)" group-title="Argentina" tvg-id="FS3AR" tvc-guide-stationid="123189",Fox Sports 3 (Argentina)
 http://example.local/ARG-FS3AR.ts
 #EXTINF:-1 tvg-chno="59307" tvg-name="Fox Sports Latin America HD (inactive)" tvg-logo="https://zap2it.tmsimg.com/assets/s59307_ll_h15_aa.png?w=360&h=270" group-title="Argentina" tvg-id="FSLAHD" tvc-guide-stationid="59307",Fox Sports Latin America HD (inactive)
 http://example.local/ARG-FSLAHD.ts
@@ -667,13 +667,13 @@ http://example.local/ARG-H2LAT.ts
 http://example.local/ARG-H2LAM.ts
 #EXTINF:-1 tvg-chno="113554" tvg-name="History Channel Argentina HD" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png?w=360&h=270" group-title="Argentina" tvg-id="HCCHDA" tvc-guide-stationid="113554",History Channel Argentina HD
 http://example.local/ARG-HCCHDA.ts
-#EXTINF:-1 tvg-chno="167768" tvg-name="History HD" tvg-logo="None" group-title="Argentina" tvg-id="HISTARG" tvc-guide-stationid="167768",History HD
+#EXTINF:-1 tvg-chno="167768" tvg-name="History HD" group-title="Argentina" tvg-id="HISTARG" tvc-guide-stationid="167768",History HD
 http://example.local/ARG-HISTARG.ts
 #EXTINF:-1 tvg-chno="110785" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png?w=360&h=270" group-title="Argentina" tvg-id="HTVLAH" tvc-guide-stationid="110785",HTV
 http://example.local/ARG-HTVLAH.ts
 #EXTINF:-1 tvg-chno="15969" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png?w=360&h=270" group-title="Argentina" tvg-id="HTVLA" tvc-guide-stationid="15969",HTV
 http://example.local/ARG-HTVLA.ts
-#EXTINF:-1 tvg-chno="52760" tvg-name="HTV Musica On Demand" tvg-logo="None" group-title="Argentina" tvg-id="HTVMUDM" tvc-guide-stationid="52760",HTV Musica On Demand
+#EXTINF:-1 tvg-chno="52760" tvg-name="HTV Musica On Demand" group-title="Argentina" tvg-id="HTVMUDM" tvc-guide-stationid="52760",HTV Musica On Demand
 http://example.local/ARG-HTVMUDM.ts
 #EXTINF:-1 tvg-chno="76951" tvg-name="Hustler TV" tvg-logo="https://zap2it.tmsimg.com/assets/s102775_ll_h15_ab.png?w=360&h=270" group-title="Argentina" tvg-id="ESHUSTL" tvc-guide-stationid="76951",Hustler TV
 http://example.local/ARG-ESHUSTL.ts
@@ -687,7 +687,7 @@ http://example.local/ARG-IDA.ts
 http://example.local/ARG-IDL.ts
 #EXTINF:-1 tvg-chno="109896" tvg-name="ID HD" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png?w=360&h=270" group-title="Argentina" tvg-id="IDMEXHD" tvc-guide-stationid="109896",ID HD
 http://example.local/ARG-IDMEXHD.ts
-#EXTINF:-1 tvg-chno="171002" tvg-name="INCAA TV - Instituto Nacional de Cine y Artes" tvg-logo="None" group-title="Argentina" tvg-id="INCAARG" tvc-guide-stationid="171002",INCAA TV - Instituto Nacional de Cine y Artes
+#EXTINF:-1 tvg-chno="171002" tvg-name="INCAA TV - Instituto Nacional de Cine y Artes" group-title="Argentina" tvg-id="INCAARG" tvc-guide-stationid="171002",INCAA TV - Instituto Nacional de Cine y Artes
 http://example.local/ARG-INCAARG.ts
 #EXTINF:-1 tvg-chno="90848" tvg-name="Investigacion Discovery Latin AmEnglish HD" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png?w=360&h=270" group-title="Argentina" tvg-id="IDLEHD" tvc-guide-stationid="90848",Investigacion Discovery Latin AmEnglish HD
 http://example.local/ARG-IDLEHD.ts
@@ -763,7 +763,7 @@ http://example.local/ARG-MTVHTLA.ts
 http://example.local/ARG-MTVLVHD.ts
 #EXTINF:-1 tvg-chno="109487" tvg-name="Music Top" tvg-logo="https://zap2it.tmsimg.com/assets/s109487_ll_h15_aa.png?w=360&h=270" group-title="Argentina" tvg-id="MTOPHD" tvc-guide-stationid="109487",Music Top
 http://example.local/ARG-MTOPHD.ts
-#EXTINF:-1 tvg-chno="25556" tvg-name="MusicCountry" tvg-logo="None" group-title="Argentina" tvg-id="MUSCO" tvc-guide-stationid="25556",MusicCountry
+#EXTINF:-1 tvg-chno="25556" tvg-name="MusicCountry" group-title="Argentina" tvg-id="MUSCO" tvc-guide-stationid="25556",MusicCountry
 http://example.local/ARG-MUSCO.ts
 #EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png?w=360&h=270" group-title="Argentina" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
 http://example.local/ARG-NGKLA.ts
@@ -809,7 +809,7 @@ http://example.local/ARG-NICKJMH.ts
 http://example.local/ARG-NICKJLM.ts
 #EXTINF:-1 tvg-chno="90209" tvg-name="Nickmusic" tvg-logo="https://zap2it.tmsimg.com/assets/s90209_ll_h15_ac.png?w=360&h=270" group-title="Argentina" tvg-id="NIKMLA" tvc-guide-stationid="90209",Nickmusic
 http://example.local/ARG-NIKMLA.ts
-#EXTINF:-1 tvg-chno="126495" tvg-name="NUEVO TIEMPO" tvg-logo="None" group-title="Argentina" tvg-id="NUEVOPE" tvc-guide-stationid="126495",NUEVO TIEMPO
+#EXTINF:-1 tvg-chno="126495" tvg-name="NUEVO TIEMPO" group-title="Argentina" tvg-id="NUEVOPE" tvc-guide-stationid="126495",NUEVO TIEMPO
 http://example.local/ARG-NUEVOPE.ts
 #EXTINF:-1 tvg-chno="87140" tvg-name="Pakapaka" tvg-logo="https://zap2it.tmsimg.com/assets/s87140_ll_h15_ab.png?w=360&h=270" group-title="Argentina" tvg-id="PAKA" tvc-guide-stationid="87140",Pakapaka
 http://example.local/ARG-PAKA.ts
@@ -825,9 +825,9 @@ http://example.local/ARG-PARAMXH.ts
 http://example.local/ARG-PARMNHD.ts
 #EXTINF:-1 tvg-chno="11163" tvg-name="Paramount Network" tvg-logo="https://zap2it.tmsimg.com/assets/s11163_ll_h15_ac.png?w=360&h=270" group-title="Argentina" tvg-id="PAR" tvc-guide-stationid="11163",Paramount Network
 http://example.local/ARG-PAR.ts
-#EXTINF:-1 tvg-chno="92002" tvg-name="Paramount Network" tvg-logo="None" group-title="Argentina" tvg-id="PARMNHE" tvc-guide-stationid="92002",Paramount Network
+#EXTINF:-1 tvg-chno="92002" tvg-name="Paramount Network" group-title="Argentina" tvg-id="PARMNHE" tvc-guide-stationid="92002",Paramount Network
 http://example.local/ARG-PARMNHE.ts
-#EXTINF:-1 tvg-chno="171003" tvg-name="PAREStv HD" tvg-logo="None" group-title="Argentina" tvg-id="PARESHD" tvc-guide-stationid="171003",PAREStv HD
+#EXTINF:-1 tvg-chno="171003" tvg-name="PAREStv HD" group-title="Argentina" tvg-id="PARESHD" tvc-guide-stationid="171003",PAREStv HD
 http://example.local/ARG-PARESHD.ts
 #EXTINF:-1 tvg-chno="71621" tvg-name="Pasiones TV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s71621_ll_h15_aa.png?w=360&h=270" group-title="Argentina" tvg-id="PASNLA" tvc-guide-stationid="71621",Pasiones TV Latin America
 http://example.local/ARG-PASNLA.ts
@@ -853,7 +853,7 @@ http://example.local/ARG-QMMI.ts
 http://example.local/ARG-RDLP.ts
 #EXTINF:-1 tvg-chno="75772" tvg-name="Radio Disney" tvg-logo="https://zap2it.tmsimg.com/assets/s75772_ll_h15_ab.png?w=360&h=270" group-title="Argentina" tvg-id="RADS" tvc-guide-stationid="75772",Radio Disney
 http://example.local/ARG-RADS.ts
-#EXTINF:-1 tvg-chno="104242" tvg-name="Radio Nacional AM 780" tvg-logo="None" group-title="Argentina" tvg-id="RN780" tvc-guide-stationid="104242",Radio Nacional AM 780
+#EXTINF:-1 tvg-chno="104242" tvg-name="Radio Nacional AM 780" group-title="Argentina" tvg-id="RN780" tvc-guide-stationid="104242",Radio Nacional AM 780
 http://example.local/ARG-RN780.ts
 #EXTINF:-1 tvg-chno="75785" tvg-name="RAI International Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png?w=360&h=270" group-title="Argentina" tvg-id="ESRAI" tvc-guide-stationid="75785",RAI International Spanish
 http://example.local/ARG-ESRAI.ts
@@ -869,7 +869,7 @@ http://example.local/ARG-RREC.ts
 http://example.local/ARG-RGTI2.ts
 #EXTINF:-1 tvg-chno="92358" tvg-name="Rede Globo TV Internacional Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s21065_ll_h15_cc.png?w=360&h=270" group-title="Argentina" tvg-id="RGTISP" tvc-guide-stationid="92358",Rede Globo TV Internacional Spanish
 http://example.local/ARG-RGTISP.ts
-#EXTINF:-1 tvg-chno="75906" tvg-name="RFI" tvg-logo="None" group-title="Argentina" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
+#EXTINF:-1 tvg-chno="75906" tvg-name="RFI" group-title="Argentina" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
 http://example.local/ARG-RFIRAD.ts
 #EXTINF:-1 tvg-chno="19141" tvg-name="RFI Radio France Internationale" tvg-logo="https://zap2it.tmsimg.com/assets/s19141_ll_h15_ab.png?w=360&h=270" group-title="Argentina" tvg-id="RFI" tvc-guide-stationid="19141",RFI Radio France Internationale
 http://example.local/ARG-RFI.ts
@@ -877,7 +877,7 @@ http://example.local/ARG-RFI.ts
 http://example.local/ARG-RTTV.ts
 #EXTINF:-1 tvg-chno="69367" tvg-name="RT en español" tvg-logo="https://zap2it.tmsimg.com/assets/s69367_ll_h6_aa.png?w=360&h=270" group-title="Argentina" tvg-id="RTSPAN" tvc-guide-stationid="69367",RT en español
 http://example.local/ARG-RTSPAN.ts
-#EXTINF:-1 tvg-chno="105976" tvg-name="RT International" tvg-logo="None" group-title="Argentina" tvg-id="RTINT" tvc-guide-stationid="105976",RT International
+#EXTINF:-1 tvg-chno="105976" tvg-name="RT International" group-title="Argentina" tvg-id="RTINT" tvc-guide-stationid="105976",RT International
 http://example.local/ARG-RTINT.ts
 #EXTINF:-1 tvg-chno="75782" tvg-name="RTP Internacional Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s15717_ll_h15_ad.png?w=360&h=270" group-title="Argentina" tvg-id="ESRTPI" tvc-guide-stationid="75782",RTP Internacional Spanish
 http://example.local/ARG-ESRTPI.ts
@@ -989,7 +989,7 @@ http://example.local/ARG-SMUS31.ts
 http://example.local/ARG-SMESP71.ts
 #EXTINF:-1 tvg-chno="88767" tvg-name="Stingray MPB (Música Popular Brasileira)" tvg-logo="https://zap2it.tmsimg.com/assets/s95856_ll_h15_aa.png?w=360&h=270" group-title="Argentina" tvg-id="SMESP54" tvc-guide-stationid="88767",Stingray MPB (Música Popular Brasileira)
 http://example.local/ARG-SMESP54.ts
-#EXTINF:-1 tvg-chno="45224" tvg-name="Stingray Nothin' but '90s" tvg-logo="None" group-title="Argentina" tvg-id="SM042" tvc-guide-stationid="45224",Stingray Nothin' but '90s
+#EXTINF:-1 tvg-chno="45224" tvg-name="Stingray Nothin' but '90s" group-title="Argentina" tvg-id="SM042" tvc-guide-stationid="45224",Stingray Nothin' but '90s
 http://example.local/ARG-SM042.ts
 #EXTINF:-1 tvg-chno="45249" tvg-name="Stingray Opera Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s45249_ll_h15_aa.png?w=360&h=270" group-title="Argentina" tvg-id="SM031" tvc-guide-stationid="45249",Stingray Opera Plus
 http://example.local/ARG-SM031.ts
@@ -1069,7 +1069,7 @@ http://example.local/ARG-CABTELE.ts
 http://example.local/ARG-TELICAH.ts
 #EXTINF:-1 tvg-chno="113683" tvg-name="Telemundo Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s102862_ll_h15_aa.png?w=360&h=270" group-title="Argentina" tvg-id="TLMNHD" tvc-guide-stationid="113683",Telemundo Internacional
 http://example.local/ARG-TLMNHD.ts
-#EXTINF:-1 tvg-chno="171004" tvg-name="Telered Eventos" tvg-logo="None" group-title="Argentina" tvg-id="TELREDE" tvc-guide-stationid="171004",Telered Eventos
+#EXTINF:-1 tvg-chno="171004" tvg-name="Telered Eventos" group-title="Argentina" tvg-id="TELREDE" tvc-guide-stationid="171004",Telered Eventos
 http://example.local/ARG-TELREDE.ts
 #EXTINF:-1 tvg-chno="47620" tvg-name="TeleSur" tvg-logo="https://zap2it.tmsimg.com/assets/s47620_ll_h15_aa.png?w=360&h=270" group-title="Argentina" tvg-id="TELESUR" tvc-guide-stationid="47620",TeleSur
 http://example.local/ARG-TELESUR.ts
@@ -1145,7 +1145,7 @@ http://example.local/ARG-TV5L.ts
 http://example.local/ARG-TVEI.ts
 #EXTINF:-1 tvg-chno="116082" tvg-name="TVE America Television Española HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116082_ll_h15_aa.png?w=360&h=270" group-title="Argentina" tvg-id="TVEIH" tvc-guide-stationid="116082",TVE America Television Española HD
 http://example.local/ARG-TVEIH.ts
-#EXTINF:-1 tvg-chno="77845" tvg-name="TVE International América Latine" tvg-logo="None" group-title="Argentina" tvg-id="TVELAT" tvc-guide-stationid="77845",TVE International América Latine
+#EXTINF:-1 tvg-chno="77845" tvg-name="TVE International América Latine" group-title="Argentina" tvg-id="TVELAT" tvc-guide-stationid="77845",TVE International América Latine
 http://example.local/ARG-TVELAT.ts
 #EXTINF:-1 tvg-chno="16526" tvg-name="TVN" tvg-logo="https://zap2it.tmsimg.com/assets/s16526_ll_h15_ab.png?w=360&h=270" group-title="Argentina" tvg-id="TVN" tvc-guide-stationid="16526",TVN
 http://example.local/ARG-TVN.ts

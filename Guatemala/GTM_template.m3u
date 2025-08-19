@@ -39,7 +39,7 @@ http://example.local/GTM-APRENMAS.ts
 http://example.local/GTM-ARANG.ts
 #EXTINF:-1 tvg-chno="92001" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png?w=360&h=270" group-title="Guatemala" tvg-id="ATRESE" tvc-guide-stationid="92001",Atreseries
 http://example.local/GTM-ATRESE.ts
-#EXTINF:-1 tvg-chno="42389" tvg-name="AUDIO AEI LA LATIN JAZZ" tvg-logo="None" group-title="Guatemala" tvg-id="LATJAZZ" tvc-guide-stationid="42389",AUDIO AEI LA LATIN JAZZ
+#EXTINF:-1 tvg-chno="42389" tvg-name="AUDIO AEI LA LATIN JAZZ" group-title="Guatemala" tvg-id="LATJAZZ" tvc-guide-stationid="42389",AUDIO AEI LA LATIN JAZZ
 http://example.local/GTM-LATJAZZ.ts
 #EXTINF:-1 tvg-chno="37862" tvg-name="AUDIO DLA BLUES" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="BLUESDL" tvc-guide-stationid="37862",AUDIO DLA BLUES
 http://example.local/GTM-BLUESDL.ts
@@ -73,7 +73,7 @@ http://example.local/GTM-INSTRN.ts
 http://example.local/GTM-JAZZCLS.ts
 #EXTINF:-1 tvg-chno="39711" tvg-name="AUDIO DLA JAZZ LATINO" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="JAZZLAT" tvc-guide-stationid="39711",AUDIO DLA JAZZ LATINO
 http://example.local/GTM-JAZZLAT.ts
-#EXTINF:-1 tvg-chno="38478" tvg-name="AUDIO DLA LATIN LOUNGE" tvg-logo="None" group-title="Guatemala" tvg-id="LATLNG" tvc-guide-stationid="38478",AUDIO DLA LATIN LOUNGE
+#EXTINF:-1 tvg-chno="38478" tvg-name="AUDIO DLA LATIN LOUNGE" group-title="Guatemala" tvg-id="LATLNG" tvc-guide-stationid="38478",AUDIO DLA LATIN LOUNGE
 http://example.local/GTM-LATLNG.ts
 #EXTINF:-1 tvg-chno="38149" tvg-name="AUDIO DLA LATINA" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="ALATINA" tvc-guide-stationid="38149",AUDIO DLA LATINA
 http://example.local/GTM-ALATINA.ts
@@ -83,7 +83,7 @@ http://example.local/GTM-DLALOVE.ts
 http://example.local/GTM-MARIACH.ts
 #EXTINF:-1 tvg-chno="41964" tvg-name="AUDIO DLA MUSICA POPULAR BRASI" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="MUSPOPB" tvc-guide-stationid="41964",AUDIO DLA MUSICA POPULAR BRASI
 http://example.local/GTM-MUSPOPB.ts
-#EXTINF:-1 tvg-chno="40278" tvg-name="AUDIO DLA MÚSICA CLÁSICA" tvg-logo="None" group-title="Guatemala" tvg-id="DLACLA" tvc-guide-stationid="40278",AUDIO DLA MÚSICA CLÁSICA
+#EXTINF:-1 tvg-chno="40278" tvg-name="AUDIO DLA MÚSICA CLÁSICA" group-title="Guatemala" tvg-id="DLACLA" tvc-guide-stationid="40278",AUDIO DLA MÚSICA CLÁSICA
 http://example.local/GTM-DLACLA.ts
 #EXTINF:-1 tvg-chno="41761" tvg-name="AUDIO DLA MÚSICA DE LAS AMÉRI" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="MUSICAM" tvc-guide-stationid="41761",AUDIO DLA MÚSICA DE LAS AMÉRI
 http://example.local/GTM-MUSICAM.ts
@@ -103,9 +103,9 @@ http://example.local/GTM-POWERHT.ts
 http://example.local/GTM-REGTON.ts
 #EXTINF:-1 tvg-chno="41305" tvg-name="AUDIO DLA RITMOS DEL CARIBE" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="CARIBE" tvc-guide-stationid="41305",AUDIO DLA RITMOS DEL CARIBE
 http://example.local/GTM-CARIBE.ts
-#EXTINF:-1 tvg-chno="41083" tvg-name="AUDIO DLA RITMOS DEL MUNDO" tvg-logo="None" group-title="Guatemala" tvg-id="RITMOMN" tvc-guide-stationid="41083",AUDIO DLA RITMOS DEL MUNDO
+#EXTINF:-1 tvg-chno="41083" tvg-name="AUDIO DLA RITMOS DEL MUNDO" group-title="Guatemala" tvg-id="RITMOMN" tvc-guide-stationid="41083",AUDIO DLA RITMOS DEL MUNDO
 http://example.local/GTM-RITMOMN.ts
-#EXTINF:-1 tvg-chno="46507" tvg-name="AUDIO DLA ROCK & POP BRASIL" tvg-logo="None" group-title="Guatemala" tvg-id="BRPOPRK" tvc-guide-stationid="46507",AUDIO DLA ROCK & POP BRASIL
+#EXTINF:-1 tvg-chno="46507" tvg-name="AUDIO DLA ROCK & POP BRASIL" group-title="Guatemala" tvg-id="BRPOPRK" tvc-guide-stationid="46507",AUDIO DLA ROCK & POP BRASIL
 http://example.local/GTM-BRPOPRK.ts
 #EXTINF:-1 tvg-chno="39964" tvg-name="AUDIO DLA ROCK CLÁSICO" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="ROCKCLS" tvc-guide-stationid="39964",AUDIO DLA ROCK CLÁSICO
 http://example.local/GTM-ROCKCLS.ts
@@ -133,7 +133,7 @@ http://example.local/GTM-EXITO80.ts
 http://example.local/GTM-EXITO90.ts
 #EXTINF:-1 tvg-chno="41300" tvg-name="Audio DLA Éxitos En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="EXITOES" tvc-guide-stationid="41300",Audio DLA Éxitos En Español
 http://example.local/GTM-EXITOES.ts
-#EXTINF:-1 tvg-chno="41079" tvg-name="Audio DLA Éxitos En Inglés" tvg-logo="None" group-title="Guatemala" tvg-id="EXITOIN" tvc-guide-stationid="41079",Audio DLA Éxitos En Inglés
+#EXTINF:-1 tvg-chno="41079" tvg-name="Audio DLA Éxitos En Inglés" group-title="Guatemala" tvg-id="EXITOIN" tvc-guide-stationid="41079",Audio DLA Éxitos En Inglés
 http://example.local/GTM-EXITOIN.ts
 #EXTINF:-1 tvg-chno="41080" tvg-name="Audio DLA Éxitos En Italiano" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="EXITOIT" tvc-guide-stationid="41080",Audio DLA Éxitos En Italiano
 http://example.local/GTM-EXITOIT.ts
@@ -177,19 +177,19 @@ http://example.local/GTM-BLOOMI.ts
 http://example.local/GTM-BRAZZLA.ts
 #EXTINF:-1 tvg-chno="21855" tvg-name="BYU-TV" tvg-logo="https://zap2it.tmsimg.com/assets/s21855_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="BYUTV" tvc-guide-stationid="21855",BYU-TV
 http://example.local/GTM-BYUTV.ts
-#EXTINF:-1 tvg-chno="59822" tvg-name="Cablevision Mosaico Deportes" tvg-logo="None" group-title="Guatemala" tvg-id="MDEPOR" tvc-guide-stationid="59822",Cablevision Mosaico Deportes
+#EXTINF:-1 tvg-chno="59822" tvg-name="Cablevision Mosaico Deportes" group-title="Guatemala" tvg-id="MDEPOR" tvc-guide-stationid="59822",Cablevision Mosaico Deportes
 http://example.local/GTM-MDEPOR.ts
-#EXTINF:-1 tvg-chno="59818" tvg-name="Cablevision Mosaico Entretenimiento 1" tvg-logo="None" group-title="Guatemala" tvg-id="MENTRET" tvc-guide-stationid="59818",Cablevision Mosaico Entretenimiento 1
+#EXTINF:-1 tvg-chno="59818" tvg-name="Cablevision Mosaico Entretenimiento 1" group-title="Guatemala" tvg-id="MENTRET" tvc-guide-stationid="59818",Cablevision Mosaico Entretenimiento 1
 http://example.local/GTM-MENTRET.ts
-#EXTINF:-1 tvg-chno="59819" tvg-name="Cablevision Mosaico Entretenimiento 2" tvg-logo="None" group-title="Guatemala" tvg-id="MOSE2" tvc-guide-stationid="59819",Cablevision Mosaico Entretenimiento 2
+#EXTINF:-1 tvg-chno="59819" tvg-name="Cablevision Mosaico Entretenimiento 2" group-title="Guatemala" tvg-id="MOSE2" tvc-guide-stationid="59819",Cablevision Mosaico Entretenimiento 2
 http://example.local/GTM-MOSE2.ts
-#EXTINF:-1 tvg-chno="59821" tvg-name="Cablevision Mosaico Mundo y Aprendizaje" tvg-logo="None" group-title="Guatemala" tvg-id="MOSMU" tvc-guide-stationid="59821",Cablevision Mosaico Mundo y Aprendizaje
+#EXTINF:-1 tvg-chno="59821" tvg-name="Cablevision Mosaico Mundo y Aprendizaje" group-title="Guatemala" tvg-id="MOSMU" tvc-guide-stationid="59821",Cablevision Mosaico Mundo y Aprendizaje
 http://example.local/GTM-MOSMU.ts
-#EXTINF:-1 tvg-chno="59820" tvg-name="Cablevision Mosaico Ninos" tvg-logo="None" group-title="Guatemala" tvg-id="MOSNI" tvc-guide-stationid="59820",Cablevision Mosaico Ninos
+#EXTINF:-1 tvg-chno="59820" tvg-name="Cablevision Mosaico Ninos" group-title="Guatemala" tvg-id="MOSNI" tvc-guide-stationid="59820",Cablevision Mosaico Ninos
 http://example.local/GTM-MOSNI.ts
-#EXTINF:-1 tvg-chno="59826" tvg-name="Cablevision Mosaico Noticias" tvg-logo="None" group-title="Guatemala" tvg-id="MOSNO" tvc-guide-stationid="59826",Cablevision Mosaico Noticias
+#EXTINF:-1 tvg-chno="59826" tvg-name="Cablevision Mosaico Noticias" group-title="Guatemala" tvg-id="MOSNO" tvc-guide-stationid="59826",Cablevision Mosaico Noticias
 http://example.local/GTM-MOSNO.ts
-#EXTINF:-1 tvg-chno="59827" tvg-name="Cablevision Mosaico PPE Adultos" tvg-logo="None" group-title="Guatemala" tvg-id="MOSPA" tvc-guide-stationid="59827",Cablevision Mosaico PPE Adultos
+#EXTINF:-1 tvg-chno="59827" tvg-name="Cablevision Mosaico PPE Adultos" group-title="Guatemala" tvg-id="MOSPA" tvc-guide-stationid="59827",Cablevision Mosaico PPE Adultos
 http://example.local/GTM-MOSPA.ts
 #EXTINF:-1 tvg-chno="92395" tvg-name="Canal 14 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90518_h3_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="C14MXHD" tvc-guide-stationid="92395",Canal 14 HD
 http://example.local/GTM-C14MXHD.ts
@@ -197,13 +197,13 @@ http://example.local/GTM-C14MXHD.ts
 http://example.local/GTM-CNL22HD.ts
 #EXTINF:-1 tvg-chno="20742" tvg-name="Canal 24 Horas HD" tvg-logo="https://zap2it.tmsimg.com/assets/s20742_ll_h9_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="CAN24" tvc-guide-stationid="20742",Canal 24 Horas HD
 http://example.local/GTM-CAN24.ts
-#EXTINF:-1 tvg-chno="49251" tvg-name="Canal 3 Guatemala" tvg-logo="None" group-title="Guatemala" tvg-id="CANAL3G" tvc-guide-stationid="49251",Canal 3 Guatemala
+#EXTINF:-1 tvg-chno="49251" tvg-name="Canal 3 Guatemala" group-title="Guatemala" tvg-id="CANAL3G" tvc-guide-stationid="49251",Canal 3 Guatemala
 http://example.local/GTM-CANAL3G.ts
 #EXTINF:-1 tvg-chno="16463" tvg-name="Canal 5 (C5NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116152_h3_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="XHGC" tvc-guide-stationid="16463",Canal 5 (C5NET)
 http://example.local/GTM-XHGC.ts
 #EXTINF:-1 tvg-chno="38155" tvg-name="CANAL 6 REPRETEL" tvg-logo="https://zap2it.tmsimg.com/assets/s38155_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="CAN6REP" tvc-guide-stationid="38155",CANAL 6 REPRETEL
 http://example.local/GTM-CAN6REP.ts
-#EXTINF:-1 tvg-chno="50753" tvg-name="Canal de Aniversario" tvg-logo="None" group-title="Guatemala" tvg-id="CANALAN" tvc-guide-stationid="50753",Canal de Aniversario
+#EXTINF:-1 tvg-chno="50753" tvg-name="Canal de Aniversario" group-title="Guatemala" tvg-id="CANALAN" tvc-guide-stationid="50753",Canal de Aniversario
 http://example.local/GTM-CANALAN.ts
 #EXTINF:-1 tvg-chno="20548" tvg-name="Canal del Congreso" tvg-logo="https://zap2it.tmsimg.com/assets/s20548_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="CONG" tvc-guide-stationid="20548",Canal del Congreso
 http://example.local/GTM-CONG.ts
@@ -239,7 +239,7 @@ http://example.local/GTM-CARTOM.ts
 http://example.local/GTM-CBS.ts
 #EXTINF:-1 tvg-chno="24248" tvg-name="CCTV4-China Central TV" tvg-logo="https://zap2it.tmsimg.com/assets/s24248_ll_h15_ac.png?w=360&h=270" group-title="Guatemala" tvg-id="CCTV4" tvc-guide-stationid="24248",CCTV4-China Central TV
 http://example.local/GTM-CCTV4.ts
-#EXTINF:-1 tvg-chno="78997" tvg-name="Cine Canal Plus HD" tvg-logo="None" group-title="Guatemala" tvg-id="CINEPLH" tvc-guide-stationid="78997",Cine Canal Plus HD
+#EXTINF:-1 tvg-chno="78997" tvg-name="Cine Canal Plus HD" group-title="Guatemala" tvg-id="CINEPLH" tvc-guide-stationid="78997",Cine Canal Plus HD
 http://example.local/GTM-CINEPLH.ts
 #EXTINF:-1 tvg-chno="15296" tvg-name="Cine Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s15296_ll_h9_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="CINL" tvc-guide-stationid="15296",Cine Latino
 http://example.local/GTM-CINL.ts
@@ -267,7 +267,7 @@ http://example.local/GTM-MAXP.ts
 http://example.local/GTM-CLAROSP.ts
 #EXTINF:-1 tvg-chno="10139" tvg-name="CNBC" tvg-logo="https://zap2it.tmsimg.com/assets/s10139_ll_h15_ae.png?w=360&h=270" group-title="Guatemala" tvg-id="CNBC" tvc-guide-stationid="10139",CNBC
 http://example.local/GTM-CNBC.ts
-#EXTINF:-1 tvg-chno="10141" tvg-name="CNBC LatinAm" tvg-logo="None" group-title="Guatemala" tvg-id="CNBCL" tvc-guide-stationid="10141",CNBC LatinAm
+#EXTINF:-1 tvg-chno="10141" tvg-name="CNBC LatinAm" group-title="Guatemala" tvg-id="CNBCL" tvc-guide-stationid="10141",CNBC LatinAm
 http://example.local/GTM-CNBCL.ts
 #EXTINF:-1 tvg-chno="17054" tvg-name="CNN En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="CNNL" tvc-guide-stationid="17054",CNN En Español
 http://example.local/GTM-CNNL.ts
@@ -331,7 +331,7 @@ http://example.local/GTM-DISNJMX.ts
 http://example.local/GTM-DISNXD.ts
 #EXTINF:-1 tvg-chno="55980" tvg-name="Distrito Comedia" tvg-logo="https://zap2it.tmsimg.com/assets/s55980_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="DISTCOM" tvc-guide-stationid="55980",Distrito Comedia
 http://example.local/GTM-DISTCOM.ts
-#EXTINF:-1 tvg-chno="26611" tvg-name="DMX 50's & 60's Hits" tvg-logo="None" group-title="Guatemala" tvg-id="56HITS" tvc-guide-stationid="26611",DMX 50's & 60's Hits
+#EXTINF:-1 tvg-chno="26611" tvg-name="DMX 50's & 60's Hits" group-title="Guatemala" tvg-id="56HITS" tvc-guide-stationid="26611",DMX 50's & 60's Hits
 http://example.local/GTM-56HITS.ts
 #EXTINF:-1 tvg-chno="50415" tvg-name="DMX A Very Jazzy Holiday" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="AJAZZHO" tvc-guide-stationid="50415",DMX A Very Jazzy Holiday
 http://example.local/GTM-AJAZZHO.ts
@@ -409,7 +409,7 @@ http://example.local/GTM-GOURMHD.ts
 http://example.local/GTM-ESNE.ts
 #EXTINF:-1 tvg-chno="20286" tvg-name="ENLACE TV" tvg-logo="https://zap2it.tmsimg.com/assets/s20286_h3_ba.png?w=360&h=270" group-title="Guatemala" tvg-id="ENLACE" tvc-guide-stationid="20286",ENLACE TV
 http://example.local/GTM-ENLACE.ts
-#EXTINF:-1 tvg-chno="49301" tvg-name="EPG PPV Barker (In Demand)" tvg-logo="None" group-title="Guatemala" tvg-id="PPVBARK" tvc-guide-stationid="49301",EPG PPV Barker (In Demand)
+#EXTINF:-1 tvg-chno="49301" tvg-name="EPG PPV Barker (In Demand)" group-title="Guatemala" tvg-id="PPVBARK" tvc-guide-stationid="49301",EPG PPV Barker (In Demand)
 http://example.local/GTM-PPVBARK.ts
 #EXTINF:-1 tvg-chno="10179" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s10179_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="ESPN" tvc-guide-stationid="10179",ESPN
 http://example.local/GTM-ESPN.ts
@@ -463,7 +463,7 @@ http://example.local/GTM-FABMEX.ts
 http://example.local/GTM-FOOD.ts
 #EXTINF:-1 tvg-chno="91919" tvg-name="Food Network" tvg-logo="https://zap2it.tmsimg.com/assets/s91919_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="FOODLA" tvc-guide-stationid="91919",Food Network
 http://example.local/GTM-FOODLA.ts
-#EXTINF:-1 tvg-chno="112146" tvg-name="Food Network Latam HD" tvg-logo="None" group-title="Guatemala" tvg-id="FODAMCO" tvc-guide-stationid="112146",Food Network Latam HD
+#EXTINF:-1 tvg-chno="112146" tvg-name="Food Network Latam HD" group-title="Guatemala" tvg-id="FODAMCO" tvc-guide-stationid="112146",Food Network Latam HD
 http://example.local/GTM-FODAMCO.ts
 #EXTINF:-1 tvg-chno="16374" tvg-name="Fox News Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16374_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="FNC" tvc-guide-stationid="16374",Fox News Channel
 http://example.local/GTM-FNC.ts
@@ -601,7 +601,7 @@ http://example.local/GTM-HGTV.ts
 http://example.local/GTM-HTVLA.ts
 #EXTINF:-1 tvg-chno="110785" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="HTVLAH" tvc-guide-stationid="110785",HTV
 http://example.local/GTM-HTVLAH.ts
-#EXTINF:-1 tvg-chno="52760" tvg-name="HTV Musica On Demand" tvg-logo="None" group-title="Guatemala" tvg-id="HTVMUDM" tvc-guide-stationid="52760",HTV Musica On Demand
+#EXTINF:-1 tvg-chno="52760" tvg-name="HTV Musica On Demand" group-title="Guatemala" tvg-id="HTVMUDM" tvc-guide-stationid="52760",HTV Musica On Demand
 http://example.local/GTM-HTVMUDM.ts
 #EXTINF:-1 tvg-chno="45498" tvg-name="Hustler TV" tvg-logo="https://zap2it.tmsimg.com/assets/s45498_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="HUSTLR" tvc-guide-stationid="45498",Hustler TV
 http://example.local/GTM-HUSTLR.ts
@@ -611,11 +611,11 @@ http://example.local/GTM-IDM.ts
 http://example.local/GTM-IDLHD.ts
 #EXTINF:-1 tvg-chno="16048" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png?w=360&h=270" group-title="Guatemala" tvg-id="IDL" tvc-guide-stationid="16048",ID
 http://example.local/GTM-IDL.ts
-#EXTINF:-1 tvg-chno="38899" tvg-name="IMAGEN INFORMATIVA" tvg-logo="None" group-title="Guatemala" tvg-id="IMAGEN" tvc-guide-stationid="38899",IMAGEN INFORMATIVA
+#EXTINF:-1 tvg-chno="38899" tvg-name="IMAGEN INFORMATIVA" group-title="Guatemala" tvg-id="IMAGEN" tvc-guide-stationid="38899",IMAGEN INFORMATIVA
 http://example.local/GTM-IMAGEN.ts
 #EXTINF:-1 tvg-chno="101111" tvg-name="Imagen TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s101096_h3_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="IMGTVHD" tvc-guide-stationid="101111",Imagen TV HD
 http://example.local/GTM-IMGTVHD.ts
-#EXTINF:-1 tvg-chno="47560" tvg-name="Interactive Secrets" tvg-logo="None" group-title="Guatemala" tvg-id="SECRETS" tvc-guide-stationid="47560",Interactive Secrets
+#EXTINF:-1 tvg-chno="47560" tvg-name="Interactive Secrets" group-title="Guatemala" tvg-id="SECRETS" tvc-guide-stationid="47560",Interactive Secrets
 http://example.local/GTM-SECRETS.ts
 #EXTINF:-1 tvg-chno="60799" tvg-name="ISAT 21 Mexico" tvg-logo="https://zap2it.tmsimg.com/assets/s16497_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="ISATMX" tvc-guide-stationid="60799",ISAT 21 Mexico
 http://example.local/GTM-ISATMX.ts
@@ -645,17 +645,17 @@ http://example.local/GTM-MASCHHD.ts
 http://example.local/GTM-MAXUAM.ts
 #EXTINF:-1 tvg-chno="61719" tvg-name="Milenio" tvg-logo="https://zap2it.tmsimg.com/assets/s61719_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="MILENIO" tvc-guide-stationid="61719",Milenio
 http://example.local/GTM-MILENIO.ts
-#EXTINF:-1 tvg-chno="47348" tvg-name="Mosaico Cinema" tvg-logo="None" group-title="Guatemala" tvg-id="MCINEMA" tvc-guide-stationid="47348",Mosaico Cinema
+#EXTINF:-1 tvg-chno="47348" tvg-name="Mosaico Cinema" group-title="Guatemala" tvg-id="MCINEMA" tvc-guide-stationid="47348",Mosaico Cinema
 http://example.local/GTM-MCINEMA.ts
-#EXTINF:-1 tvg-chno="47351" tvg-name="Mosaico Cinema 2" tvg-logo="None" group-title="Guatemala" tvg-id="MCINMA2" tvc-guide-stationid="47351",Mosaico Cinema 2
+#EXTINF:-1 tvg-chno="47351" tvg-name="Mosaico Cinema 2" group-title="Guatemala" tvg-id="MCINMA2" tvc-guide-stationid="47351",Mosaico Cinema 2
 http://example.local/GTM-MCINMA2.ts
-#EXTINF:-1 tvg-chno="47364" tvg-name="Mosaico Musica" tvg-logo="None" group-title="Guatemala" tvg-id="MMUSICA" tvc-guide-stationid="47364",Mosaico Musica
+#EXTINF:-1 tvg-chno="47364" tvg-name="Mosaico Musica" group-title="Guatemala" tvg-id="MMUSICA" tvc-guide-stationid="47364",Mosaico Musica
 http://example.local/GTM-MMUSICA.ts
-#EXTINF:-1 tvg-chno="47366" tvg-name="Mosaico PPE" tvg-logo="None" group-title="Guatemala" tvg-id="MPPE" tvc-guide-stationid="47366",Mosaico PPE
+#EXTINF:-1 tvg-chno="47366" tvg-name="Mosaico PPE" group-title="Guatemala" tvg-id="MPPE" tvc-guide-stationid="47366",Mosaico PPE
 http://example.local/GTM-MPPE.ts
-#EXTINF:-1 tvg-chno="47367" tvg-name="Mosaico Sky Premiere 1" tvg-logo="None" group-title="Guatemala" tvg-id="MSKYP1" tvc-guide-stationid="47367",Mosaico Sky Premiere 1
+#EXTINF:-1 tvg-chno="47367" tvg-name="Mosaico Sky Premiere 1" group-title="Guatemala" tvg-id="MSKYP1" tvc-guide-stationid="47367",Mosaico Sky Premiere 1
 http://example.local/GTM-MSKYP1.ts
-#EXTINF:-1 tvg-chno="47368" tvg-name="Mosaico Sky Premiere 2" tvg-logo="None" group-title="Guatemala" tvg-id="MSKYP2" tvc-guide-stationid="47368",Mosaico Sky Premiere 2
+#EXTINF:-1 tvg-chno="47368" tvg-name="Mosaico Sky Premiere 2" group-title="Guatemala" tvg-id="MSKYP2" tvc-guide-stationid="47368",Mosaico Sky Premiere 2
 http://example.local/GTM-MSKYP2.ts
 #EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png?w=360&h=270" group-title="Guatemala" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
 http://example.local/GTM-MTHD.ts
@@ -745,45 +745,45 @@ http://example.local/GTM-RGTI2.ts
 http://example.local/GTM-ROCKALT.ts
 #EXTINF:-1 tvg-chno="58333" tvg-name="RT" tvg-logo="https://zap2it.tmsimg.com/assets/s58333_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="RTTV" tvc-guide-stationid="58333",RT
 http://example.local/GTM-RTTV.ts
-#EXTINF:-1 tvg-chno="47418" tvg-name="SKY Local News" tvg-logo="None" group-title="Guatemala" tvg-id="SKYLN" tvc-guide-stationid="47418",SKY Local News
+#EXTINF:-1 tvg-chno="47418" tvg-name="SKY Local News" group-title="Guatemala" tvg-id="SKYLN" tvc-guide-stationid="47418",SKY Local News
 http://example.local/GTM-SKYLN.ts
 #EXTINF:-1 tvg-chno="50367" tvg-name="SKY One Mexico" tvg-logo="https://zap2it.tmsimg.com/assets/s50367_ll_h9_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="SKYMEX" tvc-guide-stationid="50367",SKY One Mexico
 http://example.local/GTM-SKYMEX.ts
-#EXTINF:-1 tvg-chno="47421" tvg-name="Sky Portal Interactivo" tvg-logo="None" group-title="Guatemala" tvg-id="SKYPOR" tvc-guide-stationid="47421",Sky Portal Interactivo
+#EXTINF:-1 tvg-chno="47421" tvg-name="Sky Portal Interactivo" group-title="Guatemala" tvg-id="SKYPOR" tvc-guide-stationid="47421",Sky Portal Interactivo
 http://example.local/GTM-SKYPOR.ts
-#EXTINF:-1 tvg-chno="47332" tvg-name="Sky Premiere PPV 1" tvg-logo="None" group-title="Guatemala" tvg-id="SKYPV1" tvc-guide-stationid="47332",Sky Premiere PPV 1
+#EXTINF:-1 tvg-chno="47332" tvg-name="Sky Premiere PPV 1" group-title="Guatemala" tvg-id="SKYPV1" tvc-guide-stationid="47332",Sky Premiere PPV 1
 http://example.local/GTM-SKYPV1.ts
-#EXTINF:-1 tvg-chno="47333" tvg-name="Sky Premiere PPV 10" tvg-logo="None" group-title="Guatemala" tvg-id="SKYPV10" tvc-guide-stationid="47333",Sky Premiere PPV 10
+#EXTINF:-1 tvg-chno="47333" tvg-name="Sky Premiere PPV 10" group-title="Guatemala" tvg-id="SKYPV10" tvc-guide-stationid="47333",Sky Premiere PPV 10
 http://example.local/GTM-SKYPV10.ts
-#EXTINF:-1 tvg-chno="47334" tvg-name="Sky Premiere PPV 11" tvg-logo="None" group-title="Guatemala" tvg-id="SKYPV11" tvc-guide-stationid="47334",Sky Premiere PPV 11
+#EXTINF:-1 tvg-chno="47334" tvg-name="Sky Premiere PPV 11" group-title="Guatemala" tvg-id="SKYPV11" tvc-guide-stationid="47334",Sky Premiere PPV 11
 http://example.local/GTM-SKYPV11.ts
-#EXTINF:-1 tvg-chno="47335" tvg-name="Sky Premiere PPV 12" tvg-logo="None" group-title="Guatemala" tvg-id="SKYPV12" tvc-guide-stationid="47335",Sky Premiere PPV 12
+#EXTINF:-1 tvg-chno="47335" tvg-name="Sky Premiere PPV 12" group-title="Guatemala" tvg-id="SKYPV12" tvc-guide-stationid="47335",Sky Premiere PPV 12
 http://example.local/GTM-SKYPV12.ts
-#EXTINF:-1 tvg-chno="47336" tvg-name="Sky Premiere PPV 13" tvg-logo="None" group-title="Guatemala" tvg-id="SKYPV13" tvc-guide-stationid="47336",Sky Premiere PPV 13
+#EXTINF:-1 tvg-chno="47336" tvg-name="Sky Premiere PPV 13" group-title="Guatemala" tvg-id="SKYPV13" tvc-guide-stationid="47336",Sky Premiere PPV 13
 http://example.local/GTM-SKYPV13.ts
-#EXTINF:-1 tvg-chno="47337" tvg-name="Sky Premiere PPV 14" tvg-logo="None" group-title="Guatemala" tvg-id="SKYPV14" tvc-guide-stationid="47337",Sky Premiere PPV 14
+#EXTINF:-1 tvg-chno="47337" tvg-name="Sky Premiere PPV 14" group-title="Guatemala" tvg-id="SKYPV14" tvc-guide-stationid="47337",Sky Premiere PPV 14
 http://example.local/GTM-SKYPV14.ts
-#EXTINF:-1 tvg-chno="47339" tvg-name="Sky Premiere PPV 15" tvg-logo="None" group-title="Guatemala" tvg-id="SKYPV15" tvc-guide-stationid="47339",Sky Premiere PPV 15
+#EXTINF:-1 tvg-chno="47339" tvg-name="Sky Premiere PPV 15" group-title="Guatemala" tvg-id="SKYPV15" tvc-guide-stationid="47339",Sky Premiere PPV 15
 http://example.local/GTM-SKYPV15.ts
-#EXTINF:-1 tvg-chno="47344" tvg-name="Sky Premiere PPV 2" tvg-logo="None" group-title="Guatemala" tvg-id="SKYPV2" tvc-guide-stationid="47344",Sky Premiere PPV 2
+#EXTINF:-1 tvg-chno="47344" tvg-name="Sky Premiere PPV 2" group-title="Guatemala" tvg-id="SKYPV2" tvc-guide-stationid="47344",Sky Premiere PPV 2
 http://example.local/GTM-SKYPV2.ts
-#EXTINF:-1 tvg-chno="47352" tvg-name="Sky Premiere PPV 3" tvg-logo="None" group-title="Guatemala" tvg-id="SKYPV3" tvc-guide-stationid="47352",Sky Premiere PPV 3
+#EXTINF:-1 tvg-chno="47352" tvg-name="Sky Premiere PPV 3" group-title="Guatemala" tvg-id="SKYPV3" tvc-guide-stationid="47352",Sky Premiere PPV 3
 http://example.local/GTM-SKYPV3.ts
-#EXTINF:-1 tvg-chno="47353" tvg-name="Sky Premiere PPV 4" tvg-logo="None" group-title="Guatemala" tvg-id="SKYPV4" tvc-guide-stationid="47353",Sky Premiere PPV 4
+#EXTINF:-1 tvg-chno="47353" tvg-name="Sky Premiere PPV 4" group-title="Guatemala" tvg-id="SKYPV4" tvc-guide-stationid="47353",Sky Premiere PPV 4
 http://example.local/GTM-SKYPV4.ts
-#EXTINF:-1 tvg-chno="47354" tvg-name="Sky Premiere PPV 5" tvg-logo="None" group-title="Guatemala" tvg-id="SKYPV5" tvc-guide-stationid="47354",Sky Premiere PPV 5
+#EXTINF:-1 tvg-chno="47354" tvg-name="Sky Premiere PPV 5" group-title="Guatemala" tvg-id="SKYPV5" tvc-guide-stationid="47354",Sky Premiere PPV 5
 http://example.local/GTM-SKYPV5.ts
-#EXTINF:-1 tvg-chno="47355" tvg-name="Sky Premiere PPV 6" tvg-logo="None" group-title="Guatemala" tvg-id="SKYPV6" tvc-guide-stationid="47355",Sky Premiere PPV 6
+#EXTINF:-1 tvg-chno="47355" tvg-name="Sky Premiere PPV 6" group-title="Guatemala" tvg-id="SKYPV6" tvc-guide-stationid="47355",Sky Premiere PPV 6
 http://example.local/GTM-SKYPV6.ts
-#EXTINF:-1 tvg-chno="47356" tvg-name="Sky Premiere PPV 7" tvg-logo="None" group-title="Guatemala" tvg-id="SKYPV7" tvc-guide-stationid="47356",Sky Premiere PPV 7
+#EXTINF:-1 tvg-chno="47356" tvg-name="Sky Premiere PPV 7" group-title="Guatemala" tvg-id="SKYPV7" tvc-guide-stationid="47356",Sky Premiere PPV 7
 http://example.local/GTM-SKYPV7.ts
-#EXTINF:-1 tvg-chno="47357" tvg-name="Sky Premiere PPV 8" tvg-logo="None" group-title="Guatemala" tvg-id="SKYPV8" tvc-guide-stationid="47357",Sky Premiere PPV 8
+#EXTINF:-1 tvg-chno="47357" tvg-name="Sky Premiere PPV 8" group-title="Guatemala" tvg-id="SKYPV8" tvc-guide-stationid="47357",Sky Premiere PPV 8
 http://example.local/GTM-SKYPV8.ts
-#EXTINF:-1 tvg-chno="47358" tvg-name="Sky Premiere PPV 9" tvg-logo="None" group-title="Guatemala" tvg-id="SKYPV9" tvc-guide-stationid="47358",Sky Premiere PPV 9
+#EXTINF:-1 tvg-chno="47358" tvg-name="Sky Premiere PPV 9" group-title="Guatemala" tvg-id="SKYPV9" tvc-guide-stationid="47358",Sky Premiere PPV 9
 http://example.local/GTM-SKYPV9.ts
-#EXTINF:-1 tvg-chno="47423" tvg-name="SKY Special Weekends" tvg-logo="None" group-title="Guatemala" tvg-id="SKYWKND" tvc-guide-stationid="47423",SKY Special Weekends
+#EXTINF:-1 tvg-chno="47423" tvg-name="SKY Special Weekends" group-title="Guatemala" tvg-id="SKYWKND" tvc-guide-stationid="47423",SKY Special Weekends
 http://example.local/GTM-SKYWKND.ts
-#EXTINF:-1 tvg-chno="47424" tvg-name="Sky View" tvg-logo="None" group-title="Guatemala" tvg-id="SKYVIEW" tvc-guide-stationid="47424",Sky View
+#EXTINF:-1 tvg-chno="47424" tvg-name="Sky View" group-title="Guatemala" tvg-id="SKYVIEW" tvc-guide-stationid="47424",Sky View
 http://example.local/GTM-SKYVIEW.ts
 #EXTINF:-1 tvg-chno="70351" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="SPACES" tvc-guide-stationid="70351",Space
 http://example.local/GTM-SPACES.ts
@@ -865,7 +865,7 @@ http://example.local/GTM-SISTEMA.ts
 http://example.local/GTM-TELESUR.ts
 #EXTINF:-1 tvg-chno="37233" tvg-name="TELETICA 07" tvg-logo="https://zap2it.tmsimg.com/assets/s37233_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="TLTICA" tvc-guide-stationid="37233",TELETICA 07
 http://example.local/GTM-TLTICA.ts
-#EXTINF:-1 tvg-chno="47603" tvg-name="Televisiete" tvg-logo="None" group-title="Guatemala" tvg-id="TVSIETE" tvc-guide-stationid="47603",Televisiete
+#EXTINF:-1 tvg-chno="47603" tvg-name="Televisiete" group-title="Guatemala" tvg-id="TVSIETE" tvc-guide-stationid="47603",Televisiete
 http://example.local/GTM-TVSIETE.ts
 #EXTINF:-1 tvg-chno="61033" tvg-name="The Golf Channel Latinoamerica" tvg-logo="https://zap2it.tmsimg.com/assets/s61033_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="GOLFLA" tvc-guide-stationid="61033",The Golf Channel Latinoamerica
 http://example.local/GTM-GOLFLA.ts
@@ -893,7 +893,7 @@ http://example.local/GTM-TUDNM.ts
 http://example.local/GTM-TUDNMH.ts
 #EXTINF:-1 tvg-chno="16046" tvg-name="TV Chile" tvg-logo="https://zap2it.tmsimg.com/assets/s16046_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="TVNI" tvc-guide-stationid="16046",TV Chile
 http://example.local/GTM-TVNI.ts
-#EXTINF:-1 tvg-chno="47561" tvg-name="TV Hot" tvg-logo="None" group-title="Guatemala" tvg-id="TVHOT" tvc-guide-stationid="47561",TV Hot
+#EXTINF:-1 tvg-chno="47561" tvg-name="TV Hot" group-title="Guatemala" tvg-id="TVHOT" tvc-guide-stationid="47561",TV Hot
 http://example.local/GTM-TVHOT.ts
 #EXTINF:-1 tvg-chno="56457" tvg-name="TV Max Panama 9" tvg-logo="https://zap2it.tmsimg.com/assets/s56457_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="TVMAX" tvc-guide-stationid="56457",TV Max Panama 9
 http://example.local/GTM-TVMAX.ts
@@ -903,7 +903,7 @@ http://example.local/GTM-TXMEXI.ts
 http://example.local/GTM-TV5L.ts
 #EXTINF:-1 tvg-chno="16217" tvg-name="TVE" tvg-logo="https://zap2it.tmsimg.com/assets/s16217_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="TVEI" tvc-guide-stationid="16217",TVE
 http://example.local/GTM-TVEI.ts
-#EXTINF:-1 tvg-chno="77845" tvg-name="TVE International América Latine" tvg-logo="None" group-title="Guatemala" tvg-id="TVELAT" tvc-guide-stationid="77845",TVE International América Latine
+#EXTINF:-1 tvg-chno="77845" tvg-name="TVE International América Latine" group-title="Guatemala" tvg-id="TVELAT" tvc-guide-stationid="77845",TVE International América Latine
 http://example.local/GTM-TVELAT.ts
 #EXTINF:-1 tvg-chno="37039" tvg-name="TVN PANAMA Canal 2" tvg-logo="https://zap2it.tmsimg.com/assets/s37039_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="TVNPA" tvc-guide-stationid="37039",TVN PANAMA Canal 2
 http://example.local/GTM-TVNPA.ts

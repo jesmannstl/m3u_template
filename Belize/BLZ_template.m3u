@@ -19,7 +19,7 @@ http://example.local/BLZ-AMCMXHD.ts
 http://example.local/BLZ-AMC.ts
 #EXTINF:-1 tvg-chno="59337" tvg-name="AMC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&h=270" group-title="Belize" tvg-id="AMCHD" tvc-guide-stationid="59337",AMC HD
 http://example.local/BLZ-AMCHD.ts
-#EXTINF:-1 tvg-chno="61858" tvg-name="Americable Galavision" tvg-logo="None" group-title="Belize" tvg-id="AMGALAV" tvc-guide-stationid="61858",Americable Galavision
+#EXTINF:-1 tvg-chno="61858" tvg-name="Americable Galavision" group-title="Belize" tvg-id="AMGALAV" tvc-guide-stationid="61858",Americable Galavision
 http://example.local/BLZ-AMGALAV.ts
 #EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png?w=360&h=270" group-title="Belize" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
 http://example.local/BLZ-ABC.ts
@@ -113,13 +113,13 @@ http://example.local/BLZ-BRAVOHD.ts
 http://example.local/BLZ-BYUTV.ts
 #EXTINF:-1 tvg-chno="10142" tvg-name="Cable News Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10142_ll_h15_aa.png?w=360&h=270" group-title="Belize" tvg-id="CNN" tvc-guide-stationid="10142",Cable News Network
 http://example.local/BLZ-CNN.ts
-#EXTINF:-1 tvg-chno="98191" tvg-name="CALA Westerns" tvg-logo="None" group-title="Belize" tvg-id="CALAWST" tvc-guide-stationid="98191",CALA Westerns
+#EXTINF:-1 tvg-chno="98191" tvg-name="CALA Westerns" group-title="Belize" tvg-id="CALAWST" tvc-guide-stationid="98191",CALA Westerns
 http://example.local/BLZ-CALAWST.ts
 #EXTINF:-1 tvg-chno="79913" tvg-name="CalaWeather" tvg-logo="https://zap2it.tmsimg.com/assets/s79913_ll_h15_aa.png?w=360&h=270" group-title="Belize" tvg-id="CLWTR" tvc-guide-stationid="79913",CalaWeather
 http://example.local/BLZ-CLWTR.ts
 #EXTINF:-1 tvg-chno="20742" tvg-name="Canal 24 Horas HD" tvg-logo="https://zap2it.tmsimg.com/assets/s20742_ll_h9_aa.png?w=360&h=270" group-title="Belize" tvg-id="CAN24" tvc-guide-stationid="20742",Canal 24 Horas HD
 http://example.local/BLZ-CAN24.ts
-#EXTINF:-1 tvg-chno="49251" tvg-name="Canal 3 Guatemala" tvg-logo="None" group-title="Belize" tvg-id="CANAL3G" tvc-guide-stationid="49251",Canal 3 Guatemala
+#EXTINF:-1 tvg-chno="49251" tvg-name="Canal 3 Guatemala" group-title="Belize" tvg-id="CANAL3G" tvc-guide-stationid="49251",Canal 3 Guatemala
 http://example.local/BLZ-CANAL3G.ts
 #EXTINF:-1 tvg-chno="71721" tvg-name="Canal Sony" tvg-logo="https://zap2it.tmsimg.com/assets/s71721_ll_h15_aa.png?w=360&h=270" group-title="Belize" tvg-id="SETLVHD" tvc-guide-stationid="71721",Canal Sony
 http://example.local/BLZ-SETLVHD.ts
@@ -289,7 +289,7 @@ http://example.local/BLZ-ENLUSA.ts
 http://example.local/BLZ-EWTN.ts
 #EXTINF:-1 tvg-chno="96482" tvg-name="Euro D" tvg-logo="https://zap2it.tmsimg.com/assets/s96482_ll_h15_aa.png?w=360&h=270" group-title="Belize" tvg-id="EURODTU" tvc-guide-stationid="96482",Euro D
 http://example.local/BLZ-EURODTU.ts
-#EXTINF:-1 tvg-chno="75777" tvg-name="Fiesta 106.5" tvg-logo="None" group-title="Belize" tvg-id="FSTA" tvc-guide-stationid="75777",Fiesta 106.5
+#EXTINF:-1 tvg-chno="75777" tvg-name="Fiesta 106.5" group-title="Belize" tvg-id="FSTA" tvc-guide-stationid="75777",Fiesta 106.5
 http://example.local/BLZ-FSTA.ts
 #EXTINF:-1 tvg-chno="16215" tvg-name="Film & Arts" tvg-logo="https://zap2it.tmsimg.com/assets/s87687_ll_h15_aa.png?w=360&h=270" group-title="Belize" tvg-id="FABL" tvc-guide-stationid="16215",Film & Arts
 http://example.local/BLZ-FABL.ts
@@ -297,7 +297,7 @@ http://example.local/BLZ-FABL.ts
 http://example.local/BLZ-FOOD.ts
 #EXTINF:-1 tvg-chno="50747" tvg-name="Food Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s50747_ll_h15_ab.png?w=360&h=270" group-title="Belize" tvg-id="FOODHD" tvc-guide-stationid="50747",Food Network HD
 http://example.local/BLZ-FOODHD.ts
-#EXTINF:-1 tvg-chno="112146" tvg-name="Food Network Latam HD" tvg-logo="None" group-title="Belize" tvg-id="FODAMCO" tvc-guide-stationid="112146",Food Network Latam HD
+#EXTINF:-1 tvg-chno="112146" tvg-name="Food Network Latam HD" group-title="Belize" tvg-id="FODAMCO" tvc-guide-stationid="112146",Food Network Latam HD
 http://example.local/BLZ-FODAMCO.ts
 #EXTINF:-1 tvg-chno="16374" tvg-name="Fox News Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16374_ll_h15_ab.png?w=360&h=270" group-title="Belize" tvg-id="FNC" tvc-guide-stationid="16374",Fox News Channel
 http://example.local/BLZ-FNC.ts
@@ -435,7 +435,7 @@ http://example.local/BLZ-LINKTV.ts
 http://example.local/BLZ-LMN.ts
 #EXTINF:-1 tvg-chno="55887" tvg-name="LMN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&h=270" group-title="Belize" tvg-id="LMNHD" tvc-guide-stationid="55887",LMN HD
 http://example.local/BLZ-LMNHD.ts
-#EXTINF:-1 tvg-chno="90291" tvg-name="Love Nature SD" tvg-logo="None" group-title="Belize" tvg-id="NATURSD" tvc-guide-stationid="90291",Love Nature SD
+#EXTINF:-1 tvg-chno="90291" tvg-name="Love Nature SD" group-title="Belize" tvg-id="NATURSD" tvc-guide-stationid="90291",Love Nature SD
 http://example.local/BLZ-NATURSD.ts
 #EXTINF:-1 tvg-chno="18544" tvg-name="Magnolia Network" tvg-logo="https://zap2it.tmsimg.com/assets/s18544_h3_ba.png?w=360&h=270" group-title="Belize" tvg-id="MAGN" tvc-guide-stationid="18544",Magnolia Network
 http://example.local/BLZ-MAGN.ts
@@ -497,9 +497,9 @@ http://example.local/BLZ-NBCSPA.ts
 http://example.local/BLZ-NBCSN.ts
 #EXTINF:-1 tvg-chno="48639" tvg-name="NBCSN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s48639_ll_h9_aa.png?w=360&h=270" group-title="Belize" tvg-id="NBCSNHD" tvc-guide-stationid="48639",NBCSN HD
 http://example.local/BLZ-NBCSNHD.ts
-#EXTINF:-1 tvg-chno="76399" tvg-name="NBCSN HD Non-Olympic" tvg-logo="None" group-title="Belize" tvg-id="NBCSNOH" tvc-guide-stationid="76399",NBCSN HD Non-Olympic
+#EXTINF:-1 tvg-chno="76399" tvg-name="NBCSN HD Non-Olympic" group-title="Belize" tvg-id="NBCSNOH" tvc-guide-stationid="76399",NBCSN HD Non-Olympic
 http://example.local/BLZ-NBCSNOH.ts
-#EXTINF:-1 tvg-chno="76316" tvg-name="NBCSN Non-Olympic" tvg-logo="None" group-title="Belize" tvg-id="NBCSNNO" tvc-guide-stationid="76316",NBCSN Non-Olympic
+#EXTINF:-1 tvg-chno="76316" tvg-name="NBCSN Non-Olympic" group-title="Belize" tvg-id="NBCSNNO" tvc-guide-stationid="76316",NBCSN Non-Olympic
 http://example.local/BLZ-NBCSNNO.ts
 #EXTINF:-1 tvg-chno="34710" tvg-name="NFL Network" tvg-logo="https://zap2it.tmsimg.com/assets/s34710_ll_h15_aa.png?w=360&h=270" group-title="Belize" tvg-id="NFLNET" tvc-guide-stationid="34710",NFL Network
 http://example.local/BLZ-NFLNET.ts
@@ -515,7 +515,7 @@ http://example.local/BLZ-NIKLCE.ts
 http://example.local/BLZ-NIKL.ts
 #EXTINF:-1 tvg-chno="60295" tvg-name="Nick Jr." tvg-logo="https://zap2it.tmsimg.com/assets/s60295_ll_h15_aa.png?w=360&h=270" group-title="Belize" tvg-id="NICKJLM" tvc-guide-stationid="60295",Nick Jr.
 http://example.local/BLZ-NICKJLM.ts
-#EXTINF:-1 tvg-chno="105857" tvg-name="Nick Jr." tvg-logo="None" group-title="Belize" tvg-id="NCKJLME" tvc-guide-stationid="105857",Nick Jr.
+#EXTINF:-1 tvg-chno="105857" tvg-name="Nick Jr." group-title="Belize" tvg-id="NCKJLME" tvc-guide-stationid="105857",Nick Jr.
 http://example.local/BLZ-NCKJLME.ts
 #EXTINF:-1 tvg-chno="11006" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s11006_ll_h15_ab.png?w=360&h=270" group-title="Belize" tvg-id="NIK" tvc-guide-stationid="11006",Nickelodeon
 http://example.local/BLZ-NIK.ts
@@ -549,9 +549,9 @@ http://example.local/BLZ-HD01.ts
 http://example.local/BLZ-PCNE.ts
 #EXTINF:-1 tvg-chno="19556" tvg-name="Peachtree TV (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s19556_ll_h15_aa.png?w=360&h=270" group-title="Belize" tvg-id="WPCH" tvc-guide-stationid="19556",Peachtree TV (CW)
 http://example.local/BLZ-WPCH.ts
-#EXTINF:-1 tvg-chno="80442" tvg-name="Planeta Fútbol 1" tvg-logo="None" group-title="Belize" tvg-id="PLFUT1" tvc-guide-stationid="80442",Planeta Fútbol 1
+#EXTINF:-1 tvg-chno="80442" tvg-name="Planeta Fútbol 1" group-title="Belize" tvg-id="PLFUT1" tvc-guide-stationid="80442",Planeta Fútbol 1
 http://example.local/BLZ-PLFUT1.ts
-#EXTINF:-1 tvg-chno="80466" tvg-name="Planeta Fútbol 1 HD" tvg-logo="None" group-title="Belize" tvg-id="PLFUT1H" tvc-guide-stationid="80466",Planeta Fútbol 1 HD
+#EXTINF:-1 tvg-chno="80466" tvg-name="Planeta Fútbol 1 HD" group-title="Belize" tvg-id="PLFUT1H" tvc-guide-stationid="80466",Planeta Fútbol 1 HD
 http://example.local/BLZ-PLFUT1H.ts
 #EXTINF:-1 tvg-chno="16788" tvg-name="Playboy TV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16788_ll_h15_aa.png?w=360&h=270" group-title="Belize" tvg-id="PLAYL" tvc-guide-stationid="16788",Playboy TV Latin America
 http://example.local/BLZ-PLAYL.ts
@@ -561,9 +561,9 @@ http://example.local/BLZ-PLUS.ts
 http://example.local/BLZ-PBS.ts
 #EXTINF:-1 tvg-chno="62391" tvg-name="Quest" tvg-logo="https://zap2it.tmsimg.com/assets/s62391_ll_h15_ae.png?w=360&h=270" group-title="Belize" tvg-id="QUEST" tvc-guide-stationid="62391",Quest
 http://example.local/BLZ-QUEST.ts
-#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" tvg-logo="None" group-title="Belize" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Belize" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
 http://example.local/BLZ-RCARA.ts
-#EXTINF:-1 tvg-chno="75906" tvg-name="RFI" tvg-logo="None" group-title="Belize" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
+#EXTINF:-1 tvg-chno="75906" tvg-name="RFI" group-title="Belize" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
 http://example.local/BLZ-RFIRAD.ts
 #EXTINF:-1 tvg-chno="105169" tvg-name="RT in Spanish HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105169_ll_h9_aa.png?w=360&h=270" group-title="Belize" tvg-id="RTSPANH" tvc-guide-stationid="105169",RT in Spanish HD
 http://example.local/BLZ-RTSPANH.ts
@@ -687,9 +687,9 @@ http://example.local/BLZ-TSNHD.ts
 http://example.local/BLZ-TVLAND.ts
 #EXTINF:-1 tvg-chno="35513" tvg-name="TV ONE" tvg-logo="https://zap2it.tmsimg.com/assets/s35513_ll_h15_ab.png?w=360&h=270" group-title="Belize" tvg-id="TVONE" tvc-guide-stationid="35513",TV ONE
 http://example.local/BLZ-TVONE.ts
-#EXTINF:-1 tvg-chno="32145" tvg-name="TVB Drama" tvg-logo="None" group-title="Belize" tvg-id="TVBDC" tvc-guide-stationid="32145",TVB Drama
+#EXTINF:-1 tvg-chno="32145" tvg-name="TVB Drama" group-title="Belize" tvg-id="TVBDC" tvc-guide-stationid="32145",TVB Drama
 http://example.local/BLZ-TVBDC.ts
-#EXTINF:-1 tvg-chno="32147" tvg-name="TVB News" tvg-logo="None" group-title="Belize" tvg-id="TVBNW" tvc-guide-stationid="32147",TVB News
+#EXTINF:-1 tvg-chno="32147" tvg-name="TVB News" group-title="Belize" tvg-id="TVBNW" tvc-guide-stationid="32147",TVB News
 http://example.local/BLZ-TVBNW.ts
 #EXTINF:-1 tvg-chno="16217" tvg-name="TVE" tvg-logo="https://zap2it.tmsimg.com/assets/s16217_ll_h15_aa.png?w=360&h=270" group-title="Belize" tvg-id="TVEI" tvc-guide-stationid="16217",TVE
 http://example.local/BLZ-TVEI.ts
@@ -699,7 +699,7 @@ http://example.local/BLZ-TVGES.ts
 http://example.local/BLZ-TVG2.ts
 #EXTINF:-1 tvg-chno="16275" tvg-name="TyC Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s16275_h3_ba.png?w=360&h=270" group-title="Belize" tvg-id="TYC" tvc-guide-stationid="16275",TyC Sports
 http://example.local/BLZ-TYC.ts
-#EXTINF:-1 tvg-chno="75774" tvg-name="Union Radio Noticias" tvg-logo="None" group-title="Belize" tvg-id="CNUR" tvc-guide-stationid="75774",Union Radio Noticias
+#EXTINF:-1 tvg-chno="75774" tvg-name="Union Radio Noticias" group-title="Belize" tvg-id="CNUR" tvc-guide-stationid="75774",Union Radio Noticias
 http://example.local/BLZ-CNUR.ts
 #EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png?w=360&h=270" group-title="Belize" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
 http://example.local/BLZ-UNILAHD.ts

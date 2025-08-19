@@ -41,7 +41,7 @@ http://example.local/NOR-TOONNOR.ts
 http://example.local/NOR-CARTONO.ts
 #EXTINF:-1 tvg-chno="52550" tvg-name="CBS Reality MENA" tvg-logo="https://zap2it.tmsimg.com/assets/s52550_ll_h15_aa.png?w=360&h=270" group-title="Norway" tvg-id="CBSRMEN" tvc-guide-stationid="52550",CBS Reality MENA
 http://example.local/NOR-CBSRMEN.ts
-#EXTINF:-1 tvg-chno="93334" tvg-name="CCTV" tvg-logo="None" group-title="Norway" tvg-id="CCTVI" tvc-guide-stationid="93334",CCTV
+#EXTINF:-1 tvg-chno="93334" tvg-name="CCTV" group-title="Norway" tvg-id="CCTVI" tvc-guide-stationid="93334",CCTV
 http://example.local/NOR-CCTVI.ts
 #EXTINF:-1 tvg-chno="104529" tvg-name="CGTN" tvg-logo="https://zap2it.tmsimg.com/assets/s104529_ll_h9_ac.png?w=360&h=270" group-title="Norway" tvg-id="CGTNEU" tvc-guide-stationid="104529",CGTN
 http://example.local/NOR-CGTNEU.ts
@@ -213,7 +213,7 @@ http://example.local/NOR-NICKNOR.ts
 http://example.local/NOR-NICKGLO.ts
 #EXTINF:-1 tvg-chno="90713" tvg-name="Norway Live" tvg-logo="https://zap2it.tmsimg.com/assets/s90713_ll_h15_ab.png?w=360&h=270" group-title="Norway" tvg-id="NRWLIVE" tvc-guide-stationid="90713",Norway Live
 http://example.local/NOR-NRWLIVE.ts
-#EXTINF:-1 tvg-chno="188208" tvg-name="NRK Rogaland 24 HD" tvg-logo="None" group-title="Norway" tvg-id="NRK24HD" tvc-guide-stationid="188208",NRK Rogaland 24 HD
+#EXTINF:-1 tvg-chno="188208" tvg-name="NRK Rogaland 24 HD" group-title="Norway" tvg-id="NRK24HD" tvc-guide-stationid="188208",NRK Rogaland 24 HD
 http://example.local/NOR-NRK24HD.ts
 #EXTINF:-1 tvg-chno="108161" tvg-name="NRK Super / NRK3" tvg-logo="https://zap2it.tmsimg.com/assets/s108161_ll_h15_aa.png?w=360&h=270" group-title="Norway" tvg-id="NRKSUP3" tvc-guide-stationid="108161",NRK Super / NRK3
 http://example.local/NOR-NRKSUP3.ts
@@ -333,7 +333,7 @@ http://example.local/NOR-VESTROG.ts
 http://example.local/NOR-VARTLAN.ts
 #EXTINF:-1 tvg-chno="122592" tvg-name="TV Øst HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122592_ll_h9_ac.png?w=360&h=270" group-title="Norway" tvg-id="OSTHD" tvc-guide-stationid="122592",TV Øst HD
 http://example.local/NOR-OSTHD.ts
-#EXTINF:-1 tvg-chno="136452" tvg-name="TV1 Øst" tvg-logo="None" group-title="Norway" tvg-id="TV1OST" tvc-guide-stationid="136452",TV1 Øst
+#EXTINF:-1 tvg-chno="136452" tvg-name="TV1 Øst" group-title="Norway" tvg-id="TV1OST" tvc-guide-stationid="136452",TV1 Øst
 http://example.local/NOR-TV1OST.ts
 #EXTINF:-1 tvg-chno="170629" tvg-name="TV12 Bedehuskanalen" tvg-logo="https://zap2it.tmsimg.com/assets/s170629_ll_h15_aa.png?w=360&h=270" group-title="Norway" tvg-id="TV12BEDHD" tvc-guide-stationid="170629",TV12 Bedehuskanalen
 http://example.local/NOR-TV12BEDHD.ts
@@ -393,19 +393,19 @@ http://example.local/NOR-VIAFILHD.ts
 http://example.local/NOR-VIASEHD.ts
 #EXTINF:-1 tvg-chno="83504" tvg-name="V Sport Golf HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83504_ll_h15_aa.png?w=360&h=270" group-title="Norway" tvg-id="VGOLFHD" tvc-guide-stationid="83504",V Sport Golf HD
 http://example.local/NOR-VGOLFHD.ts
-#EXTINF:-1 tvg-chno="141266" tvg-name="V Sport Premier League" tvg-logo="None" group-title="Norway" tvg-id="VSPPLNO" tvc-guide-stationid="141266",V Sport Premier League
+#EXTINF:-1 tvg-chno="141266" tvg-name="V Sport Premier League" group-title="Norway" tvg-id="VSPPLNO" tvc-guide-stationid="141266",V Sport Premier League
 http://example.local/NOR-VSPPLNO.ts
-#EXTINF:-1 tvg-chno="141267" tvg-name="V sport Premier League 1" tvg-logo="None" group-title="Norway" tvg-id="VSPPL1NO" tvc-guide-stationid="141267",V sport Premier League 1
+#EXTINF:-1 tvg-chno="141267" tvg-name="V sport Premier League 1" group-title="Norway" tvg-id="VSPPL1NO" tvc-guide-stationid="141267",V sport Premier League 1
 http://example.local/NOR-VSPPL1NO.ts
-#EXTINF:-1 tvg-chno="141268" tvg-name="V sport Premier League 2" tvg-logo="None" group-title="Norway" tvg-id="VSPPL2NO" tvc-guide-stationid="141268",V sport Premier League 2
+#EXTINF:-1 tvg-chno="141268" tvg-name="V sport Premier League 2" group-title="Norway" tvg-id="VSPPL2NO" tvc-guide-stationid="141268",V sport Premier League 2
 http://example.local/NOR-VSPPL2NO.ts
-#EXTINF:-1 tvg-chno="141269" tvg-name="V sport Premier League 3" tvg-logo="None" group-title="Norway" tvg-id="VSPPL3NO" tvc-guide-stationid="141269",V sport Premier League 3
+#EXTINF:-1 tvg-chno="141269" tvg-name="V sport Premier League 3" group-title="Norway" tvg-id="VSPPL3NO" tvc-guide-stationid="141269",V sport Premier League 3
 http://example.local/NOR-VSPPL3NO.ts
-#EXTINF:-1 tvg-chno="141270" tvg-name="V sport Premier League 4" tvg-logo="None" group-title="Norway" tvg-id="VSPPL4NO" tvc-guide-stationid="141270",V sport Premier League 4
+#EXTINF:-1 tvg-chno="141270" tvg-name="V sport Premier League 4" group-title="Norway" tvg-id="VSPPL4NO" tvc-guide-stationid="141270",V sport Premier League 4
 http://example.local/NOR-VSPPL4NO.ts
 #EXTINF:-1 tvg-chno="100631" tvg-name="V Sport Ultra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100631_ll_h15_ab.png?w=360&h=270" group-title="Norway" tvg-id="VSPOULT" tvc-guide-stationid="100631",V Sport Ultra HD
 http://example.local/NOR-VSPOULT.ts
-#EXTINF:-1 tvg-chno="153696" tvg-name="V Sport UltraHD" tvg-logo="None" group-title="Norway" tvg-id="VSPPLUHD" tvc-guide-stationid="153696",V Sport UltraHD
+#EXTINF:-1 tvg-chno="153696" tvg-name="V Sport UltraHD" group-title="Norway" tvg-id="VSPPLUHD" tvc-guide-stationid="153696",V Sport UltraHD
 http://example.local/NOR-VSPPLUHD.ts
 #EXTINF:-1 tvg-chno="109931" tvg-name="VGTV" tvg-logo="https://zap2it.tmsimg.com/assets/s109931_ll_h15_aa.png?w=360&h=270" group-title="Norway" tvg-id="VGTV" tvc-guide-stationid="109931",VGTV
 http://example.local/NOR-VGTV.ts

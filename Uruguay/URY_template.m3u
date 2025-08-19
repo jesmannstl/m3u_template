@@ -25,7 +25,7 @@ http://example.local/URY-AMER24.ts
 http://example.local/URY-AMR24HD.ts
 #EXTINF:-1 tvg-chno="16271" tvg-name="America Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s16271_ll_h9_ab.png?w=360&h=270" group-title="Uruguay" tvg-id="AMSP" tvc-guide-stationid="16271",America Sports
 http://example.local/URY-AMSP.ts
-#EXTINF:-1 tvg-chno="98573" tvg-name="Americable USA Network" tvg-logo="None" group-title="Uruguay" tvg-id="AMUSA" tvc-guide-stationid="98573",Americable USA Network
+#EXTINF:-1 tvg-chno="98573" tvg-name="Americable USA Network" group-title="Uruguay" tvg-id="AMUSA" tvc-guide-stationid="98573",Americable USA Network
 http://example.local/URY-AMUSA.ts
 #EXTINF:-1 tvg-chno="112229" tvg-name="América TV" tvg-logo="https://zap2it.tmsimg.com/assets/s16395_h3_aa.png?w=360&h=270" group-title="Uruguay" tvg-id="AMETVA" tvc-guide-stationid="112229",América TV
 http://example.local/URY-AMETVA.ts
@@ -39,7 +39,7 @@ http://example.local/URY-ANIPLH.ts
 http://example.local/URY-ANT3SPH.ts
 #EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png?w=360&h=270" group-title="Uruguay" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
 http://example.local/URY-ANT3I.ts
-#EXTINF:-1 tvg-chno="18091" tvg-name="Argentinisima" tvg-logo="None" group-title="Uruguay" tvg-id="ARGEN" tvc-guide-stationid="18091",Argentinisima
+#EXTINF:-1 tvg-chno="18091" tvg-name="Argentinisima" group-title="Uruguay" tvg-id="ARGEN" tvc-guide-stationid="18091",Argentinisima
 http://example.local/URY-ARGEN.ts
 #EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png?w=360&h=270" group-title="Uruguay" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
 http://example.local/URY-ATRESSD.ts
@@ -121,7 +121,7 @@ http://example.local/URY-CANAHD.ts
 http://example.local/URY-CXB10.ts
 #EXTINF:-1 tvg-chno="105275" tvg-name="CANAL 10 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s82021_ll_h15_aa.png?w=360&h=270" group-title="Uruguay" tvg-id="CXB10HD" tvc-guide-stationid="105275",CANAL 10 HD
 http://example.local/URY-CXB10HD.ts
-#EXTINF:-1 tvg-chno="128936" tvg-name="Canal 11 HD" tvg-logo="None" group-title="Uruguay" tvg-id="CAN11PT" tvc-guide-stationid="128936",Canal 11 HD
+#EXTINF:-1 tvg-chno="128936" tvg-name="Canal 11 HD" group-title="Uruguay" tvg-id="CAN11PT" tvc-guide-stationid="128936",Canal 11 HD
 http://example.local/URY-CAN11PT.ts
 #EXTINF:-1 tvg-chno="77818" tvg-name="Canal 21" tvg-logo="https://zap2it.tmsimg.com/assets/s77818_ll_h15_aa.png?w=360&h=270" group-title="Uruguay" tvg-id="CANALTW" tvc-guide-stationid="77818",Canal 21
 http://example.local/URY-CANALTW.ts
@@ -223,11 +223,11 @@ http://example.local/URY-DEPLPLA.ts
 http://example.local/URY-DEPEL.ts
 #EXTINF:-1 tvg-chno="75773" tvg-name="Deportiva 1300" tvg-logo="https://zap2it.tmsimg.com/assets/s75773_ll_h15_aa.png?w=360&h=270" group-title="Uruguay" tvg-id="DEP1300" tvc-guide-stationid="75773",Deportiva 1300
 http://example.local/URY-DEP1300.ts
-#EXTINF:-1 tvg-chno="25063" tvg-name="DirecTV Generic" tvg-logo="None" group-title="Uruguay" tvg-id="DTVGEN" tvc-guide-stationid="25063",DirecTV Generic
+#EXTINF:-1 tvg-chno="25063" tvg-name="DirecTV Generic" group-title="Uruguay" tvg-id="DTVGEN" tvc-guide-stationid="25063",DirecTV Generic
 http://example.local/URY-DTVGEN.ts
-#EXTINF:-1 tvg-chno="12782" tvg-name="DIRECTV NEWS MIX" tvg-logo="None" group-title="Uruguay" tvg-id="NEWSMIX" tvc-guide-stationid="12782",DIRECTV NEWS MIX
+#EXTINF:-1 tvg-chno="12782" tvg-name="DIRECTV NEWS MIX" group-title="Uruguay" tvg-id="NEWSMIX" tvc-guide-stationid="12782",DIRECTV NEWS MIX
 http://example.local/URY-NEWSMIX.ts
-#EXTINF:-1 tvg-chno="106261" tvg-name="DirecTV2 Sports" tvg-logo="None" group-title="Uruguay" tvg-id="DT2SPT" tvc-guide-stationid="106261",DirecTV2 Sports
+#EXTINF:-1 tvg-chno="106261" tvg-name="DirecTV2 Sports" group-title="Uruguay" tvg-id="DT2SPT" tvc-guide-stationid="106261",DirecTV2 Sports
 http://example.local/URY-DT2SPT.ts
 #EXTINF:-1 tvg-chno="25788" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png?w=360&h=270" group-title="Uruguay" tvg-id="DISCCH" tvc-guide-stationid="25788",Discovery Channel
 http://example.local/URY-DISCCH.ts
@@ -279,7 +279,7 @@ http://example.local/URY-CLASSRB.ts
 http://example.local/URY-JAZZ.ts
 #EXTINF:-1 tvg-chno="19799" tvg-name="DMX: Jazz Vocal Blends" tvg-logo="https://zap2it.tmsimg.com/assets/s19799_ll_h9_aa.png?w=360&h=270" group-title="Uruguay" tvg-id="JZZVCL" tvc-guide-stationid="19799",DMX: Jazz Vocal Blends
 http://example.local/URY-JZZVCL.ts
-#EXTINF:-1 tvg-chno="66461" tvg-name="DMX: Riviera Discotheque" tvg-logo="None" group-title="Uruguay" tvg-id="RDISCO" tvc-guide-stationid="66461",DMX: Riviera Discotheque
+#EXTINF:-1 tvg-chno="66461" tvg-name="DMX: Riviera Discotheque" group-title="Uruguay" tvg-id="RDISCO" tvc-guide-stationid="66461",DMX: Riviera Discotheque
 http://example.local/URY-RDISCO.ts
 #EXTINF:-1 tvg-chno="19827" tvg-name="DMX: Soft Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png?w=360&h=270" group-title="Uruguay" tvg-id="SFTHITS" tvc-guide-stationid="19827",DMX: Soft Hits
 http://example.local/URY-SFTHITS.ts
@@ -371,7 +371,7 @@ http://example.local/URY-FIGHTNO.ts
 http://example.local/URY-FABL.ts
 #EXTINF:-1 tvg-chno="91919" tvg-name="Food Network" tvg-logo="https://zap2it.tmsimg.com/assets/s91919_ll_h15_aa.png?w=360&h=270" group-title="Uruguay" tvg-id="FOODLA" tvc-guide-stationid="91919",Food Network
 http://example.local/URY-FOODLA.ts
-#EXTINF:-1 tvg-chno="112146" tvg-name="Food Network Latam HD" tvg-logo="None" group-title="Uruguay" tvg-id="FODAMCO" tvc-guide-stationid="112146",Food Network Latam HD
+#EXTINF:-1 tvg-chno="112146" tvg-name="Food Network Latam HD" group-title="Uruguay" tvg-id="FODAMCO" tvc-guide-stationid="112146",Food Network Latam HD
 http://example.local/URY-FODAMCO.ts
 #EXTINF:-1 tvg-chno="16374" tvg-name="Fox News Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16374_ll_h15_ab.png?w=360&h=270" group-title="Uruguay" tvg-id="FNC" tvc-guide-stationid="16374",Fox News Channel
 http://example.local/URY-FNC.ts
@@ -485,7 +485,7 @@ http://example.local/URY-HCLM.ts
 http://example.local/URY-H2LAME.ts
 #EXTINF:-1 tvg-chno="113554" tvg-name="History Channel Argentina HD" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png?w=360&h=270" group-title="Uruguay" tvg-id="HCCHDA" tvc-guide-stationid="113554",History Channel Argentina HD
 http://example.local/URY-HCCHDA.ts
-#EXTINF:-1 tvg-chno="52760" tvg-name="HTV Musica On Demand" tvg-logo="None" group-title="Uruguay" tvg-id="HTVMUDM" tvc-guide-stationid="52760",HTV Musica On Demand
+#EXTINF:-1 tvg-chno="52760" tvg-name="HTV Musica On Demand" group-title="Uruguay" tvg-id="HTVMUDM" tvc-guide-stationid="52760",HTV Musica On Demand
 http://example.local/URY-HTVMUDM.ts
 #EXTINF:-1 tvg-chno="76951" tvg-name="Hustler TV" tvg-logo="https://zap2it.tmsimg.com/assets/s102775_ll_h15_ab.png?w=360&h=270" group-title="Uruguay" tvg-id="ESHUSTL" tvc-guide-stationid="76951",Hustler TV
 http://example.local/URY-ESHUSTL.ts
@@ -567,7 +567,7 @@ http://example.local/URY-NICKJMH.ts
 http://example.local/URY-NICKJLM.ts
 #EXTINF:-1 tvg-chno="61988" tvg-name="NTN24" tvg-logo="https://zap2it.tmsimg.com/assets/s61988_ll_h15_ac.png?w=360&h=270" group-title="Uruguay" tvg-id="NTN24" tvc-guide-stationid="61988",NTN24
 http://example.local/URY-NTN24.ts
-#EXTINF:-1 tvg-chno="126495" tvg-name="NUEVO TIEMPO" tvg-logo="None" group-title="Uruguay" tvg-id="NUEVOPE" tvc-guide-stationid="126495",NUEVO TIEMPO
+#EXTINF:-1 tvg-chno="126495" tvg-name="NUEVO TIEMPO" group-title="Uruguay" tvg-id="NUEVOPE" tvc-guide-stationid="126495",NUEVO TIEMPO
 http://example.local/URY-NUEVOPE.ts
 #EXTINF:-1 tvg-chno="107423" tvg-name="OnDIRECTV HD (South)" tvg-logo="https://zap2it.tmsimg.com/assets/s107423_ll_h15_aa.png?w=360&h=270" group-title="Uruguay" tvg-id="ONDTHS" tvc-guide-stationid="107423",OnDIRECTV HD (South)
 http://example.local/URY-ONDTHS.ts
@@ -589,7 +589,7 @@ http://example.local/URY-PXSP.ts
 http://example.local/URY-QMMIHD.ts
 #EXTINF:-1 tvg-chno="75978" tvg-name="Quiero Música en Mi Idioma" tvg-logo="https://zap2it.tmsimg.com/assets/s75978_ll_h15_ac.png?w=360&h=270" group-title="Uruguay" tvg-id="QMMI" tvc-guide-stationid="75978",Quiero Música en Mi Idioma
 http://example.local/URY-QMMI.ts
-#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" tvg-logo="None" group-title="Uruguay" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Uruguay" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
 http://example.local/URY-RCARA.ts
 #EXTINF:-1 tvg-chno="19040" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png?w=360&h=270" group-title="Uruguay" tvg-id="RAIIS" tvc-guide-stationid="19040",Rai Italia
 http://example.local/URY-RAIIS.ts
@@ -609,7 +609,7 @@ http://example.local/URY-RGTIHD.ts
 http://example.local/URY-REDETV.ts
 #EXTINF:-1 tvg-chno="78381" tvg-name="RedeTV! HD (REDETV)" tvg-logo="https://zap2it.tmsimg.com/assets/s78381_ll_h15_ab.png?w=360&h=270" group-title="Uruguay" tvg-id="RTVHD" tvc-guide-stationid="78381",RedeTV! HD (REDETV)
 http://example.local/URY-RTVHD.ts
-#EXTINF:-1 tvg-chno="75906" tvg-name="RFI" tvg-logo="None" group-title="Uruguay" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
+#EXTINF:-1 tvg-chno="75906" tvg-name="RFI" group-title="Uruguay" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
 http://example.local/URY-RFIRAD.ts
 #EXTINF:-1 tvg-chno="58333" tvg-name="RT" tvg-logo="https://zap2it.tmsimg.com/assets/s58333_ll_h15_aa.png?w=360&h=270" group-title="Uruguay" tvg-id="RTTV" tvc-guide-stationid="58333",RT
 http://example.local/URY-RTTV.ts
@@ -713,7 +713,7 @@ http://example.local/URY-TV5L.ts
 http://example.local/URY-TVEI.ts
 #EXTINF:-1 tvg-chno="116082" tvg-name="TVE America Television Española HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116082_ll_h15_aa.png?w=360&h=270" group-title="Uruguay" tvg-id="TVEIH" tvc-guide-stationid="116082",TVE America Television Española HD
 http://example.local/URY-TVEIH.ts
-#EXTINF:-1 tvg-chno="77845" tvg-name="TVE International América Latine" tvg-logo="None" group-title="Uruguay" tvg-id="TVELAT" tvc-guide-stationid="77845",TVE International América Latine
+#EXTINF:-1 tvg-chno="77845" tvg-name="TVE International América Latine" group-title="Uruguay" tvg-id="TVELAT" tvc-guide-stationid="77845",TVE International América Latine
 http://example.local/URY-TVELAT.ts
 #EXTINF:-1 tvg-chno="16526" tvg-name="TVN" tvg-logo="https://zap2it.tmsimg.com/assets/s16526_ll_h15_ab.png?w=360&h=270" group-title="Uruguay" tvg-id="TVN" tvc-guide-stationid="16526",TVN
 http://example.local/URY-TVN.ts
@@ -725,9 +725,9 @@ http://example.local/URY-TYC.ts
 http://example.local/URY-TYCHD.ts
 #EXTINF:-1 tvg-chno="116150" tvg-name="UCL TV Unión Continental Latinoamérica" tvg-logo="https://zap2it.tmsimg.com/assets/s116150_ll_h15_aa.png?w=360&h=270" group-title="Uruguay" tvg-id="UCLPLAY" tvc-guide-stationid="116150",UCL TV Unión Continental Latinoamérica
 http://example.local/URY-UCLPLAY.ts
-#EXTINF:-1 tvg-chno="75774" tvg-name="Union Radio Noticias" tvg-logo="None" group-title="Uruguay" tvg-id="CNUR" tvc-guide-stationid="75774",Union Radio Noticias
+#EXTINF:-1 tvg-chno="75774" tvg-name="Union Radio Noticias" group-title="Uruguay" tvg-id="CNUR" tvc-guide-stationid="75774",Union Radio Noticias
 http://example.local/URY-CNUR.ts
-#EXTINF:-1 tvg-chno="122760" tvg-name="UNIPRMH" tvg-logo="None" group-title="Uruguay" tvg-id="UNIPRMH" tvc-guide-stationid="122760",UNIPRMH
+#EXTINF:-1 tvg-chno="122760" tvg-name="UNIPRMH" group-title="Uruguay" tvg-id="UNIPRMH" tvc-guide-stationid="122760",UNIPRMH
 http://example.local/URY-UNIPRMH.ts
 #EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png?w=360&h=270" group-title="Uruguay" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/URY-UNICI.ts

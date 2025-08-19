@@ -99,7 +99,7 @@ http://example.local/ATG-CSPAN.ts
 http://example.local/ATG-SCIFIS.ts
 #EXTINF:-1 tvg-chno="16288" tvg-name="De Película" tvg-logo="https://zap2it.tmsimg.com/assets/s16288_ll_h15_ac.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="DEPEL" tvc-guide-stationid="16288",De Película
 http://example.local/ATG-DEPEL.ts
-#EXTINF:-1 tvg-chno="106261" tvg-name="DirecTV2 Sports" tvg-logo="None" group-title="Antigua and Barbuda" tvg-id="DT2SPT" tvc-guide-stationid="106261",DirecTV2 Sports
+#EXTINF:-1 tvg-chno="106261" tvg-name="DirecTV2 Sports" group-title="Antigua and Barbuda" tvg-id="DT2SPT" tvc-guide-stationid="106261",DirecTV2 Sports
 http://example.local/ATG-DT2SPT.ts
 #EXTINF:-1 tvg-chno="11150" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11150_h3_ba.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="DSC" tvc-guide-stationid="11150",Discovery Channel
 http://example.local/ATG-DSC.ts
@@ -163,7 +163,7 @@ http://example.local/ATG-ESPN2HD.ts
 http://example.local/ATG-EWTN.ts
 #EXTINF:-1 tvg-chno="16350" tvg-name="EWTN Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16350_ll_h9_ab.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="EWTNL" tvc-guide-stationid="16350",EWTN Latin America
 http://example.local/ATG-EWTNL.ts
-#EXTINF:-1 tvg-chno="75777" tvg-name="Fiesta 106.5" tvg-logo="None" group-title="Antigua and Barbuda" tvg-id="FSTA" tvc-guide-stationid="75777",Fiesta 106.5
+#EXTINF:-1 tvg-chno="75777" tvg-name="Fiesta 106.5" group-title="Antigua and Barbuda" tvg-id="FSTA" tvc-guide-stationid="75777",Fiesta 106.5
 http://example.local/ATG-FSTA.ts
 #EXTINF:-1 tvg-chno="16215" tvg-name="Film & Arts" tvg-logo="https://zap2it.tmsimg.com/assets/s87687_ll_h15_aa.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="FABL" tvc-guide-stationid="16215",Film & Arts
 http://example.local/ATG-FABL.ts
@@ -325,11 +325,11 @@ http://example.local/ATG-NEWSNTN.ts
 http://example.local/ATG-NIKL.ts
 #EXTINF:-1 tvg-chno="11006" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s11006_ll_h15_ab.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="NIK" tvc-guide-stationid="11006",Nickelodeon
 http://example.local/ATG-NIK.ts
-#EXTINF:-1 tvg-chno="79368" tvg-name="NTA - Nigerian Television Authority" tvg-logo="None" group-title="Antigua and Barbuda" tvg-id="NTA" tvc-guide-stationid="79368",NTA - Nigerian Television Authority
+#EXTINF:-1 tvg-chno="79368" tvg-name="NTA - Nigerian Television Authority" group-title="Antigua and Barbuda" tvg-id="NTA" tvc-guide-stationid="79368",NTA - Nigerian Television Authority
 http://example.local/ATG-NTA.ts
 #EXTINF:-1 tvg-chno="107423" tvg-name="OnDIRECTV HD (South)" tvg-logo="https://zap2it.tmsimg.com/assets/s107423_ll_h15_aa.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="ONDTHS" tvc-guide-stationid="107423",OnDIRECTV HD (South)
 http://example.local/ATG-ONDTHS.ts
-#EXTINF:-1 tvg-chno="68358" tvg-name="One Caribbean Weather" tvg-logo="None" group-title="Antigua and Barbuda" tvg-id="CARIBWE" tvc-guide-stationid="68358",One Caribbean Weather
+#EXTINF:-1 tvg-chno="68358" tvg-name="One Caribbean Weather" group-title="Antigua and Barbuda" tvg-id="CARIBWE" tvc-guide-stationid="68358",One Caribbean Weather
 http://example.local/ATG-CARIBWE.ts
 #EXTINF:-1 tvg-chno="70387" tvg-name="Oprah Winfrey Network" tvg-logo="https://zap2it.tmsimg.com/assets/s70387_ll_h15_aa.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="OWN" tvc-guide-stationid="70387",Oprah Winfrey Network
 http://example.local/ATG-OWN.ts
@@ -353,11 +353,11 @@ http://example.local/ATG-HD01.ts
 http://example.local/ATG-WPCH.ts
 #EXTINF:-1 tvg-chno="16788" tvg-name="Playboy TV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16788_ll_h15_aa.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="PLAYL" tvc-guide-stationid="16788",Playboy TV Latin America
 http://example.local/ATG-PLAYL.ts
-#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" tvg-logo="None" group-title="Antigua and Barbuda" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Antigua and Barbuda" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
 http://example.local/ATG-RCARA.ts
 #EXTINF:-1 tvg-chno="17250" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="RAII" tvc-guide-stationid="17250",Rai Italia
 http://example.local/ATG-RAII.ts
-#EXTINF:-1 tvg-chno="75906" tvg-name="RFI" tvg-logo="None" group-title="Antigua and Barbuda" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
+#EXTINF:-1 tvg-chno="75906" tvg-name="RFI" group-title="Antigua and Barbuda" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
 http://example.local/ATG-RFIRAD.ts
 #EXTINF:-1 tvg-chno="18086" tvg-name="Showtime Extreme" tvg-logo="https://zap2it.tmsimg.com/assets/s18086_ll_h15_ac.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="SHOWX" tvc-guide-stationid="18086",Showtime Extreme
 http://example.local/ATG-SHOWX.ts
@@ -365,7 +365,7 @@ http://example.local/ATG-SHOWX.ts
 http://example.local/ATG-SPCEEHD.ts
 #EXTINF:-1 tvg-chno="70351" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="SPACES" tvc-guide-stationid="70351",Space
 http://example.local/ATG-SPACES.ts
-#EXTINF:-1 tvg-chno="47526" tvg-name="Sports Extra" tvg-logo="None" group-title="Antigua and Barbuda" tvg-id="SPTEXTR" tvc-guide-stationid="47526",Sports Extra
+#EXTINF:-1 tvg-chno="47526" tvg-name="Sports Extra" group-title="Antigua and Barbuda" tvg-id="SPTEXTR" tvc-guide-stationid="47526",Sports Extra
 http://example.local/ATG-SPTEXTR.ts
 #EXTINF:-1 tvg-chno="82672" tvg-name="SportsMax 2" tvg-logo="https://zap2it.tmsimg.com/assets/s82672_ll_h15_ac.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="SPMAX2" tvc-guide-stationid="82672",SportsMax 2
 http://example.local/ATG-SPMAX2.ts
@@ -525,7 +525,7 @@ http://example.local/ATG-TVEI.ts
 http://example.local/ATG-UNIC.ts
 #EXTINF:-1 tvg-chno="84425" tvg-name="Unicable" tvg-logo="https://zap2it.tmsimg.com/assets/s16521_h3_aa.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="UNICHD" tvc-guide-stationid="84425",Unicable
 http://example.local/ATG-UNICHD.ts
-#EXTINF:-1 tvg-chno="75774" tvg-name="Union Radio Noticias" tvg-logo="None" group-title="Antigua and Barbuda" tvg-id="CNUR" tvc-guide-stationid="75774",Union Radio Noticias
+#EXTINF:-1 tvg-chno="75774" tvg-name="Union Radio Noticias" group-title="Antigua and Barbuda" tvg-id="CNUR" tvc-guide-stationid="75774",Union Radio Noticias
 http://example.local/ATG-CNUR.ts
 #EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/ATG-UNICI.ts
@@ -567,7 +567,7 @@ http://example.local/ATG-WILLOW.ts
 http://example.local/ATG-WPBT.ts
 #EXTINF:-1 tvg-chno="11779" tvg-name="WPIX (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s11779_ll_h15_aa.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="WPIX" tvc-guide-stationid="11779",WPIX (CW)
 http://example.local/ATG-WPIX.ts
-#EXTINF:-1 tvg-chno="11780" tvg-name="WPLG" tvg-logo="None" group-title="Antigua and Barbuda" tvg-id="WPLG" tvc-guide-stationid="11780",WPLG
+#EXTINF:-1 tvg-chno="11780" tvg-name="WPLG" group-title="Antigua and Barbuda" tvg-id="WPLG" tvc-guide-stationid="11780",WPLG
 http://example.local/ATG-WPLG.ts
 #EXTINF:-1 tvg-chno="24696" tvg-name="Zee Cinema HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0022HE0F.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="ZEECIN" tvc-guide-stationid="24696",Zee Cinema HD
 http://example.local/ATG-ZEECIN.ts

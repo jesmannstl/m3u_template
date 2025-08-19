@@ -23,7 +23,7 @@ http://example.local/BES-ANIPI.ts
 http://example.local/BES-ANIPL.ts
 #EXTINF:-1 tvg-chno="19979" tvg-name="Art America" tvg-logo="https://zap2it.tmsimg.com/assets/s19979_ll_h9_aa.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="ARTAMER" tvc-guide-stationid="19979",Art America
 http://example.local/BES-ARTAMER.ts
-#EXTINF:-1 tvg-chno="42386" tvg-name="AUDIO AEI LA EL MOCAMBO" tvg-logo="None" group-title="Bonaire, Saba, St. Eustatius" tvg-id="MOCBO" tvc-guide-stationid="42386",AUDIO AEI LA EL MOCAMBO
+#EXTINF:-1 tvg-chno="42386" tvg-name="AUDIO AEI LA EL MOCAMBO" group-title="Bonaire, Saba, St. Eustatius" tvg-id="MOCBO" tvc-guide-stationid="42386",AUDIO AEI LA EL MOCAMBO
 http://example.local/BES-MOCBO.ts
 #EXTINF:-1 tvg-chno="41084" tvg-name="AUDIO DLA BALADAS EN ESP" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="BALADA" tvc-guide-stationid="41084",AUDIO DLA BALADAS EN ESP
 http://example.local/BES-BALADA.ts
@@ -123,7 +123,7 @@ http://example.local/BES-BVNHET.ts
 http://example.local/BES-BVNTV.ts
 #EXTINF:-1 tvg-chno="10142" tvg-name="Cable News Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10142_ll_h15_aa.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="CNN" tvc-guide-stationid="10142",Cable News Network
 http://example.local/BES-CNN.ts
-#EXTINF:-1 tvg-chno="63727" tvg-name="Canal Adulto" tvg-logo="None" group-title="Bonaire, Saba, St. Eustatius" tvg-id="CAADULT" tvc-guide-stationid="63727",Canal Adulto
+#EXTINF:-1 tvg-chno="63727" tvg-name="Canal Adulto" group-title="Bonaire, Saba, St. Eustatius" tvg-id="CAADULT" tvc-guide-stationid="63727",Canal Adulto
 http://example.local/BES-CAADULT.ts
 #EXTINF:-1 tvg-chno="75047" tvg-name="Canal Sony" tvg-logo="https://zap2it.tmsimg.com/assets/s75047_ll_h15_aa.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="SETCOLE" tvc-guide-stationid="75047",Canal Sony
 http://example.local/BES-SETCOLE.ts
@@ -151,7 +151,7 @@ http://example.local/BES-CARTOA.ts
 http://example.local/BES-CARTOM.ts
 #EXTINF:-1 tvg-chno="44832" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="CARTOAI" tvc-guide-stationid="44832",Cartoonito
 http://example.local/BES-CARTOAI.ts
-#EXTINF:-1 tvg-chno="36916" tvg-name="CBA Television" tvg-logo="None" group-title="Bonaire, Saba, St. Eustatius" tvg-id="CBATV" tvc-guide-stationid="36916",CBA Television
+#EXTINF:-1 tvg-chno="36916" tvg-name="CBA Television" group-title="Bonaire, Saba, St. Eustatius" tvg-id="CBATV" tvc-guide-stationid="36916",CBA Television
 http://example.local/BES-CBATV.ts
 #EXTINF:-1 tvg-chno="10098" tvg-name="CBS Corporation (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="CBS" tvc-guide-stationid="10098",CBS Corporation (CBS)
 http://example.local/BES-CBS.ts
@@ -251,9 +251,9 @@ http://example.local/BES-ENLCE.ts
 http://example.local/BES-ENLACJ.ts
 #EXTINF:-1 tvg-chno="20286" tvg-name="ENLACE TV" tvg-logo="https://zap2it.tmsimg.com/assets/s20286_h3_ba.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="ENLACE" tvc-guide-stationid="20286",ENLACE TV
 http://example.local/BES-ENLACE.ts
-#EXTINF:-1 tvg-chno="27711" tvg-name="EPG Curacao Tele Curacao HD" tvg-logo="None" group-title="Bonaire, Saba, St. Eustatius" tvg-id="TELCUR" tvc-guide-stationid="27711",EPG Curacao Tele Curacao HD
+#EXTINF:-1 tvg-chno="27711" tvg-name="EPG Curacao Tele Curacao HD" group-title="Bonaire, Saba, St. Eustatius" tvg-id="TELCUR" tvc-guide-stationid="27711",EPG Curacao Tele Curacao HD
 http://example.local/BES-TELCUR.ts
-#EXTINF:-1 tvg-chno="40699" tvg-name="EPG LOCAL ORIGINATION 02" tvg-logo="None" group-title="Bonaire, Saba, St. Eustatius" tvg-id="EPGLO2" tvc-guide-stationid="40699",EPG LOCAL ORIGINATION 02
+#EXTINF:-1 tvg-chno="40699" tvg-name="EPG LOCAL ORIGINATION 02" group-title="Bonaire, Saba, St. Eustatius" tvg-id="EPGLO2" tvc-guide-stationid="40699",EPG LOCAL ORIGINATION 02
 http://example.local/BES-EPGLO2.ts
 #EXTINF:-1 tvg-chno="10179" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s10179_ll_h15_aa.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="ESPN" tvc-guide-stationid="10179",ESPN
 http://example.local/BES-ESPN.ts
@@ -263,7 +263,7 @@ http://example.local/BES-ESPNAR.ts
 http://example.local/BES-ESP2ME.ts
 #EXTINF:-1 tvg-chno="75585" tvg-name="ESPN 3" tvg-logo="https://zap2it.tmsimg.com/assets/s75585_ll_h15_ac.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="ESPN3BH" tvc-guide-stationid="75585",ESPN 3
 http://example.local/BES-ESPN3BH.ts
-#EXTINF:-1 tvg-chno="64997" tvg-name="ESPN Caribbean" tvg-logo="None" group-title="Bonaire, Saba, St. Eustatius" tvg-id="ESPNIC" tvc-guide-stationid="64997",ESPN Caribbean
+#EXTINF:-1 tvg-chno="64997" tvg-name="ESPN Caribbean" group-title="Bonaire, Saba, St. Eustatius" tvg-id="ESPNIC" tvc-guide-stationid="64997",ESPN Caribbean
 http://example.local/BES-ESPNIC.ts
 #EXTINF:-1 tvg-chno="12444" tvg-name="ESPN2" tvg-logo="https://zap2it.tmsimg.com/assets/s12444_ll_h15_ab.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="ESPN2" tvc-guide-stationid="12444",ESPN2
 http://example.local/BES-ESPN2.ts
@@ -449,7 +449,7 @@ http://example.local/BES-PARSHO.ts
 http://example.local/BES-WPCH.ts
 #EXTINF:-1 tvg-chno="38944" tvg-name="Playboy En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s38944_ll_h15_aa.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="PLAYESP" tvc-guide-stationid="38944",Playboy En Español
 http://example.local/BES-PLAYESP.ts
-#EXTINF:-1 tvg-chno="11046" tvg-name="Playboy TV - PLAYB" tvg-logo="None" group-title="Bonaire, Saba, St. Eustatius" tvg-id="PLAYB" tvc-guide-stationid="11046",Playboy TV - PLAYB
+#EXTINF:-1 tvg-chno="11046" tvg-name="Playboy TV - PLAYB" group-title="Bonaire, Saba, St. Eustatius" tvg-id="PLAYB" tvc-guide-stationid="11046",Playboy TV - PLAYB
 http://example.local/BES-PLAYB.ts
 #EXTINF:-1 tvg-chno="11039" tvg-name="Public Broadcasting Service (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="PBS" tvc-guide-stationid="11039",Public Broadcasting Service (PBS)
 http://example.local/BES-PBS.ts
@@ -501,15 +501,15 @@ http://example.local/BES-SYFY.ts
 http://example.local/BES-TBSESEN.ts
 #EXTINF:-1 tvg-chno="44824" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s19246_ll_h15_ac.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="TCMLI" tvc-guide-stationid="44824",TCM
 http://example.local/BES-TCMLI.ts
-#EXTINF:-1 tvg-chno="44871" tvg-name="TDS ARUBA" tvg-logo="None" group-title="Bonaire, Saba, St. Eustatius" tvg-id="TDSAR" tvc-guide-stationid="44871",TDS ARUBA
+#EXTINF:-1 tvg-chno="44871" tvg-name="TDS ARUBA" group-title="Bonaire, Saba, St. Eustatius" tvg-id="TDSAR" tvc-guide-stationid="44871",TDS ARUBA
 http://example.local/BES-TDSAR.ts
-#EXTINF:-1 tvg-chno="38680" tvg-name="TDS KANAL ELOUISA" tvg-logo="None" group-title="Bonaire, Saba, St. Eustatius" tvg-id="TDSKNAL" tvc-guide-stationid="38680",TDS KANAL ELOUISA
+#EXTINF:-1 tvg-chno="38680" tvg-name="TDS KANAL ELOUISA" group-title="Bonaire, Saba, St. Eustatius" tvg-id="TDSKNAL" tvc-guide-stationid="38680",TDS KANAL ELOUISA
 http://example.local/BES-TDSKNAL.ts
-#EXTINF:-1 tvg-chno="43639" tvg-name="TDS RADIO KORSOU FM" tvg-logo="None" group-title="Bonaire, Saba, St. Eustatius" tvg-id="TDSKORS" tvc-guide-stationid="43639",TDS RADIO KORSOU FM
+#EXTINF:-1 tvg-chno="43639" tvg-name="TDS RADIO KORSOU FM" group-title="Bonaire, Saba, St. Eustatius" tvg-id="TDSKORS" tvc-guide-stationid="43639",TDS RADIO KORSOU FM
 http://example.local/BES-TDSKORS.ts
-#EXTINF:-1 tvg-chno="65664" tvg-name="TDS RADIO KRIOYO" tvg-logo="None" group-title="Bonaire, Saba, St. Eustatius" tvg-id="TDSRKRI" tvc-guide-stationid="65664",TDS RADIO KRIOYO
+#EXTINF:-1 tvg-chno="65664" tvg-name="TDS RADIO KRIOYO" group-title="Bonaire, Saba, St. Eustatius" tvg-id="TDSRKRI" tvc-guide-stationid="65664",TDS RADIO KRIOYO
 http://example.local/BES-TDSRKRI.ts
-#EXTINF:-1 tvg-chno="79264" tvg-name="TeleAruba HD" tvg-logo="None" group-title="Bonaire, Saba, St. Eustatius" tvg-id="ARUBAHD" tvc-guide-stationid="79264",TeleAruba HD
+#EXTINF:-1 tvg-chno="79264" tvg-name="TeleAruba HD" group-title="Bonaire, Saba, St. Eustatius" tvg-id="ARUBAHD" tvc-guide-stationid="79264",TeleAruba HD
 http://example.local/BES-ARUBAHD.ts
 #EXTINF:-1 tvg-chno="16189" tvg-name="Telefe Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s100066_ll_h15_ad.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="TEFEI" tvc-guide-stationid="16189",Telefe Internacional
 http://example.local/BES-TEFEI.ts
@@ -555,9 +555,9 @@ http://example.local/BES-PRGU.ts
 http://example.local/BES-TVPERU.ts
 #EXTINF:-1 tvg-chno="21495" tvg-name="TV5 Monde Europe" tvg-logo="https://zap2it.tmsimg.com/assets/s21495_ll_h15_aa.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="TV5MON" tvc-guide-stationid="21495",TV5 Monde Europe
 http://example.local/BES-TV5MON.ts
-#EXTINF:-1 tvg-chno="32145" tvg-name="TVB Drama" tvg-logo="None" group-title="Bonaire, Saba, St. Eustatius" tvg-id="TVBDC" tvc-guide-stationid="32145",TVB Drama
+#EXTINF:-1 tvg-chno="32145" tvg-name="TVB Drama" group-title="Bonaire, Saba, St. Eustatius" tvg-id="TVBDC" tvc-guide-stationid="32145",TVB Drama
 http://example.local/BES-TVBDC.ts
-#EXTINF:-1 tvg-chno="16333" tvg-name="TVB1" tvg-logo="None" group-title="Bonaire, Saba, St. Eustatius" tvg-id="TVB1" tvc-guide-stationid="16333",TVB1
+#EXTINF:-1 tvg-chno="16333" tvg-name="TVB1" group-title="Bonaire, Saba, St. Eustatius" tvg-id="TVB1" tvc-guide-stationid="16333",TVB1
 http://example.local/BES-TVB1.ts
 #EXTINF:-1 tvg-chno="60780" tvg-name="TVES" tvg-logo="https://zap2it.tmsimg.com/assets/s60780_ll_h15_aa.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="TVESVEN" tvc-guide-stationid="60780",TVES
 http://example.local/BES-TVESVEN.ts
@@ -597,9 +597,9 @@ http://example.local/BES-WNBC.ts
 http://example.local/BES-WPIX.ts
 #EXTINF:-1 tvg-chno="20373" tvg-name="WPIX-DT (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s53098_ll_h15_ac.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="WPIXDT" tvc-guide-stationid="20373",WPIX-DT (CW)
 http://example.local/BES-WPIXDT.ts
-#EXTINF:-1 tvg-chno="11780" tvg-name="WPLG" tvg-logo="None" group-title="Bonaire, Saba, St. Eustatius" tvg-id="WPLG" tvc-guide-stationid="11780",WPLG
+#EXTINF:-1 tvg-chno="11780" tvg-name="WPLG" group-title="Bonaire, Saba, St. Eustatius" tvg-id="WPLG" tvc-guide-stationid="11780",WPLG
 http://example.local/BES-WPLG.ts
-#EXTINF:-1 tvg-chno="20493" tvg-name="WPLG-DT" tvg-logo="None" group-title="Bonaire, Saba, St. Eustatius" tvg-id="WPLGDT" tvc-guide-stationid="20493",WPLG-DT
+#EXTINF:-1 tvg-chno="20493" tvg-name="WPLG-DT" group-title="Bonaire, Saba, St. Eustatius" tvg-id="WPLGDT" tvc-guide-stationid="20493",WPLG-DT
 http://example.local/BES-WPLGDT.ts
 #EXTINF:-1 tvg-chno="11809" tvg-name="WRAL (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="WRAL" tvc-guide-stationid="11809",WRAL (NBC)
 http://example.local/BES-WRAL.ts

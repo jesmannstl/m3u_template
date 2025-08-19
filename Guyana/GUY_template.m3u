@@ -109,7 +109,7 @@ http://example.local/GUY-ESPNAR.ts
 http://example.local/GUY-ESP2ME.ts
 #EXTINF:-1 tvg-chno="30392" tvg-name="ESPN 5 Centroamérica" tvg-logo="https://zap2it.tmsimg.com/assets/s122027_ll_h15_ab.png?w=360&h=270" group-title="Guyana" tvg-id="ESP5CES" tvc-guide-stationid="30392",ESPN 5 Centroamérica
 http://example.local/GUY-ESP5CES.ts
-#EXTINF:-1 tvg-chno="75777" tvg-name="Fiesta 106.5" tvg-logo="None" group-title="Guyana" tvg-id="FSTA" tvc-guide-stationid="75777",Fiesta 106.5
+#EXTINF:-1 tvg-chno="75777" tvg-name="Fiesta 106.5" group-title="Guyana" tvg-id="FSTA" tvc-guide-stationid="75777",Fiesta 106.5
 http://example.local/GUY-FSTA.ts
 #EXTINF:-1 tvg-chno="16215" tvg-name="Film & Arts" tvg-logo="https://zap2it.tmsimg.com/assets/s87687_ll_h15_aa.png?w=360&h=270" group-title="Guyana" tvg-id="FABL" tvc-guide-stationid="16215",Film & Arts
 http://example.local/GUY-FABL.ts
@@ -171,9 +171,9 @@ http://example.local/GUY-PASNLA.ts
 http://example.local/GUY-WPCH.ts
 #EXTINF:-1 tvg-chno="16788" tvg-name="Playboy TV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16788_ll_h15_aa.png?w=360&h=270" group-title="Guyana" tvg-id="PLAYL" tvc-guide-stationid="16788",Playboy TV Latin America
 http://example.local/GUY-PLAYL.ts
-#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" tvg-logo="None" group-title="Guyana" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Guyana" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
 http://example.local/GUY-RCARA.ts
-#EXTINF:-1 tvg-chno="75906" tvg-name="RFI" tvg-logo="None" group-title="Guyana" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
+#EXTINF:-1 tvg-chno="75906" tvg-name="RFI" group-title="Guyana" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
 http://example.local/GUY-RFIRAD.ts
 #EXTINF:-1 tvg-chno="49559" tvg-name="SportsMax TV" tvg-logo="https://zap2it.tmsimg.com/assets/s49559_ll_h15_ab.png?w=360&h=270" group-title="Guyana" tvg-id="SPMAX" tvc-guide-stationid="49559",SportsMax TV
 http://example.local/GUY-SPMAX.ts
@@ -207,7 +207,7 @@ http://example.local/GUY-TNTLC.ts
 http://example.local/GUY-TVEI.ts
 #EXTINF:-1 tvg-chno="16275" tvg-name="TyC Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s16275_h3_ba.png?w=360&h=270" group-title="Guyana" tvg-id="TYC" tvc-guide-stationid="16275",TyC Sports
 http://example.local/GUY-TYC.ts
-#EXTINF:-1 tvg-chno="75774" tvg-name="Union Radio Noticias" tvg-logo="None" group-title="Guyana" tvg-id="CNUR" tvc-guide-stationid="75774",Union Radio Noticias
+#EXTINF:-1 tvg-chno="75774" tvg-name="Union Radio Noticias" group-title="Guyana" tvg-id="CNUR" tvc-guide-stationid="75774",Union Radio Noticias
 http://example.local/GUY-CNUR.ts
 #EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png?w=360&h=270" group-title="Guyana" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/GUY-UNTVM.ts

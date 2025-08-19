@@ -119,7 +119,7 @@ http://example.local/LCA-SCIFIS.ts
 http://example.local/LCA-DYSTR.ts
 #EXTINF:-1 tvg-chno="16288" tvg-name="De Película" tvg-logo="https://zap2it.tmsimg.com/assets/s16288_ll_h15_ac.png?w=360&h=270" group-title="St. Lucia" tvg-id="DEPEL" tvc-guide-stationid="16288",De Película
 http://example.local/LCA-DEPEL.ts
-#EXTINF:-1 tvg-chno="106261" tvg-name="DirecTV2 Sports" tvg-logo="None" group-title="St. Lucia" tvg-id="DT2SPT" tvc-guide-stationid="106261",DirecTV2 Sports
+#EXTINF:-1 tvg-chno="106261" tvg-name="DirecTV2 Sports" group-title="St. Lucia" tvg-id="DT2SPT" tvc-guide-stationid="106261",DirecTV2 Sports
 http://example.local/LCA-DT2SPT.ts
 #EXTINF:-1 tvg-chno="11150" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11150_h3_ba.png?w=360&h=270" group-title="St. Lucia" tvg-id="DSC" tvc-guide-stationid="11150",Discovery Channel
 http://example.local/LCA-DSC.ts
@@ -191,7 +191,7 @@ http://example.local/LCA-ESPN2HD.ts
 http://example.local/LCA-EWTN.ts
 #EXTINF:-1 tvg-chno="16350" tvg-name="EWTN Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16350_ll_h9_ab.png?w=360&h=270" group-title="St. Lucia" tvg-id="EWTNL" tvc-guide-stationid="16350",EWTN Latin America
 http://example.local/LCA-EWTNL.ts
-#EXTINF:-1 tvg-chno="75777" tvg-name="Fiesta 106.5" tvg-logo="None" group-title="St. Lucia" tvg-id="FSTA" tvc-guide-stationid="75777",Fiesta 106.5
+#EXTINF:-1 tvg-chno="75777" tvg-name="Fiesta 106.5" group-title="St. Lucia" tvg-id="FSTA" tvc-guide-stationid="75777",Fiesta 106.5
 http://example.local/LCA-FSTA.ts
 #EXTINF:-1 tvg-chno="16215" tvg-name="Film & Arts" tvg-logo="https://zap2it.tmsimg.com/assets/s87687_ll_h15_aa.png?w=360&h=270" group-title="St. Lucia" tvg-id="FABL" tvc-guide-stationid="16215",Film & Arts
 http://example.local/LCA-FABL.ts
@@ -297,7 +297,7 @@ http://example.local/LCA-HBO2.ts
 http://example.local/LCA-HBO2P.ts
 #EXTINF:-1 tvg-chno="33668" tvg-name="HDNet Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s33668_ll_h15_ae.png?w=360&h=270" group-title="St. Lucia" tvg-id="HDNETMV" tvc-guide-stationid="33668",HDNet Movies
 http://example.local/LCA-HDNETMV.ts
-#EXTINF:-1 tvg-chno="59464" tvg-name="Health and Wellness" tvg-logo="None" group-title="St. Lucia" tvg-id="HWELL" tvc-guide-stationid="59464",Health and Wellness
+#EXTINF:-1 tvg-chno="59464" tvg-name="Health and Wellness" group-title="St. Lucia" tvg-id="HWELL" tvc-guide-stationid="59464",Health and Wellness
 http://example.local/LCA-HWELL.ts
 #EXTINF:-1 tvg-chno="40137" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png?w=360&h=270" group-title="St. Lucia" tvg-id="HCLM" tvc-guide-stationid="40137",History
 http://example.local/LCA-HCLM.ts
@@ -377,15 +377,15 @@ http://example.local/LCA-NICKJLM.ts
 http://example.local/LCA-NIK.ts
 #EXTINF:-1 tvg-chno="30420" tvg-name="Nicktoons" tvg-logo="https://zap2it.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&h=270" group-title="St. Lucia" tvg-id="NIKTON" tvc-guide-stationid="30420",Nicktoons
 http://example.local/LCA-NIKTON.ts
-#EXTINF:-1 tvg-chno="79368" tvg-name="NTA - Nigerian Television Authority" tvg-logo="None" group-title="St. Lucia" tvg-id="NTA" tvc-guide-stationid="79368",NTA - Nigerian Television Authority
+#EXTINF:-1 tvg-chno="79368" tvg-name="NTA - Nigerian Television Authority" group-title="St. Lucia" tvg-id="NTA" tvc-guide-stationid="79368",NTA - Nigerian Television Authority
 http://example.local/LCA-NTA.ts
 #EXTINF:-1 tvg-chno="61988" tvg-name="NTN24" tvg-logo="https://zap2it.tmsimg.com/assets/s61988_ll_h15_ac.png?w=360&h=270" group-title="St. Lucia" tvg-id="NTN24" tvc-guide-stationid="61988",NTN24
 http://example.local/LCA-NTN24.ts
-#EXTINF:-1 tvg-chno="28123" tvg-name="Oceanic Visitor Cable Network" tvg-logo="None" group-title="St. Lucia" tvg-id="OVISCAB" tvc-guide-stationid="28123",Oceanic Visitor Cable Network
+#EXTINF:-1 tvg-chno="28123" tvg-name="Oceanic Visitor Cable Network" group-title="St. Lucia" tvg-id="OVISCAB" tvc-guide-stationid="28123",Oceanic Visitor Cable Network
 http://example.local/LCA-OVISCAB.ts
 #EXTINF:-1 tvg-chno="107423" tvg-name="OnDIRECTV HD (South)" tvg-logo="https://zap2it.tmsimg.com/assets/s107423_ll_h15_aa.png?w=360&h=270" group-title="St. Lucia" tvg-id="ONDTHS" tvc-guide-stationid="107423",OnDIRECTV HD (South)
 http://example.local/LCA-ONDTHS.ts
-#EXTINF:-1 tvg-chno="68358" tvg-name="One Caribbean Weather" tvg-logo="None" group-title="St. Lucia" tvg-id="CARIBWE" tvc-guide-stationid="68358",One Caribbean Weather
+#EXTINF:-1 tvg-chno="68358" tvg-name="One Caribbean Weather" group-title="St. Lucia" tvg-id="CARIBWE" tvc-guide-stationid="68358",One Caribbean Weather
 http://example.local/LCA-CARIBWE.ts
 #EXTINF:-1 tvg-chno="49208" tvg-name="ONTV4U" tvg-logo="https://zap2it.tmsimg.com/assets/s49208_ll_h15_ac.png?w=360&h=270" group-title="St. Lucia" tvg-id="ONTV4" tvc-guide-stationid="49208",ONTV4U
 http://example.local/LCA-ONTV4.ts
@@ -415,11 +415,11 @@ http://example.local/LCA-POSTV.ts
 http://example.local/LCA-PBS.ts
 #EXTINF:-1 tvg-chno="45169" tvg-name="RACER Network" tvg-logo="https://zap2it.tmsimg.com/assets/s45169_ll_h15_ac.png?w=360&h=270" group-title="St. Lucia" tvg-id="RACER" tvc-guide-stationid="45169",RACER Network
 http://example.local/LCA-RACER.ts
-#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" tvg-logo="None" group-title="St. Lucia" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="St. Lucia" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
 http://example.local/LCA-RCARA.ts
 #EXTINF:-1 tvg-chno="17250" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png?w=360&h=270" group-title="St. Lucia" tvg-id="RAII" tvc-guide-stationid="17250",Rai Italia
 http://example.local/LCA-RAII.ts
-#EXTINF:-1 tvg-chno="75906" tvg-name="RFI" tvg-logo="None" group-title="St. Lucia" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
+#EXTINF:-1 tvg-chno="75906" tvg-name="RFI" group-title="St. Lucia" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
 http://example.local/LCA-RFIRAD.ts
 #EXTINF:-1 tvg-chno="16616" tvg-name="Science" tvg-logo="https://zap2it.tmsimg.com/assets/s16616_ll_h15_ab.png?w=360&h=270" group-title="St. Lucia" tvg-id="SCIENCE" tvc-guide-stationid="16616",Science
 http://example.local/LCA-SCIENCE.ts
@@ -565,7 +565,7 @@ http://example.local/LCA-TVLAND.ts
 http://example.local/LCA-TV5L.ts
 #EXTINF:-1 tvg-chno="16217" tvg-name="TVE" tvg-logo="https://zap2it.tmsimg.com/assets/s16217_ll_h15_aa.png?w=360&h=270" group-title="St. Lucia" tvg-id="TVEI" tvc-guide-stationid="16217",TVE
 http://example.local/LCA-TVEI.ts
-#EXTINF:-1 tvg-chno="75774" tvg-name="Union Radio Noticias" tvg-logo="None" group-title="St. Lucia" tvg-id="CNUR" tvc-guide-stationid="75774",Union Radio Noticias
+#EXTINF:-1 tvg-chno="75774" tvg-name="Union Radio Noticias" group-title="St. Lucia" tvg-id="CNUR" tvc-guide-stationid="75774",Union Radio Noticias
 http://example.local/LCA-CNUR.ts
 #EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png?w=360&h=270" group-title="St. Lucia" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/LCA-UNICI.ts

@@ -77,7 +77,7 @@ http://example.local/DMA-CSPAN.ts
 http://example.local/DMA-SCIFIS.ts
 #EXTINF:-1 tvg-chno="16288" tvg-name="De Película" tvg-logo="https://zap2it.tmsimg.com/assets/s16288_ll_h15_ac.png?w=360&h=270" group-title="Dominica" tvg-id="DEPEL" tvc-guide-stationid="16288",De Película
 http://example.local/DMA-DEPEL.ts
-#EXTINF:-1 tvg-chno="106261" tvg-name="DirecTV2 Sports" tvg-logo="None" group-title="Dominica" tvg-id="DT2SPT" tvc-guide-stationid="106261",DirecTV2 Sports
+#EXTINF:-1 tvg-chno="106261" tvg-name="DirecTV2 Sports" group-title="Dominica" tvg-id="DT2SPT" tvc-guide-stationid="106261",DirecTV2 Sports
 http://example.local/DMA-DT2SPT.ts
 #EXTINF:-1 tvg-chno="11150" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11150_h3_ba.png?w=360&h=270" group-title="Dominica" tvg-id="DSC" tvc-guide-stationid="11150",Discovery Channel
 http://example.local/DMA-DSC.ts
@@ -131,7 +131,7 @@ http://example.local/DMA-ESPN2.ts
 http://example.local/DMA-ESPN2HD.ts
 #EXTINF:-1 tvg-chno="10183" tvg-name="Eternal Word Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10183_ll_h15_ab.png?w=360&h=270" group-title="Dominica" tvg-id="EWTN" tvc-guide-stationid="10183",Eternal Word Television Network
 http://example.local/DMA-EWTN.ts
-#EXTINF:-1 tvg-chno="75777" tvg-name="Fiesta 106.5" tvg-logo="None" group-title="Dominica" tvg-id="FSTA" tvc-guide-stationid="75777",Fiesta 106.5
+#EXTINF:-1 tvg-chno="75777" tvg-name="Fiesta 106.5" group-title="Dominica" tvg-id="FSTA" tvc-guide-stationid="75777",Fiesta 106.5
 http://example.local/DMA-FSTA.ts
 #EXTINF:-1 tvg-chno="16215" tvg-name="Film & Arts" tvg-logo="https://zap2it.tmsimg.com/assets/s87687_ll_h15_aa.png?w=360&h=270" group-title="Dominica" tvg-id="FABL" tvc-guide-stationid="16215",Film & Arts
 http://example.local/DMA-FABL.ts
@@ -255,7 +255,7 @@ http://example.local/DMA-NIKL.ts
 http://example.local/DMA-NIK.ts
 #EXTINF:-1 tvg-chno="107423" tvg-name="OnDIRECTV HD (South)" tvg-logo="https://zap2it.tmsimg.com/assets/s107423_ll_h15_aa.png?w=360&h=270" group-title="Dominica" tvg-id="ONDTHS" tvc-guide-stationid="107423",OnDIRECTV HD (South)
 http://example.local/DMA-ONDTHS.ts
-#EXTINF:-1 tvg-chno="79360" tvg-name="Overflow" tvg-logo="None" group-title="Dominica" tvg-id="OVERFLW" tvc-guide-stationid="79360",Overflow
+#EXTINF:-1 tvg-chno="79360" tvg-name="Overflow" group-title="Dominica" tvg-id="OVERFLW" tvc-guide-stationid="79360",Overflow
 http://example.local/DMA-OVERFLW.ts
 #EXTINF:-1 tvg-chno="21484" tvg-name="Oxygen True Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s21484_ll_h15_ac.png?w=360&h=270" group-title="Dominica" tvg-id="OXYGEN" tvc-guide-stationid="21484",Oxygen True Crime
 http://example.local/DMA-OXYGEN.ts
@@ -275,9 +275,9 @@ http://example.local/DMA-WPCH.ts
 http://example.local/DMA-PLAYL.ts
 #EXTINF:-1 tvg-chno="11039" tvg-name="Public Broadcasting Service (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png?w=360&h=270" group-title="Dominica" tvg-id="PBS" tvc-guide-stationid="11039",Public Broadcasting Service (PBS)
 http://example.local/DMA-PBS.ts
-#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" tvg-logo="None" group-title="Dominica" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Dominica" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
 http://example.local/DMA-RCARA.ts
-#EXTINF:-1 tvg-chno="75906" tvg-name="RFI" tvg-logo="None" group-title="Dominica" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
+#EXTINF:-1 tvg-chno="75906" tvg-name="RFI" group-title="Dominica" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
 http://example.local/DMA-RFIRAD.ts
 #EXTINF:-1 tvg-chno="69490" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png?w=360&h=270" group-title="Dominica" tvg-id="SPACEEH" tvc-guide-stationid="69490",Space
 http://example.local/DMA-SPACEEH.ts
@@ -405,7 +405,7 @@ http://example.local/DMA-TVLAND.ts
 http://example.local/DMA-TV5FBSM.ts
 #EXTINF:-1 tvg-chno="16217" tvg-name="TVE" tvg-logo="https://zap2it.tmsimg.com/assets/s16217_ll_h15_aa.png?w=360&h=270" group-title="Dominica" tvg-id="TVEI" tvc-guide-stationid="16217",TVE
 http://example.local/DMA-TVEI.ts
-#EXTINF:-1 tvg-chno="75774" tvg-name="Union Radio Noticias" tvg-logo="None" group-title="Dominica" tvg-id="CNUR" tvc-guide-stationid="75774",Union Radio Noticias
+#EXTINF:-1 tvg-chno="75774" tvg-name="Union Radio Noticias" group-title="Dominica" tvg-id="CNUR" tvc-guide-stationid="75774",Union Radio Noticias
 http://example.local/DMA-CNUR.ts
 #EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png?w=360&h=270" group-title="Dominica" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/DMA-UNICI.ts

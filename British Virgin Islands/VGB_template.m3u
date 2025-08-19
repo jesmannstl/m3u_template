@@ -27,13 +27,13 @@ http://example.local/VGB-BETSOUL.ts
 http://example.local/VGB-BLOOM.ts
 #EXTINF:-1 tvg-chno="10142" tvg-name="Cable News Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10142_ll_h15_aa.png?w=360&h=270" group-title="British Virgin Islands" tvg-id="CNN" tvc-guide-stationid="10142",Cable News Network
 http://example.local/VGB-CNN.ts
-#EXTINF:-1 tvg-chno="83325" tvg-name="Cable News Network (Caribbean Feed) HD" tvg-logo="None" group-title="British Virgin Islands" tvg-id="CNNCAR" tvc-guide-stationid="83325",Cable News Network (Caribbean Feed) HD
+#EXTINF:-1 tvg-chno="83325" tvg-name="Cable News Network (Caribbean Feed) HD" group-title="British Virgin Islands" tvg-id="CNNCAR" tvc-guide-stationid="83325",Cable News Network (Caribbean Feed) HD
 http://example.local/VGB-CNNCAR.ts
 #EXTINF:-1 tvg-chno="80063" tvg-name="Cala Classics" tvg-logo="https://zap2it.tmsimg.com/assets/s80063_ll_h15_aa.png?w=360&h=270" group-title="British Virgin Islands" tvg-id="CLCSC" tvc-guide-stationid="80063",Cala Classics
 http://example.local/VGB-CLCSC.ts
 #EXTINF:-1 tvg-chno="108183" tvg-name="Cala Westerns" tvg-logo="https://zap2it.tmsimg.com/assets/s108183_ll_h15_aa.png?w=360&h=270" group-title="British Virgin Islands" tvg-id="CWEST" tvc-guide-stationid="108183",Cala Westerns
 http://example.local/VGB-CWEST.ts
-#EXTINF:-1 tvg-chno="109825" tvg-name="CalaAction" tvg-logo="None" group-title="British Virgin Islands" tvg-id="CALAACT" tvc-guide-stationid="109825",CalaAction
+#EXTINF:-1 tvg-chno="109825" tvg-name="CalaAction" group-title="British Virgin Islands" tvg-id="CALAACT" tvc-guide-stationid="109825",CalaAction
 http://example.local/VGB-CALAACT.ts
 #EXTINF:-1 tvg-chno="79913" tvg-name="CalaWeather" tvg-logo="https://zap2it.tmsimg.com/assets/s79913_ll_h15_aa.png?w=360&h=270" group-title="British Virgin Islands" tvg-id="CLWTR" tvc-guide-stationid="79913",CalaWeather
 http://example.local/VGB-CLWTR.ts
@@ -83,7 +83,7 @@ http://example.local/VGB-DISJMXE.ts
 http://example.local/VGB-DISXMUE.ts
 #EXTINF:-1 tvg-chno="10179" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s10179_ll_h15_aa.png?w=360&h=270" group-title="British Virgin Islands" tvg-id="ESPN" tvc-guide-stationid="10179",ESPN
 http://example.local/VGB-ESPN.ts
-#EXTINF:-1 tvg-chno="64997" tvg-name="ESPN Caribbean" tvg-logo="None" group-title="British Virgin Islands" tvg-id="ESPNIC" tvc-guide-stationid="64997",ESPN Caribbean
+#EXTINF:-1 tvg-chno="64997" tvg-name="ESPN Caribbean" group-title="British Virgin Islands" tvg-id="ESPNIC" tvc-guide-stationid="64997",ESPN Caribbean
 http://example.local/VGB-ESPNIC.ts
 #EXTINF:-1 tvg-chno="55885" tvg-name="ESPN2 Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s55885_ll_h15_aa.png?w=360&h=270" group-title="British Virgin Islands" tvg-id="ESPN2CA" tvc-guide-stationid="55885",ESPN2 Caribbean
 http://example.local/VGB-ESPN2CA.ts
@@ -153,7 +153,7 @@ http://example.local/VGB-NIKL.ts
 http://example.local/VGB-NICJR.ts
 #EXTINF:-1 tvg-chno="11006" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s11006_ll_h15_ab.png?w=360&h=270" group-title="British Virgin Islands" tvg-id="NIK" tvc-guide-stationid="11006",Nickelodeon
 http://example.local/VGB-NIK.ts
-#EXTINF:-1 tvg-chno="98271" tvg-name="One Caribbean TV" tvg-logo="None" group-title="British Virgin Islands" tvg-id="ONECTSD" tvc-guide-stationid="98271",One Caribbean TV
+#EXTINF:-1 tvg-chno="98271" tvg-name="One Caribbean TV" group-title="British Virgin Islands" tvg-id="ONECTSD" tvc-guide-stationid="98271",One Caribbean TV
 http://example.local/VGB-ONECTSD.ts
 #EXTINF:-1 tvg-chno="70387" tvg-name="Oprah Winfrey Network" tvg-logo="https://zap2it.tmsimg.com/assets/s70387_ll_h15_aa.png?w=360&h=270" group-title="British Virgin Islands" tvg-id="OWN" tvc-guide-stationid="70387",Oprah Winfrey Network
 http://example.local/VGB-OWN.ts
@@ -213,9 +213,9 @@ http://example.local/VGB-WNLO.ts
 http://example.local/VGB-WNYODT.ts
 #EXTINF:-1 tvg-chno="11779" tvg-name="WPIX (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s11779_ll_h15_aa.png?w=360&h=270" group-title="British Virgin Islands" tvg-id="WPIX" tvc-guide-stationid="11779",WPIX (CW)
 http://example.local/VGB-WPIX.ts
-#EXTINF:-1 tvg-chno="11780" tvg-name="WPLG" tvg-logo="None" group-title="British Virgin Islands" tvg-id="WPLG" tvc-guide-stationid="11780",WPLG
+#EXTINF:-1 tvg-chno="11780" tvg-name="WPLG" group-title="British Virgin Islands" tvg-id="WPLG" tvc-guide-stationid="11780",WPLG
 http://example.local/VGB-WPLG.ts
-#EXTINF:-1 tvg-chno="20493" tvg-name="WPLG-DT" tvg-logo="None" group-title="British Virgin Islands" tvg-id="WPLGDT" tvc-guide-stationid="20493",WPLG-DT
+#EXTINF:-1 tvg-chno="20493" tvg-name="WPLG-DT" group-title="British Virgin Islands" tvg-id="WPLGDT" tvc-guide-stationid="20493",WPLG-DT
 http://example.local/VGB-WPLGDT.ts
 #EXTINF:-1 tvg-chno="34734" tvg-name="WSCV-DT (TELE)" tvg-logo="https://zap2it.tmsimg.com/assets/s73245_ll_h15_ac.png?w=360&h=270" group-title="British Virgin Islands" tvg-id="WSCVDT" tvc-guide-stationid="34734",WSCV-DT (TELE)
 http://example.local/VGB-WSCVDT.ts

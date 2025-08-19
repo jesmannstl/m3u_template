@@ -43,7 +43,7 @@ http://example.local/CUW-ARTAMER.ts
 http://example.local/CUW-ATRESSD.ts
 #EXTINF:-1 tvg-chno="96483" tvg-name="ATV Avrupa" tvg-logo="https://zap2it.tmsimg.com/assets/s96483_ll_h15_ab.png?w=360&h=270" group-title="Curacao" tvg-id="AVRPTU" tvc-guide-stationid="96483",ATV Avrupa
 http://example.local/CUW-AVRPTU.ts
-#EXTINF:-1 tvg-chno="42386" tvg-name="AUDIO AEI LA EL MOCAMBO" tvg-logo="None" group-title="Curacao" tvg-id="MOCBO" tvc-guide-stationid="42386",AUDIO AEI LA EL MOCAMBO
+#EXTINF:-1 tvg-chno="42386" tvg-name="AUDIO AEI LA EL MOCAMBO" group-title="Curacao" tvg-id="MOCBO" tvc-guide-stationid="42386",AUDIO AEI LA EL MOCAMBO
 http://example.local/CUW-MOCBO.ts
 #EXTINF:-1 tvg-chno="41084" tvg-name="AUDIO DLA BALADAS EN ESP" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Curacao" tvg-id="BALADA" tvc-guide-stationid="41084",AUDIO DLA BALADAS EN ESP
 http://example.local/CUW-BALADA.ts
@@ -119,7 +119,7 @@ http://example.local/CUW-EXITO90.ts
 http://example.local/CUW-EXITOIT.ts
 #EXTINF:-1 tvg-chno="40285" tvg-name="Audio DLA Éxitos Samba Y Pagode" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Curacao" tvg-id="SAMBAPA" tvc-guide-stationid="40285",Audio DLA Éxitos Samba Y Pagode
 http://example.local/CUW-SAMBAPA.ts
-#EXTINF:-1 tvg-chno="61950" tvg-name="Audio DMX Hurbano" tvg-logo="None" group-title="Curacao" tvg-id="HURBANO" tvc-guide-stationid="61950",Audio DMX Hurbano
+#EXTINF:-1 tvg-chno="61950" tvg-name="Audio DMX Hurbano" group-title="Curacao" tvg-id="HURBANO" tvc-guide-stationid="61950",Audio DMX Hurbano
 http://example.local/CUW-HURBANO.ts
 #EXTINF:-1 tvg-chno="26083" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s17484_ll_h15_ab.png?w=360&h=270" group-title="Curacao" tvg-id="AXNARG" tvc-guide-stationid="26083",AXN
 http://example.local/CUW-AXNARG.ts
@@ -167,7 +167,7 @@ http://example.local/CUW-BVNHET.ts
 http://example.local/CUW-CNN.ts
 #EXTINF:-1 tvg-chno="20742" tvg-name="Canal 24 Horas HD" tvg-logo="https://zap2it.tmsimg.com/assets/s20742_ll_h9_aa.png?w=360&h=270" group-title="Curacao" tvg-id="CAN24" tvc-guide-stationid="20742",Canal 24 Horas HD
 http://example.local/CUW-CAN24.ts
-#EXTINF:-1 tvg-chno="63727" tvg-name="Canal Adulto" tvg-logo="None" group-title="Curacao" tvg-id="CAADULT" tvc-guide-stationid="63727",Canal Adulto
+#EXTINF:-1 tvg-chno="63727" tvg-name="Canal Adulto" group-title="Curacao" tvg-id="CAADULT" tvc-guide-stationid="63727",Canal Adulto
 http://example.local/CUW-CAADULT.ts
 #EXTINF:-1 tvg-chno="30823" tvg-name="Canal Fox Central" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_h3_aa.png?w=360&h=270" group-title="Curacao" tvg-id="FOXLC" tvc-guide-stationid="30823",Canal Fox Central
 http://example.local/CUW-FOXLC.ts
@@ -193,7 +193,7 @@ http://example.local/CUW-TOONES.ts
 http://example.local/CUW-CARTOM.ts
 #EXTINF:-1 tvg-chno="44832" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png?w=360&h=270" group-title="Curacao" tvg-id="CARTOAI" tvc-guide-stationid="44832",Cartoonito
 http://example.local/CUW-CARTOAI.ts
-#EXTINF:-1 tvg-chno="36916" tvg-name="CBA Television" tvg-logo="None" group-title="Curacao" tvg-id="CBATV" tvc-guide-stationid="36916",CBA Television
+#EXTINF:-1 tvg-chno="36916" tvg-name="CBA Television" group-title="Curacao" tvg-id="CBATV" tvc-guide-stationid="36916",CBA Television
 http://example.local/CUW-CBATV.ts
 #EXTINF:-1 tvg-chno="10092" tvg-name="CBMT - CBC Montreal (CBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10084_ll_h15_ab.png?w=360&h=270" group-title="Curacao" tvg-id="CBMT" tvc-guide-stationid="10092",CBMT - CBC Montreal (CBC)
 http://example.local/CUW-CBMT.ts
@@ -215,7 +215,7 @@ http://example.local/CUW-CITY.ts
 http://example.local/CUW-CNC3.ts
 #EXTINF:-1 tvg-chno="27773" tvg-name="CNN en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png?w=360&h=270" group-title="Curacao" tvg-id="CNNEM" tvc-guide-stationid="27773",CNN en Español
 http://example.local/CUW-CNNEM.ts
-#EXTINF:-1 tvg-chno="84307" tvg-name="CNN en Español" tvg-logo="None" group-title="Curacao" tvg-id="TDSCNNL" tvc-guide-stationid="84307",CNN en Español
+#EXTINF:-1 tvg-chno="84307" tvg-name="CNN en Español" group-title="Curacao" tvg-id="TDSCNNL" tvc-guide-stationid="84307",CNN en Español
 http://example.local/CUW-TDSCNNL.ts
 #EXTINF:-1 tvg-chno="58646" tvg-name="CNN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&h=270" group-title="Curacao" tvg-id="CNNHD" tvc-guide-stationid="58646",CNN HD
 http://example.local/CUW-CNNHD.ts
@@ -235,7 +235,7 @@ http://example.local/CUW-SCIFIS.ts
 http://example.local/CUW-CUBVIS.ts
 #EXTINF:-1 tvg-chno="16288" tvg-name="De Película" tvg-logo="https://zap2it.tmsimg.com/assets/s16288_ll_h15_ac.png?w=360&h=270" group-title="Curacao" tvg-id="DEPEL" tvc-guide-stationid="16288",De Película
 http://example.local/CUW-DEPEL.ts
-#EXTINF:-1 tvg-chno="106261" tvg-name="DirecTV2 Sports" tvg-logo="None" group-title="Curacao" tvg-id="DT2SPT" tvc-guide-stationid="106261",DirecTV2 Sports
+#EXTINF:-1 tvg-chno="106261" tvg-name="DirecTV2 Sports" group-title="Curacao" tvg-id="DT2SPT" tvc-guide-stationid="106261",DirecTV2 Sports
 http://example.local/CUW-DT2SPT.ts
 #EXTINF:-1 tvg-chno="11150" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11150_h3_ba.png?w=360&h=270" group-title="Curacao" tvg-id="DSC" tvc-guide-stationid="11150",Discovery Channel
 http://example.local/CUW-DSC.ts
@@ -313,7 +313,7 @@ http://example.local/CUW-CLSROCK.ts
 http://example.local/CUW-CONTEM.ts
 #EXTINF:-1 tvg-chno="21418" tvg-name="DMX: Fiesta Tropical" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png?w=360&h=270" group-title="Curacao" tvg-id="FTROP" tvc-guide-stationid="21418",DMX: Fiesta Tropical
 http://example.local/CUW-FTROP.ts
-#EXTINF:-1 tvg-chno="21425" tvg-name="DMX: Flashback New Wave" tvg-logo="None" group-title="Curacao" tvg-id="FLASH" tvc-guide-stationid="21425",DMX: Flashback New Wave
+#EXTINF:-1 tvg-chno="21425" tvg-name="DMX: Flashback New Wave" group-title="Curacao" tvg-id="FLASH" tvc-guide-stationid="21425",DMX: Flashback New Wave
 http://example.local/CUW-FLASH.ts
 #EXTINF:-1 tvg-chno="19010" tvg-name="DMX: Great Standards" tvg-logo="https://zap2it.tmsimg.com/assets/s19010_ll_h9_aa.png?w=360&h=270" group-title="Curacao" tvg-id="GREATS" tvc-guide-stationid="19010",DMX: Great Standards
 http://example.local/CUW-GREATS.ts
@@ -339,7 +339,7 @@ http://example.local/CUW-LOVESNG.ts
 http://example.local/CUW-MACHI.ts
 #EXTINF:-1 tvg-chno="19795" tvg-name="DMX: Piano" tvg-logo="https://zap2it.tmsimg.com/assets/s19795_ll_h9_aa.png?w=360&h=270" group-title="Curacao" tvg-id="PIANO" tvc-guide-stationid="19795",DMX: Piano
 http://example.local/CUW-PIANO.ts
-#EXTINF:-1 tvg-chno="19826" tvg-name="DMX: Power Hits" tvg-logo="None" group-title="Curacao" tvg-id="POWRHIT" tvc-guide-stationid="19826",DMX: Power Hits
+#EXTINF:-1 tvg-chno="19826" tvg-name="DMX: Power Hits" group-title="Curacao" tvg-id="POWRHIT" tvc-guide-stationid="19826",DMX: Power Hits
 http://example.local/CUW-POWRHIT.ts
 #EXTINF:-1 tvg-chno="19005" tvg-name="DMX: Reggae" tvg-logo="https://zap2it.tmsimg.com/assets/s19005_ll_h9_aa.png?w=360&h=270" group-title="Curacao" tvg-id="REGGAE" tvc-guide-stationid="19005",DMX: Reggae
 http://example.local/CUW-REGGAE.ts
@@ -347,7 +347,7 @@ http://example.local/CUW-REGGAE.ts
 http://example.local/CUW-REGMEX.ts
 #EXTINF:-1 tvg-chno="19832" tvg-name="DMX: Retro Disco" tvg-logo="https://zap2it.tmsimg.com/assets/s19832_ll_h9_aa.png?w=360&h=270" group-title="Curacao" tvg-id="RETROD" tvc-guide-stationid="19832",DMX: Retro Disco
 http://example.local/CUW-RETROD.ts
-#EXTINF:-1 tvg-chno="66461" tvg-name="DMX: Riviera Discotheque" tvg-logo="None" group-title="Curacao" tvg-id="RDISCO" tvc-guide-stationid="66461",DMX: Riviera Discotheque
+#EXTINF:-1 tvg-chno="66461" tvg-name="DMX: Riviera Discotheque" group-title="Curacao" tvg-id="RDISCO" tvc-guide-stationid="66461",DMX: Riviera Discotheque
 http://example.local/CUW-RDISCO.ts
 #EXTINF:-1 tvg-chno="19848" tvg-name="DMX: Rock en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s19848_ll_h9_aa.png?w=360&h=270" group-title="Curacao" tvg-id="ROCKESP" tvc-guide-stationid="19848",DMX: Rock en Español
 http://example.local/CUW-ROCKESP.ts
@@ -361,7 +361,7 @@ http://example.local/CUW-UKHITS.ts
 http://example.local/CUW-UPOLD.ts
 #EXTINF:-1 tvg-chno="19670" tvg-name="DMX: Urban Beat" tvg-logo="https://zap2it.tmsimg.com/assets/s19670_ll_h9_aa.png?w=360&h=270" group-title="Curacao" tvg-id="URBEAT" tvc-guide-stationid="19670",DMX: Urban Beat
 http://example.local/CUW-URBEAT.ts
-#EXTINF:-1 tvg-chno="19343" tvg-name="DMX: World Beat" tvg-logo="None" group-title="Curacao" tvg-id="WORLDBT" tvc-guide-stationid="19343",DMX: World Beat
+#EXTINF:-1 tvg-chno="19343" tvg-name="DMX: World Beat" group-title="Curacao" tvg-id="WORLDBT" tvc-guide-stationid="19343",DMX: World Beat
 http://example.local/CUW-WORLDBT.ts
 #EXTINF:-1 tvg-chno="46078" tvg-name="DMX: Zen" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png?w=360&h=270" group-title="Curacao" tvg-id="ZEN" tvc-guide-stationid="46078",DMX: Zen
 http://example.local/CUW-ZEN.ts
@@ -381,7 +381,7 @@ http://example.local/CUW-ETVLNHD.ts
 http://example.local/CUW-GOURMETN.ts
 #EXTINF:-1 tvg-chno="20286" tvg-name="ENLACE TV" tvg-logo="https://zap2it.tmsimg.com/assets/s20286_h3_ba.png?w=360&h=270" group-title="Curacao" tvg-id="ENLACE" tvc-guide-stationid="20286",ENLACE TV
 http://example.local/CUW-ENLACE.ts
-#EXTINF:-1 tvg-chno="27711" tvg-name="EPG Curacao Tele Curacao HD" tvg-logo="None" group-title="Curacao" tvg-id="TELCUR" tvc-guide-stationid="27711",EPG Curacao Tele Curacao HD
+#EXTINF:-1 tvg-chno="27711" tvg-name="EPG Curacao Tele Curacao HD" group-title="Curacao" tvg-id="TELCUR" tvc-guide-stationid="27711",EPG Curacao Tele Curacao HD
 http://example.local/CUW-TELCUR.ts
 #EXTINF:-1 tvg-chno="17725" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s17725_ll_h15_ac.png?w=360&h=270" group-title="Curacao" tvg-id="ESPNAR" tvc-guide-stationid="17725",ESPN
 http://example.local/CUW-ESPNAR.ts
@@ -393,9 +393,9 @@ http://example.local/CUW-ESP2ME.ts
 http://example.local/CUW-ESP4MXH.ts
 #EXTINF:-1 tvg-chno="30392" tvg-name="ESPN 5 Centroamérica" tvg-logo="https://zap2it.tmsimg.com/assets/s122027_ll_h15_ab.png?w=360&h=270" group-title="Curacao" tvg-id="ESP5CES" tvc-guide-stationid="30392",ESPN 5 Centroamérica
 http://example.local/CUW-ESP5CES.ts
-#EXTINF:-1 tvg-chno="78764" tvg-name="ESPN Caribbean" tvg-logo="None" group-title="Curacao" tvg-id="ESPNICH" tvc-guide-stationid="78764",ESPN Caribbean
+#EXTINF:-1 tvg-chno="78764" tvg-name="ESPN Caribbean" group-title="Curacao" tvg-id="ESPNICH" tvc-guide-stationid="78764",ESPN Caribbean
 http://example.local/CUW-ESPNICH.ts
-#EXTINF:-1 tvg-chno="64997" tvg-name="ESPN Caribbean" tvg-logo="None" group-title="Curacao" tvg-id="ESPNIC" tvc-guide-stationid="64997",ESPN Caribbean
+#EXTINF:-1 tvg-chno="64997" tvg-name="ESPN Caribbean" group-title="Curacao" tvg-id="ESPNIC" tvc-guide-stationid="64997",ESPN Caribbean
 http://example.local/CUW-ESPNIC.ts
 #EXTINF:-1 tvg-chno="25595" tvg-name="ESPN Deportes" tvg-logo="https://zap2it.tmsimg.com/assets/s25595_ll_h15_aa.png?w=360&h=270" group-title="Curacao" tvg-id="ESPND" tvc-guide-stationid="25595",ESPN Deportes
 http://example.local/CUW-ESPND.ts
@@ -413,7 +413,7 @@ http://example.local/CUW-EURO.ts
 http://example.local/CUW-EURONWS.ts
 #EXTINF:-1 tvg-chno="16350" tvg-name="EWTN Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16350_ll_h9_ab.png?w=360&h=270" group-title="Curacao" tvg-id="EWTNL" tvc-guide-stationid="16350",EWTN Latin America
 http://example.local/CUW-EWTNL.ts
-#EXTINF:-1 tvg-chno="75777" tvg-name="Fiesta 106.5" tvg-logo="None" group-title="Curacao" tvg-id="FSTA" tvc-guide-stationid="75777",Fiesta 106.5
+#EXTINF:-1 tvg-chno="75777" tvg-name="Fiesta 106.5" group-title="Curacao" tvg-id="FSTA" tvc-guide-stationid="75777",Fiesta 106.5
 http://example.local/CUW-FSTA.ts
 #EXTINF:-1 tvg-chno="16215" tvg-name="Film & Arts" tvg-logo="https://zap2it.tmsimg.com/assets/s87687_ll_h15_aa.png?w=360&h=270" group-title="Curacao" tvg-id="FABL" tvc-guide-stationid="16215",Film & Arts
 http://example.local/CUW-FABL.ts
@@ -465,39 +465,39 @@ http://example.local/CUW-GM01MLB.ts
 http://example.local/CUW-GM02MLB.ts
 #EXTINF:-1 tvg-chno="55868" tvg-name="Game 03 MLB Only" tvg-logo="https://zap2it.tmsimg.com/assets/s95839_ll_h15_ab.png?w=360&h=270" group-title="Curacao" tvg-id="GM03MLB" tvc-guide-stationid="55868",Game 03 MLB Only
 http://example.local/CUW-GM03MLB.ts
-#EXTINF:-1 tvg-chno="55870" tvg-name="Game 04 MLB Only" tvg-logo="None" group-title="Curacao" tvg-id="GM04MLB" tvc-guide-stationid="55870",Game 04 MLB Only
+#EXTINF:-1 tvg-chno="55870" tvg-name="Game 04 MLB Only" group-title="Curacao" tvg-id="GM04MLB" tvc-guide-stationid="55870",Game 04 MLB Only
 http://example.local/CUW-GM04MLB.ts
-#EXTINF:-1 tvg-chno="58723" tvg-name="Game 05 MLB Only" tvg-logo="None" group-title="Curacao" tvg-id="GM05MLB" tvc-guide-stationid="58723",Game 05 MLB Only
+#EXTINF:-1 tvg-chno="58723" tvg-name="Game 05 MLB Only" group-title="Curacao" tvg-id="GM05MLB" tvc-guide-stationid="58723",Game 05 MLB Only
 http://example.local/CUW-GM05MLB.ts
-#EXTINF:-1 tvg-chno="58730" tvg-name="Game 06 MLB Only" tvg-logo="None" group-title="Curacao" tvg-id="GM06MLB" tvc-guide-stationid="58730",Game 06 MLB Only
+#EXTINF:-1 tvg-chno="58730" tvg-name="Game 06 MLB Only" group-title="Curacao" tvg-id="GM06MLB" tvc-guide-stationid="58730",Game 06 MLB Only
 http://example.local/CUW-GM06MLB.ts
-#EXTINF:-1 tvg-chno="58732" tvg-name="Game 07 MLB Only" tvg-logo="None" group-title="Curacao" tvg-id="GM07MLB" tvc-guide-stationid="58732",Game 07 MLB Only
+#EXTINF:-1 tvg-chno="58732" tvg-name="Game 07 MLB Only" group-title="Curacao" tvg-id="GM07MLB" tvc-guide-stationid="58732",Game 07 MLB Only
 http://example.local/CUW-GM07MLB.ts
-#EXTINF:-1 tvg-chno="58734" tvg-name="Game 08 MLB Only" tvg-logo="None" group-title="Curacao" tvg-id="GM08MLB" tvc-guide-stationid="58734",Game 08 MLB Only
+#EXTINF:-1 tvg-chno="58734" tvg-name="Game 08 MLB Only" group-title="Curacao" tvg-id="GM08MLB" tvc-guide-stationid="58734",Game 08 MLB Only
 http://example.local/CUW-GM08MLB.ts
-#EXTINF:-1 tvg-chno="58736" tvg-name="Game 09 MLB Only" tvg-logo="None" group-title="Curacao" tvg-id="GM09MLB" tvc-guide-stationid="58736",Game 09 MLB Only
+#EXTINF:-1 tvg-chno="58736" tvg-name="Game 09 MLB Only" group-title="Curacao" tvg-id="GM09MLB" tvc-guide-stationid="58736",Game 09 MLB Only
 http://example.local/CUW-GM09MLB.ts
 #EXTINF:-1 tvg-chno="26197" tvg-name="GAME 1" tvg-logo="https://zap2it.tmsimg.com/assets/s26197_ll_h15_ad.png?w=360&h=270" group-title="Curacao" tvg-id="GAME1" tvc-guide-stationid="26197",GAME 1
 http://example.local/CUW-GAME1.ts
 #EXTINF:-1 tvg-chno="31250" tvg-name="GAME 10" tvg-logo="https://zap2it.tmsimg.com/assets/s31250_ll_h15_ad.png?w=360&h=270" group-title="Curacao" tvg-id="GME10" tvc-guide-stationid="31250",GAME 10
 http://example.local/CUW-GME10.ts
-#EXTINF:-1 tvg-chno="58738" tvg-name="Game 10 MLB Only" tvg-logo="None" group-title="Curacao" tvg-id="GM10MLB" tvc-guide-stationid="58738",Game 10 MLB Only
+#EXTINF:-1 tvg-chno="58738" tvg-name="Game 10 MLB Only" group-title="Curacao" tvg-id="GM10MLB" tvc-guide-stationid="58738",Game 10 MLB Only
 http://example.local/CUW-GM10MLB.ts
 #EXTINF:-1 tvg-chno="53701" tvg-name="GAME 11" tvg-logo="https://zap2it.tmsimg.com/assets/s53701_ll_h15_ad.png?w=360&h=270" group-title="Curacao" tvg-id="GME11" tvc-guide-stationid="53701",GAME 11
 http://example.local/CUW-GME11.ts
-#EXTINF:-1 tvg-chno="58739" tvg-name="Game 11 MLB Only" tvg-logo="None" group-title="Curacao" tvg-id="GM11MLB" tvc-guide-stationid="58739",Game 11 MLB Only
+#EXTINF:-1 tvg-chno="58739" tvg-name="Game 11 MLB Only" group-title="Curacao" tvg-id="GM11MLB" tvc-guide-stationid="58739",Game 11 MLB Only
 http://example.local/CUW-GM11MLB.ts
 #EXTINF:-1 tvg-chno="53704" tvg-name="GAME 12" tvg-logo="https://zap2it.tmsimg.com/assets/s53704_ll_h15_ad.png?w=360&h=270" group-title="Curacao" tvg-id="GME12" tvc-guide-stationid="53704",GAME 12
 http://example.local/CUW-GME12.ts
-#EXTINF:-1 tvg-chno="58740" tvg-name="Game 12 MLB Only" tvg-logo="None" group-title="Curacao" tvg-id="GM12MLB" tvc-guide-stationid="58740",Game 12 MLB Only
+#EXTINF:-1 tvg-chno="58740" tvg-name="Game 12 MLB Only" group-title="Curacao" tvg-id="GM12MLB" tvc-guide-stationid="58740",Game 12 MLB Only
 http://example.local/CUW-GM12MLB.ts
 #EXTINF:-1 tvg-chno="53705" tvg-name="GAME 13" tvg-logo="https://zap2it.tmsimg.com/assets/s53705_ll_h15_ad.png?w=360&h=270" group-title="Curacao" tvg-id="GME13" tvc-guide-stationid="53705",GAME 13
 http://example.local/CUW-GME13.ts
-#EXTINF:-1 tvg-chno="58741" tvg-name="Game 13 MLB Only" tvg-logo="None" group-title="Curacao" tvg-id="GM13MLB" tvc-guide-stationid="58741",Game 13 MLB Only
+#EXTINF:-1 tvg-chno="58741" tvg-name="Game 13 MLB Only" group-title="Curacao" tvg-id="GM13MLB" tvc-guide-stationid="58741",Game 13 MLB Only
 http://example.local/CUW-GM13MLB.ts
 #EXTINF:-1 tvg-chno="53708" tvg-name="GAME 14" tvg-logo="https://zap2it.tmsimg.com/assets/s53708_ll_h15_ad.png?w=360&h=270" group-title="Curacao" tvg-id="GME14" tvc-guide-stationid="53708",GAME 14
 http://example.local/CUW-GME14.ts
-#EXTINF:-1 tvg-chno="58742" tvg-name="Game 14 MLB Only" tvg-logo="None" group-title="Curacao" tvg-id="GM14MLB" tvc-guide-stationid="58742",Game 14 MLB Only
+#EXTINF:-1 tvg-chno="58742" tvg-name="Game 14 MLB Only" group-title="Curacao" tvg-id="GM14MLB" tvc-guide-stationid="58742",Game 14 MLB Only
 http://example.local/CUW-GM14MLB.ts
 #EXTINF:-1 tvg-chno="26198" tvg-name="GAME 2" tvg-logo="https://zap2it.tmsimg.com/assets/s26198_ll_h15_ad.png?w=360&h=270" group-title="Curacao" tvg-id="GAME2" tvc-guide-stationid="26198",GAME 2
 http://example.local/CUW-GAME2.ts
@@ -517,13 +517,13 @@ http://example.local/CUW-GAME8.ts
 http://example.local/CUW-GAME9.ts
 #EXTINF:-1 tvg-chno="55596" tvg-name="Game HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55596_ll_h15_aa.png?w=360&h=270" group-title="Curacao" tvg-id="GMHD1" tvc-guide-stationid="55596",Game HD
 http://example.local/CUW-GMHD1.ts
-#EXTINF:-1 tvg-chno="69415" tvg-name="Game HD2 MLB Only" tvg-logo="None" group-title="Curacao" tvg-id="GMMLBH2" tvc-guide-stationid="69415",Game HD2 MLB Only
+#EXTINF:-1 tvg-chno="69415" tvg-name="Game HD2 MLB Only" group-title="Curacao" tvg-id="GMMLBH2" tvc-guide-stationid="69415",Game HD2 MLB Only
 http://example.local/CUW-GMMLBH2.ts
 #EXTINF:-1 tvg-chno="14909" tvg-name="Game Show Network" tvg-logo="https://zap2it.tmsimg.com/assets/s14909_ll_h15_ad.png?w=360&h=270" group-title="Curacao" tvg-id="GSN" tvc-guide-stationid="14909",Game Show Network
 http://example.local/CUW-GSN.ts
 #EXTINF:-1 tvg-chno="50263" tvg-name="Garage TV" tvg-logo="https://zap2it.tmsimg.com/assets/s50263_ll_h15_ab.png?w=360&h=270" group-title="Curacao" tvg-id="GARAGETV" tvc-guide-stationid="50263",Garage TV
 http://example.local/CUW-GARAGETV.ts
-#EXTINF:-1 tvg-chno="59728" tvg-name="Gayelle TV" tvg-logo="None" group-title="Curacao" tvg-id="GAYELLE" tvc-guide-stationid="59728",Gayelle TV
+#EXTINF:-1 tvg-chno="59728" tvg-name="Gayelle TV" group-title="Curacao" tvg-id="GAYELLE" tvc-guide-stationid="59728",Gayelle TV
 http://example.local/CUW-GAYELLE.ts
 #EXTINF:-1 tvg-chno="24459" tvg-name="Glitz" tvg-logo="https://zap2it.tmsimg.com/assets/s61514_ll_h15_aa.png?w=360&h=270" group-title="Curacao" tvg-id="GLITZ" tvc-guide-stationid="24459",Glitz
 http://example.local/CUW-GLITZ.ts
@@ -699,7 +699,7 @@ http://example.local/CUW-NIKL.ts
 http://example.local/CUW-NMZK.ts
 #EXTINF:-1 tvg-chno="11006" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s11006_ll_h15_ab.png?w=360&h=270" group-title="Curacao" tvg-id="NIK" tvc-guide-stationid="11006",Nickelodeon
 http://example.local/CUW-NIK.ts
-#EXTINF:-1 tvg-chno="88746" tvg-name="Nos Pais" tvg-logo="None" group-title="Curacao" tvg-id="NOSPAIS" tvc-guide-stationid="88746",Nos Pais
+#EXTINF:-1 tvg-chno="88746" tvg-name="Nos Pais" group-title="Curacao" tvg-id="NOSPAIS" tvc-guide-stationid="88746",Nos Pais
 http://example.local/CUW-NOSPAIS.ts
 #EXTINF:-1 tvg-chno="61014" tvg-name="NPO 1" tvg-logo="https://zap2it.tmsimg.com/assets/s61014_ll_h15_aa.png?w=360&h=270" group-title="Curacao" tvg-id="NPO1" tvc-guide-stationid="61014",NPO 1
 http://example.local/CUW-NPO1.ts
@@ -713,7 +713,7 @@ http://example.local/CUW-NTN24.ts
 http://example.local/CUW-NUESTRT.ts
 #EXTINF:-1 tvg-chno="107423" tvg-name="OnDIRECTV HD (South)" tvg-logo="https://zap2it.tmsimg.com/assets/s107423_ll_h15_aa.png?w=360&h=270" group-title="Curacao" tvg-id="ONDTHS" tvc-guide-stationid="107423",OnDIRECTV HD (South)
 http://example.local/CUW-ONDTHS.ts
-#EXTINF:-1 tvg-chno="68358" tvg-name="One Caribbean Weather" tvg-logo="None" group-title="Curacao" tvg-id="CARIBWE" tvc-guide-stationid="68358",One Caribbean Weather
+#EXTINF:-1 tvg-chno="68358" tvg-name="One Caribbean Weather" group-title="Curacao" tvg-id="CARIBWE" tvc-guide-stationid="68358",One Caribbean Weather
 http://example.local/CUW-CARIBWE.ts
 #EXTINF:-1 tvg-chno="49208" tvg-name="ONTV4U" tvg-logo="https://zap2it.tmsimg.com/assets/s49208_ll_h15_ac.png?w=360&h=270" group-title="Curacao" tvg-id="ONTV4" tvc-guide-stationid="49208",ONTV4U
 http://example.local/CUW-ONTV4.ts
@@ -741,7 +741,7 @@ http://example.local/CUW-PLAYL.ts
 http://example.local/CUW-POSTV.ts
 #EXTINF:-1 tvg-chno="45169" tvg-name="RACER Network" tvg-logo="https://zap2it.tmsimg.com/assets/s45169_ll_h15_ac.png?w=360&h=270" group-title="Curacao" tvg-id="RACER" tvc-guide-stationid="45169",RACER Network
 http://example.local/CUW-RACER.ts
-#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" tvg-logo="None" group-title="Curacao" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Curacao" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
 http://example.local/CUW-RCARA.ts
 #EXTINF:-1 tvg-chno="19040" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png?w=360&h=270" group-title="Curacao" tvg-id="RAIIS" tvc-guide-stationid="19040",Rai Italia
 http://example.local/CUW-RAIIS.ts
@@ -749,7 +749,7 @@ http://example.local/CUW-RAIIS.ts
 http://example.local/CUW-XREALLA.ts
 #EXTINF:-1 tvg-chno="21065" tvg-name="Rede Globo TV Internacional (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/s21065_ll_h15_cc.png?w=360&h=270" group-title="Curacao" tvg-id="RGTI" tvc-guide-stationid="21065",Rede Globo TV Internacional (REDEGL)
 http://example.local/CUW-RGTI.ts
-#EXTINF:-1 tvg-chno="75906" tvg-name="RFI" tvg-logo="None" group-title="Curacao" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
+#EXTINF:-1 tvg-chno="75906" tvg-name="RFI" group-title="Curacao" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
 http://example.local/CUW-RFIRAD.ts
 #EXTINF:-1 tvg-chno="58333" tvg-name="RT" tvg-logo="https://zap2it.tmsimg.com/assets/s58333_ll_h15_aa.png?w=360&h=270" group-title="Curacao" tvg-id="RTTV" tvc-guide-stationid="58333",RT
 http://example.local/CUW-RTTV.ts
@@ -881,17 +881,17 @@ http://example.local/CUW-SYNERGY.ts
 http://example.local/CUW-TCML.ts
 #EXTINF:-1 tvg-chno="44824" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s19246_ll_h15_ac.png?w=360&h=270" group-title="Curacao" tvg-id="TCMLI" tvc-guide-stationid="44824",TCM
 http://example.local/CUW-TCMLI.ts
-#EXTINF:-1 tvg-chno="49990" tvg-name="TDS DOLFIJN 97.3" tvg-logo="None" group-title="Curacao" tvg-id="TDSDOLF" tvc-guide-stationid="49990",TDS DOLFIJN 97.3
+#EXTINF:-1 tvg-chno="49990" tvg-name="TDS DOLFIJN 97.3" group-title="Curacao" tvg-id="TDSDOLF" tvc-guide-stationid="49990",TDS DOLFIJN 97.3
 http://example.local/CUW-TDSDOLF.ts
-#EXTINF:-1 tvg-chno="61619" tvg-name="TDS Dutch Channel Curacao" tvg-logo="None" group-title="Curacao" tvg-id="BVNTDS" tvc-guide-stationid="61619",TDS Dutch Channel Curacao
+#EXTINF:-1 tvg-chno="61619" tvg-name="TDS Dutch Channel Curacao" group-title="Curacao" tvg-id="BVNTDS" tvc-guide-stationid="61619",TDS Dutch Channel Curacao
 http://example.local/CUW-BVNTDS.ts
-#EXTINF:-1 tvg-chno="38680" tvg-name="TDS KANAL ELOUISA" tvg-logo="None" group-title="Curacao" tvg-id="TDSKNAL" tvc-guide-stationid="38680",TDS KANAL ELOUISA
+#EXTINF:-1 tvg-chno="38680" tvg-name="TDS KANAL ELOUISA" group-title="Curacao" tvg-id="TDSKNAL" tvc-guide-stationid="38680",TDS KANAL ELOUISA
 http://example.local/CUW-TDSKNAL.ts
-#EXTINF:-1 tvg-chno="68849" tvg-name="TDS Mega Hit FM" tvg-logo="None" group-title="Curacao" tvg-id="TDSMHFM" tvc-guide-stationid="68849",TDS Mega Hit FM
+#EXTINF:-1 tvg-chno="68849" tvg-name="TDS Mega Hit FM" group-title="Curacao" tvg-id="TDSMHFM" tvc-guide-stationid="68849",TDS Mega Hit FM
 http://example.local/CUW-TDSMHFM.ts
-#EXTINF:-1 tvg-chno="66658" tvg-name="TDS Telecuracao 3" tvg-logo="None" group-title="Curacao" tvg-id="TDSTC3" tvc-guide-stationid="66658",TDS Telecuracao 3
+#EXTINF:-1 tvg-chno="66658" tvg-name="TDS Telecuracao 3" group-title="Curacao" tvg-id="TDSTC3" tvc-guide-stationid="66658",TDS Telecuracao 3
 http://example.local/CUW-TDSTC3.ts
-#EXTINF:-1 tvg-chno="68851" tvg-name="TDS Z86" tvg-logo="None" group-title="Curacao" tvg-id="TDSZ86" tvc-guide-stationid="68851",TDS Z86
+#EXTINF:-1 tvg-chno="68851" tvg-name="TDS Z86" group-title="Curacao" tvg-id="TDSZ86" tvc-guide-stationid="68851",TDS Z86
 http://example.local/CUW-TDSZ86.ts
 #EXTINF:-1 tvg-chno="72294" tvg-name="TeenNick" tvg-logo="https://zap2it.tmsimg.com/assets/s77783_ll_h15_ab.png?w=360&h=270" group-title="Curacao" tvg-id="NIKLAHD" tvc-guide-stationid="72294",TeenNick
 http://example.local/CUW-NIKLAHD.ts
@@ -953,7 +953,7 @@ http://example.local/CUW-TRUTV.ts
 http://example.local/CUW-TVEI.ts
 #EXTINF:-1 tvg-chno="60780" tvg-name="TVES" tvg-logo="https://zap2it.tmsimg.com/assets/s60780_ll_h15_aa.png?w=360&h=270" group-title="Curacao" tvg-id="TVESVEN" tvc-guide-stationid="60780",TVES
 http://example.local/CUW-TVESVEN.ts
-#EXTINF:-1 tvg-chno="75774" tvg-name="Union Radio Noticias" tvg-logo="None" group-title="Curacao" tvg-id="CNUR" tvc-guide-stationid="75774",Union Radio Noticias
+#EXTINF:-1 tvg-chno="75774" tvg-name="Union Radio Noticias" group-title="Curacao" tvg-id="CNUR" tvc-guide-stationid="75774",Union Radio Noticias
 http://example.local/CUW-CNUR.ts
 #EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png?w=360&h=270" group-title="Curacao" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
 http://example.local/CUW-UNICI.ts
@@ -993,13 +993,13 @@ http://example.local/CUW-WBLI2.ts
 http://example.local/CUW-WFOR.ts
 #EXTINF:-1 tvg-chno="11474" tvg-name="WGN (Chicago) (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s51306_ll_h15_ac.png?w=360&h=270" group-title="Curacao" tvg-id="WGN" tvc-guide-stationid="11474",WGN (Chicago) (CW)
 http://example.local/CUW-WGN.ts
-#EXTINF:-1 tvg-chno="67494" tvg-name="WI Sports" tvg-logo="None" group-title="Curacao" tvg-id="WISPORT" tvc-guide-stationid="67494",WI Sports
+#EXTINF:-1 tvg-chno="67494" tvg-name="WI Sports" group-title="Curacao" tvg-id="WISPORT" tvc-guide-stationid="67494",WI Sports
 http://example.local/CUW-WISPORT.ts
 #EXTINF:-1 tvg-chno="11771" tvg-name="WPBT (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_h3_ba.png?w=360&h=270" group-title="Curacao" tvg-id="WPBT" tvc-guide-stationid="11771",WPBT (PBS)
 http://example.local/CUW-WPBT.ts
 #EXTINF:-1 tvg-chno="11779" tvg-name="WPIX (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s11779_ll_h15_aa.png?w=360&h=270" group-title="Curacao" tvg-id="WPIX" tvc-guide-stationid="11779",WPIX (CW)
 http://example.local/CUW-WPIX.ts
-#EXTINF:-1 tvg-chno="11780" tvg-name="WPLG" tvg-logo="None" group-title="Curacao" tvg-id="WPLG" tvc-guide-stationid="11780",WPLG
+#EXTINF:-1 tvg-chno="11780" tvg-name="WPLG" group-title="Curacao" tvg-id="WPLG" tvc-guide-stationid="11780",WPLG
 http://example.local/CUW-WPLG.ts
 #EXTINF:-1 tvg-chno="11857" tvg-name="WSVN (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png?w=360&h=270" group-title="Curacao" tvg-id="WSVN" tvc-guide-stationid="11857",WSVN (FOX)
 http://example.local/CUW-WSVN.ts

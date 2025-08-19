@@ -85,7 +85,7 @@ http://example.local/PER-INFANTE.ts
 http://example.local/PER-JAZZCLS.ts
 #EXTINF:-1 tvg-chno="39711" tvg-name="AUDIO DLA JAZZ LATINO" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Peru" tvg-id="JAZZLAT" tvc-guide-stationid="39711",AUDIO DLA JAZZ LATINO
 http://example.local/PER-JAZZLAT.ts
-#EXTINF:-1 tvg-chno="38478" tvg-name="AUDIO DLA LATIN LOUNGE" tvg-logo="None" group-title="Peru" tvg-id="LATLNG" tvc-guide-stationid="38478",AUDIO DLA LATIN LOUNGE
+#EXTINF:-1 tvg-chno="38478" tvg-name="AUDIO DLA LATIN LOUNGE" group-title="Peru" tvg-id="LATLNG" tvc-guide-stationid="38478",AUDIO DLA LATIN LOUNGE
 http://example.local/PER-LATLNG.ts
 #EXTINF:-1 tvg-chno="38149" tvg-name="AUDIO DLA LATINA" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Peru" tvg-id="ALATINA" tvc-guide-stationid="38149",AUDIO DLA LATINA
 http://example.local/PER-ALATINA.ts
@@ -93,7 +93,7 @@ http://example.local/PER-ALATINA.ts
 http://example.local/PER-DLALOVE.ts
 #EXTINF:-1 tvg-chno="38805" tvg-name="AUDIO DLA MARIACHI" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Peru" tvg-id="MARIACH" tvc-guide-stationid="38805",AUDIO DLA MARIACHI
 http://example.local/PER-MARIACH.ts
-#EXTINF:-1 tvg-chno="40278" tvg-name="AUDIO DLA MÚSICA CLÁSICA" tvg-logo="None" group-title="Peru" tvg-id="DLACLA" tvc-guide-stationid="40278",AUDIO DLA MÚSICA CLÁSICA
+#EXTINF:-1 tvg-chno="40278" tvg-name="AUDIO DLA MÚSICA CLÁSICA" group-title="Peru" tvg-id="DLACLA" tvc-guide-stationid="40278",AUDIO DLA MÚSICA CLÁSICA
 http://example.local/PER-DLACLA.ts
 #EXTINF:-1 tvg-chno="41761" tvg-name="AUDIO DLA MÚSICA DE LAS AMÉRI" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Peru" tvg-id="MUSICAM" tvc-guide-stationid="41761",AUDIO DLA MÚSICA DE LAS AMÉRI
 http://example.local/PER-MUSICAM.ts
@@ -113,7 +113,7 @@ http://example.local/PER-REGTON.ts
 http://example.local/PER-DLAMEX.ts
 #EXTINF:-1 tvg-chno="41305" tvg-name="AUDIO DLA RITMOS DEL CARIBE" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Peru" tvg-id="CARIBE" tvc-guide-stationid="41305",AUDIO DLA RITMOS DEL CARIBE
 http://example.local/PER-CARIBE.ts
-#EXTINF:-1 tvg-chno="41083" tvg-name="AUDIO DLA RITMOS DEL MUNDO" tvg-logo="None" group-title="Peru" tvg-id="RITMOMN" tvc-guide-stationid="41083",AUDIO DLA RITMOS DEL MUNDO
+#EXTINF:-1 tvg-chno="41083" tvg-name="AUDIO DLA RITMOS DEL MUNDO" group-title="Peru" tvg-id="RITMOMN" tvc-guide-stationid="41083",AUDIO DLA RITMOS DEL MUNDO
 http://example.local/PER-RITMOMN.ts
 #EXTINF:-1 tvg-chno="39964" tvg-name="AUDIO DLA ROCK CLÁSICO" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Peru" tvg-id="ROCKCLS" tvc-guide-stationid="39964",AUDIO DLA ROCK CLÁSICO
 http://example.local/PER-ROCKCLS.ts
@@ -137,7 +137,7 @@ http://example.local/PER-EXITO80.ts
 http://example.local/PER-EXITO90.ts
 #EXTINF:-1 tvg-chno="41300" tvg-name="Audio DLA Éxitos En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Peru" tvg-id="EXITOES" tvc-guide-stationid="41300",Audio DLA Éxitos En Español
 http://example.local/PER-EXITOES.ts
-#EXTINF:-1 tvg-chno="41079" tvg-name="Audio DLA Éxitos En Inglés" tvg-logo="None" group-title="Peru" tvg-id="EXITOIN" tvc-guide-stationid="41079",Audio DLA Éxitos En Inglés
+#EXTINF:-1 tvg-chno="41079" tvg-name="Audio DLA Éxitos En Inglés" group-title="Peru" tvg-id="EXITOIN" tvc-guide-stationid="41079",Audio DLA Éxitos En Inglés
 http://example.local/PER-EXITOIN.ts
 #EXTINF:-1 tvg-chno="41080" tvg-name="Audio DLA Éxitos En Italiano" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Peru" tvg-id="EXITOIT" tvc-guide-stationid="41080",Audio DLA Éxitos En Italiano
 http://example.local/PER-EXITOIT.ts
@@ -225,7 +225,7 @@ http://example.local/PER-CCTV4S.ts
 http://example.local/PER-CCTV4.ts
 #EXTINF:-1 tvg-chno="44479" tvg-name="CGTN Español" tvg-logo="https://zap2it.tmsimg.com/assets/s44479_ll_h15_ab.png?w=360&h=270" group-title="Peru" tvg-id="CGTNE" tvc-guide-stationid="44479",CGTN Español
 http://example.local/PER-CGTNE.ts
-#EXTINF:-1 tvg-chno="78997" tvg-name="Cine Canal Plus HD" tvg-logo="None" group-title="Peru" tvg-id="CINEPLH" tvc-guide-stationid="78997",Cine Canal Plus HD
+#EXTINF:-1 tvg-chno="78997" tvg-name="Cine Canal Plus HD" group-title="Peru" tvg-id="CINEPLH" tvc-guide-stationid="78997",Cine Canal Plus HD
 http://example.local/PER-CINEPLH.ts
 #EXTINF:-1 tvg-chno="15296" tvg-name="Cine Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s15296_ll_h9_ab.png?w=360&h=270" group-title="Peru" tvg-id="CINL" tvc-guide-stationid="15296",Cine Latino
 http://example.local/PER-CINL.ts
@@ -285,7 +285,7 @@ http://example.local/PER-CNCRTHD.ts
 http://example.local/PER-CONGPE.ts
 #EXTINF:-1 tvg-chno="61404" tvg-name="Corazón" tvg-logo="https://zap2it.tmsimg.com/assets/s61404_ll_h15_ad.png?w=360&h=270" group-title="Peru" tvg-id="CORAZ" tvc-guide-stationid="61404",Corazón
 http://example.local/PER-CORAZ.ts
-#EXTINF:-1 tvg-chno="126478" tvg-name="CTC" tvg-logo="None" group-title="Peru" tvg-id="CTCPE" tvc-guide-stationid="126478",CTC
+#EXTINF:-1 tvg-chno="126478" tvg-name="CTC" group-title="Peru" tvg-id="CTCPE" tvc-guide-stationid="126478",CTC
 http://example.local/PER-CTCPE.ts
 #EXTINF:-1 tvg-chno="74016" tvg-name="De Pelicula Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s74016_ll_h15_ab.png?w=360&h=270" group-title="Peru" tvg-id="DEPELPL" tvc-guide-stationid="74016",De Pelicula Plus
 http://example.local/PER-DEPELPL.ts
@@ -295,7 +295,7 @@ http://example.local/PER-DEPEL.ts
 http://example.local/PER-DEP1300.ts
 #EXTINF:-1 tvg-chno="107426" tvg-name="DIRECTV Sports Ecuador" tvg-logo="https://zap2it.tmsimg.com/assets/s109752_ll_h15_ab.png?w=360&h=270" group-title="Peru" tvg-id="SPOEQ" tvc-guide-stationid="107426",DIRECTV Sports Ecuador
 http://example.local/PER-SPOEQ.ts
-#EXTINF:-1 tvg-chno="106261" tvg-name="DirecTV2 Sports" tvg-logo="None" group-title="Peru" tvg-id="DT2SPT" tvc-guide-stationid="106261",DirecTV2 Sports
+#EXTINF:-1 tvg-chno="106261" tvg-name="DirecTV2 Sports" group-title="Peru" tvg-id="DT2SPT" tvc-guide-stationid="106261",DirecTV2 Sports
 http://example.local/PER-DT2SPT.ts
 #EXTINF:-1 tvg-chno="96307" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_h3_aa.png?w=360&h=270" group-title="Peru" tvg-id="DISCCHD" tvc-guide-stationid="96307",Discovery Channel
 http://example.local/PER-DISCCHD.ts
@@ -343,7 +343,7 @@ http://example.local/PER-DISJMXH.ts
 http://example.local/PER-DISNXD.ts
 #EXTINF:-1 tvg-chno="55980" tvg-name="Distrito Comedia" tvg-logo="https://zap2it.tmsimg.com/assets/s55980_ll_h15_aa.png?w=360&h=270" group-title="Peru" tvg-id="DISTCOM" tvc-guide-stationid="55980",Distrito Comedia
 http://example.local/PER-DISTCOM.ts
-#EXTINF:-1 tvg-chno="26611" tvg-name="DMX 50's & 60's Hits" tvg-logo="None" group-title="Peru" tvg-id="56HITS" tvc-guide-stationid="26611",DMX 50's & 60's Hits
+#EXTINF:-1 tvg-chno="26611" tvg-name="DMX 50's & 60's Hits" group-title="Peru" tvg-id="56HITS" tvc-guide-stationid="26611",DMX 50's & 60's Hits
 http://example.local/PER-56HITS.ts
 #EXTINF:-1 tvg-chno="50414" tvg-name="DMX Adult Contemporary Holiday" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_h3_aa.png?w=360&h=270" group-title="Peru" tvg-id="ADCOHOL" tvc-guide-stationid="50414",DMX Adult Contemporary Holiday
 http://example.local/PER-ADCOHOL.ts
@@ -369,7 +369,7 @@ http://example.local/PER-JAZZ.ts
 http://example.local/PER-JZZVCL.ts
 #EXTINF:-1 tvg-chno="19845" tvg-name="DMX: Regional Mexican" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png?w=360&h=270" group-title="Peru" tvg-id="REGMEX" tvc-guide-stationid="19845",DMX: Regional Mexican
 http://example.local/PER-REGMEX.ts
-#EXTINF:-1 tvg-chno="66461" tvg-name="DMX: Riviera Discotheque" tvg-logo="None" group-title="Peru" tvg-id="RDISCO" tvc-guide-stationid="66461",DMX: Riviera Discotheque
+#EXTINF:-1 tvg-chno="66461" tvg-name="DMX: Riviera Discotheque" group-title="Peru" tvg-id="RDISCO" tvc-guide-stationid="66461",DMX: Riviera Discotheque
 http://example.local/PER-RDISCO.ts
 #EXTINF:-1 tvg-chno="19827" tvg-name="DMX: Soft Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png?w=360&h=270" group-title="Peru" tvg-id="SFTHITS" tvc-guide-stationid="19827",DMX: Soft Hits
 http://example.local/PER-SFTHITS.ts
@@ -461,7 +461,7 @@ http://example.local/PER-EWTNL.ts
 http://example.local/PER-EXITPE.ts
 #EXTINF:-1 tvg-chno="113719" tvg-name="EXITOSA HD" tvg-logo="https://zap2it.tmsimg.com/assets/s113719_ll_h15_aa.png?w=360&h=270" group-title="Peru" tvg-id="EXITOSA" tvc-guide-stationid="113719",EXITOSA HD
 http://example.local/PER-EXITOSA.ts
-#EXTINF:-1 tvg-chno="75777" tvg-name="Fiesta 106.5" tvg-logo="None" group-title="Peru" tvg-id="FSTA" tvc-guide-stationid="75777",Fiesta 106.5
+#EXTINF:-1 tvg-chno="75777" tvg-name="Fiesta 106.5" group-title="Peru" tvg-id="FSTA" tvc-guide-stationid="75777",Fiesta 106.5
 http://example.local/PER-FSTA.ts
 #EXTINF:-1 tvg-chno="16215" tvg-name="Film & Arts" tvg-logo="https://zap2it.tmsimg.com/assets/s87687_ll_h15_aa.png?w=360&h=270" group-title="Peru" tvg-id="FABL" tvc-guide-stationid="16215",Film & Arts
 http://example.local/PER-FABL.ts
@@ -471,7 +471,7 @@ http://example.local/PER-FOODLA.ts
 http://example.local/PER-FOODLAH.ts
 #EXTINF:-1 tvg-chno="12574" tvg-name="Food Network" tvg-logo="https://zap2it.tmsimg.com/assets/s12574_ll_h15_ab.png?w=360&h=270" group-title="Peru" tvg-id="FOOD" tvc-guide-stationid="12574",Food Network
 http://example.local/PER-FOOD.ts
-#EXTINF:-1 tvg-chno="112146" tvg-name="Food Network Latam HD" tvg-logo="None" group-title="Peru" tvg-id="FODAMCO" tvc-guide-stationid="112146",Food Network Latam HD
+#EXTINF:-1 tvg-chno="112146" tvg-name="Food Network Latam HD" group-title="Peru" tvg-id="FODAMCO" tvc-guide-stationid="112146",Food Network Latam HD
 http://example.local/PER-FODAMCO.ts
 #EXTINF:-1 tvg-chno="16374" tvg-name="Fox News Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16374_ll_h15_ab.png?w=360&h=270" group-title="Peru" tvg-id="FNC" tvc-guide-stationid="16374",Fox News Channel
 http://example.local/PER-FNC.ts
@@ -645,7 +645,7 @@ http://example.local/PER-JUSTVP.ts
 http://example.local/PER-KANALL.ts
 #EXTINF:-1 tvg-chno="114717" tvg-name="Kids Stars HD" tvg-logo="https://zap2it.tmsimg.com/assets/s114717_ll_h15_ab.png?w=360&h=270" group-title="Peru" tvg-id="KIDSTHDPE" tvc-guide-stationid="114717",Kids Stars HD
 http://example.local/PER-KIDSTHDPE.ts
-#EXTINF:-1 tvg-chno="83202" tvg-name="La FM Radio" tvg-logo="None" group-title="Peru" tvg-id="FMRADIO" tvc-guide-stationid="83202",La FM Radio
+#EXTINF:-1 tvg-chno="83202" tvg-name="La FM Radio" group-title="Peru" tvg-id="FMRADIO" tvc-guide-stationid="83202",La FM Radio
 http://example.local/PER-FMRADIO.ts
 #EXTINF:-1 tvg-chno="46631" tvg-name="La Tele" tvg-logo="https://zap2it.tmsimg.com/assets/s46631_ll_h15_aa.png?w=360&h=270" group-title="Peru" tvg-id="LATELE" tvc-guide-stationid="46631",La Tele
 http://example.local/PER-LATELE.ts
@@ -673,7 +673,7 @@ http://example.local/PER-MASCHIC.ts
 http://example.local/PER-MASCHHD.ts
 #EXTINF:-1 tvg-chno="113555" tvg-name="Max Up HD" tvg-logo="https://zap2it.tmsimg.com/assets/s113555_ll_h15_aa.png?w=360&h=270" group-title="Peru" tvg-id="MAXUAM" tvc-guide-stationid="113555",Max Up HD
 http://example.local/PER-MAXUAM.ts
-#EXTINF:-1 tvg-chno="76969" tvg-name="MISSOURI VS MURRAY STATE" tvg-logo="None" group-title="Peru" tvg-id="MIZZOU" tvc-guide-stationid="76969",MISSOURI VS MURRAY STATE
+#EXTINF:-1 tvg-chno="76969" tvg-name="MISSOURI VS MURRAY STATE" group-title="Peru" tvg-id="MIZZOU" tvc-guide-stationid="76969",MISSOURI VS MURRAY STATE
 http://example.local/PER-MIZZOU.ts
 #EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png?w=360&h=270" group-title="Peru" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
 http://example.local/PER-MTHD.ts
@@ -731,9 +731,9 @@ http://example.local/PER-NICKJMH.ts
 http://example.local/PER-NICKJLM.ts
 #EXTINF:-1 tvg-chno="61988" tvg-name="NTN24" tvg-logo="https://zap2it.tmsimg.com/assets/s61988_ll_h15_ac.png?w=360&h=270" group-title="Peru" tvg-id="NTN24" tvc-guide-stationid="61988",NTN24
 http://example.local/PER-NTN24.ts
-#EXTINF:-1 tvg-chno="126495" tvg-name="NUEVO TIEMPO" tvg-logo="None" group-title="Peru" tvg-id="NUEVOPE" tvc-guide-stationid="126495",NUEVO TIEMPO
+#EXTINF:-1 tvg-chno="126495" tvg-name="NUEVO TIEMPO" group-title="Peru" tvg-id="NUEVOPE" tvc-guide-stationid="126495",NUEVO TIEMPO
 http://example.local/PER-NUEVOPE.ts
-#EXTINF:-1 tvg-chno="111523" tvg-name="Nuevo Tiempo" tvg-logo="None" group-title="Peru" tvg-id="NUESTGO" tvc-guide-stationid="111523",Nuevo Tiempo
+#EXTINF:-1 tvg-chno="111523" tvg-name="Nuevo Tiempo" group-title="Peru" tvg-id="NUESTGO" tvc-guide-stationid="111523",Nuevo Tiempo
 http://example.local/PER-NUESTGO.ts
 #EXTINF:-1 tvg-chno="107400" tvg-name="OnDIRECTV HD (North)" tvg-logo="https://zap2it.tmsimg.com/assets/s107400_ll_h15_aa.png?w=360&h=270" group-title="Peru" tvg-id="ONDTHN" tvc-guide-stationid="107400",OnDIRECTV HD (North)
 http://example.local/PER-ONDTHN.ts
@@ -765,9 +765,9 @@ http://example.local/PER-PLUSPE.ts
 http://example.local/PER-PXSP.ts
 #EXTINF:-1 tvg-chno="126484" tvg-name="QUALITY TV" tvg-logo="https://zap2it.tmsimg.com/assets/s126484_ll_h15_aa.png?w=360&h=270" group-title="Peru" tvg-id="QTVPE" tvc-guide-stationid="126484",QUALITY TV
 http://example.local/PER-QTVPE.ts
-#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" tvg-logo="None" group-title="Peru" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
+#EXTINF:-1 tvg-chno="75776" tvg-name="Radio Caracol" group-title="Peru" tvg-id="RCARA" tvc-guide-stationid="75776",Radio Caracol
 http://example.local/PER-RCARA.ts
-#EXTINF:-1 tvg-chno="113862" tvg-name="RAI International" tvg-logo="None" group-title="Peru" tvg-id="RAIISP" tvc-guide-stationid="113862",RAI International
+#EXTINF:-1 tvg-chno="113862" tvg-name="RAI International" group-title="Peru" tvg-id="RAIISP" tvc-guide-stationid="113862",RAI International
 http://example.local/PER-RAIISP.ts
 #EXTINF:-1 tvg-chno="19040" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png?w=360&h=270" group-title="Peru" tvg-id="RAIIS" tvc-guide-stationid="19040",Rai Italia
 http://example.local/PER-RAIIS.ts
@@ -775,7 +775,7 @@ http://example.local/PER-RAIIS.ts
 http://example.local/PER-RGTI2.ts
 #EXTINF:-1 tvg-chno="78381" tvg-name="RedeTV! HD (REDETV)" tvg-logo="https://zap2it.tmsimg.com/assets/s78381_ll_h15_ab.png?w=360&h=270" group-title="Peru" tvg-id="RTVHD" tvc-guide-stationid="78381",RedeTV! HD (REDETV)
 http://example.local/PER-RTVHD.ts
-#EXTINF:-1 tvg-chno="75906" tvg-name="RFI" tvg-logo="None" group-title="Peru" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
+#EXTINF:-1 tvg-chno="75906" tvg-name="RFI" group-title="Peru" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
 http://example.local/PER-RFIRAD.ts
 #EXTINF:-1 tvg-chno="39708" tvg-name="Rock Alternativo" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Peru" tvg-id="ROCKALT" tvc-guide-stationid="39708",Rock Alternativo
 http://example.local/PER-ROCKALT.ts
@@ -861,7 +861,7 @@ http://example.local/PER-SMESP71.ts
 http://example.local/PER-SMESP45.ts
 #EXTINF:-1 tvg-chno="77003" tvg-name="Stingray New Age" tvg-logo="https://zap2it.tmsimg.com/assets/s95856_ll_h15_aa.png?w=360&h=270" group-title="Peru" tvg-id="SMESP44" tvc-guide-stationid="77003",Stingray New Age
 http://example.local/PER-SMESP44.ts
-#EXTINF:-1 tvg-chno="45224" tvg-name="Stingray Nothin' but '90s" tvg-logo="None" group-title="Peru" tvg-id="SM042" tvc-guide-stationid="45224",Stingray Nothin' but '90s
+#EXTINF:-1 tvg-chno="45224" tvg-name="Stingray Nothin' but '90s" group-title="Peru" tvg-id="SM042" tvc-guide-stationid="45224",Stingray Nothin' but '90s
 http://example.local/PER-SM042.ts
 #EXTINF:-1 tvg-chno="45249" tvg-name="Stingray Opera Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s45249_ll_h15_aa.png?w=360&h=270" group-title="Peru" tvg-id="SM031" tvc-guide-stationid="45249",Stingray Opera Plus
 http://example.local/PER-SM031.ts

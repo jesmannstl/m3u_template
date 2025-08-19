@@ -225,7 +225,7 @@ http://example.local/IRL-CINHDVM.ts
 http://example.local/IRL-CRINVN.ts
 #EXTINF:-1 tvg-chno="106376" tvg-name="Cúla4" tvg-logo="https://zap2it.tmsimg.com/assets/s106376_ll_h15_aa.png?w=360&h=270" group-title="Ireland" tvg-id="CULA4" tvc-guide-stationid="106376",Cúla4
 http://example.local/IRL-CULA4.ts
-#EXTINF:-1 tvg-chno="141265" tvg-name="Cúla4 HD" tvg-logo="None" group-title="Ireland" tvg-id="CULA4HD" tvc-guide-stationid="141265",Cúla4 HD
+#EXTINF:-1 tvg-chno="141265" tvg-name="Cúla4 HD" group-title="Ireland" tvg-id="CULA4HD" tvc-guide-stationid="141265",Cúla4 HD
 http://example.local/IRL-CULA4HD.ts
 #EXTINF:-1 tvg-chno="102973" tvg-name="Daystar" tvg-logo="https://zap2it.tmsimg.com/assets/s102973_ll_h15_aa.png?w=360&h=270" group-title="Ireland" tvg-id="DAYSTR" tvc-guide-stationid="102973",Daystar
 http://example.local/IRL-DAYSTR.ts
@@ -425,7 +425,7 @@ http://example.local/IRL-LFCEUHD.ts
 http://example.local/IRL-LIBRT.ts
 #EXTINF:-1 tvg-chno="46408" tvg-name="Loveworld TV" tvg-logo="https://zap2it.tmsimg.com/assets/s46408_ll_h15_aa.png?w=360&h=270" group-title="Ireland" tvg-id="LOVEWOR" tvc-guide-stationid="46408",Loveworld TV
 http://example.local/IRL-LOVEWOR.ts
-#EXTINF:-1 tvg-chno="116318" tvg-name="Madani Channel" tvg-logo="None" group-title="Ireland" tvg-id="MADANI" tvc-guide-stationid="116318",Madani Channel
+#EXTINF:-1 tvg-chno="116318" tvg-name="Madani Channel" group-title="Ireland" tvg-id="MADANI" tvc-guide-stationid="116318",Madani Channel
 http://example.local/IRL-MADANI.ts
 #EXTINF:-1 tvg-chno="25607" tvg-name="Magic" tvg-logo="https://zap2it.tmsimg.com/assets/s25607_ll_h9_ad.png?w=360&h=270" group-title="Ireland" tvg-id="MAGIC" tvc-guide-stationid="25607",Magic
 http://example.local/IRL-MAGIC.ts
@@ -525,17 +525,17 @@ http://example.local/IRL-OIRETV.ts
 http://example.local/IRL-OIRETVSKY.ts
 #EXTINF:-1 tvg-chno="24659" tvg-name="Panjab Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s24659_ll_h9_ac.png?w=360&h=270" group-title="Ireland" tvg-id="PANJAB" tvc-guide-stationid="24659",Panjab Radio
 http://example.local/IRL-PANJAB.ts
-#EXTINF:-1 tvg-chno="133885" tvg-name="PBC" tvg-logo="None" group-title="Ireland" tvg-id="PBC" tvc-guide-stationid="133885",PBC
+#EXTINF:-1 tvg-chno="133885" tvg-name="PBC" group-title="Ireland" tvg-id="PBC" tvc-guide-stationid="133885",PBC
 http://example.local/IRL-PBC.ts
 #EXTINF:-1 tvg-chno="73510" tvg-name="PBS America" tvg-logo="https://zap2it.tmsimg.com/assets/s73510_ll_h15_ab.png?w=360&h=270" group-title="Ireland" tvg-id="PBSUKVM" tvc-guide-stationid="73510",PBS America
 http://example.local/IRL-PBSUKVM.ts
 #EXTINF:-1 tvg-chno="21795" tvg-name="PCNE Chinese News & Entertainment" tvg-logo="https://zap2it.tmsimg.com/assets/s21795_ll_h15_ab.png?w=360&h=270" group-title="Ireland" tvg-id="PCNE" tvc-guide-stationid="21795",PCNE Chinese News & Entertainment
 http://example.local/IRL-PCNE.ts
-#EXTINF:-1 tvg-chno="118516" tvg-name="Pitaara TV" tvg-logo="None" group-title="Ireland" tvg-id="PITAAUK" tvc-guide-stationid="118516",Pitaara TV
+#EXTINF:-1 tvg-chno="118516" tvg-name="Pitaara TV" group-title="Ireland" tvg-id="PITAAUK" tvc-guide-stationid="118516",Pitaara TV
 http://example.local/IRL-PITAAUK.ts
 #EXTINF:-1 tvg-chno="24444" tvg-name="Planet Rock" tvg-logo="https://zap2it.tmsimg.com/assets/s24444_ll_h9_ac.png?w=360&h=270" group-title="Ireland" tvg-id="PLROCK" tvc-guide-stationid="24444",Planet Rock
 http://example.local/IRL-PLROCK.ts
-#EXTINF:-1 tvg-chno="120347" tvg-name="Politics Punjab" tvg-logo="None" group-title="Ireland" tvg-id="POLPUNJ" tvc-guide-stationid="120347",Politics Punjab
+#EXTINF:-1 tvg-chno="120347" tvg-name="Politics Punjab" group-title="Ireland" tvg-id="POLPUNJ" tvc-guide-stationid="120347",Politics Punjab
 http://example.local/IRL-POLPUNJ.ts
 #EXTINF:-1 tvg-chno="33638" tvg-name="Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s33638_ll_h15_aa.png?w=360&h=270" group-title="Ireland" tvg-id="POP" tvc-guide-stationid="33638",Pop
 http://example.local/IRL-POP.ts
@@ -573,7 +573,7 @@ http://example.local/IRL-QVCBEAU.ts
 http://example.local/IRL-QVCBEVM.ts
 #EXTINF:-1 tvg-chno="116569" tvg-name="QVC Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s116569_ll_h15_aa.png?w=360&h=270" group-title="Ireland" tvg-id="QVCEXUK" tvc-guide-stationid="116569",QVC Extra
 http://example.local/IRL-QVCEXUK.ts
-#EXTINF:-1 tvg-chno="87231" tvg-name="QVC HD" tvg-logo="None" group-title="Ireland" tvg-id="QVCUKHD" tvc-guide-stationid="87231",QVC HD
+#EXTINF:-1 tvg-chno="87231" tvg-name="QVC HD" group-title="Ireland" tvg-id="QVCUKHD" tvc-guide-stationid="87231",QVC HD
 http://example.local/IRL-QVCUKHD.ts
 #EXTINF:-1 tvg-chno="98903" tvg-name="QVC Style" tvg-logo="https://zap2it.tmsimg.com/assets/s98903_ll_h15_aa.png?w=360&h=270" group-title="Ireland" tvg-id="QVCSTVM" tvc-guide-stationid="98903",QVC Style
 http://example.local/IRL-QVCSTVM.ts
@@ -595,7 +595,7 @@ http://example.local/IRL-REALLY.ts
 http://example.local/IRL-REVEL.ts
 #EXTINF:-1 tvg-chno="49887" tvg-name="RT" tvg-logo="https://zap2it.tmsimg.com/assets/s49887_ll_h15_ab.png?w=360&h=270" group-title="Ireland" tvg-id="RUSTOD" tvc-guide-stationid="49887",RT
 http://example.local/IRL-RUSTOD.ts
-#EXTINF:-1 tvg-chno="37634" tvg-name="RTE" tvg-logo="None" group-title="Ireland" tvg-id="RTE" tvc-guide-stationid="37634",RTE
+#EXTINF:-1 tvg-chno="37634" tvg-name="RTE" group-title="Ireland" tvg-id="RTE" tvc-guide-stationid="37634",RTE
 http://example.local/IRL-RTE.ts
 #EXTINF:-1 tvg-chno="106362" tvg-name="RTE 2XM" tvg-logo="https://zap2it.tmsimg.com/assets/s106362_ll_h15_aa.png?w=360&h=270" group-title="Ireland" tvg-id="RTE2XM" tvc-guide-stationid="106362",RTE 2XM
 http://example.local/IRL-RTE2XM.ts
@@ -831,7 +831,7 @@ http://example.local/IRL-SBND.ts
 http://example.local/IRL-SONYENT.ts
 #EXTINF:-1 tvg-chno="47144" tvg-name="Sony MAX" tvg-logo="https://zap2it.tmsimg.com/assets/s47144_ll_h15_ah.png?w=360&h=270" group-title="Ireland" tvg-id="SETMAX" tvc-guide-stationid="47144",Sony MAX
 http://example.local/IRL-SETMAX.ts
-#EXTINF:-1 tvg-chno="120712" tvg-name="Sony MAX 2" tvg-logo="None" group-title="Ireland" tvg-id="SONYMX2" tvc-guide-stationid="120712",Sony MAX 2
+#EXTINF:-1 tvg-chno="120712" tvg-name="Sony MAX 2" group-title="Ireland" tvg-id="SONYMX2" tvc-guide-stationid="120712",Sony MAX 2
 http://example.local/IRL-SONYMX2.ts
 #EXTINF:-1 tvg-chno="110872" tvg-name="Sony Max 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s110872_ll_h15_aa.png?w=360&h=270" group-title="Ireland" tvg-id="SETMAX2" tvc-guide-stationid="110872",Sony Max 2 HD
 http://example.local/IRL-SETMAX2.ts
@@ -847,7 +847,7 @@ http://example.local/IRL-SPIN103.ts
 http://example.local/IRL-STARPLUS.ts
 #EXTINF:-1 tvg-chno="159132" tvg-name="Star Utsav" tvg-logo="https://zap2it.tmsimg.com/assets/s159132_ll_h15_aa.png?w=360&h=270" group-title="Ireland" tvg-id="STARUTSCMS" tvc-guide-stationid="159132",Star Utsav
 http://example.local/IRL-STARUTSCMS.ts
-#EXTINF:-1 tvg-chno="26876" tvg-name="Sukh Sagar Radio" tvg-logo="None" group-title="Ireland" tvg-id="SUKH" tvc-guide-stationid="26876",Sukh Sagar Radio
+#EXTINF:-1 tvg-chno="26876" tvg-name="Sukh Sagar Radio" group-title="Ireland" tvg-id="SUKH" tvc-guide-stationid="26876",Sukh Sagar Radio
 http://example.local/IRL-SUKH.ts
 #EXTINF:-1 tvg-chno="106356" tvg-name="Sunshine" tvg-logo="https://zap2it.tmsimg.com/assets/s106356_ll_h15_ac.png?w=360&h=270" group-title="Ireland" tvg-id="SUNSHRD" tvc-guide-stationid="106356",Sunshine
 http://example.local/IRL-SUNSHRD.ts
@@ -1001,9 +1001,9 @@ http://example.local/IRL-VM1IREP.ts
 http://example.local/IRL-VM1IREH.ts
 #EXTINF:-1 tvg-chno="111915" tvg-name="Virgin Media Sport" tvg-logo="https://zap2it.tmsimg.com/assets/s111915_ll_h15_aa.png?w=360&h=270" group-title="Ireland" tvg-id="VMSPO" tvc-guide-stationid="111915",Virgin Media Sport
 http://example.local/IRL-VMSPO.ts
-#EXTINF:-1 tvg-chno="111920" tvg-name="Virgin Media Sport Extra 1 HD" tvg-logo="None" group-title="Ireland" tvg-id="VMSX1HD" tvc-guide-stationid="111920",Virgin Media Sport Extra 1 HD
+#EXTINF:-1 tvg-chno="111920" tvg-name="Virgin Media Sport Extra 1 HD" group-title="Ireland" tvg-id="VMSX1HD" tvc-guide-stationid="111920",Virgin Media Sport Extra 1 HD
 http://example.local/IRL-VMSX1HD.ts
-#EXTINF:-1 tvg-chno="111924" tvg-name="Virgin Media Sport Extra 2 HD" tvg-logo="None" group-title="Ireland" tvg-id="VMSX2HD" tvc-guide-stationid="111924",Virgin Media Sport Extra 2 HD
+#EXTINF:-1 tvg-chno="111924" tvg-name="Virgin Media Sport Extra 2 HD" group-title="Ireland" tvg-id="VMSX2HD" tvc-guide-stationid="111924",Virgin Media Sport Extra 2 HD
 http://example.local/IRL-VMSX2HD.ts
 #EXTINF:-1 tvg-chno="102339" tvg-name="Virgin Media Three" tvg-logo="https://zap2it.tmsimg.com/assets/s102339_ll_h15_ab.png?w=360&h=270" group-title="Ireland" tvg-id="VM3IRE" tvc-guide-stationid="102339",Virgin Media Three
 http://example.local/IRL-VM3IRE.ts
@@ -1015,7 +1015,7 @@ http://example.local/IRL-VM2IRE.ts
 http://example.local/IRL-VM2IREH.ts
 #EXTINF:-1 tvg-chno="116572" tvg-name="Virgin Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s116572_ll_h9_aa.png?w=360&h=270" group-title="Ireland" tvg-id="VIRGRAD" tvc-guide-stationid="116572",Virgin Radio
 http://example.local/IRL-VIRGRAD.ts
-#EXTINF:-1 tvg-chno="36288" tvg-name="VIVA" tvg-logo="None" group-title="Ireland" tvg-id="36288" tvc-guide-stationid="36288",VIVA
+#EXTINF:-1 tvg-chno="36288" tvg-name="VIVA" group-title="Ireland" tvg-id="36288" tvc-guide-stationid="36288",VIVA
 http://example.local/IRL-36288.ts
 #EXTINF:-1 tvg-chno="144087" tvg-name="WION" tvg-logo="https://zap2it.tmsimg.com/assets/s144087_ll_h15_aa.png?w=360&h=270" group-title="Ireland" tvg-id="WIONIND" tvc-guide-stationid="144087",WION
 http://example.local/IRL-WIONIND.ts

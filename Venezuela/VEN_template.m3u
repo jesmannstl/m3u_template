@@ -25,15 +25,15 @@ http://example.local/VEN-APL.ts
 http://example.local/VEN-ANT3SPH.ts
 #EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png?w=360&h=270" group-title="Venezuela" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
 http://example.local/VEN-ANT3I.ts
-#EXTINF:-1 tvg-chno="46696" tvg-name="ANTV" tvg-logo="None" group-title="Venezuela" tvg-id="ANTV" tvc-guide-stationid="46696",ANTV
+#EXTINF:-1 tvg-chno="46696" tvg-name="ANTV" group-title="Venezuela" tvg-id="ANTV" tvc-guide-stationid="46696",ANTV
 http://example.local/VEN-ANTV.ts
 #EXTINF:-1 tvg-chno="18741" tvg-name="ART Cable" tvg-logo="https://zap2it.tmsimg.com/assets/s18741_ll_h15_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="ARTL" tvc-guide-stationid="18741",ART Cable
 http://example.local/VEN-ARTL.ts
-#EXTINF:-1 tvg-chno="75763" tvg-name="Asamblea Nacional" tvg-logo="None" group-title="Venezuela" tvg-id="ASNTV" tvc-guide-stationid="75763",Asamblea Nacional
+#EXTINF:-1 tvg-chno="75763" tvg-name="Asamblea Nacional" group-title="Venezuela" tvg-id="ASNTV" tvc-guide-stationid="75763",Asamblea Nacional
 http://example.local/VEN-ASNTV.ts
 #EXTINF:-1 tvg-chno="92001" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png?w=360&h=270" group-title="Venezuela" tvg-id="ATRESE" tvc-guide-stationid="92001",Atreseries
 http://example.local/VEN-ATRESE.ts
-#EXTINF:-1 tvg-chno="42386" tvg-name="AUDIO AEI LA EL MOCAMBO" tvg-logo="None" group-title="Venezuela" tvg-id="MOCBO" tvc-guide-stationid="42386",AUDIO AEI LA EL MOCAMBO
+#EXTINF:-1 tvg-chno="42386" tvg-name="AUDIO AEI LA EL MOCAMBO" group-title="Venezuela" tvg-id="MOCBO" tvc-guide-stationid="42386",AUDIO AEI LA EL MOCAMBO
 http://example.local/VEN-MOCBO.ts
 #EXTINF:-1 tvg-chno="37862" tvg-name="AUDIO DLA BLUES" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="BLUESDL" tvc-guide-stationid="37862",AUDIO DLA BLUES
 http://example.local/VEN-BLUESDL.ts
@@ -63,7 +63,7 @@ http://example.local/VEN-JAZZLAT.ts
 http://example.local/VEN-DLALOVE.ts
 #EXTINF:-1 tvg-chno="38805" tvg-name="AUDIO DLA MARIACHI" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="MARIACH" tvc-guide-stationid="38805",AUDIO DLA MARIACHI
 http://example.local/VEN-MARIACH.ts
-#EXTINF:-1 tvg-chno="40278" tvg-name="AUDIO DLA MÚSICA CLÁSICA" tvg-logo="None" group-title="Venezuela" tvg-id="DLACLA" tvc-guide-stationid="40278",AUDIO DLA MÚSICA CLÁSICA
+#EXTINF:-1 tvg-chno="40278" tvg-name="AUDIO DLA MÚSICA CLÁSICA" group-title="Venezuela" tvg-id="DLACLA" tvc-guide-stationid="40278",AUDIO DLA MÚSICA CLÁSICA
 http://example.local/VEN-DLACLA.ts
 #EXTINF:-1 tvg-chno="41761" tvg-name="AUDIO DLA MÚSICA DE LAS AMÉRI" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="MUSICAM" tvc-guide-stationid="41761",AUDIO DLA MÚSICA DE LAS AMÉRI
 http://example.local/VEN-MUSICAM.ts
@@ -77,7 +77,7 @@ http://example.local/VEN-POWERHT.ts
 http://example.local/VEN-REGTON.ts
 #EXTINF:-1 tvg-chno="41305" tvg-name="AUDIO DLA RITMOS DEL CARIBE" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="CARIBE" tvc-guide-stationid="41305",AUDIO DLA RITMOS DEL CARIBE
 http://example.local/VEN-CARIBE.ts
-#EXTINF:-1 tvg-chno="46507" tvg-name="AUDIO DLA ROCK & POP BRASIL" tvg-logo="None" group-title="Venezuela" tvg-id="BRPOPRK" tvc-guide-stationid="46507",AUDIO DLA ROCK & POP BRASIL
+#EXTINF:-1 tvg-chno="46507" tvg-name="AUDIO DLA ROCK & POP BRASIL" group-title="Venezuela" tvg-id="BRPOPRK" tvc-guide-stationid="46507",AUDIO DLA ROCK & POP BRASIL
 http://example.local/VEN-BRPOPRK.ts
 #EXTINF:-1 tvg-chno="39964" tvg-name="AUDIO DLA ROCK CLÁSICO" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="ROCKCLS" tvc-guide-stationid="39964",AUDIO DLA ROCK CLÁSICO
 http://example.local/VEN-ROCKCLS.ts
@@ -103,7 +103,7 @@ http://example.local/VEN-EXITO80.ts
 http://example.local/VEN-EXITO90.ts
 #EXTINF:-1 tvg-chno="41300" tvg-name="Audio DLA Éxitos En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="EXITOES" tvc-guide-stationid="41300",Audio DLA Éxitos En Español
 http://example.local/VEN-EXITOES.ts
-#EXTINF:-1 tvg-chno="41079" tvg-name="Audio DLA Éxitos En Inglés" tvg-logo="None" group-title="Venezuela" tvg-id="EXITOIN" tvc-guide-stationid="41079",Audio DLA Éxitos En Inglés
+#EXTINF:-1 tvg-chno="41079" tvg-name="Audio DLA Éxitos En Inglés" group-title="Venezuela" tvg-id="EXITOIN" tvc-guide-stationid="41079",Audio DLA Éxitos En Inglés
 http://example.local/VEN-EXITOIN.ts
 #EXTINF:-1 tvg-chno="41080" tvg-name="Audio DLA Éxitos En Italiano" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="EXITOIT" tvc-guide-stationid="41080",Audio DLA Éxitos En Italiano
 http://example.local/VEN-EXITOIT.ts
@@ -135,7 +135,7 @@ http://example.local/VEN-TVB.ts
 http://example.local/VEN-BOOM.ts
 #EXTINF:-1 tvg-chno="16790" tvg-name="Brazzers TV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16790_ll_h15_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="BRAZZLA" tvc-guide-stationid="16790",Brazzers TV Latin America
 http://example.local/VEN-BRAZZLA.ts
-#EXTINF:-1 tvg-chno="81803" tvg-name="Buena TV" tvg-logo="None" group-title="Venezuela" tvg-id="BUENATV" tvc-guide-stationid="81803",Buena TV
+#EXTINF:-1 tvg-chno="81803" tvg-name="Buena TV" group-title="Venezuela" tvg-id="BUENATV" tvc-guide-stationid="81803",Buena TV
 http://example.local/VEN-BUENATV.ts
 #EXTINF:-1 tvg-chno="20742" tvg-name="Canal 24 Horas HD" tvg-logo="https://zap2it.tmsimg.com/assets/s20742_ll_h9_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="CAN24" tvc-guide-stationid="20742",Canal 24 Horas HD
 http://example.local/VEN-CAN24.ts
@@ -171,7 +171,7 @@ http://example.local/VEN-CARTOM.ts
 http://example.local/VEN-CCTV4.ts
 #EXTINF:-1 tvg-chno="44479" tvg-name="CGTN Español" tvg-logo="https://zap2it.tmsimg.com/assets/s44479_ll_h15_ab.png?w=360&h=270" group-title="Venezuela" tvg-id="CGTNE" tvc-guide-stationid="44479",CGTN Español
 http://example.local/VEN-CGTNE.ts
-#EXTINF:-1 tvg-chno="78997" tvg-name="Cine Canal Plus HD" tvg-logo="None" group-title="Venezuela" tvg-id="CINEPLH" tvc-guide-stationid="78997",Cine Canal Plus HD
+#EXTINF:-1 tvg-chno="78997" tvg-name="Cine Canal Plus HD" group-title="Venezuela" tvg-id="CINEPLH" tvc-guide-stationid="78997",Cine Canal Plus HD
 http://example.local/VEN-CINEPLH.ts
 #EXTINF:-1 tvg-chno="15296" tvg-name="Cine Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s15296_ll_h9_ab.png?w=360&h=270" group-title="Venezuela" tvg-id="CINL" tvc-guide-stationid="15296",Cine Latino
 http://example.local/VEN-CINL.ts
@@ -215,7 +215,7 @@ http://example.local/VEN-CUBVIS.ts
 http://example.local/VEN-DEPEL.ts
 #EXTINF:-1 tvg-chno="16617" tvg-name="Destination America" tvg-logo="https://zap2it.tmsimg.com/assets/s16617_ll_h15_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="DEST" tvc-guide-stationid="16617",Destination America
 http://example.local/VEN-DEST.ts
-#EXTINF:-1 tvg-chno="106261" tvg-name="DirecTV2 Sports" tvg-logo="None" group-title="Venezuela" tvg-id="DT2SPT" tvc-guide-stationid="106261",DirecTV2 Sports
+#EXTINF:-1 tvg-chno="106261" tvg-name="DirecTV2 Sports" group-title="Venezuela" tvg-id="DT2SPT" tvc-guide-stationid="106261",DirecTV2 Sports
 http://example.local/VEN-DT2SPT.ts
 #EXTINF:-1 tvg-chno="25788" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png?w=360&h=270" group-title="Venezuela" tvg-id="DISCCH" tvc-guide-stationid="25788",Discovery Channel
 http://example.local/VEN-DISCCH.ts
@@ -253,7 +253,7 @@ http://example.local/VEN-DISNJMX.ts
 http://example.local/VEN-DISJMXH.ts
 #EXTINF:-1 tvg-chno="16563" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_ll_h15_ab.png?w=360&h=270" group-title="Venezuela" tvg-id="DISNXD" tvc-guide-stationid="16563",Disney XD
 http://example.local/VEN-DISNXD.ts
-#EXTINF:-1 tvg-chno="26611" tvg-name="DMX 50's & 60's Hits" tvg-logo="None" group-title="Venezuela" tvg-id="56HITS" tvc-guide-stationid="26611",DMX 50's & 60's Hits
+#EXTINF:-1 tvg-chno="26611" tvg-name="DMX 50's & 60's Hits" group-title="Venezuela" tvg-id="56HITS" tvc-guide-stationid="26611",DMX 50's & 60's Hits
 http://example.local/VEN-56HITS.ts
 #EXTINF:-1 tvg-chno="50414" tvg-name="DMX Adult Contemporary Holiday" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_h3_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="ADCOHOL" tvc-guide-stationid="50414",DMX Adult Contemporary Holiday
 http://example.local/VEN-ADCOHOL.ts
@@ -365,7 +365,7 @@ http://example.local/VEN-FABL.ts
 http://example.local/VEN-FABMEX.ts
 #EXTINF:-1 tvg-chno="91919" tvg-name="Food Network" tvg-logo="https://zap2it.tmsimg.com/assets/s91919_ll_h15_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="FOODLA" tvc-guide-stationid="91919",Food Network
 http://example.local/VEN-FOODLA.ts
-#EXTINF:-1 tvg-chno="112146" tvg-name="Food Network Latam HD" tvg-logo="None" group-title="Venezuela" tvg-id="FODAMCO" tvc-guide-stationid="112146",Food Network Latam HD
+#EXTINF:-1 tvg-chno="112146" tvg-name="Food Network Latam HD" group-title="Venezuela" tvg-id="FODAMCO" tvc-guide-stationid="112146",Food Network Latam HD
 http://example.local/VEN-FODAMCO.ts
 #EXTINF:-1 tvg-chno="60179" tvg-name="Fox News Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60179_ll_h15_ab.png?w=360&h=270" group-title="Venezuela" tvg-id="FNCHD" tvc-guide-stationid="60179",Fox News Channel HD
 http://example.local/VEN-FNCHD.ts
@@ -375,7 +375,7 @@ http://example.local/VEN-FS2AR.ts
 http://example.local/VEN-FOXSHD2.ts
 #EXTINF:-1 tvg-chno="66365" tvg-name="Fox Sports 2" tvg-logo="https://zap2it.tmsimg.com/assets/s66365_ll_h15_ab.png?w=360&h=270" group-title="Venezuela" tvg-id="FOXS2" tvc-guide-stationid="66365",Fox Sports 2
 http://example.local/VEN-FOXS2.ts
-#EXTINF:-1 tvg-chno="105692" tvg-name="Fox Sports 2 (Argentina)" tvg-logo="None" group-title="Venezuela" tvg-id="FS2ARHD" tvc-guide-stationid="105692",Fox Sports 2 (Argentina)
+#EXTINF:-1 tvg-chno="105692" tvg-name="Fox Sports 2 (Argentina)" group-title="Venezuela" tvg-id="FS2ARHD" tvc-guide-stationid="105692",Fox Sports 2 (Argentina)
 http://example.local/VEN-FS2ARHD.ts
 #EXTINF:-1 tvg-chno="59307" tvg-name="Fox Sports Latin America HD (inactive)" tvg-logo="https://zap2it.tmsimg.com/assets/s59307_ll_h15_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="FSLAHD" tvc-guide-stationid="59307",Fox Sports Latin America HD (inactive)
 http://example.local/VEN-FSLAHD.ts
@@ -393,7 +393,7 @@ http://example.local/VEN-FXMOHD.ts
 http://example.local/VEN-FXMO.ts
 #EXTINF:-1 tvg-chno="17672" tvg-name="Galicia TV America" tvg-logo="https://zap2it.tmsimg.com/assets/s17672_ll_h15_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="GALTV" tvc-guide-stationid="17672",Galicia TV America
 http://example.local/VEN-GALTV.ts
-#EXTINF:-1 tvg-chno="45751" tvg-name="Gay Network" tvg-logo="None" group-title="Venezuela" tvg-id="GAYNET" tvc-guide-stationid="45751",Gay Network
+#EXTINF:-1 tvg-chno="45751" tvg-name="Gay Network" group-title="Venezuela" tvg-id="GAYNET" tvc-guide-stationid="45751",Gay Network
 http://example.local/VEN-GAYNET.ts
 #EXTINF:-1 tvg-chno="24459" tvg-name="Glitz" tvg-logo="https://zap2it.tmsimg.com/assets/s61514_ll_h15_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="GLITZ" tvc-guide-stationid="24459",Glitz
 http://example.local/VEN-GLITZ.ts
@@ -487,7 +487,7 @@ http://example.local/VEN-HCLVEHD.ts
 http://example.local/VEN-H2LAME.ts
 #EXTINF:-1 tvg-chno="15969" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="HTVLA" tvc-guide-stationid="15969",HTV
 http://example.local/VEN-HTVLA.ts
-#EXTINF:-1 tvg-chno="52760" tvg-name="HTV Musica On Demand" tvg-logo="None" group-title="Venezuela" tvg-id="HTVMUDM" tvc-guide-stationid="52760",HTV Musica On Demand
+#EXTINF:-1 tvg-chno="52760" tvg-name="HTV Musica On Demand" group-title="Venezuela" tvg-id="HTVMUDM" tvc-guide-stationid="52760",HTV Musica On Demand
 http://example.local/VEN-HTVMUDM.ts
 #EXTINF:-1 tvg-chno="25793" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png?w=360&h=270" group-title="Venezuela" tvg-id="IDM" tvc-guide-stationid="25793",ID
 http://example.local/VEN-IDM.ts
@@ -571,7 +571,7 @@ http://example.local/VEN-PENTVLM.ts
 http://example.local/VEN-PLAYLHD.ts
 #EXTINF:-1 tvg-chno="16788" tvg-name="Playboy TV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16788_ll_h15_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="PLAYL" tvc-guide-stationid="16788",Playboy TV Latin America
 http://example.local/VEN-PLAYL.ts
-#EXTINF:-1 tvg-chno="37021" tvg-name="PPE BARKER" tvg-logo="None" group-title="Venezuela" tvg-id="PPEBARK" tvc-guide-stationid="37021",PPE BARKER
+#EXTINF:-1 tvg-chno="37021" tvg-name="PPE BARKER" group-title="Venezuela" tvg-id="PPEBARK" tvc-guide-stationid="37021",PPE BARKER
 http://example.local/VEN-PPEBARK.ts
 #EXTINF:-1 tvg-chno="115842" tvg-name="PX Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72625_ll_h15_ab.png?w=360&h=270" group-title="Venezuela" tvg-id="PXSPEH" tvc-guide-stationid="115842",PX Sports
 http://example.local/VEN-PXSPEH.ts
@@ -605,7 +605,7 @@ http://example.local/VEN-SPACES.ts
 http://example.local/VEN-SPACMHD.ts
 #EXTINF:-1 tvg-chno="36630" tvg-name="SPAN CNN" tvg-logo="https://zap2it.tmsimg.com/assets/s10142_ll_h15_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="SCNN" tvc-guide-stationid="36630",SPAN CNN
 http://example.local/VEN-SCNN.ts
-#EXTINF:-1 tvg-chno="47526" tvg-name="Sports Extra" tvg-logo="None" group-title="Venezuela" tvg-id="SPTEXTR" tvc-guide-stationid="47526",Sports Extra
+#EXTINF:-1 tvg-chno="47526" tvg-name="Sports Extra" group-title="Venezuela" tvg-id="SPTEXTR" tvc-guide-stationid="47526",Sports Extra
 http://example.local/VEN-SPTEXTR.ts
 #EXTINF:-1 tvg-chno="58828" tvg-name="Star Action" tvg-logo="https://zap2it.tmsimg.com/assets/s58835_ll_h15_ac.png?w=360&h=270" group-title="Venezuela" tvg-id="STARACE" tvc-guide-stationid="58828",Star Action
 http://example.local/VEN-STARACE.ts
@@ -683,7 +683,7 @@ http://example.local/VEN-TCML.ts
 http://example.local/VEN-TNCK.ts
 #EXTINF:-1 tvg-chno="72294" tvg-name="TeenNick" tvg-logo="https://zap2it.tmsimg.com/assets/s77783_ll_h15_ab.png?w=360&h=270" group-title="Venezuela" tvg-id="NIKLAHD" tvc-guide-stationid="72294",TeenNick
 http://example.local/VEN-NIKLAHD.ts
-#EXTINF:-1 tvg-chno="79263" tvg-name="Telecentro" tvg-logo="None" group-title="Venezuela" tvg-id="TECNTRO" tvc-guide-stationid="79263",Telecentro
+#EXTINF:-1 tvg-chno="79263" tvg-name="Telecentro" group-title="Venezuela" tvg-id="TECNTRO" tvc-guide-stationid="79263",Telecentro
 http://example.local/VEN-TECNTRO.ts
 #EXTINF:-1 tvg-chno="16189" tvg-name="Telefe Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s100066_ll_h15_ad.png?w=360&h=270" group-title="Venezuela" tvg-id="TEFEI" tvc-guide-stationid="16189",Telefe Internacional
 http://example.local/VEN-TEFEI.ts
@@ -741,9 +741,9 @@ http://example.local/VEN-TRTTURK.ts
 http://example.local/VEN-TRUTV.ts
 #EXTINF:-1 tvg-chno="16046" tvg-name="TV Chile" tvg-logo="https://zap2it.tmsimg.com/assets/s16046_ll_h15_ab.png?w=360&h=270" group-title="Venezuela" tvg-id="TVNI" tvc-guide-stationid="16046",TV Chile
 http://example.local/VEN-TVNI.ts
-#EXTINF:-1 tvg-chno="75762" tvg-name="TV Familia" tvg-logo="None" group-title="Venezuela" tvg-id="FLIA" tvc-guide-stationid="75762",TV Familia
+#EXTINF:-1 tvg-chno="75762" tvg-name="TV Familia" group-title="Venezuela" tvg-id="FLIA" tvc-guide-stationid="75762",TV Familia
 http://example.local/VEN-FLIA.ts
-#EXTINF:-1 tvg-chno="86551" tvg-name="TV FANB" tvg-logo="None" group-title="Venezuela" tvg-id="FANB" tvc-guide-stationid="86551",TV FANB
+#EXTINF:-1 tvg-chno="86551" tvg-name="TV FANB" group-title="Venezuela" tvg-id="FANB" tvc-guide-stationid="86551",TV FANB
 http://example.local/VEN-FANB.ts
 #EXTINF:-1 tvg-chno="16525" tvg-name="Tv Pública" tvg-logo="https://zap2it.tmsimg.com/assets/s16525_ll_h9_ac.png?w=360&h=270" group-title="Venezuela" tvg-id="TVPU" tvc-guide-stationid="16525",Tv Pública
 http://example.local/VEN-TVPU.ts
@@ -751,7 +751,7 @@ http://example.local/VEN-TVPU.ts
 http://example.local/VEN-TV5L.ts
 #EXTINF:-1 tvg-chno="16217" tvg-name="TVE" tvg-logo="https://zap2it.tmsimg.com/assets/s16217_ll_h15_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="TVEI" tvc-guide-stationid="16217",TVE
 http://example.local/VEN-TVEI.ts
-#EXTINF:-1 tvg-chno="77845" tvg-name="TVE International América Latine" tvg-logo="None" group-title="Venezuela" tvg-id="TVELAT" tvc-guide-stationid="77845",TVE International América Latine
+#EXTINF:-1 tvg-chno="77845" tvg-name="TVE International América Latine" group-title="Venezuela" tvg-id="TVELAT" tvc-guide-stationid="77845",TVE International América Latine
 http://example.local/VEN-TVELAT.ts
 #EXTINF:-1 tvg-chno="60780" tvg-name="TVES" tvg-logo="https://zap2it.tmsimg.com/assets/s60780_ll_h15_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="TVESVEN" tvc-guide-stationid="60780",TVES
 http://example.local/VEN-TVESVEN.ts
@@ -791,7 +791,7 @@ http://example.local/VEN-VEPTVV.ts
 http://example.local/VEN-VEPTV.ts
 #EXTINF:-1 tvg-chno="41725" tvg-name="VENEVISION" tvg-logo="https://zap2it.tmsimg.com/assets/s41725_ll_h15_ad.png?w=360&h=270" group-title="Venezuela" tvg-id="VENE" tvc-guide-stationid="41725",VENEVISION
 http://example.local/VEN-VENE.ts
-#EXTINF:-1 tvg-chno="60762" tvg-name="Venezolana de Television" tvg-logo="None" group-title="Venezuela" tvg-id="VENEZTV" tvc-guide-stationid="60762",Venezolana de Television
+#EXTINF:-1 tvg-chno="60762" tvg-name="Venezolana de Television" group-title="Venezuela" tvg-id="VENEZTV" tvc-guide-stationid="60762",Venezolana de Television
 http://example.local/VEN-VENEZTV.ts
 #EXTINF:-1 tvg-chno="16498" tvg-name="Venus" tvg-logo="https://zap2it.tmsimg.com/assets/s16498_ll_h15_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="VNUS" tvc-guide-stationid="16498",Venus
 http://example.local/VEN-VNUS.ts
@@ -821,7 +821,7 @@ http://example.local/VEN-ZOOMOSH.ts
 http://example.local/VEN-HOLALA.ts
 #EXTINF:-1 tvg-chno="92054" tvg-name="¡HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="HOLALAH" tvc-guide-stationid="92054",¡HOLA! TV
 http://example.local/VEN-HOLALAH.ts
-#EXTINF:-1 tvg-chno="81802" tvg-name="Ávila TV" tvg-logo="None" group-title="Venezuela" tvg-id="AVILA" tvc-guide-stationid="81802",Ávila TV
+#EXTINF:-1 tvg-chno="81802" tvg-name="Ávila TV" group-title="Venezuela" tvg-id="AVILA" tvc-guide-stationid="81802",Ávila TV
 http://example.local/VEN-AVILA.ts
 #EXTINF:-1 tvg-chno="76978" tvg-name="Éxitos de Salsa y Merengue" tvg-logo="https://zap2it.tmsimg.com/assets/s95856_ll_h15_aa.png?w=360&h=270" group-title="Venezuela" tvg-id="SMESP02" tvc-guide-stationid="76978",Éxitos de Salsa y Merengue
 http://example.local/VEN-SMESP02.ts

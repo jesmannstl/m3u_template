@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="73080" tvg-name="106.1 Kiss FM" tvg-logo="None" group-title="Cayman Islands" tvg-id="1061KSS" tvc-guide-stationid="73080",106.1 Kiss FM
+#EXTINF:-1 tvg-chno="73080" tvg-name="106.1 Kiss FM" group-title="Cayman Islands" tvg-id="1061KSS" tvc-guide-stationid="73080",106.1 Kiss FM
 http://example.local/CYM-1061KSS.ts
 #EXTINF:-1 tvg-chno="10002" tvg-name="3 Angels Broadcasting Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10002_ll_h15_aa.png?w=360&h=270" group-title="Cayman Islands" tvg-id="3ANGELS" tvc-guide-stationid="10002",3 Angels Broadcasting Network
 http://example.local/CYM-3ANGELS.ts
-#EXTINF:-1 tvg-chno="73072" tvg-name="96.5 Cayrock" tvg-logo="None" group-title="Cayman Islands" tvg-id="965CAYR" tvc-guide-stationid="73072",96.5 Cayrock
+#EXTINF:-1 tvg-chno="73072" tvg-name="96.5 Cayrock" group-title="Cayman Islands" tvg-id="965CAYR" tvc-guide-stationid="73072",96.5 Cayrock
 http://example.local/CYM-965CAYR.ts
 #EXTINF:-1 tvg-chno="44895" tvg-name="A Wealth of Entertainment" tvg-logo="https://zap2it.tmsimg.com/assets/s44895_ll_h15_aa.png?w=360&h=270" group-title="Cayman Islands" tvg-id="AWE" tvc-guide-stationid="44895",A Wealth of Entertainment
 http://example.local/CYM-AWE.ts
@@ -17,7 +17,7 @@ http://example.local/CYM-AETVHD.ts
 http://example.local/CYM-ACMAX.ts
 #EXTINF:-1 tvg-chno="69492" tvg-name="Adult Swim" tvg-logo="https://zap2it.tmsimg.com/assets/s68223_ll_h15_ad.png?w=360&h=270" group-title="Cayman Islands" tvg-id="ADSENHD" tvc-guide-stationid="69492",Adult Swim
 http://example.local/CYM-ADSENHD.ts
-#EXTINF:-1 tvg-chno="100152" tvg-name="Airport Channel" tvg-logo="None" group-title="Cayman Islands" tvg-id="AIRPORT" tvc-guide-stationid="100152",Airport Channel
+#EXTINF:-1 tvg-chno="100152" tvg-name="Airport Channel" group-title="Cayman Islands" tvg-id="AIRPORT" tvc-guide-stationid="100152",Airport Channel
 http://example.local/CYM-AIRPORT.ts
 #EXTINF:-1 tvg-chno="97267" tvg-name="Al Jazeera HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97267_ll_h15_ab.png?w=360&h=270" group-title="Cayman Islands" tvg-id="ALJAZEH" tvc-guide-stationid="97267",Al Jazeera HD
 http://example.local/CYM-ALJAZEH.ts
@@ -77,9 +77,9 @@ http://example.local/CYM-BET.ts
 http://example.local/CYM-BETCAR.ts
 #EXTINF:-1 tvg-chno="63236" tvg-name="BET HD" tvg-logo="https://zap2it.tmsimg.com/assets/s63236_h3_ba.png?w=360&h=270" group-title="Cayman Islands" tvg-id="BETHD" tvc-guide-stationid="63236",BET HD
 http://example.local/CYM-BETHD.ts
-#EXTINF:-1 tvg-chno="109614" tvg-name="BET HD Caribbean" tvg-logo="None" group-title="Cayman Islands" tvg-id="BETHCAR" tvc-guide-stationid="109614",BET HD Caribbean
+#EXTINF:-1 tvg-chno="109614" tvg-name="BET HD Caribbean" group-title="Cayman Islands" tvg-id="BETHCAR" tvc-guide-stationid="109614",BET HD Caribbean
 http://example.local/CYM-BETHCAR.ts
-#EXTINF:-1 tvg-chno="100172" tvg-name="Big Fish 95.5 FM" tvg-logo="None" group-title="Cayman Islands" tvg-id="BIGFISH" tvc-guide-stationid="100172",Big Fish 95.5 FM
+#EXTINF:-1 tvg-chno="100172" tvg-name="Big Fish 95.5 FM" group-title="Cayman Islands" tvg-id="BIGFISH" tvc-guide-stationid="100172",Big Fish 95.5 FM
 http://example.local/CYM-BIGFISH.ts
 #EXTINF:-1 tvg-chno="56783" tvg-name="Big Ten Network" tvg-logo="https://zap2it.tmsimg.com/assets/s56783_ll_h15_ab.png?w=360&h=270" group-title="Cayman Islands" tvg-id="BIGTEN" tvc-guide-stationid="56783",Big Ten Network
 http://example.local/CYM-BIGTEN.ts
@@ -113,11 +113,11 @@ http://example.local/CYM-CARTPEH.ts
 http://example.local/CYM-CARTPPE.ts
 #EXTINF:-1 tvg-chno="44832" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png?w=360&h=270" group-title="Cayman Islands" tvg-id="CARTOAI" tvc-guide-stationid="44832",Cartoonito
 http://example.local/CYM-CARTOAI.ts
-#EXTINF:-1 tvg-chno="112123" tvg-name="Cayman Islands Government TV" tvg-logo="None" group-title="Cayman Islands" tvg-id="CIGTV" tvc-guide-stationid="112123",Cayman Islands Government TV
+#EXTINF:-1 tvg-chno="112123" tvg-name="Cayman Islands Government TV" group-title="Cayman Islands" tvg-id="CIGTV" tvc-guide-stationid="112123",Cayman Islands Government TV
 http://example.local/CYM-CIGTV.ts
-#EXTINF:-1 tvg-chno="97738" tvg-name="Cayman Life TV" tvg-logo="None" group-title="Cayman Islands" tvg-id="CAYLIFE" tvc-guide-stationid="97738",Cayman Life TV
+#EXTINF:-1 tvg-chno="97738" tvg-name="Cayman Life TV" group-title="Cayman Islands" tvg-id="CAYLIFE" tvc-guide-stationid="97738",Cayman Life TV
 http://example.local/CYM-CAYLIFE.ts
-#EXTINF:-1 tvg-chno="73684" tvg-name="Cayman Real Estate Channel" tvg-logo="None" group-title="Cayman Islands" tvg-id="CAYREST" tvc-guide-stationid="73684",Cayman Real Estate Channel
+#EXTINF:-1 tvg-chno="73684" tvg-name="Cayman Real Estate Channel" group-title="Cayman Islands" tvg-id="CAYREST" tvc-guide-stationid="73684",Cayman Real Estate Channel
 http://example.local/CYM-CAYREST.ts
 #EXTINF:-1 tvg-chno="10094" tvg-name="CBC News Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10094_ll_h15_ad.png?w=360&h=270" group-title="Cayman Islands" tvg-id="CBNEWS" tvc-guide-stationid="10094",CBC News Network
 http://example.local/CYM-CBNEWS.ts
@@ -125,7 +125,7 @@ http://example.local/CYM-CBNEWS.ts
 http://example.local/CYM-CBLTDT.ts
 #EXTINF:-1 tvg-chno="10098" tvg-name="CBS Corporation (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png?w=360&h=270" group-title="Cayman Islands" tvg-id="CBS" tvc-guide-stationid="10098",CBS Corporation (CBS)
 http://example.local/CYM-CBS.ts
-#EXTINF:-1 tvg-chno="77401" tvg-name="Cine Canal Plus HD English" tvg-logo="None" group-title="Cayman Islands" tvg-id="CCPHDE" tvc-guide-stationid="77401",Cine Canal Plus HD English
+#EXTINF:-1 tvg-chno="77401" tvg-name="Cine Canal Plus HD English" group-title="Cayman Islands" tvg-id="CCPHDE" tvc-guide-stationid="77401",Cine Canal Plus HD English
 http://example.local/CYM-CCPHDE.ts
 #EXTINF:-1 tvg-chno="111651" tvg-name="Cine Premium HD" tvg-logo="https://zap2it.tmsimg.com/assets/s111651_ll_h15_ab.png?w=360&h=270" group-title="Cayman Islands" tvg-id="CINPREH" tvc-guide-stationid="111651",Cine Premium HD
 http://example.local/CYM-CINPREH.ts
@@ -135,13 +135,13 @@ http://example.local/CYM-CCANCEN.ts
 http://example.local/CYM-CCANCOL.ts
 #EXTINF:-1 tvg-chno="95561" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png?w=360&h=270" group-title="Cayman Islands" tvg-id="CINECHE" tvc-guide-stationid="95561",Cinemax
 http://example.local/CYM-CINECHE.ts
-#EXTINF:-1 tvg-chno="36466" tvg-name="CITN27" tvg-logo="None" group-title="Cayman Islands" tvg-id="CITN27" tvc-guide-stationid="36466",CITN27
+#EXTINF:-1 tvg-chno="36466" tvg-name="CITN27" group-title="Cayman Islands" tvg-id="CITN27" tvc-guide-stationid="36466",CITN27
 http://example.local/CYM-CITN27.ts
 #EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png?w=360&h=270" group-title="Cayman Islands" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
 http://example.local/CYM-CITY.ts
 #EXTINF:-1 tvg-chno="34200" tvg-name="Citytv Toronto HD (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s34200_ll_h15_ab.png?w=360&h=270" group-title="Cayman Islands" tvg-id="CITYDT" tvc-guide-stationid="34200",Citytv Toronto HD (CITYDT)
 http://example.local/CYM-CITYDT.ts
-#EXTINF:-1 tvg-chno="97502" tvg-name="Classic Arts Showcase HD" tvg-logo="None" group-title="Cayman Islands" tvg-id="CASHD" tvc-guide-stationid="97502",Classic Arts Showcase HD
+#EXTINF:-1 tvg-chno="97502" tvg-name="Classic Arts Showcase HD" group-title="Cayman Islands" tvg-id="CASHD" tvc-guide-stationid="97502",Classic Arts Showcase HD
 http://example.local/CYM-CASHD.ts
 #EXTINF:-1 tvg-chno="110289" tvg-name="Cleo TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s110289_ll_h15_aa.png?w=360&h=270" group-title="Cayman Islands" tvg-id="CLEOHD" tvc-guide-stationid="110289",Cleo TV HD
 http://example.local/CYM-CLEOHD.ts
@@ -171,7 +171,7 @@ http://example.local/CYM-COOKHD.ts
 http://example.local/CYM-SPEED.ts
 #EXTINF:-1 tvg-chno="87001" tvg-name="Daystar Television Network HD [CHARTER] (DYSTR)" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_ba.png?w=360&h=270" group-title="Cayman Islands" tvg-id="DYSTRHD" tvc-guide-stationid="87001",Daystar Television Network HD [CHARTER] (DYSTR)
 http://example.local/CYM-DYSTRHD.ts
-#EXTINF:-1 tvg-chno="61395" tvg-name="Discover Cayman" tvg-logo="None" group-title="Cayman Islands" tvg-id="DISCC" tvc-guide-stationid="61395",Discover Cayman
+#EXTINF:-1 tvg-chno="61395" tvg-name="Discover Cayman" group-title="Cayman Islands" tvg-id="DISCC" tvc-guide-stationid="61395",Discover Cayman
 http://example.local/CYM-DISCC.ts
 #EXTINF:-1 tvg-chno="17444" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s17444_ll_h15_ac.png?w=360&h=270" group-title="Cayman Islands" tvg-id="DISCOV" tvc-guide-stationid="17444",Discovery Channel
 http://example.local/CYM-DISCOV.ts
@@ -229,7 +229,7 @@ http://example.local/CYM-HDAYFAV.ts
 http://example.local/CYM-ALTERN.ts
 #EXTINF:-1 tvg-chno="19810" tvg-name="DMX: Hit Sweep" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png?w=360&h=270" group-title="Cayman Islands" tvg-id="HTSWEEP" tvc-guide-stationid="19810",DMX: Hit Sweep
 http://example.local/CYM-HTSWEEP.ts
-#EXTINF:-1 tvg-chno="19009" tvg-name="DMX: Hot Country" tvg-logo="None" group-title="Cayman Islands" tvg-id="HOTC" tvc-guide-stationid="19009",DMX: Hot Country
+#EXTINF:-1 tvg-chno="19009" tvg-name="DMX: Hot Country" group-title="Cayman Islands" tvg-id="HOTC" tvc-guide-stationid="19009",DMX: Hot Country
 http://example.local/CYM-HOTC.ts
 #EXTINF:-1 tvg-chno="19323" tvg-name="DMX: Jazz" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_h3_aa.png?w=360&h=270" group-title="Cayman Islands" tvg-id="JAZZ" tvc-guide-stationid="19323",DMX: Jazz
 http://example.local/CYM-JAZZ.ts
@@ -245,7 +245,7 @@ http://example.local/CYM-ETVINT.ts
 http://example.local/CYM-EHD.ts
 #EXTINF:-1 tvg-chno="30174" tvg-name="Enlace" tvg-logo="https://zap2it.tmsimg.com/assets/s30174_ll_h15_ab.png?w=360&h=270" group-title="Cayman Islands" tvg-id="ENLCE" tvc-guide-stationid="30174",Enlace
 http://example.local/CYM-ENLCE.ts
-#EXTINF:-1 tvg-chno="27759" tvg-name="EPG Government Access" tvg-logo="None" group-title="Cayman Islands" tvg-id="EPGGA" tvc-guide-stationid="27759",EPG Government Access
+#EXTINF:-1 tvg-chno="27759" tvg-name="EPG Government Access" group-title="Cayman Islands" tvg-id="EPGGA" tvc-guide-stationid="27759",EPG Government Access
 http://example.local/CYM-EPGGA.ts
 #EXTINF:-1 tvg-chno="10179" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s10179_ll_h15_aa.png?w=360&h=270" group-title="Cayman Islands" tvg-id="ESPN" tvc-guide-stationid="10179",ESPN
 http://example.local/CYM-ESPN.ts
@@ -253,9 +253,9 @@ http://example.local/CYM-ESPN.ts
 http://example.local/CYM-ESP2ME.ts
 #EXTINF:-1 tvg-chno="75585" tvg-name="ESPN 3" tvg-logo="https://zap2it.tmsimg.com/assets/s75585_ll_h15_ac.png?w=360&h=270" group-title="Cayman Islands" tvg-id="ESPN3BH" tvc-guide-stationid="75585",ESPN 3
 http://example.local/CYM-ESPN3BH.ts
-#EXTINF:-1 tvg-chno="78764" tvg-name="ESPN Caribbean" tvg-logo="None" group-title="Cayman Islands" tvg-id="ESPNICH" tvc-guide-stationid="78764",ESPN Caribbean
+#EXTINF:-1 tvg-chno="78764" tvg-name="ESPN Caribbean" group-title="Cayman Islands" tvg-id="ESPNICH" tvc-guide-stationid="78764",ESPN Caribbean
 http://example.local/CYM-ESPNICH.ts
-#EXTINF:-1 tvg-chno="64997" tvg-name="ESPN Caribbean" tvg-logo="None" group-title="Cayman Islands" tvg-id="ESPNIC" tvc-guide-stationid="64997",ESPN Caribbean
+#EXTINF:-1 tvg-chno="64997" tvg-name="ESPN Caribbean" group-title="Cayman Islands" tvg-id="ESPNIC" tvc-guide-stationid="64997",ESPN Caribbean
 http://example.local/CYM-ESPNIC.ts
 #EXTINF:-1 tvg-chno="12444" tvg-name="ESPN2" tvg-logo="https://zap2it.tmsimg.com/assets/s12444_ll_h15_ab.png?w=360&h=270" group-title="Cayman Islands" tvg-id="ESPN2" tvc-guide-stationid="12444",ESPN2
 http://example.local/CYM-ESPN2.ts
@@ -265,13 +265,13 @@ http://example.local/CYM-ESPN2CA.ts
 http://example.local/CYM-ESPN2HC.ts
 #EXTINF:-1 tvg-chno="45654" tvg-name="ESPNU" tvg-logo="https://zap2it.tmsimg.com/assets/s45654_ll_h15_aa.png?w=360&h=270" group-title="Cayman Islands" tvg-id="ESPNU" tvc-guide-stationid="45654",ESPNU
 http://example.local/CYM-ESPNU.ts
-#EXTINF:-1 tvg-chno="109451" tvg-name="ESPNU Caribbean Feed" tvg-logo="None" group-title="Cayman Islands" tvg-id="ESPNUC" tvc-guide-stationid="109451",ESPNU Caribbean Feed
+#EXTINF:-1 tvg-chno="109451" tvg-name="ESPNU Caribbean Feed" group-title="Cayman Islands" tvg-id="ESPNUC" tvc-guide-stationid="109451",ESPNU Caribbean Feed
 http://example.local/CYM-ESPNUC.ts
 #EXTINF:-1 tvg-chno="10183" tvg-name="Eternal Word Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10183_ll_h15_ab.png?w=360&h=270" group-title="Cayman Islands" tvg-id="EWTN" tvc-guide-stationid="10183",Eternal Word Television Network
 http://example.local/CYM-EWTN.ts
 #EXTINF:-1 tvg-chno="67164" tvg-name="Eternal Word Television Network HD (EWTN)" tvg-logo="https://zap2it.tmsimg.com/assets/s67164_ll_h15_ab.png?w=360&h=270" group-title="Cayman Islands" tvg-id="EWTNHD" tvc-guide-stationid="67164",Eternal Word Television Network HD (EWTN)
 http://example.local/CYM-EWTNHD.ts
-#EXTINF:-1 tvg-chno="24149" tvg-name="Family Friendly Entertainment" tvg-logo="None" group-title="Cayman Islands" tvg-id="FFE" tvc-guide-stationid="24149",Family Friendly Entertainment
+#EXTINF:-1 tvg-chno="24149" tvg-name="Family Friendly Entertainment" group-title="Cayman Islands" tvg-id="FFE" tvc-guide-stationid="24149",Family Friendly Entertainment
 http://example.local/CYM-FFE.ts
 #EXTINF:-1 tvg-chno="100170" tvg-name="Flow SportsTV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99697_h3_ba.png?w=360&h=270" group-title="Cayman Islands" tvg-id="FLOWHD" tvc-guide-stationid="100170",Flow SportsTV HD
 http://example.local/CYM-FLOWHD.ts
@@ -291,7 +291,7 @@ http://example.local/CYM-FXDBO.ts
 http://example.local/CYM-FNC.ts
 #EXTINF:-1 tvg-chno="60179" tvg-name="Fox News Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60179_ll_h15_ab.png?w=360&h=270" group-title="Cayman Islands" tvg-id="FNCHD" tvc-guide-stationid="60179",Fox News Channel HD
 http://example.local/CYM-FNCHD.ts
-#EXTINF:-1 tvg-chno="97021" tvg-name="Fox Premium Comedy" tvg-logo="None" group-title="Cayman Islands" tvg-id="FOXCOHD" tvc-guide-stationid="97021",Fox Premium Comedy
+#EXTINF:-1 tvg-chno="97021" tvg-name="Fox Premium Comedy" group-title="Cayman Islands" tvg-id="FOXCOHD" tvc-guide-stationid="97021",Fox Premium Comedy
 http://example.local/CYM-FOXCOHD.ts
 #EXTINF:-1 tvg-chno="66879" tvg-name="Fox Soccer Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s66879_ll_h15_aa.png?w=360&h=270" group-title="Cayman Islands" tvg-id="FSP" tvc-guide-stationid="66879",Fox Soccer Plus
 http://example.local/CYM-FSP.ts
@@ -423,7 +423,7 @@ http://example.local/CYM-HBOXLEH.ts
 http://example.local/CYM-HBO2.ts
 #EXTINF:-1 tvg-chno="29328" tvg-name="Hillsong Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s29328_ll_h15_ab.png?w=360&h=270" group-title="Cayman Islands" tvg-id="HILLSNG" tvc-guide-stationid="29328",Hillsong Channel
 http://example.local/CYM-HILLSNG.ts
-#EXTINF:-1 tvg-chno="102674" tvg-name="Hillsong Channel HD" tvg-logo="None" group-title="Cayman Islands" tvg-id="HISNGHD" tvc-guide-stationid="102674",Hillsong Channel HD
+#EXTINF:-1 tvg-chno="102674" tvg-name="Hillsong Channel HD" group-title="Cayman Islands" tvg-id="HISNGHD" tvc-guide-stationid="102674",Hillsong Channel HD
 http://example.local/CYM-HISNGHD.ts
 #EXTINF:-1 tvg-chno="14771" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s14771_ll_h15_af.png?w=360&h=270" group-title="Cayman Islands" tvg-id="HISTORY" tvc-guide-stationid="14771",History
 http://example.local/CYM-HISTORY.ts
@@ -437,7 +437,7 @@ http://example.local/CYM-HLNINT.ts
 http://example.local/CYM-HGTV.ts
 #EXTINF:-1 tvg-chno="49788" tvg-name="Home & Garden Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49788_ll_h15_ab.png?w=360&h=270" group-title="Cayman Islands" tvg-id="HGTVD" tvc-guide-stationid="49788",Home & Garden Television HD
 http://example.local/CYM-HGTVD.ts
-#EXTINF:-1 tvg-chno="73074" tvg-name="Hot 104.1FM" tvg-logo="None" group-title="Cayman Islands" tvg-id="HOT1041" tvc-guide-stationid="73074",Hot 104.1FM
+#EXTINF:-1 tvg-chno="73074" tvg-name="Hot 104.1FM" group-title="Cayman Islands" tvg-id="HOT1041" tvc-guide-stationid="73074",Hot 104.1FM
 http://example.local/CYM-HOT1041.ts
 #EXTINF:-1 tvg-chno="16446" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png?w=360&h=270" group-title="Cayman Islands" tvg-id="IDLE" tvc-guide-stationid="16446",ID
 http://example.local/CYM-IDLE.ts
@@ -451,7 +451,7 @@ http://example.local/CYM-IDLEHD.ts
 http://example.local/CYM-ISATENG.ts
 #EXTINF:-1 tvg-chno="60799" tvg-name="ISAT 21 Mexico" tvg-logo="https://zap2it.tmsimg.com/assets/s16497_ll_h15_aa.png?w=360&h=270" group-title="Cayman Islands" tvg-id="ISATMX" tvc-guide-stationid="60799",ISAT 21 Mexico
 http://example.local/CYM-ISATMX.ts
-#EXTINF:-1 tvg-chno="36296" tvg-name="Island 24" tvg-logo="None" group-title="Cayman Islands" tvg-id="ISLND24" tvc-guide-stationid="36296",Island 24
+#EXTINF:-1 tvg-chno="36296" tvg-name="Island 24" group-title="Cayman Islands" tvg-id="ISLND24" tvc-guide-stationid="36296",Island 24
 http://example.local/CYM-ISLND24.ts
 #EXTINF:-1 tvg-chno="109553" tvg-name="Law & Crime Stream" tvg-logo="https://zap2it.tmsimg.com/assets/s109553_h3_ba.png?w=360&h=270" group-title="Cayman Islands" tvg-id="LCSTR" tvc-guide-stationid="109553",Law & Crime Stream
 http://example.local/CYM-LCSTR.ts
@@ -467,15 +467,15 @@ http://example.local/CYM-LRW.ts
 http://example.local/CYM-LMN.ts
 #EXTINF:-1 tvg-chno="55887" tvg-name="LMN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&h=270" group-title="Cayman Islands" tvg-id="LMNHD" tvc-guide-stationid="55887",LMN HD
 http://example.local/CYM-LMNHD.ts
-#EXTINF:-1 tvg-chno="75848" tvg-name="Logic Brazzers" tvg-logo="None" group-title="Cayman Islands" tvg-id="BRZZS" tvc-guide-stationid="75848",Logic Brazzers
+#EXTINF:-1 tvg-chno="75848" tvg-name="Logic Brazzers" group-title="Cayman Islands" tvg-id="BRZZS" tvc-guide-stationid="75848",Logic Brazzers
 http://example.local/CYM-BRZZS.ts
-#EXTINF:-1 tvg-chno="97097" tvg-name="Logic CNN Blackout" tvg-logo="None" group-title="Cayman Islands" tvg-id="LCNNBO" tvc-guide-stationid="97097",Logic CNN Blackout
+#EXTINF:-1 tvg-chno="97097" tvg-name="Logic CNN Blackout" group-title="Cayman Islands" tvg-id="LCNNBO" tvc-guide-stationid="97097",Logic CNN Blackout
 http://example.local/CYM-LCNNBO.ts
-#EXTINF:-1 tvg-chno="97092" tvg-name="Logic Fox Soccer Plus" tvg-logo="None" group-title="Cayman Islands" tvg-id="LFSP" tvc-guide-stationid="97092",Logic Fox Soccer Plus
+#EXTINF:-1 tvg-chno="97092" tvg-name="Logic Fox Soccer Plus" group-title="Cayman Islands" tvg-id="LFSP" tvc-guide-stationid="97092",Logic Fox Soccer Plus
 http://example.local/CYM-LFSP.ts
-#EXTINF:-1 tvg-chno="75847" tvg-name="Logic Playboy" tvg-logo="None" group-title="Cayman Islands" tvg-id="PLYBY" tvc-guide-stationid="75847",Logic Playboy
+#EXTINF:-1 tvg-chno="75847" tvg-name="Logic Playboy" group-title="Cayman Islands" tvg-id="PLYBY" tvc-guide-stationid="75847",Logic Playboy
 http://example.local/CYM-PLYBY.ts
-#EXTINF:-1 tvg-chno="63669" tvg-name="Logic Premier Network" tvg-logo="None" group-title="Cayman Islands" tvg-id="LPNETHD" tvc-guide-stationid="63669",Logic Premier Network
+#EXTINF:-1 tvg-chno="63669" tvg-name="Logic Premier Network" group-title="Cayman Islands" tvg-id="LPNETHD" tvc-guide-stationid="63669",Logic Premier Network
 http://example.local/CYM-LPNETHD.ts
 #EXTINF:-1 tvg-chno="18544" tvg-name="Magnolia Network" tvg-logo="https://zap2it.tmsimg.com/assets/s18544_h3_ba.png?w=360&h=270" group-title="Cayman Islands" tvg-id="MAGN" tvc-guide-stationid="18544",Magnolia Network
 http://example.local/CYM-MAGN.ts
@@ -681,7 +681,7 @@ http://example.local/CYM-WPCH.ts
 http://example.local/CYM-POSTV.ts
 #EXTINF:-1 tvg-chno="89360" tvg-name="Positiv TV HD (POSTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s89360_ll_h15_ad.png?w=360&h=270" group-title="Cayman Islands" tvg-id="POSTHD" tvc-guide-stationid="89360",Positiv TV HD (POSTV)
 http://example.local/CYM-POSTHD.ts
-#EXTINF:-1 tvg-chno="100173" tvg-name="Praise 87.9 FM" tvg-logo="None" group-title="Cayman Islands" tvg-id="PRAISFM" tvc-guide-stationid="100173",Praise 87.9 FM
+#EXTINF:-1 tvg-chno="100173" tvg-name="Praise 87.9 FM" group-title="Cayman Islands" tvg-id="PRAISFM" tvc-guide-stationid="100173",Praise 87.9 FM
 http://example.local/CYM-PRAISFM.ts
 #EXTINF:-1 tvg-chno="11039" tvg-name="Public Broadcasting Service (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png?w=360&h=270" group-title="Cayman Islands" tvg-id="PBS" tvc-guide-stationid="11039",Public Broadcasting Service (PBS)
 http://example.local/CYM-PBS.ts
@@ -697,7 +697,7 @@ http://example.local/CYM-RVLTHD.ts
 http://example.local/CYM-REXNOHD.ts
 #EXTINF:-1 tvg-chno="111803" tvg-name="Rush" tvg-logo="https://zap2it.tmsimg.com/assets/s111803_ll_h15_aa.png?w=360&h=270" group-title="Cayman Islands" tvg-id="RUSH" tvc-guide-stationid="111803",Rush
 http://example.local/CYM-RUSH.ts
-#EXTINF:-1 tvg-chno="110471" tvg-name="Sea Turtle Coral Reef" tvg-logo="None" group-title="Cayman Islands" tvg-id="TURTLES" tvc-guide-stationid="110471",Sea Turtle Coral Reef
+#EXTINF:-1 tvg-chno="110471" tvg-name="Sea Turtle Coral Reef" group-title="Cayman Islands" tvg-id="TURTLES" tvc-guide-stationid="110471",Sea Turtle Coral Reef
 http://example.local/CYM-TURTLES.ts
 #EXTINF:-1 tvg-chno="89714" tvg-name="SEC Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s89714_ll_h15_aa.png?w=360&h=270" group-title="Cayman Islands" tvg-id="SECH" tvc-guide-stationid="89714",SEC Network HD
 http://example.local/CYM-SECH.ts
@@ -757,7 +757,7 @@ http://example.local/CYM-STZENBK.ts
 http://example.local/CYM-STZENSU.ts
 #EXTINF:-1 tvg-chno="16108" tvg-name="SundanceTV" tvg-logo="https://zap2it.tmsimg.com/assets/s16108_ll_h9_aa.png?w=360&h=270" group-title="Cayman Islands" tvg-id="SUNDANC" tvc-guide-stationid="16108",SundanceTV
 http://example.local/CYM-SUNDANC.ts
-#EXTINF:-1 tvg-chno="78826" tvg-name="Surewest Yule Log" tvg-logo="None" group-title="Cayman Islands" tvg-id="YULE" tvc-guide-stationid="78826",Surewest Yule Log
+#EXTINF:-1 tvg-chno="78826" tvg-name="Surewest Yule Log" group-title="Cayman Islands" tvg-id="YULE" tvc-guide-stationid="78826",Surewest Yule Log
 http://example.local/CYM-YULE.ts
 #EXTINF:-1 tvg-chno="11097" tvg-name="SYFY" tvg-logo="https://zap2it.tmsimg.com/assets/s11097_h3_aa.png?w=360&h=270" group-title="Cayman Islands" tvg-id="SYFY" tvc-guide-stationid="11097",SYFY
 http://example.local/CYM-SYFY.ts
@@ -775,7 +775,7 @@ http://example.local/CYM-TNCK.ts
 http://example.local/CYM-TNCKHD.ts
 #EXTINF:-1 tvg-chno="106096" tvg-name="Telemundo Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s102862_h3_ba.png?w=360&h=270" group-title="Cayman Islands" tvg-id="TELIVHD" tvc-guide-stationid="106096",Telemundo Internacional
 http://example.local/CYM-TELIVHD.ts
-#EXTINF:-1 tvg-chno="111807" tvg-name="Television Jamaica International" tvg-logo="None" group-title="Cayman Islands" tvg-id="TVJINTL" tvc-guide-stationid="111807",Television Jamaica International
+#EXTINF:-1 tvg-chno="111807" tvg-name="Television Jamaica International" group-title="Cayman Islands" tvg-id="TVJINTL" tvc-guide-stationid="111807",Television Jamaica International
 http://example.local/CYM-TVJINTL.ts
 #EXTINF:-1 tvg-chno="49948" tvg-name="TEMPO" tvg-logo="https://zap2it.tmsimg.com/assets/s49948_ll_h15_aa.png?w=360&h=270" group-title="Cayman Islands" tvg-id="TEMPO" tvc-guide-stationid="49948",TEMPO
 http://example.local/CYM-TEMPO.ts
@@ -797,7 +797,7 @@ http://example.local/CYM-TRAVHD.ts
 http://example.local/CYM-WEATH.ts
 #EXTINF:-1 tvg-chno="58812" tvg-name="The Weather Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58812_ll_h15_aa.png?w=360&h=270" group-title="Cayman Islands" tvg-id="WEATHHD" tvc-guide-stationid="58812",The Weather Channel HD
 http://example.local/CYM-WEATHHD.ts
-#EXTINF:-1 tvg-chno="98179" tvg-name="This is Cayman" tvg-logo="None" group-title="Cayman Islands" tvg-id="THISCAY" tvc-guide-stationid="98179",This is Cayman
+#EXTINF:-1 tvg-chno="98179" tvg-name="This is Cayman" group-title="Cayman Islands" tvg-id="THISCAY" tvc-guide-stationid="98179",This is Cayman
 http://example.local/CYM-THISCAY.ts
 #EXTINF:-1 tvg-chno="88943" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s73822_ll_h15_ae.png?w=360&h=270" group-title="Cayman Islands" tvg-id="TLCLAHD" tvc-guide-stationid="88943",TLC
 http://example.local/CYM-TLCLAHD.ts
@@ -885,17 +885,17 @@ http://example.local/CYM-WFNUSHD.ts
 http://example.local/CYM-WPBTDT.ts
 #EXTINF:-1 tvg-chno="11779" tvg-name="WPIX (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s11779_ll_h15_aa.png?w=360&h=270" group-title="Cayman Islands" tvg-id="WPIX" tvc-guide-stationid="11779",WPIX (CW)
 http://example.local/CYM-WPIX.ts
-#EXTINF:-1 tvg-chno="11780" tvg-name="WPLG" tvg-logo="None" group-title="Cayman Islands" tvg-id="WPLG" tvc-guide-stationid="11780",WPLG
+#EXTINF:-1 tvg-chno="11780" tvg-name="WPLG" group-title="Cayman Islands" tvg-id="WPLG" tvc-guide-stationid="11780",WPLG
 http://example.local/CYM-WPLG.ts
-#EXTINF:-1 tvg-chno="20493" tvg-name="WPLG-DT" tvg-logo="None" group-title="Cayman Islands" tvg-id="WPLGDT" tvc-guide-stationid="20493",WPLG-DT
+#EXTINF:-1 tvg-chno="20493" tvg-name="WPLG-DT" group-title="Cayman Islands" tvg-id="WPLGDT" tvc-guide-stationid="20493",WPLG-DT
 http://example.local/CYM-WPLGDT.ts
 #EXTINF:-1 tvg-chno="35515" tvg-name="WPXM-DT (ION)" tvg-logo="https://zap2it.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&h=270" group-title="Cayman Islands" tvg-id="WPXMDT" tvc-guide-stationid="35515",WPXM-DT (ION)
 http://example.local/CYM-WPXMDT.ts
 #EXTINF:-1 tvg-chno="54616" tvg-name="WPXM-DT2 (BOUNCE)" tvg-logo="https://zap2it.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&h=270" group-title="Cayman Islands" tvg-id="WPXMDT2" tvc-guide-stationid="54616",WPXM-DT2 (BOUNCE)
 http://example.local/CYM-WPXMDT2.ts
-#EXTINF:-1 tvg-chno="11398" tvg-name="WSFL" tvg-logo="None" group-title="Cayman Islands" tvg-id="WSFL" tvc-guide-stationid="11398",WSFL
+#EXTINF:-1 tvg-chno="11398" tvg-name="WSFL" group-title="Cayman Islands" tvg-id="WSFL" tvc-guide-stationid="11398",WSFL
 http://example.local/CYM-WSFL.ts
-#EXTINF:-1 tvg-chno="30304" tvg-name="WSFL-DT" tvg-logo="None" group-title="Cayman Islands" tvg-id="WSFLDT" tvc-guide-stationid="30304",WSFL-DT
+#EXTINF:-1 tvg-chno="30304" tvg-name="WSFL-DT" group-title="Cayman Islands" tvg-id="WSFLDT" tvc-guide-stationid="30304",WSFL-DT
 http://example.local/CYM-WSFLDT.ts
 #EXTINF:-1 tvg-chno="11857" tvg-name="WSVN (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png?w=360&h=270" group-title="Cayman Islands" tvg-id="WSVN" tvc-guide-stationid="11857",WSVN (FOX)
 http://example.local/CYM-WSVN.ts
@@ -913,7 +913,7 @@ http://example.local/CYM-WWJDT.ts
 http://example.local/CYM-WWOR.ts
 #EXTINF:-1 tvg-chno="19601" tvg-name="WXYZ-DT (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s28708_ll_h15_ac.png?w=360&h=270" group-title="Cayman Islands" tvg-id="WXYZDT" tvc-guide-stationid="19601",WXYZ-DT (ABC)
 http://example.local/CYM-WXYZDT.ts
-#EXTINF:-1 tvg-chno="72790" tvg-name="X107.1" tvg-logo="None" group-title="Cayman Islands" tvg-id="X1071" tvc-guide-stationid="72790",X107.1
+#EXTINF:-1 tvg-chno="72790" tvg-name="X107.1" group-title="Cayman Islands" tvg-id="X1071" tvc-guide-stationid="72790",X107.1
 http://example.local/CYM-X1071.ts
 #EXTINF:-1 tvg-chno="21497" tvg-name="Zee TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0022HE0M.png?w=360&h=270" group-title="Cayman Islands" tvg-id="ZEE" tvc-guide-stationid="21497",Zee TV HD
 http://example.local/CYM-ZEE.ts
