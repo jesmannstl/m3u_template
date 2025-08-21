@@ -1467,6 +1467,8 @@ http://example.local/AUS-SHWAANZ.ts
 http://example.local/AUS-UKTVANZ.ts
 #EXTINF:-1 tvg-chno="103157" tvg-name="UKTV +2" tvg-logo="https://zap2it.tmsimg.com/assets/s103157_ll_h15_aa.png?w=360&h=270" group-title="Australia" tvg-id="UKP2ANZ" tvc-guide-stationid="103157",UKTV +2
 http://example.local/AUS-UKP2ANZ.ts
+#EXTINF:-1 tvg-chno="162142" tvg-name="UKTV HD" group-title="Australia" tvg-id="UKHDANZ" tvc-guide-stationid="162142",UKTV HD
+http://example.local/AUS-UKHDANZ.ts
 #EXTINF:-1 tvg-chno="103159" tvg-name="Universal Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s103159_ll_h15_ac.png?w=360&h=270" group-title="Australia" tvg-id="UNIVANZ" tvc-guide-stationid="103159",Universal Channel
 http://example.local/AUS-UNIVANZ.ts
 #EXTINF:-1 tvg-chno="103160" tvg-name="Universal HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103160_ll_h15_aa.png?w=360&h=270" group-title="Australia" tvg-id="UNIHANZ" tvc-guide-stationid="103160",Universal HD

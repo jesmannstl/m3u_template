@@ -397,14 +397,10 @@ http://example.local/CAN-FIBETV1.ts
 http://example.local/CAN-BFIRE.ts
 #EXTINF:-1 tvg-chno="97440" tvg-name="Bell Fireplace SD" group-title="Canada" tvg-id="FIRESD" tvc-guide-stationid="97440",Bell Fireplace SD
 http://example.local/CAN-FIRESD.ts
-#EXTINF:-1 tvg-chno="89699" tvg-name="Bell Free Previews" group-title="Canada" tvg-id="FREEPRV" tvc-guide-stationid="89699",Bell Free Previews
-http://example.local/CAN-FREEPRV.ts
 #EXTINF:-1 tvg-chno="89607" tvg-name="Bell LOCAL" group-title="Canada" tvg-id="BLOCAL" tvc-guide-stationid="89607",Bell LOCAL
 http://example.local/CAN-BLOCAL.ts
 #EXTINF:-1 tvg-chno="97741" tvg-name="Bell Netflix" tvg-logo="https://zap2it.tmsimg.com/assets/s70912_ll_h15_aa.png?w=360&h=270" group-title="Canada" tvg-id="NFLX" tvc-guide-stationid="97741",Bell Netflix
 http://example.local/CAN-NFLX.ts
-#EXTINF:-1 tvg-chno="90185" tvg-name="Bell New Channels" group-title="Canada" tvg-id="BELLNEW" tvc-guide-stationid="90185",Bell New Channels
-http://example.local/CAN-BELLNEW.ts
 #EXTINF:-1 tvg-chno="144652" tvg-name="Bell PPV HD PPV2" group-title="Canada" tvg-id="BPPV2" tvc-guide-stationid="144652",Bell PPV HD PPV2
 http://example.local/CAN-BPPV2.ts
 #EXTINF:-1 tvg-chno="144653" tvg-name="Bell PPV HD PPV3" group-title="Canada" tvg-id="BPPV3" tvc-guide-stationid="144653",Bell PPV HD PPV3
@@ -2121,8 +2117,12 @@ http://example.local/CAN-GMALIFE.ts
 http://example.local/CAN-GMANEWS.ts
 #EXTINF:-1 tvg-chno="46463" tvg-name="GMA Pinoy TV" tvg-logo="https://zap2it.tmsimg.com/assets/s46463_ll_h9_aa.png?w=360&h=270" group-title="Canada" tvg-id="GMAPNY" tvc-guide-stationid="46463",GMA Pinoy TV
 http://example.local/CAN-GMAPNY.ts
+#EXTINF:-1 tvg-chno="106149" tvg-name="GOAL" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027DRE3.png?w=360&h=270" group-title="Canada" tvg-id="GOAL" tvc-guide-stationid="106149",GOAL
+http://example.local/CAN-GOAL.ts
 #EXTINF:-1 tvg-chno="73923" tvg-name="GOAL" tvg-logo="https://zap2it.tmsimg.com/assets/s73923_ll_h15_aa.png?w=360&h=270" group-title="Canada" tvg-id="EWS" tvc-guide-stationid="73923",GOAL
 http://example.local/CAN-EWS.ts
+#EXTINF:-1 tvg-chno="73923" tvg-name="GOAL SD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027DRQC.png?w=360&h=270" group-title="Canada" tvg-id="GOALSD" tvc-guide-stationid="73923",GOAL SD
+http://example.local/CAN-GOALSD.ts
 #EXTINF:-1 tvg-chno="65384" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s65384_ll_h15_aa.png?w=360&h=270" group-title="Canada" tvg-id="GOLFBO" tvc-guide-stationid="65384",Golf Channel
 http://example.local/CAN-GOLFBO.ts
 #EXTINF:-1 tvg-chno="65385" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s65385_ll_h15_ab.png?w=360&h=270" group-title="Canada" tvg-id="GOLFHDB" tvc-guide-stationid="65385",Golf Channel HD

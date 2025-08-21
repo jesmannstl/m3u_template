@@ -171,10 +171,10 @@ http://example.local/CHL-BETJ.ts
 http://example.local/CHL-BIOSTGO.ts
 #EXTINF:-1 tvg-chno="16829" tvg-name="Bloomberg Tv" tvg-logo="https://zap2it.tmsimg.com/assets/s14755_ll_h15_ab.png?w=360&h=270" group-title="Chile" tvg-id="BLOOMI" tvc-guide-stationid="16829",Bloomberg Tv
 http://example.local/CHL-BLOOMI.ts
-#EXTINF:-1 tvg-chno="111596" tvg-name="Buin Somos Todos" group-title="Chile" tvg-id="BUINMT2" tvc-guide-stationid="111596",Buin Somos Todos
-http://example.local/CHL-BUINMT2.ts
 #EXTINF:-1 tvg-chno="111593" tvg-name="Buin Somos Todos" group-title="Chile" tvg-id="BUINMT" tvc-guide-stationid="111593",Buin Somos Todos
 http://example.local/CHL-BUINMT.ts
+#EXTINF:-1 tvg-chno="111596" tvg-name="Buin Somos Todos" group-title="Chile" tvg-id="BUINMT2" tvc-guide-stationid="111596",Buin Somos Todos
+http://example.local/CHL-BUINMT2.ts
 #EXTINF:-1 tvg-chno="111597" tvg-name="Buin Somos Todos" group-title="Chile" tvg-id="BUINMT3" tvc-guide-stationid="111597",Buin Somos Todos
 http://example.local/CHL-BUINMT3.ts
 #EXTINF:-1 tvg-chno="47488" tvg-name="Camara de Diputados" tvg-logo="https://zap2it.tmsimg.com/assets/s47488_ll_h15_ac.png?w=360&h=270" group-title="Chile" tvg-id="DIPUTAD" tvc-guide-stationid="47488",Camara de Diputados
@@ -313,14 +313,14 @@ http://example.local/CHL-CHVATPH.ts
 http://example.local/CHL-CHVMCAH.ts
 #EXTINF:-1 tvg-chno="111356" tvg-name="Chilevisión" tvg-logo="https://zap2it.tmsimg.com/assets/s16206_h3_aa.png?w=360&h=270" group-title="Chile" tvg-id="CHVMCAS" tvc-guide-stationid="111356",Chilevisión
 http://example.local/CHL-CHVMCAS.ts
-#EXTINF:-1 tvg-chno="111348" tvg-name="Chilevisión" tvg-logo="https://zap2it.tmsimg.com/assets/s16206_h3_aa.png?w=360&h=270" group-title="Chile" tvg-id="CHVMCOH" tvc-guide-stationid="111348",Chilevisión
-http://example.local/CHL-CHVMCOH.ts
 #EXTINF:-1 tvg-chno="111357" tvg-name="Chilevisión" tvg-logo="https://zap2it.tmsimg.com/assets/s16206_h3_aa.png?w=360&h=270" group-title="Chile" tvg-id="CHVMCOS" tvc-guide-stationid="111357",Chilevisión
 http://example.local/CHL-CHVMCOS.ts
-#EXTINF:-1 tvg-chno="111361" tvg-name="Chilevisión" tvg-logo="https://zap2it.tmsimg.com/assets/s16206_h3_aa.png?w=360&h=270" group-title="Chile" tvg-id="CHVMAPS" tvc-guide-stationid="111361",Chilevisión
-http://example.local/CHL-CHVMAPS.ts
+#EXTINF:-1 tvg-chno="111348" tvg-name="Chilevisión" tvg-logo="https://zap2it.tmsimg.com/assets/s16206_h3_aa.png?w=360&h=270" group-title="Chile" tvg-id="CHVMCOH" tvc-guide-stationid="111348",Chilevisión
+http://example.local/CHL-CHVMCOH.ts
 #EXTINF:-1 tvg-chno="111353" tvg-name="Chilevisión" tvg-logo="https://zap2it.tmsimg.com/assets/s16206_ll_h15_ab.png?w=360&h=270" group-title="Chile" tvg-id="CHVMAPH" tvc-guide-stationid="111353",Chilevisión
 http://example.local/CHL-CHVMAPH.ts
+#EXTINF:-1 tvg-chno="111361" tvg-name="Chilevisión" tvg-logo="https://zap2it.tmsimg.com/assets/s16206_h3_aa.png?w=360&h=270" group-title="Chile" tvg-id="CHVMAPS" tvc-guide-stationid="111361",Chilevisión
+http://example.local/CHL-CHVMAPS.ts
 #EXTINF:-1 tvg-chno="111355" tvg-name="Chilevisión" tvg-logo="https://zap2it.tmsimg.com/assets/s16206_h3_aa.png?w=360&h=270" group-title="Chile" tvg-id="CHVAVIS" tvc-guide-stationid="111355",Chilevisión
 http://example.local/CHL-CHVAVIS.ts
 #EXTINF:-1 tvg-chno="111346" tvg-name="Chilevisión" tvg-logo="https://zap2it.tmsimg.com/assets/s16206_h3_aa.png?w=360&h=270" group-title="Chile" tvg-id="CHVAVIH" tvc-guide-stationid="111346",Chilevisión
@@ -409,10 +409,10 @@ http://example.local/CHL-CNCRT.ts
 http://example.local/CHL-CONTMC.ts
 #EXTINF:-1 tvg-chno="111646" tvg-name="Contivisión" group-title="Chile" tvg-id="CONTMT" tvc-guide-stationid="111646",Contivisión
 http://example.local/CHL-CONTMT.ts
-#EXTINF:-1 tvg-chno="111545" tvg-name="Contivisión Música" group-title="Chile" tvg-id="CONTMMC" tvc-guide-stationid="111545",Contivisión Música
-http://example.local/CHL-CONTMMC.ts
 #EXTINF:-1 tvg-chno="111568" tvg-name="Contivisión Música" group-title="Chile" tvg-id="CONTMMT" tvc-guide-stationid="111568",Contivisión Música
 http://example.local/CHL-CONTMMT.ts
+#EXTINF:-1 tvg-chno="111545" tvg-name="Contivisión Música" group-title="Chile" tvg-id="CONTMMC" tvc-guide-stationid="111545",Contivisión Música
+http://example.local/CHL-CONTMMC.ts
 #EXTINF:-1 tvg-chno="61404" tvg-name="Corazón" tvg-logo="https://zap2it.tmsimg.com/assets/s61404_ll_h15_ad.png?w=360&h=270" group-title="Chile" tvg-id="CORAZ" tvc-guide-stationid="61404",Corazón
 http://example.local/CHL-CORAZ.ts
 #EXTINF:-1 tvg-chno="100594" tvg-name="Corazón" tvg-logo="https://zap2it.tmsimg.com/assets/s61404_ll_h15_ad.png?w=360&h=270" group-title="Chile" tvg-id="CORAZH" tvc-guide-stationid="100594",Corazón
@@ -807,10 +807,10 @@ http://example.local/CHL-IDLHD.ts
 http://example.local/CHL-IDLE.ts
 #EXTINF:-1 tvg-chno="109896" tvg-name="ID HD" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png?w=360&h=270" group-title="Chile" tvg-id="IDMEXHD" tvc-guide-stationid="109896",ID HD
 http://example.local/CHL-IDMEXHD.ts
-#EXTINF:-1 tvg-chno="111619" tvg-name="Iquique Televisión" group-title="Chile" tvg-id="IQUTI2" tvc-guide-stationid="111619",Iquique Televisión
-http://example.local/CHL-IQUTI2.ts
 #EXTINF:-1 tvg-chno="111431" tvg-name="Iquique Televisión" group-title="Chile" tvg-id="IQUTI" tvc-guide-stationid="111431",Iquique Televisión
 http://example.local/CHL-IQUTI.ts
+#EXTINF:-1 tvg-chno="111619" tvg-name="Iquique Televisión" group-title="Chile" tvg-id="IQUTI2" tvc-guide-stationid="111619",Iquique Televisión
+http://example.local/CHL-IQUTI2.ts
 #EXTINF:-1 tvg-chno="111430" tvg-name="ISB" group-title="Chile" tvg-id="ISBMSB" tvc-guide-stationid="111430",ISB
 http://example.local/CHL-ISBMSB.ts
 #EXTINF:-1 tvg-chno="111628" tvg-name="ITV Patagonia" group-title="Chile" tvg-id="ITVMPA" tvc-guide-stationid="111628",ITV Patagonia

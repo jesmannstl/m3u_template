@@ -473,8 +473,6 @@ http://example.local/AUT-GENIUSP.ts
 http://example.local/AUT-GEOTHD.ts
 #EXTINF:-1 tvg-chno="26215" tvg-name="God" tvg-logo="https://zap2it.tmsimg.com/assets/s26215_ll_h15_ab.png?w=360&h=270" group-title="Austria" tvg-id="GODCH" tvc-guide-stationid="26215",God
 http://example.local/AUT-GODCH.ts
-#EXTINF:-1 tvg-chno="83920" tvg-name="gotv" tvg-logo="https://zap2it.tmsimg.com/assets/s83920_ll_h15_aa.png?w=360&h=270" group-title="Austria" tvg-id="GOTV" tvc-guide-stationid="83920",gotv
-http://example.local/AUT-GOTV.ts
 #EXTINF:-1 tvg-chno="53649" tvg-name="Gute Laune TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53649_ll_h15_ab.png?w=360&h=270" group-title="Austria" tvg-id="GTLNTV" tvc-guide-stationid="53649",Gute Laune TV
 http://example.local/AUT-GTLNTV.ts
 #EXTINF:-1 tvg-chno="169855" tvg-name="Gute Laune TV HD" group-title="Austria" tvg-id="GTLNEU" tvc-guide-stationid="169855",Gute Laune TV HD
@@ -815,10 +813,12 @@ http://example.local/AUT-NICKJDH.ts
 http://example.local/AUT-NICMSIC.ts
 #EXTINF:-1 tvg-chno="112728" tvg-name="Nick/Comedy Central +1" tvg-logo="https://zap2it.tmsimg.com/assets/s112728_ll_h15_ae.png?w=360&h=270" group-title="Austria" tvg-id="NICKCC" tvc-guide-stationid="112728",Nick/Comedy Central +1
 http://example.local/AUT-NICKCC.ts
+#EXTINF:-1 tvg-chno="83626" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s83626_ll_h15_ab.png?w=360&h=270" group-title="Austria" tvg-id="NICKDEU" tvc-guide-stationid="83626",Nickelodeon
+http://example.local/AUT-NICKDEU.ts
 #EXTINF:-1 tvg-chno="88731" tvg-name="Nickelodeon Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s88731_ll_h15_aa.png?w=360&h=270" group-title="Austria" tvg-id="NICKAU" tvc-guide-stationid="88731",Nickelodeon Austria
 http://example.local/AUT-NICKAU.ts
-#EXTINF:-1 tvg-chno="100835" tvg-name="Nickelodeon Austria HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100835_ll_h15_aa.png?w=360&h=270" group-title="Austria" tvg-id="NICKATH" tvc-guide-stationid="100835",Nickelodeon Austria HD
-http://example.local/AUT-NICKATH.ts
+#EXTINF:-1 tvg-chno="86878" tvg-name="Nickelodeon HD" tvg-logo="https://zap2it.tmsimg.com/assets/s86878_ll_h15_ab.png?w=360&h=270" group-title="Austria" tvg-id="NIKHDG" tvc-guide-stationid="86878",Nickelodeon HD
+http://example.local/AUT-NIKHDG.ts
 #EXTINF:-1 tvg-chno="123871" tvg-name="Nickelodeon Ukraine Pluto TV" tvg-logo="https://zap2it.tmsimg.com/assets/s123871_ll_h15_aa.png?w=360&h=270" group-title="Austria" tvg-id="NKUR" tvc-guide-stationid="123871",Nickelodeon Ukraine Pluto TV
 http://example.local/AUT-NKUR.ts
 #EXTINF:-1 tvg-chno="86879" tvg-name="Nicktoons" tvg-logo="https://zap2it.tmsimg.com/assets/s86879_ll_h15_ab.png?w=360&h=270" group-title="Austria" tvg-id="NICKTON" tvc-guide-stationid="86879",Nicktoons
