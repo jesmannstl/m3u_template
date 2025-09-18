@@ -885,6 +885,8 @@ http://example.local/AUS-DTURANZ.ts
 http://example.local/AUS-DTU2ANZ.ts
 #EXTINF:-1 tvg-chno="162143" tvg-name="Docplay" group-title="Australia" tvg-id="DPANZ" tvc-guide-stationid="162143",Docplay
 http://example.local/AUS-DPANZ.ts
+#EXTINF:-1 tvg-chno="162144" tvg-name="Docplay HD" tvg-logo="https://zap2it.tmsimg.com/assets/s162144_ll_h9_aa.png?w=360&h=270" group-title="Australia" tvg-id="DPHDANZ" tvc-guide-stationid="162144",Docplay HD
+http://example.local/AUS-DPHDANZ.ts
 #EXTINF:-1 tvg-chno="112186" tvg-name="Double J Adelaide (ABCTN)" tvg-logo="https://zap2it.tmsimg.com/assets/s112186_ll_h9_aa.png?w=360&h=270" group-title="Australia" tvg-id="JJRAALANZ" tvc-guide-stationid="112186",Double J Adelaide (ABCTN)
 http://example.local/AUS-JJRAALANZ.ts
 #EXTINF:-1 tvg-chno="112189" tvg-name="Double J Brisbane (ABCTN)" tvg-logo="https://zap2it.tmsimg.com/assets/s112189_ll_h9_aa.png?w=360&h=270" group-title="Australia" tvg-id="JJRABANZ" tvc-guide-stationid="112189",Double J Brisbane (ABCTN)
@@ -927,8 +929,6 @@ http://example.local/AUS-FAC4ANZ.ts
 http://example.local/AUS-FAC5ANZ.ts
 #EXTINF:-1 tvg-chno="123419" tvg-name="FA Cup 6" tvg-logo="https://zap2it.tmsimg.com/assets/s123419_ll_h9_aa.png?w=360&h=270" group-title="Australia" tvg-id="FAC6ANZ" tvc-guide-stationid="123419",FA Cup 6
 http://example.local/AUS-FAC6ANZ.ts
-#EXTINF:-1 tvg-chno="103073" tvg-name="Famous" tvg-logo="https://zap2it.tmsimg.com/assets/s103073_ll_h15_ab.png?w=360&h=270" group-title="Australia" tvg-id="ARTSANZ" tvc-guide-stationid="103073",Famous
-http://example.local/AUS-ARTSANZ.ts
 #EXTINF:-1 tvg-chno="103074" tvg-name="Famous HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103074_ll_h15_ac.png?w=360&h=270" group-title="Australia" tvg-id="ATHDANZ" tvc-guide-stationid="103074",Famous HD
 http://example.local/AUS-ATHDANZ.ts
 #EXTINF:-1 tvg-chno="162139" tvg-name="Fashion TV" tvg-logo="https://zap2it.tmsimg.com/assets/s162139_ll_h15_aa.png?w=360&h=270" group-title="Australia" tvg-id="FTVANZ" tvc-guide-stationid="162139",Fashion TV
@@ -953,6 +953,8 @@ http://example.local/AUS-FNWSANZ.ts
 http://example.local/AUS-FNHDANZ.ts
 #EXTINF:-1 tvg-chno="103069" tvg-name="FOX SPORTS 503" tvg-logo="https://zap2it.tmsimg.com/assets/s103069_ll_h15_aa.png?w=360&h=270" group-title="Australia" tvg-id="F503ANZ" tvc-guide-stationid="103069",FOX SPORTS 503
 http://example.local/AUS-F503ANZ.ts
+#EXTINF:-1 tvg-chno="103070" tvg-name="FOX SPORTS 503 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103070_ll_h15_ab.png?w=360&h=270" group-title="Australia" tvg-id="503HANZ" tvc-guide-stationid="103070",FOX SPORTS 503 HD
+http://example.local/AUS-503HANZ.ts
 #EXTINF:-1 tvg-chno="103072" tvg-name="FOX SPORTS 505" tvg-logo="https://zap2it.tmsimg.com/assets/s103072_ll_h15_ab.png?w=360&h=270" group-title="Australia" tvg-id="F505ANZ" tvc-guide-stationid="103072",FOX SPORTS 505
 http://example.local/AUS-F505ANZ.ts
 #EXTINF:-1 tvg-chno="103075" tvg-name="FOX SPORTS 505 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103075_ll_h15_aa.png?w=360&h=270" group-title="Australia" tvg-id="505HANZ" tvc-guide-stationid="103075",FOX SPORTS 505 HD
@@ -963,6 +965,8 @@ http://example.local/AUS-F506ANZ.ts
 http://example.local/AUS-506HANZ.ts
 #EXTINF:-1 tvg-chno="103080" tvg-name="FOX SPORTS 507" group-title="Australia" tvg-id="FSMRANZ" tvc-guide-stationid="103080",FOX SPORTS 507
 http://example.local/AUS-FSMRANZ.ts
+#EXTINF:-1 tvg-chno="103081" tvg-name="FOX SPORTS 507 HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0025ER42.png?w=360&h=270" group-title="Australia" tvg-id="FSMHANZ" tvc-guide-stationid="103081",FOX SPORTS 507 HD
+http://example.local/AUS-FSMHANZ.ts
 #EXTINF:-1 tvg-chno="103082" tvg-name="FOX SPORTS News" tvg-logo="https://zap2it.tmsimg.com/assets/s103082_ll_h15_ab.png?w=360&h=270" group-title="Australia" tvg-id="FSNWANZ" tvc-guide-stationid="103082",FOX SPORTS News
 http://example.local/AUS-FSNWANZ.ts
 #EXTINF:-1 tvg-chno="103083" tvg-name="FOX SPORTS News HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103083_ll_h15_aa.png?w=360&h=270" group-title="Australia" tvg-id="FSNHANZ" tvc-guide-stationid="103083",FOX SPORTS News HD
@@ -1061,6 +1065,8 @@ http://example.local/AUS-LFHMANZ.ts
 http://example.local/AUS-LFHHDANZ.ts
 #EXTINF:-1 tvg-chno="115798" tvg-name="LMN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s115798_ll_h15_aa.png?w=360&h=270" group-title="Australia" tvg-id="LMNHANZ" tvc-guide-stationid="115798",LMN HD
 http://example.local/AUS-LMNHANZ.ts
+#EXTINF:-1 tvg-chno="164400" tvg-name="Main Event UFC" tvg-logo="https://zap2it.tmsimg.com/assets/s164400_ll_h9_ab.png?w=360&h=270" group-title="Australia" tvg-id="UFCANZ" tvc-guide-stationid="164400",Main Event UFC
+http://example.local/AUS-UFCANZ.ts
 #EXTINF:-1 tvg-chno="187223" tvg-name="Max" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00256YHH.png?w=360&h=270" group-title="Australia" tvg-id="HAHOANZ" tvc-guide-stationid="187223",Max
 http://example.local/AUS-HAHOANZ.ts
 #EXTINF:-1 tvg-chno="103093" tvg-name="Movies Family" tvg-logo="https://zap2it.tmsimg.com/assets/s103093_ll_h15_aa.png?w=360&h=270" group-title="Australia" tvg-id="FAMHANZ" tvc-guide-stationid="103093",Movies Family
@@ -1173,6 +1179,10 @@ http://example.local/AUS-ALGW4ANZ.ts
 http://example.local/AUS-ALGW5ANZ.ts
 #EXTINF:-1 tvg-chno="103171" tvg-name="Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s103171_ll_h15_aa.png?w=360&h=270" group-title="Australia" tvg-id="PREANZ" tvc-guide-stationid="103171",Premiere
 http://example.local/AUS-PREANZ.ts
+#EXTINF:-1 tvg-chno="103325" tvg-name="RACING.COM (Foxtel)" tvg-logo="https://zap2it.tmsimg.com/assets/s103325_ll_h15_ab.png?w=360&h=270" group-title="Australia" tvg-id="RCOMANZ" tvc-guide-stationid="103325",RACING.COM (Foxtel)
+http://example.local/AUS-RCOMANZ.ts
+#EXTINF:-1 tvg-chno="148460" tvg-name="RACING.COM HD (Foxtel)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0023RXB8.png?w=360&h=270" group-title="Australia" tvg-id="RCOMHDANZ" tvc-guide-stationid="148460",RACING.COM HD (Foxtel)
+http://example.local/AUS-RCOMHDANZ.ts
 #EXTINF:-1 tvg-chno="104516" tvg-name="RACING.COM NSW" tvg-logo="https://zap2it.tmsimg.com/assets/s104516_ll_h9_aa.png?w=360&h=270" group-title="Australia" tvg-id="RCNSANZ" tvc-guide-stationid="104516",RACING.COM NSW
 http://example.local/AUS-RCNSANZ.ts
 #EXTINF:-1 tvg-chno="104517" tvg-name="RACING.COM NT" tvg-logo="https://zap2it.tmsimg.com/assets/s104517_ll_h9_aa.png?w=360&h=270" group-title="Australia" tvg-id="RCNTANZ" tvc-guide-stationid="104517",RACING.COM NT

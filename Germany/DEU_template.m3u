@@ -533,10 +533,10 @@ http://example.local/DEU-CABAKE5.ts
 http://example.local/DEU-CARAI.ts
 #EXTINF:-1 tvg-chno="83564" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s83564_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="CNGRM" tvc-guide-stationid="83564",Cartoon Network
 http://example.local/DEU-CNGRM.ts
-#EXTINF:-1 tvg-chno="51779" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s51779_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="CANETFR" tvc-guide-stationid="51779",Cartoon Network
-http://example.local/DEU-CANETFR.ts
 #EXTINF:-1 tvg-chno="84591" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s84591_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="TOONIT" tvc-guide-stationid="84591",Cartoon Network
 http://example.local/DEU-TOONIT.ts
+#EXTINF:-1 tvg-chno="51779" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s51779_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="CANETFR" tvc-guide-stationid="51779",Cartoon Network
+http://example.local/DEU-CANETFR.ts
 #EXTINF:-1 tvg-chno="17667" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s17667_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="CRTOON" tvc-guide-stationid="17667",Cartoon Network
 http://example.local/DEU-CRTOON.ts
 #EXTINF:-1 tvg-chno="98681" tvg-name="Cartoon Network (KD)" tvg-logo="https://zap2it.tmsimg.com/assets/s98681_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="CNETKD" tvc-guide-stationid="98681",Cartoon Network (KD)
@@ -763,16 +763,16 @@ http://example.local/DEU-DNWELLE.ts
 http://example.local/DEU-DIEZEIT.ts
 #EXTINF:-1 tvg-chno="51817" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s51817_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="DISCHAF" tvc-guide-stationid="51817",Discovery Channel
 http://example.local/DEU-DISCHAF.ts
-#EXTINF:-1 tvg-chno="105093" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s105093_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="DISCONL" tvc-guide-stationid="105093",Discovery Channel
-http://example.local/DEU-DISCONL.ts
 #EXTINF:-1 tvg-chno="90075" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s90075_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="DISCITL" tvc-guide-stationid="90075",Discovery Channel
 http://example.local/DEU-DISCITL.ts
-#EXTINF:-1 tvg-chno="87044" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s87044_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="DISCHIB" tvc-guide-stationid="87044",Discovery Channel
-http://example.local/DEU-DISCHIB.ts
-#EXTINF:-1 tvg-chno="17444" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s17444_ll_h15_ac.png?w=360&h=270" group-title="Germany" tvg-id="DISCOV" tvc-guide-stationid="17444",Discovery Channel
-http://example.local/DEU-DISCOV.ts
 #EXTINF:-1 tvg-chno="69424" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s69424_ll_h9_ab.png?w=360&h=270" group-title="Germany" tvg-id="DISCCHA" tvc-guide-stationid="69424",Discovery Channel
 http://example.local/DEU-DISCCHA.ts
+#EXTINF:-1 tvg-chno="105093" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s105093_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="DISCONL" tvc-guide-stationid="105093",Discovery Channel
+http://example.local/DEU-DISCONL.ts
+#EXTINF:-1 tvg-chno="17444" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s17444_ll_h15_ac.png?w=360&h=270" group-title="Germany" tvg-id="DISCOV" tvc-guide-stationid="17444",Discovery Channel
+http://example.local/DEU-DISCOV.ts
+#EXTINF:-1 tvg-chno="87044" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s87044_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="DISCHIB" tvc-guide-stationid="87044",Discovery Channel
+http://example.local/DEU-DISCHIB.ts
 #EXTINF:-1 tvg-chno="83572" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s83572_ll_h15_ac.png?w=360&h=270" group-title="Germany" tvg-id="DSCGERM" tvc-guide-stationid="83572",Discovery Channel
 http://example.local/DEU-DSCGERM.ts
 #EXTINF:-1 tvg-chno="21557" tvg-name="Discovery Channel +1" tvg-logo="https://zap2it.tmsimg.com/assets/s21557_ll_h15_ad.png?w=360&h=270" group-title="Germany" tvg-id="DISC1" tvc-guide-stationid="21557",Discovery Channel +1
@@ -799,10 +799,10 @@ http://example.local/DEU-DISCHHD.ts
 http://example.local/DEU-DISNGHD.ts
 #EXTINF:-1 tvg-chno="87041" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s87041_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="DJRESP" tvc-guide-stationid="87041",Disney Junior
 http://example.local/DEU-DJRESP.ts
-#EXTINF:-1 tvg-chno="79387" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s79387_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="DISJF" tvc-guide-stationid="79387",Disney Junior
-http://example.local/DEU-DISJF.ts
 #EXTINF:-1 tvg-chno="24761" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s24761_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="DISJNR" tvc-guide-stationid="24761",Disney Junior
 http://example.local/DEU-DISJNR.ts
+#EXTINF:-1 tvg-chno="79387" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s79387_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="DISJF" tvc-guide-stationid="79387",Disney Junior
+http://example.local/DEU-DISJF.ts
 #EXTINF:-1 tvg-chno="99418" tvg-name="Disney Junior Sweden (English Feed)" tvg-logo="https://zap2it.tmsimg.com/assets/s99418_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="DJRSWE" tvc-guide-stationid="99418",Disney Junior Sweden (English Feed)
 http://example.local/DEU-DJRSWE.ts
 #EXTINF:-1 tvg-chno="18379" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s18379_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="DISNXDE" tvc-guide-stationid="18379",Disney XD
@@ -947,10 +947,10 @@ http://example.local/DEU-EURORUS.ts
 http://example.local/DEU-EUSPONL.ts
 #EXTINF:-1 tvg-chno="66603" tvg-name="Eurosport 1" tvg-logo="https://zap2it.tmsimg.com/assets/s66603_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="EUROSGR" tvc-guide-stationid="66603",Eurosport 1
 http://example.local/DEU-EUROSGR.ts
-#EXTINF:-1 tvg-chno="18337" tvg-name="Eurosport 1" tvg-logo="https://zap2it.tmsimg.com/assets/s18337_ll_h15_ac.png?w=360&h=270" group-title="Germany" tvg-id="ESUK1" tvc-guide-stationid="18337",Eurosport 1
-http://example.local/DEU-ESUK1.ts
 #EXTINF:-1 tvg-chno="38359" tvg-name="Eurosport 1" tvg-logo="https://zap2it.tmsimg.com/assets/s38359_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="DEUROSP" tvc-guide-stationid="38359",Eurosport 1
 http://example.local/DEU-DEUROSP.ts
+#EXTINF:-1 tvg-chno="18337" tvg-name="Eurosport 1" tvg-logo="https://zap2it.tmsimg.com/assets/s18337_ll_h15_ac.png?w=360&h=270" group-title="Germany" tvg-id="ESUK1" tvc-guide-stationid="18337",Eurosport 1
+http://example.local/DEU-ESUK1.ts
 #EXTINF:-1 tvg-chno="77724" tvg-name="Eurosport 1" tvg-logo="https://zap2it.tmsimg.com/assets/s77724_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="EUROSP" tvc-guide-stationid="77724",Eurosport 1
 http://example.local/DEU-EUROSP.ts
 #EXTINF:-1 tvg-chno="83583" tvg-name="Eurosport 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83583_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="EUROHD" tvc-guide-stationid="83583",Eurosport 1 HD
@@ -959,16 +959,16 @@ http://example.local/DEU-EUROHD.ts
 http://example.local/DEU-ESINT1H.ts
 #EXTINF:-1 tvg-chno="86873" tvg-name="Eurosport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s86873_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="EURSP2" tvc-guide-stationid="86873",Eurosport 2
 http://example.local/DEU-EURSP2.ts
-#EXTINF:-1 tvg-chno="104917" tvg-name="Eurosport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s104917_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="EUSP2NL" tvc-guide-stationid="104917",Eurosport 2
-http://example.local/DEU-EUSP2NL.ts
-#EXTINF:-1 tvg-chno="77723" tvg-name="Eurosport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s77723_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="EUROSP2" tvc-guide-stationid="77723",Eurosport 2
-http://example.local/DEU-EUROSP2.ts
-#EXTINF:-1 tvg-chno="84605" tvg-name="Eurosport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s84605_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="EURSP2I" tvc-guide-stationid="84605",Eurosport 2
-http://example.local/DEU-EURSP2I.ts
 #EXTINF:-1 tvg-chno="27413" tvg-name="Eurosport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s27413_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="ESUK2" tvc-guide-stationid="27413",Eurosport 2
 http://example.local/DEU-ESUK2.ts
 #EXTINF:-1 tvg-chno="87327" tvg-name="Eurosport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s87327_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="EUSP2FR" tvc-guide-stationid="87327",Eurosport 2
 http://example.local/DEU-EUSP2FR.ts
+#EXTINF:-1 tvg-chno="84605" tvg-name="Eurosport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s84605_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="EURSP2I" tvc-guide-stationid="84605",Eurosport 2
+http://example.local/DEU-EURSP2I.ts
+#EXTINF:-1 tvg-chno="104917" tvg-name="Eurosport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s104917_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="EUSP2NL" tvc-guide-stationid="104917",Eurosport 2
+http://example.local/DEU-EUSP2NL.ts
+#EXTINF:-1 tvg-chno="77723" tvg-name="Eurosport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s77723_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="EUROSP2" tvc-guide-stationid="77723",Eurosport 2
+http://example.local/DEU-EUROSP2.ts
 #EXTINF:-1 tvg-chno="86872" tvg-name="Eurosport 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s86872_ll_h15_ac.png?w=360&h=270" group-title="Germany" tvg-id="EURS2HD" tvc-guide-stationid="86872",Eurosport 2 HD
 http://example.local/DEU-EURS2HD.ts
 #EXTINF:-1 tvg-chno="96487" tvg-name="EuroStar" tvg-logo="https://zap2it.tmsimg.com/assets/s96487_ll_h15_an.png?w=360&h=270" group-title="Germany" tvg-id="EUROSTU" tvc-guide-stationid="96487",EuroStar
@@ -1515,10 +1515,10 @@ http://example.local/DEU-LT1.ts
 http://example.local/DEU-LUSTPUR.ts
 #EXTINF:-1 tvg-chno="83618" tvg-name="Lust Pur HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83618_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="LSPURHD" tvc-guide-stationid="83618",Lust Pur HD
 http://example.local/DEU-LSPURHD.ts
-#EXTINF:-1 tvg-chno="87424" tvg-name="Luxe TV" tvg-logo="https://zap2it.tmsimg.com/assets/s87424_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="LUXETVF" tvc-guide-stationid="87424",Luxe TV
-http://example.local/DEU-LUXETVF.ts
 #EXTINF:-1 tvg-chno="102970" tvg-name="Luxe TV" tvg-logo="https://zap2it.tmsimg.com/assets/s102970_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="LUXEEU" tvc-guide-stationid="102970",Luxe TV
 http://example.local/DEU-LUXEEU.ts
+#EXTINF:-1 tvg-chno="87424" tvg-name="Luxe TV" tvg-logo="https://zap2it.tmsimg.com/assets/s87424_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="LUXETVF" tvc-guide-stationid="87424",Luxe TV
+http://example.local/DEU-LUXETVF.ts
 #EXTINF:-1 tvg-chno="78972" tvg-name="M6" tvg-logo="https://zap2it.tmsimg.com/assets/s78972_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="MSIX" tvc-guide-stationid="78972",M6
 http://example.local/DEU-MSIX.ts
 #EXTINF:-1 tvg-chno="74921" tvg-name="M6 Boutique & Co" tvg-logo="https://zap2it.tmsimg.com/assets/s74921_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="M6BOUTQ" tvc-guide-stationid="74921",M6 Boutique & Co
@@ -1743,14 +1743,14 @@ http://example.local/DEU-NASKIRU.ts
 http://example.local/DEU-NATGPHD.ts
 #EXTINF:-1 tvg-chno="83622" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s83622_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="NGEODEU" tvc-guide-stationid="83622",National Geographic
 http://example.local/DEU-NGEODEU.ts
-#EXTINF:-1 tvg-chno="21592" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s21592_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="NATGEO" tvc-guide-stationid="21592",National Geographic
-http://example.local/DEU-NATGEO.ts
 #EXTINF:-1 tvg-chno="86938" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s86938_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="NGEOIB" tvc-guide-stationid="86938",National Geographic
 http://example.local/DEU-NGEOIB.ts
-#EXTINF:-1 tvg-chno="52472" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s52472_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="NATGEF" tvc-guide-stationid="52472",National Geographic
-http://example.local/DEU-NATGEF.ts
 #EXTINF:-1 tvg-chno="77692" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s77692_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="NATGECH" tvc-guide-stationid="77692",National Geographic
 http://example.local/DEU-NATGECH.ts
+#EXTINF:-1 tvg-chno="52472" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s52472_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="NATGEF" tvc-guide-stationid="52472",National Geographic
+http://example.local/DEU-NATGEF.ts
+#EXTINF:-1 tvg-chno="21592" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s21592_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="NATGEO" tvc-guide-stationid="21592",National Geographic
+http://example.local/DEU-NATGEO.ts
 #EXTINF:-1 tvg-chno="24112" tvg-name="National Geographic +1" tvg-logo="https://zap2it.tmsimg.com/assets/s24112_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="NATG1" tvc-guide-stationid="24112",National Geographic +1
 http://example.local/DEU-NATG1.ts
 #EXTINF:-1 tvg-chno="105092" tvg-name="National Geographic Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s105092_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="NATGENL" tvc-guide-stationid="105092",National Geographic Channel
@@ -1875,14 +1875,14 @@ http://example.local/DEU-NICKCC.ts
 http://example.local/DEU-NICKCC1.ts
 #EXTINF:-1 tvg-chno="83626" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s83626_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="NICKDEU" tvc-guide-stationid="83626",Nickelodeon
 http://example.local/DEU-NICKDEU.ts
-#EXTINF:-1 tvg-chno="17419" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s17419_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="NICK" tvc-guide-stationid="17419",Nickelodeon
-http://example.local/DEU-NICK.ts
-#EXTINF:-1 tvg-chno="86939" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s86939_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="NIKESP" tvc-guide-stationid="86939",Nickelodeon
-http://example.local/DEU-NIKESP.ts
-#EXTINF:-1 tvg-chno="77727" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s77727_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="NICKELO" tvc-guide-stationid="77727",Nickelodeon
-http://example.local/DEU-NICKELO.ts
 #EXTINF:-1 tvg-chno="52479" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s52479_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="NCKLDN" tvc-guide-stationid="52479",Nickelodeon
 http://example.local/DEU-NCKLDN.ts
+#EXTINF:-1 tvg-chno="77727" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s77727_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="NICKELO" tvc-guide-stationid="77727",Nickelodeon
+http://example.local/DEU-NICKELO.ts
+#EXTINF:-1 tvg-chno="86939" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s86939_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="NIKESP" tvc-guide-stationid="86939",Nickelodeon
+http://example.local/DEU-NIKESP.ts
+#EXTINF:-1 tvg-chno="17419" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s17419_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="NICK" tvc-guide-stationid="17419",Nickelodeon
+http://example.local/DEU-NICK.ts
 #EXTINF:-1 tvg-chno="86878" tvg-name="Nickelodeon HD" tvg-logo="https://zap2it.tmsimg.com/assets/s86878_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="NIKHDG" tvc-guide-stationid="86878",Nickelodeon HD
 http://example.local/DEU-NIKHDG.ts
 #EXTINF:-1 tvg-chno="86879" tvg-name="Nicktoons" tvg-logo="https://zap2it.tmsimg.com/assets/s86879_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="NICKTON" tvc-guide-stationid="86879",Nicktoons
@@ -2563,6 +2563,8 @@ http://example.local/DEU-RRECHD.ts
 http://example.local/DEU-REDBULL.ts
 #EXTINF:-1 tvg-chno="115984" tvg-name="Red Bull TV" tvg-logo="https://zap2it.tmsimg.com/assets/s115984_ll_h15_ac.png?w=360&h=270" group-title="Germany" tvg-id="BESTORB" tvc-guide-stationid="115984",Red Bull TV
 http://example.local/DEU-BESTORB.ts
+#EXTINF:-1 tvg-chno="118720" tvg-name="Red Bull TV Motorsport" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028E71G.png?w=360&h=270" group-title="Germany" tvg-id="RBMOSPHD" tvc-guide-stationid="118720",Red Bull TV Motorsport
+http://example.local/DEU-RBMOSPHD.ts
 #EXTINF:-1 tvg-chno="101568" tvg-name="Reggae" tvg-logo="https://zap2it.tmsimg.com/assets/s101568_ll_h9_aa.png?w=360&h=270" group-title="Germany" tvg-id="REGGAER" tvc-guide-stationid="101568",Reggae
 http://example.local/DEU-REGGAER.ts
 #EXTINF:-1 tvg-chno="170112" tvg-name="Regio TV (SAT)" tvg-logo="https://zap2it.tmsimg.com/assets/s170112_ll_h9_ac.png?w=360&h=270" group-title="Germany" tvg-id="REGISAT" tvc-guide-stationid="170112",Regio TV (SAT)
@@ -2885,8 +2887,6 @@ http://example.local/DEU-SERPLSD.ts
 http://example.local/DEU-SERPLHD.ts
 #EXTINF:-1 tvg-chno="90473" tvg-name="Servus TV AT" tvg-logo="https://zap2it.tmsimg.com/assets/s90473_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="SERVUSA" tvc-guide-stationid="90473",Servus TV AT
 http://example.local/DEU-SERVUSA.ts
-#EXTINF:-1 tvg-chno="118720" tvg-name="Servus TV Motorsport HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118720_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="SERVTVMO" tvc-guide-stationid="118720",Servus TV Motorsport HD
-http://example.local/DEU-SERVTVMO.ts
 #EXTINF:-1 tvg-chno="99536" tvg-name="ServusTV AT HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99536_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="SERVAHD" tvc-guide-stationid="99536",ServusTV AT HD
 http://example.local/DEU-SERVAHD.ts
 #EXTINF:-1 tvg-chno="119695" tvg-name="Shop LC" tvg-logo="https://zap2it.tmsimg.com/assets/s119695_ll_h9_aa.png?w=360&h=270" group-title="Germany" tvg-id="SHOPLCDE" tvc-guide-stationid="119695",Shop LC
@@ -3315,10 +3315,10 @@ http://example.local/DEU-SYFYD.ts
 http://example.local/DEU-SYFYHDG.ts
 #EXTINF:-1 tvg-chno="112620" tvg-name="SYFY HD" tvg-logo="https://zap2it.tmsimg.com/assets/s112620_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="SYFYSKY" tvc-guide-stationid="112620",SYFY HD
 http://example.local/DEU-SYFYSKY.ts
-#EXTINF:-1 tvg-chno="86906" tvg-name="SyFy Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s86906_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="SYFYUE" tvc-guide-stationid="86906",SyFy Universal
-http://example.local/DEU-SYFYUE.ts
 #EXTINF:-1 tvg-chno="87541" tvg-name="SyFy Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s87541_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="SYFYUF" tvc-guide-stationid="87541",SyFy Universal
 http://example.local/DEU-SYFYUF.ts
+#EXTINF:-1 tvg-chno="86906" tvg-name="SyFy Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s86906_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="SYFYUE" tvc-guide-stationid="86906",SyFy Universal
+http://example.local/DEU-SYFYUE.ts
 #EXTINF:-1 tvg-chno="95904" tvg-name="Syfy Universal (KD)" tvg-logo="https://zap2it.tmsimg.com/assets/s95904_ll_h9_aa.png?w=360&h=270" group-title="Germany" tvg-id="SYFYKD" tvc-guide-stationid="95904",Syfy Universal (KD)
 http://example.local/DEU-SYFYKD.ts
 #EXTINF:-1 tvg-chno="87542" tvg-name="SyFy Universal HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87542_ll_h15_ad.png?w=360&h=270" group-title="Germany" tvg-id="SYFYUFH" tvc-guide-stationid="87542",SyFy Universal HD
@@ -3337,10 +3337,10 @@ http://example.local/DEU-T7ALBHD.ts
 http://example.local/DEU-TAGARD.ts
 #EXTINF:-1 tvg-chno="90439" tvg-name="tagesschau24 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90439_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="TAGARHD" tvc-guide-stationid="90439",tagesschau24 HD
 http://example.local/DEU-TAGARHD.ts
-#EXTINF:-1 tvg-chno="86940" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s86940_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="TCMESP" tvc-guide-stationid="86940",TCM
-http://example.local/DEU-TCMESP.ts
 #EXTINF:-1 tvg-chno="78976" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s78976_ll_h15_ab.png?w=360&h=270" group-title="Germany" tvg-id="TCMFRNC" tvc-guide-stationid="78976",TCM
 http://example.local/DEU-TCMFRNC.ts
+#EXTINF:-1 tvg-chno="86940" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s86940_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="TCMESP" tvc-guide-stationid="86940",TCM
+http://example.local/DEU-TCMESP.ts
 #EXTINF:-1 tvg-chno="86282" tvg-name="Tele 1" tvg-logo="https://zap2it.tmsimg.com/assets/s86282_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="TELE1" tvc-guide-stationid="86282",Tele 1
 http://example.local/DEU-TELE1.ts
 #EXTINF:-1 tvg-chno="67303" tvg-name="Tele 5" tvg-logo="https://zap2it.tmsimg.com/assets/s67303_ll_h15_ac.png?w=360&h=270" group-title="Germany" tvg-id="TELE5GR" tvc-guide-stationid="67303",Tele 5
@@ -3543,10 +3543,10 @@ http://example.local/DEU-TV2ECHO.ts
 http://example.local/DEU-TV2SYD.ts
 #EXTINF:-1 tvg-chno="87799" tvg-name="TV3" tvg-logo="https://zap2it.tmsimg.com/assets/s87799_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="TV3DK" tvc-guide-stationid="87799",TV3
 http://example.local/DEU-TV3DK.ts
-#EXTINF:-1 tvg-chno="76805" tvg-name="TV3" tvg-logo="https://zap2it.tmsimg.com/assets/s76805_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="TV3SWED" tvc-guide-stationid="76805",TV3
-http://example.local/DEU-TV3SWED.ts
 #EXTINF:-1 tvg-chno="90052" tvg-name="TV3" tvg-logo="https://zap2it.tmsimg.com/assets/s90052_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="TV3NO" tvc-guide-stationid="90052",TV3
 http://example.local/DEU-TV3NO.ts
+#EXTINF:-1 tvg-chno="76805" tvg-name="TV3" tvg-logo="https://zap2it.tmsimg.com/assets/s76805_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="TV3SWED" tvc-guide-stationid="76805",TV3
+http://example.local/DEU-TV3SWED.ts
 #EXTINF:-1 tvg-chno="54089" tvg-name="TV38 FERNSEHEN ZWISCHEN HARZ" group-title="Germany" tvg-id="TV38FER" tvc-guide-stationid="54089",TV38 FERNSEHEN ZWISCHEN HARZ
 http://example.local/DEU-TV38FER.ts
 #EXTINF:-1 tvg-chno="87020" tvg-name="TV3CAT" tvg-logo="https://zap2it.tmsimg.com/assets/s87020_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="TV3CAT" tvc-guide-stationid="87020",TV3CAT

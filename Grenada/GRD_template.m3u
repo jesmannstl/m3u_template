@@ -293,6 +293,8 @@ http://example.local/GRD-H2LATH.ts
 http://example.local/GRD-HBOCAR.ts
 #EXTINF:-1 tvg-chno="96533" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s19548_ll_h15_aa.png?w=360&h=270" group-title="Grenada" tvg-id="HBOCARH" tvc-guide-stationid="96533",HBO
 http://example.local/GRD-HBOCARH.ts
+#EXTINF:-1 tvg-chno="10243" tvg-name="HBO Drama" tvg-logo="https://zap2it.tmsimg.com/assets/s10243_h3_ba.png?w=360&h=270" group-title="Grenada" tvg-id="HBODRMA" tvc-guide-stationid="10243",HBO Drama
+http://example.local/GRD-HBODRMA.ts
 #EXTINF:-1 tvg-chno="16585" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png?w=360&h=270" group-title="Grenada" tvg-id="HBOF" tvc-guide-stationid="16585",HBO Family
 http://example.local/GRD-HBOF.ts
 #EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png?w=360&h=270" group-title="Grenada" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
@@ -315,14 +317,10 @@ http://example.local/GRD-POPLA.ts
 http://example.local/GRD-HBOSLA.ts
 #EXTINF:-1 tvg-chno="80120" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png?w=360&h=270" group-title="Grenada" tvg-id="HBOSLHD" tvc-guide-stationid="80120",HBO Signature
 http://example.local/GRD-HBOSLHD.ts
-#EXTINF:-1 tvg-chno="10243" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s10243_h3_ba.png?w=360&h=270" group-title="Grenada" tvg-id="HBOSIG" tvc-guide-stationid="10243",HBO Signature
-http://example.local/GRD-HBOSIG.ts
 #EXTINF:-1 tvg-chno="34887" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png?w=360&h=270" group-title="Grenada" tvg-id="HBOXMX" tvc-guide-stationid="34887",HBO Xtreme
 http://example.local/GRD-HBOXMX.ts
 #EXTINF:-1 tvg-chno="57400" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png?w=360&h=270" group-title="Grenada" tvg-id="HBOXMXE" tvc-guide-stationid="57400",HBO Xtreme
 http://example.local/GRD-HBOXMXE.ts
-#EXTINF:-1 tvg-chno="10241" tvg-name="HBO2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_h3_ba.png?w=360&h=270" group-title="Grenada" tvg-id="HBO2" tvc-guide-stationid="10241",HBO2
-http://example.local/GRD-HBO2.ts
 #EXTINF:-1 tvg-chno="10242" tvg-name="HBO2 (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png?w=360&h=270" group-title="Grenada" tvg-id="HBO2P" tvc-guide-stationid="10242",HBO2 (Pacific)
 http://example.local/GRD-HBO2P.ts
 #EXTINF:-1 tvg-chno="59368" tvg-name="HBO2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59368_ll_h15_aa.png?w=360&h=270" group-title="Grenada" tvg-id="HBO2HD" tvc-guide-stationid="59368",HBO2 HD

@@ -7,8 +7,6 @@ http://example.local/ATG-AETV.ts
 http://example.local/ATG-AEMX.ts
 #EXTINF:-1 tvg-chno="87004" tvg-name="A&E" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_h3_aa.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="AEMXHD" tvc-guide-stationid="87004",A&E
 http://example.local/ATG-AEMXHD.ts
-#EXTINF:-1 tvg-chno="18433" tvg-name="ActionMAX" tvg-logo="https://zap2it.tmsimg.com/assets/s18433_ll_h15_ad.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="ACMAX" tvc-guide-stationid="18433",ActionMAX
-http://example.local/ATG-ACMAX.ts
 #EXTINF:-1 tvg-chno="55559" tvg-name="Al Jazeera English" tvg-logo="https://zap2it.tmsimg.com/assets/s55559_ll_h15_aa.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="ALJZENG" tvc-guide-stationid="55559",Al Jazeera English
 http://example.local/ATG-ALJZENG.ts
 #EXTINF:-1 tvg-chno="10021" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s10021_ll_h15_ab.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="AMC" tvc-guide-stationid="10021",AMC
@@ -229,6 +227,8 @@ http://example.local/ATG-HBOCARH.ts
 http://example.local/ATG-HBO.ts
 #EXTINF:-1 tvg-chno="18429" tvg-name="HBO Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s18429_ll_h15_aa.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="HBOC" tvc-guide-stationid="18429",HBO Comedy
 http://example.local/ATG-HBOC.ts
+#EXTINF:-1 tvg-chno="10243" tvg-name="HBO Drama" tvg-logo="https://zap2it.tmsimg.com/assets/s10243_h3_ba.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="HBODRMA" tvc-guide-stationid="10243",HBO Drama
+http://example.local/ATG-HBODRMA.ts
 #EXTINF:-1 tvg-chno="16585" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="HBOF" tvc-guide-stationid="16585",HBO Family
 http://example.local/ATG-HBOF.ts
 #EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
@@ -245,8 +245,6 @@ http://example.local/ATG-MUNCARH.ts
 http://example.local/ATG-POPLAE.ts
 #EXTINF:-1 tvg-chno="68301" tvg-name="HBO POP" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_ll_h15_ab.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="POPMXH" tvc-guide-stationid="68301",HBO POP
 http://example.local/ATG-POPMXH.ts
-#EXTINF:-1 tvg-chno="10243" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s10243_h3_ba.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="HBOSIG" tvc-guide-stationid="10243",HBO Signature
-http://example.local/ATG-HBOSIG.ts
 #EXTINF:-1 tvg-chno="74450" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="HBOSLA" tvc-guide-stationid="74450",HBO Signature
 http://example.local/ATG-HBOSLA.ts
 #EXTINF:-1 tvg-chno="80120" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="HBOSLHD" tvc-guide-stationid="80120",HBO Signature
@@ -255,8 +253,6 @@ http://example.local/ATG-HBOSLHD.ts
 http://example.local/ATG-HBOXMX.ts
 #EXTINF:-1 tvg-chno="57400" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="HBOXMXE" tvc-guide-stationid="57400",HBO Xtreme
 http://example.local/ATG-HBOXMXE.ts
-#EXTINF:-1 tvg-chno="10241" tvg-name="HBO2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_h3_ba.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="HBO2" tvc-guide-stationid="10241",HBO2
-http://example.local/ATG-HBO2.ts
 #EXTINF:-1 tvg-chno="10242" tvg-name="HBO2 (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="HBO2P" tvc-guide-stationid="10242",HBO2 (Pacific)
 http://example.local/ATG-HBO2P.ts
 #EXTINF:-1 tvg-chno="14771" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s14771_ll_h15_af.png?w=360&h=270" group-title="Antigua and Barbuda" tvg-id="HISTORY" tvc-guide-stationid="14771",History

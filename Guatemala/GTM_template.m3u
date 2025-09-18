@@ -279,10 +279,10 @@ http://example.local/GTM-CNNHD.ts
 http://example.local/GTM-CNNHL.ts
 #EXTINF:-1 tvg-chno="15192" tvg-name="CNNI Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s15192_ll_h9_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="CNNIL" tvc-guide-stationid="15192",CNNI Latin America
 http://example.local/GTM-CNNIL.ts
-#EXTINF:-1 tvg-chno="74528" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s76326_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="COMCELA" tvc-guide-stationid="74528",Comedy Central
-http://example.local/GTM-COMCELA.ts
 #EXTINF:-1 tvg-chno="74906" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s100848_ll_h15_ac.png?w=360&h=270" group-title="Guatemala" tvg-id="COMCLAH" tvc-guide-stationid="74906",Comedy Central
 http://example.local/GTM-COMCLAH.ts
+#EXTINF:-1 tvg-chno="74528" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s76326_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="COMCELA" tvc-guide-stationid="74528",Comedy Central
+http://example.local/GTM-COMCELA.ts
 #EXTINF:-1 tvg-chno="67610" tvg-name="Concert Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s72020_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="CNCRTHD" tvc-guide-stationid="67610",Concert Channel
 http://example.local/GTM-CNCRTHD.ts
 #EXTINF:-1 tvg-chno="61404" tvg-name="Corazón" tvg-logo="https://zap2it.tmsimg.com/assets/s61404_ll_h15_ad.png?w=360&h=270" group-title="Guatemala" tvg-id="CORAZ" tvc-guide-stationid="61404",Corazón
@@ -319,10 +319,10 @@ http://example.local/GTM-DTHLAHD.ts
 http://example.local/GTM-DTHLIHD.ts
 #EXTINF:-1 tvg-chno="46608" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="DTURBOL" tvc-guide-stationid="46608",Discovery Turbo
 http://example.local/GTM-DTURBOL.ts
-#EXTINF:-1 tvg-chno="66488" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="DWRLDHD" tvc-guide-stationid="66488",Discovery World
-http://example.local/GTM-DWRLDHD.ts
 #EXTINF:-1 tvg-chno="70662" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="DWRLDHE" tvc-guide-stationid="70662",Discovery World
 http://example.local/GTM-DWRLDHE.ts
+#EXTINF:-1 tvg-chno="66488" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="DWRLDHD" tvc-guide-stationid="66488",Discovery World
+http://example.local/GTM-DWRLDHD.ts
 #EXTINF:-1 tvg-chno="19234" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s19234_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="DISNL" tvc-guide-stationid="19234",Disney Channel
 http://example.local/GTM-DISNL.ts
 #EXTINF:-1 tvg-chno="61311" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="DISNJMX" tvc-guide-stationid="61311",Disney Junior
@@ -419,14 +419,14 @@ http://example.local/GTM-ESPNM.ts
 http://example.local/GTM-ESPNAR.ts
 #EXTINF:-1 tvg-chno="10180" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png?w=360&h=270" group-title="Guatemala" tvg-id="ESP2ME" tvc-guide-stationid="10180",ESPN 2
 http://example.local/GTM-ESP2ME.ts
-#EXTINF:-1 tvg-chno="67546" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png?w=360&h=270" group-title="Guatemala" tvg-id="ESP2MEH" tvc-guide-stationid="67546",ESPN 2
-http://example.local/GTM-ESP2MEH.ts
 #EXTINF:-1 tvg-chno="37747" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png?w=360&h=270" group-title="Guatemala" tvg-id="ESPN2MX" tvc-guide-stationid="37747",ESPN 2
 http://example.local/GTM-ESPN2MX.ts
 #EXTINF:-1 tvg-chno="96876" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png?w=360&h=270" group-title="Guatemala" tvg-id="ESPN2MH" tvc-guide-stationid="96876",ESPN 2
 http://example.local/GTM-ESPN2MH.ts
 #EXTINF:-1 tvg-chno="88735" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png?w=360&h=270" group-title="Guatemala" tvg-id="ESP2LS" tvc-guide-stationid="88735",ESPN 2
 http://example.local/GTM-ESP2LS.ts
+#EXTINF:-1 tvg-chno="67546" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png?w=360&h=270" group-title="Guatemala" tvg-id="ESP2MEH" tvc-guide-stationid="67546",ESPN 2
+http://example.local/GTM-ESP2MEH.ts
 #EXTINF:-1 tvg-chno="65930" tvg-name="ESPN 4 México" tvg-logo="https://zap2it.tmsimg.com/assets/s65930_ll_h15_ae.png?w=360&h=270" group-title="Guatemala" tvg-id="ESP4MXH" tvc-guide-stationid="65930",ESPN 4 México
 http://example.local/GTM-ESP4MXH.ts
 #EXTINF:-1 tvg-chno="121544" tvg-name="ESPN 4 Sur" tvg-logo="https://zap2it.tmsimg.com/assets/s65930_ll_h15_ae.png?w=360&h=270" group-title="Guatemala" tvg-id="ESPN4SH" tvc-guide-stationid="121544",ESPN 4 Sur
@@ -533,14 +533,14 @@ http://example.local/GTM-GPREMSD.ts
 http://example.local/GTM-GPRD2SD.ts
 #EXTINF:-1 tvg-chno="33561" tvg-name="Guatevision" tvg-logo="https://zap2it.tmsimg.com/assets/s33561_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="GUATVIS" tvc-guide-stationid="33561",Guatevision
 http://example.local/GTM-GUATVIS.ts
-#EXTINF:-1 tvg-chno="16191" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="HBOI" tvc-guide-stationid="16191",HBO
-http://example.local/GTM-HBOI.ts
-#EXTINF:-1 tvg-chno="80406" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="HBOEHD" tvc-guide-stationid="80406",HBO
-http://example.local/GTM-HBOEHD.ts
 #EXTINF:-1 tvg-chno="12288" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="HBOL" tvc-guide-stationid="12288",HBO
 http://example.local/GTM-HBOL.ts
 #EXTINF:-1 tvg-chno="16795" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="HBOLW" tvc-guide-stationid="16795",HBO
 http://example.local/GTM-HBOLW.ts
+#EXTINF:-1 tvg-chno="16191" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="HBOI" tvc-guide-stationid="16191",HBO
+http://example.local/GTM-HBOI.ts
+#EXTINF:-1 tvg-chno="80406" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="HBOEHD" tvc-guide-stationid="80406",HBO
+http://example.local/GTM-HBOEHD.ts
 #EXTINF:-1 tvg-chno="10244" tvg-name="HBO (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10240_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="HBOP" tvc-guide-stationid="10244",HBO (Pacific)
 http://example.local/GTM-HBOP.ts
 #EXTINF:-1 tvg-chno="68244" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png?w=360&h=270" group-title="Guatemala" tvg-id="HBO2ENG" tvc-guide-stationid="68244",HBO 2
@@ -549,10 +549,10 @@ http://example.local/GTM-HBO2ENG.ts
 http://example.local/GTM-HBO2LA.ts
 #EXTINF:-1 tvg-chno="19548" tvg-name="HBO East" tvg-logo="https://zap2it.tmsimg.com/assets/s19548_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="HBOHD" tvc-guide-stationid="19548",HBO East
 http://example.local/GTM-HBOHD.ts
-#EXTINF:-1 tvg-chno="34879" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_ll_h15_ae.png?w=360&h=270" group-title="Guatemala" tvg-id="HBOFAM" tvc-guide-stationid="34879",HBO Family
-http://example.local/GTM-HBOFAM.ts
 #EXTINF:-1 tvg-chno="57396" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png?w=360&h=270" group-title="Guatemala" tvg-id="HBOFAME" tvc-guide-stationid="57396",HBO Family
 http://example.local/GTM-HBOFAME.ts
+#EXTINF:-1 tvg-chno="34879" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_ll_h15_ae.png?w=360&h=270" group-title="Guatemala" tvg-id="HBOFAM" tvc-guide-stationid="34879",HBO Family
+http://example.local/GTM-HBOFAM.ts
 #EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png?w=360&h=270" group-title="Guatemala" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
 http://example.local/GTM-HBOFMHD.ts
 #EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_h3_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
@@ -571,24 +571,24 @@ http://example.local/GTM-POPLA.ts
 http://example.local/GTM-HBOSLA.ts
 #EXTINF:-1 tvg-chno="80120" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png?w=360&h=270" group-title="Guatemala" tvg-id="HBOSLHD" tvc-guide-stationid="80120",HBO Signature
 http://example.local/GTM-HBOSLHD.ts
-#EXTINF:-1 tvg-chno="80115" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_h3_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="HBOXMXH" tvc-guide-stationid="80115",HBO Xtreme
-http://example.local/GTM-HBOXMXH.ts
 #EXTINF:-1 tvg-chno="34887" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="HBOXMX" tvc-guide-stationid="34887",HBO Xtreme
 http://example.local/GTM-HBOXMX.ts
 #EXTINF:-1 tvg-chno="57400" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="HBOXMXE" tvc-guide-stationid="57400",HBO Xtreme
 http://example.local/GTM-HBOXMXE.ts
 #EXTINF:-1 tvg-chno="113556" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_h3_ba.png?w=360&h=270" group-title="Guatemala" tvg-id="HBOXLAM" tvc-guide-stationid="113556",HBO Xtreme
 http://example.local/GTM-HBOXLAM.ts
+#EXTINF:-1 tvg-chno="80115" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_h3_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="HBOXMXH" tvc-guide-stationid="80115",HBO Xtreme
+http://example.local/GTM-HBOXMXH.ts
 #EXTINF:-1 tvg-chno="111077" tvg-name="HGTV" tvg-logo="https://zap2it.tmsimg.com/assets/s111055_h3_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="HGTVLAS" tvc-guide-stationid="111077",HGTV
 http://example.local/GTM-HGTVLAS.ts
 #EXTINF:-1 tvg-chno="111055" tvg-name="HGTV" tvg-logo="https://zap2it.tmsimg.com/assets/s111055_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="HGTVLA" tvc-guide-stationid="111055",HGTV
 http://example.local/GTM-HGTVLA.ts
 #EXTINF:-1 tvg-chno="40137" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png?w=360&h=270" group-title="Guatemala" tvg-id="HCLM" tvc-guide-stationid="40137",History
 http://example.local/GTM-HCLM.ts
-#EXTINF:-1 tvg-chno="70669" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png?w=360&h=270" group-title="Guatemala" tvg-id="HCLMHD" tvc-guide-stationid="70669",History
-http://example.local/GTM-HCLMHD.ts
 #EXTINF:-1 tvg-chno="48157" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png?w=360&h=270" group-title="Guatemala" tvg-id="HCLI" tvc-guide-stationid="48157",History
 http://example.local/GTM-HCLI.ts
+#EXTINF:-1 tvg-chno="70669" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png?w=360&h=270" group-title="Guatemala" tvg-id="HCLMHD" tvc-guide-stationid="70669",History
+http://example.local/GTM-HCLMHD.ts
 #EXTINF:-1 tvg-chno="89238" tvg-name="History 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_h3_ba.png?w=360&h=270" group-title="Guatemala" tvg-id="H2LAME" tvc-guide-stationid="89238",History 2
 http://example.local/GTM-H2LAME.ts
 #EXTINF:-1 tvg-chno="80374" tvg-name="History 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_ll_h15_ae.png?w=360&h=270" group-title="Guatemala" tvg-id="H2LAM" tvc-guide-stationid="80374",History 2
@@ -597,10 +597,10 @@ http://example.local/GTM-H2LAM.ts
 http://example.local/GTM-HLN.ts
 #EXTINF:-1 tvg-chno="14902" tvg-name="Home & Garden Television" tvg-logo="https://zap2it.tmsimg.com/assets/s14902_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="HGTV" tvc-guide-stationid="14902",Home & Garden Television
 http://example.local/GTM-HGTV.ts
-#EXTINF:-1 tvg-chno="15969" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="HTVLA" tvc-guide-stationid="15969",HTV
-http://example.local/GTM-HTVLA.ts
 #EXTINF:-1 tvg-chno="110785" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="HTVLAH" tvc-guide-stationid="110785",HTV
 http://example.local/GTM-HTVLAH.ts
+#EXTINF:-1 tvg-chno="15969" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="HTVLA" tvc-guide-stationid="15969",HTV
+http://example.local/GTM-HTVLA.ts
 #EXTINF:-1 tvg-chno="52760" tvg-name="HTV Musica On Demand" group-title="Guatemala" tvg-id="HTVMUDM" tvc-guide-stationid="52760",HTV Musica On Demand
 http://example.local/GTM-HTVMUDM.ts
 #EXTINF:-1 tvg-chno="45498" tvg-name="Hustler TV" tvg-logo="https://zap2it.tmsimg.com/assets/s45498_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="HUSTLR" tvc-guide-stationid="45498",Hustler TV
@@ -787,18 +787,18 @@ http://example.local/GTM-SKYWKND.ts
 http://example.local/GTM-SKYVIEW.ts
 #EXTINF:-1 tvg-chno="70351" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="SPACES" tvc-guide-stationid="70351",Space
 http://example.local/GTM-SPACES.ts
-#EXTINF:-1 tvg-chno="66349" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="SPACMHD" tvc-guide-stationid="66349",Space
-http://example.local/GTM-SPACMHD.ts
 #EXTINF:-1 tvg-chno="69490" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="SPACEEH" tvc-guide-stationid="69490",Space
 http://example.local/GTM-SPACEEH.ts
+#EXTINF:-1 tvg-chno="66349" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="SPACMHD" tvc-guide-stationid="66349",Space
+http://example.local/GTM-SPACMHD.ts
 #EXTINF:-1 tvg-chno="66846" tvg-name="SPAN BBC World News" tvg-logo="https://zap2it.tmsimg.com/assets/s36844_ll_h15_ad.png?w=360&h=270" group-title="Guatemala" tvg-id="SBBCWLD" tvc-guide-stationid="66846",SPAN BBC World News
 http://example.local/GTM-SBBCWLD.ts
-#EXTINF:-1 tvg-chno="74574" tvg-name="Star Action" tvg-logo="https://zap2it.tmsimg.com/assets/s58835_ll_h15_ac.png?w=360&h=270" group-title="Guatemala" tvg-id="STRACHD" tvc-guide-stationid="74574",Star Action
-http://example.local/GTM-STRACHD.ts
 #EXTINF:-1 tvg-chno="58828" tvg-name="Star Action" tvg-logo="https://zap2it.tmsimg.com/assets/s58835_ll_h15_ac.png?w=360&h=270" group-title="Guatemala" tvg-id="STARACE" tvc-guide-stationid="58828",Star Action
 http://example.local/GTM-STARACE.ts
 #EXTINF:-1 tvg-chno="58835" tvg-name="Star Action" tvg-logo="https://zap2it.tmsimg.com/assets/s58835_ll_h15_ac.png?w=360&h=270" group-title="Guatemala" tvg-id="STRACO" tvc-guide-stationid="58835",Star Action
 http://example.local/GTM-STRACO.ts
+#EXTINF:-1 tvg-chno="74574" tvg-name="Star Action" tvg-logo="https://zap2it.tmsimg.com/assets/s58835_ll_h15_ac.png?w=360&h=270" group-title="Guatemala" tvg-id="STRACHD" tvc-guide-stationid="74574",Star Action
+http://example.local/GTM-STRACHD.ts
 #EXTINF:-1 tvg-chno="15688" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_ll_h15_ac.png?w=360&h=270" group-title="Guatemala" tvg-id="STARMEX" tvc-guide-stationid="15688",Star Channel
 http://example.local/GTM-STARMEX.ts
 #EXTINF:-1 tvg-chno="92111" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_h3_ba.png?w=360&h=270" group-title="Guatemala" tvg-id="STRANHD" tvc-guide-stationid="92111",Star Channel
@@ -817,10 +817,10 @@ http://example.local/GTM-STARFAM.ts
 http://example.local/GTM-STARFO.ts
 #EXTINF:-1 tvg-chno="92028" tvg-name="STAR FUN" tvg-logo="https://zap2it.tmsimg.com/assets/s65399_ll_h15_ac.png?w=360&h=270" group-title="Guatemala" tvg-id="STRFAEH" tvc-guide-stationid="92028",STAR FUN
 http://example.local/GTM-STRFAEH.ts
-#EXTINF:-1 tvg-chno="73049" tvg-name="Star Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s58833_ll_h15_ae.png?w=360&h=270" group-title="Guatemala" tvg-id="STARHHD" tvc-guide-stationid="73049",Star Hits
-http://example.local/GTM-STARHHD.ts
 #EXTINF:-1 tvg-chno="58833" tvg-name="Star Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s58833_ll_h15_ae.png?w=360&h=270" group-title="Guatemala" tvg-id="STARHIT" tvc-guide-stationid="58833",Star Hits
 http://example.local/GTM-STARHIT.ts
+#EXTINF:-1 tvg-chno="73049" tvg-name="Star Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s58833_ll_h15_ae.png?w=360&h=270" group-title="Guatemala" tvg-id="STARHHD" tvc-guide-stationid="73049",Star Hits
+http://example.local/GTM-STARHHD.ts
 #EXTINF:-1 tvg-chno="49263" tvg-name="Star Life" tvg-logo="https://zap2it.tmsimg.com/assets/s49263_ll_h15_ab.png?w=360&h=270" group-title="Guatemala" tvg-id="STARLAT" tvc-guide-stationid="49263",Star Life
 http://example.local/GTM-STARLAT.ts
 #EXTINF:-1 tvg-chno="97256" tvg-name="Star Life" tvg-logo="https://zap2it.tmsimg.com/assets/s49263_h3_aa.png?w=360&h=270" group-title="Guatemala" tvg-id="STLARHD" tvc-guide-stationid="97256",Star Life

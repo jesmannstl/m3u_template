@@ -29,6 +29,10 @@ http://example.local/POL-4FUNDNC.ts
 http://example.local/POL-4FUFIDA.ts
 #EXTINF:-1 tvg-chno="119334" tvg-name="4fun Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s119334_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="4FUNKIDS" tvc-guide-stationid="119334",4fun Kids
 http://example.local/POL-4FUNKIDS.ts
+#EXTINF:-1 tvg-chno="174910" tvg-name="4Fun Kids HD" group-title="Poland" tvg-id="4FUNKID" tvc-guide-stationid="174910",4Fun Kids HD
+http://example.local/POL-4FUNKID.ts
+#EXTINF:-1 tvg-chno="174908" tvg-name="4Fun TV HD" group-title="Poland" tvg-id="4FUNTVH" tvc-guide-stationid="174908",4Fun TV HD
+http://example.local/POL-4FUNTVH.ts
 #EXTINF:-1 tvg-chno="100912" tvg-name="4Fun.TV" tvg-logo="https://zap2it.tmsimg.com/assets/s100912_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="4FUNTV" tvc-guide-stationid="100912",4Fun.TV
 http://example.local/POL-4FUNTV.ts
 #EXTINF:-1 tvg-chno="125458" tvg-name="a.tv HD" tvg-logo="https://zap2it.tmsimg.com/assets/s125458_ll_h9_aa.png?w=360&h=270" group-title="Poland" tvg-id="ATVSAT" tvc-guide-stationid="125458",a.tv HD
@@ -123,6 +127,8 @@ http://example.local/POL-ATHAQAF.ts
 http://example.local/POL-AUGSBHD.ts
 #EXTINF:-1 tvg-chno="118872" tvg-name="AXN Black" tvg-logo="https://zap2it.tmsimg.com/assets/s118872_ll_h9_aa.png?w=360&h=270" group-title="Poland" tvg-id="AXNBLPL" tvc-guide-stationid="118872",AXN Black
 http://example.local/POL-AXNBLPL.ts
+#EXTINF:-1 tvg-chno="175282" tvg-name="AXN Black HD" group-title="Poland" tvg-id="AXNBLCK" tvc-guide-stationid="175282",AXN Black HD
+http://example.local/POL-AXNBLCK.ts
 #EXTINF:-1 tvg-chno="118871" tvg-name="AXN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118871_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="AXNHDPL" tvc-guide-stationid="118871",AXN HD
 http://example.local/POL-AXNHDPL.ts
 #EXTINF:-1 tvg-chno="120358" tvg-name="AXN SD" tvg-logo="https://zap2it.tmsimg.com/assets/s120358_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="AXNSD" tvc-guide-stationid="120358",AXN SD
@@ -133,14 +139,20 @@ http://example.local/POL-AXNSPIN.ts
 http://example.local/POL-AXNSPINSD.ts
 #EXTINF:-1 tvg-chno="118874" tvg-name="AXN White" tvg-logo="https://zap2it.tmsimg.com/assets/s118874_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="AXNWHITE" tvc-guide-stationid="118874",AXN White
 http://example.local/POL-AXNWHITE.ts
+#EXTINF:-1 tvg-chno="175283" tvg-name="AXN White HD" group-title="Poland" tvg-id="AXNWHTE" tvc-guide-stationid="175283",AXN White HD
+http://example.local/POL-AXNWHTE.ts
+#EXTINF:-1 tvg-chno="127983" tvg-name="Babes TV" tvg-logo="https://zap2it.tmsimg.com/assets/s127983_ll_h15_ab.png?w=360&h=270" group-title="Poland" tvg-id="BABETV" tvc-guide-stationid="127983",Babes TV
+http://example.local/POL-BABETV.ts
 #EXTINF:-1 tvg-chno="113312" tvg-name="Babestation 24" group-title="Poland" tvg-id="BABE24D" tvc-guide-stationid="113312",Babestation 24
 http://example.local/POL-BABE24D.ts
+#EXTINF:-1 tvg-chno="48542" tvg-name="Baby TV" tvg-logo="https://zap2it.tmsimg.com/assets/s48542_ll_h15_af.png?w=360&h=270" group-title="Poland" tvg-id="BABYTV" tvc-guide-stationid="48542",Baby TV
+http://example.local/POL-BABYTV.ts
 #EXTINF:-1 tvg-chno="84215" tvg-name="Baden TV" tvg-logo="https://zap2it.tmsimg.com/assets/s84215_ll_h9_aa.png?w=360&h=270" group-title="Poland" tvg-id="BADEN" tvc-guide-stationid="84215",Baden TV
 http://example.local/POL-BADEN.ts
 #EXTINF:-1 tvg-chno="175496" tvg-name="Bambini HD" group-title="Poland" tvg-id="BAMBINI" tvc-guide-stationid="175496",Bambini HD
 http://example.local/POL-BAMBINI.ts
-#EXTINF:-1 tvg-chno="159746" tvg-name="Bang U" tvg-logo="https://zap2it.tmsimg.com/assets/s159746_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="BANGUNL" tvc-guide-stationid="159746",Bang U
-http://example.local/POL-BANGUNL.ts
+#EXTINF:-1 tvg-chno="96303" tvg-name="Bang U HD" group-title="Poland" tvg-id="BANGUHD" tvc-guide-stationid="96303",Bang U HD
+http://example.local/POL-BANGUHD.ts
 #EXTINF:-1 tvg-chno="175487" tvg-name="Bare Knuckle Fighting Championship TV" group-title="Poland" tvg-id="BAREKNC" tvc-guide-stationid="175487",Bare Knuckle Fighting Championship TV
 http://example.local/POL-BAREKNC.ts
 #EXTINF:-1 tvg-chno="83559" tvg-name="Bayerisches Fernsehen Nord HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83559_ll_h15_ac.png?w=360&h=270" group-title="Poland" tvg-id="BFNHD" tvc-guide-stationid="83559",Bayerisches Fernsehen Nord HD
@@ -319,8 +331,8 @@ http://example.local/POL-CINEMXPL.ts
 http://example.local/POL-CLSSCHD.ts
 #EXTINF:-1 tvg-chno="25976" tvg-name="Club MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s25976_ll_h15_ab.png?w=360&h=270" group-title="Poland" tvg-id="CLUBMTV" tvc-guide-stationid="25976",Club MTV
 http://example.local/POL-CLUBMTV.ts
-#EXTINF:-1 tvg-chno="87330" tvg-name="Clubbing TV" tvg-logo="https://zap2it.tmsimg.com/assets/s87330_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="CLUBTVF" tvc-guide-stationid="87330",Clubbing TV
-http://example.local/POL-CLUBTVF.ts
+#EXTINF:-1 tvg-chno="90477" tvg-name="Clubbing TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90477_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="CLUBFHD" tvc-guide-stationid="90477",Clubbing TV HD
+http://example.local/POL-CLUBFHD.ts
 #EXTINF:-1 tvg-chno="16230" tvg-name="CNBC" tvg-logo="https://zap2it.tmsimg.com/assets/s16230_ll_h15_ab.png?w=360&h=270" group-title="Poland" tvg-id="CNBCEU" tvc-guide-stationid="16230",CNBC
 http://example.local/POL-CNBCEU.ts
 #EXTINF:-1 tvg-chno="113145" tvg-name="CNBC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s113145_ll_h15_ab.png?w=360&h=270" group-title="Poland" tvg-id="CNBCEHD" tvc-guide-stationid="113145",CNBC HD
@@ -329,6 +341,8 @@ http://example.local/POL-CNBCEHD.ts
 http://example.local/POL-CNEWSFR.ts
 #EXTINF:-1 tvg-chno="90511" tvg-name="CNews HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90511_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="CNEWSHD" tvc-guide-stationid="90511",CNews HD
 http://example.local/POL-CNEWSHD.ts
+#EXTINF:-1 tvg-chno="68053" tvg-name="CNN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68053_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="CNNEUVM" tvc-guide-stationid="68053",CNN HD
+http://example.local/POL-CNNEUVM.ts
 #EXTINF:-1 tvg-chno="17664" tvg-name="CNN International" tvg-logo="https://zap2it.tmsimg.com/assets/s17664_ll_h15_ab.png?w=360&h=270" group-title="Poland" tvg-id="CNNEU" tvc-guide-stationid="17664",CNN International
 http://example.local/POL-CNNEU.ts
 #EXTINF:-1 tvg-chno="91065" tvg-name="CNN International HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91065_ll_h9_aa.png?w=360&h=270" group-title="Poland" tvg-id="CNNEUHD" tvc-guide-stationid="91065",CNN International HD
@@ -353,6 +367,8 @@ http://example.local/POL-CTVHDPL.ts
 http://example.local/POL-CUBVIS.ts
 #EXTINF:-1 tvg-chno="113657" tvg-name="Cubavisión Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s113657_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="CUBAINT" tvc-guide-stationid="113657",Cubavisión Internacional
 http://example.local/POL-CUBAINT.ts
+#EXTINF:-1 tvg-chno="124089" tvg-name="Current Time" tvg-logo="https://zap2it.tmsimg.com/assets/s124089_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="CRNT" tvc-guide-stationid="124089",Current Time
+http://example.local/POL-CRNT.ts
 #EXTINF:-1 tvg-chno="131811" tvg-name="Current Time HD" tvg-logo="https://zap2it.tmsimg.com/assets/s131811_ll_h9_aa.png?w=360&h=270" group-title="Poland" tvg-id="CURRENT" tvc-guide-stationid="131811",Current Time HD
 http://example.local/POL-CURRENT.ts
 #EXTINF:-1 tvg-chno="118770" tvg-name="Da Vinci HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118770_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="DAVIHDPL" tvc-guide-stationid="118770",Da Vinci HD
@@ -415,8 +431,12 @@ http://example.local/POL-DSNPOL.ts
 http://example.local/POL-DISCHPL.ts
 #EXTINF:-1 tvg-chno="118875" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s118875_ll_h15_ab.png?w=360&h=270" group-title="Poland" tvg-id="DISJRPL" tvc-guide-stationid="118875",Disney Junior
 http://example.local/POL-DISJRPL.ts
+#EXTINF:-1 tvg-chno="97269" tvg-name="Disney Junior UK HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CD0L.png?w=360&h=270" group-title="Poland" tvg-id="DJRUK" tvc-guide-stationid="97269",Disney Junior UK HD
+http://example.local/POL-DJRUK.ts
 #EXTINF:-1 tvg-chno="118668" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s118668_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="DISXDPL" tvc-guide-stationid="118668",Disney XD
 http://example.local/POL-DISXDPL.ts
+#EXTINF:-1 tvg-chno="69352" tvg-name="Disney XD HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69352_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="DISXDHD" tvc-guide-stationid="69352",Disney XD HD
+http://example.local/POL-DISXDHD.ts
 #EXTINF:-1 tvg-chno="100442" tvg-name="Djazz HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100442_ll_h15_ac.png?w=360&h=270" group-title="Poland" tvg-id="DJAZHDE" tvc-guide-stationid="100442",Djazz HD
 http://example.local/POL-DJAZHDE.ts
 #EXTINF:-1 tvg-chno="87387" tvg-name="Djazz TV" tvg-logo="https://zap2it.tmsimg.com/assets/s87387_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="DJAZZTV" tvc-guide-stationid="87387",Djazz TV
@@ -439,6 +459,8 @@ http://example.local/POL-DOCUIT.ts
 http://example.local/POL-DKSATSD.ts
 #EXTINF:-1 tvg-chno="186987" tvg-name="Dolce Vita TV HD" group-title="Poland" tvg-id="DOVIHD" tvc-guide-stationid="186987",Dolce Vita TV HD
 http://example.local/POL-DOVIHD.ts
+#EXTINF:-1 tvg-chno="109711" tvg-name="Dorcel TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s109711_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="DORCLHD" tvc-guide-stationid="109711",Dorcel TV HD
+http://example.local/POL-DORCLHD.ts
 #EXTINF:-1 tvg-chno="77541" tvg-name="Dorcel XXX" tvg-logo="https://zap2it.tmsimg.com/assets/s77541_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="DORCXXX" tvc-guide-stationid="77541",Dorcel XXX
 http://example.local/POL-DORCXXX.ts
 #EXTINF:-1 tvg-chno="99213" tvg-name="Dorcel XXX HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99213_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="DORXHD" tvc-guide-stationid="99213",Dorcel XXX HD
@@ -449,6 +471,8 @@ http://example.local/POL-DUBINTH.ts
 http://example.local/POL-DUBAIHD.ts
 #EXTINF:-1 tvg-chno="79318" tvg-name="DW" tvg-logo="https://zap2it.tmsimg.com/assets/s79318_ll_h15_ab.png?w=360&h=270" group-title="Poland" tvg-id="DWEUR" tvc-guide-stationid="79318",DW
 http://example.local/POL-DWEUR.ts
+#EXTINF:-1 tvg-chno="120691" tvg-name="DW English" tvg-logo="https://zap2it.tmsimg.com/assets/s120691_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="DEUTWE" tvc-guide-stationid="120691",DW English
+http://example.local/POL-DEUTWE.ts
 #EXTINF:-1 tvg-chno="105247" tvg-name="DW HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105247_ll_h9_aa.png?w=360&h=270" group-title="Poland" tvg-id="DWEURHD" tvc-guide-stationid="105247",DW HD
 http://example.local/POL-DWEURHD.ts
 #EXTINF:-1 tvg-chno="175470" tvg-name="DW Russian" group-title="Poland" tvg-id="DWRUSSI" tvc-guide-stationid="175470",DW Russian
@@ -461,6 +485,8 @@ http://example.local/POL-ECHO24.ts
 http://example.local/POL-ELSPO1PL.ts
 #EXTINF:-1 tvg-chno="122136" tvg-name="Eleven Sports 1 4K" tvg-logo="https://zap2it.tmsimg.com/assets/s122136_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="ELSPO1UHD" tvc-guide-stationid="122136",Eleven Sports 1 4K
 http://example.local/POL-ELSPO1UHD.ts
+#EXTINF:-1 tvg-chno="109987" tvg-name="Eleven Sports 1 HD" group-title="Poland" tvg-id="11SP1VM" tvc-guide-stationid="109987",Eleven Sports 1 HD
+http://example.local/POL-11SP1VM.ts
 #EXTINF:-1 tvg-chno="120518" tvg-name="ELEVEN SPORTS 2 PL" group-title="Poland" tvg-id="ELSPO2PL" tvc-guide-stationid="120518",ELEVEN SPORTS 2 PL
 http://example.local/POL-ELSPO2PL.ts
 #EXTINF:-1 tvg-chno="120527" tvg-name="ELEVEN SPORTS 3 PL" tvg-logo="https://zap2it.tmsimg.com/assets/s120527_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="ELSPO3PL" tvc-guide-stationid="120527",ELEVEN SPORTS 3 PL
@@ -515,6 +541,8 @@ http://example.local/POL-EUROITA.ts
 http://example.local/POL-EUROFRA.ts
 #EXTINF:-1 tvg-chno="96485" tvg-name="euronews" tvg-logo="https://zap2it.tmsimg.com/assets/s96485_ll_h15_ab.png?w=360&h=270" group-title="Poland" tvg-id="EUNWRU" tvc-guide-stationid="96485",euronews
 http://example.local/POL-EUNWRU.ts
+#EXTINF:-1 tvg-chno="119166" tvg-name="euronews HD" group-title="Poland" tvg-id="EUNEWSHD" tvc-guide-stationid="119166",euronews HD
+http://example.local/POL-EUNEWSHD.ts
 #EXTINF:-1 tvg-chno="103473" tvg-name="Euronews HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103473_ll_h15_ab.png?w=360&h=270" group-title="Poland" tvg-id="EURNWHD" tvc-guide-stationid="103473",Euronews HD
 http://example.local/POL-EURNWHD.ts
 #EXTINF:-1 tvg-chno="66603" tvg-name="Eurosport 1" tvg-logo="https://zap2it.tmsimg.com/assets/s66603_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="EUROSGR" tvc-guide-stationid="66603",Eurosport 1
@@ -661,10 +689,10 @@ http://example.local/POL-HEALTHD.ts
 http://example.local/POL-HEISSTV.ts
 #EXTINF:-1 tvg-chno="175743" tvg-name="Heisse Dates TV" group-title="Poland" tvg-id="HEISDT" tvc-guide-stationid="175743",Heisse Dates TV
 http://example.local/POL-HEISDT.ts
-#EXTINF:-1 tvg-chno="120519" tvg-name="HGTV" tvg-logo="https://zap2it.tmsimg.com/assets/s120519_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="HGTVSDPL" tvc-guide-stationid="120519",HGTV
-http://example.local/POL-HGTVSDPL.ts
 #EXTINF:-1 tvg-chno="21257" tvg-name="HGTV" tvg-logo="https://zap2it.tmsimg.com/assets/s21257_ll_h15_ad.png?w=360&h=270" group-title="Poland" tvg-id="HGTVUK" tvc-guide-stationid="21257",HGTV
 http://example.local/POL-HGTVUK.ts
+#EXTINF:-1 tvg-chno="120519" tvg-name="HGTV" tvg-logo="https://zap2it.tmsimg.com/assets/s120519_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="HGTVSDPL" tvc-guide-stationid="120519",HGTV
+http://example.local/POL-HGTVSDPL.ts
 #EXTINF:-1 tvg-chno="118306" tvg-name="HGTV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118306_ll_h15_ab.png?w=360&h=270" group-title="Poland" tvg-id="HGTVPL" tvc-guide-stationid="118306",HGTV HD
 http://example.local/POL-HGTVPL.ts
 #EXTINF:-1 tvg-chno="144656" tvg-name="hip trips" tvg-logo="https://zap2it.tmsimg.com/assets/s137719_h3_aa.png?w=360&h=270" group-title="Poland" tvg-id="HIPTRSD" tvc-guide-stationid="144656",hip trips
@@ -715,6 +743,8 @@ http://example.local/POL-ITFISH.ts
 http://example.local/POL-JJWHD.ts
 #EXTINF:-1 tvg-chno="117123" tvg-name="JimJam Polsat" tvg-logo="https://zap2it.tmsimg.com/assets/s117123_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="JIJAPL" tvc-guide-stationid="117123",JimJam Polsat
 http://example.local/POL-JIJAPL.ts
+#EXTINF:-1 tvg-chno="175280" tvg-name="JimJam Polsat HD" group-title="Poland" tvg-id="JIMJAMP" tvc-guide-stationid="175280",JimJam Polsat HD
+http://example.local/POL-JIMJAMP.ts
 #EXTINF:-1 tvg-chno="175029" tvg-name="Jin TV" group-title="Poland" tvg-id="JINTV" tvc-guide-stationid="175029",Jin TV
 http://example.local/POL-JINTV.ts
 #EXTINF:-1 tvg-chno="162304" tvg-name="Junior Channel" group-title="Poland" tvg-id="JUNIORPL" tvc-guide-stationid="162304",Junior Channel
@@ -837,8 +867,6 @@ http://example.local/POL-METRPLH.ts
 http://example.local/POL-MEZZOFR.ts
 #EXTINF:-1 tvg-chno="79428" tvg-name="Mezzo Live" tvg-logo="https://zap2it.tmsimg.com/assets/s79428_ll_h15_ab.png?w=360&h=270" group-title="Poland" tvg-id="MEZZLHD" tvc-guide-stationid="79428",Mezzo Live
 http://example.local/POL-MEZZLHD.ts
-#EXTINF:-1 tvg-chno="120333" tvg-name="MINIMINI+" group-title="Poland" tvg-id="MINIPLUS" tvc-guide-stationid="120333",MINIMINI+
-http://example.local/POL-MINIPLUS.ts
 #EXTINF:-1 tvg-chno="118303" tvg-name="MiniMini+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118303_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="MINIMINI" tvc-guide-stationid="118303",MiniMini+ HD
 http://example.local/POL-MINIMINI.ts
 #EXTINF:-1 tvg-chno="122681" tvg-name="MIXTAPE TV" tvg-logo="https://zap2it.tmsimg.com/assets/s122681_ll_h9_aa.png?w=360&h=270" group-title="Poland" tvg-id="MIXTAPETV" tvc-guide-stationid="122681",MIXTAPE TV
@@ -861,14 +889,18 @@ http://example.local/POL-MTV90S.ts
 http://example.local/POL-MTVGERH.ts
 #EXTINF:-1 tvg-chno="119351" tvg-name="MTV Hits" group-title="Poland" tvg-id="MTVHITPL" tvc-guide-stationid="119351",MTV Hits
 http://example.local/POL-MTVHITPL.ts
+#EXTINF:-1 tvg-chno="155293" tvg-name="MTV Hits HD" group-title="Poland" tvg-id="MTVITSHD" tvc-guide-stationid="155293",MTV Hits HD
+http://example.local/POL-MTVITSHD.ts
 #EXTINF:-1 tvg-chno="89004" tvg-name="MTV Hits International" tvg-logo="https://zap2it.tmsimg.com/assets/s89004_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="MTVHTSI" tvc-guide-stationid="89004",MTV Hits International
 http://example.local/POL-MTVHTSI.ts
-#EXTINF:-1 tvg-chno="97287" tvg-name="MTV Live" tvg-logo="https://zap2it.tmsimg.com/assets/s97287_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="MTVLVUK" tvc-guide-stationid="97287",MTV Live
-http://example.local/POL-MTVLVUK.ts
 #EXTINF:-1 tvg-chno="74635" tvg-name="MTV Live HD" tvg-logo="https://zap2it.tmsimg.com/assets/s74635_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="MTVLHDE" tvc-guide-stationid="74635",MTV Live HD
 http://example.local/POL-MTVLHDE.ts
+#EXTINF:-1 tvg-chno="119352" tvg-name="MTV Live HD" group-title="Poland" tvg-id="MTVLIVEPL" tvc-guide-stationid="119352",MTV Live HD
+http://example.local/POL-MTVLIVEPL.ts
 #EXTINF:-1 tvg-chno="120524" tvg-name="MTV Polska" tvg-logo="https://zap2it.tmsimg.com/assets/s120524_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="MTVPLSK" tvc-guide-stationid="120524",MTV Polska
 http://example.local/POL-MTVPLSK.ts
+#EXTINF:-1 tvg-chno="116952" tvg-name="MTV Polska HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116952_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="MTVPLH" tvc-guide-stationid="116952",MTV Polska HD
+http://example.local/POL-MTVPLH.ts
 #EXTINF:-1 tvg-chno="120525" tvg-name="Music Box Poland" tvg-logo="https://zap2it.tmsimg.com/assets/s120525_ll_h9_aa.png?w=360&h=270" group-title="Poland" tvg-id="MUBXPLSD" tvc-guide-stationid="120525",Music Box Poland
 http://example.local/POL-MUBXPLSD.ts
 #EXTINF:-1 tvg-chno="118365" tvg-name="Music Box Polska HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118365_ll_h9_aa.png?w=360&h=270" group-title="Poland" tvg-id="MUBOXPL" tvc-guide-stationid="118365",Music Box Polska HD
@@ -923,12 +955,16 @@ http://example.local/POL-NICKJPL.ts
 http://example.local/POL-NICKJRPLH.ts
 #EXTINF:-1 tvg-chno="116981" tvg-name="Nick Music" tvg-logo="https://zap2it.tmsimg.com/assets/s116981_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="NICKMPL" tvc-guide-stationid="116981",Nick Music
 http://example.local/POL-NICKMPL.ts
+#EXTINF:-1 tvg-chno="175287" tvg-name="Nick Music HD" group-title="Poland" tvg-id="NIKMPLH" tvc-guide-stationid="175287",Nick Music HD
+http://example.local/POL-NIKMPLH.ts
 #EXTINF:-1 tvg-chno="112728" tvg-name="Nick/Comedy Central +1" tvg-logo="https://zap2it.tmsimg.com/assets/s112728_ll_h15_ae.png?w=360&h=270" group-title="Poland" tvg-id="NICKCC" tvc-guide-stationid="112728",Nick/Comedy Central +1
 http://example.local/POL-NICKCC.ts
 #EXTINF:-1 tvg-chno="116954" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s116954_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="NICKPL" tvc-guide-stationid="116954",Nickelodeon
 http://example.local/POL-NICKPL.ts
 #EXTINF:-1 tvg-chno="83626" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s83626_ll_h15_ab.png?w=360&h=270" group-title="Poland" tvg-id="NICKDEU" tvc-guide-stationid="83626",Nickelodeon
 http://example.local/POL-NICKDEU.ts
+#EXTINF:-1 tvg-chno="175286" tvg-name="Nickelodeon HD" group-title="Poland" tvg-id="NICKPLHD" tvc-guide-stationid="175286",Nickelodeon HD
+http://example.local/POL-NICKPLHD.ts
 #EXTINF:-1 tvg-chno="120528" tvg-name="Nicktoons" tvg-logo="https://zap2it.tmsimg.com/assets/s120528_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="NICKTPL" tvc-guide-stationid="120528",Nicktoons
 http://example.local/POL-NICKTPL.ts
 #EXTINF:-1 tvg-chno="116955" tvg-name="Nicktoons HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116955_ll_h15_ab.png?w=360&h=270" group-title="Poland" tvg-id="NIKTPLH" tvc-guide-stationid="116955",Nicktoons HD
@@ -1035,8 +1071,6 @@ http://example.local/POL-PLSTCAFE.ts
 http://example.local/POL-COMFPLH.ts
 #EXTINF:-1 tvg-chno="119075" tvg-name="Polsat Doku HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119075_ll_h15_ab.png?w=360&h=270" group-title="Poland" tvg-id="PLSTDOKU" tvc-guide-stationid="119075",Polsat Doku HD
 http://example.local/POL-PLSTDOKU.ts
-#EXTINF:-1 tvg-chno="120612" tvg-name="POLSAT DOKU SD" tvg-logo="https://zap2it.tmsimg.com/assets/s120612_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="PLSTDOKUSD" tvc-guide-stationid="120612",POLSAT DOKU SD
-http://example.local/POL-PLSTDOKUSD.ts
 #EXTINF:-1 tvg-chno="186665" tvg-name="Polsat Film 2 HD" group-title="Poland" tvg-id="POLF2HD" tvc-guide-stationid="186665",Polsat Film 2 HD
 http://example.local/POL-POLF2HD.ts
 #EXTINF:-1 tvg-chno="118428" tvg-name="Polsat Film HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118428_ll_h15_ab.png?w=360&h=270" group-title="Poland" tvg-id="POLFILMHD" tvc-guide-stationid="118428",Polsat Film HD
@@ -1063,8 +1097,6 @@ http://example.local/POL-PLSTNEWHD.ts
 http://example.local/POL-POLNWPL.ts
 #EXTINF:-1 tvg-chno="152513" tvg-name="Polsat News Polityka HD" group-title="Poland" tvg-id="POLNEW" tvc-guide-stationid="152513",Polsat News Polityka HD
 http://example.local/POL-POLNEW.ts
-#EXTINF:-1 tvg-chno="120335" tvg-name="Polsat Play" tvg-logo="https://zap2it.tmsimg.com/assets/s120335_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="POLSPLAY" tvc-guide-stationid="120335",Polsat Play
-http://example.local/POL-POLSPLAY.ts
 #EXTINF:-1 tvg-chno="118429" tvg-name="Polsat Play HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118429_ll_h15_ab.png?w=360&h=270" group-title="Poland" tvg-id="PLSTPLYHD" tvc-guide-stationid="118429",Polsat Play HD
 http://example.local/POL-PLSTPLYHD.ts
 #EXTINF:-1 tvg-chno="186663" tvg-name="Polsat Reality HD" group-title="Poland" tvg-id="POLREHD" tvc-guide-stationid="186663",Polsat Reality HD
@@ -1209,10 +1241,10 @@ http://example.local/POL-RBBBRHD.ts
 http://example.local/POL-RDSITA.ts
 #EXTINF:-1 tvg-chno="187453" tvg-name="RDS Social TV 4K" group-title="Poland" tvg-id="RDSSO4K" tvc-guide-stationid="187453",RDS Social TV 4K
 http://example.local/POL-RDSSO4K.ts
+#EXTINF:-1 tvg-chno="174733" tvg-name="Reality Kings HD" group-title="Poland" tvg-id="REALKNG" tvc-guide-stationid="174733",Reality Kings HD
+http://example.local/POL-REALKNG.ts
 #EXTINF:-1 tvg-chno="65223" tvg-name="Reality Kings TV" tvg-logo="https://zap2it.tmsimg.com/assets/s65223_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="RKTV" tvc-guide-stationid="65223",Reality Kings TV
 http://example.local/POL-RKTV.ts
-#EXTINF:-1 tvg-chno="156403" tvg-name="Reality Kings TV" group-title="Poland" tvg-id="REALKIN" tvc-guide-stationid="156403",Reality Kings TV
-http://example.local/POL-REALKIN.ts
 #EXTINF:-1 tvg-chno="186666" tvg-name="Red Carpet TV" group-title="Poland" tvg-id="REDCATV" tvc-guide-stationid="186666",Red Carpet TV
 http://example.local/POL-REDCATV.ts
 #EXTINF:-1 tvg-chno="118489" tvg-name="Red Carpet TV HD" group-title="Poland" tvg-id="REDCARP" tvc-guide-stationid="118489",Red Carpet TV HD
@@ -1237,8 +1269,6 @@ http://example.local/POL-RICRC.ts
 http://example.local/POL-RIKSATEU.ts
 #EXTINF:-1 tvg-chno="117308" tvg-name="Romance TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s117308_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="ROMAPLH" tvc-guide-stationid="117308",Romance TV HD
 http://example.local/POL-ROMAPLH.ts
-#EXTINF:-1 tvg-chno="120650" tvg-name="Romance TV SD (POLAND)" tvg-logo="https://zap2it.tmsimg.com/assets/s120650_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="ROMAPLSD" tvc-guide-stationid="120650",Romance TV SD (POLAND)
-http://example.local/POL-ROMAPLSD.ts
 #EXTINF:-1 tvg-chno="186861" tvg-name="RTK HD" group-title="Poland" tvg-id="RTKHD" tvc-guide-stationid="186861",RTK HD
 http://example.local/POL-RTKHD.ts
 #EXTINF:-1 tvg-chno="52564" tvg-name="RTL" tvg-logo="https://zap2it.tmsimg.com/assets/s52564_ll_h9_ac.png?w=360&h=270" group-title="Poland" tvg-id="RTLGER" tvc-guide-stationid="52564",RTL
@@ -1337,6 +1367,8 @@ http://example.local/POL-SKLKPTN.ts
 http://example.local/POL-SKYNEWS.ts
 #EXTINF:-1 tvg-chno="117314" tvg-name="Sky News Arabia" tvg-logo="https://zap2it.tmsimg.com/assets/s117314_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="SKYNAUK" tvc-guide-stationid="117314",Sky News Arabia
 http://example.local/POL-SKYNAUK.ts
+#EXTINF:-1 tvg-chno="67040" tvg-name="Sky News HD" tvg-logo="https://zap2it.tmsimg.com/assets/s67040_ll_h9_aa.png?w=360&h=270" group-title="Poland" tvg-id="SNEWSHD" tvc-guide-stationid="67040",Sky News HD
+http://example.local/POL-SNEWSHD.ts
 #EXTINF:-1 tvg-chno="83874" tvg-name="Sky News International" tvg-logo="https://zap2it.tmsimg.com/assets/s83874_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="SNEWSIN" tvc-guide-stationid="83874",Sky News International
 http://example.local/POL-SNEWSIN.ts
 #EXTINF:-1 tvg-chno="161357" tvg-name="Sky Showtime 1" group-title="Poland" tvg-id="SKYST1PL" tvc-guide-stationid="161357",Sky Showtime 1
@@ -1379,6 +1411,10 @@ http://example.local/POL-SWRSRHD.ts
 http://example.local/POL-SRFINHD.ts
 #EXTINF:-1 tvg-chno="187455" tvg-name="SRS TV" group-title="Poland" tvg-id="SRSTVSD" tvc-guide-stationid="187455",SRS TV
 http://example.local/POL-SRSTVSD.ts
+#EXTINF:-1 tvg-chno="117337" tvg-name="Star Cinema" group-title="Poland" tvg-id="STARCIN" tvc-guide-stationid="117337",Star Cinema
+http://example.local/POL-STARCIN.ts
+#EXTINF:-1 tvg-chno="119216" tvg-name="Star Family" group-title="Poland" tvg-id="STARFUA" tvc-guide-stationid="119216",Star Family
+http://example.local/POL-STARFUA.ts
 #EXTINF:-1 tvg-chno="169925" tvg-name="STARS.TV" group-title="Poland" tvg-id="STARSSD" tvc-guide-stationid="169925",STARS.TV
 http://example.local/POL-STARSSD.ts
 #EXTINF:-1 tvg-chno="118775" tvg-name="STARS.TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118775_ll_h15_ag.png?w=360&h=270" group-title="Poland" tvg-id="STARSPL" tvc-guide-stationid="118775",STARS.TV HD
@@ -1401,8 +1437,6 @@ http://example.local/POL-STOKPLHSD.ts
 http://example.local/POL-STUDMED.ts
 #EXTINF:-1 tvg-chno="124687" tvg-name="Studiomed TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s124687_ll_h9_aa.png?w=360&h=270" group-title="Poland" tvg-id="STUDIOMED" tvc-guide-stationid="124687",Studiomed TV HD
 http://example.local/POL-STUDIOMED.ts
-#EXTINF:-1 tvg-chno="102816" tvg-name="Sundance" tvg-logo="https://zap2it.tmsimg.com/assets/s102816_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="SUNDEU" tvc-guide-stationid="102816",Sundance
-http://example.local/POL-SUNDEU.ts
 #EXTINF:-1 tvg-chno="117130" tvg-name="Sundance TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s117130_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="SUNDPLH" tvc-guide-stationid="117130",Sundance TV HD
 http://example.local/POL-SUNDPLH.ts
 #EXTINF:-1 tvg-chno="119080" tvg-name="Super Polsat HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119080_ll_h15_ab.png?w=360&h=270" group-title="Poland" tvg-id="SUPPLST" tvc-guide-stationid="119080",Super Polsat HD
@@ -1415,6 +1449,8 @@ http://example.local/POL-SUPRTL.ts
 http://example.local/POL-SRTLOST.ts
 #EXTINF:-1 tvg-chno="175473" tvg-name="SVOBODA" group-title="Poland" tvg-id="SVOBODA" tvc-guide-stationid="175473",SVOBODA
 http://example.local/POL-SVOBODA.ts
+#EXTINF:-1 tvg-chno="175474" tvg-name="SVOBODA NEWS" group-title="Poland" tvg-id="SVOBNWS" tvc-guide-stationid="175474",SVOBODA NEWS
+http://example.local/POL-SVOBNWS.ts
 #EXTINF:-1 tvg-chno="83772" tvg-name="SWR Fernsehen BW HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83772_ll_h15_ae.png?w=360&h=270" group-title="Poland" tvg-id="SFBWHD" tvc-guide-stationid="83772",SWR Fernsehen BW HD
 http://example.local/POL-SFBWHD.ts
 #EXTINF:-1 tvg-chno="83775" tvg-name="SWR Fernsehen RP HD (SW3BWG)" tvg-logo="https://zap2it.tmsimg.com/assets/s83775_ll_h15_ac.png?w=360&h=270" group-title="Poland" tvg-id="SFRPHD" tvc-guide-stationid="83775",SWR Fernsehen RP HD (SW3BWG)
@@ -1453,8 +1489,6 @@ http://example.local/POL-TELSURE.ts
 http://example.local/POL-TESURHD.ts
 #EXTINF:-1 tvg-chno="118305" tvg-name="Teletoon+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118305_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="TELETOON" tvc-guide-stationid="118305",Teletoon+ HD
 http://example.local/POL-TELETOON.ts
-#EXTINF:-1 tvg-chno="120655" tvg-name="TELETOON+ SD" tvg-logo="https://zap2it.tmsimg.com/assets/s120655_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="TELETOONSD" tvc-guide-stationid="120655",TELETOON+ SD
-http://example.local/POL-TELETOONSD.ts
 #EXTINF:-1 tvg-chno="174904" tvg-name="Telewizja Lubań HD" group-title="Poland" tvg-id="LUBANTV" tvc-guide-stationid="174904",Telewizja Lubań HD
 http://example.local/POL-LUBANTV.ts
 #EXTINF:-1 tvg-chno="184128" tvg-name="Telewizja Obiektyw" group-title="Poland" tvg-id="TELOBKT" tvc-guide-stationid="184128",Telewizja Obiektyw
@@ -1557,6 +1591,8 @@ http://example.local/POL-TV6HDPL.ts
 http://example.local/POL-TV8ITAL.ts
 #EXTINF:-1 tvg-chno="103940" tvg-name="TVA Ostbayern HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103940_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="TVAOBHD" tvc-guide-stationid="103940",TVA Ostbayern HD
 http://example.local/POL-TVAOBHD.ts
+#EXTINF:-1 tvg-chno="174906" tvg-name="TVC" group-title="Poland" tvg-id="TVCPL" tvc-guide-stationid="174906",TVC
+http://example.local/POL-TVCPL.ts
 #EXTINF:-1 tvg-chno="120672" tvg-name="TVC" tvg-logo="https://zap2it.tmsimg.com/assets/s120672_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="TVCSDPL" tvc-guide-stationid="120672",TVC
 http://example.local/POL-TVCSDPL.ts
 #EXTINF:-1 tvg-chno="119073" tvg-name="TVC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119073_ll_h15_ab.png?w=360&h=270" group-title="Poland" tvg-id="TVCHDPL" tvc-guide-stationid="119073",TVC HD
@@ -1655,8 +1691,6 @@ http://example.local/POL-TVP3LODHD.ts
 http://example.local/POL-TVPABC.ts
 #EXTINF:-1 tvg-chno="162305" tvg-name="TVP ABC 2 HD" group-title="Poland" tvg-id="TVPABC2HD" tvc-guide-stationid="162305",TVP ABC 2 HD
 http://example.local/POL-TVPABC2HD.ts
-#EXTINF:-1 tvg-chno="174915" tvg-name="TVP Alfa" group-title="Poland" tvg-id="ALFAPL" tvc-guide-stationid="174915",TVP Alfa
-http://example.local/POL-ALFAPL.ts
 #EXTINF:-1 tvg-chno="140760" tvg-name="TVP Alfa HD" tvg-logo="https://zap2it.tmsimg.com/assets/s140760_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="TVPALFA" tvc-guide-stationid="140760",TVP Alfa HD
 http://example.local/POL-TVPALFA.ts
 #EXTINF:-1 tvg-chno="118769" tvg-name="TVP Dokument HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118769_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="TVPDOHD" tvc-guide-stationid="118769",TVP Dokument HD
@@ -1747,6 +1781,8 @@ http://example.local/POL-VAL24IT.ts
 http://example.local/POL-VATICAN.ts
 #EXTINF:-1 tvg-chno="159239" tvg-name="Viasat True Crime" group-title="Poland" tvg-id="VIATCPL" tvc-guide-stationid="159239",Viasat True Crime
 http://example.local/POL-VIATCPL.ts
+#EXTINF:-1 tvg-chno="177394" tvg-name="Viasat True Crime HD" group-title="Poland" tvg-id="VIASTTC" tvc-guide-stationid="177394",Viasat True Crime HD
+http://example.local/POL-VIASTTC.ts
 #EXTINF:-1 tvg-chno="183975" tvg-name="ViDoc TV" group-title="Poland" tvg-id="VIDOCTV" tvc-guide-stationid="183975",ViDoc TV
 http://example.local/POL-VIDOCTV.ts
 #EXTINF:-1 tvg-chno="174907" tvg-name="ViDoc TV 4K" group-title="Poland" tvg-id="VIDOC4K" tvc-guide-stationid="174907",ViDoc TV 4K
@@ -1825,6 +1861,8 @@ http://example.local/POL-WEDOTV.ts
 http://example.local/POL-WELTDE.ts
 #EXTINF:-1 tvg-chno="94648" tvg-name="Welt der Wunder" tvg-logo="https://zap2it.tmsimg.com/assets/s94648_ll_h15_aa.png?w=360&h=270" group-title="Poland" tvg-id="WELTDW" tvc-guide-stationid="94648",Welt der Wunder
 http://example.local/POL-WELTDW.ts
+#EXTINF:-1 tvg-chno="83625" tvg-name="Welt HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83625_ll_h15_ab.png?w=360&h=270" group-title="Poland" tvg-id="WELTHDE" tvc-guide-stationid="83625",Welt HD
+http://example.local/POL-WELTHDE.ts
 #EXTINF:-1 tvg-chno="45324" tvg-name="WILD TV" tvg-logo="https://zap2it.tmsimg.com/assets/s45324_ll_h15_ac.png?w=360&h=270" group-title="Poland" tvg-id="WILDTV" tvc-guide-stationid="45324",WILD TV
 http://example.local/POL-WILDTV.ts
 #EXTINF:-1 tvg-chno="175484" tvg-name="WNS.TEL" group-title="Poland" tvg-id="WNSTEL" tvc-guide-stationid="175484",WNS.TEL

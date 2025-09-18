@@ -943,8 +943,6 @@ http://example.local/GBR-FAST11VM.ts
 http://example.local/GBR-GRXMAS.ts
 #EXTINF:-1 tvg-chno="100262" tvg-name="Great Movies (VM)" tvg-logo="https://zap2it.tmsimg.com/assets/s100262_ll_h15_ab.png?w=360&h=270" group-title="United Kingdom" tvg-id="GRTMOVM" tvc-guide-stationid="100262",Great Movies (VM)
 http://example.local/GBR-GRTMOVM.ts
-#EXTINF:-1 tvg-chno="97281" tvg-name="Great Movies +1" tvg-logo="https://zap2it.tmsimg.com/assets/s97281_ll_h15_ad.png?w=360&h=270" group-title="United Kingdom" tvg-id="GRTMOP1" tvc-guide-stationid="97281",Great Movies +1
-http://example.local/GBR-GRTMOP1.ts
 #EXTINF:-1 tvg-chno="100261" tvg-name="Great Movies Action (VM)" tvg-logo="https://zap2it.tmsimg.com/assets/s100261_ll_h15_ab.png?w=360&h=270" group-title="United Kingdom" tvg-id="GRTMAVM" tvc-guide-stationid="100261",Great Movies Action (VM)
 http://example.local/GBR-GRTMAVM.ts
 #EXTINF:-1 tvg-chno="89657" tvg-name="Great TV +1" tvg-logo="https://zap2it.tmsimg.com/assets/s89657_ll_h15_ac.png?w=360&h=270" group-title="United Kingdom" tvg-id="GRETP1A" tvc-guide-stationid="89657",Great TV +1
@@ -953,10 +951,12 @@ http://example.local/GBR-GRETP1A.ts
 http://example.local/GBR-GRTMACT.ts
 #EXTINF:-1 tvg-chno="59406" tvg-name="Great! Action +1" tvg-logo="https://zap2it.tmsimg.com/assets/s59406_ll_h9_ac.png?w=360&h=270" group-title="United Kingdom" tvg-id="GRTMAP1" tvc-guide-stationid="59406",Great! Action +1
 http://example.local/GBR-GRTMAP1.ts
-#EXTINF:-1 tvg-chno="81450" tvg-name="GREAT! movies" tvg-logo="https://zap2it.tmsimg.com/assets/s81450_ll_h15_ad.png?w=360&h=270" group-title="United Kingdom" tvg-id="GRETMOV" tvc-guide-stationid="81450",GREAT! movies
-http://example.local/GBR-GRETMOV.ts
+#EXTINF:-1 tvg-chno="81450" tvg-name="Great! Mystery" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BMG3.png?w=360&h=270" group-title="United Kingdom" tvg-id="GRETMYS" tvc-guide-stationid="81450",Great! Mystery
+http://example.local/GBR-GRETMYS.ts
 #EXTINF:-1 tvg-chno="176390" tvg-name="GREAT! Mystery" group-title="United Kingdom" tvg-id="GREATMY" tvc-guide-stationid="176390",GREAT! Mystery
 http://example.local/GBR-GREATMY.ts
+#EXTINF:-1 tvg-chno="97281" tvg-name="Great! Mystery +1" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BN0Z.png?w=360&h=270" group-title="United Kingdom" tvg-id="GRTMYP1" tvc-guide-stationid="97281",Great! Mystery +1
+http://example.local/GBR-GRTMYP1.ts
 #EXTINF:-1 tvg-chno="44717" tvg-name="GREAT! Romance" tvg-logo="https://zap2it.tmsimg.com/assets/s44717_ll_h15_af.png?w=360&h=270" group-title="United Kingdom" tvg-id="GREATRO" tvc-guide-stationid="44717",GREAT! Romance
 http://example.local/GBR-GREATRO.ts
 #EXTINF:-1 tvg-chno="50011" tvg-name="GREAT! Romance mix" tvg-logo="https://zap2it.tmsimg.com/assets/s50011_ll_h15_af.png?w=360&h=270" group-title="United Kingdom" tvg-id="GRROMIX" tvc-guide-stationid="50011",GREAT! Romance mix
@@ -1029,6 +1029,8 @@ http://example.local/GBR-HOGATVD.ts
 http://example.local/GBR-HUTH.ts
 #EXTINF:-1 tvg-chno="139543" tvg-name="Homes Under The Hammer (TiVo)" tvg-logo="https://zap2it.tmsimg.com/assets/s139543_ll_h9_aa.png?w=360&h=270" group-title="United Kingdom" tvg-id="FAST10VM" tvc-guide-stationid="139543",Homes Under The Hammer (TiVo)
 http://example.local/GBR-FAST10VM.ts
+#EXTINF:-1 tvg-chno="90459" tvg-name="hr-fernsehen HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90459_ll_h15_ac.png?w=360&h=270" group-title="United Kingdom" tvg-id="HRHFHD" tvc-guide-stationid="90459",hr-fernsehen HD
+http://example.local/GBR-HRHFHD.ts
 #EXTINF:-1 tvg-chno="91980" tvg-name="HSE" tvg-logo="https://zap2it.tmsimg.com/assets/s91980_ll_h15_ac.png?w=360&h=270" group-title="United Kingdom" tvg-id="HSE24G" tvc-guide-stationid="91980",HSE
 http://example.local/GBR-HSE24G.ts
 #EXTINF:-1 tvg-chno="83596" tvg-name="HSE EXTRA" tvg-logo="https://zap2it.tmsimg.com/assets/s83596_ll_h15_ac.png?w=360&h=270" group-title="United Kingdom" tvg-id="HSE24EX" tvc-guide-stationid="83596",HSE EXTRA

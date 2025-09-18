@@ -331,6 +331,8 @@ http://example.local/BES-HBOI.ts
 http://example.local/BES-HBOP.ts
 #EXTINF:-1 tvg-chno="68244" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="HBO2ENG" tvc-guide-stationid="68244",HBO 2
 http://example.local/BES-HBO2ENG.ts
+#EXTINF:-1 tvg-chno="10243" tvg-name="HBO Drama" tvg-logo="https://zap2it.tmsimg.com/assets/s10243_h3_ba.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="HBODRMA" tvc-guide-stationid="10243",HBO Drama
+http://example.local/BES-HBODRMA.ts
 #EXTINF:-1 tvg-chno="19548" tvg-name="HBO East" tvg-logo="https://zap2it.tmsimg.com/assets/s19548_ll_h15_aa.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="HBOHD" tvc-guide-stationid="19548",HBO East
 http://example.local/BES-HBOHD.ts
 #EXTINF:-1 tvg-chno="16585" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="HBOF" tvc-guide-stationid="16585",HBO Family
@@ -345,8 +347,6 @@ http://example.local/BES-MUNCAR.ts
 http://example.local/BES-HBOPIW.ts
 #EXTINF:-1 tvg-chno="16796" tvg-name="HBO Plus Panregional English" tvg-logo="https://zap2it.tmsimg.com/assets/s34725_ll_h15_ab.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="HBOPI" tvc-guide-stationid="16796",HBO Plus Panregional English
 http://example.local/BES-HBOPI.ts
-#EXTINF:-1 tvg-chno="10243" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s10243_h3_ba.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="HBOSIG" tvc-guide-stationid="10243",HBO Signature
-http://example.local/BES-HBOSIG.ts
 #EXTINF:-1 tvg-chno="74447" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="HBOSLAE" tvc-guide-stationid="74447",HBO Signature
 http://example.local/BES-HBOSLAE.ts
 #EXTINF:-1 tvg-chno="57400" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png?w=360&h=270" group-title="Bonaire, Saba, St. Eustatius" tvg-id="HBOXMXE" tvc-guide-stationid="57400",HBO Xtreme

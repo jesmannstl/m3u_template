@@ -41,6 +41,8 @@ http://example.local/FIN-BLUHUEU.ts
 http://example.local/FIN-CAN24.ts
 #EXTINF:-1 tvg-chno="88251" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s88251_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="CTOONF" tvc-guide-stationid="88251",Cartoon Network
 http://example.local/FIN-CTOONF.ts
+#EXTINF:-1 tvg-chno="78843" tvg-name="Cartoon Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s78843_ll_h15_ab.png?w=360&h=270" group-title="Finland" tvg-id="CRTONHD" tvc-guide-stationid="78843",Cartoon Network HD
+http://example.local/FIN-CRTONHD.ts
 #EXTINF:-1 tvg-chno="89365" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s89365_ll_h15_ab.png?w=360&h=270" group-title="Finland" tvg-id="CARTOFI" tvc-guide-stationid="89365",Cartoonito
 http://example.local/FIN-CARTOFI.ts
 #EXTINF:-1 tvg-chno="96363" tvg-name="China Global Television Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s96363_ll_h15_ab.png?w=360&h=270" group-title="Finland" tvg-id="CGTNHD" tvc-guide-stationid="96363",China Global Television Network HD
@@ -53,8 +55,8 @@ http://example.local/FIN-CLSSCA.ts
 http://example.local/FIN-CLUBMTV.ts
 #EXTINF:-1 tvg-chno="16230" tvg-name="CNBC" tvg-logo="https://zap2it.tmsimg.com/assets/s16230_ll_h15_ab.png?w=360&h=270" group-title="Finland" tvg-id="CNBCEU" tvc-guide-stationid="16230",CNBC
 http://example.local/FIN-CNBCEU.ts
-#EXTINF:-1 tvg-chno="68053" tvg-name="CNN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68053_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="CNNEUVM" tvc-guide-stationid="68053",CNN HD
-http://example.local/FIN-CNNEUVM.ts
+#EXTINF:-1 tvg-chno="113145" tvg-name="CNBC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s113145_ll_h15_ab.png?w=360&h=270" group-title="Finland" tvg-id="CNBCEHD" tvc-guide-stationid="113145",CNBC HD
+http://example.local/FIN-CNBCEHD.ts
 #EXTINF:-1 tvg-chno="17664" tvg-name="CNN International" tvg-logo="https://zap2it.tmsimg.com/assets/s17664_ll_h15_ab.png?w=360&h=270" group-title="Finland" tvg-id="CNNEU" tvc-guide-stationid="17664",CNN International
 http://example.local/FIN-CNNEU.ts
 #EXTINF:-1 tvg-chno="91065" tvg-name="CNN International HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91065_ll_h9_aa.png?w=360&h=270" group-title="Finland" tvg-id="CNNEUHD" tvc-guide-stationid="91065",CNN International HD
@@ -95,8 +97,6 @@ http://example.local/FIN-EURONHD.ts
 http://example.local/FIN-EVEO.ts
 #EXTINF:-1 tvg-chno="56232" tvg-name="Extreme Sports Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s56232_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="EXTRSP" tvc-guide-stationid="56232",Extreme Sports Channel
 http://example.local/FIN-EXTRSP.ts
-#EXTINF:-1 tvg-chno="100285" tvg-name="Fight Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s100285_ll_h9_aa.png?w=360&h=270" group-title="Finland" tvg-id="FIGHTNO" tvc-guide-stationid="100285",Fight Sports
-http://example.local/FIN-FIGHTNO.ts
 #EXTINF:-1 tvg-chno="104931" tvg-name="Fight Sports HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104931_ll_h9_aa.png?w=360&h=270" group-title="Finland" tvg-id="FIGSAHD" tvc-guide-stationid="104931",Fight Sports HD
 http://example.local/FIN-FIGSAHD.ts
 #EXTINF:-1 tvg-chno="123607" tvg-name="Filmbox Arthouse" tvg-logo="https://zap2it.tmsimg.com/assets/s123607_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="FLMBXNL" tvc-guide-stationid="123607",Filmbox Arthouse
@@ -119,10 +119,10 @@ http://example.local/FIN-UATV.ts
 http://example.local/FIN-FRII.ts
 #EXTINF:-1 tvg-chno="106762" tvg-name="Frii HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106762_ll_h15_ab.png?w=360&h=270" group-title="Finland" tvg-id="FRIIHD" tvc-guide-stationid="106762",Frii HD
 http://example.local/FIN-FRIIHD.ts
+#EXTINF:-1 tvg-chno="67637" tvg-name="FTV" tvg-logo="https://zap2it.tmsimg.com/assets/s67637_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="FASHEUR" tvc-guide-stationid="67637",FTV
+http://example.local/FIN-FASHEUR.ts
 #EXTINF:-1 tvg-chno="99092" tvg-name="FTV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99092_ll_h9_aa.png?w=360&h=270" group-title="Finland" tvg-id="FTVHD" tvc-guide-stationid="99092",FTV HD
 http://example.local/FIN-FTVHD.ts
-#EXTINF:-1 tvg-chno="21799" tvg-name="FTV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s21799_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="FASHTV" tvc-guide-stationid="21799",FTV HD
-http://example.local/FIN-FASHTV.ts
 #EXTINF:-1 tvg-chno="116785" tvg-name="FTV UHD" tvg-logo="https://zap2it.tmsimg.com/assets/s116785_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="FTVUHD" tvc-guide-stationid="116785",FTV UHD
 http://example.local/FIN-FTVUHD.ts
 #EXTINF:-1 tvg-chno="67628" tvg-name="FUEL TV" tvg-logo="https://zap2it.tmsimg.com/assets/s67628_ll_h15_ab.png?w=360&h=270" group-title="Finland" tvg-id="FUELTVE" tvc-guide-stationid="67628",FUEL TV
@@ -205,22 +205,14 @@ http://example.local/FIN-MTVAITHD.ts
 http://example.local/FIN-MTVFIHD.ts
 #EXTINF:-1 tvg-chno="89004" tvg-name="MTV Hits International" tvg-logo="https://zap2it.tmsimg.com/assets/s89004_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="MTVHTSI" tvc-guide-stationid="89004",MTV Hits International
 http://example.local/FIN-MTVHTSI.ts
-#EXTINF:-1 tvg-chno="88335" tvg-name="MTV Juniori" tvg-logo="https://zap2it.tmsimg.com/assets/s88335_ll_h15_ac.png?w=360&h=270" group-title="Finland" tvg-id="MTVJUFI" tvc-guide-stationid="88335",MTV Juniori
-http://example.local/FIN-MTVJUFI.ts
 #EXTINF:-1 tvg-chno="149650" tvg-name="MTV JUNIORI HD" tvg-logo="https://zap2it.tmsimg.com/assets/s149650_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="MTVJUNH" tvc-guide-stationid="149650",MTV JUNIORI HD
 http://example.local/FIN-MTVJUNH.ts
 #EXTINF:-1 tvg-chno="74635" tvg-name="MTV Live HD" tvg-logo="https://zap2it.tmsimg.com/assets/s74635_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="MTVLHDE" tvc-guide-stationid="74635",MTV Live HD
 http://example.local/FIN-MTVLHDE.ts
-#EXTINF:-1 tvg-chno="88246" tvg-name="MTV MAX" tvg-logo="https://zap2it.tmsimg.com/assets/s88246_ll_h15_ac.png?w=360&h=270" group-title="Finland" tvg-id="MTVMAX" tvc-guide-stationid="88246",MTV MAX
-http://example.local/FIN-MTVMAX.ts
 #EXTINF:-1 tvg-chno="88337" tvg-name="MTV MAX HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88337_ll_h15_ac.png?w=360&h=270" group-title="Finland" tvg-id="MTVMAXHD" tvc-guide-stationid="88337",MTV MAX HD
 http://example.local/FIN-MTVMAXHD.ts
-#EXTINF:-1 tvg-chno="88338" tvg-name="MTV Urheilu 1" tvg-logo="https://zap2it.tmsimg.com/assets/s88338_ll_h15_ac.png?w=360&h=270" group-title="Finland" tvg-id="MTVUR1" tvc-guide-stationid="88338",MTV Urheilu 1
-http://example.local/FIN-MTVUR1.ts
 #EXTINF:-1 tvg-chno="149647" tvg-name="MTV URHEILU 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s149647_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="MTVUR1H" tvc-guide-stationid="149647",MTV URHEILU 1 HD
 http://example.local/FIN-MTVUR1H.ts
-#EXTINF:-1 tvg-chno="88340" tvg-name="MTV Urheilu 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88340_ll_h15_ad.png?w=360&h=270" group-title="Finland" tvg-id="MTVUR2" tvc-guide-stationid="88340",MTV Urheilu 2
-http://example.local/FIN-MTVUR2.ts
 #EXTINF:-1 tvg-chno="149648" tvg-name="MTV URHEILU 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s149648_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="MTVURH2H" tvc-guide-stationid="149648",MTV URHEILU 2 HD
 http://example.local/FIN-MTVURH2H.ts
 #EXTINF:-1 tvg-chno="149649" tvg-name="MTV URHEILU 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s149649_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="MTVURH3H" tvc-guide-stationid="149649",MTV URHEILU 3 HD
@@ -249,6 +241,8 @@ http://example.local/FIN-NHKWLDH.ts
 http://example.local/FIN-NHKWRLD.ts
 #EXTINF:-1 tvg-chno="88371" tvg-name="Nick Jr" tvg-logo="https://zap2it.tmsimg.com/assets/s88371_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="NICJRF" tvc-guide-stationid="88371",Nick Jr
 http://example.local/FIN-NICJRF.ts
+#EXTINF:-1 tvg-chno="87764" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s87764_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="NICKDK" tvc-guide-stationid="87764",Nickelodeon
+http://example.local/FIN-NICKDK.ts
 #EXTINF:-1 tvg-chno="82401" tvg-name="NRK1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s82401_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="NRK1HD" tvc-guide-stationid="82401",NRK1 HD
 http://example.local/FIN-NRK1HD.ts
 #EXTINF:-1 tvg-chno="90754" tvg-name="NRK2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90754_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="NRK2HD" tvc-guide-stationid="90754",NRK2 HD
@@ -277,6 +271,8 @@ http://example.local/FIN-SUBFIHD.ts
 http://example.local/FIN-SVTBHD.ts
 #EXTINF:-1 tvg-chno="78552" tvg-name="SVT Barn/SVT24" tvg-logo="https://zap2it.tmsimg.com/assets/s78552_ll_h15_ac.png?w=360&h=270" group-title="Finland" tvg-id="COMSV" tvc-guide-stationid="78552",SVT Barn/SVT24
 http://example.local/FIN-COMSV.ts
+#EXTINF:-1 tvg-chno="180485" tvg-name="SVT Barnkanalen / SVT24 HD" group-title="Finland" tvg-id="SVT24FN" tvc-guide-stationid="180485",SVT Barnkanalen / SVT24 HD
+http://example.local/FIN-SVT24FN.ts
 #EXTINF:-1 tvg-chno="69430" tvg-name="SVT1" tvg-logo="https://zap2it.tmsimg.com/assets/s69430_ll_h15_ab.png?w=360&h=270" group-title="Finland" tvg-id="SVT1" tvc-guide-stationid="69430",SVT1
 http://example.local/FIN-SVT1.ts
 #EXTINF:-1 tvg-chno="69429" tvg-name="SVT1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69429_ll_h9_ab.png?w=360&h=270" group-title="Finland" tvg-id="SVT1HD" tvc-guide-stationid="69429",SVT1 HD
@@ -339,8 +335,6 @@ http://example.local/FIN-VGOLFHD.ts
 http://example.local/FIN-VIASMHD.ts
 #EXTINF:-1 tvg-chno="100128" tvg-name="V Sport Premium HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100128_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="VIASPOH" tvc-guide-stationid="100128",V Sport Premium HD
 http://example.local/FIN-VIASPOH.ts
-#EXTINF:-1 tvg-chno="88259" tvg-name="V Sport Vinter" tvg-logo="https://zap2it.tmsimg.com/assets/s88259_ll_h15_ab.png?w=360&h=270" group-title="Finland" tvg-id="VSPOVIN" tvc-guide-stationid="88259",V Sport Vinter
-http://example.local/FIN-VSPOVIN.ts
 #EXTINF:-1 tvg-chno="88393" tvg-name="Viasat Film Action" tvg-logo="https://zap2it.tmsimg.com/assets/s88393_ll_h15_ab.png?w=360&h=270" group-title="Finland" tvg-id="VIAFA" tvc-guide-stationid="88393",Viasat Film Action
 http://example.local/FIN-VIAFA.ts
 #EXTINF:-1 tvg-chno="88394" tvg-name="Viasat Film Action HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88394_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="VIAFAHD" tvc-guide-stationid="88394",Viasat Film Action HD
@@ -355,20 +349,14 @@ http://example.local/FIN-VFILMC.ts
 http://example.local/FIN-VIAFHHD.ts
 #EXTINF:-1 tvg-chno="107717" tvg-name="Viasat Film Premiere HD" tvg-logo="https://zap2it.tmsimg.com/assets/s107717_ll_h9_aa.png?w=360&h=270" group-title="Finland" tvg-id="VIAPREH" tvc-guide-stationid="107717",Viasat Film Premiere HD
 http://example.local/FIN-VIAPREH.ts
-#EXTINF:-1 tvg-chno="77729" tvg-name="Viasat Fotboll" tvg-logo="https://zap2it.tmsimg.com/assets/s77729_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="VIAFOTB" tvc-guide-stationid="77729",Viasat Fotboll
-http://example.local/FIN-VIAFOTB.ts
 #EXTINF:-1 tvg-chno="88459" tvg-name="Viasat History" tvg-logo="https://zap2it.tmsimg.com/assets/s88459_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="VIAHIHD" tvc-guide-stationid="88459",Viasat History
 http://example.local/FIN-VIAHIHD.ts
 #EXTINF:-1 tvg-chno="88425" tvg-name="Viasat History HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88425_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="VIAHHD" tvc-guide-stationid="88425",Viasat History HD
 http://example.local/FIN-VIAHHD.ts
 #EXTINF:-1 tvg-chno="104915" tvg-name="Viasat Hockey HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104915_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="VHOCKFH" tvc-guide-stationid="104915",Viasat Hockey HD
 http://example.local/FIN-VHOCKFH.ts
-#EXTINF:-1 tvg-chno="88258" tvg-name="Viasat Sport" tvg-logo="https://zap2it.tmsimg.com/assets/s88258_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="VSPORT" tvc-guide-stationid="88258",Viasat Sport
-http://example.local/FIN-VSPORT.ts
 #EXTINF:-1 tvg-chno="88428" tvg-name="Viasat Sport HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88428_ll_h9_aa.png?w=360&h=270" group-title="Finland" tvg-id="VSPOHD" tvc-guide-stationid="88428",Viasat Sport HD
 http://example.local/FIN-VSPOHD.ts
-#EXTINF:-1 tvg-chno="99760" tvg-name="Viasat Sport Premium" tvg-logo="https://zap2it.tmsimg.com/assets/s99760_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="VIASPOP" tvc-guide-stationid="99760",Viasat Sport Premium
-http://example.local/FIN-VIASPOP.ts
 #EXTINF:-1 tvg-chno="45324" tvg-name="WILD TV" tvg-logo="https://zap2it.tmsimg.com/assets/s45324_ll_h15_ac.png?w=360&h=270" group-title="Finland" tvg-id="WILDTV" tvc-guide-stationid="45324",WILD TV
 http://example.local/FIN-WILDTV.ts
 #EXTINF:-1 tvg-chno="88240" tvg-name="Yle Teema & Fem" tvg-logo="https://zap2it.tmsimg.com/assets/s88240_ll_h15_aa.png?w=360&h=270" group-title="Finland" tvg-id="YLETF" tvc-guide-stationid="88240",Yle Teema & Fem

@@ -363,6 +363,8 @@ http://example.local/FRA-DAYSTR.ts
 http://example.local/FRA-DAZN1FR.ts
 #EXTINF:-1 tvg-chno="166670" tvg-name="DAZN 2" group-title="France" tvg-id="DAZN2FR" tvc-guide-stationid="166670",DAZN 2
 http://example.local/FRA-DAZN2FR.ts
+#EXTINF:-1 tvg-chno="166748" tvg-name="DAZN 3" group-title="France" tvg-id="DAZN3L" tvc-guide-stationid="166748",DAZN 3
+http://example.local/FRA-DAZN3L.ts
 #EXTINF:-1 tvg-chno="119789" tvg-name="De Pelicula" tvg-logo="https://zap2it.tmsimg.com/assets/s119789_ll_h9_aa.png?w=360&h=270" group-title="France" tvg-id="DEPELIC" tvc-guide-stationid="119789",De Pelicula
 http://example.local/FRA-DEPELIC.ts
 #EXTINF:-1 tvg-chno="135375" tvg-name="Deluxe Dance by Kontor" tvg-logo="https://zap2it.tmsimg.com/assets/s135375_ll_h15_aa.png?w=360&h=270" group-title="France" tvg-id="DEDANCE" tvc-guide-stationid="135375",Deluxe Dance by Kontor
@@ -607,8 +609,12 @@ http://example.local/FRA-FR4HD.ts
 http://example.local/FRA-FRANCE5.ts
 #EXTINF:-1 tvg-chno="87350" tvg-name="France 5 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87350_ll_h15_ab.png?w=360&h=270" group-title="France" tvg-id="FR5HD" tvc-guide-stationid="87350",France 5 HD
 http://example.local/FRA-FR5HD.ts
+#EXTINF:-1 tvg-chno="107096" tvg-name="France Culture" tvg-logo="https://zap2it.tmsimg.com/assets/s107096_ll_h9_ab.png?w=360&h=270" group-title="France" tvg-id="FRCULT" tvc-guide-stationid="107096",France Culture
+http://example.local/FRA-FRCULT.ts
 #EXTINF:-1 tvg-chno="105229" tvg-name="France Info" tvg-logo="https://zap2it.tmsimg.com/assets/s105229_ll_h15_aa.png?w=360&h=270" group-title="France" tvg-id="FRINFO" tvc-guide-stationid="105229",France Info
 http://example.local/FRA-FRINFO.ts
+#EXTINF:-1 tvg-chno="107097" tvg-name="France Musique" tvg-logo="https://zap2it.tmsimg.com/assets/s107097_ll_h15_ac.png?w=360&h=270" group-title="France" tvg-id="FRMUSI" tvc-guide-stationid="107097",France Musique
+http://example.local/FRA-FRMUSI.ts
 #EXTINF:-1 tvg-chno="106817" tvg-name="Franceinfo HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106817_ll_h9_aa.png?w=360&h=270" group-title="France" tvg-id="FRINFOH" tvc-guide-stationid="106817",Franceinfo HD
 http://example.local/FRA-FRINFOH.ts
 #EXTINF:-1 tvg-chno="123020" tvg-name="Franken Plus HD" tvg-logo="https://zap2it.tmsimg.com/assets/s123020_ll_h9_aa.png?w=360&h=270" group-title="France" tvg-id="FRPHD" tvc-guide-stationid="123020",Franken Plus HD
@@ -1001,6 +1007,8 @@ http://example.local/FRA-NITAT.ts
 http://example.local/FRA-NOLLYWD.ts
 #EXTINF:-1 tvg-chno="43428" tvg-name="NOURSAT (International)" tvg-logo="https://zap2it.tmsimg.com/assets/s43428_ll_h9_aa.png?w=360&h=270" group-title="France" tvg-id="NOURSAT" tvc-guide-stationid="43428",NOURSAT (International)
 http://example.local/FRA-NOURSAT.ts
+#EXTINF:-1 tvg-chno="191972" tvg-name="Novo19 HD" group-title="France" tvg-id="NOVO19H" tvc-guide-stationid="191972",Novo19 HD
+http://example.local/FRA-NOVO19H.ts
 #EXTINF:-1 tvg-chno="78979" tvg-name="NRJ 12" tvg-logo="https://zap2it.tmsimg.com/assets/s78979_ll_h15_aa.png?w=360&h=270" group-title="France" tvg-id="NRJ12F" tvc-guide-stationid="78979",NRJ 12
 http://example.local/FRA-NRJ12F.ts
 #EXTINF:-1 tvg-chno="87456" tvg-name="NRJ 12 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87456_ll_h15_ab.png?w=360&h=270" group-title="France" tvg-id="NRJ12FH" tvc-guide-stationid="87456",NRJ 12 HD
@@ -1471,8 +1479,6 @@ http://example.local/FRA-TVPOL.ts
 http://example.local/FRA-TVRI.ts
 #EXTINF:-1 tvg-chno="138637" tvg-name="TVRI" group-title="France" tvg-id="TVRIIDN" tvc-guide-stationid="138637",TVRI
 http://example.local/FRA-TVRIIDN.ts
-#EXTINF:-1 tvg-chno="147933" tvg-name="TVT International" group-title="France" tvg-id="TVTINT" tvc-guide-stationid="147933",TVT International
-http://example.local/FRA-TVTINT.ts
 #EXTINF:-1 tvg-chno="120871" tvg-name="Télé Congo" group-title="France" tvg-id="TLCONGO" tvc-guide-stationid="120871",Télé Congo
 http://example.local/FRA-TLCONGO.ts
 #EXTINF:-1 tvg-chno="113331" tvg-name="Télé Maroc" tvg-logo="https://zap2it.tmsimg.com/assets/s113331_ll_h9_aa.png?w=360&h=270" group-title="France" tvg-id="TLMAROC" tvc-guide-stationid="113331",Télé Maroc

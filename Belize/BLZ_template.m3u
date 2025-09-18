@@ -151,6 +151,8 @@ http://example.local/BLZ-CINEM.ts
 http://example.local/BLZ-CINELWH.ts
 #EXTINF:-1 tvg-chno="34933" tvg-name="Cinemax HD" tvg-logo="https://zap2it.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&h=270" group-title="Belize" tvg-id="MAXHD" tvc-guide-stationid="34933",Cinemax HD
 http://example.local/BLZ-MAXHD.ts
+#EXTINF:-1 tvg-chno="10121" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s10121_h3_aa.png?w=360&h=270" group-title="Belize" tvg-id="CINEHIT" tvc-guide-stationid="10121",Cinemax Hits
+http://example.local/BLZ-CINEHIT.ts
 #EXTINF:-1 tvg-chno="10138" tvg-name="CMT" tvg-logo="https://zap2it.tmsimg.com/assets/s10138_ll_h15_ab.png?w=360&h=270" group-title="Belize" tvg-id="CMTV" tvc-guide-stationid="10138",CMT
 http://example.local/BLZ-CMTV.ts
 #EXTINF:-1 tvg-chno="10139" tvg-name="CNBC" tvg-logo="https://zap2it.tmsimg.com/assets/s10139_ll_h15_ae.png?w=360&h=270" group-title="Belize" tvg-id="CNBC" tvc-guide-stationid="10139",CNBC
@@ -355,12 +357,12 @@ http://example.local/BLZ-HBO.ts
 http://example.local/BLZ-HBOEHD.ts
 #EXTINF:-1 tvg-chno="10244" tvg-name="HBO (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10240_ll_h15_aa.png?w=360&h=270" group-title="Belize" tvg-id="HBOP" tvc-guide-stationid="10244",HBO (Pacific)
 http://example.local/BLZ-HBOP.ts
+#EXTINF:-1 tvg-chno="10243" tvg-name="HBO Drama" tvg-logo="https://zap2it.tmsimg.com/assets/s10243_h3_ba.png?w=360&h=270" group-title="Belize" tvg-id="HBODRMA" tvc-guide-stationid="10243",HBO Drama
+http://example.local/BLZ-HBODRMA.ts
 #EXTINF:-1 tvg-chno="16585" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png?w=360&h=270" group-title="Belize" tvg-id="HBOF" tvc-guide-stationid="16585",HBO Family
 http://example.local/BLZ-HBOF.ts
 #EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_h3_aa.png?w=360&h=270" group-title="Belize" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
 http://example.local/BLZ-HBOFP.ts
-#EXTINF:-1 tvg-chno="59357" tvg-name="HBO Family HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59357_ll_h15_aa.png?w=360&h=270" group-title="Belize" tvg-id="HBOFHD" tvc-guide-stationid="59357",HBO Family HD
-http://example.local/BLZ-HBOFHD.ts
 #EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_aa.png?w=360&h=270" group-title="Belize" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
 http://example.local/BLZ-HBOLAT.ts
 #EXTINF:-1 tvg-chno="59837" tvg-name="HBO Latino HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_ba.png?w=360&h=270" group-title="Belize" tvg-id="HBOLAHD" tvc-guide-stationid="59837",HBO Latino HD
@@ -369,16 +371,12 @@ http://example.local/BLZ-HBOLAHD.ts
 http://example.local/BLZ-POPLAE.ts
 #EXTINF:-1 tvg-chno="74450" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png?w=360&h=270" group-title="Belize" tvg-id="HBOSLA" tvc-guide-stationid="74450",HBO Signature
 http://example.local/BLZ-HBOSLA.ts
-#EXTINF:-1 tvg-chno="10243" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s10243_h3_ba.png?w=360&h=270" group-title="Belize" tvg-id="HBOSIG" tvc-guide-stationid="10243",HBO Signature
-http://example.local/BLZ-HBOSIG.ts
 #EXTINF:-1 tvg-chno="59363" tvg-name="HBO Signature HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59363_ll_h15_aa.png?w=360&h=270" group-title="Belize" tvg-id="HBOSGHD" tvc-guide-stationid="59363",HBO Signature HD
 http://example.local/BLZ-HBOSGHD.ts
 #EXTINF:-1 tvg-chno="34887" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png?w=360&h=270" group-title="Belize" tvg-id="HBOXMX" tvc-guide-stationid="34887",HBO Xtreme
 http://example.local/BLZ-HBOXMX.ts
 #EXTINF:-1 tvg-chno="57400" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png?w=360&h=270" group-title="Belize" tvg-id="HBOXMXE" tvc-guide-stationid="57400",HBO Xtreme
 http://example.local/BLZ-HBOXMXE.ts
-#EXTINF:-1 tvg-chno="10241" tvg-name="HBO2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_h3_ba.png?w=360&h=270" group-title="Belize" tvg-id="HBO2" tvc-guide-stationid="10241",HBO2
-http://example.local/BLZ-HBO2.ts
 #EXTINF:-1 tvg-chno="10242" tvg-name="HBO2 (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png?w=360&h=270" group-title="Belize" tvg-id="HBO2P" tvc-guide-stationid="10242",HBO2 (Pacific)
 http://example.local/BLZ-HBO2P.ts
 #EXTINF:-1 tvg-chno="59368" tvg-name="HBO2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59368_ll_h15_aa.png?w=360&h=270" group-title="Belize" tvg-id="HBO2HD" tvc-guide-stationid="59368",HBO2 HD
@@ -449,8 +447,6 @@ http://example.local/BLZ-MARIA.ts
 http://example.local/BLZ-MLBN.ts
 #EXTINF:-1 tvg-chno="32537" tvg-name="Monumental Sports Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s32537_ll_h15_ad.png?w=360&h=270" group-title="Belize" tvg-id="MNMTH" tvc-guide-stationid="32537",Monumental Sports Network HD
 http://example.local/BLZ-MNMTH.ts
-#EXTINF:-1 tvg-chno="10121" tvg-name="MoreMAX" tvg-logo="https://zap2it.tmsimg.com/assets/s10121_h3_aa.png?w=360&h=270" group-title="Belize" tvg-id="MOMAX" tvc-guide-stationid="10121",MoreMAX
-http://example.local/BLZ-MOMAX.ts
 #EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png?w=360&h=270" group-title="Belize" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
 http://example.local/BLZ-MTHD.ts
 #EXTINF:-1 tvg-chno="10979" tvg-name="MSG Zone 1" tvg-logo="https://zap2it.tmsimg.com/assets/s10979_ll_h15_ab.png?w=360&h=270" group-title="Belize" tvg-id="MSG" tvc-guide-stationid="10979",MSG Zone 1
@@ -493,8 +489,8 @@ http://example.local/BLZ-NBATVHD.ts
 http://example.local/BLZ-NBCDT.ts
 #EXTINF:-1 tvg-chno="17596" tvg-name="NBC Sports Philadelphia" tvg-logo="https://zap2it.tmsimg.com/assets/s17596_h3_aa.png?w=360&h=270" group-title="Belize" tvg-id="NBCSPA" tvc-guide-stationid="17596",NBC Sports Philadelphia
 http://example.local/BLZ-NBCSPA.ts
-#EXTINF:-1 tvg-chno="15952" tvg-name="NBCSN" tvg-logo="https://zap2it.tmsimg.com/assets/s15952_ll_h9_aa.png?w=360&h=270" group-title="Belize" tvg-id="NBCSN" tvc-guide-stationid="15952",NBCSN
-http://example.local/BLZ-NBCSN.ts
+#EXTINF:-1 tvg-chno="15952" tvg-name="NBCSN" tvg-logo="https://zap2it.tmsimg.com/assets/s15952_ll_h9_aa.png?w=360&h=270" group-title="Belize" tvg-id="NBCSNX" tvc-guide-stationid="15952",NBCSN
+http://example.local/BLZ-NBCSNX.ts
 #EXTINF:-1 tvg-chno="48639" tvg-name="NBCSN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s48639_ll_h9_aa.png?w=360&h=270" group-title="Belize" tvg-id="NBCSNHD" tvc-guide-stationid="48639",NBCSN HD
 http://example.local/BLZ-NBCSNHD.ts
 #EXTINF:-1 tvg-chno="76399" tvg-name="NBCSN HD Non-Olympic" group-title="Belize" tvg-id="NBCSNOH" tvc-guide-stationid="76399",NBCSN HD Non-Olympic

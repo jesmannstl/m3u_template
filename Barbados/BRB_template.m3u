@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="10002" tvg-name="3 Angels Broadcasting Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10002_ll_h15_aa.png?w=360&h=270" group-title="Barbados" tvg-id="3ANGELS" tvc-guide-stationid="10002",3 Angels Broadcasting Network
 http://example.local/BRB-3ANGELS.ts
+#EXTINF:-1 tvg-chno="150571" tvg-name="365BLK" tvg-logo="https://zap2it.tmsimg.com/assets/s150571_ll_h15_ab.png?w=360&h=270" group-title="Barbados" tvg-id="365BLK" tvc-guide-stationid="150571",365BLK
+http://example.local/BRB-365BLK.ts
 #EXTINF:-1 tvg-chno="44895" tvg-name="A Wealth of Entertainment" tvg-logo="https://zap2it.tmsimg.com/assets/s44895_ll_h15_aa.png?w=360&h=270" group-title="Barbados" tvg-id="AWE" tvc-guide-stationid="44895",A Wealth of Entertainment
 http://example.local/BRB-AWE.ts
 #EXTINF:-1 tvg-chno="45438" tvg-name="A Wealth of Entertainment HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45438_ll_h15_aa.png?w=360&h=270" group-title="Barbados" tvg-id="AWEHD" tvc-guide-stationid="45438",A Wealth of Entertainment HD
@@ -73,6 +75,8 @@ http://example.local/BRB-BBCAHD.ts
 http://example.local/BRB-BBCNEEU.ts
 #EXTINF:-1 tvg-chno="89690" tvg-name="BBC News (North America) HD" tvg-logo="https://zap2it.tmsimg.com/assets/s36844_ll_h15_ad.png?w=360&h=270" group-title="Barbados" tvg-id="BBCNAHD" tvc-guide-stationid="89690",BBC News (North America) HD
 http://example.local/BRB-BBCNAHD.ts
+#EXTINF:-1 tvg-chno="113143" tvg-name="beIn Sports Xtra" tvg-logo="https://zap2it.tmsimg.com/assets/s113143_ll_h15_aa.png?w=360&h=270" group-title="Barbados" tvg-id="BEINX" tvc-guide-stationid="113143",beIn Sports Xtra
+http://example.local/BRB-BEINX.ts
 #EXTINF:-1 tvg-chno="10051" tvg-name="BET" tvg-logo="https://zap2it.tmsimg.com/assets/s10051_ll_h15_ad.png?w=360&h=270" group-title="Barbados" tvg-id="BET" tvc-guide-stationid="10051",BET
 http://example.local/BRB-BET.ts
 #EXTINF:-1 tvg-chno="61005" tvg-name="BET Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s10051_ll_h15_ad.png?w=360&h=270" group-title="Barbados" tvg-id="BETCAR" tvc-guide-stationid="61005",BET Caribbean
@@ -205,6 +209,8 @@ http://example.local/BRB-COOKHD.ts
 http://example.local/BRB-SCIFIS.ts
 #EXTINF:-1 tvg-chno="16413" tvg-name="CTV24 (34)" group-title="Barbados" tvg-id="CTV24" tvc-guide-stationid="16413",CTV24 (34)
 http://example.local/BRB-CTV24.ts
+#EXTINF:-1 tvg-chno="112157" tvg-name="Dabl Network LLC" tvg-logo="https://zap2it.tmsimg.com/assets/s112157_ll_h15_ab.png?w=360&h=270" group-title="Barbados" tvg-id="DABL" tvc-guide-stationid="112157",Dabl Network LLC
+http://example.local/BRB-DABL.ts
 #EXTINF:-1 tvg-chno="19026" tvg-name="Daystar Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_ba.png?w=360&h=270" group-title="Barbados" tvg-id="DYSTR" tvc-guide-stationid="19026",Daystar Television Network
 http://example.local/BRB-DYSTR.ts
 #EXTINF:-1 tvg-chno="16288" tvg-name="De Película" tvg-logo="https://zap2it.tmsimg.com/assets/s16288_ll_h15_ac.png?w=360&h=270" group-title="Barbados" tvg-id="DEPEL" tvc-guide-stationid="16288",De Película
@@ -421,8 +427,6 @@ http://example.local/BRB-HBOFMEH.ts
 http://example.local/BRB-HBOF.ts
 #EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png?w=360&h=270" group-title="Barbados" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
 http://example.local/BRB-HBOFMHD.ts
-#EXTINF:-1 tvg-chno="59357" tvg-name="HBO Family HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59357_ll_h15_aa.png?w=360&h=270" group-title="Barbados" tvg-id="HBOFHD" tvc-guide-stationid="59357",HBO Family HD
-http://example.local/BRB-HBOFHD.ts
 #EXTINF:-1 tvg-chno="59837" tvg-name="HBO Latino HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_ba.png?w=360&h=270" group-title="Barbados" tvg-id="HBOLAHD" tvc-guide-stationid="59837",HBO Latino HD
 http://example.local/BRB-HBOLAHD.ts
 #EXTINF:-1 tvg-chno="70081" tvg-name="HBO Mundi" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png?w=360&h=270" group-title="Barbados" tvg-id="MUNMEX" tvc-guide-stationid="70081",HBO Mundi
@@ -459,8 +463,6 @@ http://example.local/BRB-HBOXMX.ts
 http://example.local/BRB-HBOXMXE.ts
 #EXTINF:-1 tvg-chno="80199" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png?w=360&h=270" group-title="Barbados" tvg-id="HBOXLA" tvc-guide-stationid="80199",HBO Xtreme
 http://example.local/BRB-HBOXLA.ts
-#EXTINF:-1 tvg-chno="10241" tvg-name="HBO2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_h3_ba.png?w=360&h=270" group-title="Barbados" tvg-id="HBO2" tvc-guide-stationid="10241",HBO2
-http://example.local/BRB-HBO2.ts
 #EXTINF:-1 tvg-chno="10242" tvg-name="HBO2 (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png?w=360&h=270" group-title="Barbados" tvg-id="HBO2P" tvc-guide-stationid="10242",HBO2 (Pacific)
 http://example.local/BRB-HBO2P.ts
 #EXTINF:-1 tvg-chno="29328" tvg-name="Hillsong Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s29328_ll_h15_ab.png?w=360&h=270" group-title="Barbados" tvg-id="HILLSNG" tvc-guide-stationid="29328",Hillsong Channel
@@ -541,6 +543,8 @@ http://example.local/BRB-MSNBC.ts
 http://example.local/BRB-MNBCHD.ts
 #EXTINF:-1 tvg-chno="61345" tvg-name="MTM TV" group-title="Barbados" tvg-id="MTMTV" tvc-guide-stationid="61345",MTM TV
 http://example.local/BRB-MTMTV.ts
+#EXTINF:-1 tvg-chno="176691" tvg-name="MTRSPT1" tvg-logo="https://zap2it.tmsimg.com/assets/s176691_ll_h15_aa.png?w=360&h=270" group-title="Barbados" tvg-id="MTRSP1N" tvc-guide-stationid="176691",MTRSPT1
+http://example.local/BRB-MTRSP1N.ts
 #EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png?w=360&h=270" group-title="Barbados" tvg-id="MTVL" tvc-guide-stationid="12712",MTV
 http://example.local/BRB-MTVL.ts
 #EXTINF:-1 tvg-chno="10986" tvg-name="MTV - Music Television" tvg-logo="https://zap2it.tmsimg.com/assets/s10986_ll_h15_aa.png?w=360&h=270" group-title="Barbados" tvg-id="MTV" tvc-guide-stationid="10986",MTV - Music Television
@@ -887,16 +891,12 @@ http://example.local/BRB-TFC4.ts
 http://example.local/BRB-GOLFLA.ts
 #EXTINF:-1 tvg-chno="101736" tvg-name="The Golf Channel Latinoamerica HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61033_ll_h15_ab.png?w=360&h=270" group-title="Barbados" tvg-id="GOLFLAH" tvc-guide-stationid="101736",The Golf Channel Latinoamerica HD
 http://example.local/BRB-GOLFLAH.ts
-#EXTINF:-1 tvg-chno="126076" tvg-name="The Grio HD" tvg-logo="https://zap2it.tmsimg.com/assets/s101752_ll_h15_ae.png?w=360&h=270" group-title="Barbados" tvg-id="GRIOHD" tvc-guide-stationid="126076",The Grio HD
-http://example.local/BRB-GRIOHD.ts
 #EXTINF:-1 tvg-chno="59303" tvg-name="The Travel Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59303_ll_h15_ac.png?w=360&h=270" group-title="Barbados" tvg-id="TRAVHD" tvc-guide-stationid="59303",The Travel Channel HD
 http://example.local/BRB-TRAVHD.ts
 #EXTINF:-1 tvg-chno="11187" tvg-name="The Weather Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11187_ll_h15_aa.png?w=360&h=270" group-title="Barbados" tvg-id="WEATH" tvc-guide-stationid="11187",The Weather Channel
 http://example.local/BRB-WEATH.ts
 #EXTINF:-1 tvg-chno="21781" tvg-name="The Word Network" tvg-logo="https://zap2it.tmsimg.com/assets/s21781_ll_h15_ac.png?w=360&h=270" group-title="Barbados" tvg-id="WORD" tvc-guide-stationid="21781",The Word Network
 http://example.local/BRB-WORD.ts
-#EXTINF:-1 tvg-chno="61775" tvg-name="This TV" tvg-logo="https://zap2it.tmsimg.com/assets/s61775_ll_h15_aa.png?w=360&h=270" group-title="Barbados" tvg-id="THIS" tvc-guide-stationid="61775",This TV
-http://example.local/BRB-THIS.ts
 #EXTINF:-1 tvg-chno="67579" tvg-name="TikTok Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s67579_ll_h15_ab.png?w=360&h=270" group-title="Barbados" tvg-id="SMUS43" tvc-guide-stationid="67579",TikTok Radio
 http://example.local/BRB-SMUS43.ts
 #EXTINF:-1 tvg-chno="11158" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s11158_ll_h15_ad.png?w=360&h=270" group-title="Barbados" tvg-id="TLC" tvc-guide-stationid="11158",TLC

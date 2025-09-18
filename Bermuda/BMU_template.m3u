@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="10002" tvg-name="3 Angels Broadcasting Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10002_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="3ANGELS" tvc-guide-stationid="10002",3 Angels Broadcasting Network
 http://example.local/BMU-3ANGELS.ts
-#EXTINF:-1 tvg-chno="25620" tvg-name="5 StarMAX" tvg-logo="https://zap2it.tmsimg.com/assets/s25620_ll_h15_ad.png?w=360&h=270" group-title="Bermuda" tvg-id="5MAX" tvc-guide-stationid="25620",5 StarMAX
-http://example.local/BMU-5MAX.ts
 #EXTINF:-1 tvg-chno="44895" tvg-name="A Wealth of Entertainment" tvg-logo="https://zap2it.tmsimg.com/assets/s44895_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="AWE" tvc-guide-stationid="44895",A Wealth of Entertainment
 http://example.local/BMU-AWE.ts
 #EXTINF:-1 tvg-chno="45438" tvg-name="A Wealth of Entertainment HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45438_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="AWEHD" tvc-guide-stationid="45438",A Wealth of Entertainment HD
@@ -11,8 +9,6 @@ http://example.local/BMU-AWEHD.ts
 http://example.local/BMU-AETV.ts
 #EXTINF:-1 tvg-chno="47174" tvg-name="ABS-CBN News Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s47174_ll_h15_ab.png?w=360&h=270" group-title="Bermuda" tvg-id="ANC" tvc-guide-stationid="47174",ABS-CBN News Channel
 http://example.local/BMU-ANC.ts
-#EXTINF:-1 tvg-chno="18433" tvg-name="ActionMAX" tvg-logo="https://zap2it.tmsimg.com/assets/s18433_ll_h15_ad.png?w=360&h=270" group-title="Bermuda" tvg-id="ACMAX" tvc-guide-stationid="18433",ActionMAX
-http://example.local/BMU-ACMAX.ts
 #EXTINF:-1 tvg-chno="65994" tvg-name="Adult Swim" tvg-logo="https://zap2it.tmsimg.com/assets/s16496_ll_h15_ad.png?w=360&h=270" group-title="Bermuda" tvg-id="ADSENS" tvc-guide-stationid="65994",Adult Swim
 http://example.local/BMU-ADSENS.ts
 #EXTINF:-1 tvg-chno="97267" tvg-name="Al Jazeera HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97267_ll_h15_ab.png?w=360&h=270" group-title="Bermuda" tvg-id="ALJAZEH" tvc-guide-stationid="97267",Al Jazeera HD
@@ -319,18 +315,14 @@ http://example.local/BMU-HBOFP.ts
 http://example.local/BMU-HBOLAT.ts
 #EXTINF:-1 tvg-chno="59837" tvg-name="HBO Latino HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_ba.png?w=360&h=270" group-title="Bermuda" tvg-id="HBOLAHD" tvc-guide-stationid="59837",HBO Latino HD
 http://example.local/BMU-HBOLAHD.ts
+#EXTINF:-1 tvg-chno="18431" tvg-name="HBO Movies" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBWP.png?w=360&h=270" group-title="Bermuda" tvg-id="HBOMOV" tvc-guide-stationid="18431",HBO Movies
+http://example.local/BMU-HBOMOV.ts
 #EXTINF:-1 tvg-chno="68119" tvg-name="HBO Mundi" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png?w=360&h=270" group-title="Bermuda" tvg-id="MUNLA" tvc-guide-stationid="68119",HBO Mundi
 http://example.local/BMU-MUNLA.ts
 #EXTINF:-1 tvg-chno="96531" tvg-name="HBO Mundi Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_h3_ba.png?w=360&h=270" group-title="Bermuda" tvg-id="MUNCARH" tvc-guide-stationid="96531",HBO Mundi Caribbean
 http://example.local/BMU-MUNCARH.ts
-#EXTINF:-1 tvg-chno="10243" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s10243_h3_ba.png?w=360&h=270" group-title="Bermuda" tvg-id="HBOSIG" tvc-guide-stationid="10243",HBO Signature
-http://example.local/BMU-HBOSIG.ts
 #EXTINF:-1 tvg-chno="80554" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png?w=360&h=270" group-title="Bermuda" tvg-id="HBOSEHD" tvc-guide-stationid="80554",HBO Signature
 http://example.local/BMU-HBOSEHD.ts
-#EXTINF:-1 tvg-chno="18431" tvg-name="HBO Zone" tvg-logo="https://zap2it.tmsimg.com/assets/s18431_ll_h15_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="HBOZ" tvc-guide-stationid="18431",HBO Zone
-http://example.local/BMU-HBOZ.ts
-#EXTINF:-1 tvg-chno="10241" tvg-name="HBO2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_h3_ba.png?w=360&h=270" group-title="Bermuda" tvg-id="HBO2" tvc-guide-stationid="10241",HBO2
-http://example.local/BMU-HBO2.ts
 #EXTINF:-1 tvg-chno="76130" tvg-name="High TV 3D" tvg-logo="https://zap2it.tmsimg.com/assets/s76130_ll_h6_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="HGHTV3D" tvc-guide-stationid="76130",High TV 3D
 http://example.local/BMU-HGHTV3D.ts
 #EXTINF:-1 tvg-chno="29328" tvg-name="Hillsong Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s29328_ll_h15_ab.png?w=360&h=270" group-title="Bermuda" tvg-id="HILLSNG" tvc-guide-stationid="29328",Hillsong Channel
@@ -409,8 +401,6 @@ http://example.local/BMU-MGM.ts
 http://example.local/BMU-MIZZOU.ts
 #EXTINF:-1 tvg-chno="10271" tvg-name="Monumental Sports Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10271_ll_h15_ad.png?w=360&h=270" group-title="Bermuda" tvg-id="MNMT" tvc-guide-stationid="10271",Monumental Sports Network
 http://example.local/BMU-MNMT.ts
-#EXTINF:-1 tvg-chno="10121" tvg-name="MoreMAX" tvg-logo="https://zap2it.tmsimg.com/assets/s10121_h3_aa.png?w=360&h=270" group-title="Bermuda" tvg-id="MOMAX" tvc-guide-stationid="10121",MoreMAX
-http://example.local/BMU-MOMAX.ts
 #EXTINF:-1 tvg-chno="25621" tvg-name="MovieMax" tvg-logo="https://zap2it.tmsimg.com/assets/s25621_ll_h15_ad.png?w=360&h=270" group-title="Bermuda" tvg-id="MOVIE" tvc-guide-stationid="25621",MovieMax
 http://example.local/BMU-MOVIE.ts
 #EXTINF:-1 tvg-chno="16300" tvg-name="MSNBC" tvg-logo="https://zap2it.tmsimg.com/assets/s16300_ll_h15_ac.png?w=360&h=270" group-title="Bermuda" tvg-id="MSNBC" tvc-guide-stationid="16300",MSNBC
