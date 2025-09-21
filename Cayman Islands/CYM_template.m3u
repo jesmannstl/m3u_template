@@ -407,8 +407,6 @@ http://example.local/CYM-HBOPI.ts
 http://example.local/CYM-POPLEH.ts
 #EXTINF:-1 tvg-chno="80554" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png?w=360&h=270" group-title="Cayman Islands" tvg-id="HBOSEHD" tvc-guide-stationid="80554",HBO Signature
 http://example.local/CYM-HBOSEHD.ts
-#EXTINF:-1 tvg-chno="59363" tvg-name="HBO Signature HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59363_ll_h15_aa.png?w=360&h=270" group-title="Cayman Islands" tvg-id="HBOSGHD" tvc-guide-stationid="59363",HBO Signature HD
-http://example.local/CYM-HBOSGHD.ts
 #EXTINF:-1 tvg-chno="57400" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png?w=360&h=270" group-title="Cayman Islands" tvg-id="HBOXMXE" tvc-guide-stationid="57400",HBO Xtreme
 http://example.local/CYM-HBOXMXE.ts
 #EXTINF:-1 tvg-chno="34887" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png?w=360&h=270" group-title="Cayman Islands" tvg-id="HBOXMX" tvc-guide-stationid="34887",HBO Xtreme
@@ -855,9 +853,9 @@ http://example.local/CYM-VICEHD.ts
 http://example.local/CYM-WBL.ts
 #EXTINF:-1 tvg-chno="11301" tvg-name="WBFS (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s51306_ll_h15_ac.png?w=360&h=270" group-title="Cayman Islands" tvg-id="WBFS" tvc-guide-stationid="11301",WBFS (CW)
 http://example.local/CYM-WBFS.ts
-#EXTINF:-1 tvg-chno="32725" tvg-name="WBFS-DT (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s51306_ll_h15_ac.png?w=360&h=270" group-title="Cayman Islands" tvg-id="WBFSDT" tvc-guide-stationid="32725",WBFS-DT (CW)
+#EXTINF:-1 tvg-chno="32725" tvg-name="WBFS-DT (CW)" tvg-logo="https://logos.jesmann.com/wbfsdt.png" group-title="Cayman Islands" tvg-id="WBFSDT" tvc-guide-stationid="32725",WBFS-DT (CW)
 http://example.local/CYM-WBFSDT.ts
-#EXTINF:-1 tvg-chno="20359" tvg-name="WDIV-DT (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s28717_h3_aa.png?w=360&h=270" group-title="Cayman Islands" tvg-id="WDIVDT" tvc-guide-stationid="20359",WDIV-DT (NBC)
+#EXTINF:-1 tvg-chno="20359" tvg-name="WDIV-DT (NBC)" tvg-logo="https://logos.jesmann.com/wdivdt.png" group-title="Cayman Islands" tvg-id="WDIVDT" tvc-guide-stationid="20359",WDIV-DT (NBC)
 http://example.local/CYM-WDIVDT.ts
 #EXTINF:-1 tvg-chno="46487" tvg-name="WFLX-DT2 (BOUNCE)" tvg-logo="https://zap2it.tmsimg.com/assets/s73067_h3_aa.png?w=360&h=270" group-title="Cayman Islands" tvg-id="WFLXDT2" tvc-guide-stationid="46487",WFLX-DT2 (BOUNCE)
 http://example.local/CYM-WFLXDT2.ts
@@ -865,7 +863,7 @@ http://example.local/CYM-WFLXDT2.ts
 http://example.local/CYM-WFLXDT5.ts
 #EXTINF:-1 tvg-chno="11349" tvg-name="WFOR (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png?w=360&h=270" group-title="Cayman Islands" tvg-id="WFOR" tvc-guide-stationid="11349",WFOR (CBS)
 http://example.local/CYM-WFOR.ts
-#EXTINF:-1 tvg-chno="21218" tvg-name="WFOR-DT (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s28711_h3_aa.png?w=360&h=270" group-title="Cayman Islands" tvg-id="WFORDT" tvc-guide-stationid="21218",WFOR-DT (CBS)
+#EXTINF:-1 tvg-chno="21218" tvg-name="WFOR-DT (CBS)" tvg-logo="https://logos.jesmann.com/wfordt.png" group-title="Cayman Islands" tvg-id="WFORDT" tvc-guide-stationid="21218",WFOR-DT (CBS)
 http://example.local/CYM-WFORDT.ts
 #EXTINF:-1 tvg-chno="11474" tvg-name="WGN (Chicago) (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s51306_ll_h15_ac.png?w=360&h=270" group-title="Cayman Islands" tvg-id="WGN" tvc-guide-stationid="11474",WGN (Chicago) (CW)
 http://example.local/CYM-WGN.ts
@@ -879,7 +877,7 @@ http://example.local/CYM-WPBTDT.ts
 http://example.local/CYM-WPIX.ts
 #EXTINF:-1 tvg-chno="11780" tvg-name="WPLG" group-title="Cayman Islands" tvg-id="WPLG" tvc-guide-stationid="11780",WPLG
 http://example.local/CYM-WPLG.ts
-#EXTINF:-1 tvg-chno="20493" tvg-name="WPLG-DT" group-title="Cayman Islands" tvg-id="WPLGDT" tvc-guide-stationid="20493",WPLG-DT
+#EXTINF:-1 tvg-chno="20493" tvg-name="WPLG-DT" tvg-logo="https://logos.jesmann.com/wplgdt.png" group-title="Cayman Islands" tvg-id="WPLGDT" tvc-guide-stationid="20493",WPLG-DT
 http://example.local/CYM-WPLGDT.ts
 #EXTINF:-1 tvg-chno="35515" tvg-name="WPXM-DT (ION)" tvg-logo="https://zap2it.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&h=270" group-title="Cayman Islands" tvg-id="WPXMDT" tvc-guide-stationid="35515",WPXM-DT (ION)
 http://example.local/CYM-WPXMDT.ts
@@ -887,23 +885,23 @@ http://example.local/CYM-WPXMDT.ts
 http://example.local/CYM-WPXMDT2.ts
 #EXTINF:-1 tvg-chno="11398" tvg-name="WSFL" group-title="Cayman Islands" tvg-id="WSFL" tvc-guide-stationid="11398",WSFL
 http://example.local/CYM-WSFL.ts
-#EXTINF:-1 tvg-chno="30304" tvg-name="WSFL-DT" group-title="Cayman Islands" tvg-id="WSFLDT" tvc-guide-stationid="30304",WSFL-DT
+#EXTINF:-1 tvg-chno="30304" tvg-name="WSFL-DT" tvg-logo="https://logos.jesmann.com/wsfldt.png" group-title="Cayman Islands" tvg-id="WSFLDT" tvc-guide-stationid="30304",WSFL-DT
 http://example.local/CYM-WSFLDT.ts
 #EXTINF:-1 tvg-chno="11857" tvg-name="WSVN (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png?w=360&h=270" group-title="Cayman Islands" tvg-id="WSVN" tvc-guide-stationid="11857",WSVN (FOX)
 http://example.local/CYM-WSVN.ts
-#EXTINF:-1 tvg-chno="21220" tvg-name="WSVN-DT (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&h=270" group-title="Cayman Islands" tvg-id="WSVNDT" tvc-guide-stationid="21220",WSVN-DT (FOX)
+#EXTINF:-1 tvg-chno="21220" tvg-name="WSVN-DT (FOX)" tvg-logo="https://logos.jesmann.com/wsvndt.png" group-title="Cayman Islands" tvg-id="WSVNDT" tvc-guide-stationid="21220",WSVN-DT (FOX)
 http://example.local/CYM-WSVNDT.ts
 #EXTINF:-1 tvg-chno="11916" tvg-name="WTVJ (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png?w=360&h=270" group-title="Cayman Islands" tvg-id="WTVJ" tvc-guide-stationid="11916",WTVJ (NBC)
 http://example.local/CYM-WTVJ.ts
-#EXTINF:-1 tvg-chno="21219" tvg-name="WTVJ-DT (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s28717_h3_ba.png?w=360&h=270" group-title="Cayman Islands" tvg-id="WTVJDT" tvc-guide-stationid="21219",WTVJ-DT (NBC)
+#EXTINF:-1 tvg-chno="21219" tvg-name="WTVJ-DT (NBC)" tvg-logo="https://logos.jesmann.com/wtvjdt.png" group-title="Cayman Islands" tvg-id="WTVJDT" tvc-guide-stationid="21219",WTVJ-DT (NBC)
 http://example.local/CYM-WTVJDT.ts
-#EXTINF:-1 tvg-chno="44632" tvg-name="WUHF-DT (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&h=270" group-title="Cayman Islands" tvg-id="WUHFDT" tvc-guide-stationid="44632",WUHF-DT (FOX)
+#EXTINF:-1 tvg-chno="44632" tvg-name="WUHF-DT (FOX)" tvg-logo="https://logos.jesmann.com/wuhfdt.png" group-title="Cayman Islands" tvg-id="WUHFDT" tvc-guide-stationid="44632",WUHF-DT (FOX)
 http://example.local/CYM-WUHFDT.ts
-#EXTINF:-1 tvg-chno="20376" tvg-name="WWJ-DT (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s28711_ll_h15_ab.png?w=360&h=270" group-title="Cayman Islands" tvg-id="WWJDT" tvc-guide-stationid="20376",WWJ-DT (CBS)
+#EXTINF:-1 tvg-chno="20376" tvg-name="WWJ-DT (CBS)" tvg-logo="https://logos.jesmann.com/wwjdt.png" group-title="Cayman Islands" tvg-id="WWJDT" tvc-guide-stationid="20376",WWJ-DT (CBS)
 http://example.local/CYM-WWJDT.ts
 #EXTINF:-1 tvg-chno="11760" tvg-name="WWOR TV Channel 9 (Local New York) (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/s51307_ll_h15_aa.png?w=360&h=270" group-title="Cayman Islands" tvg-id="WWOR" tvc-guide-stationid="11760",WWOR TV Channel 9 (Local New York) (MNT)
 http://example.local/CYM-WWOR.ts
-#EXTINF:-1 tvg-chno="19601" tvg-name="WXYZ-DT (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s28708_ll_h15_ac.png?w=360&h=270" group-title="Cayman Islands" tvg-id="WXYZDT" tvc-guide-stationid="19601",WXYZ-DT (ABC)
+#EXTINF:-1 tvg-chno="19601" tvg-name="WXYZ-DT (ABC)" tvg-logo="https://logos.jesmann.com/wxyzdt.png" group-title="Cayman Islands" tvg-id="WXYZDT" tvc-guide-stationid="19601",WXYZ-DT (ABC)
 http://example.local/CYM-WXYZDT.ts
 #EXTINF:-1 tvg-chno="72790" tvg-name="X107.1" group-title="Cayman Islands" tvg-id="X1071" tvc-guide-stationid="72790",X107.1
 http://example.local/CYM-X1071.ts

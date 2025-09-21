@@ -321,10 +321,6 @@ http://example.local/GRD-HBOSLHD.ts
 http://example.local/GRD-HBOXMX.ts
 #EXTINF:-1 tvg-chno="57400" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png?w=360&h=270" group-title="Grenada" tvg-id="HBOXMXE" tvc-guide-stationid="57400",HBO Xtreme
 http://example.local/GRD-HBOXMXE.ts
-#EXTINF:-1 tvg-chno="10242" tvg-name="HBO2 (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png?w=360&h=270" group-title="Grenada" tvg-id="HBO2P" tvc-guide-stationid="10242",HBO2 (Pacific)
-http://example.local/GRD-HBO2P.ts
-#EXTINF:-1 tvg-chno="59368" tvg-name="HBO2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59368_ll_h15_aa.png?w=360&h=270" group-title="Grenada" tvg-id="HBO2HD" tvc-guide-stationid="59368",HBO2 HD
-http://example.local/GRD-HBO2HD.ts
 #EXTINF:-1 tvg-chno="40137" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png?w=360&h=270" group-title="Grenada" tvg-id="HCLM" tvc-guide-stationid="40137",History
 http://example.local/GRD-HCLM.ts
 #EXTINF:-1 tvg-chno="14771" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s14771_ll_h15_af.png?w=360&h=270" group-title="Grenada" tvg-id="HISTORY" tvc-guide-stationid="14771",History
@@ -563,7 +559,7 @@ http://example.local/GRD-VICE.ts
 http://example.local/GRD-WBL.ts
 #EXTINF:-1 tvg-chno="11323" tvg-name="WBTV (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png?w=360&h=270" group-title="Grenada" tvg-id="WBTV" tvc-guide-stationid="11323",WBTV (CBS)
 http://example.local/GRD-WBTV.ts
-#EXTINF:-1 tvg-chno="21218" tvg-name="WFOR-DT (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s28711_h3_aa.png?w=360&h=270" group-title="Grenada" tvg-id="WFORDT" tvc-guide-stationid="21218",WFOR-DT (CBS)
+#EXTINF:-1 tvg-chno="21218" tvg-name="WFOR-DT (CBS)" tvg-logo="https://logos.jesmann.com/wfordt.png" group-title="Grenada" tvg-id="WFORDT" tvc-guide-stationid="21218",WFOR-DT (CBS)
 http://example.local/GRD-WFORDT.ts
 #EXTINF:-1 tvg-chno="11474" tvg-name="WGN (Chicago) (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s51306_ll_h15_ac.png?w=360&h=270" group-title="Grenada" tvg-id="WGN" tvc-guide-stationid="11474",WGN (Chicago) (CW)
 http://example.local/GRD-WGN.ts
@@ -571,9 +567,9 @@ http://example.local/GRD-WGN.ts
 http://example.local/GRD-FL36MI.ts
 #EXTINF:-1 tvg-chno="11779" tvg-name="WPIX (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s11779_ll_h15_aa.png?w=360&h=270" group-title="Grenada" tvg-id="WPIX" tvc-guide-stationid="11779",WPIX (CW)
 http://example.local/GRD-WPIX.ts
-#EXTINF:-1 tvg-chno="20493" tvg-name="WPLG-DT" group-title="Grenada" tvg-id="WPLGDT" tvc-guide-stationid="20493",WPLG-DT
+#EXTINF:-1 tvg-chno="20493" tvg-name="WPLG-DT" tvg-logo="https://logos.jesmann.com/wplgdt.png" group-title="Grenada" tvg-id="WPLGDT" tvc-guide-stationid="20493",WPLG-DT
 http://example.local/GRD-WPLGDT.ts
-#EXTINF:-1 tvg-chno="21220" tvg-name="WSVN-DT (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&h=270" group-title="Grenada" tvg-id="WSVNDT" tvc-guide-stationid="21220",WSVN-DT (FOX)
+#EXTINF:-1 tvg-chno="21220" tvg-name="WSVN-DT (FOX)" tvg-logo="https://logos.jesmann.com/wsvndt.png" group-title="Grenada" tvg-id="WSVNDT" tvc-guide-stationid="21220",WSVN-DT (FOX)
 http://example.local/GRD-WSVNDT.ts
 #EXTINF:-1 tvg-chno="11916" tvg-name="WTVJ (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png?w=360&h=270" group-title="Grenada" tvg-id="WTVJ" tvc-guide-stationid="11916",WTVJ (NBC)
 http://example.local/GRD-WTVJ.ts

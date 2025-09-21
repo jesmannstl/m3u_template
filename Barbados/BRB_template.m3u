@@ -455,16 +455,12 @@ http://example.local/BRB-HBOSEHD.ts
 http://example.local/BRB-HBOSLA.ts
 #EXTINF:-1 tvg-chno="80120" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png?w=360&h=270" group-title="Barbados" tvg-id="HBOSLHD" tvc-guide-stationid="80120",HBO Signature
 http://example.local/BRB-HBOSLHD.ts
-#EXTINF:-1 tvg-chno="59363" tvg-name="HBO Signature HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59363_ll_h15_aa.png?w=360&h=270" group-title="Barbados" tvg-id="HBOSGHD" tvc-guide-stationid="59363",HBO Signature HD
-http://example.local/BRB-HBOSGHD.ts
 #EXTINF:-1 tvg-chno="34887" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png?w=360&h=270" group-title="Barbados" tvg-id="HBOXMX" tvc-guide-stationid="34887",HBO Xtreme
 http://example.local/BRB-HBOXMX.ts
 #EXTINF:-1 tvg-chno="57400" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png?w=360&h=270" group-title="Barbados" tvg-id="HBOXMXE" tvc-guide-stationid="57400",HBO Xtreme
 http://example.local/BRB-HBOXMXE.ts
 #EXTINF:-1 tvg-chno="80199" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png?w=360&h=270" group-title="Barbados" tvg-id="HBOXLA" tvc-guide-stationid="80199",HBO Xtreme
 http://example.local/BRB-HBOXLA.ts
-#EXTINF:-1 tvg-chno="10242" tvg-name="HBO2 (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png?w=360&h=270" group-title="Barbados" tvg-id="HBO2P" tvc-guide-stationid="10242",HBO2 (Pacific)
-http://example.local/BRB-HBO2P.ts
 #EXTINF:-1 tvg-chno="29328" tvg-name="Hillsong Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s29328_ll_h15_ab.png?w=360&h=270" group-title="Barbados" tvg-id="HILLSNG" tvc-guide-stationid="29328",Hillsong Channel
 http://example.local/BRB-HILLSNG.ts
 #EXTINF:-1 tvg-chno="40137" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png?w=360&h=270" group-title="Barbados" tvg-id="HCLM" tvc-guide-stationid="40137",History
@@ -981,7 +977,7 @@ http://example.local/BRB-WBLHD.ts
 http://example.local/BRB-WBFS.ts
 #EXTINF:-1 tvg-chno="11349" tvg-name="WFOR (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png?w=360&h=270" group-title="Barbados" tvg-id="WFOR" tvc-guide-stationid="11349",WFOR (CBS)
 http://example.local/BRB-WFOR.ts
-#EXTINF:-1 tvg-chno="21218" tvg-name="WFOR-DT (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s28711_h3_aa.png?w=360&h=270" group-title="Barbados" tvg-id="WFORDT" tvc-guide-stationid="21218",WFOR-DT (CBS)
+#EXTINF:-1 tvg-chno="21218" tvg-name="WFOR-DT (CBS)" tvg-logo="https://logos.jesmann.com/wfordt.png" group-title="Barbados" tvg-id="WFORDT" tvc-guide-stationid="21218",WFOR-DT (CBS)
 http://example.local/BRB-WFORDT.ts
 #EXTINF:-1 tvg-chno="67494" tvg-name="WI Sports" group-title="Barbados" tvg-id="WISPORT" tvc-guide-stationid="67494",WI Sports
 http://example.local/BRB-WISPORT.ts
@@ -993,21 +989,21 @@ http://example.local/BRB-WPBTDT.ts
 http://example.local/BRB-WPIX.ts
 #EXTINF:-1 tvg-chno="11780" tvg-name="WPLG" group-title="Barbados" tvg-id="WPLG" tvc-guide-stationid="11780",WPLG
 http://example.local/BRB-WPLG.ts
-#EXTINF:-1 tvg-chno="20493" tvg-name="WPLG-DT" group-title="Barbados" tvg-id="WPLGDT" tvc-guide-stationid="20493",WPLG-DT
+#EXTINF:-1 tvg-chno="20493" tvg-name="WPLG-DT" tvg-logo="https://logos.jesmann.com/wplgdt.png" group-title="Barbados" tvg-id="WPLGDT" tvc-guide-stationid="20493",WPLG-DT
 http://example.local/BRB-WPLGDT.ts
 #EXTINF:-1 tvg-chno="11803" tvg-name="WQLN (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png?w=360&h=270" group-title="Barbados" tvg-id="WQLN" tvc-guide-stationid="11803",WQLN (PBS)
 http://example.local/BRB-WQLN.ts
 #EXTINF:-1 tvg-chno="11837" tvg-name="WSEE (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png?w=360&h=270" group-title="Barbados" tvg-id="WSEE" tvc-guide-stationid="11837",WSEE (CBS)
 http://example.local/BRB-WSEE.ts
-#EXTINF:-1 tvg-chno="21220" tvg-name="WSVN-DT (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&h=270" group-title="Barbados" tvg-id="WSVNDT" tvc-guide-stationid="21220",WSVN-DT (FOX)
+#EXTINF:-1 tvg-chno="21220" tvg-name="WSVN-DT (FOX)" tvg-logo="https://logos.jesmann.com/wsvndt.png" group-title="Barbados" tvg-id="WSVNDT" tvc-guide-stationid="21220",WSVN-DT (FOX)
 http://example.local/BRB-WSVNDT.ts
 #EXTINF:-1 tvg-chno="11916" tvg-name="WTVJ (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png?w=360&h=270" group-title="Barbados" tvg-id="WTVJ" tvc-guide-stationid="11916",WTVJ (NBC)
 http://example.local/BRB-WTVJ.ts
-#EXTINF:-1 tvg-chno="21219" tvg-name="WTVJ-DT (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s28717_h3_ba.png?w=360&h=270" group-title="Barbados" tvg-id="WTVJDT" tvc-guide-stationid="21219",WTVJ-DT (NBC)
+#EXTINF:-1 tvg-chno="21219" tvg-name="WTVJ-DT (NBC)" tvg-logo="https://logos.jesmann.com/wtvjdt.png" group-title="Barbados" tvg-id="WTVJDT" tvc-guide-stationid="21219",WTVJ-DT (NBC)
 http://example.local/BRB-WTVJDT.ts
 #EXTINF:-1 tvg-chno="11760" tvg-name="WWOR TV Channel 9 (Local New York) (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/s51307_ll_h15_aa.png?w=360&h=270" group-title="Barbados" tvg-id="WWOR" tvc-guide-stationid="11760",WWOR TV Channel 9 (Local New York) (MNT)
 http://example.local/BRB-WWOR.ts
-#EXTINF:-1 tvg-chno="26566" tvg-name="WWOR-DT (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/s51307_ll_h15_aa.png?w=360&h=270" group-title="Barbados" tvg-id="WWORDT" tvc-guide-stationid="26566",WWOR-DT (MNT)
+#EXTINF:-1 tvg-chno="26566" tvg-name="WWOR-DT (MNT)" tvg-logo="https://logos.jesmann.com/wwordt.png" group-title="Barbados" tvg-id="WWORDT" tvc-guide-stationid="26566",WWOR-DT (MNT)
 http://example.local/BRB-WWORDT.ts
 #EXTINF:-1 tvg-chno="90968" tvg-name="Zee TV Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s90968_ll_h15_aa.png?w=360&h=270" group-title="Barbados" tvg-id="ZEECAR" tvc-guide-stationid="90968",Zee TV Caribbean
 http://example.local/BRB-ZEECAR.ts

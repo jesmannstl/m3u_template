@@ -737,10 +737,6 @@ http://example.local/JAM-HBOXMXH.ts
 http://example.local/JAM-HBOXMXE.ts
 #EXTINF:-1 tvg-chno="34887" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png?w=360&h=270" group-title="Jamaica" tvg-id="HBOXMX" tvc-guide-stationid="34887",HBO Xtreme
 http://example.local/JAM-HBOXMX.ts
-#EXTINF:-1 tvg-chno="10242" tvg-name="HBO2 (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png?w=360&h=270" group-title="Jamaica" tvg-id="HBO2P" tvc-guide-stationid="10242",HBO2 (Pacific)
-http://example.local/JAM-HBO2P.ts
-#EXTINF:-1 tvg-chno="59368" tvg-name="HBO2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59368_ll_h15_aa.png?w=360&h=270" group-title="Jamaica" tvg-id="HBO2HD" tvc-guide-stationid="59368",HBO2 HD
-http://example.local/JAM-HBO2HD.ts
 #EXTINF:-1 tvg-chno="29328" tvg-name="Hillsong Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s29328_ll_h15_ab.png?w=360&h=270" group-title="Jamaica" tvg-id="HILLSNG" tvc-guide-stationid="29328",Hillsong Channel
 http://example.local/JAM-HILLSNG.ts
 #EXTINF:-1 tvg-chno="14771" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s14771_ll_h15_af.png?w=360&h=270" group-title="Jamaica" tvg-id="HISTORY" tvc-guide-stationid="14771",History
@@ -1575,7 +1571,7 @@ http://example.local/JAM-WABC.ts
 http://example.local/JAM-WBLI2.ts
 #EXTINF:-1 tvg-chno="16255" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_ll_h15_ae.png?w=360&h=270" group-title="Jamaica" tvg-id="WBI" tvc-guide-stationid="16255",Warner Channel
 http://example.local/JAM-WBI.ts
-#EXTINF:-1 tvg-chno="32725" tvg-name="WBFS-DT (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s51306_ll_h15_ac.png?w=360&h=270" group-title="Jamaica" tvg-id="WBFSDT" tvc-guide-stationid="32725",WBFS-DT (CW)
+#EXTINF:-1 tvg-chno="32725" tvg-name="WBFS-DT (CW)" tvg-logo="https://logos.jesmann.com/wbfsdt.png" group-title="Jamaica" tvg-id="WBFSDT" tvc-guide-stationid="32725",WBFS-DT (CW)
 http://example.local/JAM-WBFSDT.ts
 #EXTINF:-1 tvg-chno="11323" tvg-name="WBTV (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png?w=360&h=270" group-title="Jamaica" tvg-id="WBTV" tvc-guide-stationid="11323",WBTV (CBS)
 http://example.local/JAM-WBTV.ts
@@ -1591,7 +1587,7 @@ http://example.local/JAM-TRADBL.ts
 http://example.local/JAM-WFLXDT2.ts
 #EXTINF:-1 tvg-chno="11349" tvg-name="WFOR (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png?w=360&h=270" group-title="Jamaica" tvg-id="WFOR" tvc-guide-stationid="11349",WFOR (CBS)
 http://example.local/JAM-WFOR.ts
-#EXTINF:-1 tvg-chno="21218" tvg-name="WFOR-DT (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s28711_h3_aa.png?w=360&h=270" group-title="Jamaica" tvg-id="WFORDT" tvc-guide-stationid="21218",WFOR-DT (CBS)
+#EXTINF:-1 tvg-chno="21218" tvg-name="WFOR-DT (CBS)" tvg-logo="https://logos.jesmann.com/wfordt.png" group-title="Jamaica" tvg-id="WFORDT" tvc-guide-stationid="21218",WFOR-DT (CBS)
 http://example.local/JAM-WFORDT.ts
 #EXTINF:-1 tvg-chno="11474" tvg-name="WGN (Chicago) (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s51306_ll_h15_ac.png?w=360&h=270" group-title="Jamaica" tvg-id="WGN" tvc-guide-stationid="11474",WGN (Chicago) (CW)
 http://example.local/JAM-WGN.ts
@@ -1615,33 +1611,33 @@ http://example.local/JAM-WPBT.ts
 http://example.local/JAM-WPBTDT.ts
 #EXTINF:-1 tvg-chno="11779" tvg-name="WPIX (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s11779_ll_h15_aa.png?w=360&h=270" group-title="Jamaica" tvg-id="WPIX" tvc-guide-stationid="11779",WPIX (CW)
 http://example.local/JAM-WPIX.ts
-#EXTINF:-1 tvg-chno="20373" tvg-name="WPIX-DT (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s53098_ll_h15_ac.png?w=360&h=270" group-title="Jamaica" tvg-id="WPIXDT" tvc-guide-stationid="20373",WPIX-DT (CW)
+#EXTINF:-1 tvg-chno="20373" tvg-name="WPIX-DT (CW)" tvg-logo="https://logos.jesmann.com/wpixdt.png" group-title="Jamaica" tvg-id="WPIXDT" tvc-guide-stationid="20373",WPIX-DT (CW)
 http://example.local/JAM-WPIXDT.ts
 #EXTINF:-1 tvg-chno="11780" tvg-name="WPLG" group-title="Jamaica" tvg-id="WPLG" tvc-guide-stationid="11780",WPLG
 http://example.local/JAM-WPLG.ts
-#EXTINF:-1 tvg-chno="20493" tvg-name="WPLG-DT" group-title="Jamaica" tvg-id="WPLGDT" tvc-guide-stationid="20493",WPLG-DT
+#EXTINF:-1 tvg-chno="20493" tvg-name="WPLG-DT" tvg-logo="https://logos.jesmann.com/wplgdt.png" group-title="Jamaica" tvg-id="WPLGDT" tvc-guide-stationid="20493",WPLG-DT
 http://example.local/JAM-WPLGDT.ts
 #EXTINF:-1 tvg-chno="11837" tvg-name="WSEE (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png?w=360&h=270" group-title="Jamaica" tvg-id="WSEE" tvc-guide-stationid="11837",WSEE (CBS)
 http://example.local/JAM-WSEE.ts
-#EXTINF:-1 tvg-chno="58874" tvg-name="WSEE-DT (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s28711_h3_aa.png?w=360&h=270" group-title="Jamaica" tvg-id="WSEEDT" tvc-guide-stationid="58874",WSEE-DT (CBS)
+#EXTINF:-1 tvg-chno="58874" tvg-name="WSEE-DT (CBS)" tvg-logo="https://logos.jesmann.com/wseedt.png" group-title="Jamaica" tvg-id="WSEEDT" tvc-guide-stationid="58874",WSEE-DT (CBS)
 http://example.local/JAM-WSEEDT.ts
 #EXTINF:-1 tvg-chno="34045" tvg-name="WSEESAT (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png?w=360&h=270" group-title="Jamaica" tvg-id="WSEESAT" tvc-guide-stationid="34045",WSEESAT (CBS)
 http://example.local/JAM-WSEESAT.ts
 #EXTINF:-1 tvg-chno="11857" tvg-name="WSVN (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png?w=360&h=270" group-title="Jamaica" tvg-id="WSVN" tvc-guide-stationid="11857",WSVN (FOX)
 http://example.local/JAM-WSVN.ts
-#EXTINF:-1 tvg-chno="21220" tvg-name="WSVN-DT (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&h=270" group-title="Jamaica" tvg-id="WSVNDT" tvc-guide-stationid="21220",WSVN-DT (FOX)
+#EXTINF:-1 tvg-chno="21220" tvg-name="WSVN-DT (FOX)" tvg-logo="https://logos.jesmann.com/wsvndt.png" group-title="Jamaica" tvg-id="WSVNDT" tvc-guide-stationid="21220",WSVN-DT (FOX)
 http://example.local/JAM-WSVNDT.ts
 #EXTINF:-1 tvg-chno="11916" tvg-name="WTVJ (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png?w=360&h=270" group-title="Jamaica" tvg-id="WTVJ" tvc-guide-stationid="11916",WTVJ (NBC)
 http://example.local/JAM-WTVJ.ts
-#EXTINF:-1 tvg-chno="21219" tvg-name="WTVJ-DT (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s28717_h3_ba.png?w=360&h=270" group-title="Jamaica" tvg-id="WTVJDT" tvc-guide-stationid="21219",WTVJ-DT (NBC)
+#EXTINF:-1 tvg-chno="21219" tvg-name="WTVJ-DT (NBC)" tvg-logo="https://logos.jesmann.com/wtvjdt.png" group-title="Jamaica" tvg-id="WTVJDT" tvc-guide-stationid="21219",WTVJ-DT (NBC)
 http://example.local/JAM-WTVJDT.ts
 #EXTINF:-1 tvg-chno="11953" tvg-name="WUTV (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png?w=360&h=270" group-title="Jamaica" tvg-id="WUTV" tvc-guide-stationid="11953",WUTV (FOX)
 http://example.local/JAM-WUTV.ts
-#EXTINF:-1 tvg-chno="42945" tvg-name="WUTV-DT (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&h=270" group-title="Jamaica" tvg-id="WUTVDT" tvc-guide-stationid="42945",WUTV-DT (FOX)
+#EXTINF:-1 tvg-chno="42945" tvg-name="WUTV-DT (FOX)" tvg-logo="https://logos.jesmann.com/wutvdt.png" group-title="Jamaica" tvg-id="WUTVDT" tvc-guide-stationid="42945",WUTV-DT (FOX)
 http://example.local/JAM-WUTVDT.ts
 #EXTINF:-1 tvg-chno="11760" tvg-name="WWOR TV Channel 9 (Local New York) (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/s51307_ll_h15_aa.png?w=360&h=270" group-title="Jamaica" tvg-id="WWOR" tvc-guide-stationid="11760",WWOR TV Channel 9 (Local New York) (MNT)
 http://example.local/JAM-WWOR.ts
-#EXTINF:-1 tvg-chno="26566" tvg-name="WWOR-DT (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/s51307_ll_h15_aa.png?w=360&h=270" group-title="Jamaica" tvg-id="WWORDT" tvc-guide-stationid="26566",WWOR-DT (MNT)
+#EXTINF:-1 tvg-chno="26566" tvg-name="WWOR-DT (MNT)" tvg-logo="https://logos.jesmann.com/wwordt.png" group-title="Jamaica" tvg-id="WWORDT" tvc-guide-stationid="26566",WWOR-DT (MNT)
 http://example.local/JAM-WWORDT.ts
 #EXTINF:-1 tvg-chno="16315" tvg-name="Xtsy-New Frontier" tvg-logo="https://zap2it.tmsimg.com/assets/s16315_ll_h15_aa.png?w=360&h=270" group-title="Jamaica" tvg-id="XTSY" tvc-guide-stationid="16315",Xtsy-New Frontier
 http://example.local/JAM-XTSY.ts
