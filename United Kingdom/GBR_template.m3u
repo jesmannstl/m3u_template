@@ -1195,13 +1195,13 @@ http://example.local/GBR-ITVBSHD.ts
 http://example.local/GBR-ITVP1CE.ts
 #EXTINF:-1 tvg-chno="65165" tvg-name="ITV1 Granada Border +1" tvg-logo="https://zap2it.tmsimg.com/assets/s65165_ll_h15_ac.png" group-title="United Kingdom" tvg-id="ITVP1GB" tvc-guide-stationid="65165",ITV1 Granada Border +1
 http://example.local/GBR-ITVP1GB.ts
-#EXTINF:-1 tvg-chno="67372" tvg-name="ITV1 HD (Central, West and Wales)" tvg-logo="https://zap2it.tmsimg.com/assets/s67372_ll_h15_ac.png" group-title="United Kingdom" tvg-id="ITV1HDC" tvc-guide-stationid="67372",ITV1 HD (Central, West and Wales)
+#EXTINF:-1 tvg-chno="67372" tvg-name="ITV1 HD (Central West and Wales)" tvg-logo="https://zap2it.tmsimg.com/assets/s67372_ll_h15_ac.png" group-title="United Kingdom" tvg-id="ITV1HDC" tvc-guide-stationid="67372",ITV1 HD (Central West and Wales)
 http://example.local/GBR-ITV1HDC.ts
-#EXTINF:-1 tvg-chno="65983" tvg-name="ITV1 HD (Granada, Yorkshire, Border)" tvg-logo="https://zap2it.tmsimg.com/assets/s65983_ll_h15_ad.png" group-title="United Kingdom" tvg-id="ITV1HDG" tvc-guide-stationid="65983",ITV1 HD (Granada, Yorkshire, Border)
+#EXTINF:-1 tvg-chno="65983" tvg-name="ITV1 HD (Granada Yorkshire Border)" tvg-logo="https://zap2it.tmsimg.com/assets/s65983_ll_h15_ad.png" group-title="United Kingdom" tvg-id="ITV1HDG" tvc-guide-stationid="65983",ITV1 HD (Granada Yorkshire Border)
 http://example.local/GBR-ITV1HDG.ts
 #EXTINF:-1 tvg-chno="50523" tvg-name="ITV1 HD (London)" tvg-logo="https://zap2it.tmsimg.com/assets/s50523_ll_h15_ae.png" group-title="United Kingdom" tvg-id="ITV1HDL" tvc-guide-stationid="50523",ITV1 HD (London)
 http://example.local/GBR-ITV1HDL.ts
-#EXTINF:-1 tvg-chno="67073" tvg-name="ITV1 HD (Meridian, Anglia)" tvg-logo="https://zap2it.tmsimg.com/assets/s67073_ll_h15_ab.png" group-title="United Kingdom" tvg-id="ITV1HDS" tvc-guide-stationid="67073",ITV1 HD (Meridian, Anglia)
+#EXTINF:-1 tvg-chno="67073" tvg-name="ITV1 HD (Meridian Anglia)" tvg-logo="https://zap2it.tmsimg.com/assets/s67073_ll_h15_ab.png" group-title="United Kingdom" tvg-id="ITV1HDS" tvc-guide-stationid="67073",ITV1 HD (Meridian Anglia)
 http://example.local/GBR-ITV1HDS.ts
 #EXTINF:-1 tvg-chno="96374" tvg-name="ITV1 HD (Wales)" tvg-logo="https://zap2it.tmsimg.com/assets/s96374_ll_h15_ab.png" group-title="United Kingdom" tvg-id="ITV1WAH" tvc-guide-stationid="96374",ITV1 HD (Wales)
 http://example.local/GBR-ITV1WAH.ts
@@ -1799,7 +1799,7 @@ http://example.local/GBR-RTE1.ts
 http://example.local/GBR-S4CD.ts
 #EXTINF:-1 tvg-chno="99597" tvg-name="S4C HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99597_ll_h15_aa.png" group-title="United Kingdom" tvg-id="S4CHDVM" tvc-guide-stationid="99597",S4C HD
 http://example.local/GBR-S4CHDVM.ts
-#EXTINF:-1 tvg-chno="110537" tvg-name="S4C HD (England, Scotland, NI)" tvg-logo="https://zap2it.tmsimg.com/assets/s110537_ll_h9_aa.png" group-title="United Kingdom" tvg-id="S4CEHD" tvc-guide-stationid="110537",S4C HD (England, Scotland, NI)
+#EXTINF:-1 tvg-chno="110537" tvg-name="S4C HD (England Scotland NI)" tvg-logo="https://zap2it.tmsimg.com/assets/s110537_ll_h9_aa.png" group-title="United Kingdom" tvg-id="S4CEHD" tvc-guide-stationid="110537",S4C HD (England Scotland NI)
 http://example.local/GBR-S4CEHD.ts
 #EXTINF:-1 tvg-chno="110536" tvg-name="S4C HD (Wales)" tvg-logo="https://zap2it.tmsimg.com/assets/s110536_ll_h9_aa.png" group-title="United Kingdom" tvg-id="S4CWHD" tvc-guide-stationid="110536",S4C HD (Wales)
 http://example.local/GBR-S4CWHD.ts

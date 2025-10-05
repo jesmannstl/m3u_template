@@ -613,6 +613,8 @@ http://example.local/PER-HCLI.ts
 http://example.local/PER-H2LAME.ts
 #EXTINF:-1 tvg-chno="80374" tvg-name="History 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_ll_h15_ae.png" group-title="Peru" tvg-id="H2LAM" tvc-guide-stationid="80374",History 2
 http://example.local/PER-H2LAM.ts
+#EXTINF:-1 tvg-chno="92054" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Peru" tvg-id="HOLALAH" tvc-guide-stationid="92054",HOLA! TV
+http://example.local/PER-HOLALAH.ts
 #EXTINF:-1 tvg-chno="15969" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png" group-title="Peru" tvg-id="HTVLA" tvc-guide-stationid="15969",HTV
 http://example.local/PER-HTVLA.ts
 #EXTINF:-1 tvg-chno="45498" tvg-name="Hustler TV" tvg-logo="https://zap2it.tmsimg.com/assets/s45498_ll_h15_aa.png" group-title="Peru" tvg-id="HUSTLR" tvc-guide-stationid="45498",Hustler TV
@@ -1023,5 +1025,3 @@ http://example.local/PER-DXHDF.ts
 http://example.local/PER-XTSY.ts
 #EXTINF:-1 tvg-chno="21497" tvg-name="Zee TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0022HE0M.png" group-title="Peru" tvg-id="ZEE" tvc-guide-stationid="21497",Zee TV HD
 http://example.local/PER-ZEE.ts
-#EXTINF:-1 tvg-chno="92054" tvg-name="¡HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Peru" tvg-id="HOLALAH" tvc-guide-stationid="92054",¡HOLA! TV
-http://example.local/PER-HOLALAH.ts

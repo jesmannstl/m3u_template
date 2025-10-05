@@ -119,6 +119,8 @@ http://example.local/ESP-BOMESP.ts
 http://example.local/ESP-BRNORD.ts
 #EXTINF:-1 tvg-chno="90623" tvg-name="BR Fernsehen Süd (BRGER)" tvg-logo="https://zap2it.tmsimg.com/assets/s90623_ll_h15_ab.png" group-title="Spain" tvg-id="BRSUED" tvc-guide-stationid="90623",BR Fernsehen Süd (BRGER)
 http://example.local/ESP-BRSUED.ts
+#EXTINF:-1 tvg-chno="53993" tvg-name="Buenviaje!" tvg-logo="https://zap2it.tmsimg.com/assets/s53993_ll_h15_ac.png" group-title="Spain" tvg-id="BUENVIA" tvc-guide-stationid="53993",Buenviaje!
+http://example.local/ESP-BUENVIA.ts
 #EXTINF:-1 tvg-chno="113316" tvg-name="BunnyClub 24" group-title="Spain" tvg-id="BUNNY24" tvc-guide-stationid="113316",BunnyClub 24
 http://example.local/ESP-BUNNY24.ts
 #EXTINF:-1 tvg-chno="90352" tvg-name="Calle 13 Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s90352_ll_h15_aa.png" group-title="Spain" tvg-id="CALL13" tvc-guide-stationid="90352",Calle 13 Universal
@@ -989,5 +991,3 @@ http://example.local/ESP-ZDFINHD.ts
 http://example.local/ESP-ZDFNGEH.ts
 #EXTINF:-1 tvg-chno="90438" tvg-name="ZDFneo HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90438_ll_h15_ac.png" group-title="Spain" tvg-id="ZDFNGHD" tvc-guide-stationid="90438",ZDFneo HD
 http://example.local/ESP-ZDFNGHD.ts
-#EXTINF:-1 tvg-chno="53993" tvg-name="¡Buenviaje!" tvg-logo="https://zap2it.tmsimg.com/assets/s53993_ll_h15_ac.png" group-title="Spain" tvg-id="BUENVIA" tvc-guide-stationid="53993",¡Buenviaje!
-http://example.local/ESP-BUENVIA.ts

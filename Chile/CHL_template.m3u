@@ -791,6 +791,10 @@ http://example.local/CHL-HCLVEHD.ts
 http://example.local/CHL-H2LAT.ts
 #EXTINF:-1 tvg-chno="80374" tvg-name="History 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_ll_h15_ae.png" group-title="Chile" tvg-id="H2LAM" tvc-guide-stationid="80374",History 2
 http://example.local/CHL-H2LAM.ts
+#EXTINF:-1 tvg-chno="92054" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Chile" tvg-id="HOLALAH" tvc-guide-stationid="92054",HOLA! TV
+http://example.local/CHL-HOLALAH.ts
+#EXTINF:-1 tvg-chno="82970" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Chile" tvg-id="HOLALA" tvc-guide-stationid="82970",HOLA! TV
+http://example.local/CHL-HOLALA.ts
 #EXTINF:-1 tvg-chno="111621" tvg-name="Holvoet TV" group-title="Chile" tvg-id="HOLAC" tvc-guide-stationid="111621",Holvoet TV
 http://example.local/CHL-HOLAC.ts
 #EXTINF:-1 tvg-chno="15969" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png" group-title="Chile" tvg-id="HTVLA" tvc-guide-stationid="15969",HTV
@@ -1427,7 +1431,3 @@ http://example.local/CHL-ZEE.ts
 http://example.local/CHL-ZONAL.ts
 #EXTINF:-1 tvg-chno="110065" tvg-name="ZooMoo" tvg-logo="https://zap2it.tmsimg.com/assets/s89920_ll_h15_ab.png" group-title="Chile" tvg-id="ZOOMOSH" tvc-guide-stationid="110065",ZooMoo
 http://example.local/CHL-ZOOMOSH.ts
-#EXTINF:-1 tvg-chno="92054" tvg-name="¡HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Chile" tvg-id="HOLALAH" tvc-guide-stationid="92054",¡HOLA! TV
-http://example.local/CHL-HOLALAH.ts
-#EXTINF:-1 tvg-chno="82970" tvg-name="¡HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Chile" tvg-id="HOLALA" tvc-guide-stationid="82970",¡HOLA! TV
-http://example.local/CHL-HOLALA.ts

@@ -595,6 +595,10 @@ http://example.local/GTM-H2LAME.ts
 http://example.local/GTM-H2LAM.ts
 #EXTINF:-1 tvg-chno="10145" tvg-name="HLN" tvg-logo="https://zap2it.tmsimg.com/assets/s10145_ll_h15_ac.png" group-title="Guatemala" tvg-id="HLN" tvc-guide-stationid="10145",HLN
 http://example.local/GTM-HLN.ts
+#EXTINF:-1 tvg-chno="92054" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Guatemala" tvg-id="HOLALAH" tvc-guide-stationid="92054",HOLA! TV
+http://example.local/GTM-HOLALAH.ts
+#EXTINF:-1 tvg-chno="82970" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Guatemala" tvg-id="HOLALA" tvc-guide-stationid="82970",HOLA! TV
+http://example.local/GTM-HOLALA.ts
 #EXTINF:-1 tvg-chno="14902" tvg-name="Home & Garden Television" tvg-logo="https://zap2it.tmsimg.com/assets/s14902_ll_h15_ab.png" group-title="Guatemala" tvg-id="HGTV" tvc-guide-stationid="14902",Home & Garden Television
 http://example.local/GTM-HGTV.ts
 #EXTINF:-1 tvg-chno="110785" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png" group-title="Guatemala" tvg-id="HTVLAH" tvc-guide-stationid="110785",HTV
@@ -965,7 +969,3 @@ http://example.local/GTM-CANL14.ts
 http://example.local/GTM-XHUNAM.ts
 #EXTINF:-1 tvg-chno="62681" tvg-name="XTSY Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s62681_ll_h15_aa.png" group-title="Guatemala" tvg-id="XTSYLA" tvc-guide-stationid="62681",XTSY Spanish
 http://example.local/GTM-XTSYLA.ts
-#EXTINF:-1 tvg-chno="92054" tvg-name="¡HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Guatemala" tvg-id="HOLALAH" tvc-guide-stationid="92054",¡HOLA! TV
-http://example.local/GTM-HOLALAH.ts
-#EXTINF:-1 tvg-chno="82970" tvg-name="¡HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Guatemala" tvg-id="HOLALA" tvc-guide-stationid="82970",¡HOLA! TV
-http://example.local/GTM-HOLALA.ts

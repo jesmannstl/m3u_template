@@ -531,6 +531,8 @@ http://example.local/CRI-H2LAME.ts
 http://example.local/CRI-H2LAM.ts
 #EXTINF:-1 tvg-chno="10145" tvg-name="HLN" tvg-logo="https://zap2it.tmsimg.com/assets/s10145_ll_h15_ac.png" group-title="Costa Rica" tvg-id="HLN" tvc-guide-stationid="10145",HLN
 http://example.local/CRI-HLN.ts
+#EXTINF:-1 tvg-chno="82970" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Costa Rica" tvg-id="HOLALA" tvc-guide-stationid="82970",HOLA! TV
+http://example.local/CRI-HOLALA.ts
 #EXTINF:-1 tvg-chno="14902" tvg-name="Home & Garden Television" tvg-logo="https://zap2it.tmsimg.com/assets/s14902_ll_h15_ab.png" group-title="Costa Rica" tvg-id="HGTV" tvc-guide-stationid="14902",Home & Garden Television
 http://example.local/CRI-HGTV.ts
 #EXTINF:-1 tvg-chno="15969" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png" group-title="Costa Rica" tvg-id="HTVLA" tvc-guide-stationid="15969",HTV
@@ -901,5 +903,3 @@ http://example.local/CRI-XHTVTDT.ts
 http://example.local/CRI-XHUNAM.ts
 #EXTINF:-1 tvg-chno="62681" tvg-name="XTSY Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s62681_ll_h15_aa.png" group-title="Costa Rica" tvg-id="XTSYLA" tvc-guide-stationid="62681",XTSY Spanish
 http://example.local/CRI-XTSYLA.ts
-#EXTINF:-1 tvg-chno="82970" tvg-name="¡HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Costa Rica" tvg-id="HOLALA" tvc-guide-stationid="82970",¡HOLA! TV
-http://example.local/CRI-HOLALA.ts

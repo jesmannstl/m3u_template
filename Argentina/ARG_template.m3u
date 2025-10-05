@@ -621,6 +621,10 @@ http://example.local/ARG-H2LAM.ts
 http://example.local/ARG-HCCHDA.ts
 #EXTINF:-1 tvg-chno="167768" tvg-name="History HD" group-title="Argentina" tvg-id="HISTARG" tvc-guide-stationid="167768",History HD
 http://example.local/ARG-HISTARG.ts
+#EXTINF:-1 tvg-chno="92054" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Argentina" tvg-id="HOLALAH" tvc-guide-stationid="92054",HOLA! TV
+http://example.local/ARG-HOLALAH.ts
+#EXTINF:-1 tvg-chno="82970" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Argentina" tvg-id="HOLALA" tvc-guide-stationid="82970",HOLA! TV
+http://example.local/ARG-HOLALA.ts
 #EXTINF:-1 tvg-chno="110785" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png" group-title="Argentina" tvg-id="HTVLAH" tvc-guide-stationid="110785",HTV
 http://example.local/ARG-HTVLAH.ts
 #EXTINF:-1 tvg-chno="15969" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png" group-title="Argentina" tvg-id="HTVLA" tvc-guide-stationid="15969",HTV
@@ -1147,7 +1151,3 @@ http://example.local/ARG-XTSYLA.ts
 http://example.local/ARG-ZOOMOSP.ts
 #EXTINF:-1 tvg-chno="110065" tvg-name="ZooMoo" tvg-logo="https://zap2it.tmsimg.com/assets/s89920_ll_h15_ab.png" group-title="Argentina" tvg-id="ZOOMOSH" tvc-guide-stationid="110065",ZooMoo
 http://example.local/ARG-ZOOMOSH.ts
-#EXTINF:-1 tvg-chno="92054" tvg-name="¡HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Argentina" tvg-id="HOLALAH" tvc-guide-stationid="92054",¡HOLA! TV
-http://example.local/ARG-HOLALAH.ts
-#EXTINF:-1 tvg-chno="82970" tvg-name="¡HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Argentina" tvg-id="HOLALA" tvc-guide-stationid="82970",¡HOLA! TV
-http://example.local/ARG-HOLALA.ts

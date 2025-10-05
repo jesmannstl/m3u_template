@@ -735,6 +735,10 @@ http://example.local/COL-HJMY.ts
 http://example.local/COL-HJRB.ts
 #EXTINF:-1 tvg-chno="87063" tvg-name="Hogar TV" tvg-logo="https://zap2it.tmsimg.com/assets/s87063_ll_h9_aa.png" group-title="Colombia" tvg-id="HOGAR" tvc-guide-stationid="87063",Hogar TV
 http://example.local/COL-HOGAR.ts
+#EXTINF:-1 tvg-chno="92054" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Colombia" tvg-id="HOLALAH" tvc-guide-stationid="92054",HOLA! TV
+http://example.local/COL-HOLALAH.ts
+#EXTINF:-1 tvg-chno="82970" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Colombia" tvg-id="HOLALA" tvc-guide-stationid="82970",HOLA! TV
+http://example.local/COL-HOLALA.ts
 #EXTINF:-1 tvg-chno="15969" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png" group-title="Colombia" tvg-id="HTVLA" tvc-guide-stationid="15969",HTV
 http://example.local/COL-HTVLA.ts
 #EXTINF:-1 tvg-chno="110785" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png" group-title="Colombia" tvg-id="HTVLAH" tvc-guide-stationid="110785",HTV
@@ -1305,7 +1309,3 @@ http://example.local/COL-ZONAL.ts
 http://example.local/COL-ZOOMOSP.ts
 #EXTINF:-1 tvg-chno="110065" tvg-name="ZooMoo" tvg-logo="https://zap2it.tmsimg.com/assets/s89920_ll_h15_ab.png" group-title="Colombia" tvg-id="ZOOMOSH" tvc-guide-stationid="110065",ZooMoo
 http://example.local/COL-ZOOMOSH.ts
-#EXTINF:-1 tvg-chno="92054" tvg-name="¡HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Colombia" tvg-id="HOLALAH" tvc-guide-stationid="92054",¡HOLA! TV
-http://example.local/COL-HOLALAH.ts
-#EXTINF:-1 tvg-chno="82970" tvg-name="¡HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Colombia" tvg-id="HOLALA" tvc-guide-stationid="82970",¡HOLA! TV
-http://example.local/COL-HOLALA.ts

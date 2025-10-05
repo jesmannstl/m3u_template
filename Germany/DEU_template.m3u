@@ -13,7 +13,7 @@ http://example.local/DEU-123TVGH.ts
 http://example.local/DEU-100PNL.ts
 #EXTINF:-1 tvg-chno="107938" tvg-name="104.6 RTL Berlin" tvg-logo="https://zap2it.tmsimg.com/assets/s107938_ll_h15_aa.png" group-title="Germany" tvg-id="1046RTL" tvc-guide-stationid="107938",104.6 RTL Berlin
 http://example.local/DEU-1046RTL.ts
-#EXTINF:-1 tvg-chno="107777" tvg-name="106,4 TOP FM" tvg-logo="https://zap2it.tmsimg.com/assets/s107777_ll_h15_ab.png" group-title="Germany" tvg-id="1064TOP" tvc-guide-stationid="107777",106,4 TOP FM
+#EXTINF:-1 tvg-chno="107777" tvg-name="1064 TOP FM" tvg-logo="https://zap2it.tmsimg.com/assets/s107777_ll_h15_ab.png" group-title="Germany" tvg-id="1064TOP" tvc-guide-stationid="107777",1064 TOP FM
 http://example.local/DEU-1064TOP.ts
 #EXTINF:-1 tvg-chno="107148" tvg-name="106acht Alsterradio" group-title="Germany" tvg-id="ALSTER" tvc-guide-stationid="107148",106acht Alsterradio
 http://example.local/DEU-ALSTER.ts
@@ -69,11 +69,11 @@ http://example.local/DEU-892POTS.ts
 http://example.local/DEU-90RAD.ts
 #EXTINF:-1 tvg-chno="146136" tvg-name="90s90s" tvg-logo="https://zap2it.tmsimg.com/assets/s146136_ll_h15_aa.png" group-title="Germany" tvg-id="90RADDE" tvc-guide-stationid="146136",90s90s
 http://example.local/DEU-90RADDE.ts
-#EXTINF:-1 tvg-chno="107905" tvg-name="94,3 rs2" tvg-logo="https://zap2it.tmsimg.com/assets/s107905_ll_h15_ab.png" group-title="Germany" tvg-id="943RS2" tvc-guide-stationid="107905",94,3 rs2
+#EXTINF:-1 tvg-chno="107905" tvg-name="943 rs2" tvg-logo="https://zap2it.tmsimg.com/assets/s107905_ll_h15_ab.png" group-title="Germany" tvg-id="943RS2" tvc-guide-stationid="107905",943 rs2
 http://example.local/DEU-943RS2.ts
-#EXTINF:-1 tvg-chno="107906" tvg-name="94,3 rs2 - Cottbus" tvg-logo="https://zap2it.tmsimg.com/assets/s107906_ll_h15_aa.png" group-title="Germany" tvg-id="943RS2C" tvc-guide-stationid="107906",94,3 rs2 - Cottbus
+#EXTINF:-1 tvg-chno="107906" tvg-name="943 rs2 - Cottbus" tvg-logo="https://zap2it.tmsimg.com/assets/s107906_ll_h15_aa.png" group-title="Germany" tvg-id="943RS2C" tvc-guide-stationid="107906",943 rs2 - Cottbus
 http://example.local/DEU-943RS2C.ts
-#EXTINF:-1 tvg-chno="107920" tvg-name="94,3 rs2 - Schwedt" tvg-logo="https://zap2it.tmsimg.com/assets/s107920_ll_h15_ab.png" group-title="Germany" tvg-id="943RS2S" tvc-guide-stationid="107920",94,3 rs2 - Schwedt
+#EXTINF:-1 tvg-chno="107920" tvg-name="943 rs2 - Schwedt" tvg-logo="https://zap2it.tmsimg.com/assets/s107920_ll_h15_ab.png" group-title="Germany" tvg-id="943RS2S" tvc-guide-stationid="107920",943 rs2 - Schwedt
 http://example.local/DEU-943RS2S.ts
 #EXTINF:-1 tvg-chno="125458" tvg-name="a.tv HD" tvg-logo="https://zap2it.tmsimg.com/assets/s125458_ll_h9_aa.png" group-title="Germany" tvg-id="ATVSAT" tvc-guide-stationid="125458",a.tv HD
 http://example.local/DEU-ATVSAT.ts
@@ -313,7 +313,7 @@ http://example.local/DEU-BALKTV.ts
 http://example.local/DEU-BLRMNHD.ts
 #EXTINF:-1 tvg-chno="85437" tvg-name="Barca TV" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0022LRG0.png" group-title="Germany" tvg-id="BARCATV" tvc-guide-stationid="85437",Barca TV
 http://example.local/DEU-BARCATV.ts
-#EXTINF:-1 tvg-chno="115233" tvg-name="Bass, Breaks & Beats" tvg-logo="https://zap2it.tmsimg.com/assets/s115233_ll_h9_aa.png" group-title="Germany" tvg-id="BBBRAD" tvc-guide-stationid="115233",Bass, Breaks & Beats
+#EXTINF:-1 tvg-chno="115233" tvg-name="Bass Breaks & Beats" tvg-logo="https://zap2it.tmsimg.com/assets/s115233_ll_h9_aa.png" group-title="Germany" tvg-id="BBBRAD" tvc-guide-stationid="115233",Bass Breaks & Beats
 http://example.local/DEU-BBBRAD.ts
 #EXTINF:-1 tvg-chno="83559" tvg-name="Bayerisches Fernsehen Nord HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83559_ll_h15_ac.png" group-title="Germany" tvg-id="BFNHD" tvc-guide-stationid="83559",Bayerisches Fernsehen Nord HD
 http://example.local/DEU-BFNHD.ts
@@ -1525,7 +1525,7 @@ http://example.local/DEU-MSIX.ts
 http://example.local/DEU-M6BOUTQ.ts
 #EXTINF:-1 tvg-chno="70552" tvg-name="M6 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s70552_ll_h15_ab.png" group-title="Germany" tvg-id="MSIXHD" tvc-guide-stationid="70552",M6 HD
 http://example.local/DEU-MSIXHD.ts
-#EXTINF:-1 tvg-chno="107107" tvg-name="M94,5" tvg-logo="https://zap2it.tmsimg.com/assets/s107107_ll_h9_ab.png" group-title="Germany" tvg-id="M945" tvc-guide-stationid="107107",M94,5
+#EXTINF:-1 tvg-chno="107107" tvg-name="M945" tvg-logo="https://zap2it.tmsimg.com/assets/s107107_ll_h9_ab.png" group-title="Germany" tvg-id="M945" tvc-guide-stationid="107107",M945
 http://example.local/DEU-M945.ts
 #EXTINF:-1 tvg-chno="120209" tvg-name="Magenta Sport" tvg-logo="https://zap2it.tmsimg.com/assets/s120209_ll_h15_ab.png" group-title="Germany" tvg-id="MAGSPORT" tvc-guide-stationid="120209",Magenta Sport
 http://example.local/DEU-MAGSPORT.ts
@@ -1571,7 +1571,7 @@ http://example.local/DEU-MDRTHHD.ts
 http://example.local/DEU-MDR1SBZ.ts
 #EXTINF:-1 tvg-chno="108051" tvg-name="MDR1 Radio Sachsen - Leipzig" tvg-logo="https://zap2it.tmsimg.com/assets/s108051_ll_h15_aa.png" group-title="Germany" tvg-id="MDR1SNL" tvc-guide-stationid="108051",MDR1 Radio Sachsen - Leipzig
 http://example.local/DEU-MDR1SNL.ts
-#EXTINF:-1 tvg-chno="108049" tvg-name="MDR1 Radio Sachsen -Bautzen, sorbisch" tvg-logo="https://zap2it.tmsimg.com/assets/s108049_ll_h15_aa.png" group-title="Germany" tvg-id="MDRSBZS" tvc-guide-stationid="108049",MDR1 Radio Sachsen -Bautzen, sorbisch
+#EXTINF:-1 tvg-chno="108049" tvg-name="MDR1 Radio Sachsen -Bautzen sorbisch" tvg-logo="https://zap2it.tmsimg.com/assets/s108049_ll_h15_aa.png" group-title="Germany" tvg-id="MDRSBZS" tvc-guide-stationid="108049",MDR1 Radio Sachsen -Bautzen sorbisch
 http://example.local/DEU-MDRSBZS.ts
 #EXTINF:-1 tvg-chno="108050" tvg-name="MDR1 Radio Sachsen -Chemnitz" tvg-logo="https://zap2it.tmsimg.com/assets/s108050_ll_h15_aa.png" group-title="Germany" tvg-id="MDR1SNC" tvc-guide-stationid="108050",MDR1 Radio Sachsen -Chemnitz
 http://example.local/DEU-MDR1SNC.ts
@@ -1811,7 +1811,7 @@ http://example.local/DEU-NDRWNS.ts
 http://example.local/DEU-NDRWNW.ts
 #EXTINF:-1 tvg-chno="87882" tvg-name="NDR 2 Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s87882_ll_h15_ab.png" group-title="Germany" tvg-id="NDR2RAD" tvc-guide-stationid="87882",NDR 2 Radio
 http://example.local/DEU-NDR2RAD.ts
-#EXTINF:-1 tvg-chno="101491" tvg-name="NDR 90,3" tvg-logo="https://zap2it.tmsimg.com/assets/s101491_ll_h15_ab.png" group-title="Germany" tvg-id="NDR903" tvc-guide-stationid="101491",NDR 90,3
+#EXTINF:-1 tvg-chno="101491" tvg-name="NDR 903" tvg-logo="https://zap2it.tmsimg.com/assets/s101491_ll_h15_ab.png" group-title="Germany" tvg-id="NDR903" tvc-guide-stationid="101491",NDR 903
 http://example.local/DEU-NDR903.ts
 #EXTINF:-1 tvg-chno="107521" tvg-name="NDR Blue" tvg-logo="https://zap2it.tmsimg.com/assets/s107521_ll_h15_aa.png" group-title="Germany" tvg-id="NDRBLUE" tvc-guide-stationid="107521",NDR Blue
 http://example.local/DEU-NDRBLUE.ts
@@ -2067,7 +2067,7 @@ http://example.local/DEU-ORFSPLH.ts
 http://example.local/DEU-OSCARHD.ts
 #EXTINF:-1 tvg-chno="97699" tvg-name="OSFTV" tvg-logo="https://zap2it.tmsimg.com/assets/s97699_ll_h9_aa.png" group-title="Germany" tvg-id="OSFTV" tvc-guide-stationid="97699",OSFTV
 http://example.local/DEU-OSFTV.ts
-#EXTINF:-1 tvg-chno="107118" tvg-name="osradio 104,8" tvg-logo="https://zap2it.tmsimg.com/assets/s107118_ll_h15_aa.png" group-title="Germany" tvg-id="OSTRAD" tvc-guide-stationid="107118",osradio 104,8
+#EXTINF:-1 tvg-chno="107118" tvg-name="osradio 1048" tvg-logo="https://zap2it.tmsimg.com/assets/s107118_ll_h15_aa.png" group-title="Germany" tvg-id="OSTRAD" tvc-guide-stationid="107118",osradio 1048
 http://example.local/DEU-OSTRAD.ts
 #EXTINF:-1 tvg-chno="107854" tvg-name="Ostseewelle" tvg-logo="https://zap2it.tmsimg.com/assets/s107854_ll_h15_ab.png" group-title="Germany" tvg-id="OSTSEEW" tvc-guide-stationid="107854",Ostseewelle
 http://example.local/DEU-OSTSEEW.ts
@@ -2209,13 +2209,13 @@ http://example.local/DEU-QVC2DEHD.ts
 http://example.local/DEU-RNBSLCL.ts
 #EXTINF:-1 tvg-chno="107921" tvg-name="R.SA" tvg-logo="https://zap2it.tmsimg.com/assets/s107921_ll_h9_aa.png" group-title="Germany" tvg-id="RSADE" tvc-guide-stationid="107921",R.SA
 http://example.local/DEU-RSADE.ts
-#EXTINF:-1 tvg-chno="107923" tvg-name="R.SA Mephisto 97,6" tvg-logo="https://zap2it.tmsimg.com/assets/s107923_ll_h9_aa.png" group-title="Germany" tvg-id="RSAMEPH" tvc-guide-stationid="107923",R.SA Mephisto 97,6
+#EXTINF:-1 tvg-chno="107923" tvg-name="R.SA Mephisto 976" tvg-logo="https://zap2it.tmsimg.com/assets/s107923_ll_h9_aa.png" group-title="Germany" tvg-id="RSAMEPH" tvc-guide-stationid="107923",R.SA Mephisto 976
 http://example.local/DEU-RSAMEPH.ts
 #EXTINF:-1 tvg-chno="107212" tvg-name="R9 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s107212_ll_h15_aa.png" group-title="Germany" tvg-id="R9HD" tvc-guide-stationid="107212",R9 HD
 http://example.local/DEU-R9HD.ts
 #EXTINF:-1 tvg-chno="107125" tvg-name="Rad ZET Stettin" tvg-logo="https://zap2it.tmsimg.com/assets/s107125_ll_h15_ab.png" group-title="Germany" tvg-id="RADZETS" tvc-guide-stationid="107125",Rad ZET Stettin
 http://example.local/DEU-RADZETS.ts
-#EXTINF:-1 tvg-chno="107126" tvg-name="Radio 100,7" tvg-logo="https://zap2it.tmsimg.com/assets/s107126_ll_h15_aa.png" group-title="Germany" tvg-id="RAD1007" tvc-guide-stationid="107126",Radio 100,7
+#EXTINF:-1 tvg-chno="107126" tvg-name="Radio 1007" tvg-logo="https://zap2it.tmsimg.com/assets/s107126_ll_h15_aa.png" group-title="Germany" tvg-id="RAD1007" tvc-guide-stationid="107126",Radio 1007
 http://example.local/DEU-RAD1007.ts
 #EXTINF:-1 tvg-chno="107127" tvg-name="Radio 21" tvg-logo="https://zap2it.tmsimg.com/assets/s107127_ll_h15_aa.png" group-title="Germany" tvg-id="RADIO21" tvc-guide-stationid="107127",Radio 21
 http://example.local/DEU-RADIO21.ts
@@ -2363,7 +2363,7 @@ http://example.local/DEU-GALABAM.ts
 http://example.local/DEU-GALAPAS.ts
 #EXTINF:-1 tvg-chno="107485" tvg-name="Radio Galaxy Rosenheim" tvg-logo="https://zap2it.tmsimg.com/assets/s107485_ll_h15_aa.png" group-title="Germany" tvg-id="GALAROS" tvc-guide-stationid="107485",Radio Galaxy Rosenheim
 http://example.local/DEU-GALAROS.ts
-#EXTINF:-1 tvg-chno="106134" tvg-name="Radio Gong 96,3" tvg-logo="https://zap2it.tmsimg.com/assets/s106134_ll_h15_aa.png" group-title="Germany" tvg-id="RAGONG" tvc-guide-stationid="106134",Radio Gong 96,3
+#EXTINF:-1 tvg-chno="106134" tvg-name="Radio Gong 963" tvg-logo="https://zap2it.tmsimg.com/assets/s106134_ll_h15_aa.png" group-title="Germany" tvg-id="RAGONG" tvc-guide-stationid="106134",Radio Gong 963
 http://example.local/DEU-RAGONG.ts
 #EXTINF:-1 tvg-chno="107252" tvg-name="Radio Gong Nürnberg" group-title="Germany" tvg-id="RADGONG" tvc-guide-stationid="107252",Radio Gong Nürnberg
 http://example.local/DEU-RADGONG.ts
@@ -3285,7 +3285,7 @@ http://example.local/DEU-SWR1RP.ts
 http://example.local/DEU-SWR3RAD.ts
 #EXTINF:-1 tvg-chno="124458" tvg-name="SWR3 Württemberg" tvg-logo="https://zap2it.tmsimg.com/assets/s124458_ll_h15_aa.png" group-title="Germany" tvg-id="VFRAD44" tvc-guide-stationid="124458",SWR3 Württemberg
 http://example.local/DEU-VFRAD44.ts
-#EXTINF:-1 tvg-chno="108014" tvg-name="SWR4 - Eifel, Trier, Hunsrück" group-title="Germany" tvg-id="SWR4ETH" tvc-guide-stationid="108014",SWR4 - Eifel, Trier, Hunsrück
+#EXTINF:-1 tvg-chno="108014" tvg-name="SWR4 - Eifel Trier Hunsrück" group-title="Germany" tvg-id="SWR4ETH" tvc-guide-stationid="108014",SWR4 - Eifel Trier Hunsrück
 http://example.local/DEU-SWR4ETH.ts
 #EXTINF:-1 tvg-chno="108017" tvg-name="SWR4 - Frankenradio" tvg-logo="https://zap2it.tmsimg.com/assets/s108017_ll_h15_aa.png" group-title="Germany" tvg-id="SWR4FR" tvc-guide-stationid="108017",SWR4 - Frankenradio
 http://example.local/DEU-SWR4FR.ts

@@ -483,6 +483,10 @@ http://example.local/VEN-HCLI.ts
 http://example.local/VEN-HCLVEHD.ts
 #EXTINF:-1 tvg-chno="89238" tvg-name="History 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_h3_ba.png" group-title="Venezuela" tvg-id="H2LAME" tvc-guide-stationid="89238",History 2
 http://example.local/VEN-H2LAME.ts
+#EXTINF:-1 tvg-chno="82970" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Venezuela" tvg-id="HOLALA" tvc-guide-stationid="82970",HOLA! TV
+http://example.local/VEN-HOLALA.ts
+#EXTINF:-1 tvg-chno="92054" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Venezuela" tvg-id="HOLALAH" tvc-guide-stationid="92054",HOLA! TV
+http://example.local/VEN-HOLALAH.ts
 #EXTINF:-1 tvg-chno="15969" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png" group-title="Venezuela" tvg-id="HTVLA" tvc-guide-stationid="15969",HTV
 http://example.local/VEN-HTVLA.ts
 #EXTINF:-1 tvg-chno="52760" tvg-name="HTV Musica On Demand" group-title="Venezuela" tvg-id="HTVMUDM" tvc-guide-stationid="52760",HTV Musica On Demand
@@ -813,10 +817,6 @@ http://example.local/VEN-XTIME.ts
 http://example.local/VEN-DXHDF.ts
 #EXTINF:-1 tvg-chno="110065" tvg-name="ZooMoo" tvg-logo="https://zap2it.tmsimg.com/assets/s89920_ll_h15_ab.png" group-title="Venezuela" tvg-id="ZOOMOSH" tvc-guide-stationid="110065",ZooMoo
 http://example.local/VEN-ZOOMOSH.ts
-#EXTINF:-1 tvg-chno="82970" tvg-name="¡HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Venezuela" tvg-id="HOLALA" tvc-guide-stationid="82970",¡HOLA! TV
-http://example.local/VEN-HOLALA.ts
-#EXTINF:-1 tvg-chno="92054" tvg-name="¡HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Venezuela" tvg-id="HOLALAH" tvc-guide-stationid="92054",¡HOLA! TV
-http://example.local/VEN-HOLALAH.ts
 #EXTINF:-1 tvg-chno="81802" tvg-name="Ávila TV" group-title="Venezuela" tvg-id="AVILA" tvc-guide-stationid="81802",Ávila TV
 http://example.local/VEN-AVILA.ts
 #EXTINF:-1 tvg-chno="76978" tvg-name="Éxitos de Salsa y Merengue" tvg-logo="https://zap2it.tmsimg.com/assets/s95856_ll_h15_aa.png" group-title="Venezuela" tvg-id="SMESP02" tvc-guide-stationid="76978",Éxitos de Salsa y Merengue

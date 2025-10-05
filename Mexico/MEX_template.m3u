@@ -911,6 +911,12 @@ http://example.local/MEX-H2LAHD.ts
 http://example.local/MEX-HLNPAN.ts
 #EXTINF:-1 tvg-chno="100482" tvg-name="HLN International" tvg-logo="https://zap2it.tmsimg.com/assets/s10145_ll_h15_ac.png" group-title="Mexico" tvg-id="HLNINT" tvc-guide-stationid="100482",HLN International
 http://example.local/MEX-HLNINT.ts
+#EXTINF:-1 tvg-chno="82970" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Mexico" tvg-id="HOLALA" tvc-guide-stationid="82970",HOLA! TV
+http://example.local/MEX-HOLALA.ts
+#EXTINF:-1 tvg-chno="92054" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Mexico" tvg-id="HOLALAH" tvc-guide-stationid="92054",HOLA! TV
+http://example.local/MEX-HOLALAH.ts
+#EXTINF:-1 tvg-chno="62161" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Mexico" tvg-id="HOLATV" tvc-guide-stationid="62161",HOLA! TV
+http://example.local/MEX-HOLATV.ts
 #EXTINF:-1 tvg-chno="15969" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png" group-title="Mexico" tvg-id="HTVLA" tvc-guide-stationid="15969",HTV
 http://example.local/MEX-HTVLA.ts
 #EXTINF:-1 tvg-chno="110785" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png" group-title="Mexico" tvg-id="HTVLAH" tvc-guide-stationid="110785",HTV
@@ -2547,11 +2553,5 @@ http://example.local/MEX-ZEEMUN.ts
 http://example.local/MEX-ZEEMUNH.ts
 #EXTINF:-1 tvg-chno="89973" tvg-name="ZooMoo" tvg-logo="https://zap2it.tmsimg.com/assets/s89920_ll_h15_ab.png" group-title="Mexico" tvg-id="ZOOMOSP" tvc-guide-stationid="89973",ZooMoo
 http://example.local/MEX-ZOOMOSP.ts
-#EXTINF:-1 tvg-chno="82970" tvg-name="¡HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Mexico" tvg-id="HOLALA" tvc-guide-stationid="82970",¡HOLA! TV
-http://example.local/MEX-HOLALA.ts
-#EXTINF:-1 tvg-chno="92054" tvg-name="¡HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Mexico" tvg-id="HOLALAH" tvc-guide-stationid="92054",¡HOLA! TV
-http://example.local/MEX-HOLALAH.ts
-#EXTINF:-1 tvg-chno="62161" tvg-name="¡HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Mexico" tvg-id="HOLATV" tvc-guide-stationid="62161",¡HOLA! TV
-http://example.local/MEX-HOLATV.ts
 #EXTINF:-1 tvg-chno="76978" tvg-name="Éxitos de Salsa y Merengue" tvg-logo="https://zap2it.tmsimg.com/assets/s95856_ll_h15_aa.png" group-title="Mexico" tvg-id="SMESP02" tvc-guide-stationid="76978",Éxitos de Salsa y Merengue
 http://example.local/MEX-SMESP02.ts

@@ -485,6 +485,10 @@ http://example.local/URY-HCLM.ts
 http://example.local/URY-H2LAME.ts
 #EXTINF:-1 tvg-chno="113554" tvg-name="History Channel Argentina HD" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Uruguay" tvg-id="HCCHDA" tvc-guide-stationid="113554",History Channel Argentina HD
 http://example.local/URY-HCCHDA.ts
+#EXTINF:-1 tvg-chno="82970" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Uruguay" tvg-id="HOLALA" tvc-guide-stationid="82970",HOLA! TV
+http://example.local/URY-HOLALA.ts
+#EXTINF:-1 tvg-chno="92054" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Uruguay" tvg-id="HOLALAH" tvc-guide-stationid="92054",HOLA! TV
+http://example.local/URY-HOLALAH.ts
 #EXTINF:-1 tvg-chno="52760" tvg-name="HTV Musica On Demand" group-title="Uruguay" tvg-id="HTVMUDM" tvc-guide-stationid="52760",HTV Musica On Demand
 http://example.local/URY-HTVMUDM.ts
 #EXTINF:-1 tvg-chno="76951" tvg-name="Hustler TV" tvg-logo="https://zap2it.tmsimg.com/assets/s102775_ll_h15_ab.png" group-title="Uruguay" tvg-id="ESHUSTL" tvc-guide-stationid="76951",Hustler TV
@@ -781,7 +785,3 @@ http://example.local/URY-WOOHOO.ts
 http://example.local/URY-ZEE.ts
 #EXTINF:-1 tvg-chno="110065" tvg-name="ZooMoo" tvg-logo="https://zap2it.tmsimg.com/assets/s89920_ll_h15_ab.png" group-title="Uruguay" tvg-id="ZOOMOSH" tvc-guide-stationid="110065",ZooMoo
 http://example.local/URY-ZOOMOSH.ts
-#EXTINF:-1 tvg-chno="82970" tvg-name="¡HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Uruguay" tvg-id="HOLALA" tvc-guide-stationid="82970",¡HOLA! TV
-http://example.local/URY-HOLALA.ts
-#EXTINF:-1 tvg-chno="92054" tvg-name="¡HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Uruguay" tvg-id="HOLALAH" tvc-guide-stationid="92054",¡HOLA! TV
-http://example.local/URY-HOLALAH.ts
