@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="66621" tvg-name="3sat" tvg-logo="https://zap2it.tmsimg.com/assets/s66621_ll_h15_ac.png" group-title="Finland" tvg-id="3SATGEH" tvc-guide-stationid="66621",3sat
 http://example.local/FIN-3SATGEH.ts
-#EXTINF:-1 tvg-chno="83545" tvg-name="3sat HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83545_ll_h15_ad.png" group-title="Finland" tvg-id="3SATHD" tvc-guide-stationid="83545",3sat HD
+#EXTINF:-1 tvg-chno="83545" tvg-name="3sat HD" tvg-logo="https://logos.jesmann.com/3SATHD.png" group-title="Finland" tvg-id="3SATHD" tvc-guide-stationid="83545",3sat HD
 http://example.local/FIN-3SATHD.ts
 #EXTINF:-1 tvg-chno="27136" tvg-name="Al Jazeera" tvg-logo="https://zap2it.tmsimg.com/assets/s27136_ll_h15_aa.png" group-title="Finland" tvg-id="ALJAZ" tvc-guide-stationid="27136",Al Jazeera
 http://example.local/FIN-ALJAZ.ts
@@ -63,7 +63,7 @@ http://example.local/FIN-CNNEU.ts
 http://example.local/FIN-CNNEUHD.ts
 #EXTINF:-1 tvg-chno="67295" tvg-name="Das Erste" tvg-logo="https://zap2it.tmsimg.com/assets/s67295_ll_h15_ab.png" group-title="Finland" tvg-id="DASERST" tvc-guide-stationid="67295",Das Erste
 http://example.local/FIN-DASERST.ts
-#EXTINF:-1 tvg-chno="90447" tvg-name="Das Erste HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90447_ll_h15_ab.png" group-title="Finland" tvg-id="ARDGRHD" tvc-guide-stationid="90447",Das Erste HD
+#EXTINF:-1 tvg-chno="90447" tvg-name="Das Erste HD" tvg-logo="https://logos.jesmann.com/ARDGRHD.png" group-title="Finland" tvg-id="ARDGRHD" tvc-guide-stationid="90447",Das Erste HD
 http://example.local/FIN-ARDGRHD.ts
 #EXTINF:-1 tvg-chno="88243" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s88243_ll_h9_ab.png" group-title="Finland" tvg-id="DSCFIN" tvc-guide-stationid="88243",Discovery Channel
 http://example.local/FIN-DSCFIN.ts

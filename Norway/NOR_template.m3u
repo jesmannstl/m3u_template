@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="66621" tvg-name="3sat" tvg-logo="https://zap2it.tmsimg.com/assets/s66621_ll_h15_ac.png" group-title="Norway" tvg-id="3SATGEH" tvc-guide-stationid="66621",3sat
 http://example.local/NOR-3SATGEH.ts
-#EXTINF:-1 tvg-chno="83545" tvg-name="3sat HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83545_ll_h15_ad.png" group-title="Norway" tvg-id="3SATHD" tvc-guide-stationid="83545",3sat HD
+#EXTINF:-1 tvg-chno="83545" tvg-name="3sat HD" tvg-logo="https://logos.jesmann.com/3SATHD.png" group-title="Norway" tvg-id="3SATHD" tvc-guide-stationid="83545",3sat HD
 http://example.local/NOR-3SATHD.ts
 #EXTINF:-1 tvg-chno="66975" tvg-name="Adult Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s66975_ll_h15_aa.png" group-title="Norway" tvg-id="ADULT24" tvc-guide-stationid="66975",Adult Channel
 http://example.local/NOR-ADULT24.ts
@@ -61,7 +61,7 @@ http://example.local/NOR-COLORS.ts
 http://example.local/NOR-COLRISH.ts
 #EXTINF:-1 tvg-chno="67295" tvg-name="Das Erste" tvg-logo="https://zap2it.tmsimg.com/assets/s67295_ll_h15_ab.png" group-title="Norway" tvg-id="DASERST" tvc-guide-stationid="67295",Das Erste
 http://example.local/NOR-DASERST.ts
-#EXTINF:-1 tvg-chno="90447" tvg-name="Das Erste HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90447_ll_h15_ab.png" group-title="Norway" tvg-id="ARDGRHD" tvc-guide-stationid="90447",Das Erste HD
+#EXTINF:-1 tvg-chno="90447" tvg-name="Das Erste HD" tvg-logo="https://logos.jesmann.com/ARDGRHD.png" group-title="Norway" tvg-id="ARDGRHD" tvc-guide-stationid="90447",Das Erste HD
 http://example.local/NOR-ARDGRHD.ts
 #EXTINF:-1 tvg-chno="90025" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s90025_ll_h9_ac.png" group-title="Norway" tvg-id="DISCVRY" tvc-guide-stationid="90025",Discovery Channel
 http://example.local/NOR-DISCVRY.ts

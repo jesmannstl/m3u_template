@@ -4853,7 +4853,7 @@ http://example.local/USA-TDC.ts
 http://example.local/USA-DSCP.ts
 #EXTINF:-1 tvg-chno="56905" tvg-name="Discovery Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s56905_ll_h15_ad.png" group-title="United States" tvg-id="DSCHD" tvc-guide-stationid="56905",Discovery Channel HD
 http://example.local/USA-DSCHD.ts
-#EXTINF:-1 tvg-chno="83573" tvg-name="Discovery Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83573_ll_h15_ac.png" group-title="United States" tvg-id="DSCGHD" tvc-guide-stationid="83573",Discovery Channel HD
+#EXTINF:-1 tvg-chno="83573" tvg-name="Discovery Channel HD" tvg-logo="https://logos.jesmann.com/DSCGHD.png" group-title="United States" tvg-id="DSCGHD" tvc-guide-stationid="83573",Discovery Channel HD
 http://example.local/USA-DSCGHD.ts
 #EXTINF:-1 tvg-chno="186014" tvg-name="Discovery Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s56905_ll_h15_ad.png" group-title="United States" tvg-id="DSCHDS" tvc-guide-stationid="186014",Discovery Channel HD
 http://example.local/USA-DSCHDS.ts
@@ -6409,9 +6409,9 @@ http://example.local/USA-EURNEW.ts
 http://example.local/USA-EUROSV.ts
 #EXTINF:-1 tvg-chno="51851" tvg-name="Eurosport 1" tvg-logo="https://zap2it.tmsimg.com/assets/s51851_ll_h15_aa.png" group-title="United States" tvg-id="ESINT1" tvc-guide-stationid="51851",Eurosport 1
 http://example.local/USA-ESINT1.ts
-#EXTINF:-1 tvg-chno="86872" tvg-name="Eurosport 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s86872_ll_h15_ac.png" group-title="United States" tvg-id="EURS2HD" tvc-guide-stationid="86872",Eurosport 2 HD
+#EXTINF:-1 tvg-chno="86872" tvg-name="Eurosport 2 HD" tvg-logo="https://logos.jesmann.com/EURS2HD.png" group-title="United States" tvg-id="EURS2HD" tvc-guide-stationid="86872",Eurosport 2 HD
 http://example.local/USA-EURS2HD.ts
-#EXTINF:-1 tvg-chno="104968" tvg-name="Eurosport 2 Xtra" tvg-logo="https://zap2it.tmsimg.com/assets/s104968_h3_aa.png" group-title="United States" tvg-id="ESPXTRA" tvc-guide-stationid="104968",Eurosport 2 Xtra
+#EXTINF:-1 tvg-chno="104968" tvg-name="Eurosport 2 Xtra" tvg-logo="https://logos.jesmann.com/ESPXTRA.png" group-title="United States" tvg-id="ESPXTRA" tvc-guide-stationid="104968",Eurosport 2 Xtra
 http://example.local/USA-ESPXTRA.ts
 #EXTINF:-1 tvg-chno="105175" tvg-name="Eurosport Live 1" tvg-logo="https://zap2it.tmsimg.com/assets/s105175_ll_h15_ab.png" group-title="United States" tvg-id="AMESDE1" tvc-guide-stationid="105175",Eurosport Live 1
 http://example.local/USA-AMESDE1.ts
@@ -37257,6 +37257,8 @@ http://example.local/USA-NBAHD.ts
 http://example.local/USA-NBAX20.ts
 #EXTINF:-1 tvg-chno="17800" tvg-name="NBA League Pass (Boston Celtics)" group-title="United States" tvg-id="NBAX2" tvc-guide-stationid="17800",NBA League Pass (Boston Celtics)
 http://example.local/USA-NBAX2.ts
+#EXTINF:-1 tvg-chno="17815" tvg-name="NBA League Pass (Brooklyn Nets)" group-title="United States" tvg-id="NBAX17" tvc-guide-stationid="17815",NBA League Pass (Brooklyn Nets)
+http://example.local/USA-NBAX17.ts
 #EXTINF:-1 tvg-chno="44898" tvg-name="NBA League Pass (Charlotte Hornets)" group-title="United States" tvg-id="NBAX30" tvc-guide-stationid="44898",NBA League Pass (Charlotte Hornets)
 http://example.local/USA-NBAX30.ts
 #EXTINF:-1 tvg-chno="17802" tvg-name="NBA League Pass (Chicago Bulls)" group-title="United States" tvg-id="NBAX4" tvc-guide-stationid="17802",NBA League Pass (Chicago Bulls)
@@ -37293,8 +37295,6 @@ http://example.local/USA-NBAX14.ts
 http://example.local/USA-NBAX15.ts
 #EXTINF:-1 tvg-chno="17801" tvg-name="NBA League Pass (New Orleans Pelicans)" group-title="United States" tvg-id="NBAX3" tvc-guide-stationid="17801",NBA League Pass (New Orleans Pelicans)
 http://example.local/USA-NBAX3.ts
-#EXTINF:-1 tvg-chno="17815" tvg-name="NBA League Pass (NJ Nets)" group-title="United States" tvg-id="NBAX17" tvc-guide-stationid="17815",NBA League Pass (NJ Nets)
-http://example.local/USA-NBAX17.ts
 #EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://zap2it.tmsimg.com/assets/s95843_ll_h15_ab.png" group-title="United States" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
 http://example.local/USA-NBAX18.ts
 #EXTINF:-1 tvg-chno="17824" tvg-name="NBA League Pass (Raptors)" tvg-logo="https://zap2it.tmsimg.com/assets/s95843_ll_h15_ab.png" group-title="United States" tvg-id="NBAX26" tvc-guide-stationid="17824",NBA League Pass (Raptors)
