@@ -769,8 +769,14 @@ http://example.local/AUS-ARHDANZ.ts
 http://example.local/AUS-AUROANZ.ts
 #EXTINF:-1 tvg-chno="187224" tvg-name="Australian Played" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00256Q8D.png" group-title="Australia" tvg-id="ROOUANZ" tvc-guide-stationid="187224",Australian Played
 http://example.local/AUS-ROOUANZ.ts
+#EXTINF:-1 tvg-chno="178203" tvg-name="BBC Entertain" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0020E2XZ.png" group-title="Australia" tvg-id="BBCEANZ" tvc-guide-stationid="178203",BBC Entertain
+http://example.local/AUS-BBCEANZ.ts
+#EXTINF:-1 tvg-chno="178202" tvg-name="BBC First" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027E6EN.png" group-title="Australia" tvg-id="BBCFANZ" tvc-guide-stationid="178202",BBC First
+http://example.local/AUS-BBCFANZ.ts
 #EXTINF:-1 tvg-chno="103099" tvg-name="BBC News" tvg-logo="https://zap2it.tmsimg.com/assets/s103099_ll_h15_ac.png" group-title="Australia" tvg-id="BBCWANZ" tvc-guide-stationid="103099",BBC News
 http://example.local/AUS-BBCWANZ.ts
+#EXTINF:-1 tvg-chno="178204" tvg-name="BBC Select" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0020YYG5.png" group-title="Australia" tvg-id="BBCSANZ" tvc-guide-stationid="178204",BBC Select
+http://example.local/AUS-BBCSANZ.ts
 #EXTINF:-1 tvg-chno="103102" tvg-name="beIN SPORTS 1 HD" group-title="Australia" tvg-id="BSHDANZ" tvc-guide-stationid="103102",beIN SPORTS 1 HD
 http://example.local/AUS-BSHDANZ.ts
 #EXTINF:-1 tvg-chno="103108" tvg-name="beIN SPORTS 2 HD" group-title="Australia" tvg-id="B2HDANZ" tvc-guide-stationid="103108",beIN SPORTS 2 HD
@@ -779,34 +785,64 @@ http://example.local/AUS-B2HDANZ.ts
 http://example.local/AUS-B3HDANZ.ts
 #EXTINF:-1 tvg-chno="146761" tvg-name="beIN Sports MAX 1" tvg-logo="https://zap2it.tmsimg.com/assets/s146761_ll_h9_ab.png" group-title="Australia" tvg-id="BEINSC1" tvc-guide-stationid="146761",beIN Sports MAX 1
 http://example.local/AUS-BEINSC1.ts
+#EXTINF:-1 tvg-chno="153213" tvg-name="beIN Sports MAX 1 New Zealand" tvg-logo="https://zap2it.tmsimg.com/assets/s153213_ll_h9_aa.png" group-title="Australia" tvg-id="BEINNZ1" tvc-guide-stationid="153213",beIN Sports MAX 1 New Zealand
+http://example.local/AUS-BEINNZ1.ts
 #EXTINF:-1 tvg-chno="150861" tvg-name="beIN Sports MAX 10" tvg-logo="https://zap2it.tmsimg.com/assets/s150861_ll_h9_aa.png" group-title="Australia" tvg-id="BEINSC10" tvc-guide-stationid="150861",beIN Sports MAX 10
 http://example.local/AUS-BEINSC10.ts
+#EXTINF:-1 tvg-chno="163360" tvg-name="beIN Sports MAX 10 New Zealand" tvg-logo="https://zap2it.tmsimg.com/assets/s163360_ll_h9_aa.png" group-title="Australia" tvg-id="BSM10NZ" tvc-guide-stationid="163360",beIN Sports MAX 10 New Zealand
+http://example.local/AUS-BSM10NZ.ts
 #EXTINF:-1 tvg-chno="150862" tvg-name="beIN Sports MAX 11" tvg-logo="https://zap2it.tmsimg.com/assets/s150862_ll_h9_aa.png" group-title="Australia" tvg-id="BEINSC11" tvc-guide-stationid="150862",beIN Sports MAX 11
 http://example.local/AUS-BEINSC11.ts
+#EXTINF:-1 tvg-chno="163361" tvg-name="beIN Sports MAX 11 New Zealand" tvg-logo="https://zap2it.tmsimg.com/assets/s163361_ll_h9_aa.png" group-title="Australia" tvg-id="BSM11NZ" tvc-guide-stationid="163361",beIN Sports MAX 11 New Zealand
+http://example.local/AUS-BSM11NZ.ts
 #EXTINF:-1 tvg-chno="150863" tvg-name="beIN Sports MAX 12" tvg-logo="https://zap2it.tmsimg.com/assets/s150863_ll_h9_aa.png" group-title="Australia" tvg-id="BEINSC12" tvc-guide-stationid="150863",beIN Sports MAX 12
 http://example.local/AUS-BEINSC12.ts
+#EXTINF:-1 tvg-chno="163362" tvg-name="beIN Sports MAX 12 New Zealand" tvg-logo="https://zap2it.tmsimg.com/assets/s163362_ll_h9_aa.png" group-title="Australia" tvg-id="BSM12NZ" tvc-guide-stationid="163362",beIN Sports MAX 12 New Zealand
+http://example.local/AUS-BSM12NZ.ts
 #EXTINF:-1 tvg-chno="150864" tvg-name="beIN Sports MAX 13" tvg-logo="https://zap2it.tmsimg.com/assets/s150864_ll_h9_aa.png" group-title="Australia" tvg-id="BEINSC13" tvc-guide-stationid="150864",beIN Sports MAX 13
 http://example.local/AUS-BEINSC13.ts
+#EXTINF:-1 tvg-chno="163363" tvg-name="beIN Sports MAX 13 New Zealand" tvg-logo="https://zap2it.tmsimg.com/assets/s163363_ll_h9_aa.png" group-title="Australia" tvg-id="BSM13NZ" tvc-guide-stationid="163363",beIN Sports MAX 13 New Zealand
+http://example.local/AUS-BSM13NZ.ts
 #EXTINF:-1 tvg-chno="150865" tvg-name="beIN Sports MAX 14" tvg-logo="https://zap2it.tmsimg.com/assets/s150865_ll_h9_aa.png" group-title="Australia" tvg-id="BEINSC14" tvc-guide-stationid="150865",beIN Sports MAX 14
 http://example.local/AUS-BEINSC14.ts
+#EXTINF:-1 tvg-chno="163364" tvg-name="beIN Sports MAX 14 New Zealand" tvg-logo="https://zap2it.tmsimg.com/assets/s163364_ll_h9_aa.png" group-title="Australia" tvg-id="BSM14NZ" tvc-guide-stationid="163364",beIN Sports MAX 14 New Zealand
+http://example.local/AUS-BSM14NZ.ts
 #EXTINF:-1 tvg-chno="150866" tvg-name="beIN Sports MAX 15" tvg-logo="https://zap2it.tmsimg.com/assets/s150866_ll_h9_aa.png" group-title="Australia" tvg-id="BEINSC15" tvc-guide-stationid="150866",beIN Sports MAX 15
 http://example.local/AUS-BEINSC15.ts
+#EXTINF:-1 tvg-chno="163365" tvg-name="beIN Sports MAX 15 New Zealand" tvg-logo="https://zap2it.tmsimg.com/assets/s163365_ll_h9_aa.png" group-title="Australia" tvg-id="BSM15NZ" tvc-guide-stationid="163365",beIN Sports MAX 15 New Zealand
+http://example.local/AUS-BSM15NZ.ts
 #EXTINF:-1 tvg-chno="146762" tvg-name="beIN Sports MAX 2" tvg-logo="https://zap2it.tmsimg.com/assets/s146762_ll_h9_ab.png" group-title="Australia" tvg-id="BEINSC2" tvc-guide-stationid="146762",beIN Sports MAX 2
 http://example.local/AUS-BEINSC2.ts
+#EXTINF:-1 tvg-chno="153217" tvg-name="beIN Sports MAX 2 New Zealand" tvg-logo="https://zap2it.tmsimg.com/assets/s153217_ll_h9_aa.png" group-title="Australia" tvg-id="BEINNZ2" tvc-guide-stationid="153217",beIN Sports MAX 2 New Zealand
+http://example.local/AUS-BEINNZ2.ts
 #EXTINF:-1 tvg-chno="146763" tvg-name="beIN Sports MAX 3" tvg-logo="https://zap2it.tmsimg.com/assets/s146763_ll_h9_ac.png" group-title="Australia" tvg-id="BEINSC3" tvc-guide-stationid="146763",beIN Sports MAX 3
 http://example.local/AUS-BEINSC3.ts
+#EXTINF:-1 tvg-chno="153214" tvg-name="beIN Sports MAX 3 New Zealand" tvg-logo="https://zap2it.tmsimg.com/assets/s153214_ll_h9_aa.png" group-title="Australia" tvg-id="BEINNZ3" tvc-guide-stationid="153214",beIN Sports MAX 3 New Zealand
+http://example.local/AUS-BEINNZ3.ts
 #EXTINF:-1 tvg-chno="149115" tvg-name="Bein Sports MAX 4" tvg-logo="https://zap2it.tmsimg.com/assets/s149115_ll_h9_ac.png" group-title="Australia" tvg-id="BEINSC4" tvc-guide-stationid="149115",Bein Sports MAX 4
 http://example.local/AUS-BEINSC4.ts
+#EXTINF:-1 tvg-chno="153215" tvg-name="beIN Sports MAX 4 New Zealand" tvg-logo="https://zap2it.tmsimg.com/assets/s153215_ll_h9_aa.png" group-title="Australia" tvg-id="BEINNZ4" tvc-guide-stationid="153215",beIN Sports MAX 4 New Zealand
+http://example.local/AUS-BEINNZ4.ts
 #EXTINF:-1 tvg-chno="149201" tvg-name="Bein Sports MAX 5" tvg-logo="https://zap2it.tmsimg.com/assets/s149201_ll_h9_ac.png" group-title="Australia" tvg-id="BEINSC5" tvc-guide-stationid="149201",Bein Sports MAX 5
 http://example.local/AUS-BEINSC5.ts
+#EXTINF:-1 tvg-chno="153216" tvg-name="beIN Sports MAX 5 New Zealand" tvg-logo="https://zap2it.tmsimg.com/assets/s153216_ll_h9_aa.png" group-title="Australia" tvg-id="BEINNZ5" tvc-guide-stationid="153216",beIN Sports MAX 5 New Zealand
+http://example.local/AUS-BEINNZ5.ts
 #EXTINF:-1 tvg-chno="150857" tvg-name="beIN Sports MAX 6" tvg-logo="https://zap2it.tmsimg.com/assets/s150857_ll_h9_aa.png" group-title="Australia" tvg-id="BEINSC6" tvc-guide-stationid="150857",beIN Sports MAX 6
 http://example.local/AUS-BEINSC6.ts
+#EXTINF:-1 tvg-chno="163356" tvg-name="beIN Sports MAX 6 New Zealand" tvg-logo="https://zap2it.tmsimg.com/assets/s163356_ll_h9_aa.png" group-title="Australia" tvg-id="BSM6NZ" tvc-guide-stationid="163356",beIN Sports MAX 6 New Zealand
+http://example.local/AUS-BSM6NZ.ts
 #EXTINF:-1 tvg-chno="150858" tvg-name="beIN Sports MAX 7" tvg-logo="https://zap2it.tmsimg.com/assets/s150858_ll_h9_aa.png" group-title="Australia" tvg-id="BEINSC7" tvc-guide-stationid="150858",beIN Sports MAX 7
 http://example.local/AUS-BEINSC7.ts
+#EXTINF:-1 tvg-chno="163357" tvg-name="beIN Sports MAX 7 New Zealand" tvg-logo="https://zap2it.tmsimg.com/assets/s163357_ll_h9_aa.png" group-title="Australia" tvg-id="BSM7NZ" tvc-guide-stationid="163357",beIN Sports MAX 7 New Zealand
+http://example.local/AUS-BSM7NZ.ts
 #EXTINF:-1 tvg-chno="150859" tvg-name="beIN Sports MAX 8" tvg-logo="https://zap2it.tmsimg.com/assets/s150859_ll_h9_aa.png" group-title="Australia" tvg-id="BEINSC8" tvc-guide-stationid="150859",beIN Sports MAX 8
 http://example.local/AUS-BEINSC8.ts
+#EXTINF:-1 tvg-chno="163358" tvg-name="beIN Sports MAX 8 New Zealand" tvg-logo="https://zap2it.tmsimg.com/assets/s163358_ll_h9_aa.png" group-title="Australia" tvg-id="BSM8NZ" tvc-guide-stationid="163358",beIN Sports MAX 8 New Zealand
+http://example.local/AUS-BSM8NZ.ts
 #EXTINF:-1 tvg-chno="150860" tvg-name="beIN Sports MAX 9" tvg-logo="https://zap2it.tmsimg.com/assets/s150860_ll_h9_aa.png" group-title="Australia" tvg-id="BEINSC9" tvc-guide-stationid="150860",beIN Sports MAX 9
 http://example.local/AUS-BEINSC9.ts
+#EXTINF:-1 tvg-chno="163359" tvg-name="beIN Sports MAX 9 New Zealand" tvg-logo="https://zap2it.tmsimg.com/assets/s163359_ll_h9_aa.png" group-title="Australia" tvg-id="BSM9NZ" tvc-guide-stationid="163359",beIN Sports MAX 9 New Zealand
+http://example.local/AUS-BSM9NZ.ts
 #EXTINF:-1 tvg-chno="103250" tvg-name="Bloomberg" tvg-logo="https://zap2it.tmsimg.com/assets/s103250_ll_h15_aa.png" group-title="Australia" tvg-id="BLOMANZ" tvc-guide-stationid="103250",Bloomberg
 http://example.local/AUS-BLOMANZ.ts
 #EXTINF:-1 tvg-chno="127859" tvg-name="Bloomberg" tvg-logo="https://zap2it.tmsimg.com/assets/s127859_ll_h15_ab.png" group-title="Australia" tvg-id="BLAUSTR" tvc-guide-stationid="127859",Bloomberg
@@ -855,9 +891,9 @@ http://example.local/AUS-FCP2ANZ.ts
 http://example.local/AUS-GRNAANZ.ts
 #EXTINF:-1 tvg-chno="103274" tvg-name="Club MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s103274_ll_h15_aa.png" group-title="Australia" tvg-id="MTVPANZ" tvc-guide-stationid="103274",Club MTV
 http://example.local/AUS-MTVPANZ.ts
-#EXTINF:-1 tvg-chno="103293" tvg-name="CNBC" tvg-logo="https://zap2it.tmsimg.com/assets/s103293_ll_h15_ac.png" group-title="Australia" tvg-id="CNBCANZ" tvc-guide-stationid="103293",CNBC
+#EXTINF:-1 tvg-chno="103293" tvg-name="CNBC" tvg-logo="https://zap2it.tmsimg.com/assets/s103293_ll_h15_ac.png?w=360&h=270" group-title="Australia" tvg-id="CNBCANZ" tvc-guide-stationid="103293",CNBC
 http://example.local/AUS-CNBCANZ.ts
-#EXTINF:-1 tvg-chno="103294" tvg-name="CNN" tvg-logo="https://zap2it.tmsimg.com/assets/s103294_ll_h15_ab.png" group-title="Australia" tvg-id="CNNANZ" tvc-guide-stationid="103294",CNN
+#EXTINF:-1 tvg-chno="103294" tvg-name="CNN" tvg-logo="https://zap2it.tmsimg.com/assets/s103294_ll_h15_ab.png?w=360&h=270" group-title="Australia" tvg-id="CNNANZ" tvc-guide-stationid="103294",CNN
 http://example.local/AUS-CNNANZ.ts
 #EXTINF:-1 tvg-chno="103209" tvg-name="Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s103209_ll_h15_ac.png" group-title="Australia" tvg-id="111ANZ" tvc-guide-stationid="103209",Comedy
 http://example.local/AUS-111ANZ.ts
@@ -905,7 +941,7 @@ http://example.local/AUS-JJRAPANZ.ts
 http://example.local/AUS-JJRAANZ.ts
 #EXTINF:-1 tvg-chno="119955" tvg-name="DreamWorks" tvg-logo="https://zap2it.tmsimg.com/assets/s119955_ll_h15_ac.png" group-title="Australia" tvg-id="DRMWANZ" tvc-guide-stationid="119955",DreamWorks
 http://example.local/AUS-DRMWANZ.ts
-#EXTINF:-1 tvg-chno="103357" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s103357_ll_h15_aa.png" group-title="Australia" tvg-id="ESPNANZ" tvc-guide-stationid="103357",ESPN
+#EXTINF:-1 tvg-chno="103357" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s103357_ll_h15_aa.png?w=360&h=270" group-title="Australia" tvg-id="ESPNANZ" tvc-guide-stationid="103357",ESPN
 http://example.local/AUS-ESPNANZ.ts
 #EXTINF:-1 tvg-chno="103358" tvg-name="ESPN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103358_ll_h15_ab.png" group-title="Australia" tvg-id="ESPHDAZ" tvc-guide-stationid="103358",ESPN HD
 http://example.local/AUS-ESPHDAZ.ts
@@ -1047,6 +1083,8 @@ http://example.local/AUS-IMPQANZ.ts
 http://example.local/AUS-IDCANZ.ts
 #EXTINF:-1 tvg-chno="187221" tvg-name="Kids" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00256QJH.png" group-title="Australia" tvg-id="KIROANZ" tvc-guide-stationid="187221",Kids
 http://example.local/AUS-KIROANZ.ts
+#EXTINF:-1 tvg-chno="170699" tvg-name="La Liga TV HD" group-title="Australia" tvg-id="LALIGANZ" tvc-guide-stationid="170699",La Liga TV HD
+http://example.local/AUS-LALIGANZ.ts
 #EXTINF:-1 tvg-chno="103197" tvg-name="LifeStyle Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s103197_ll_h15_aa.png" group-title="Australia" tvg-id="LIFEANZ" tvc-guide-stationid="103197",LifeStyle Channel
 http://example.local/AUS-LIFEANZ.ts
 #EXTINF:-1 tvg-chno="103198" tvg-name="LifeStyle Channel +2" tvg-logo="https://zap2it.tmsimg.com/assets/s103198_ll_h9_aa.png" group-title="Australia" tvg-id="LFP2ANZ" tvc-guide-stationid="103198",LifeStyle Channel +2
@@ -1097,11 +1135,11 @@ http://example.local/AUS-N9HGANZ.ts
 http://example.local/AUS-N9HNANZ.ts
 #EXTINF:-1 tvg-chno="104666" tvg-name="NBN 9Life Gold Coast (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104666_ll_h15_ac.png" group-title="Australia" tvg-id="N9LGANZ" tvc-guide-stationid="104666",NBN 9Life Gold Coast (NINE)
 http://example.local/AUS-N9LGANZ.ts
-#EXTINF:-1 tvg-chno="104667" tvg-name="NBN 9Life NSW (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104667_ll_h15_ac.png" group-title="Australia" tvg-id="N9LNANZ" tvc-guide-stationid="104667",NBN 9Life NSW (NINE)
+#EXTINF:-1 tvg-chno="104667" tvg-name="NBN 9Life NSW (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104667_ll_h15_ac.png?w=360&h=270" group-title="Australia" tvg-id="N9LNANZ" tvc-guide-stationid="104667",NBN 9Life NSW (NINE)
 http://example.local/AUS-N9LNANZ.ts
 #EXTINF:-1 tvg-chno="116093" tvg-name="NBN Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s116093_ll_h15_aa.png" group-title="Australia" tvg-id="EXNBNANZ" tvc-guide-stationid="116093",NBN Extra
 http://example.local/AUS-EXNBNANZ.ts
-#EXTINF:-1 tvg-chno="104263" tvg-name="NBN Gold Coast (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104263_ll_h9_aa.png" group-title="Australia" tvg-id="NBGCANZ" tvc-guide-stationid="104263",NBN Gold Coast (NINE)
+#EXTINF:-1 tvg-chno="104263" tvg-name="NBN Gold Coast (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104263_ll_h9_aa.png?w=360&h=270" group-title="Australia" tvg-id="NBGCANZ" tvc-guide-stationid="104263",NBN Gold Coast (NINE)
 http://example.local/AUS-NBGCANZ.ts
 #EXTINF:-1 tvg-chno="104265" tvg-name="NBN NSW (NINE)" tvg-logo="https://zap2it.tmsimg.com/assets/s104265_ll_h9_aa.png" group-title="Australia" tvg-id="NBNANZ" tvc-guide-stationid="104265",NBN NSW (NINE)
 http://example.local/AUS-NBNANZ.ts
@@ -1211,6 +1249,8 @@ http://example.local/AUS-REAL2ANZ.ts
 http://example.local/AUS-REALANZ.ts
 #EXTINF:-1 tvg-chno="152714" tvg-name="REAL.LIFE SD" tvg-logo="https://zap2it.tmsimg.com/assets/s152714_ll_h9_ab.png" group-title="Australia" tvg-id="REALSDANZ" tvc-guide-stationid="152714",REAL.LIFE SD
 http://example.local/AUS-REALSDANZ.ts
+#EXTINF:-1 tvg-chno="166600" tvg-name="Red Bull TV" tvg-logo="https://zap2it.tmsimg.com/assets/s166600_ll_h9_aa.png" group-title="Australia" tvg-id="RBTAU" tvc-guide-stationid="166600",Red Bull TV
+http://example.local/AUS-RBTAU.ts
 #EXTINF:-1 tvg-chno="187219" tvg-name="Retro" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00256YXN.png" group-title="Australia" tvg-id="REREANZ" tvc-guide-stationid="187219",Retro
 http://example.local/AUS-REREANZ.ts
 #EXTINF:-1 tvg-chno="106850" tvg-name="SBN NSW" tvg-logo="https://zap2it.tmsimg.com/assets/s106850_ll_h9_aa.png" group-title="Australia" tvg-id="SBNSANZ" tvc-guide-stationid="106850",SBN NSW

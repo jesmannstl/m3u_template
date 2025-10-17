@@ -21,7 +21,7 @@ http://example.local/ARG-ALJZ.ts
 http://example.local/ARG-SHARQI.ts
 #EXTINF:-1 tvg-chno="116001" tvg-name="Allegro HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116001_ll_h15_aa.png" group-title="Argentina" tvg-id="ALLEGRO" tvc-guide-stationid="116001",Allegro HD
 http://example.local/ARG-ALLEGRO.ts
-#EXTINF:-1 tvg-chno="91817" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Argentina" tvg-id="AMCAND" tvc-guide-stationid="91817",AMC
+#EXTINF:-1 tvg-chno="91817" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png?w=360&h=270" group-title="Argentina" tvg-id="AMCAND" tvc-guide-stationid="91817",AMC
 http://example.local/ARG-AMCAND.ts
 #EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Argentina" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
 http://example.local/ARG-AMCMXHD.ts
@@ -199,7 +199,7 @@ http://example.local/ARG-MAXSURH.ts
 http://example.local/ARG-CINELW.ts
 #EXTINF:-1 tvg-chno="106727" tvg-name="Ciudad Magazine HD" tvg-logo="https://zap2it.tmsimg.com/assets/s16878_ll_h15_ab.png" group-title="Argentina" tvg-id="CMAGHD" tvc-guide-stationid="106727",Ciudad Magazine HD
 http://example.local/ARG-CMAGHD.ts
-#EXTINF:-1 tvg-chno="110045" tvg-name="Clan" tvg-logo="https://zap2it.tmsimg.com/assets/s110045_h3_aa.png" group-title="Argentina" tvg-id="CLAN" tvc-guide-stationid="110045",Clan
+#EXTINF:-1 tvg-chno="110045" tvg-name="Clan" tvg-logo="https://zap2it.tmsimg.com/assets/s110045_ll_h15_aa.png" group-title="Argentina" tvg-id="CLAN" tvc-guide-stationid="110045",Clan
 http://example.local/ARG-CLAN.ts
 #EXTINF:-1 tvg-chno="24214" tvg-name="Club MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s24214_ll_h15_ae.png" group-title="Argentina" tvg-id="CLMTVUK" tvc-guide-stationid="24214",Club MTV
 http://example.local/ARG-CLMTVUK.ts
@@ -239,7 +239,7 @@ http://example.local/ARG-CRON.ts
 http://example.local/ARG-CRONHD.ts
 #EXTINF:-1 tvg-chno="108369" tvg-name="Cámara de diputados" tvg-logo="https://zap2it.tmsimg.com/assets/s108369_ll_h15_ac.png" group-title="Argentina" tvg-id="DIPUTAC" tvc-guide-stationid="108369",Cámara de diputados
 http://example.local/ARG-DIPUTAC.ts
-#EXTINF:-1 tvg-chno="132423" tvg-name="Daystar Español" tvg-logo="https://zap2it.tmsimg.com/assets/s132423_ll_h15_aa.png" group-title="Argentina" tvg-id="DSTRESP" tvc-guide-stationid="132423",Daystar Español
+#EXTINF:-1 tvg-chno="132423" tvg-name="Daystar Español" tvg-logo="https://zap2it.tmsimg.com/assets/s132423_h3_aa.png" group-title="Argentina" tvg-id="DSTRESP" tvc-guide-stationid="132423",Daystar Español
 http://example.local/ARG-DSTRESP.ts
 #EXTINF:-1 tvg-chno="74016" tvg-name="De Pelicula Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s74016_ll_h15_ab.png" group-title="Argentina" tvg-id="DEPELPL" tvc-guide-stationid="74016",De Pelicula Plus
 http://example.local/ARG-DEPELPL.ts
@@ -279,7 +279,7 @@ http://example.local/ARG-DKNLM.ts
 http://example.local/ARG-DKNLAEH.ts
 #EXTINF:-1 tvg-chno="110960" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s48527_ll_h15_aa.png" group-title="Argentina" tvg-id="DSCIENH" tvc-guide-stationid="110960",Discovery Science
 http://example.local/ARG-DSCIENH.ts
-#EXTINF:-1 tvg-chno="109986" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s48527_h3_ba.png" group-title="Argentina" tvg-id="DSCIEH" tvc-guide-stationid="109986",Discovery Science
+#EXTINF:-1 tvg-chno="109986" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s48527_h3_ba.png?w=360&h=270" group-title="Argentina" tvg-id="DSCIEH" tvc-guide-stationid="109986",Discovery Science
 http://example.local/ARG-DSCIEH.ts
 #EXTINF:-1 tvg-chno="46610" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s48527_ll_h15_aa.png" group-title="Argentina" tvg-id="DSCIENL" tvc-guide-stationid="46610",Discovery Science
 http://example.local/ARG-DSCIENL.ts
@@ -517,7 +517,7 @@ http://example.local/ARG-GLDENEH.ts
 http://example.local/ARG-GLDENM.ts
 #EXTINF:-1 tvg-chno="97825" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Argentina" tvg-id="GLDENH" tvc-guide-stationid="97825",Golden
 http://example.local/ARG-GLDENH.ts
-#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/s68317_ll_h15_ab.png" group-title="Argentina" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
+#EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Argentina" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
 http://example.local/ARG-GOLDNHD.ts
 #EXTINF:-1 tvg-chno="33691" tvg-name="GOLTV (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s33691_ll_h15_aa.png" group-title="Argentina" tvg-id="GOLTVE" tvc-guide-stationid="33691",GOLTV (English)
 http://example.local/ARG-GOLTVE.ts
@@ -589,15 +589,15 @@ http://example.local/ARG-HBOXLAM.ts
 http://example.local/ARG-HBOXLEH.ts
 #EXTINF:-1 tvg-chno="57400" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Argentina" tvg-id="HBOXMXE" tvc-guide-stationid="57400",HBO Xtreme
 http://example.local/ARG-HBOXMXE.ts
-#EXTINF:-1 tvg-chno="80199" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Argentina" tvg-id="HBOXLA" tvc-guide-stationid="80199",HBO Xtreme
+#EXTINF:-1 tvg-chno="80199" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png?w=360&h=270" group-title="Argentina" tvg-id="HBOXLA" tvc-guide-stationid="80199",HBO Xtreme
 http://example.local/ARG-HBOXLA.ts
 #EXTINF:-1 tvg-chno="80115" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_h3_aa.png" group-title="Argentina" tvg-id="HBOXMXH" tvc-guide-stationid="80115",HBO Xtreme
 http://example.local/ARG-HBOXMXH.ts
-#EXTINF:-1 tvg-chno="34887" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Argentina" tvg-id="HBOXMX" tvc-guide-stationid="34887",HBO Xtreme
+#EXTINF:-1 tvg-chno="34887" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png?w=360&h=270" group-title="Argentina" tvg-id="HBOXMX" tvc-guide-stationid="34887",HBO Xtreme
 http://example.local/ARG-HBOXMX.ts
 #EXTINF:-1 tvg-chno="111055" tvg-name="HGTV" tvg-logo="https://zap2it.tmsimg.com/assets/s111055_ll_h15_aa.png" group-title="Argentina" tvg-id="HGTVLA" tvc-guide-stationid="111055",HGTV
 http://example.local/ARG-HGTVLA.ts
-#EXTINF:-1 tvg-chno="111077" tvg-name="HGTV" tvg-logo="https://zap2it.tmsimg.com/assets/s111055_h3_aa.png" group-title="Argentina" tvg-id="HGTVLAS" tvc-guide-stationid="111077",HGTV
+#EXTINF:-1 tvg-chno="111077" tvg-name="HGTV" tvg-logo="https://zap2it.tmsimg.com/assets/s111055_h3_aa.png?w=360&h=270" group-title="Argentina" tvg-id="HGTVLAS" tvc-guide-stationid="111077",HGTV
 http://example.local/ARG-HGTVLAS.ts
 #EXTINF:-1 tvg-chno="71382" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Argentina" tvg-id="HCCHD" tvc-guide-stationid="71382",History
 http://example.local/ARG-HCCHD.ts
@@ -639,7 +639,7 @@ http://example.local/ARG-IDLHD.ts
 http://example.local/ARG-IDM.ts
 #EXTINF:-1 tvg-chno="25743" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Argentina" tvg-id="IDA" tvc-guide-stationid="25743",ID
 http://example.local/ARG-IDA.ts
-#EXTINF:-1 tvg-chno="16048" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Argentina" tvg-id="IDL" tvc-guide-stationid="16048",ID
+#EXTINF:-1 tvg-chno="16048" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png?w=360&h=270" group-title="Argentina" tvg-id="IDL" tvc-guide-stationid="16048",ID
 http://example.local/ARG-IDL.ts
 #EXTINF:-1 tvg-chno="109896" tvg-name="ID HD" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Argentina" tvg-id="IDMEXHD" tvc-guide-stationid="109896",ID HD
 http://example.local/ARG-IDMEXHD.ts
@@ -975,7 +975,7 @@ http://example.local/ARG-T5SATA.ts
 http://example.local/ARG-TBSESHD.ts
 #EXTINF:-1 tvg-chno="108179" tvg-name="TBS" tvg-logo="https://zap2it.tmsimg.com/assets/s75073_h3_aa.png" group-title="Argentina" tvg-id="TBSLAEH" tvc-guide-stationid="108179",TBS
 http://example.local/ARG-TBSLAEH.ts
-#EXTINF:-1 tvg-chno="44824" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s19246_ll_h15_ac.png" group-title="Argentina" tvg-id="TCMLI" tvc-guide-stationid="44824",TCM
+#EXTINF:-1 tvg-chno="44824" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s19246_ll_h15_ac.png?w=360&h=270" group-title="Argentina" tvg-id="TCMLI" tvc-guide-stationid="44824",TCM
 http://example.local/ARG-TCMLI.ts
 #EXTINF:-1 tvg-chno="19246" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s19246_h3_aa.png" group-title="Argentina" tvg-id="TCML" tvc-guide-stationid="19246",TCM
 http://example.local/ARG-TCML.ts
@@ -1037,7 +1037,7 @@ http://example.local/ARG-TLNOVEL.ts
 http://example.local/ARG-TNTLA.ts
 #EXTINF:-1 tvg-chno="106742" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Argentina" tvg-id="TNTARHD" tvc-guide-stationid="106742",TNT
 http://example.local/ARG-TNTARHD.ts
-#EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Argentina" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
+#EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png?w=360&h=270" group-title="Argentina" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
 http://example.local/ARG-TNTLC.ts
 #EXTINF:-1 tvg-chno="106062" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Argentina" tvg-id="TNTLCHH" tvc-guide-stationid="106062",TNT
 http://example.local/ARG-TNTLCHH.ts

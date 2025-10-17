@@ -19,6 +19,8 @@ http://example.local/ESP-3SATGEH.ts
 http://example.local/ESP-3SATHD.ts
 #EXTINF:-1 tvg-chno="113310" tvg-name="Achtung Sexy TV" group-title="Spain" tvg-id="ACHTSEX" tvc-guide-stationid="113310",Achtung Sexy TV
 http://example.local/ESP-ACHTSEX.ts
+#EXTINF:-1 tvg-chno="152097" tvg-name="acontra+ CINE" tvg-logo="https://zap2it.tmsimg.com/assets/s152097_ll_h9_aa.png" group-title="Spain" tvg-id="ACOCINE" tvc-guide-stationid="152097",acontra+ CINE
+http://example.local/ESP-ACOCINE.ts
 #EXTINF:-1 tvg-chno="27136" tvg-name="Al Jazeera" tvg-logo="https://zap2it.tmsimg.com/assets/s27136_ll_h15_aa.png" group-title="Spain" tvg-id="ALJAZ" tvc-guide-stationid="27136",Al Jazeera
 http://example.local/ESP-ALJAZ.ts
 #EXTINF:-1 tvg-chno="20296" tvg-name="Al Jazeera (Arabic)" tvg-logo="https://zap2it.tmsimg.com/assets/s20296_ll_h15_ab.png" group-title="Spain" tvg-id="ALJZ" tvc-guide-stationid="20296",Al Jazeera (Arabic)
@@ -49,6 +51,8 @@ http://example.local/ESP-ANIXE.ts
 http://example.local/ESP-ANT3SPH.ts
 #EXTINF:-1 tvg-chno="86951" tvg-name="Aragon TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86951_ll_h9_ab.png" group-title="Spain" tvg-id="ARAGON" tvc-guide-stationid="86951",Aragon TV
 http://example.local/ESP-ARAGON.ts
+#EXTINF:-1 tvg-chno="196525" tvg-name="Archivos Forenses" group-title="Spain" tvg-id="ARFOSFA" tvc-guide-stationid="196525",Archivos Forenses
+http://example.local/ESP-ARFOSFA.ts
 #EXTINF:-1 tvg-chno="66624" tvg-name="ARD-alpha" tvg-logo="https://zap2it.tmsimg.com/assets/s66624_ll_h15_ac.png" group-title="Spain" tvg-id="ARDALPH" tvc-guide-stationid="66624",ARD-alpha
 http://example.local/ESP-ARDALPH.ts
 #EXTINF:-1 tvg-chno="110440" tvg-name="ARD-alpha HD" tvg-logo="https://logos.jesmann.com/ARDALHD.png" group-title="Spain" tvg-id="ARDALHD" tvc-guide-stationid="110440",ARD-alpha HD
@@ -93,6 +97,8 @@ http://example.local/ESP-BFNHD.ts
 http://example.local/ESP-BFSHD.ts
 #EXTINF:-1 tvg-chno="113315" tvg-name="BB-MV Lokal-TV" group-title="Spain" tvg-id="BBMVTV" tvc-guide-stationid="113315",BB-MV Lokal-TV
 http://example.local/ESP-BBMVTV.ts
+#EXTINF:-1 tvg-chno="196526" tvg-name="BBC Earth" group-title="Spain" tvg-id="BBCEASF" tvc-guide-stationid="196526",BBC Earth
+http://example.local/ESP-BBCEASF.ts
 #EXTINF:-1 tvg-chno="36844" tvg-name="BBC News" tvg-logo="https://zap2it.tmsimg.com/assets/s36844_ll_h15_ad.png" group-title="Spain" tvg-id="BBCNEEU" tvc-guide-stationid="36844",BBC News
 http://example.local/ESP-BBCNEEU.ts
 #EXTINF:-1 tvg-chno="76774" tvg-name="BBC News Europe HD" tvg-logo="https://zap2it.tmsimg.com/assets/s76774_ll_h15_ab.png" group-title="Spain" tvg-id="BBCNEUHD" tvc-guide-stationid="76774",BBC News Europe HD
@@ -207,6 +213,8 @@ http://example.local/ESP-COSESPH.ts
 http://example.local/ESP-CUATRHD.ts
 #EXTINF:-1 tvg-chno="113657" tvg-name="Cubavisión Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s113657_ll_h15_aa.png" group-title="Spain" tvg-id="CUBAINT" tvc-guide-stationid="113657",Cubavisión Internacional
 http://example.local/ESP-CUBAINT.ts
+#EXTINF:-1 tvg-chno="188374" tvg-name="CyLTV Global" group-title="Spain" tvg-id="CYLTVGL" tvc-guide-stationid="188374",CyLTV Global
+http://example.local/ESP-CYLTVGL.ts
 #EXTINF:-1 tvg-chno="90324" tvg-name="Dark" tvg-logo="https://zap2it.tmsimg.com/assets/s90324_ll_h9_aa.png" group-title="Spain" tvg-id="DARKSPA" tvc-guide-stationid="90324",Dark
 http://example.local/ESP-DARKSPA.ts
 #EXTINF:-1 tvg-chno="53570" tvg-name="Dark/Dorcel TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53570_ll_h9_aa.png" group-title="Spain" tvg-id="DORCESP" tvc-guide-stationid="53570",Dark/Dorcel TV
@@ -219,8 +227,18 @@ http://example.local/ESP-ARDGRHD.ts
 http://example.local/ESP-DATELIN.ts
 #EXTINF:-1 tvg-chno="116734" tvg-name="DAZN 1" tvg-logo="https://zap2it.tmsimg.com/assets/s116734_ll_h15_ab.png" group-title="Spain" tvg-id="DAZN1" tvc-guide-stationid="116734",DAZN 1
 http://example.local/ESP-DAZN1.ts
+#EXTINF:-1 tvg-chno="130089" tvg-name="DAZN 1" tvg-logo="https://zap2it.tmsimg.com/assets/s130089_ll_h15_aa.png" group-title="Spain" tvg-id="DAZN1ES" tvc-guide-stationid="130089",DAZN 1
+http://example.local/ESP-DAZN1ES.ts
 #EXTINF:-1 tvg-chno="116735" tvg-name="DAZN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s116735_ll_h15_ab.png" group-title="Spain" tvg-id="DAZN2" tvc-guide-stationid="116735",DAZN 2
 http://example.local/ESP-DAZN2.ts
+#EXTINF:-1 tvg-chno="130090" tvg-name="DAZN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s130090_ll_h15_aa.png" group-title="Spain" tvg-id="DAZN2ES" tvc-guide-stationid="130090",DAZN 2
+http://example.local/ESP-DAZN2ES.ts
+#EXTINF:-1 tvg-chno="130091" tvg-name="DAZN 3" tvg-logo="https://zap2it.tmsimg.com/assets/s130091_ll_h15_aa.png" group-title="Spain" tvg-id="DAZN3ES" tvc-guide-stationid="130091",DAZN 3
+http://example.local/ESP-DAZN3ES.ts
+#EXTINF:-1 tvg-chno="130092" tvg-name="DAZN 4" tvg-logo="https://zap2it.tmsimg.com/assets/s130092_ll_h15_aa.png" group-title="Spain" tvg-id="DAZN4ES" tvc-guide-stationid="130092",DAZN 4
+http://example.local/ESP-DAZN4ES.ts
+#EXTINF:-1 tvg-chno="130093" tvg-name="DAZN F1" tvg-logo="https://zap2it.tmsimg.com/assets/s130093_ll_h15_aa.png" group-title="Spain" tvg-id="DAZNF1ES" tvc-guide-stationid="130093",DAZN F1
+http://example.local/ESP-DAZNF1ES.ts
 #EXTINF:-1 tvg-chno="131663" tvg-name="DAZN La Liga" tvg-logo="https://zap2it.tmsimg.com/assets/s131663_ll_h15_ab.png" group-title="Spain" tvg-id="DAZNLL" tvc-guide-stationid="131663",DAZN La Liga
 http://example.local/ESP-DAZNLL.ts
 #EXTINF:-1 tvg-chno="87012" tvg-name="Decasa" tvg-logo="https://zap2it.tmsimg.com/assets/s87012_ll_h9_aa.png" group-title="Spain" tvg-id="DECASA" tvc-guide-stationid="87012",Decasa
@@ -241,6 +259,12 @@ http://example.local/ESP-DISNG.ts
 http://example.local/ESP-DJRESP.ts
 #EXTINF:-1 tvg-chno="87038" tvg-name="Divinity HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87038_ll_h15_aa.png" group-title="Spain" tvg-id="DIVINIT" tvc-guide-stationid="87038",Divinity HD
 http://example.local/ESP-DIVINIT.ts
+#EXTINF:-1 tvg-chno="123062" tvg-name="Dizi - Spain" tvg-logo="https://zap2it.tmsimg.com/assets/s123062_ll_h9_aa.png" group-title="Spain" tvg-id="DIZIESP" tvc-guide-stationid="123062",Dizi - Spain
+http://example.local/ESP-DIZIESP.ts
+#EXTINF:-1 tvg-chno="122593" tvg-name="DJAZZ HD (EUROPE)" tvg-logo="https://zap2it.tmsimg.com/assets/s122593_ll_h15_ab.png" group-title="Spain" tvg-id="DJAZZST" tvc-guide-stationid="122593",DJAZZ HD (EUROPE)
+http://example.local/ESP-DJAZZST.ts
+#EXTINF:-1 tvg-chno="123844" tvg-name="Djazz Spain" tvg-logo="https://zap2it.tmsimg.com/assets/s123844_ll_h15_aa.png" group-title="Spain" tvg-id="DJAZZESP" tvc-guide-stationid="123844",Djazz Spain
+http://example.local/ESP-DJAZZESP.ts
 #EXTINF:-1 tvg-chno="99862" tvg-name="DKiss HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99862_ll_h15_aa.png" group-title="Spain" tvg-id="DKISS" tvc-guide-stationid="99862",DKiss HD
 http://example.local/ESP-DKISS.ts
 #EXTINF:-1 tvg-chno="90316" tvg-name="DMAX" tvg-logo="https://zap2it.tmsimg.com/assets/s90316_ll_h15_aa.png" group-title="Spain" tvg-id="DISCMAX" tvc-guide-stationid="90316",DMAX
@@ -269,6 +293,8 @@ http://example.local/ESP-ETB2.ts
 http://example.local/ESP-ETB3.ts
 #EXTINF:-1 tvg-chno="87086" tvg-name="ETB 4 - Euskal Telebista" tvg-logo="https://zap2it.tmsimg.com/assets/s87086_ll_h9_ac.png" group-title="Spain" tvg-id="ETB4" tvc-guide-stationid="87086",ETB 4 - Euskal Telebista
 http://example.local/ESP-ETB4.ts
+#EXTINF:-1 tvg-chno="90364" tvg-name="ETB Basque" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0025H1E1.png" group-title="Spain" tvg-id="EITBBA" tvc-guide-stationid="90364",ETB Basque
+http://example.local/ESP-EITBBA.ts
 #EXTINF:-1 tvg-chno="97485" tvg-name="ETB HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97485_ll_h9_ac.png" group-title="Spain" tvg-id="ETBHD" tvc-guide-stationid="97485",ETB HD
 http://example.local/ESP-ETBHD.ts
 #EXTINF:-1 tvg-chno="96553" tvg-name="Euronews" tvg-logo="https://zap2it.tmsimg.com/assets/s96553_ll_h15_aa.png" group-title="Spain" tvg-id="EUNEWSP" tvc-guide-stationid="96553",Euronews
@@ -353,6 +379,12 @@ http://example.local/ESP-GAYCHAT.ts
 http://example.local/ESP-GETREND.ts
 #EXTINF:-1 tvg-chno="107524" tvg-name="GeniusPlusTV" tvg-logo="https://zap2it.tmsimg.com/assets/s107524_ll_h9_ab.png" group-title="Spain" tvg-id="GENIUSP" tvc-guide-stationid="107524",GeniusPlusTV
 http://example.local/ESP-GENIUSP.ts
+#EXTINF:-1 tvg-chno="158225" tvg-name="Geo TV" group-title="Spain" tvg-id="GEOTVES" tvc-guide-stationid="158225",Geo TV
+http://example.local/ESP-GEOTVES.ts
+#EXTINF:-1 tvg-chno="176831" tvg-name="GH 24h 1" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002BQBJ0.png" group-title="Spain" tvg-id="MITELE1" tvc-guide-stationid="176831",GH 24h 1
+http://example.local/ESP-MITELE1.ts
+#EXTINF:-1 tvg-chno="176832" tvg-name="GH 24h 2" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002BQBZ4.png" group-title="Spain" tvg-id="MITELE2" tvc-guide-stationid="176832",GH 24h 2
+http://example.local/ESP-MITELE2.ts
 #EXTINF:-1 tvg-chno="91279" tvg-name="Gol TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91279_ll_h15_ab.png" group-title="Spain" tvg-id="GOLTVSH" tvc-guide-stationid="91279",Gol TV HD
 http://example.local/ESP-GOLTVSH.ts
 #EXTINF:-1 tvg-chno="52083" tvg-name="Gulli" tvg-logo="https://zap2it.tmsimg.com/assets/s52083_ll_h15_ac.png" group-title="Spain" tvg-id="GULLI" tvc-guide-stationid="52083",Gulli
@@ -439,6 +471,32 @@ http://example.local/ESP-TSATOTR.ts
 http://example.local/ESP-SEXTHD.ts
 #EXTINF:-1 tvg-chno="53707" tvg-name="La Tienda en Casa" tvg-logo="https://zap2it.tmsimg.com/assets/s53707_ll_h9_aa.png" group-title="Spain" tvg-id="LATIEND" tvc-guide-stationid="53707",La Tienda en Casa
 http://example.local/ESP-LATIEND.ts
+#EXTINF:-1 tvg-chno="156112" tvg-name="LALIGA EA SPORTS 1" group-title="Spain" tvg-id="LLEASP1" tvc-guide-stationid="156112",LALIGA EA SPORTS 1
+http://example.local/ESP-LLEASP1.ts
+#EXTINF:-1 tvg-chno="156113" tvg-name="LALIGA EA SPORTS 2" group-title="Spain" tvg-id="LLEASP2" tvc-guide-stationid="156113",LALIGA EA SPORTS 2
+http://example.local/ESP-LLEASP2.ts
+#EXTINF:-1 tvg-chno="156114" tvg-name="LALIGA EA SPORTS 3" group-title="Spain" tvg-id="LLEASP3" tvc-guide-stationid="156114",LALIGA EA SPORTS 3
+http://example.local/ESP-LLEASP3.ts
+#EXTINF:-1 tvg-chno="156616" tvg-name="LALIGA EA SPORTS 4" group-title="Spain" tvg-id="LLEASP4" tvc-guide-stationid="156616",LALIGA EA SPORTS 4
+http://example.local/ESP-LLEASP4.ts
+#EXTINF:-1 tvg-chno="157428" tvg-name="LaLiga Hypermotion 10" group-title="Spain" tvg-id="LLHYP10" tvc-guide-stationid="157428",LaLiga Hypermotion 10
+http://example.local/ESP-LLHYP10.ts
+#EXTINF:-1 tvg-chno="157429" tvg-name="LaLiga Hypermotion 11" group-title="Spain" tvg-id="LLHYP11" tvc-guide-stationid="157429",LaLiga Hypermotion 11
+http://example.local/ESP-LLHYP11.ts
+#EXTINF:-1 tvg-chno="157430" tvg-name="LaLiga Hypermotion 12" group-title="Spain" tvg-id="LLHYP12" tvc-guide-stationid="157430",LaLiga Hypermotion 12
+http://example.local/ESP-LLHYP12.ts
+#EXTINF:-1 tvg-chno="156115" tvg-name="LaLiga Hypermotion 4" group-title="Spain" tvg-id="LLHYP4" tvc-guide-stationid="156115",LaLiga Hypermotion 4
+http://example.local/ESP-LLHYP4.ts
+#EXTINF:-1 tvg-chno="156116" tvg-name="LaLiga Hypermotion 5" group-title="Spain" tvg-id="LLHYP5" tvc-guide-stationid="156116",LaLiga Hypermotion 5
+http://example.local/ESP-LLHYP5.ts
+#EXTINF:-1 tvg-chno="156117" tvg-name="LaLiga Hypermotion 6" group-title="Spain" tvg-id="LLHYP6" tvc-guide-stationid="156117",LaLiga Hypermotion 6
+http://example.local/ESP-LLHYP6.ts
+#EXTINF:-1 tvg-chno="156118" tvg-name="LaLiga Hypermotion 7" group-title="Spain" tvg-id="LLHYP7" tvc-guide-stationid="156118",LaLiga Hypermotion 7
+http://example.local/ESP-LLHYP7.ts
+#EXTINF:-1 tvg-chno="156119" tvg-name="LaLiga Hypermotion 8" group-title="Spain" tvg-id="LLHYP8" tvc-guide-stationid="156119",LaLiga Hypermotion 8
+http://example.local/ESP-LLHYP8.ts
+#EXTINF:-1 tvg-chno="156120" tvg-name="LaLiga Hypermotion 9" group-title="Spain" tvg-id="LLHYP9" tvc-guide-stationid="156120",LaLiga Hypermotion 9
+http://example.local/ESP-LLHYP9.ts
 #EXTINF:-1 tvg-chno="129133" tvg-name="LaLiga Hypermotion TV" tvg-logo="https://zap2it.tmsimg.com/assets/s129133_ll_h15_ac.png" group-title="Spain" tvg-id="LALSMA1" tvc-guide-stationid="129133",LaLiga Hypermotion TV
 http://example.local/ESP-LALSMA1.ts
 #EXTINF:-1 tvg-chno="130285" tvg-name="LaLiga Hypermotion TV 2" tvg-logo="https://zap2it.tmsimg.com/assets/s130285_ll_h15_ac.png" group-title="Spain" tvg-id="LALSMA2" tvc-guide-stationid="130285",LaLiga Hypermotion TV 2
@@ -605,8 +663,12 @@ http://example.local/ESP-NDRNHD.ts
 http://example.local/ESP-NDRSCHO.ts
 #EXTINF:-1 tvg-chno="84123" tvg-name="NDR Fernsehen SH HD" tvg-logo="https://logos.jesmann.com/NDRSHD.png" group-title="Spain" tvg-id="NDRSHD" tvc-guide-stationid="84123",NDR Fernsehen SH HD
 http://example.local/ESP-NDRSHD.ts
+#EXTINF:-1 tvg-chno="158226" tvg-name="Negocios TV" tvg-logo="https://zap2it.tmsimg.com/assets/s158226_ll_h15_aa.png" group-title="Spain" tvg-id="NEGOCES" tvc-guide-stationid="158226",Negocios TV
+http://example.local/ESP-NEGOCES.ts
 #EXTINF:-1 tvg-chno="102754" tvg-name="Neox HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102754_ll_h9_aa.png" group-title="Spain" tvg-id="NEOXHD" tvc-guide-stationid="102754",Neox HD
 http://example.local/ESP-NEOXHD.ts
+#EXTINF:-1 tvg-chno="158233" tvg-name="Nesting TV" group-title="Spain" tvg-id="NESTIES" tvc-guide-stationid="158233",Nesting TV
+http://example.local/ESP-NESTIES.ts
 #EXTINF:-1 tvg-chno="111707" tvg-name="NHK World" tvg-logo="https://zap2it.tmsimg.com/assets/s62096_ll_h15_aa.png" group-title="Spain" tvg-id="NHKWL" tvc-guide-stationid="111707",NHK World
 http://example.local/ESP-NHKWL.ts
 #EXTINF:-1 tvg-chno="121499" tvg-name="NHK World Europe HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121499_ll_h15_aa.png" group-title="Spain" tvg-id="NHKWLDH" tvc-guide-stationid="121499",NHK World Europe HD
@@ -717,6 +779,10 @@ http://example.local/ESP-RMADHD.ts
 http://example.local/ESP-RRECEUR.ts
 #EXTINF:-1 tvg-chno="107169" tvg-name="Record Europa HD (RREC)" tvg-logo="https://zap2it.tmsimg.com/assets/s107169_ll_h15_ab.png" group-title="Spain" tvg-id="RECEUHD" tvc-guide-stationid="107169",Record Europa HD (RREC)
 http://example.local/ESP-RECEUHD.ts
+#EXTINF:-1 tvg-chno="123954" tvg-name="Red Bull Batalla" tvg-logo="https://zap2it.tmsimg.com/assets/s123954_ll_h15_ab.png" group-title="Spain" tvg-id="REDBB" tvc-guide-stationid="123954",Red Bull Batalla
+http://example.local/ESP-REDBB.ts
+#EXTINF:-1 tvg-chno="115984" tvg-name="Red Bull TV" tvg-logo="https://zap2it.tmsimg.com/assets/s115984_ll_h15_ac.png" group-title="Spain" tvg-id="BESTORB" tvc-guide-stationid="115984",Red Bull TV
+http://example.local/ESP-BESTORB.ts
 #EXTINF:-1 tvg-chno="84216" tvg-name="REGIO TV SCHWABEN" tvg-logo="https://zap2it.tmsimg.com/assets/s84216_ll_h9_ab.png" group-title="Spain" tvg-id="REGITV" tvc-guide-stationid="84216",REGIO TV SCHWABEN
 http://example.local/ESP-REGITV.ts
 #EXTINF:-1 tvg-chno="83993" tvg-name="Regio TV Schwaben" tvg-logo="https://zap2it.tmsimg.com/assets/s83993_ll_h9_ab.png" group-title="Spain" tvg-id="REGIOSC" tvc-guide-stationid="83993",Regio TV Schwaben
@@ -849,7 +915,7 @@ http://example.local/ESP-TAGARD.ts
 http://example.local/ESP-TAGARHD.ts
 #EXTINF:-1 tvg-chno="113662" tvg-name="TBN España" group-title="Spain" tvg-id="TBNESP" tvc-guide-stationid="113662",TBN España
 http://example.local/ESP-TBNESP.ts
-#EXTINF:-1 tvg-chno="86940" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s86940_ll_h15_aa.png" group-title="Spain" tvg-id="TCMESP" tvc-guide-stationid="86940",TCM
+#EXTINF:-1 tvg-chno="86940" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s86940_ll_h15_aa.png?w=360&h=270" group-title="Spain" tvg-id="TCMESP" tvc-guide-stationid="86940",TCM
 http://example.local/ESP-TCMESP.ts
 #EXTINF:-1 tvg-chno="91223" tvg-name="TCM HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91223_ll_h15_aa.png" group-title="Spain" tvg-id="TCMSPHD" tvc-guide-stationid="91223",TCM HD
 http://example.local/ESP-TCMSPHD.ts
@@ -865,6 +931,8 @@ http://example.local/ESP-TELEDHD.ts
 http://example.local/ESP-TELEMAD.ts
 #EXTINF:-1 tvg-chno="91226" tvg-name="Telemadrid HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91226_ll_h15_aa.png" group-title="Spain" tvg-id="TELEMHD" tvc-guide-stationid="91226",Telemadrid HD
 http://example.local/ESP-TELEMHD.ts
+#EXTINF:-1 tvg-chno="188377" tvg-name="TeleMadrid internacional" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0025LC68.png" group-title="Spain" tvg-id="TELMAINT" tvc-guide-stationid="188377",TeleMadrid internacional
+http://example.local/ESP-TELMAINT.ts
 #EXTINF:-1 tvg-chno="47620" tvg-name="TeleSur" tvg-logo="https://zap2it.tmsimg.com/assets/s47620_ll_h15_aa.png" group-title="Spain" tvg-id="TELESUR" tvc-guide-stationid="47620",TeleSur
 http://example.local/ESP-TELESUR.ts
 #EXTINF:-1 tvg-chno="96791" tvg-name="Televigo" tvg-logo="https://zap2it.tmsimg.com/assets/s96791_ll_h15_aa.png" group-title="Spain" tvg-id="TELVIG" tvc-guide-stationid="96791",Televigo
@@ -885,6 +953,8 @@ http://example.local/ESP-TRCELA.ts
 http://example.local/ESP-TRACSPO.ts
 #EXTINF:-1 tvg-chno="71760" tvg-name="Trace Urban" tvg-logo="https://zap2it.tmsimg.com/assets/s71760_ll_h15_ac.png" group-title="Spain" tvg-id="TRURENG" tvc-guide-stationid="71760",Trace Urban
 http://example.local/ESP-TRURENG.ts
+#EXTINF:-1 tvg-chno="158227" tvg-name="Trading TV" group-title="Spain" tvg-id="TRADIES" tvc-guide-stationid="158227",Trading TV
+http://example.local/ESP-TRADIES.ts
 #EXTINF:-1 tvg-chno="87050" tvg-name="Trece HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87050_ll_h15_ac.png" group-title="Spain" tvg-id="TRECEES" tvc-guide-stationid="87050",Trece HD
 http://example.local/ESP-TRECEES.ts
 #EXTINF:-1 tvg-chno="104305" tvg-name="TRT World HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104305_ll_h15_aa.png" group-title="Spain" tvg-id="TRTWRLD" tvc-guide-stationid="104305",TRT World HD
@@ -903,6 +973,8 @@ http://example.local/ESP-TRWAMPL.ts
 http://example.local/ESP-INTVRHD.ts
 #EXTINF:-1 tvg-chno="37831" tvg-name="TV3" group-title="Spain" tvg-id="TV3" tvc-guide-stationid="37831",TV3
 http://example.local/ESP-TV3.ts
+#EXTINF:-1 tvg-chno="87124" tvg-name="TV3" tvg-logo="https://zap2it.tmsimg.com/assets/s87124_ll_h15_aa.png" group-title="Spain" tvg-id="TV3SP" tvc-guide-stationid="87124",TV3
+http://example.local/ESP-TV3SP.ts
 #EXTINF:-1 tvg-chno="87126" tvg-name="TV3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87126_ll_h15_aa.png" group-title="Spain" tvg-id="TV3SPHD" tvc-guide-stationid="87126",TV3 HD
 http://example.local/ESP-TV3SPHD.ts
 #EXTINF:-1 tvg-chno="87020" tvg-name="TV3CAT" tvg-logo="https://zap2it.tmsimg.com/assets/s87020_ll_h15_aa.png" group-title="Spain" tvg-id="TV3CAT" tvc-guide-stationid="87020",TV3CAT
@@ -915,6 +987,8 @@ http://example.local/ESP-TV5MDSP.ts
 http://example.local/ESP-TV5MHD.ts
 #EXTINF:-1 tvg-chno="97742" tvg-name="TVA Ostbayern" tvg-logo="https://zap2it.tmsimg.com/assets/s97742_ll_h15_aa.png" group-title="Spain" tvg-id="TVAOSTB" tvc-guide-stationid="97742",TVA Ostbayern
 http://example.local/ESP-TVAOSTB.ts
+#EXTINF:-1 tvg-chno="116647" tvg-name="TVCortos (Spain)" tvg-logo="https://zap2it.tmsimg.com/assets/s116647_ll_h15_ac.png" group-title="Spain" tvg-id="TVCORSP" tvc-guide-stationid="116647",TVCortos (Spain)
+http://example.local/ESP-TVCORSP.ts
 #EXTINF:-1 tvg-chno="90320" tvg-name="TVE Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s90320_ll_h15_aa.png" group-title="Spain" tvg-id="TVEINTS" tvc-guide-stationid="90320",TVE Internacional
 http://example.local/ESP-TVEINTS.ts
 #EXTINF:-1 tvg-chno="90400" tvg-name="TVG" tvg-logo="https://zap2it.tmsimg.com/assets/s90400_ll_h15_aa.png" group-title="Spain" tvg-id="TVGES" tvc-guide-stationid="90400",TVG
@@ -931,12 +1005,16 @@ http://example.local/ESP-TVPOL.ts
 http://example.local/ESP-TVRAN.ts
 #EXTINF:-1 tvg-chno="114732" tvg-name="U-Beat HD" tvg-logo="https://zap2it.tmsimg.com/assets/s114732_ll_h15_aa.png" group-title="Spain" tvg-id="UBEAT" tvc-guide-stationid="114732",U-Beat HD
 http://example.local/ESP-UBEAT.ts
+#EXTINF:-1 tvg-chno="131924" tvg-name="Unbeaten" tvg-logo="https://zap2it.tmsimg.com/assets/s129048_ll_h15_aa.png" group-title="Spain" tvg-id="UNBEAES" tvc-guide-stationid="131924",Unbeaten
+http://example.local/ESP-UNBEAES.ts
 #EXTINF:-1 tvg-chno="53736" tvg-name="VinTV" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0026FVVN.png" group-title="Spain" tvg-id="VINTV" tvc-guide-stationid="53736",VinTV
 http://example.local/ESP-VINTV.ts
 #EXTINF:-1 tvg-chno="113335" tvg-name="VISIT-X.tv" group-title="Spain" tvg-id="VISITX" tvc-guide-stationid="113335",VISIT-X.tv
 http://example.local/ESP-VISITX.ts
 #EXTINF:-1 tvg-chno="134437" tvg-name="Vive Kanal D Drama" tvg-logo="https://zap2it.tmsimg.com/assets/s134437_ll_h15_aa.png" group-title="Spain" tvg-id="VKDD" tvc-guide-stationid="134437",Vive Kanal D Drama
 http://example.local/ESP-VKDD.ts
+#EXTINF:-1 tvg-chno="158232" tvg-name="Vizner TV" tvg-logo="https://zap2it.tmsimg.com/assets/s158232_ll_h15_aa.png" group-title="Spain" tvg-id="VIZNEES" tvc-guide-stationid="158232",Vizner TV
+http://example.local/ESP-VIZNEES.ts
 #EXTINF:-1 tvg-chno="83958" tvg-name="VOX" tvg-logo="https://zap2it.tmsimg.com/assets/s83958_ll_h9_ab.png" group-title="Spain" tvg-id="VOXOST" tvc-guide-stationid="83958",VOX
 http://example.local/ESP-VOXOST.ts
 #EXTINF:-1 tvg-chno="66616" tvg-name="VOX" tvg-logo="https://zap2it.tmsimg.com/assets/s66616_ll_h9_ab.png" group-title="Spain" tvg-id="VOXGERH" tvc-guide-stationid="66616",VOX
@@ -975,6 +1053,8 @@ http://example.local/ESP-WDRSTWU.ts
 http://example.local/ESP-WELTDE.ts
 #EXTINF:-1 tvg-chno="94648" tvg-name="Welt der Wunder" tvg-logo="https://zap2it.tmsimg.com/assets/s94648_ll_h15_aa.png" group-title="Spain" tvg-id="WELTDW" tvc-guide-stationid="94648",Welt der Wunder
 http://example.local/ESP-WELTDW.ts
+#EXTINF:-1 tvg-chno="132852" tvg-name="WORLD OF RED BULL (GLOBAL)" tvg-logo="https://zap2it.tmsimg.com/assets/s132852_ll_h15_aa.png" group-title="Spain" tvg-id="WORBGLO" tvc-guide-stationid="132852",WORLD OF RED BULL (GLOBAL)
+http://example.local/ESP-WORBGLO.ts
 #EXTINF:-1 tvg-chno="86957" tvg-name="XTRM" tvg-logo="https://zap2it.tmsimg.com/assets/s86957_ll_h15_aa.png" group-title="Spain" tvg-id="EXTTEUV" tvc-guide-stationid="86957",XTRM
 http://example.local/ESP-EXTTEUV.ts
 #EXTINF:-1 tvg-chno="91182" tvg-name="XTRM HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91182_ll_h15_aa.png" group-title="Spain" tvg-id="XTRMHD" tvc-guide-stationid="91182",XTRM HD
@@ -991,3 +1071,5 @@ http://example.local/ESP-ZDFINHD.ts
 http://example.local/ESP-ZDFNGEH.ts
 #EXTINF:-1 tvg-chno="90438" tvg-name="ZDFneo HD" tvg-logo="https://logos.jesmann.com/ZDFNGHD.png" group-title="Spain" tvg-id="ZDFNGHD" tvc-guide-stationid="90438",ZDFneo HD
 http://example.local/ESP-ZDFNGHD.ts
+#EXTINF:-1 tvg-chno="188407" tvg-name="À Punt internacional" group-title="Spain" tvg-id="APUNTINT" tvc-guide-stationid="188407",À Punt internacional
+http://example.local/ESP-APUNTINT.ts
