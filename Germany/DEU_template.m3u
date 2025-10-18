@@ -3535,7 +3535,7 @@ http://example.local/DEU-SWR4RP.ts
 http://example.local/DEU-SWRINFO.ts
 #EXTINF:-1 tvg-chno="83778" tvg-name="Syfy" tvg-logo="https://zap2it.tmsimg.com/assets/s83778_ll_h15_aa.png" group-title="Germany" tvg-id="SYFYD" tvc-guide-stationid="83778",Syfy
 http://example.local/DEU-SYFYD.ts
-#EXTINF:-1 tvg-chno="86884" tvg-name="SyFy HD" tvg-logo="https://zap2it.tmsimg.com/assets/s86884_ll_h9_ab.png?w=360&h=270" group-title="Germany" tvg-id="SYFYHDG" tvc-guide-stationid="86884",SyFy HD
+#EXTINF:-1 tvg-chno="86884" tvg-name="SyFy HD" tvg-logo="https://zap2it.tmsimg.com/assets/s86884_ll_h9_ab.png" group-title="Germany" tvg-id="SYFYHDG" tvc-guide-stationid="86884",SyFy HD
 http://example.local/DEU-SYFYHDG.ts
 #EXTINF:-1 tvg-chno="112620" tvg-name="SYFY HD" tvg-logo="https://zap2it.tmsimg.com/assets/s112620_ll_h15_aa.png" group-title="Germany" tvg-id="SYFYSKY" tvc-guide-stationid="112620",SYFY HD
 http://example.local/DEU-SYFYSKY.ts
@@ -3563,7 +3563,7 @@ http://example.local/DEU-TAGARD.ts
 http://example.local/DEU-TAGARHD.ts
 #EXTINF:-1 tvg-chno="78976" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s78976_ll_h15_ab.png" group-title="Germany" tvg-id="TCMFRNC" tvc-guide-stationid="78976",TCM
 http://example.local/DEU-TCMFRNC.ts
-#EXTINF:-1 tvg-chno="86940" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s86940_ll_h15_aa.png?w=360&h=270" group-title="Germany" tvg-id="TCMESP" tvc-guide-stationid="86940",TCM
+#EXTINF:-1 tvg-chno="86940" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s86940_ll_h15_aa.png" group-title="Germany" tvg-id="TCMESP" tvc-guide-stationid="86940",TCM
 http://example.local/DEU-TCMESP.ts
 #EXTINF:-1 tvg-chno="86282" tvg-name="Tele 1" tvg-logo="https://zap2it.tmsimg.com/assets/s86282_ll_h15_aa.png" group-title="Germany" tvg-id="TELE1" tvc-guide-stationid="86282",Tele 1
 http://example.local/DEU-TELE1.ts
@@ -3573,7 +3573,7 @@ http://example.local/DEU-TELE5GR.ts
 http://example.local/DEU-TELE5HD.ts
 #EXTINF:-1 tvg-chno="88701" tvg-name="Tele 5 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88701_ll_h15_ab.png" group-title="Germany" tvg-id="TEL5ATH" tvc-guide-stationid="88701",Tele 5 HD
 http://example.local/DEU-TEL5ATH.ts
-#EXTINF:-1 tvg-chno="89304" tvg-name="Tele M1" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002551VN.png?w=360&h=270" group-title="Germany" tvg-id="TELEM1S" tvc-guide-stationid="89304",Tele M1
+#EXTINF:-1 tvg-chno="89304" tvg-name="Tele M1" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002551VN.png" group-title="Germany" tvg-id="TELEM1S" tvc-guide-stationid="89304",Tele M1
 http://example.local/DEU-TELEM1S.ts
 #EXTINF:-1 tvg-chno="89575" tvg-name="Tele Südostschweiz" tvg-logo="https://zap2it.tmsimg.com/assets/s89575_ll_h15_aa.png" group-title="Germany" tvg-id="TELESOS" tvc-guide-stationid="89575",Tele Südostschweiz
 http://example.local/DEU-TELESOS.ts
@@ -3649,7 +3649,7 @@ http://example.local/DEU-TIDEHD.ts
 http://example.local/DEU-TIJIFR.ts
 #EXTINF:-1 tvg-chno="103390" tvg-name="Tiji HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103390_ll_h15_aa.png" group-title="Germany" tvg-id="TIJIFRH" tvc-guide-stationid="103390",Tiji HD
 http://example.local/DEU-TIJIFRH.ts
-#EXTINF:-1 tvg-chno="178240" tvg-name="Time2Rlx" group-title="Germany" tvg-id="TIME2RLX" tvc-guide-stationid="178240",Time2Rlx
+#EXTINF:-1 tvg-chno="178240" tvg-name="Time2Rlx" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002F3THD.png" group-title="Germany" tvg-id="TIME2RLX" tvc-guide-stationid="178240",Time2Rlx
 http://example.local/DEU-TIME2RLX.ts
 #EXTINF:-1 tvg-chno="99219" tvg-name="Tipik" tvg-logo="https://zap2it.tmsimg.com/assets/s99219_ll_h15_ab.png" group-title="Germany" tvg-id="TIPIK" tvc-guide-stationid="99219",Tipik
 http://example.local/DEU-TIPIK.ts
@@ -4035,7 +4035,7 @@ http://example.local/DEU-WEDOMOV.ts
 http://example.local/DEU-WEMOAMZ.ts
 #EXTINF:-1 tvg-chno="139415" tvg-name="wedo sports" tvg-logo="https://zap2it.tmsimg.com/assets/s139415_ll_h15_aa.png" group-title="Germany" tvg-id="WEDOSDE" tvc-guide-stationid="139415",wedo sports
 http://example.local/DEU-WEDOSDE.ts
-#EXTINF:-1 tvg-chno="168543" tvg-name="wedotv True Stories" tvg-logo="https://zap2it.tmsimg.com/assets/s168543_ll_h15_aa.png" group-title="Germany" tvg-id="WEDOTSDE" tvc-guide-stationid="168543",wedotv True Stories
+#EXTINF:-1 tvg-chno="168543" tvg-name="wedotv True Stories" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002F3WMV.png" group-title="Germany" tvg-id="WEDOTSDE" tvc-guide-stationid="168543",wedotv True Stories
 http://example.local/DEU-WEDOTSDE.ts
 #EXTINF:-1 tvg-chno="108028" tvg-name="Welle1 Salzburg" tvg-logo="https://zap2it.tmsimg.com/assets/s108028_ll_h9_aa.png" group-title="Germany" tvg-id="WELLE1SB" tvc-guide-stationid="108028",Welle1 Salzburg
 http://example.local/DEU-WELLE1SB.ts

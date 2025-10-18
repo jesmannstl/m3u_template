@@ -97,7 +97,7 @@ http://example.local/ESP-BFNHD.ts
 http://example.local/ESP-BFSHD.ts
 #EXTINF:-1 tvg-chno="113315" tvg-name="BB-MV Lokal-TV" group-title="Spain" tvg-id="BBMVTV" tvc-guide-stationid="113315",BB-MV Lokal-TV
 http://example.local/ESP-BBMVTV.ts
-#EXTINF:-1 tvg-chno="196526" tvg-name="BBC Earth" group-title="Spain" tvg-id="BBCEASF" tvc-guide-stationid="196526",BBC Earth
+#EXTINF:-1 tvg-chno="196526" tvg-name="BBC Earth" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002D91R8.png" group-title="Spain" tvg-id="BBCEASF" tvc-guide-stationid="196526",BBC Earth
 http://example.local/ESP-BBCEASF.ts
 #EXTINF:-1 tvg-chno="36844" tvg-name="BBC News" tvg-logo="https://zap2it.tmsimg.com/assets/s36844_ll_h15_ad.png" group-title="Spain" tvg-id="BBCNEEU" tvc-guide-stationid="36844",BBC News
 http://example.local/ESP-BBCNEEU.ts
@@ -915,7 +915,7 @@ http://example.local/ESP-TAGARD.ts
 http://example.local/ESP-TAGARHD.ts
 #EXTINF:-1 tvg-chno="113662" tvg-name="TBN España" group-title="Spain" tvg-id="TBNESP" tvc-guide-stationid="113662",TBN España
 http://example.local/ESP-TBNESP.ts
-#EXTINF:-1 tvg-chno="86940" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s86940_ll_h15_aa.png?w=360&h=270" group-title="Spain" tvg-id="TCMESP" tvc-guide-stationid="86940",TCM
+#EXTINF:-1 tvg-chno="86940" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s86940_ll_h15_aa.png" group-title="Spain" tvg-id="TCMESP" tvc-guide-stationid="86940",TCM
 http://example.local/ESP-TCMESP.ts
 #EXTINF:-1 tvg-chno="91223" tvg-name="TCM HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91223_ll_h15_aa.png" group-title="Spain" tvg-id="TCMSPHD" tvc-guide-stationid="91223",TCM HD
 http://example.local/ESP-TCMSPHD.ts

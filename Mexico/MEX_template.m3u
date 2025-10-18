@@ -57,7 +57,7 @@ http://example.local/MEX-ALJZHDI.ts
 http://example.local/MEX-AMCMEX.ts
 #EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Mexico" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
 http://example.local/MEX-AMCMXHD.ts
-#EXTINF:-1 tvg-chno="91817" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png?w=360&h=270" group-title="Mexico" tvg-id="AMCAND" tvc-guide-stationid="91817",AMC
+#EXTINF:-1 tvg-chno="91817" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Mexico" tvg-id="AMCAND" tvc-guide-stationid="91817",AMC
 http://example.local/MEX-AMCAND.ts
 #EXTINF:-1 tvg-chno="16272" tvg-name="America 24" tvg-logo="https://zap2it.tmsimg.com/assets/s16272_ll_h15_ac.png" group-title="Mexico" tvg-id="AMER24" tvc-guide-stationid="16272",America 24
 http://example.local/MEX-AMER24.ts
@@ -793,7 +793,7 @@ http://example.local/MEX-FIXFXS.ts
 http://example.local/MEX-FOODLA.ts
 #EXTINF:-1 tvg-chno="91989" tvg-name="Food Network" tvg-logo="https://zap2it.tmsimg.com/assets/s91919_ll_h15_aa.png" group-title="Mexico" tvg-id="FOODLAH" tvc-guide-stationid="91989",Food Network
 http://example.local/MEX-FOODLAH.ts
-#EXTINF:-1 tvg-chno="44718" tvg-name="Food Network" tvg-logo="https://zap2it.tmsimg.com/assets/s44718_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="FOODNET" tvc-guide-stationid="44718",Food Network
+#EXTINF:-1 tvg-chno="44718" tvg-name="Food Network" tvg-logo="https://zap2it.tmsimg.com/assets/s44718_ll_h15_ab.png" group-title="Mexico" tvg-id="FOODNET" tvc-guide-stationid="44718",Food Network
 http://example.local/MEX-FOODNET.ts
 #EXTINF:-1 tvg-chno="115731" tvg-name="Foro TV (NMASFOMX)" tvg-logo="https://zap2it.tmsimg.com/assets/s66635_ll_h15_ac.png" group-title="Mexico" tvg-id="XHUAATDT2" tvc-guide-stationid="115731",Foro TV (NMASFOMX)
 http://example.local/MEX-XHUAATDT2.ts
@@ -989,11 +989,11 @@ http://example.local/MEX-HBOSLA.ts
 http://example.local/MEX-HBOSLHD.ts
 #EXTINF:-1 tvg-chno="74530" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s74530_ll_h15_ac.png" group-title="Mexico" tvg-id="HBOSB" tvc-guide-stationid="74530",HBO Signature
 http://example.local/MEX-HBOSB.ts
-#EXTINF:-1 tvg-chno="34887" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="HBOXMX" tvc-guide-stationid="34887",HBO Xtreme
+#EXTINF:-1 tvg-chno="34887" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Mexico" tvg-id="HBOXMX" tvc-guide-stationid="34887",HBO Xtreme
 http://example.local/MEX-HBOXMX.ts
 #EXTINF:-1 tvg-chno="80115" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_h3_aa.png" group-title="Mexico" tvg-id="HBOXMXH" tvc-guide-stationid="80115",HBO Xtreme
 http://example.local/MEX-HBOXMXH.ts
-#EXTINF:-1 tvg-chno="80199" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png?w=360&h=270" group-title="Mexico" tvg-id="HBOXLA" tvc-guide-stationid="80199",HBO Xtreme
+#EXTINF:-1 tvg-chno="80199" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Mexico" tvg-id="HBOXLA" tvc-guide-stationid="80199",HBO Xtreme
 http://example.local/MEX-HBOXLA.ts
 #EXTINF:-1 tvg-chno="80211" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Mexico" tvg-id="HBOXLAH" tvc-guide-stationid="80211",HBO Xtreme
 http://example.local/MEX-HBOXLAH.ts
@@ -1001,7 +1001,7 @@ http://example.local/MEX-HBOXLAH.ts
 http://example.local/MEX-HBOXTSD.ts
 #EXTINF:-1 tvg-chno="111249" tvg-name="Heraldo TV" tvg-logo="https://zap2it.tmsimg.com/assets/s111249_h3_aa.png" group-title="Mexico" tvg-id="HERA" tvc-guide-stationid="111249",Heraldo TV
 http://example.local/MEX-HERA.ts
-#EXTINF:-1 tvg-chno="111077" tvg-name="HGTV" tvg-logo="https://zap2it.tmsimg.com/assets/s111055_h3_aa.png?w=360&h=270" group-title="Mexico" tvg-id="HGTVLAS" tvc-guide-stationid="111077",HGTV
+#EXTINF:-1 tvg-chno="111077" tvg-name="HGTV" tvg-logo="https://zap2it.tmsimg.com/assets/s111055_h3_aa.png" group-title="Mexico" tvg-id="HGTVLAS" tvc-guide-stationid="111077",HGTV
 http://example.local/MEX-HGTVLAS.ts
 #EXTINF:-1 tvg-chno="111055" tvg-name="HGTV" tvg-logo="https://zap2it.tmsimg.com/assets/s111055_ll_h15_aa.png" group-title="Mexico" tvg-id="HGTVLA" tvc-guide-stationid="111055",HGTV
 http://example.local/MEX-HGTVLA.ts
@@ -1677,7 +1677,7 @@ http://example.local/MEX-TLCMXH.ts
 http://example.local/MEX-TLNOVEL.ts
 #EXTINF:-1 tvg-chno="115895" tvg-name="TLNovelas" tvg-logo="https://zap2it.tmsimg.com/assets/s37232_ll_h15_ab.png" group-title="Mexico" tvg-id="TLNOVLH" tvc-guide-stationid="115895",TLNovelas
 http://example.local/MEX-TLNOVLH.ts
-#EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png?w=360&h=270" group-title="Mexico" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
+#EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Mexico" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
 http://example.local/MEX-TNTLC.ts
 #EXTINF:-1 tvg-chno="80807" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Mexico" tvg-id="TNTLAHD" tvc-guide-stationid="80807",TNT
 http://example.local/MEX-TNTLAHD.ts
@@ -1813,7 +1813,7 @@ http://example.local/MEX-UNTVM.ts
 http://example.local/MEX-UNTVMHD.ts
 #EXTINF:-1 tvg-chno="106232" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Mexico" tvg-id="UNTVCOH" tvc-guide-stationid="106232",Universal TV
 http://example.local/MEX-UNTVCOH.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Mexico" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" group-title="Mexico" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/MEX-UNI.ts
 #EXTINF:-1 tvg-chno="75951" tvg-name="Univision TDN" tvg-logo="https://zap2it.tmsimg.com/assets/s75176_ll_h15_ae.png" group-title="Mexico" tvg-id="UTDN" tvc-guide-stationid="75951",Univision TDN
 http://example.local/MEX-UTDN.ts
