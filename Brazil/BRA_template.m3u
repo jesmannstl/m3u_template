@@ -773,7 +773,7 @@ http://example.local/BRA-RMINAS.ts
 http://example.local/BRA-RMINAHD.ts
 #EXTINF:-1 tvg-chno="104622" tvg-name="Rede Mundial" tvg-logo="https://zap2it.tmsimg.com/assets/s104622_ll_h9_aa.png" group-title="Brazil" tvg-id="MERCSHD" tvc-guide-stationid="104622",Rede Mundial
 http://example.local/BRA-MERCSHD.ts
-#EXTINF:-1 tvg-chno="78131" tvg-name="Rede Mundial [Curitiba]" tvg-logo="https://zap2it.tmsimg.com/assets/s78131_ll_h9_aa.png" group-title="Brazil" tvg-id="MERCSUL" tvc-guide-stationid="78131",Rede Mundial [Curitiba]
+#EXTINF:-1 tvg-chno="78131" tvg-name="Rede Mundial [Curitiba]" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002BZG4C.png" group-title="Brazil" tvg-id="MERCSUL" tvc-guide-stationid="78131",Rede Mundial [Curitiba]
 http://example.local/BRA-MERCSUL.ts
 #EXTINF:-1 tvg-chno="78292" tvg-name="Rede NGT Nova Geracao de Televisao" tvg-logo="https://zap2it.tmsimg.com/assets/s78292_ll_h15_ab.png" group-title="Brazil" tvg-id="RNGT" tvc-guide-stationid="78292",Rede NGT Nova Geracao de Televisao
 http://example.local/BRA-RNGT.ts
@@ -971,6 +971,8 @@ http://example.local/BRA-SPORT4.ts
 http://example.local/BRA-SPORT5.ts
 #EXTINF:-1 tvg-chno="94567" tvg-name="sportv HD" tvg-logo="https://zap2it.tmsimg.com/assets/s94567_ll_h15_ab.png" group-title="Brazil" tvg-id="SPORVHD" tvc-guide-stationid="94567",sportv HD
 http://example.local/BRA-SPORVHD.ts
+#EXTINF:-1 tvg-chno="110213" tvg-name="sportv HD" tvg-logo="https://zap2it.tmsimg.com/assets/s110213_ll_h15_ad.png" group-title="Brazil" tvg-id="SPOHDOI" tvc-guide-stationid="110213",sportv HD
+http://example.local/BRA-SPOHDOI.ts
 #EXTINF:-1 tvg-chno="56104" tvg-name="sportv2" tvg-logo="https://zap2it.tmsimg.com/assets/s56104_ll_h15_ad.png" group-title="Brazil" tvg-id="SPORTV2" tvc-guide-stationid="56104",sportv2
 http://example.local/BRA-SPORTV2.ts
 #EXTINF:-1 tvg-chno="94568" tvg-name="sportv2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s94568_ll_h15_ab.png" group-title="Brazil" tvg-id="SPOR2HD" tvc-guide-stationid="94568",sportv2 HD
@@ -1031,6 +1033,8 @@ http://example.local/BRA-TELEFEA.ts
 http://example.local/BRA-TEFEI.ts
 #EXTINF:-1 tvg-chno="75604" tvg-name="Terraviva (BAND)" tvg-logo="https://zap2it.tmsimg.com/assets/s75604_ll_h15_ab.png" group-title="Brazil" tvg-id="VIVA" tvc-guide-stationid="75604",Terraviva (BAND)
 http://example.local/BRA-VIVA.ts
+#EXTINF:-1 tvg-chno="103757" tvg-name="Terraviva HD (BAND)" tvg-logo="https://zap2it.tmsimg.com/assets/s103757_ll_h15_aa.png" group-title="Brazil" tvg-id="TVIVAHD" tvc-guide-stationid="103757",Terraviva HD (BAND)
+http://example.local/BRA-TVIVAHD.ts
 #EXTINF:-1 tvg-chno="73859" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s73859_ll_h15_ad.png" group-title="Brazil" tvg-id="TLCBRAZ" tvc-guide-stationid="73859",TLC
 http://example.local/BRA-TLCBRAZ.ts
 #EXTINF:-1 tvg-chno="98582" tvg-name="TLC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s98582_ll_h15_ad.png" group-title="Brazil" tvg-id="TLCBRHD" tvc-guide-stationid="98582",TLC HD
@@ -1123,6 +1127,10 @@ http://example.local/BRA-ARAPUHD.ts
 http://example.local/BRA-ZYA296.ts
 #EXTINF:-1 tvg-chno="104735" tvg-name="TV Aratu HD (SBT)" tvg-logo="https://zap2it.tmsimg.com/assets/s104735_ll_h9_aa.png" group-title="Brazil" tvg-id="ARATUHD" tvc-guide-stationid="104735",TV Aratu HD (SBT)
 http://example.local/BRA-ARATUHD.ts
+#EXTINF:-1 tvg-chno="104780" tvg-name="TV Asa Branca Alagoas HD (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002C97TQ.png" group-title="Brazil" tvg-id="TVASAALHD" tvc-guide-stationid="104780",TV Asa Branca Alagoas HD (REDEGL)
+http://example.local/BRA-TVASAALHD.ts
+#EXTINF:-1 tvg-chno="76234" tvg-name="TV Asa Branca Alagoas SD (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002C8N28.png" group-title="Brazil" tvg-id="TVASAAL" tvc-guide-stationid="76234",TV Asa Branca Alagoas SD (REDEGL)
+http://example.local/BRA-TVASAAL.ts
 #EXTINF:-1 tvg-chno="99971" tvg-name="TV Assembleia de Minas Gerais" tvg-logo="https://zap2it.tmsimg.com/assets/s99971_ll_h15_ab.png" group-title="Brazil" tvg-id="ASSEMG" tvc-guide-stationid="99971",TV Assembleia de Minas Gerais
 http://example.local/BRA-ASSEMG.ts
 #EXTINF:-1 tvg-chno="76743" tvg-name="TV Atalaia (RREC)" tvg-logo="https://zap2it.tmsimg.com/assets/s76743_ll_h9_aa.png" group-title="Brazil" tvg-id="ZYB831" tvc-guide-stationid="76743",TV Atalaia (RREC)
@@ -1445,5 +1453,5 @@ http://example.local/BRA-WBB.ts
 http://example.local/BRA-WOOHOO.ts
 #EXTINF:-1 tvg-chno="106678" tvg-name="WooHoo HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106678_ll_h15_ab.png" group-title="Brazil" tvg-id="WOOHOOH" tvc-guide-stationid="106678",WooHoo HD
 http://example.local/BRA-WOOHOOH.ts
-#EXTINF:-1 tvg-chno="109294" tvg-name="Xsports" tvg-logo="https://zap2it.tmsimg.com/assets/s109294_ll_h9_aa.png" group-title="Brazil" tvg-id="XSPORTS" tvc-guide-stationid="109294",Xsports
+#EXTINF:-1 tvg-chno="109294" tvg-name="Xsports" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002B3WZ7.png" group-title="Brazil" tvg-id="XSPORTS" tvc-guide-stationid="109294",Xsports
 http://example.local/BRA-XSPORTS.ts

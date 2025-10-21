@@ -549,7 +549,7 @@ http://example.local/ARG-HBOFAM.ts
 http://example.local/ARG-HBOFMHD.ts
 #EXTINF:-1 tvg-chno="16585" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png" group-title="Argentina" tvg-id="HBOF" tvc-guide-stationid="16585",HBO Family
 http://example.local/ARG-HBOF.ts
-#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_h3_aa.png" group-title="Argentina" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
+#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" group-title="Argentina" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
 http://example.local/ARG-HBOFP.ts
 #EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_aa.png" group-title="Argentina" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
 http://example.local/ARG-HBOLAT.ts
@@ -987,7 +987,7 @@ http://example.local/ARG-TNCK.ts
 http://example.local/ARG-TNCKHD.ts
 #EXTINF:-1 tvg-chno="72294" tvg-name="TeenNick" tvg-logo="https://zap2it.tmsimg.com/assets/s77783_ll_h15_ab.png" group-title="Argentina" tvg-id="NIKLAHD" tvc-guide-stationid="72294",TeenNick
 http://example.local/ARG-NIKLAHD.ts
-#EXTINF:-1 tvg-chno="103377" tvg-name="Telefe" tvg-logo="https://zap2it.tmsimg.com/assets/s103377_ll_h9_aa.png" group-title="Argentina" tvg-id="TELFEAH" tvc-guide-stationid="103377",Telefe
+#EXTINF:-1 tvg-chno="103377" tvg-name="Telefe" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284GB5.png" group-title="Argentina" tvg-id="TELFEAH" tvc-guide-stationid="103377",Telefe
 http://example.local/ARG-TELFEAH.ts
 #EXTINF:-1 tvg-chno="16189" tvg-name="Telefe Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s100066_ll_h15_ad.png" group-title="Argentina" tvg-id="TEFEI" tvc-guide-stationid="16189",Telefe Internacional
 http://example.local/ARG-TEFEI.ts
@@ -1059,7 +1059,7 @@ http://example.local/ARG-TODONOT.ts
 http://example.local/ARG-TODONHD.ts
 #EXTINF:-1 tvg-chno="63109" tvg-name="Tooncast" tvg-logo="https://zap2it.tmsimg.com/assets/s63109_ll_h15_aa.png" group-title="Argentina" tvg-id="TOONCST" tvc-guide-stationid="63109",Tooncast
 http://example.local/ARG-TOONCST.ts
-#EXTINF:-1 tvg-chno="77684" tvg-name="TRT Turk" tvg-logo="https://zap2it.tmsimg.com/assets/s77684_ll_h15_ab.png" group-title="Argentina" tvg-id="TRTTURK" tvc-guide-stationid="77684",TRT Turk
+#EXTINF:-1 tvg-chno="77684" tvg-name="TRT Turk" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G7N.png" group-title="Argentina" tvg-id="TRTTURK" tvc-guide-stationid="77684",TRT Turk
 http://example.local/ARG-TRTTURK.ts
 #EXTINF:-1 tvg-chno="16046" tvg-name="TV Chile" tvg-logo="https://zap2it.tmsimg.com/assets/s16046_ll_h15_ab.png" group-title="Argentina" tvg-id="TVNI" tvc-guide-stationid="16046",TV Chile
 http://example.local/ARG-TVNI.ts

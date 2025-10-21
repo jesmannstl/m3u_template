@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="53409" tvg-name="1-2-3.tv" tvg-logo="https://zap2it.tmsimg.com/assets/s53409_ll_h15_ac.png" group-title="Belgium" tvg-id="123TVGR" tvc-guide-stationid="53409",1-2-3.tv
 http://example.local/BEL-123TVGR.ts
-#EXTINF:-1 tvg-chno="90494" tvg-name="1-2-3.tv HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90494_ll_h15_ab.png" group-title="Belgium" tvg-id="123TVGH" tvc-guide-stationid="90494",1-2-3.tv HD
+#EXTINF:-1 tvg-chno="90494" tvg-name="1-2-3.tv HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002F84SJ.png" group-title="Belgium" tvg-id="123TVGH" tvc-guide-stationid="90494",1-2-3.tv HD
 http://example.local/BEL-123TVGH.ts
 #EXTINF:-1 tvg-chno="51521" tvg-name="13ème RUE" tvg-logo="https://zap2it.tmsimg.com/assets/s51521_ll_h15_aa.png" group-title="Belgium" tvg-id="EMERUE" tvc-guide-stationid="51521",13ème RUE
 http://example.local/BEL-EMERUE.ts
@@ -483,6 +483,8 @@ http://example.local/BEL-COMCNF.ts
 http://example.local/BEL-COURTUK.ts
 #EXTINF:-1 tvg-chno="33345" tvg-name="Create and Craft" tvg-logo="https://zap2it.tmsimg.com/assets/s33345_ll_h15_aa.png" group-title="Belgium" tvg-id="CREATEC" tvc-guide-stationid="33345",Create and Craft
 http://example.local/BEL-CREATEC.ts
+#EXTINF:-1 tvg-chno="115510" tvg-name="Crime & Investigation" tvg-logo="https://zap2it.tmsimg.com/assets/s115510_ll_h15_aa.png" group-title="Belgium" tvg-id="CINLZ" tvc-guide-stationid="115510",Crime & Investigation
+http://example.local/BEL-CINLZ.ts
 #EXTINF:-1 tvg-chno="72308" tvg-name="Crime & Investigation Network" tvg-logo="https://zap2it.tmsimg.com/assets/s72308_ll_h15_aa.png" group-title="Belgium" tvg-id="CRINVEU" tvc-guide-stationid="72308",Crime & Investigation Network
 http://example.local/BEL-CRINVEU.ts
 #EXTINF:-1 tvg-chno="102610" tvg-name="Crime District" tvg-logo="https://zap2it.tmsimg.com/assets/s102610_ll_h15_aa.png" group-title="Belgium" tvg-id="CRIDISF" tvc-guide-stationid="102610",Crime District
@@ -801,6 +803,8 @@ http://example.local/BEL-GMONEHD.ts
 http://example.local/BEL-GAYCHAT.ts
 #EXTINF:-1 tvg-chno="118853" tvg-name="GB News HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118853_ll_h15_aa.png" group-title="Belgium" tvg-id="GBNEWS" tvc-guide-stationid="118853",GB News HD
 http://example.local/BEL-GBNEWS.ts
+#EXTINF:-1 tvg-chno="27993" tvg-name="GEMPORIA HD" tvg-logo="https://zap2it.tmsimg.com/assets/s27993_ll_h15_ab.png" group-title="Belgium" tvg-id="GEMPORIAHD" tvc-guide-stationid="27993",GEMPORIA HD
+http://example.local/BEL-GEMPORIAHD.ts
 #EXTINF:-1 tvg-chno="27993" tvg-name="Gems TV" tvg-logo="https://zap2it.tmsimg.com/assets/s27993_ll_h15_ab.png" group-title="Belgium" tvg-id="GEMSTV" tvc-guide-stationid="27993",Gems TV
 http://example.local/BEL-GEMSTV.ts
 #EXTINF:-1 tvg-chno="122334" tvg-name="Genius exklusiv" tvg-logo="https://zap2it.tmsimg.com/assets/s122334_ll_h9_aa.png" group-title="Belgium" tvg-id="GNSEXSD" tvc-guide-stationid="122334",Genius exklusiv
@@ -825,22 +829,22 @@ http://example.local/BEL-PACICON.ts
 http://example.local/BEL-GODCH.ts
 #EXTINF:-1 tvg-chno="118533" tvg-name="Good News TV" tvg-logo="https://zap2it.tmsimg.com/assets/s118533_ll_h9_aa.png" group-title="Belgium" tvg-id="GOODNEWS" tvc-guide-stationid="118533",Good News TV
 http://example.local/BEL-GOODNEWS.ts
-#EXTINF:-1 tvg-chno="89657" tvg-name="Great TV +1" tvg-logo="https://zap2it.tmsimg.com/assets/s89657_ll_h15_ac.png" group-title="Belgium" tvg-id="GRETP1A" tvc-guide-stationid="89657",Great TV +1
-http://example.local/BEL-GRETP1A.ts
-#EXTINF:-1 tvg-chno="46306" tvg-name="Great! Action" tvg-logo="https://zap2it.tmsimg.com/assets/s46306_ll_h15_ad.png" group-title="Belgium" tvg-id="GRTMACT" tvc-guide-stationid="46306",Great! Action
+#EXTINF:-1 tvg-chno="46306" tvg-name="Great! Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027ESHS.png" group-title="Belgium" tvg-id="GRTMACT" tvc-guide-stationid="46306",Great! Action
 http://example.local/BEL-GRTMACT.ts
-#EXTINF:-1 tvg-chno="59406" tvg-name="Great! Action +1" tvg-logo="https://zap2it.tmsimg.com/assets/s59406_ll_h9_ac.png" group-title="Belgium" tvg-id="GRTMAP1" tvc-guide-stationid="59406",Great! Action +1
+#EXTINF:-1 tvg-chno="59406" tvg-name="Great! Action +1" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027EKH1.png" group-title="Belgium" tvg-id="GRTMAP1" tvc-guide-stationid="59406",Great! Action +1
 http://example.local/BEL-GRTMAP1.ts
+#EXTINF:-1 tvg-chno="44717" tvg-name="Great! Christmas" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BNYJ.png" group-title="Belgium" tvg-id="GREATRO" tvc-guide-stationid="44717",Great! Christmas
+http://example.local/BEL-GREATRO.ts
 #EXTINF:-1 tvg-chno="81450" tvg-name="Great! Mystery" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BMG3.png" group-title="Belgium" tvg-id="GRETMYS" tvc-guide-stationid="81450",Great! Mystery
 http://example.local/BEL-GRETMYS.ts
 #EXTINF:-1 tvg-chno="97281" tvg-name="Great! Mystery +1" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BN0Z.png" group-title="Belgium" tvg-id="GRTMYP1" tvc-guide-stationid="97281",Great! Mystery +1
 http://example.local/BEL-GRTMYP1.ts
-#EXTINF:-1 tvg-chno="44717" tvg-name="GREAT! Romance" tvg-logo="https://zap2it.tmsimg.com/assets/s44717_ll_h15_af.png" group-title="Belgium" tvg-id="GREATRO" tvc-guide-stationid="44717",GREAT! Romance
-http://example.local/BEL-GREATRO.ts
 #EXTINF:-1 tvg-chno="50011" tvg-name="GREAT! Romance mix" tvg-logo="https://zap2it.tmsimg.com/assets/s50011_ll_h15_af.png" group-title="Belgium" tvg-id="GRROMIX" tvc-guide-stationid="50011",GREAT! Romance mix
 http://example.local/BEL-GRROMIX.ts
-#EXTINF:-1 tvg-chno="57747" tvg-name="GREAT! tv" tvg-logo="https://zap2it.tmsimg.com/assets/s57747_h3_bb.png" group-title="Belgium" tvg-id="GREATUK" tvc-guide-stationid="57747",GREAT! tv
+#EXTINF:-1 tvg-chno="57747" tvg-name="Great! TV" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027EKW0.png" group-title="Belgium" tvg-id="GREATUK" tvc-guide-stationid="57747",Great! TV
 http://example.local/BEL-GREATUK.ts
+#EXTINF:-1 tvg-chno="89657" tvg-name="Great! TV +1" tvg-logo="https://zap2it.tmsimg.com/assets/s89657_ll_h15_ac.png" group-title="Belgium" tvg-id="GRETP1A" tvc-guide-stationid="89657",Great! TV +1
+http://example.local/BEL-GRETP1A.ts
 #EXTINF:-1 tvg-chno="52083" tvg-name="Gulli" tvg-logo="https://zap2it.tmsimg.com/assets/s52083_ll_h15_ac.png" group-title="Belgium" tvg-id="GULLI" tvc-guide-stationid="52083",Gulli
 http://example.local/BEL-GULLI.ts
 #EXTINF:-1 tvg-chno="97632" tvg-name="Gulli HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97632_ll_h15_aa.png" group-title="Belgium" tvg-id="GULLIHD" tvc-guide-stationid="97632",Gulli HD
@@ -1419,6 +1423,8 @@ http://example.local/BEL-PEARLHD.ts
 http://example.local/BEL-PEBBLE.ts
 #EXTINF:-1 tvg-chno="98364" tvg-name="Penthouse Gold" tvg-logo="https://zap2it.tmsimg.com/assets/s98364_ll_h15_aa.png" group-title="Belgium" tvg-id="PHGLD" tvc-guide-stationid="98364",Penthouse Gold
 http://example.local/BEL-PHGLD.ts
+#EXTINF:-1 tvg-chno="120859" tvg-name="Penthouse Passion" tvg-logo="https://zap2it.tmsimg.com/assets/s120859_ll_h15_aa.png" group-title="Belgium" tvg-id="PENTPAS" tvc-guide-stationid="120859",Penthouse Passion
+http://example.local/BEL-PENTPAS.ts
 #EXTINF:-1 tvg-chno="103582" tvg-name="Penthouse Passion HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103582_ll_h15_aa.png" group-title="Belgium" tvg-id="PHPASS" tvc-guide-stationid="103582",Penthouse Passion HD
 http://example.local/BEL-PHPASS.ts
 #EXTINF:-1 tvg-chno="98365" tvg-name="PENTHOUSE REALITY TV" tvg-logo="https://zap2it.tmsimg.com/assets/s98365_h3_as.png" group-title="Belgium" tvg-id="PHRLTV" tvc-guide-stationid="98365",PENTHOUSE REALITY TV
@@ -1991,7 +1997,7 @@ http://example.local/BEL-TRENDSZHD.ts
 http://example.local/BEL-TRTARA.ts
 #EXTINF:-1 tvg-chno="113718" tvg-name="TRT Arabi HD" tvg-logo="https://zap2it.tmsimg.com/assets/s113718_ll_h15_aa.png" group-title="Belgium" tvg-id="TRTARHD" tvc-guide-stationid="113718",TRT Arabi HD
 http://example.local/BEL-TRTARHD.ts
-#EXTINF:-1 tvg-chno="77684" tvg-name="TRT Turk" tvg-logo="https://zap2it.tmsimg.com/assets/s77684_ll_h15_ab.png" group-title="Belgium" tvg-id="TRTTURK" tvc-guide-stationid="77684",TRT Turk
+#EXTINF:-1 tvg-chno="77684" tvg-name="TRT Turk" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G7N.png" group-title="Belgium" tvg-id="TRTTURK" tvc-guide-stationid="77684",TRT Turk
 http://example.local/BEL-TRTTURK.ts
 #EXTINF:-1 tvg-chno="105269" tvg-name="TRT World" tvg-logo="https://zap2it.tmsimg.com/assets/s105269_ll_h15_aa.png" group-title="Belgium" tvg-id="TRTWRSD" tvc-guide-stationid="105269",TRT World
 http://example.local/BEL-TRTWRSD.ts
@@ -2193,9 +2199,9 @@ http://example.local/BEL-VTMGOLD.ts
 http://example.local/BEL-VTMGOHD.ts
 #EXTINF:-1 tvg-chno="116080" tvg-name="VTM HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116080_ll_h15_ab.png" group-title="Belgium" tvg-id="VTMBEHD" tvc-guide-stationid="116080",VTM HD
 http://example.local/BEL-VTMBEHD.ts
-#EXTINF:-1 tvg-chno="116303" tvg-name="VTM Life" tvg-logo="https://zap2it.tmsimg.com/assets/s116303_ll_h15_ag.png" group-title="Belgium" tvg-id="VTMLIFE" tvc-guide-stationid="116303",VTM Life
+#EXTINF:-1 tvg-chno="116303" tvg-name="VTM XMAS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002B36RD.png" group-title="Belgium" tvg-id="VTMLIFE" tvc-guide-stationid="116303",VTM XMAS
 http://example.local/BEL-VTMLIFE.ts
-#EXTINF:-1 tvg-chno="116574" tvg-name="VTM Life HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116574_ll_h15_ag.png" group-title="Belgium" tvg-id="VTMLIHD" tvc-guide-stationid="116574",VTM Life HD
+#EXTINF:-1 tvg-chno="116574" tvg-name="VTM XMAS HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002B36E1.png" group-title="Belgium" tvg-id="VTMLIHD" tvc-guide-stationid="116574",VTM XMAS HD
 http://example.local/BEL-VTMLIHD.ts
 #EXTINF:-1 tvg-chno="116983" tvg-name="Védia" group-title="Belgium" tvg-id="VEDIABF" tvc-guide-stationid="116983",Védia
 http://example.local/BEL-VEDIABF.ts

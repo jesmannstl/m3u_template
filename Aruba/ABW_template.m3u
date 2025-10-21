@@ -315,7 +315,7 @@ http://example.local/ABW-HBO2LA.ts
 http://example.local/ABW-HBOF.ts
 #EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Aruba" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
 http://example.local/ABW-HBOFMHD.ts
-#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_h3_aa.png" group-title="Aruba" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
+#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" group-title="Aruba" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
 http://example.local/ABW-HBOFP.ts
 #EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_aa.png" group-title="Aruba" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
 http://example.local/ABW-HBOLAT.ts
@@ -655,7 +655,7 @@ http://example.local/ABW-WSEE.ts
 http://example.local/ABW-WSEEDT.ts
 #EXTINF:-1 tvg-chno="11916" tvg-name="WTVJ (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="Aruba" tvg-id="WTVJ" tvc-guide-stationid="11916",WTVJ (NBC)
 http://example.local/ABW-WTVJ.ts
-#EXTINF:-1 tvg-chno="11760" tvg-name="WWOR TV Channel 9 (Local New York) (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/s51307_ll_h15_aa.png" group-title="Aruba" tvg-id="WWOR" tvc-guide-stationid="11760",WWOR TV Channel 9 (Local New York) (MNT)
+#EXTINF:-1 tvg-chno="11760" tvg-name="WWOR TV Channel 9 (Local New York) (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y3ZQ.png" group-title="Aruba" tvg-id="WWOR" tvc-guide-stationid="11760",WWOR TV Channel 9 (Local New York) (MNT)
 http://example.local/ABW-WWOR.ts
 #EXTINF:-1 tvg-chno="16315" tvg-name="Xtsy-New Frontier" tvg-logo="https://zap2it.tmsimg.com/assets/s16315_ll_h15_aa.png" group-title="Aruba" tvg-id="XTSY" tvc-guide-stationid="16315",Xtsy-New Frontier
 http://example.local/ABW-XTSY.ts

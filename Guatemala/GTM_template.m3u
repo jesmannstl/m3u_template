@@ -25,7 +25,7 @@ http://example.local/GTM-ALLTVK.ts
 http://example.local/GTM-AMCMEX.ts
 #EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Guatemala" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
 http://example.local/GTM-AMCMXHD.ts
-#EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="Guatemala" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
+#EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="Guatemala" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
 http://example.local/GTM-ABC.ts
 #EXTINF:-1 tvg-chno="18649" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Guatemala" tvg-id="ANIPL" tvc-guide-stationid="18649",Animal Planet
 http://example.local/GTM-ANIPL.ts
@@ -555,7 +555,7 @@ http://example.local/GTM-HBOFAME.ts
 http://example.local/GTM-HBOFAM.ts
 #EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Guatemala" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
 http://example.local/GTM-HBOFMHD.ts
-#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_h3_aa.png" group-title="Guatemala" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
+#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" group-title="Guatemala" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
 http://example.local/GTM-HBOFP.ts
 #EXTINF:-1 tvg-chno="24575" tvg-name="HBO Latino (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_ba.png" group-title="Guatemala" tvg-id="HBOLATP" tvc-guide-stationid="24575",HBO Latino (Pacific)
 http://example.local/GTM-HBOLATP.ts
@@ -677,9 +677,9 @@ http://example.local/GTM-MTVLVHD.ts
 http://example.local/GTM-MMEDP.ts
 #EXTINF:-1 tvg-chno="18169" tvg-name="Multipremier" tvg-logo="https://zap2it.tmsimg.com/assets/s18169_ll_h15_ac.png" group-title="Guatemala" tvg-id="MPREL" tvc-guide-stationid="18169",Multipremier
 http://example.local/GTM-MPREL.ts
-#EXTINF:-1 tvg-chno="19339" tvg-name="Music Choice: Hip-Hop Classics" tvg-logo="https://zap2it.tmsimg.com/assets/s19339_ll_h15_aa.png" group-title="Guatemala" tvg-id="MC07" tvc-guide-stationid="19339",Music Choice: Hip-Hop Classics
+#EXTINF:-1 tvg-chno="19339" tvg-name="Music Choice Hip-Hop Classics" tvg-logo="https://zap2it.tmsimg.com/assets/s19339_ll_h15_aa.png" group-title="Guatemala" tvg-id="MC07" tvc-guide-stationid="19339",Music Choice Hip-Hop Classics
 http://example.local/GTM-MC07.ts
-#EXTINF:-1 tvg-chno="31028" tvg-name="Music Choice: Soundscapes" tvg-logo="https://zap2it.tmsimg.com/assets/s31028_ll_h15_aa.png" group-title="Guatemala" tvg-id="MC43" tvc-guide-stationid="31028",Music Choice: Soundscapes
+#EXTINF:-1 tvg-chno="31028" tvg-name="Music Choice Soundscapes" tvg-logo="https://zap2it.tmsimg.com/assets/s31028_ll_h15_aa.png" group-title="Guatemala" tvg-id="MC43" tvc-guide-stationid="31028",Music Choice Soundscapes
 http://example.local/GTM-MC43.ts
 #EXTINF:-1 tvg-chno="16462" tvg-name="N+ Foro (NMASFOMX)" tvg-logo="https://zap2it.tmsimg.com/assets/s66635_ll_h15_ac.png" group-title="Guatemala" tvg-id="XHTV" tvc-guide-stationid="16462",N+ Foro (NMASFOMX)
 http://example.local/GTM-XHTV.ts

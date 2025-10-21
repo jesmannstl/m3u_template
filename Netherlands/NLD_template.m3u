@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="53409" tvg-name="1-2-3.tv" tvg-logo="https://zap2it.tmsimg.com/assets/s53409_ll_h15_ac.png" group-title="Netherlands" tvg-id="123TVGR" tvc-guide-stationid="53409",1-2-3.tv
 http://example.local/NLD-123TVGR.ts
-#EXTINF:-1 tvg-chno="90494" tvg-name="1-2-3.tv HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90494_ll_h15_ab.png" group-title="Netherlands" tvg-id="123TVGH" tvc-guide-stationid="90494",1-2-3.tv HD
+#EXTINF:-1 tvg-chno="90494" tvg-name="1-2-3.tv HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002F84SJ.png" group-title="Netherlands" tvg-id="123TVGH" tvc-guide-stationid="90494",1-2-3.tv HD
 http://example.local/NLD-123TVGH.ts
 #EXTINF:-1 tvg-chno="115457" tvg-name="100% NL TV" tvg-logo="https://zap2it.tmsimg.com/assets/s115457_ll_h9_aa.png" group-title="Netherlands" tvg-id="100NL" tvc-guide-stationid="115457",100% NL TV
 http://example.local/NLD-100NL.ts
@@ -137,6 +137,8 @@ http://example.local/NLD-BBCFHHD.ts
 http://example.local/NLD-BBC4HD.ts
 #EXTINF:-1 tvg-chno="97275" tvg-name="BBC Four/CBeebies" tvg-logo="https://zap2it.tmsimg.com/assets/s97275_ll_h15_aa.png" group-title="Netherlands" tvg-id="BBC4CBE" tvc-guide-stationid="97275",BBC Four/CBeebies
 http://example.local/NLD-BBC4CBE.ts
+#EXTINF:-1 tvg-chno="76850" tvg-name="BBC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s76850_ll_h15_aa.png" group-title="Netherlands" tvg-id="BBCHD" tvc-guide-stationid="76850",BBC HD
+http://example.local/NLD-BBCHD.ts
 #EXTINF:-1 tvg-chno="76774" tvg-name="BBC News Europe HD" tvg-logo="https://zap2it.tmsimg.com/assets/s76774_ll_h15_ab.png" group-title="Netherlands" tvg-id="BBCNEUHD" tvc-guide-stationid="76774",BBC News Europe HD
 http://example.local/NLD-BBCNEUHD.ts
 #EXTINF:-1 tvg-chno="83285" tvg-name="BBC News HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83285_ll_h15_ab.png" group-title="Netherlands" tvg-id="BBCNWHD" tvc-guide-stationid="83285",BBC News HD
@@ -151,6 +153,8 @@ http://example.local/NLD-BBCRDB1.ts
 http://example.local/NLD-BBCSCOT.ts
 #EXTINF:-1 tvg-chno="20683" tvg-name="BBC Three" tvg-logo="https://zap2it.tmsimg.com/assets/s20683_ll_h15_ab.png" group-title="Netherlands" tvg-id="BBC3" tvc-guide-stationid="20683",BBC Three
 http://example.local/NLD-BBC3.ts
+#EXTINF:-1 tvg-chno="122089" tvg-name="BBC Three HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122089_ll_h15_aa.png" group-title="Netherlands" tvg-id="BBC3H" tvc-guide-stationid="122089",BBC Three HD
+http://example.local/NLD-BBC3H.ts
 #EXTINF:-1 tvg-chno="50059" tvg-name="BBC Two HD" tvg-logo="https://zap2it.tmsimg.com/assets/s50059_ll_h15_ad.png" group-title="Netherlands" tvg-id="BBC2HD" tvc-guide-stationid="50059",BBC Two HD
 http://example.local/NLD-BBC2HD.ts
 #EXTINF:-1 tvg-chno="31474" tvg-name="BEN Television" tvg-logo="https://zap2it.tmsimg.com/assets/s31474_ll_h9_aa.png" group-title="Netherlands" tvg-id="BENTV" tvc-guide-stationid="31474",BEN Television
@@ -315,6 +319,8 @@ http://example.local/NLD-DISSHDNL.ts
 http://example.local/NLD-DISNG.ts
 #EXTINF:-1 tvg-chno="116544" tvg-name="Disney Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116544_ll_h15_ab.png" group-title="Netherlands" tvg-id="DISCNLH" tvc-guide-stationid="116544",Disney Channel HD
 http://example.local/NLD-DISCNLH.ts
+#EXTINF:-1 tvg-chno="123061" tvg-name="Dizi - Netherlands" tvg-logo="https://zap2it.tmsimg.com/assets/s123061_ll_h9_aa.png" group-title="Netherlands" tvg-id="DIZINL" tvc-guide-stationid="123061",Dizi - Netherlands
+http://example.local/NLD-DIZINL.ts
 #EXTINF:-1 tvg-chno="100442" tvg-name="Djazz HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100442_ll_h15_ac.png" group-title="Netherlands" tvg-id="DJAZHDE" tvc-guide-stationid="100442",Djazz HD
 http://example.local/NLD-DJAZHDE.ts
 #EXTINF:-1 tvg-chno="83579" tvg-name="DMAX" tvg-logo="https://zap2it.tmsimg.com/assets/s83579_ll_h15_ac.png" group-title="Netherlands" tvg-id="DMAXD" tvc-guide-stationid="83579",DMAX
@@ -389,6 +395,38 @@ http://example.local/NLD-EUROSGR.ts
 http://example.local/NLD-EUSNLHD.ts
 #EXTINF:-1 tvg-chno="107189" tvg-name="Eurosport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s107189_ll_h15_ab.png" group-title="Netherlands" tvg-id="ES2NLHD" tvc-guide-stationid="107189",Eurosport 2
 http://example.local/NLD-ES2NLHD.ts
+#EXTINF:-1 tvg-chno="117704" tvg-name="Eurosport Live 1" tvg-logo="https://zap2it.tmsimg.com/assets/s117704_ll_h9_aa.png" group-title="Netherlands" tvg-id="AMESNL1" tvc-guide-stationid="117704",Eurosport Live 1
+http://example.local/NLD-AMESNL1.ts
+#EXTINF:-1 tvg-chno="117713" tvg-name="Eurosport Live 10" tvg-logo="https://zap2it.tmsimg.com/assets/s117713_ll_h9_aa.png" group-title="Netherlands" tvg-id="AMESNL10" tvc-guide-stationid="117713",Eurosport Live 10
+http://example.local/NLD-AMESNL10.ts
+#EXTINF:-1 tvg-chno="117714" tvg-name="Eurosport Live 11" tvg-logo="https://zap2it.tmsimg.com/assets/s117714_ll_h9_aa.png" group-title="Netherlands" tvg-id="AMESNL11" tvc-guide-stationid="117714",Eurosport Live 11
+http://example.local/NLD-AMESNL11.ts
+#EXTINF:-1 tvg-chno="117715" tvg-name="Eurosport Live 12" tvg-logo="https://zap2it.tmsimg.com/assets/s117715_ll_h9_aa.png" group-title="Netherlands" tvg-id="AMESNL12" tvc-guide-stationid="117715",Eurosport Live 12
+http://example.local/NLD-AMESNL12.ts
+#EXTINF:-1 tvg-chno="117716" tvg-name="Eurosport Live 13" tvg-logo="https://zap2it.tmsimg.com/assets/s117716_ll_h9_aa.png" group-title="Netherlands" tvg-id="AMESNL13" tvc-guide-stationid="117716",Eurosport Live 13
+http://example.local/NLD-AMESNL13.ts
+#EXTINF:-1 tvg-chno="117717" tvg-name="Eurosport Live 14" tvg-logo="https://zap2it.tmsimg.com/assets/s117717_ll_h9_aa.png" group-title="Netherlands" tvg-id="AMESNL14" tvc-guide-stationid="117717",Eurosport Live 14
+http://example.local/NLD-AMESNL14.ts
+#EXTINF:-1 tvg-chno="117718" tvg-name="Eurosport Live 15" tvg-logo="https://zap2it.tmsimg.com/assets/s117718_ll_h9_aa.png" group-title="Netherlands" tvg-id="AMESNL15" tvc-guide-stationid="117718",Eurosport Live 15
+http://example.local/NLD-AMESNL15.ts
+#EXTINF:-1 tvg-chno="117719" tvg-name="Eurosport Live 16" tvg-logo="https://zap2it.tmsimg.com/assets/s117719_ll_h9_aa.png" group-title="Netherlands" tvg-id="AMESNL16" tvc-guide-stationid="117719",Eurosport Live 16
+http://example.local/NLD-AMESNL16.ts
+#EXTINF:-1 tvg-chno="117705" tvg-name="Eurosport Live 2" tvg-logo="https://zap2it.tmsimg.com/assets/s117705_ll_h9_aa.png" group-title="Netherlands" tvg-id="AMESNL2" tvc-guide-stationid="117705",Eurosport Live 2
+http://example.local/NLD-AMESNL2.ts
+#EXTINF:-1 tvg-chno="117706" tvg-name="Eurosport Live 3" tvg-logo="https://zap2it.tmsimg.com/assets/s117706_ll_h9_aa.png" group-title="Netherlands" tvg-id="AMESNL3" tvc-guide-stationid="117706",Eurosport Live 3
+http://example.local/NLD-AMESNL3.ts
+#EXTINF:-1 tvg-chno="117707" tvg-name="Eurosport Live 4" tvg-logo="https://zap2it.tmsimg.com/assets/s117707_ll_h9_aa.png" group-title="Netherlands" tvg-id="AMESNL4" tvc-guide-stationid="117707",Eurosport Live 4
+http://example.local/NLD-AMESNL4.ts
+#EXTINF:-1 tvg-chno="117708" tvg-name="Eurosport Live 5" tvg-logo="https://zap2it.tmsimg.com/assets/s117708_ll_h9_aa.png" group-title="Netherlands" tvg-id="AMESNL5" tvc-guide-stationid="117708",Eurosport Live 5
+http://example.local/NLD-AMESNL5.ts
+#EXTINF:-1 tvg-chno="117709" tvg-name="Eurosport Live 6" tvg-logo="https://zap2it.tmsimg.com/assets/s117709_ll_h9_aa.png" group-title="Netherlands" tvg-id="AMESNL6" tvc-guide-stationid="117709",Eurosport Live 6
+http://example.local/NLD-AMESNL6.ts
+#EXTINF:-1 tvg-chno="117710" tvg-name="Eurosport Live 7" tvg-logo="https://zap2it.tmsimg.com/assets/s117710_ll_h9_aa.png" group-title="Netherlands" tvg-id="AMESNL7" tvc-guide-stationid="117710",Eurosport Live 7
+http://example.local/NLD-AMESNL7.ts
+#EXTINF:-1 tvg-chno="117711" tvg-name="Eurosport Live 8" tvg-logo="https://zap2it.tmsimg.com/assets/s117711_ll_h9_aa.png" group-title="Netherlands" tvg-id="AMESNL8" tvc-guide-stationid="117711",Eurosport Live 8
+http://example.local/NLD-AMESNL8.ts
+#EXTINF:-1 tvg-chno="117712" tvg-name="Eurosport Live 9" tvg-logo="https://zap2it.tmsimg.com/assets/s117712_ll_h9_aa.png" group-title="Netherlands" tvg-id="AMESNL9" tvc-guide-stationid="117712",Eurosport Live 9
+http://example.local/NLD-AMESNL9.ts
 #EXTINF:-1 tvg-chno="96487" tvg-name="EuroStar" tvg-logo="https://zap2it.tmsimg.com/assets/s96487_ll_h15_an.png" group-title="Netherlands" tvg-id="EUROSTU" tvc-guide-stationid="96487",EuroStar
 http://example.local/NLD-EUROSTU.ts
 #EXTINF:-1 tvg-chno="115686" tvg-name="Evil Angel" tvg-logo="https://zap2it.tmsimg.com/assets/s115686_ll_h15_aa.png" group-title="Netherlands" tvg-id="EVILAN" tvc-guide-stationid="115686",Evil Angel
@@ -403,6 +441,8 @@ http://example.local/NLD-FAM7HD.ts
 http://example.local/NLD-FIGHTBX.ts
 #EXTINF:-1 tvg-chno="112932" tvg-name="Film1 Action HD" tvg-logo="https://zap2it.tmsimg.com/assets/s112932_ll_h15_aa.png" group-title="Netherlands" tvg-id="FIANLHD" tvc-guide-stationid="112932",Film1 Action HD
 http://example.local/NLD-FIANLHD.ts
+#EXTINF:-1 tvg-chno="113610" tvg-name="Film1 Drama" tvg-logo="https://zap2it.tmsimg.com/assets/s113610_ll_h15_ab.png" group-title="Netherlands" tvg-id="FILDRNL" tvc-guide-stationid="113610",Film1 Drama
+http://example.local/NLD-FILDRNL.ts
 #EXTINF:-1 tvg-chno="113611" tvg-name="Film1 Drama HD" tvg-logo="https://zap2it.tmsimg.com/assets/s113611_ll_h15_aa.png" group-title="Netherlands" tvg-id="FILDRHD" tvc-guide-stationid="113611",Film1 Drama HD
 http://example.local/NLD-FILDRHD.ts
 #EXTINF:-1 tvg-chno="112933" tvg-name="Film1 Family HD" tvg-logo="https://zap2it.tmsimg.com/assets/s112933_ll_h15_aa.png" group-title="Netherlands" tvg-id="FIFNLHD" tvc-guide-stationid="112933",Film1 Family HD
@@ -415,6 +455,8 @@ http://example.local/NLD-FILM4UK.ts
 http://example.local/NLD-FILM41.ts
 #EXTINF:-1 tvg-chno="124547" tvg-name="FilmBox" tvg-logo="https://zap2it.tmsimg.com/assets/s124547_ll_h15_aa.png" group-title="Netherlands" tvg-id="FIBXZIG" tvc-guide-stationid="124547",FilmBox
 http://example.local/NLD-FIBXZIG.ts
+#EXTINF:-1 tvg-chno="123607" tvg-name="Filmbox Arthouse" tvg-logo="https://zap2it.tmsimg.com/assets/s123607_ll_h15_aa.png" group-title="Netherlands" tvg-id="FLMBXNL" tvc-guide-stationid="123607",Filmbox Arthouse
+http://example.local/NLD-FLMBXNL.ts
 #EXTINF:-1 tvg-chno="119765" tvg-name="Folx TV" tvg-logo="https://zap2it.tmsimg.com/assets/s119765_ll_h15_aa.png" group-title="Netherlands" tvg-id="FOLXSD" tvc-guide-stationid="119765",Folx TV
 http://example.local/NLD-FOLXSD.ts
 #EXTINF:-1 tvg-chno="44718" tvg-name="Food Network" tvg-logo="https://zap2it.tmsimg.com/assets/s44718_ll_h15_ab.png" group-title="Netherlands" tvg-id="FOODNET" tvc-guide-stationid="44718",Food Network
@@ -471,22 +513,22 @@ http://example.local/NLD-GINXTVH.ts
 http://example.local/NLD-GIORNALE.ts
 #EXTINF:-1 tvg-chno="26215" tvg-name="God" tvg-logo="https://zap2it.tmsimg.com/assets/s26215_ll_h15_ab.png" group-title="Netherlands" tvg-id="GODCH" tvc-guide-stationid="26215",God
 http://example.local/NLD-GODCH.ts
-#EXTINF:-1 tvg-chno="89657" tvg-name="Great TV +1" tvg-logo="https://zap2it.tmsimg.com/assets/s89657_ll_h15_ac.png" group-title="Netherlands" tvg-id="GRETP1A" tvc-guide-stationid="89657",Great TV +1
-http://example.local/NLD-GRETP1A.ts
-#EXTINF:-1 tvg-chno="46306" tvg-name="Great! Action" tvg-logo="https://zap2it.tmsimg.com/assets/s46306_ll_h15_ad.png" group-title="Netherlands" tvg-id="GRTMACT" tvc-guide-stationid="46306",Great! Action
+#EXTINF:-1 tvg-chno="46306" tvg-name="Great! Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027ESHS.png" group-title="Netherlands" tvg-id="GRTMACT" tvc-guide-stationid="46306",Great! Action
 http://example.local/NLD-GRTMACT.ts
-#EXTINF:-1 tvg-chno="59406" tvg-name="Great! Action +1" tvg-logo="https://zap2it.tmsimg.com/assets/s59406_ll_h9_ac.png" group-title="Netherlands" tvg-id="GRTMAP1" tvc-guide-stationid="59406",Great! Action +1
+#EXTINF:-1 tvg-chno="59406" tvg-name="Great! Action +1" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027EKH1.png" group-title="Netherlands" tvg-id="GRTMAP1" tvc-guide-stationid="59406",Great! Action +1
 http://example.local/NLD-GRTMAP1.ts
+#EXTINF:-1 tvg-chno="44717" tvg-name="Great! Christmas" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BNYJ.png" group-title="Netherlands" tvg-id="GREATRO" tvc-guide-stationid="44717",Great! Christmas
+http://example.local/NLD-GREATRO.ts
 #EXTINF:-1 tvg-chno="81450" tvg-name="Great! Mystery" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BMG3.png" group-title="Netherlands" tvg-id="GRETMYS" tvc-guide-stationid="81450",Great! Mystery
 http://example.local/NLD-GRETMYS.ts
 #EXTINF:-1 tvg-chno="97281" tvg-name="Great! Mystery +1" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BN0Z.png" group-title="Netherlands" tvg-id="GRTMYP1" tvc-guide-stationid="97281",Great! Mystery +1
 http://example.local/NLD-GRTMYP1.ts
-#EXTINF:-1 tvg-chno="44717" tvg-name="GREAT! Romance" tvg-logo="https://zap2it.tmsimg.com/assets/s44717_ll_h15_af.png" group-title="Netherlands" tvg-id="GREATRO" tvc-guide-stationid="44717",GREAT! Romance
-http://example.local/NLD-GREATRO.ts
 #EXTINF:-1 tvg-chno="50011" tvg-name="GREAT! Romance mix" tvg-logo="https://zap2it.tmsimg.com/assets/s50011_ll_h15_af.png" group-title="Netherlands" tvg-id="GRROMIX" tvc-guide-stationid="50011",GREAT! Romance mix
 http://example.local/NLD-GRROMIX.ts
-#EXTINF:-1 tvg-chno="57747" tvg-name="GREAT! tv" tvg-logo="https://zap2it.tmsimg.com/assets/s57747_h3_bb.png" group-title="Netherlands" tvg-id="GREATUK" tvc-guide-stationid="57747",GREAT! tv
+#EXTINF:-1 tvg-chno="57747" tvg-name="Great! TV" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027EKW0.png" group-title="Netherlands" tvg-id="GREATUK" tvc-guide-stationid="57747",Great! TV
 http://example.local/NLD-GREATUK.ts
+#EXTINF:-1 tvg-chno="89657" tvg-name="Great! TV +1" tvg-logo="https://zap2it.tmsimg.com/assets/s89657_ll_h15_ac.png" group-title="Netherlands" tvg-id="GRETP1A" tvc-guide-stationid="89657",Great! TV +1
+http://example.local/NLD-GRETP1A.ts
 #EXTINF:-1 tvg-chno="138742" tvg-name="Habertürk HD" group-title="Netherlands" tvg-id="HATURKHD" tvc-guide-stationid="138742",Habertürk HD
 http://example.local/NLD-HATURKHD.ts
 #EXTINF:-1 tvg-chno="113713" tvg-name="Habertürk TV" tvg-logo="https://zap2it.tmsimg.com/assets/s113713_ll_h15_aa.png" group-title="Netherlands" tvg-id="HATURK" tvc-guide-stationid="113713",Habertürk TV
@@ -507,6 +549,8 @@ http://example.local/NLD-HGTVNL.ts
 http://example.local/NLD-HGTVUP1.ts
 #EXTINF:-1 tvg-chno="150946" tvg-name="HGTV HD" group-title="Netherlands" tvg-id="HGTVFLA" tvc-guide-stationid="150946",HGTV HD
 http://example.local/NLD-HGTVFLA.ts
+#EXTINF:-1 tvg-chno="113641" tvg-name="HGTV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s113641_ll_h15_aa.png" group-title="Netherlands" tvg-id="HGTVPR" tvc-guide-stationid="113641",HGTV HD
+http://example.local/NLD-HGTVPR.ts
 #EXTINF:-1 tvg-chno="55269" tvg-name="Hidayat TV" tvg-logo="https://zap2it.tmsimg.com/assets/s55269_ll_h9_ab.png" group-title="Netherlands" tvg-id="HIDAYAT" tvc-guide-stationid="55269",Hidayat TV
 http://example.local/NLD-HIDAYAT.ts
 #EXTINF:-1 tvg-chno="25958" tvg-name="High Street TV" tvg-logo="https://zap2it.tmsimg.com/assets/s25958_ll_h15_ac.png" group-title="Netherlands" tvg-id="HIGHST" tvc-guide-stationid="25958",High Street TV
@@ -655,6 +699,8 @@ http://example.local/NLD-LUXEEUH.ts
 http://example.local/NLD-MAENNER.ts
 #EXTINF:-1 tvg-chno="25607" tvg-name="Magic" tvg-logo="https://zap2it.tmsimg.com/assets/s25607_ll_h9_ad.png" group-title="Netherlands" tvg-id="MAGIC" tvc-guide-stationid="25607",Magic
 http://example.local/NLD-MAGIC.ts
+#EXTINF:-1 tvg-chno="67375" tvg-name="Magnolia Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s67375_ll_h15_ad.png" group-title="Netherlands" tvg-id="MAGNHD" tvc-guide-stationid="67375",Magnolia Network HD
+http://example.local/NLD-MAGNHD.ts
 #EXTINF:-1 tvg-chno="120860" tvg-name="Man-X" tvg-logo="https://zap2it.tmsimg.com/assets/s120860_ll_h15_aa.png" group-title="Netherlands" tvg-id="MANX" tvc-guide-stationid="120860",Man-X
 http://example.local/NLD-MANX.ts
 #EXTINF:-1 tvg-chno="83904" tvg-name="MDR Sachsen (MDRGERH)" tvg-logo="https://zap2it.tmsimg.com/assets/s83904_ll_h15_aa.png" group-title="Netherlands" tvg-id="MDRSAC" tvc-guide-stationid="83904",MDR Sachsen (MDRGERH)
@@ -699,6 +745,8 @@ http://example.local/NLD-MOBILES.ts
 http://example.local/NLD-MORE4.ts
 #EXTINF:-1 tvg-chno="47658" tvg-name="More4 +1" tvg-logo="https://zap2it.tmsimg.com/assets/s47658_ll_h15_ac.png" group-title="Netherlands" tvg-id="MORE4P1" tvc-guide-stationid="47658",More4 +1
 http://example.local/NLD-MORE4P1.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Netherlands" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
+http://example.local/NLD-MTHD.ts
 #EXTINF:-1 tvg-chno="56245" tvg-name="MTV 00s Europe" tvg-logo="https://zap2it.tmsimg.com/assets/s56245_ll_h15_ab.png" group-title="Netherlands" tvg-id="MTV00EU" tvc-guide-stationid="56245",MTV 00s Europe
 http://example.local/NLD-MTV00EU.ts
 #EXTINF:-1 tvg-chno="56244" tvg-name="MTV 80s" tvg-logo="https://zap2it.tmsimg.com/assets/s56244_ll_h9_ab.png" group-title="Netherlands" tvg-id="MTV80" tvc-guide-stationid="56244",MTV 80s
@@ -795,6 +843,8 @@ http://example.local/NLD-NICKUAPHD.ts
 http://example.local/NLD-NICKTNL.ts
 #EXTINF:-1 tvg-chno="122923" tvg-name="Niederbayern TV Deggendorf / Straubing HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122923_ll_h9_aa.png" group-title="Netherlands" tvg-id="NIEDBYH" tvc-guide-stationid="122923",Niederbayern TV Deggendorf / Straubing HD
 http://example.local/NLD-NIEDBYH.ts
+#EXTINF:-1 tvg-chno="122923" tvg-name="Niederbayern TV Deggendorf / Straubing HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122923_ll_h9_aa.png" group-title="Netherlands" tvg-id="NIEDBYDSHD" tvc-guide-stationid="122923",Niederbayern TV Deggendorf / Straubing HD
+http://example.local/NLD-NIEDBYDSHD.ts
 #EXTINF:-1 tvg-chno="84052" tvg-name="Nitro" tvg-logo="https://zap2it.tmsimg.com/assets/s84052_ll_h9_aa.png" group-title="Netherlands" tvg-id="RTLNITR" tvc-guide-stationid="84052",Nitro
 http://example.local/NLD-RTLNITR.ts
 #EXTINF:-1 tvg-chno="105868" tvg-name="Nitro Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s105868_ll_h15_aa.png" group-title="Netherlands" tvg-id="NITAT" tvc-guide-stationid="105868",Nitro Austria
@@ -1141,6 +1191,8 @@ http://example.local/NLD-SAT1OS.ts
 http://example.local/NLD-SBS6NL.ts
 #EXTINF:-1 tvg-chno="107191" tvg-name="SBS 6 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s107191_ll_h15_ac.png" group-title="Netherlands" tvg-id="SBS6HD" tvc-guide-stationid="107191",SBS 6 HD
 http://example.local/NLD-SBS6HD.ts
+#EXTINF:-1 tvg-chno="146512" tvg-name="SBS6 Classics" group-title="Netherlands" tvg-id="SBS6CL" tvc-guide-stationid="146512",SBS6 Classics
+http://example.local/NLD-SBS6CL.ts
 #EXTINF:-1 tvg-chno="105088" tvg-name="SBS9" tvg-logo="https://zap2it.tmsimg.com/assets/s105088_ll_h15_ad.png" group-title="Netherlands" tvg-id="SBS9" tvc-guide-stationid="105088",SBS9
 http://example.local/NLD-SBS9.ts
 #EXTINF:-1 tvg-chno="113419" tvg-name="SBS9 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s113419_ll_h15_ad.png" group-title="Netherlands" tvg-id="SBS9HD" tvc-guide-stationid="113419",SBS9 HD
@@ -1315,7 +1367,7 @@ http://example.local/NLD-TRTHAB.ts
 http://example.local/NLD-TRTMUZK.ts
 #EXTINF:-1 tvg-chno="108464" tvg-name="TRT Spor" tvg-logo="https://zap2it.tmsimg.com/assets/s108464_ll_h15_aa.png" group-title="Netherlands" tvg-id="TRTSPRT" tvc-guide-stationid="108464",TRT Spor
 http://example.local/NLD-TRTSPRT.ts
-#EXTINF:-1 tvg-chno="77684" tvg-name="TRT Turk" tvg-logo="https://zap2it.tmsimg.com/assets/s77684_ll_h15_ab.png" group-title="Netherlands" tvg-id="TRTTURK" tvc-guide-stationid="77684",TRT Turk
+#EXTINF:-1 tvg-chno="77684" tvg-name="TRT Turk" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G7N.png" group-title="Netherlands" tvg-id="TRTTURK" tvc-guide-stationid="77684",TRT Turk
 http://example.local/NLD-TRTTURK.ts
 #EXTINF:-1 tvg-chno="105269" tvg-name="TRT World" tvg-logo="https://zap2it.tmsimg.com/assets/s105269_ll_h15_aa.png" group-title="Netherlands" tvg-id="TRTWRSD" tvc-guide-stationid="105269",TRT World
 http://example.local/NLD-TRTWRSD.ts
@@ -1433,6 +1485,8 @@ http://example.local/NLD-VERDXD.ts
 http://example.local/NLD-VERDXHD.ts
 #EXTINF:-1 tvg-chno="117334" tvg-name="Viaplay TV" tvg-logo="https://zap2it.tmsimg.com/assets/s117334_ll_h15_ab.png" group-title="Netherlands" tvg-id="VPLAYTV" tvc-guide-stationid="117334",Viaplay TV
 http://example.local/NLD-VPLAYTV.ts
+#EXTINF:-1 tvg-chno="122958" tvg-name="Viaplay TV+" tvg-logo="https://zap2it.tmsimg.com/assets/s122958_ll_h15_ac.png" group-title="Netherlands" tvg-id="VIAPLNL" tvc-guide-stationid="122958",Viaplay TV+
+http://example.local/NLD-VIAPLNL.ts
 #EXTINF:-1 tvg-chno="113335" tvg-name="VISIT-X.tv" group-title="Netherlands" tvg-id="VISITX" tvc-guide-stationid="113335",VISIT-X.tv
 http://example.local/NLD-VISITX.ts
 #EXTINF:-1 tvg-chno="109951" tvg-name="VIXEN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s109951_ll_h15_ab.png" group-title="Netherlands" tvg-id="VIXENHD" tvc-guide-stationid="109951",VIXEN HD

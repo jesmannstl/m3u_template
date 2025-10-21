@@ -513,7 +513,7 @@ http://example.local/ECU-HBOFMEH.ts
 http://example.local/ECU-HBOFAME.ts
 #EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Ecuador" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
 http://example.local/ECU-HBOFMHD.ts
-#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_h3_aa.png" group-title="Ecuador" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
+#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" group-title="Ecuador" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
 http://example.local/ECU-HBOFP.ts
 #EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_aa.png" group-title="Ecuador" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
 http://example.local/ECU-HBOLAT.ts

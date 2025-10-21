@@ -15,7 +15,7 @@ http://example.local/LCA-AMCMEX.ts
 http://example.local/LCA-AMC.ts
 #EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="St. Lucia" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
 http://example.local/LCA-AMCMXHD.ts
-#EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="St. Lucia" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
+#EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="St. Lucia" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
 http://example.local/LCA-ABC.ts
 #EXTINF:-1 tvg-chno="18649" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="St. Lucia" tvg-id="ANIPL" tvc-guide-stationid="18649",Animal Planet
 http://example.local/LCA-ANIPL.ts
@@ -267,7 +267,7 @@ http://example.local/LCA-HBOI.ts
 http://example.local/LCA-HBOF.ts
 #EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="St. Lucia" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
 http://example.local/LCA-HBOFMHD.ts
-#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_h3_aa.png" group-title="St. Lucia" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
+#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" group-title="St. Lucia" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
 http://example.local/LCA-HBOFP.ts
 #EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_aa.png" group-title="St. Lucia" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
 http://example.local/LCA-HBOLAT.ts
@@ -603,7 +603,7 @@ http://example.local/LCA-WGN.ts
 http://example.local/LCA-WILLOW.ts
 #EXTINF:-1 tvg-chno="11779" tvg-name="WPIX (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s11779_ll_h15_aa.png" group-title="St. Lucia" tvg-id="WPIX" tvc-guide-stationid="11779",WPIX (CW)
 http://example.local/LCA-WPIX.ts
-#EXTINF:-1 tvg-chno="11760" tvg-name="WWOR TV Channel 9 (Local New York) (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/s51307_ll_h15_aa.png" group-title="St. Lucia" tvg-id="WWOR" tvc-guide-stationid="11760",WWOR TV Channel 9 (Local New York) (MNT)
+#EXTINF:-1 tvg-chno="11760" tvg-name="WWOR TV Channel 9 (Local New York) (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y3ZQ.png" group-title="St. Lucia" tvg-id="WWOR" tvc-guide-stationid="11760",WWOR TV Channel 9 (Local New York) (MNT)
 http://example.local/LCA-WWOR.ts
 #EXTINF:-1 tvg-chno="90968" tvg-name="Zee TV Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s90968_ll_h15_aa.png" group-title="St. Lucia" tvg-id="ZEECAR" tvc-guide-stationid="90968",Zee TV Caribbean
 http://example.local/LCA-ZEECAR.ts

@@ -33,7 +33,7 @@ http://example.local/JAM-ALJZ.ts
 http://example.local/JAM-ALJZENG.ts
 #EXTINF:-1 tvg-chno="10021" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s10021_ll_h15_ab.png" group-title="Jamaica" tvg-id="AMC" tvc-guide-stationid="10021",AMC
 http://example.local/JAM-AMC.ts
-#EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="Jamaica" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
+#EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="Jamaica" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
 http://example.local/JAM-ABC.ts
 #EXTINF:-1 tvg-chno="18284" tvg-name="American Heroes Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s18284_ll_h15_aa.png" group-title="Jamaica" tvg-id="AHC" tvc-guide-stationid="18284",American Heroes Channel
 http://example.local/JAM-AHC.ts
@@ -713,7 +713,7 @@ http://example.local/JAM-HBOFMEH.ts
 http://example.local/JAM-HBOF.ts
 #EXTINF:-1 tvg-chno="57396" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Jamaica" tvg-id="HBOFAME" tvc-guide-stationid="57396",HBO Family
 http://example.local/JAM-HBOFAME.ts
-#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_h3_aa.png" group-title="Jamaica" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
+#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" group-title="Jamaica" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
 http://example.local/JAM-HBOFP.ts
 #EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_aa.png" group-title="Jamaica" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
 http://example.local/JAM-HBOLAT.ts
@@ -873,94 +873,94 @@ http://example.local/JAM-MTVLVHD.ts
 http://example.local/JAM-MTV2.ts
 #EXTINF:-1 tvg-chno="113130" tvg-name="Music and Entertainment Network" tvg-logo="https://zap2it.tmsimg.com/assets/s113130_ll_h9_ab.png" group-title="Jamaica" tvg-id="METV" tvc-guide-stationid="113130",Music and Entertainment Network
 http://example.local/JAM-METV.ts
-#EXTINF:-1 tvg-chno="19326" tvg-name="Music Choice: '70's" tvg-logo="https://zap2it.tmsimg.com/assets/s19326_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC29" tvc-guide-stationid="19326",Music Choice: '70's
-http://example.local/JAM-MC29.ts
-#EXTINF:-1 tvg-chno="24405" tvg-name="Music Choice: '80s" tvg-logo="https://zap2it.tmsimg.com/assets/s24405_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC28" tvc-guide-stationid="24405",Music Choice: '80s
-http://example.local/JAM-MC28.ts
-#EXTINF:-1 tvg-chno="19336" tvg-name="Music Choice: '90s" tvg-logo="https://zap2it.tmsimg.com/assets/s19336_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC27" tvc-guide-stationid="19336",Music Choice: '90s
-http://example.local/JAM-MC27.ts
-#EXTINF:-1 tvg-chno="19142" tvg-name="Music Choice: Adult Alternative" tvg-logo="https://zap2it.tmsimg.com/assets/s19142_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC16" tvc-guide-stationid="19142",Music Choice: Adult Alternative
-http://example.local/JAM-MC16.ts
-#EXTINF:-1 tvg-chno="19310" tvg-name="Music Choice: Alternative" tvg-logo="https://zap2it.tmsimg.com/assets/s19310_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC15" tvc-guide-stationid="19310",Music Choice: Alternative
+#EXTINF:-1 tvg-chno="19310" tvg-name="Music Choice '60s & '70s Mellow Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s19310_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC15" tvc-guide-stationid="19310",Music Choice '60s & '70s Mellow Hits
 http://example.local/JAM-MC15.ts
-#EXTINF:-1 tvg-chno="19341" tvg-name="Music Choice: Blues" tvg-logo="https://zap2it.tmsimg.com/assets/s19341_ll_h15_ab.png" group-title="Jamaica" tvg-id="MC46" tvc-guide-stationid="19341",Music Choice: Blues
+#EXTINF:-1 tvg-chno="19326" tvg-name="Music Choice '60s Generation" tvg-logo="https://zap2it.tmsimg.com/assets/s19326_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC29" tvc-guide-stationid="19326",Music Choice '60s Generation
+http://example.local/JAM-MC29.ts
+#EXTINF:-1 tvg-chno="24405" tvg-name="Music Choice '70s" tvg-logo="https://zap2it.tmsimg.com/assets/s24405_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC28" tvc-guide-stationid="24405",Music Choice '70s
+http://example.local/JAM-MC28.ts
+#EXTINF:-1 tvg-chno="19329" tvg-name="Music Choice '70s & '80s Favorites" tvg-logo="https://zap2it.tmsimg.com/assets/s19329_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC25" tvc-guide-stationid="19329",Music Choice '70s & '80s Favorites
+http://example.local/JAM-MC25.ts
+#EXTINF:-1 tvg-chno="19336" tvg-name="Music Choice '80s" tvg-logo="https://zap2it.tmsimg.com/assets/s19336_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC27" tvc-guide-stationid="19336",Music Choice '80s
+http://example.local/JAM-MC27.ts
+#EXTINF:-1 tvg-chno="26228" tvg-name="Music Choice '90s" tvg-logo="https://zap2it.tmsimg.com/assets/s26228_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC26" tvc-guide-stationid="26228",Music Choice '90s
+http://example.local/JAM-MC26.ts
+#EXTINF:-1 tvg-chno="19142" tvg-name="Music Choice Adult Alternative" tvg-logo="https://zap2it.tmsimg.com/assets/s19142_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC16" tvc-guide-stationid="19142",Music Choice Adult Alternative
+http://example.local/JAM-MC16.ts
+#EXTINF:-1 tvg-chno="19341" tvg-name="Music Choice Blues" tvg-logo="https://zap2it.tmsimg.com/assets/s19341_ll_h15_ab.png" group-title="Jamaica" tvg-id="MC46" tvc-guide-stationid="19341",Music Choice Blues
 http://example.local/JAM-MC46.ts
-#EXTINF:-1 tvg-chno="19319" tvg-name="Music Choice: Classic Country" tvg-logo="https://zap2it.tmsimg.com/assets/s19319_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC34" tvc-guide-stationid="19319",Music Choice: Classic Country
+#EXTINF:-1 tvg-chno="19319" tvg-name="Music Choice Classic Country" tvg-logo="https://zap2it.tmsimg.com/assets/s19319_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC34" tvc-guide-stationid="19319",Music Choice Classic Country
 http://example.local/JAM-MC34.ts
-#EXTINF:-1 tvg-chno="19311" tvg-name="Music Choice: Classic Rock" tvg-logo="https://zap2it.tmsimg.com/assets/s19311_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC18" tvc-guide-stationid="19311",Music Choice: Classic Rock
+#EXTINF:-1 tvg-chno="19311" tvg-name="Music Choice Classic Rock" tvg-logo="https://zap2it.tmsimg.com/assets/s19311_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC18" tvc-guide-stationid="19311",Music Choice Classic Rock
 http://example.local/JAM-MC18.ts
-#EXTINF:-1 tvg-chno="19324" tvg-name="Music Choice: Contemporary Christian" tvg-logo="https://zap2it.tmsimg.com/assets/s19324_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC35" tvc-guide-stationid="19324",Music Choice: Contemporary Christian
-http://example.local/JAM-MC35.ts
-#EXTINF:-1 tvg-chno="19342" tvg-name="Music Choice: Country Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s19342_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC33" tvc-guide-stationid="19342",Music Choice: Country Hits
-http://example.local/JAM-MC33.ts
-#EXTINF:-1 tvg-chno="26229" tvg-name="Music Choice: Gospel" tvg-logo="https://zap2it.tmsimg.com/assets/s26229_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC11" tvc-guide-stationid="26229",Music Choice: Gospel
-http://example.local/JAM-MC11.ts
-#EXTINF:-1 tvg-chno="26230" tvg-name="Music Choice: Hip-Hop and R&B" tvg-logo="https://zap2it.tmsimg.com/assets/s26230_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC05" tvc-guide-stationid="26230",Music Choice: Hip-Hop and R&B
-http://example.local/JAM-MC05.ts
-#EXTINF:-1 tvg-chno="19339" tvg-name="Music Choice: Hip-Hop Classics" tvg-logo="https://zap2it.tmsimg.com/assets/s19339_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC07" tvc-guide-stationid="19339",Music Choice: Hip-Hop Classics
-http://example.local/JAM-MC07.ts
-#EXTINF:-1 tvg-chno="19313" tvg-name="Music Choice: Hit List" tvg-logo="https://zap2it.tmsimg.com/assets/s19313_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC01" tvc-guide-stationid="19313",Music Choice: Hit List
-http://example.local/JAM-MC01.ts
-#EXTINF:-1 tvg-chno="19357" tvg-name="Music Choice: Jazz" tvg-logo="https://zap2it.tmsimg.com/assets/s19357_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC45" tvc-guide-stationid="19357",Music Choice: Jazz
-http://example.local/JAM-MC45.ts
-#EXTINF:-1 tvg-chno="19330" tvg-name="Music Choice: Kids Only!" tvg-logo="https://zap2it.tmsimg.com/assets/s19330_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC24" tvc-guide-stationid="19330",Music Choice: Kids Only!
-http://example.local/JAM-MC24.ts
-#EXTINF:-1 tvg-chno="19314" tvg-name="Music Choice: Love Songs" tvg-logo="https://zap2it.tmsimg.com/assets/s19314_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC20" tvc-guide-stationid="19314",Music Choice: Love Songs
-http://example.local/JAM-MC20.ts
-#EXTINF:-1 tvg-chno="19346" tvg-name="Music Choice: Max" tvg-logo="https://zap2it.tmsimg.com/assets/s19346_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC02" tvc-guide-stationid="19346",Music Choice: Max
-http://example.local/JAM-MC02.ts
-#EXTINF:-1 tvg-chno="19328" tvg-name="Music Choice: Party Favorites" tvg-logo="https://zap2it.tmsimg.com/assets/s19328_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC22" tvc-guide-stationid="19328",Music Choice: Party Favorites
-http://example.local/JAM-MC22.ts
-#EXTINF:-1 tvg-chno="19325" tvg-name="Music Choice: Pop & Country" tvg-logo="https://zap2it.tmsimg.com/assets/s19325_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC31" tvc-guide-stationid="19325",Music Choice: Pop & Country
-http://example.local/JAM-MC31.ts
-#EXTINF:-1 tvg-chno="43335" tvg-name="Music Choice: Pop Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s43335_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC21" tvc-guide-stationid="43335",Music Choice: Pop Hits
-http://example.local/JAM-MC21.ts
-#EXTINF:-1 tvg-chno="24380" tvg-name="Music Choice: Pop Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24380_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC36" tvc-guide-stationid="24380",Music Choice: Pop Latino
-http://example.local/JAM-MC36.ts
-#EXTINF:-1 tvg-chno="19344" tvg-name="Music Choice: R&B Classics" tvg-logo="https://zap2it.tmsimg.com/assets/s19344_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC09" tvc-guide-stationid="19344",Music Choice: R&B Classics
-http://example.local/JAM-MC09.ts
-#EXTINF:-1 tvg-chno="26250" tvg-name="Music Choice: R&B Soul" tvg-logo="https://zap2it.tmsimg.com/assets/s26250_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC10" tvc-guide-stationid="26250",Music Choice: R&B Soul
-http://example.local/JAM-MC10.ts
-#EXTINF:-1 tvg-chno="24378" tvg-name="Music Choice: Rap" tvg-logo="https://zap2it.tmsimg.com/assets/s24378_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC06" tvc-guide-stationid="24378",Music Choice: Rap
-http://example.local/JAM-MC06.ts
-#EXTINF:-1 tvg-chno="26221" tvg-name="Music Choice: Reggae" tvg-logo="https://zap2it.tmsimg.com/assets/s26221_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC12" tvc-guide-stationid="26221",Music Choice: Reggae
-http://example.local/JAM-MC12.ts
-#EXTINF:-1 tvg-chno="24382" tvg-name="Music Choice: Relaxing Vibes" tvg-logo="https://zap2it.tmsimg.com/assets/s24382_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC37" tvc-guide-stationid="24382",Music Choice: Relaxing Vibes
-http://example.local/JAM-MC37.ts
-#EXTINF:-1 tvg-chno="19312" tvg-name="Music Choice: Rock" tvg-logo="https://zap2it.tmsimg.com/assets/s19312_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC13" tvc-guide-stationid="19312",Music Choice: Rock
-http://example.local/JAM-MC13.ts
-#EXTINF:-1 tvg-chno="19316" tvg-name="Music Choice: Romances" tvg-logo="https://zap2it.tmsimg.com/assets/s19316_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC40" tvc-guide-stationid="19316",Music Choice: Romances
-http://example.local/JAM-MC40.ts
-#EXTINF:-1 tvg-chno="19362" tvg-name="Music Choice: Smooth Jazz" tvg-logo="https://zap2it.tmsimg.com/assets/s19362_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC44" tvc-guide-stationid="19362",Music Choice: Smooth Jazz
-http://example.local/JAM-MC44.ts
-#EXTINF:-1 tvg-chno="19315" tvg-name="Music Choice: Soft Rock" tvg-logo="https://zap2it.tmsimg.com/assets/s19315_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC19" tvc-guide-stationid="19315",Music Choice: Soft Rock
-http://example.local/JAM-MC19.ts
-#EXTINF:-1 tvg-chno="44059" tvg-name="Music Choice: Solid Gold Oldies" tvg-logo="https://zap2it.tmsimg.com/assets/s44059_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC30" tvc-guide-stationid="44059",Music Choice: Solid Gold Oldies
-http://example.local/JAM-MC30.ts
-#EXTINF:-1 tvg-chno="19317" tvg-name="Music Choice: Sounds of the Seasons" tvg-logo="https://zap2it.tmsimg.com/assets/s19317_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC41" tvc-guide-stationid="19317",Music Choice: Sounds of the Seasons
-http://example.local/JAM-MC41.ts
-#EXTINF:-1 tvg-chno="31028" tvg-name="Music Choice: Soundscapes" tvg-logo="https://zap2it.tmsimg.com/assets/s31028_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC43" tvc-guide-stationid="31028",Music Choice: Soundscapes
-http://example.local/JAM-MC43.ts
-#EXTINF:-1 tvg-chno="19358" tvg-name="Music Choice: Stage & Screen" tvg-logo="https://zap2it.tmsimg.com/assets/s19358_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC42" tvc-guide-stationid="19358",Music Choice: Stage & Screen
+#EXTINF:-1 tvg-chno="19358" tvg-name="Music Choice Classical Masterpieces" tvg-logo="https://zap2it.tmsimg.com/assets/s19358_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC42" tvc-guide-stationid="19358",Music Choice Classical Masterpieces
 http://example.local/JAM-MC42.ts
-#EXTINF:-1 tvg-chno="19327" tvg-name="Music Choice: Teen Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s19327_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC23" tvc-guide-stationid="19327",Music Choice: Teen Hits
+#EXTINF:-1 tvg-chno="26221" tvg-name="Music Choice Contemporary Christian" tvg-logo="https://zap2it.tmsimg.com/assets/s26221_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC12" tvc-guide-stationid="26221",Music Choice Contemporary Christian
+http://example.local/JAM-MC12.ts
+#EXTINF:-1 tvg-chno="19342" tvg-name="Music Choice Country Favorites" tvg-logo="https://zap2it.tmsimg.com/assets/s19342_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC33" tvc-guide-stationid="19342",Music Choice Country Favorites
+http://example.local/JAM-MC33.ts
+#EXTINF:-1 tvg-chno="19324" tvg-name="Music Choice Country Rock" tvg-logo="https://zap2it.tmsimg.com/assets/s19324_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC35" tvc-guide-stationid="19324",Music Choice Country Rock
+http://example.local/JAM-MC35.ts
+#EXTINF:-1 tvg-chno="24378" tvg-name="Music Choice Dance" tvg-logo="https://zap2it.tmsimg.com/assets/s24378_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC06" tvc-guide-stationid="24378",Music Choice Dance
+http://example.local/JAM-MC06.ts
+#EXTINF:-1 tvg-chno="26229" tvg-name="Music Choice Gospel" tvg-logo="https://zap2it.tmsimg.com/assets/s26229_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC11" tvc-guide-stationid="26229",Music Choice Gospel
+http://example.local/JAM-MC11.ts
+#EXTINF:-1 tvg-chno="19314" tvg-name="Music Choice Happy Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s19314_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC20" tvc-guide-stationid="19314",Music Choice Happy Hits
+http://example.local/JAM-MC20.ts
+#EXTINF:-1 tvg-chno="26230" tvg-name="Music Choice Hip-Hop and R&B" tvg-logo="https://zap2it.tmsimg.com/assets/s26230_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC05" tvc-guide-stationid="26230",Music Choice Hip-Hop and R&B
+http://example.local/JAM-MC05.ts
+#EXTINF:-1 tvg-chno="19339" tvg-name="Music Choice Hip-Hop Classics" tvg-logo="https://zap2it.tmsimg.com/assets/s19339_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC07" tvc-guide-stationid="19339",Music Choice Hip-Hop Classics
+http://example.local/JAM-MC07.ts
+#EXTINF:-1 tvg-chno="19357" tvg-name="Music Choice Jazz" tvg-logo="https://zap2it.tmsimg.com/assets/s19357_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC45" tvc-guide-stationid="19357",Music Choice Jazz
+http://example.local/JAM-MC45.ts
+#EXTINF:-1 tvg-chno="19335" tvg-name="Music Choice Joyful Instrumentals" tvg-logo="https://zap2it.tmsimg.com/assets/s19335_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC39" tvc-guide-stationid="19335",Music Choice Joyful Instrumentals
+http://example.local/JAM-MC39.ts
+#EXTINF:-1 tvg-chno="19317" tvg-name="Music Choice Light Classical" tvg-logo="https://zap2it.tmsimg.com/assets/s19317_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC41" tvc-guide-stationid="19317",Music Choice Light Classical
+http://example.local/JAM-MC41.ts
+#EXTINF:-1 tvg-chno="19325" tvg-name="Music Choice Pop & Country" tvg-logo="https://zap2it.tmsimg.com/assets/s19325_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC31" tvc-guide-stationid="19325",Music Choice Pop & Country
+http://example.local/JAM-MC31.ts
+#EXTINF:-1 tvg-chno="43335" tvg-name="Music Choice Pop Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s43335_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC21" tvc-guide-stationid="43335",Music Choice Pop Hits
+http://example.local/JAM-MC21.ts
+#EXTINF:-1 tvg-chno="19316" tvg-name="Music Choice Pop Instrumentals" tvg-logo="https://zap2it.tmsimg.com/assets/s19316_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC40" tvc-guide-stationid="19316",Music Choice Pop Instrumentals
+http://example.local/JAM-MC40.ts
+#EXTINF:-1 tvg-chno="19344" tvg-name="Music Choice R&B Classics" tvg-logo="https://zap2it.tmsimg.com/assets/s19344_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC09" tvc-guide-stationid="19344",Music Choice R&B Classics
+http://example.local/JAM-MC09.ts
+#EXTINF:-1 tvg-chno="24382" tvg-name="Music Choice Relaxing Vibes" tvg-logo="https://zap2it.tmsimg.com/assets/s24382_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC37" tvc-guide-stationid="24382",Music Choice Relaxing Vibes
+http://example.local/JAM-MC37.ts
+#EXTINF:-1 tvg-chno="19312" tvg-name="Music Choice Rock" tvg-logo="https://zap2it.tmsimg.com/assets/s19312_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC13" tvc-guide-stationid="19312",Music Choice Rock
+http://example.local/JAM-MC13.ts
+#EXTINF:-1 tvg-chno="19330" tvg-name="Music Choice Romantic Latin Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s19330_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC24" tvc-guide-stationid="19330",Music Choice Romantic Latin Pop
+http://example.local/JAM-MC24.ts
+#EXTINF:-1 tvg-chno="24380" tvg-name="Music Choice Sleep Noise" tvg-logo="https://zap2it.tmsimg.com/assets/s24380_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC36" tvc-guide-stationid="24380",Music Choice Sleep Noise
+http://example.local/JAM-MC36.ts
+#EXTINF:-1 tvg-chno="19362" tvg-name="Music Choice Smooth Jazz" tvg-logo="https://zap2it.tmsimg.com/assets/s19362_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC44" tvc-guide-stationid="19362",Music Choice Smooth Jazz
+http://example.local/JAM-MC44.ts
+#EXTINF:-1 tvg-chno="19315" tvg-name="Music Choice Soft Rock" tvg-logo="https://zap2it.tmsimg.com/assets/s19315_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC19" tvc-guide-stationid="19315",Music Choice Soft Rock
+http://example.local/JAM-MC19.ts
+#EXTINF:-1 tvg-chno="44059" tvg-name="Music Choice Solid Gold Oldies" tvg-logo="https://zap2it.tmsimg.com/assets/s44059_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC30" tvc-guide-stationid="44059",Music Choice Solid Gold Oldies
+http://example.local/JAM-MC30.ts
+#EXTINF:-1 tvg-chno="31028" tvg-name="Music Choice Soundscapes" tvg-logo="https://zap2it.tmsimg.com/assets/s31028_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC43" tvc-guide-stationid="31028",Music Choice Soundscapes
+http://example.local/JAM-MC43.ts
+#EXTINF:-1 tvg-chno="26232" tvg-name="Music Choice Throwback Jams" tvg-logo="https://zap2it.tmsimg.com/assets/s26232_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC08" tvc-guide-stationid="26232",Music Choice Throwback Jams
+http://example.local/JAM-MC08.ts
+#EXTINF:-1 tvg-chno="26248" tvg-name="Music Choice Today's Country" tvg-logo="https://zap2it.tmsimg.com/assets/s26248_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC32" tvc-guide-stationid="26248",Music Choice Today's Country
+http://example.local/JAM-MC32.ts
+#EXTINF:-1 tvg-chno="19313" tvg-name="Music Choice Today's Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s19313_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC01" tvc-guide-stationid="19313",Music Choice Today's Hits
+http://example.local/JAM-MC01.ts
+#EXTINF:-1 tvg-chno="19328" tvg-name="Music Choice Today's Latin Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s19328_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC22" tvc-guide-stationid="19328",Music Choice Today's Latin Hits
+http://example.local/JAM-MC22.ts
+#EXTINF:-1 tvg-chno="26250" tvg-name="Music Choice Today's R&B" tvg-logo="https://zap2it.tmsimg.com/assets/s26250_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC10" tvc-guide-stationid="26250",Music Choice Today's R&B
+http://example.local/JAM-MC10.ts
+#EXTINF:-1 tvg-chno="19346" tvg-name="Music Choice Trending Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s19346_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC02" tvc-guide-stationid="19346",Music Choice Trending Hits
+http://example.local/JAM-MC02.ts
+#EXTINF:-1 tvg-chno="19327" tvg-name="Music Choice Tropicales" tvg-logo="https://zap2it.tmsimg.com/assets/s19327_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC23" tvc-guide-stationid="19327",Music Choice Tropicales
 http://example.local/JAM-MC23.ts
+#EXTINF:-1 tvg-chno="31030" tvg-name="Music Choice Yacht Rock" tvg-logo="https://zap2it.tmsimg.com/assets/s31030_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC14" tvc-guide-stationid="31030",Music Choice Yacht Rock
+http://example.local/JAM-MC14.ts
 #EXTINF:-1 tvg-chno="26247" tvg-name="Music Choice: Tejano" group-title="Jamaica" tvg-id="MCTEJ" tvc-guide-stationid="26247",Music Choice: Tejano
 http://example.local/JAM-MCTEJ.ts
 #EXTINF:-1 tvg-chno="19333" tvg-name="Music Choice: The Trend" group-title="Jamaica" tvg-id="TREND" tvc-guide-stationid="19333",Music Choice: The Trend
 http://example.local/JAM-TREND.ts
-#EXTINF:-1 tvg-chno="26232" tvg-name="Music Choice: Throwback Jams" tvg-logo="https://zap2it.tmsimg.com/assets/s26232_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC08" tvc-guide-stationid="26232",Music Choice: Throwback Jams
-http://example.local/JAM-MC08.ts
-#EXTINF:-1 tvg-chno="26248" tvg-name="Music Choice: Today's Country" tvg-logo="https://zap2it.tmsimg.com/assets/s26248_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC32" tvc-guide-stationid="26248",Music Choice: Today's Country
-http://example.local/JAM-MC32.ts
-#EXTINF:-1 tvg-chno="19329" tvg-name="Music Choice: Toddler Tunes" tvg-logo="https://zap2it.tmsimg.com/assets/s19329_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC25" tvc-guide-stationid="19329",Music Choice: Toddler Tunes
-http://example.local/JAM-MC25.ts
-#EXTINF:-1 tvg-chno="19335" tvg-name="Music Choice: Tropicales" tvg-logo="https://zap2it.tmsimg.com/assets/s19335_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC39" tvc-guide-stationid="19335",Music Choice: Tropicales
-http://example.local/JAM-MC39.ts
-#EXTINF:-1 tvg-chno="26228" tvg-name="Music Choice: Y2K" tvg-logo="https://zap2it.tmsimg.com/assets/s26228_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC26" tvc-guide-stationid="26228",Music Choice: Y2K
-http://example.local/JAM-MC26.ts
-#EXTINF:-1 tvg-chno="31030" tvg-name="Music Choice: Yacht Rock" tvg-logo="https://zap2it.tmsimg.com/assets/s31030_ll_h15_aa.png" group-title="Jamaica" tvg-id="MC14" tvc-guide-stationid="31030",Music Choice: Yacht Rock
-http://example.local/JAM-MC14.ts
 #EXTINF:-1 tvg-chno="74559" tvg-name="My Destination TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s74559_ll_h9_aa.png" group-title="Jamaica" tvg-id="MYDESHD" tvc-guide-stationid="74559",My Destination TV HD
 http://example.local/JAM-MYDESHD.ts
 #EXTINF:-1 tvg-chno="10991" tvg-name="National Broadcasting Company (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="Jamaica" tvg-id="NBC" tvc-guide-stationid="10991",National Broadcasting Company (NBC)
@@ -1451,7 +1451,7 @@ http://example.local/JAM-TRAV.ts
 http://example.local/JAM-TRAVHD.ts
 #EXTINF:-1 tvg-chno="11187" tvg-name="The Weather Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11187_ll_h15_aa.png" group-title="Jamaica" tvg-id="WEATH" tvc-guide-stationid="11187",The Weather Channel
 http://example.local/JAM-WEATH.ts
-#EXTINF:-1 tvg-chno="21781" tvg-name="The Word Network" tvg-logo="https://zap2it.tmsimg.com/assets/s21781_ll_h15_ac.png" group-title="Jamaica" tvg-id="WORD" tvc-guide-stationid="21781",The Word Network
+#EXTINF:-1 tvg-chno="21781" tvg-name="The Word Network" tvg-logo="https://zap2it.tmsimg.com/assets/s21781_h3_aa.png" group-title="Jamaica" tvg-id="WORD" tvc-guide-stationid="21781",The Word Network
 http://example.local/JAM-WORD.ts
 #EXTINF:-1 tvg-chno="52363" tvg-name="Tiji" tvg-logo="https://zap2it.tmsimg.com/assets/s52363_ll_h15_aa.png" group-title="Jamaica" tvg-id="TIJIFR" tvc-guide-stationid="52363",Tiji
 http://example.local/JAM-TIJIFR.ts
@@ -1495,7 +1495,7 @@ http://example.local/JAM-TLCANZ.ts
 http://example.local/JAM-TREEC.ts
 #EXTINF:-1 tvg-chno="14767" tvg-name="Trinity Broadcasting Network" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y4QD.png" group-title="Jamaica" tvg-id="TBN" tvc-guide-stationid="14767",Trinity Broadcasting Network
 http://example.local/JAM-TBN.ts
-#EXTINF:-1 tvg-chno="59539" tvg-name="Trinity Broadcasting Network HD (TBN)" tvg-logo="https://zap2it.tmsimg.com/assets/s14767_ll_h15_ad.png" group-title="Jamaica" tvg-id="TBNHD" tvc-guide-stationid="59539",Trinity Broadcasting Network HD (TBN)
+#EXTINF:-1 tvg-chno="59539" tvg-name="Trinity Broadcasting Network HD (TBN)" tvg-logo="https://zap2it.tmsimg.com/assets/s14767_h3_aa.png" group-title="Jamaica" tvg-id="TBNHD" tvc-guide-stationid="59539",Trinity Broadcasting Network HD (TBN)
 http://example.local/JAM-TBNHD.ts
 #EXTINF:-1 tvg-chno="83164" tvg-name="Trinity TV" group-title="Jamaica" tvg-id="TCN" tvc-guide-stationid="83164",Trinity TV
 http://example.local/JAM-TCN.ts
@@ -1635,7 +1635,7 @@ http://example.local/JAM-WTVJDT.ts
 http://example.local/JAM-WUTV.ts
 #EXTINF:-1 tvg-chno="42945" tvg-name="WUTV-DT (FOX)" tvg-logo="https://logos.jesmann.com/wutvdt.png" group-title="Jamaica" tvg-id="WUTVDT" tvc-guide-stationid="42945",WUTV-DT (FOX)
 http://example.local/JAM-WUTVDT.ts
-#EXTINF:-1 tvg-chno="11760" tvg-name="WWOR TV Channel 9 (Local New York) (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/s51307_ll_h15_aa.png" group-title="Jamaica" tvg-id="WWOR" tvc-guide-stationid="11760",WWOR TV Channel 9 (Local New York) (MNT)
+#EXTINF:-1 tvg-chno="11760" tvg-name="WWOR TV Channel 9 (Local New York) (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y3ZQ.png" group-title="Jamaica" tvg-id="WWOR" tvc-guide-stationid="11760",WWOR TV Channel 9 (Local New York) (MNT)
 http://example.local/JAM-WWOR.ts
 #EXTINF:-1 tvg-chno="26566" tvg-name="WWOR-DT (MNT)" tvg-logo="https://logos.jesmann.com/wwordt.png" group-title="Jamaica" tvg-id="WWORDT" tvc-guide-stationid="26566",WWOR-DT (MNT)
 http://example.local/JAM-WWORDT.ts

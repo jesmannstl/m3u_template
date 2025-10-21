@@ -147,14 +147,20 @@ http://example.local/NOR-HORSEC.ts
 http://example.local/NOR-HRT1.ts
 #EXTINF:-1 tvg-chno="109912" tvg-name="Investigation Discovery" tvg-logo="https://zap2it.tmsimg.com/assets/s109912_ll_h15_ac.png" group-title="Norway" tvg-id="IDNOR" tvc-guide-stationid="109912",Investigation Discovery
 http://example.local/NOR-IDNOR.ts
+#EXTINF:-1 tvg-chno="65973" tvg-name="Investigation Discovery Pan Regional" tvg-logo="https://zap2it.tmsimg.com/assets/s65973_ll_h15_ac.png" group-title="Norway" tvg-id="INVDIPR" tvc-guide-stationid="65973",Investigation Discovery Pan Regional
+http://example.local/NOR-INVDIPR.ts
 #EXTINF:-1 tvg-chno="78629" tvg-name="Kanal 10" tvg-logo="https://zap2it.tmsimg.com/assets/s78629_ll_h15_aa.png" group-title="Norway" tvg-id="KANAL10" tvc-guide-stationid="78629",Kanal 10
 http://example.local/NOR-KANAL10.ts
+#EXTINF:-1 tvg-chno="122258" tvg-name="Kanal 10 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122258_ll_h15_aa.png" group-title="Norway" tvg-id="KAN10NO" tvc-guide-stationid="122258",Kanal 10 HD
+http://example.local/NOR-KAN10NO.ts
 #EXTINF:-1 tvg-chno="87744" tvg-name="Kanal 4" tvg-logo="https://zap2it.tmsimg.com/assets/s87744_ll_h15_ac.png" group-title="Norway" tvg-id="KANAL4" tvc-guide-stationid="87744",Kanal 4
 http://example.local/NOR-KANAL4.ts
 #EXTINF:-1 tvg-chno="69428" tvg-name="Kunskapskanalen" tvg-logo="https://zap2it.tmsimg.com/assets/s69428_ll_h15_ab.png" group-title="Norway" tvg-id="KUNSKAP" tvc-guide-stationid="69428",Kunskapskanalen
 http://example.local/NOR-KUNSKAP.ts
 #EXTINF:-1 tvg-chno="99333" tvg-name="Kunskapskanalen HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99333_ll_h15_ab.png" group-title="Norway" tvg-id="KUNSKHD" tvc-guide-stationid="99333",Kunskapskanalen HD
 http://example.local/NOR-KUNSKHD.ts
+#EXTINF:-1 tvg-chno="114091" tvg-name="LaLiga TV" tvg-logo="https://zap2it.tmsimg.com/assets/s114091_ll_h15_ab.png" group-title="Norway" tvg-id="LALTV" tvc-guide-stationid="114091",LaLiga TV
+http://example.local/NOR-LALTV.ts
 #EXTINF:-1 tvg-chno="119141" tvg-name="Love Nature" tvg-logo="https://zap2it.tmsimg.com/assets/s119141_ll_h15_ac.png" group-title="Norway" tvg-id="LN4KUHD" tvc-guide-stationid="119141",Love Nature
 http://example.local/NOR-LN4KUHD.ts
 #EXTINF:-1 tvg-chno="109165" tvg-name="Love Nature" tvg-logo="https://zap2it.tmsimg.com/assets/s109165_ll_h15_aa.png" group-title="Norway" tvg-id="LONATUK" tvc-guide-stationid="109165",Love Nature
@@ -259,6 +265,8 @@ http://example.local/NOR-RAINW24.ts
 http://example.local/NOR-REXNOSD.ts
 #EXTINF:-1 tvg-chno="90723" tvg-name="Rex HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90723_ll_h15_ad.png" group-title="Norway" tvg-id="REXNOHD" tvc-guide-stationid="90723",Rex HD
 http://example.local/NOR-REXNOHD.ts
+#EXTINF:-1 tvg-chno="121639" tvg-name="Rikstoto Direkte HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121639_ll_h9_aa.png" group-title="Norway" tvg-id="RIKTODI" tvc-guide-stationid="121639",Rikstoto Direkte HD
+http://example.local/NOR-RIKTODI.ts
 #EXTINF:-1 tvg-chno="52564" tvg-name="RTL" tvg-logo="https://zap2it.tmsimg.com/assets/s52564_ll_h9_ac.png" group-title="Norway" tvg-id="RTLGER" tvc-guide-stationid="52564",RTL
 http://example.local/NOR-RTLGER.ts
 #EXTINF:-1 tvg-chno="83641" tvg-name="RTL HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83641_ll_h9_ab.png" group-title="Norway" tvg-id="RTLHD" tvc-guide-stationid="83641",RTL HD
@@ -347,6 +355,8 @@ http://example.local/NOR-TV2LIVS.ts
 http://example.local/NOR-TV2SP1.ts
 #EXTINF:-1 tvg-chno="90782" tvg-name="TV2 Sport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s90782_ll_h9_ab.png" group-title="Norway" tvg-id="TV2SP2" tvc-guide-stationid="90782",TV2 Sport 2
 http://example.local/NOR-TV2SP2.ts
+#EXTINF:-1 tvg-chno="90776" tvg-name="TV2 Sport Premium 1" tvg-logo="https://zap2it.tmsimg.com/assets/s90776_ll_h15_ab.png" group-title="Norway" tvg-id="TV2SPT1" tvc-guide-stationid="90776",TV2 Sport Premium 1
+http://example.local/NOR-TV2SPT1.ts
 #EXTINF:-1 tvg-chno="90778" tvg-name="TV2 Sport Premium 2" tvg-logo="https://zap2it.tmsimg.com/assets/s90778_ll_h15_ac.png" group-title="Norway" tvg-id="TV2SPR2" tvc-guide-stationid="90778",TV2 Sport Premium 2
 http://example.local/NOR-TV2SPR2.ts
 #EXTINF:-1 tvg-chno="90052" tvg-name="TV3" tvg-logo="https://zap2it.tmsimg.com/assets/s90052_ll_h15_aa.png" group-title="Norway" tvg-id="TV3NO" tvc-guide-stationid="90052",TV3

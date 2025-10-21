@@ -21,7 +21,7 @@ http://example.local/BRB-AMCMEX.ts
 http://example.local/BRB-AMC.ts
 #EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Barbados" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
 http://example.local/BRB-AMCMXHD.ts
-#EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="Barbados" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
+#EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="Barbados" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
 http://example.local/BRB-ABC.ts
 #EXTINF:-1 tvg-chno="16331" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s16331_ll_h9_ad.png" group-title="Barbados" tvg-id="APL" tvc-guide-stationid="16331",Animal Planet
 http://example.local/BRB-APL.ts
@@ -551,12 +551,12 @@ http://example.local/BRB-MTVHD.ts
 http://example.local/BRB-MTVHTLA.ts
 #EXTINF:-1 tvg-chno="66419" tvg-name="MTV Live" tvg-logo="https://zap2it.tmsimg.com/assets/s66419_ll_h15_aa.png" group-title="Barbados" tvg-id="MTVLVHD" tvc-guide-stationid="66419",MTV Live
 http://example.local/BRB-MTVLVHD.ts
-#EXTINF:-1 tvg-chno="26250" tvg-name="Music Choice: R&B Soul" tvg-logo="https://zap2it.tmsimg.com/assets/s26250_ll_h15_aa.png" group-title="Barbados" tvg-id="MC10" tvc-guide-stationid="26250",Music Choice: R&B Soul
-http://example.local/BRB-MC10.ts
-#EXTINF:-1 tvg-chno="31029" tvg-name="Music Choice: Rock Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s31029_ll_h15_aa.png" group-title="Barbados" tvg-id="MC17" tvc-guide-stationid="31029",Music Choice: Rock Hits
+#EXTINF:-1 tvg-chno="31029" tvg-name="Music Choice Alt & Rock Favorites" tvg-logo="https://zap2it.tmsimg.com/assets/s31029_ll_h15_aa.png" group-title="Barbados" tvg-id="MC17" tvc-guide-stationid="31029",Music Choice Alt & Rock Favorites
 http://example.local/BRB-MC17.ts
-#EXTINF:-1 tvg-chno="19335" tvg-name="Music Choice: Tropicales" tvg-logo="https://zap2it.tmsimg.com/assets/s19335_ll_h15_aa.png" group-title="Barbados" tvg-id="MC39" tvc-guide-stationid="19335",Music Choice: Tropicales
+#EXTINF:-1 tvg-chno="19335" tvg-name="Music Choice Joyful Instrumentals" tvg-logo="https://zap2it.tmsimg.com/assets/s19335_ll_h15_aa.png" group-title="Barbados" tvg-id="MC39" tvc-guide-stationid="19335",Music Choice Joyful Instrumentals
 http://example.local/BRB-MC39.ts
+#EXTINF:-1 tvg-chno="26250" tvg-name="Music Choice Today's R&B" tvg-logo="https://zap2it.tmsimg.com/assets/s26250_ll_h15_aa.png" group-title="Barbados" tvg-id="MC10" tvc-guide-stationid="26250",Music Choice Today's R&B
+http://example.local/BRB-MC10.ts
 #EXTINF:-1 tvg-chno="74559" tvg-name="My Destination TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s74559_ll_h9_aa.png" group-title="Barbados" tvg-id="MYDESHD" tvc-guide-stationid="74559",My Destination TV HD
 http://example.local/BRB-MYDESHD.ts
 #EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Barbados" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
@@ -891,7 +891,7 @@ http://example.local/BRB-GOLFLAH.ts
 http://example.local/BRB-TRAVHD.ts
 #EXTINF:-1 tvg-chno="11187" tvg-name="The Weather Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11187_ll_h15_aa.png" group-title="Barbados" tvg-id="WEATH" tvc-guide-stationid="11187",The Weather Channel
 http://example.local/BRB-WEATH.ts
-#EXTINF:-1 tvg-chno="21781" tvg-name="The Word Network" tvg-logo="https://zap2it.tmsimg.com/assets/s21781_ll_h15_ac.png" group-title="Barbados" tvg-id="WORD" tvc-guide-stationid="21781",The Word Network
+#EXTINF:-1 tvg-chno="21781" tvg-name="The Word Network" tvg-logo="https://zap2it.tmsimg.com/assets/s21781_h3_aa.png" group-title="Barbados" tvg-id="WORD" tvc-guide-stationid="21781",The Word Network
 http://example.local/BRB-WORD.ts
 #EXTINF:-1 tvg-chno="67579" tvg-name="TikTok Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s67579_ll_h15_ab.png" group-title="Barbados" tvg-id="SMUS43" tvc-guide-stationid="67579",TikTok Radio
 http://example.local/BRB-SMUS43.ts
@@ -921,7 +921,7 @@ http://example.local/BRB-TNCSTEN.ts
 http://example.local/BRB-TOONCST.ts
 #EXTINF:-1 tvg-chno="14767" tvg-name="Trinity Broadcasting Network" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y4QD.png" group-title="Barbados" tvg-id="TBN" tvc-guide-stationid="14767",Trinity Broadcasting Network
 http://example.local/BRB-TBN.ts
-#EXTINF:-1 tvg-chno="59539" tvg-name="Trinity Broadcasting Network HD (TBN)" tvg-logo="https://zap2it.tmsimg.com/assets/s14767_ll_h15_ad.png" group-title="Barbados" tvg-id="TBNHD" tvc-guide-stationid="59539",Trinity Broadcasting Network HD (TBN)
+#EXTINF:-1 tvg-chno="59539" tvg-name="Trinity Broadcasting Network HD (TBN)" tvg-logo="https://zap2it.tmsimg.com/assets/s14767_h3_aa.png" group-title="Barbados" tvg-id="TBNHD" tvc-guide-stationid="59539",Trinity Broadcasting Network HD (TBN)
 http://example.local/BRB-TBNHD.ts
 #EXTINF:-1 tvg-chno="10153" tvg-name="truTV" tvg-logo="https://zap2it.tmsimg.com/assets/s10153_ll_h15_ad.png" group-title="Barbados" tvg-id="TRUTV" tvc-guide-stationid="10153",truTV
 http://example.local/BRB-TRUTV.ts
@@ -1001,7 +1001,7 @@ http://example.local/BRB-WSVNDT.ts
 http://example.local/BRB-WTVJ.ts
 #EXTINF:-1 tvg-chno="21219" tvg-name="WTVJ-DT (NBC)" tvg-logo="https://logos.jesmann.com/wtvjdt.png" group-title="Barbados" tvg-id="WTVJDT" tvc-guide-stationid="21219",WTVJ-DT (NBC)
 http://example.local/BRB-WTVJDT.ts
-#EXTINF:-1 tvg-chno="11760" tvg-name="WWOR TV Channel 9 (Local New York) (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/s51307_ll_h15_aa.png" group-title="Barbados" tvg-id="WWOR" tvc-guide-stationid="11760",WWOR TV Channel 9 (Local New York) (MNT)
+#EXTINF:-1 tvg-chno="11760" tvg-name="WWOR TV Channel 9 (Local New York) (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y3ZQ.png" group-title="Barbados" tvg-id="WWOR" tvc-guide-stationid="11760",WWOR TV Channel 9 (Local New York) (MNT)
 http://example.local/BRB-WWOR.ts
 #EXTINF:-1 tvg-chno="26566" tvg-name="WWOR-DT (MNT)" tvg-logo="https://logos.jesmann.com/wwordt.png" group-title="Barbados" tvg-id="WWORDT" tvc-guide-stationid="26566",WWOR-DT (MNT)
 http://example.local/BRB-WWORDT.ts

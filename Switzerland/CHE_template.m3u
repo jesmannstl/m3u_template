@@ -3,7 +3,7 @@
 http://example.local/CHE-1FLTV.ts
 #EXTINF:-1 tvg-chno="123063" tvg-name="1+1 International" tvg-logo="https://zap2it.tmsimg.com/assets/s123063_ll_h15_aa.png" group-title="Switzerland" tvg-id="1PLUS1UKR" tvc-guide-stationid="123063",1+1 International
 http://example.local/CHE-1PLUS1UKR.ts
-#EXTINF:-1 tvg-chno="90494" tvg-name="1-2-3.tv HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90494_ll_h15_ab.png" group-title="Switzerland" tvg-id="123TVGH" tvc-guide-stationid="90494",1-2-3.tv HD
+#EXTINF:-1 tvg-chno="90494" tvg-name="1-2-3.tv HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002F84SJ.png" group-title="Switzerland" tvg-id="123TVGH" tvc-guide-stationid="90494",1-2-3.tv HD
 http://example.local/CHE-123TVGH.ts
 #EXTINF:-1 tvg-chno="51523" tvg-name="13TH STREET" tvg-logo="https://zap2it.tmsimg.com/assets/s51523_ll_h15_ab.png" group-title="Switzerland" tvg-id="STMAIN" tvc-guide-stationid="51523",13TH STREET
 http://example.local/CHE-STMAIN.ts
@@ -13,6 +13,8 @@ http://example.local/CHE-13STHD.ts
 http://example.local/CHE-13EMEHD.ts
 #EXTINF:-1 tvg-chno="108194" tvg-name="20" tvg-logo="https://zap2it.tmsimg.com/assets/s108194_ll_h9_ac.png" group-title="Switzerland" tvg-id="VENTI" tvc-guide-stationid="108194",20
 http://example.local/CHE-VENTI.ts
+#EXTINF:-1 tvg-chno="108452" tvg-name="20 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s108452_ll_h9_ab.png" group-title="Switzerland" tvg-id="VENTIHD" tvc-guide-stationid="108452",20 HD
+http://example.local/CHE-VENTIHD.ts
 #EXTINF:-1 tvg-chno="122486" tvg-name="27 TwentySeven" tvg-logo="https://zap2it.tmsimg.com/assets/s122486_ll_h15_aa.png" group-title="Switzerland" tvg-id="TWENTY7" tvc-guide-stationid="122486",27 TwentySeven
 http://example.local/CHE-TWENTY7.ts
 #EXTINF:-1 tvg-chno="87155" tvg-name="2M Maroc" tvg-logo="https://zap2it.tmsimg.com/assets/s87155_ll_h9_aa.png" group-title="Switzerland" tvg-id="2MAROC" tvc-guide-stationid="87155",2M Maroc
@@ -57,6 +59,8 @@ http://example.local/CHE-5ACTSVM.ts
 http://example.local/CHE-CH5HD.ts
 #EXTINF:-1 tvg-chno="52336" tvg-name="5 Star" tvg-logo="https://zap2it.tmsimg.com/assets/s52336_ll_h15_ad.png" group-title="Switzerland" tvg-id="5ST" tvc-guide-stationid="52336",5 Star
 http://example.local/CHE-5ST.ts
+#EXTINF:-1 tvg-chno="120893" tvg-name="5 STAR HD" group-title="Switzerland" tvg-id="5STHD" tvc-guide-stationid="120893",5 STAR HD
+http://example.local/CHE-5STHD.ts
 #EXTINF:-1 tvg-chno="100119" tvg-name="5+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100119_ll_h15_aa.png" group-title="Switzerland" tvg-id="5PLUSHD" tvc-guide-stationid="100119",5+ HD
 http://example.local/CHE-5PLUSHD.ts
 #EXTINF:-1 tvg-chno="56888" tvg-name="5SELECT" tvg-logo="https://zap2it.tmsimg.com/assets/s56888_ll_h15_ab.png" group-title="Switzerland" tvg-id="5SELECT" tvc-guide-stationid="56888",5SELECT
@@ -123,6 +127,10 @@ http://example.local/CHE-ALJAZEN.ts
 http://example.local/CHE-ALJAZEHCMS.ts
 #EXTINF:-1 tvg-chno="102458" tvg-name="Al Jazeera HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49968_ll_h15_ac.png" group-title="Switzerland" tvg-id="ALJZHDI" tvc-guide-stationid="102458",Al Jazeera HD
 http://example.local/CHE-ALJZHDI.ts
+#EXTINF:-1 tvg-chno="97267" tvg-name="Al Jazeera HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97267_ll_h15_ab.png" group-title="Switzerland" tvg-id="ALJAZEH" tvc-guide-stationid="97267",Al Jazeera HD
+http://example.local/CHE-ALJAZEH.ts
+#EXTINF:-1 tvg-chno="157470" tvg-name="Al Jazeera HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97267_ll_h15_ab.png" group-title="Switzerland" tvg-id="ALJADUP" tvc-guide-stationid="157470",Al Jazeera HD
+http://example.local/CHE-ALJADUP.ts
 #EXTINF:-1 tvg-chno="62726" tvg-name="Al Karma TV" group-title="Switzerland" tvg-id="ALKARMA" tvc-guide-stationid="62726",Al Karma TV
 http://example.local/CHE-ALKARMA.ts
 #EXTINF:-1 tvg-chno="115647" tvg-name="Al Maghribia" group-title="Switzerland" tvg-id="ALMAGH" tvc-guide-stationid="115647",Al Maghribia
@@ -151,6 +159,8 @@ http://example.local/CHE-ANIMX.ts
 http://example.local/CHE-ANIMXHD.ts
 #EXTINF:-1 tvg-chno="67145" tvg-name="ANIXE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s67145_ll_h15_ac.png" group-title="Switzerland" tvg-id="ANXHDGH" tvc-guide-stationid="67145",ANIXE HD
 http://example.local/CHE-ANXHDGH.ts
+#EXTINF:-1 tvg-chno="84044" tvg-name="ANIXE+" tvg-logo="https://zap2it.tmsimg.com/assets/s84044_ll_h15_ab.png" group-title="Switzerland" tvg-id="ANIXE" tvc-guide-stationid="84044",ANIXE+
+http://example.local/CHE-ANIXE.ts
 #EXTINF:-1 tvg-chno="122441" tvg-name="Anixe+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122441_ll_h15_aa.png" group-title="Switzerland" tvg-id="ANIXEHD" tvc-guide-stationid="122441",Anixe+ HD
 http://example.local/CHE-ANIXEHD.ts
 #EXTINF:-1 tvg-chno="99059" tvg-name="Ant1 Europe" tvg-logo="https://zap2it.tmsimg.com/assets/s99059_ll_h15_ab.png" group-title="Switzerland" tvg-id="ANT1EU" tvc-guide-stationid="99059",Ant1 Europe
@@ -187,6 +197,8 @@ http://example.local/CHE-ARTEGRH.ts
 http://example.local/CHE-ARTEHD.ts
 #EXTINF:-1 tvg-chno="87847" tvg-name="ARTE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87847_ll_h15_ac.png" group-title="Switzerland" tvg-id="ARTDEUH" tvc-guide-stationid="87847",ARTE HD
 http://example.local/CHE-ARTDEUH.ts
+#EXTINF:-1 tvg-chno="165082" tvg-name="Asharq News" group-title="Switzerland" tvg-id="ASHNEWS" tvc-guide-stationid="165082",Asharq News
+http://example.local/CHE-ASHNEWS.ts
 #EXTINF:-1 tvg-chno="102943" tvg-name="Atreseries HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Switzerland" tvg-id="ATSESHD" tvc-guide-stationid="102943",Atreseries HD
 http://example.local/CHE-ATSESHD.ts
 #EXTINF:-1 tvg-chno="96483" tvg-name="ATV Avrupa" tvg-logo="https://zap2it.tmsimg.com/assets/s96483_ll_h15_ab.png" group-title="Switzerland" tvg-id="AVRPTU" tvc-guide-stationid="96483",ATV Avrupa
@@ -195,6 +207,8 @@ http://example.local/CHE-AVRPTU.ts
 http://example.local/CHE-ATVHDTR.ts
 #EXTINF:-1 tvg-chno="88175" tvg-name="ATV2" tvg-logo="https://zap2it.tmsimg.com/assets/s88175_ll_h15_ac.png" group-title="Switzerland" tvg-id="ATV2AUS" tvc-guide-stationid="88175",ATV2
 http://example.local/CHE-ATV2AUS.ts
+#EXTINF:-1 tvg-chno="115549" tvg-name="auftanken.TV" tvg-logo="https://zap2it.tmsimg.com/assets/s115549_ll_h15_aa.png" group-title="Switzerland" tvg-id="AUFTANK" tvc-guide-stationid="115549",auftanken.TV
+http://example.local/CHE-AUFTANK.ts
 #EXTINF:-1 tvg-chno="116174" tvg-name="Auftanken.TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116174_ll_h15_aa.png" group-title="Switzerland" tvg-id="AUFTANH" tvc-guide-stationid="116174",Auftanken.TV HD
 http://example.local/CHE-AUFTANH.ts
 #EXTINF:-1 tvg-chno="118311" tvg-name="auto motor und sport UHD" group-title="Switzerland" tvg-id="AMSUHD" tvc-guide-stationid="118311",auto motor und sport UHD
@@ -225,6 +239,8 @@ http://example.local/CHE-BABYTVG.ts
 http://example.local/CHE-BFNHD.ts
 #EXTINF:-1 tvg-chno="83558" tvg-name="Bayerisches Fernsehen Süd HD" tvg-logo="https://logos.jesmann.com/BFSHD.png" group-title="Switzerland" tvg-id="BFSHD" tvc-guide-stationid="83558",Bayerisches Fernsehen Süd HD
 http://example.local/CHE-BFSHD.ts
+#EXTINF:-1 tvg-chno="100376" tvg-name="BBC Alba HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100376_ll_h15_aa.png" group-title="Switzerland" tvg-id="BBCALBH" tvc-guide-stationid="100376",BBC Alba HD
+http://example.local/CHE-BBCALBH.ts
 #EXTINF:-1 tvg-chno="64329" tvg-name="BBC Arabic" tvg-logo="https://zap2it.tmsimg.com/assets/s64329_ll_h9_ab.png" group-title="Switzerland" tvg-id="BBCARAB" tvc-guide-stationid="64329",BBC Arabic
 http://example.local/CHE-BBCARAB.ts
 #EXTINF:-1 tvg-chno="20684" tvg-name="BBC Four" tvg-logo="https://zap2it.tmsimg.com/assets/s20684_ll_h15_ab.png" group-title="Switzerland" tvg-id="BBC4" tvc-guide-stationid="20684",BBC Four
@@ -241,12 +257,20 @@ http://example.local/CHE-BBCNEEU.ts
 http://example.local/CHE-BBCNEUHD.ts
 #EXTINF:-1 tvg-chno="83285" tvg-name="BBC News HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83285_ll_h15_ab.png" group-title="Switzerland" tvg-id="BBCNWHD" tvc-guide-stationid="83285",BBC News HD
 http://example.local/CHE-BBCNWHD.ts
+#EXTINF:-1 tvg-chno="17153" tvg-name="BBC One" tvg-logo="https://zap2it.tmsimg.com/assets/s17153_ll_h15_ae.png" group-title="Switzerland" tvg-id="BBC1" tvc-guide-stationid="17153",BBC One
+http://example.local/CHE-BBC1.ts
 #EXTINF:-1 tvg-chno="87840" tvg-name="BBC One England HD (BBC1)" tvg-logo="https://zap2it.tmsimg.com/assets/s87840_ll_h15_aa.png" group-title="Switzerland" tvg-id="BBC1LDH" tvc-guide-stationid="87840",BBC One England HD (BBC1)
 http://example.local/CHE-BBC1LDH.ts
 #EXTINF:-1 tvg-chno="69387" tvg-name="BBC One HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69387_ll_h15_am.png" group-title="Switzerland" tvg-id="BBC1HD" tvc-guide-stationid="69387",BBC One HD
 http://example.local/CHE-BBC1HD.ts
 #EXTINF:-1 tvg-chno="20685" tvg-name="BBC Parliament" tvg-logo="https://zap2it.tmsimg.com/assets/s20685_ll_h15_ab.png" group-title="Switzerland" tvg-id="BBCPARL" tvc-guide-stationid="20685",BBC Parliament
 http://example.local/CHE-BBCPARL.ts
+#EXTINF:-1 tvg-chno="119635" tvg-name="BBC Red Button HD (UK)" group-title="Switzerland" tvg-id="BREDBHD" tvc-guide-stationid="119635",BBC Red Button HD (UK)
+http://example.local/CHE-BREDBHD.ts
+#EXTINF:-1 tvg-chno="110540" tvg-name="BBC Scotland HD" tvg-logo="https://zap2it.tmsimg.com/assets/s110540_ll_h15_aa.png" group-title="Switzerland" tvg-id="BBCSEHD" tvc-guide-stationid="110540",BBC Scotland HD
+http://example.local/CHE-BBCSEHD.ts
+#EXTINF:-1 tvg-chno="20683" tvg-name="BBC Three" tvg-logo="https://zap2it.tmsimg.com/assets/s20683_ll_h15_ab.png" group-title="Switzerland" tvg-id="BBC3" tvc-guide-stationid="20683",BBC Three
+http://example.local/CHE-BBC3.ts
 #EXTINF:-1 tvg-chno="122089" tvg-name="BBC Three HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122089_ll_h15_aa.png" group-title="Switzerland" tvg-id="BBC3H" tvc-guide-stationid="122089",BBC Three HD
 http://example.local/CHE-BBC3H.ts
 #EXTINF:-1 tvg-chno="17154" tvg-name="BBC Two" tvg-logo="https://zap2it.tmsimg.com/assets/s17154_ll_h15_ab.png" group-title="Switzerland" tvg-id="BBC2" tvc-guide-stationid="17154",BBC Two
@@ -285,6 +309,10 @@ http://example.local/CHE-BLOMEUSD.ts
 http://example.local/CHE-BLOMEUR.ts
 #EXTINF:-1 tvg-chno="103002" tvg-name="Bloomberg HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103002_ll_h15_aa.png" group-title="Switzerland" tvg-id="BLOOEHD" tvc-guide-stationid="103002",Bloomberg HD
 http://example.local/CHE-BLOOEHD.ts
+#EXTINF:-1 tvg-chno="147503" tvg-name="Bloomberg Originals UK" tvg-logo="https://zap2it.tmsimg.com/assets/s123870_ll_h15_ab.png" group-title="Switzerland" tvg-id="QCKTKUK" tvc-guide-stationid="147503",Bloomberg Originals UK
+http://example.local/CHE-QCKTKUK.ts
+#EXTINF:-1 tvg-chno="121994" tvg-name="Bloomberg Quicktake HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121994_ll_h15_aa.png" group-title="Switzerland" tvg-id="BBQUICK" tvc-guide-stationid="121994",Bloomberg Quicktake HD
+http://example.local/CHE-BBQUICK.ts
 #EXTINF:-1 tvg-chno="53557" tvg-name="Bloomberg Television" tvg-logo="https://zap2it.tmsimg.com/assets/s53557_ll_h15_ab.png" group-title="Switzerland" tvg-id="BLOOMIN" tvc-guide-stationid="53557",Bloomberg Television
 http://example.local/CHE-BLOOMIN.ts
 #EXTINF:-1 tvg-chno="20711" tvg-name="Bloomberg TV HD (UK)" tvg-logo="https://zap2it.tmsimg.com/assets/s20711_ll_h15_ab.png" group-title="Switzerland" tvg-id="BLOMUK" tvc-guide-stationid="20711",Bloomberg TV HD (UK)
@@ -453,6 +481,8 @@ http://example.local/CHE-BNTVHD.ts
 http://example.local/CHE-BODSEEHD.ts
 #EXTINF:-1 tvg-chno="78968" tvg-name="Boing" tvg-logo="https://zap2it.tmsimg.com/assets/s78968_ll_h15_aa.png" group-title="Switzerland" tvg-id="BOING" tvc-guide-stationid="78968",Boing
 http://example.local/CHE-BOING.ts
+#EXTINF:-1 tvg-chno="167766" tvg-name="Boing HD" group-title="Switzerland" tvg-id="BOINGHD" tvc-guide-stationid="167766",Boing HD
+http://example.local/CHE-BOINGHD.ts
 #EXTINF:-1 tvg-chno="109842" tvg-name="Boing Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s109842_ll_h9_aa.png" group-title="Switzerland" tvg-id="BOINGP1" tvc-guide-stationid="109842",Boing Plus
 http://example.local/CHE-BOINGP1.ts
 #EXTINF:-1 tvg-chno="117332" tvg-name="Boing Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s117332_ll_h15_aa.png" group-title="Switzerland" tvg-id="BOING1I" tvc-guide-stationid="117332",Boing Plus
@@ -587,6 +617,8 @@ http://example.local/CHE-CARTITO.ts
 http://example.local/CHE-CARTDHD.ts
 #EXTINF:-1 tvg-chno="103816" tvg-name="Cartoonito HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103816_ll_h15_ac.png" group-title="Switzerland" tvg-id="CARTOFRH" tvc-guide-stationid="103816",Cartoonito HD
 http://example.local/CHE-CARTOFRH.ts
+#EXTINF:-1 tvg-chno="167767" tvg-name="Cartoonito HD" group-title="Switzerland" tvg-id="CARTIHD" tvc-guide-stationid="167767",Cartoonito HD
+http://example.local/CHE-CARTIHD.ts
 #EXTINF:-1 tvg-chno="29324" tvg-name="CBBC" tvg-logo="https://zap2it.tmsimg.com/assets/s29324_ll_h15_ac.png" group-title="Switzerland" tvg-id="CBBC" tvc-guide-stationid="29324",CBBC
 http://example.local/CHE-CBBC.ts
 #EXTINF:-1 tvg-chno="83281" tvg-name="CBBC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83281_ll_h15_ac.png" group-title="Switzerland" tvg-id="CBBCHD" tvc-guide-stationid="83281",CBBC HD
@@ -659,6 +691,8 @@ http://example.local/CHE-CLASFRH.ts
 http://example.local/CHE-CLUBINT.ts
 #EXTINF:-1 tvg-chno="97304" tvg-name="Clubland" tvg-logo="https://zap2it.tmsimg.com/assets/s97304_ll_h9_aa.png" group-title="Switzerland" tvg-id="CLUBLVM" tvc-guide-stationid="97304",Clubland
 http://example.local/CHE-CLUBLVM.ts
+#EXTINF:-1 tvg-chno="118320" tvg-name="Clubland TV" tvg-logo="https://zap2it.tmsimg.com/assets/s118320_ll_h15_aa.png" group-title="Switzerland" tvg-id="CLUBLAND" tvc-guide-stationid="118320",Clubland TV
+http://example.local/CHE-CLUBLAND.ts
 #EXTINF:-1 tvg-chno="83969" tvg-name="CMC TV" tvg-logo="https://zap2it.tmsimg.com/assets/s83969_ll_h15_aa.png" group-title="Switzerland" tvg-id="CMCH" tvc-guide-stationid="83969",CMC TV
 http://example.local/CHE-CMCH.ts
 #EXTINF:-1 tvg-chno="16230" tvg-name="CNBC" tvg-logo="https://zap2it.tmsimg.com/assets/s16230_ll_h15_ab.png" group-title="Switzerland" tvg-id="CNBCEU" tvc-guide-stationid="16230",CNBC
@@ -683,6 +717,8 @@ http://example.local/CHE-CNNTURK.ts
 http://example.local/CHE-COMEDIE.ts
 #EXTINF:-1 tvg-chno="103799" tvg-name="Comedie+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103799_ll_h15_aa.png" group-title="Switzerland" tvg-id="COMEDHD" tvc-guide-stationid="103799",Comedie+ HD
 http://example.local/CHE-COMEDHD.ts
+#EXTINF:-1 tvg-chno="131326" tvg-name="Comedy & Shows" tvg-logo="https://zap2it.tmsimg.com/assets/s131326_ll_h15_aa.png" group-title="Switzerland" tvg-id="COMSHOW" tvc-guide-stationid="131326",Comedy & Shows
+http://example.local/CHE-COMSHOW.ts
 #EXTINF:-1 tvg-chno="66615" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s66615_ll_h15_aa.png" group-title="Switzerland" tvg-id="CCDE" tvc-guide-stationid="66615",Comedy Central
 http://example.local/CHE-CCDE.ts
 #EXTINF:-1 tvg-chno="100016" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s100016_ll_h15_ab.png" group-title="Switzerland" tvg-id="COCECH" tvc-guide-stationid="100016",Comedy Central
@@ -701,6 +737,8 @@ http://example.local/CHE-CRIDISF.ts
 http://example.local/CHE-CRDIFRH.ts
 #EXTINF:-1 tvg-chno="144657" tvg-name="Crime Time" tvg-logo="https://zap2it.tmsimg.com/assets/s144619_ll_h15_aa.png" group-title="Switzerland" tvg-id="CRIMTSD" tvc-guide-stationid="144657",Crime Time
 http://example.local/CHE-CRIMTSD.ts
+#EXTINF:-1 tvg-chno="144619" tvg-name="Crime Time HD" tvg-logo="https://zap2it.tmsimg.com/assets/s144619_ll_h15_aa.png" group-title="Switzerland" tvg-id="CRIMTIM" tvc-guide-stationid="144619",Crime Time HD
+http://example.local/CHE-CRIMTIM.ts
 #EXTINF:-1 tvg-chno="90284" tvg-name="Crime+Investigation" tvg-logo="https://zap2it.tmsimg.com/assets/s90284_ll_h15_ac.png" group-title="Switzerland" tvg-id="CIDE" tvc-guide-stationid="90284",Crime+Investigation
 http://example.local/CHE-CIDE.ts
 #EXTINF:-1 tvg-chno="91977" tvg-name="Crime+Investigation HD" tvg-logo="https://logos.jesmann.com/CIDEHD.png" group-title="Switzerland" tvg-id="CIDEHD" tvc-guide-stationid="91977",Crime+Investigation HD
@@ -715,6 +753,10 @@ http://example.local/CHE-CUBVIS.ts
 http://example.local/CHE-CUBAINT.ts
 #EXTINF:-1 tvg-chno="84055" tvg-name="Curiosity Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84055_ll_h15_aa.png" group-title="Switzerland" tvg-id="SPIELWH" tvc-guide-stationid="84055",Curiosity Channel HD
 http://example.local/CHE-SPIELWH.ts
+#EXTINF:-1 tvg-chno="145113" tvg-name="Curiosity Now" tvg-logo="https://zap2it.tmsimg.com/assets/s145113_ll_h15_aa.png" group-title="Switzerland" tvg-id="CRSTNOW" tvc-guide-stationid="145113",Curiosity Now
+http://example.local/CHE-CRSTNOW.ts
+#EXTINF:-1 tvg-chno="131811" tvg-name="Current Time HD" tvg-logo="https://zap2it.tmsimg.com/assets/s131811_ll_h9_aa.png" group-title="Switzerland" tvg-id="CURRENT" tvc-guide-stationid="131811",Current Time HD
+http://example.local/CHE-CURRENT.ts
 #EXTINF:-1 tvg-chno="67295" tvg-name="Das Erste" tvg-logo="https://zap2it.tmsimg.com/assets/s67295_ll_h15_ab.png" group-title="Switzerland" tvg-id="DASERST" tvc-guide-stationid="67295",Das Erste
 http://example.local/CHE-DASERST.ts
 #EXTINF:-1 tvg-chno="90447" tvg-name="Das Erste HD" tvg-logo="https://logos.jesmann.com/ARDGRHD.png" group-title="Switzerland" tvg-id="ARDGRHD" tvc-guide-stationid="90447",Das Erste HD
@@ -725,6 +767,8 @@ http://example.local/CHE-DAYSTR.ts
 http://example.local/CHE-DEPELIC.ts
 #EXTINF:-1 tvg-chno="118446" tvg-name="DeeJay TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118446_ll_h15_aa.png" group-title="Switzerland" tvg-id="DEEJAY" tvc-guide-stationid="118446",DeeJay TV HD
 http://example.local/CHE-DEEJAY.ts
+#EXTINF:-1 tvg-chno="144883" tvg-name="DEFA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s144883_ll_h6_aa.png" group-title="Switzerland" tvg-id="DEFADE" tvc-guide-stationid="144883",DEFA TV
+http://example.local/CHE-DEFADE.ts
 #EXTINF:-1 tvg-chno="135375" tvg-name="Deluxe Dance by Kontor" tvg-logo="https://zap2it.tmsimg.com/assets/s135375_ll_h15_aa.png" group-title="Switzerland" tvg-id="DEDANCE" tvc-guide-stationid="135375",Deluxe Dance by Kontor
 http://example.local/CHE-DEDANCE.ts
 #EXTINF:-1 tvg-chno="149871" tvg-name="Deluxe Dance HD" group-title="Switzerland" tvg-id="DEDANHD" tvc-guide-stationid="149871",Deluxe Dance HD
@@ -743,6 +787,10 @@ http://example.local/CHE-DELRAP.ts
 http://example.local/CHE-DELRAHD.ts
 #EXTINF:-1 tvg-chno="135374" tvg-name="Deluxe Rock" tvg-logo="https://zap2it.tmsimg.com/assets/s135374_ll_h15_aa.png" group-title="Switzerland" tvg-id="DELROCK" tvc-guide-stationid="135374",Deluxe Rock
 http://example.local/CHE-DELROCK.ts
+#EXTINF:-1 tvg-chno="113696" tvg-name="Der Aktionär TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s113696_ll_h15_aa.png" group-title="Switzerland" tvg-id="DEAKTV" tvc-guide-stationid="113696",Der Aktionär TV HD
+http://example.local/CHE-DEAKTV.ts
+#EXTINF:-1 tvg-chno="116309" tvg-name="Deutsche Welle Arabic" tvg-logo="https://zap2it.tmsimg.com/assets/s116309_ll_h15_aa.png" group-title="Switzerland" tvg-id="DWARAB" tvc-guide-stationid="116309",Deutsche Welle Arabic
+http://example.local/CHE-DWARAB.ts
 #EXTINF:-1 tvg-chno="86894" tvg-name="Deutsche Welle TV" tvg-logo="https://zap2it.tmsimg.com/assets/s86894_h3_ba.png" group-title="Switzerland" tvg-id="DEUWELL" tvc-guide-stationid="86894",Deutsche Welle TV
 http://example.local/CHE-DEUWELL.ts
 #EXTINF:-1 tvg-chno="160694" tvg-name="Deutscher Bundestag HD" tvg-logo="https://zap2it.tmsimg.com/assets/s160694_ll_h15_aa.png" group-title="Switzerland" tvg-id="BUNTAGHD" tvc-guide-stationid="160694",Deutscher Bundestag HD
@@ -799,6 +847,8 @@ http://example.local/CHE-DMAXDHD.ts
 http://example.local/CHE-DMAXIHD.ts
 #EXTINF:-1 tvg-chno="83570" tvg-name="DMF" tvg-logo="https://zap2it.tmsimg.com/assets/s83570_ll_h15_ac.png" group-title="Switzerland" tvg-id="DMF" tvc-guide-stationid="83570",DMF
 http://example.local/CHE-DMF.ts
+#EXTINF:-1 tvg-chno="161633" tvg-name="Docstory" tvg-logo="https://zap2it.tmsimg.com/assets/s161633_ll_h9_ab.png" group-title="Switzerland" tvg-id="DOCSTOR" tvc-guide-stationid="161633",Docstory
+http://example.local/CHE-DOCSTOR.ts
 #EXTINF:-1 tvg-chno="152480" tvg-name="DokuSat" group-title="Switzerland" tvg-id="DKSATSD" tvc-guide-stationid="152480",DokuSat
 http://example.local/CHE-DKSATSD.ts
 #EXTINF:-1 tvg-chno="152479" tvg-name="DokuSat HD" tvg-logo="https://zap2it.tmsimg.com/assets/s152479_ll_h15_aa.png" group-title="Switzerland" tvg-id="DKSATHD" tvc-guide-stationid="152479",DokuSat HD
@@ -809,6 +859,8 @@ http://example.local/CHE-DORCLHD.ts
 http://example.local/CHE-DORXHD.ts
 #EXTINF:-1 tvg-chno="88212" tvg-name="Dream Türk" tvg-logo="https://zap2it.tmsimg.com/assets/s88212_ll_h15_aa.png" group-title="Switzerland" tvg-id="DREAMT" tvc-guide-stationid="88212",Dream Türk
 http://example.local/CHE-DREAMT.ts
+#EXTINF:-1 tvg-chno="161634" tvg-name="Drive TV" tvg-logo="https://zap2it.tmsimg.com/assets/s161634_ll_h9_aa.png" group-title="Switzerland" tvg-id="DRIVETV" tvc-guide-stationid="161634",Drive TV
+http://example.local/CHE-DRIVETV.ts
 #EXTINF:-1 tvg-chno="115551" tvg-name="Dubai TV" tvg-logo="https://zap2it.tmsimg.com/assets/s115551_ll_h15_aa.png" group-title="Switzerland" tvg-id="DUBAITV" tvc-guide-stationid="115551",Dubai TV
 http://example.local/CHE-DUBAITV.ts
 #EXTINF:-1 tvg-chno="102972" tvg-name="Duck TV" tvg-logo="https://zap2it.tmsimg.com/assets/s102972_ll_h15_aa.png" group-title="Switzerland" tvg-id="DUCKEU" tvc-guide-stationid="102972",Duck TV
@@ -829,10 +881,18 @@ http://example.local/CHE-DWEUR.ts
 http://example.local/CHE-DETWELL.ts
 #EXTINF:-1 tvg-chno="159588" tvg-name="DW English HD" tvg-logo="https://zap2it.tmsimg.com/assets/s159588_ll_h15_aa.png" group-title="Switzerland" tvg-id="WOADWENH" tvc-guide-stationid="159588",DW English HD
 http://example.local/CHE-WOADWENH.ts
+#EXTINF:-1 tvg-chno="105247" tvg-name="DW HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105247_ll_h9_aa.png" group-title="Switzerland" tvg-id="DWEURHD" tvc-guide-stationid="105247",DW HD
+http://example.local/CHE-DWEURHD.ts
 #EXTINF:-1 tvg-chno="106146" tvg-name="E! Entertainment Europe HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106146_ll_h15_aa.png" group-title="Switzerland" tvg-id="ETVEUH" tvc-guide-stationid="106146",E! Entertainment Europe HD
 http://example.local/CHE-ETVEUH.ts
+#EXTINF:-1 tvg-chno="90456" tvg-name="E! Entertainment HD (inactive)" tvg-logo="https://zap2it.tmsimg.com/assets/s90456_ll_h15_ab.png" group-title="Switzerland" tvg-id="EDEUHD" tvc-guide-stationid="90456",E! Entertainment HD (inactive)
+http://example.local/CHE-EDEUHD.ts
 #EXTINF:-1 tvg-chno="25117" tvg-name="E4" tvg-logo="https://zap2it.tmsimg.com/assets/s25117_ll_h15_ab.png" group-title="Switzerland" tvg-id="E4" tvc-guide-stationid="25117",E4
 http://example.local/CHE-E4.ts
+#EXTINF:-1 tvg-chno="31786" tvg-name="E4 Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s31786_ll_h9_ad.png" group-title="Switzerland" tvg-id="E4EXTRA" tvc-guide-stationid="31786",E4 Extra
+http://example.local/CHE-E4EXTRA.ts
+#EXTINF:-1 tvg-chno="149276" tvg-name="Enquêtes de choc" tvg-logo="https://zap2it.tmsimg.com/assets/s149276_ll_h15_aa.png" group-title="Switzerland" tvg-id="ENQUETE" tvc-guide-stationid="149276",Enquêtes de choc
+http://example.local/CHE-ENQUETE.ts
 #EXTINF:-1 tvg-chno="146207" tvg-name="Enter-Film HD" group-title="Switzerland" tvg-id="ENTERFI" tvc-guide-stationid="146207",Enter-Film HD
 http://example.local/CHE-ENTERFI.ts
 #EXTINF:-1 tvg-chno="120532" tvg-name="Epic Drama SD" tvg-logo="https://zap2it.tmsimg.com/assets/s120532_ll_h15_aa.png" group-title="Switzerland" tvg-id="EPDRSDPL" tvc-guide-stationid="120532",Epic Drama SD
@@ -855,6 +915,8 @@ http://example.local/CHE-ESPORT1.ts
 http://example.local/CHE-ESPOCHD.ts
 #EXTINF:-1 tvg-chno="123589" tvg-name="Espreso.tv" tvg-logo="https://zap2it.tmsimg.com/assets/s123589_ll_h15_aa.png" group-title="Switzerland" tvg-id="ESPRESO" tvc-guide-stationid="123589",Espreso.tv
 http://example.local/CHE-ESPRESO.ts
+#EXTINF:-1 tvg-chno="125339" tvg-name="Espreso.tv" tvg-logo="https://zap2it.tmsimg.com/assets/s125339_ll_h15_ab.png" group-title="Switzerland" tvg-id="ESPREUA" tvc-guide-stationid="125339",Espreso.tv
+http://example.local/CHE-ESPREUA.ts
 #EXTINF:-1 tvg-chno="96482" tvg-name="Euro D" tvg-logo="https://zap2it.tmsimg.com/assets/s96482_ll_h15_aa.png" group-title="Switzerland" tvg-id="EURODTU" tvc-guide-stationid="96482",Euro D
 http://example.local/CHE-EURODTU.ts
 #EXTINF:-1 tvg-chno="119497" tvg-name="Euro D HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119497_ll_h15_aa.png" group-title="Switzerland" tvg-id="EURODHD" tvc-guide-stationid="119497",Euro D HD
@@ -883,6 +945,8 @@ http://example.local/CHE-EUNEWS.ts
 http://example.local/CHE-EUNHDDE.ts
 #EXTINF:-1 tvg-chno="103473" tvg-name="Euronews HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103473_ll_h15_ab.png" group-title="Switzerland" tvg-id="EURNWHD" tvc-guide-stationid="103473",Euronews HD
 http://example.local/CHE-EURNWHD.ts
+#EXTINF:-1 tvg-chno="120854" tvg-name="European League of Football TV" tvg-logo="https://zap2it.tmsimg.com/assets/s120854_ll_h9_aa.png" group-title="Switzerland" tvg-id="ELOFTV" tvc-guide-stationid="120854",European League of Football TV
+http://example.local/CHE-ELOFTV.ts
 #EXTINF:-1 tvg-chno="66603" tvg-name="Eurosport 1" tvg-logo="https://zap2it.tmsimg.com/assets/s66603_ll_h15_aa.png" group-title="Switzerland" tvg-id="EUROSGR" tvc-guide-stationid="66603",Eurosport 1
 http://example.local/CHE-EUROSGR.ts
 #EXTINF:-1 tvg-chno="84606" tvg-name="Eurosport 1" tvg-logo="https://zap2it.tmsimg.com/assets/s84606_ll_h15_aa.png" group-title="Switzerland" tvg-id="EUSPIT" tvc-guide-stationid="84606",Eurosport 1
@@ -921,14 +985,22 @@ http://example.local/CHE-EXTRMSP.ts
 http://example.local/CHE-EXTRSP.ts
 #EXTINF:-1 tvg-chno="134816" tvg-name="Fabella" tvg-logo="https://zap2it.tmsimg.com/assets/s134816_ll_h15_aa.png" group-title="Switzerland" tvg-id="FABELLA" tvc-guide-stationid="134816",Fabella
 http://example.local/CHE-FABELLA.ts
+#EXTINF:-1 tvg-chno="165751" tvg-name="Familie Dr. Kleist" tvg-logo="https://zap2it.tmsimg.com/assets/s165751_ll_h15_aa.png" group-title="Switzerland" tvg-id="FAMDRKL" tvc-guide-stationid="165751",Familie Dr. Kleist
+http://example.local/CHE-FAMDRKL.ts
+#EXTINF:-1 tvg-chno="148290" tvg-name="FarmLandTV" tvg-logo="https://zap2it.tmsimg.com/assets/s148290_ll_h15_ab.png" group-title="Switzerland" tvg-id="FARMLAND" tvc-guide-stationid="148290",FarmLandTV
+http://example.local/CHE-FARMLAND.ts
 #EXTINF:-1 tvg-chno="79806" tvg-name="FightBox HD" tvg-logo="https://zap2it.tmsimg.com/assets/s79806_ll_h15_ab.png" group-title="Switzerland" tvg-id="FIGHTBH" tvc-guide-stationid="79806",FightBox HD
 http://example.local/CHE-FIGHTBH.ts
 #EXTINF:-1 tvg-chno="21494" tvg-name="Film4" tvg-logo="https://zap2it.tmsimg.com/assets/s21494_ll_h15_ab.png" group-title="Switzerland" tvg-id="FILM4UK" tvc-guide-stationid="21494",Film4
 http://example.local/CHE-FILM4UK.ts
+#EXTINF:-1 tvg-chno="134113" tvg-name="Filmgold" tvg-logo="https://zap2it.tmsimg.com/assets/s134113_ll_h15_aa.png" group-title="Switzerland" tvg-id="FILGO" tvc-guide-stationid="134113",Filmgold
+http://example.local/CHE-FILGO.ts
 #EXTINF:-1 tvg-chno="91390" tvg-name="Fix & Foxi" tvg-logo="https://zap2it.tmsimg.com/assets/s91390_ll_h9_ab.png" group-title="Switzerland" tvg-id="FIXFOXI" tvc-guide-stationid="91390",Fix & Foxi
 http://example.local/CHE-FIXFOXI.ts
 #EXTINF:-1 tvg-chno="84609" tvg-name="Focus" tvg-logo="https://zap2it.tmsimg.com/assets/s84609_ll_h15_aa.png" group-title="Switzerland" tvg-id="FOCUITA" tvc-guide-stationid="84609",Focus
 http://example.local/CHE-FOCUITA.ts
+#EXTINF:-1 tvg-chno="119765" tvg-name="Folx TV" tvg-logo="https://zap2it.tmsimg.com/assets/s119765_ll_h15_aa.png" group-title="Switzerland" tvg-id="FOLXSD" tvc-guide-stationid="119765",Folx TV
+http://example.local/CHE-FOLXSD.ts
 #EXTINF:-1 tvg-chno="97077" tvg-name="Folx TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97077_ll_h15_ab.png" group-title="Switzerland" tvg-id="FOLXTV" tvc-guide-stationid="97077",Folx TV HD
 http://example.local/CHE-FOLXTV.ts
 #EXTINF:-1 tvg-chno="44718" tvg-name="Food Network" tvg-logo="https://zap2it.tmsimg.com/assets/s44718_ll_h15_ab.png" group-title="Switzerland" tvg-id="FOODNET" tvc-guide-stationid="44718",Food Network
@@ -937,6 +1009,10 @@ http://example.local/CHE-FOODNET.ts
 http://example.local/CHE-FOODIT.ts
 #EXTINF:-1 tvg-chno="68135" tvg-name="Food Network" tvg-logo="https://zap2it.tmsimg.com/assets/s68135_ll_h15_aa.png" group-title="Switzerland" tvg-id="FOODEUR" tvc-guide-stationid="68135",Food Network
 http://example.local/CHE-FOODEUR.ts
+#EXTINF:-1 tvg-chno="111100" tvg-name="Food Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s111100_ll_h15_aa.png" group-title="Switzerland" tvg-id="FNITAHD" tvc-guide-stationid="111100",Food Network HD
+http://example.local/CHE-FNITAHD.ts
+#EXTINF:-1 tvg-chno="72197" tvg-name="Food Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s72197_ll_h15_aa.png" group-title="Switzerland" tvg-id="FOODEHD" tvc-guide-stationid="72197",Food Network HD
+http://example.local/CHE-FOODEHD.ts
 #EXTINF:-1 tvg-chno="29957" tvg-name="Fox News Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s29957_ll_h15_aa.png" group-title="Switzerland" tvg-id="FXNUK" tvc-guide-stationid="29957",Fox News Channel
 http://example.local/CHE-FXNUK.ts
 #EXTINF:-1 tvg-chno="119064" tvg-name="Fox News HD" group-title="Switzerland" tvg-id="FXNEWS" tvc-guide-stationid="119064",Fox News HD
@@ -1021,12 +1097,14 @@ http://example.local/CHE-GOLDSTR.ts
 http://example.local/CHE-GOLFFRHD.ts
 #EXTINF:-1 tvg-chno="119719" tvg-name="Grand Genève TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119719_ll_h9_aa.png" group-title="Switzerland" tvg-id="GENEVE" tvc-guide-stationid="119719",Grand Genève TV HD
 http://example.local/CHE-GENEVE.ts
-#EXTINF:-1 tvg-chno="46306" tvg-name="Great! Action" tvg-logo="https://zap2it.tmsimg.com/assets/s46306_ll_h15_ad.png" group-title="Switzerland" tvg-id="GRTMACT" tvc-guide-stationid="46306",Great! Action
+#EXTINF:-1 tvg-chno="46306" tvg-name="Great! Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027ESHS.png" group-title="Switzerland" tvg-id="GRTMACT" tvc-guide-stationid="46306",Great! Action
 http://example.local/CHE-GRTMACT.ts
+#EXTINF:-1 tvg-chno="44717" tvg-name="Great! Christmas" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BNYJ.png" group-title="Switzerland" tvg-id="GREATRO" tvc-guide-stationid="44717",Great! Christmas
+http://example.local/CHE-GREATRO.ts
 #EXTINF:-1 tvg-chno="81450" tvg-name="Great! Mystery" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BMG3.png" group-title="Switzerland" tvg-id="GRETMYS" tvc-guide-stationid="81450",Great! Mystery
 http://example.local/CHE-GRETMYS.ts
-#EXTINF:-1 tvg-chno="44717" tvg-name="GREAT! Romance" tvg-logo="https://zap2it.tmsimg.com/assets/s44717_ll_h15_af.png" group-title="Switzerland" tvg-id="GREATRO" tvc-guide-stationid="44717",GREAT! Romance
-http://example.local/CHE-GREATRO.ts
+#EXTINF:-1 tvg-chno="57747" tvg-name="Great! TV" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027EKW0.png" group-title="Switzerland" tvg-id="GREATUK" tvc-guide-stationid="57747",Great! TV
+http://example.local/CHE-GREATUK.ts
 #EXTINF:-1 tvg-chno="134892" tvg-name="Grjngo" tvg-logo="https://zap2it.tmsimg.com/assets/s134892_ll_h9_ab.png" group-title="Switzerland" tvg-id="GRJNGO" tvc-guide-stationid="134892",Grjngo
 http://example.local/CHE-GRJNGO.ts
 #EXTINF:-1 tvg-chno="119720" tvg-name="GRTV/TéléVersoix HD" group-title="Switzerland" tvg-id="GRTVVERS" tvc-guide-stationid="119720",GRTV/TéléVersoix HD
@@ -1039,6 +1117,8 @@ http://example.local/CHE-GULLI.ts
 http://example.local/CHE-GULLIHD.ts
 #EXTINF:-1 tvg-chno="53649" tvg-name="Gute Laune TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53649_ll_h15_ab.png" group-title="Switzerland" tvg-id="GTLNTV" tvc-guide-stationid="53649",Gute Laune TV
 http://example.local/CHE-GTLNTV.ts
+#EXTINF:-1 tvg-chno="113713" tvg-name="Habertürk TV" tvg-logo="https://zap2it.tmsimg.com/assets/s113713_ll_h15_aa.png" group-title="Switzerland" tvg-id="HATURK" tvc-guide-stationid="113713",Habertürk TV
+http://example.local/CHE-HATURK.ts
 #EXTINF:-1 tvg-chno="98960" tvg-name="Halk TV" tvg-logo="https://zap2it.tmsimg.com/assets/s98960_ll_h15_ab.png" group-title="Switzerland" tvg-id="HALKTU" tvc-guide-stationid="98960",Halk TV
 http://example.local/CHE-HALKTU.ts
 #EXTINF:-1 tvg-chno="122284" tvg-name="Handystar TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122284_ll_h9_aa.png" group-title="Switzerland" tvg-id="HANDYHD" tvc-guide-stationid="122284",Handystar TV HD
@@ -1053,8 +1133,12 @@ http://example.local/CHE-HAYAPBO.ts
 http://example.local/CHE-HAYATPL.ts
 #EXTINF:-1 tvg-chno="116302" tvg-name="Hayat TV" tvg-logo="https://zap2it.tmsimg.com/assets/s116302_ll_h15_aa.png" group-title="Switzerland" tvg-id="HAYATV" tvc-guide-stationid="116302",Hayat TV
 http://example.local/CHE-HAYATV.ts
+#EXTINF:-1 tvg-chno="107567" tvg-name="HealthTV" tvg-logo="https://zap2it.tmsimg.com/assets/s107567_ll_h15_ab.png" group-title="Switzerland" tvg-id="HEALTHD" tvc-guide-stationid="107567",HealthTV
+http://example.local/CHE-HEALTHD.ts
 #EXTINF:-1 tvg-chno="83873" tvg-name="Heimatkanal" tvg-logo="https://zap2it.tmsimg.com/assets/s83873_ll_h15_ab.png" group-title="Switzerland" tvg-id="HEIMKAN" tvc-guide-stationid="83873",Heimatkanal
 http://example.local/CHE-HEIMKAN.ts
+#EXTINF:-1 tvg-chno="135133" tvg-name="Heimatkino" tvg-logo="https://zap2it.tmsimg.com/assets/s135133_ll_h15_aa.png" group-title="Switzerland" tvg-id="HEIMKIN" tvc-guide-stationid="135133",Heimatkino
+http://example.local/CHE-HEIMKIN.ts
 #EXTINF:-1 tvg-chno="113322" tvg-name="Heiss und Sexy TV" group-title="Switzerland" tvg-id="HEISSTV" tvc-guide-stationid="113322",Heiss und Sexy TV
 http://example.local/CHE-HEISSTV.ts
 #EXTINF:-1 tvg-chno="21257" tvg-name="HGTV" tvg-logo="https://zap2it.tmsimg.com/assets/s21257_ll_h15_ad.png" group-title="Switzerland" tvg-id="HGTVUK" tvc-guide-stationid="21257",HGTV
@@ -1063,6 +1147,10 @@ http://example.local/CHE-HGTVUK.ts
 http://example.local/CHE-HGTVIT.ts
 #EXTINF:-1 tvg-chno="122445" tvg-name="HGTV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122445_ll_h15_aa.png" group-title="Switzerland" tvg-id="HGTVITHD" tvc-guide-stationid="122445",HGTV HD
 http://example.local/CHE-HGTVITHD.ts
+#EXTINF:-1 tvg-chno="113641" tvg-name="HGTV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s113641_ll_h15_aa.png" group-title="Switzerland" tvg-id="HGTVPR" tvc-guide-stationid="113641",HGTV HD
+http://example.local/CHE-HGTVPR.ts
+#EXTINF:-1 tvg-chno="162006" tvg-name="Himmlisches Kino" tvg-logo="https://zap2it.tmsimg.com/assets/s162006_ll_h15_aa.png" group-title="Switzerland" tvg-id="HIMKINO" tvc-guide-stationid="162006",Himmlisches Kino
+http://example.local/CHE-HIMKINO.ts
 #EXTINF:-1 tvg-chno="144656" tvg-name="hip trips" tvg-logo="https://zap2it.tmsimg.com/assets/s137719_h3_aa.png" group-title="Switzerland" tvg-id="HIPTRSD" tvc-guide-stationid="144656",hip trips
 http://example.local/CHE-HIPTRSD.ts
 #EXTINF:-1 tvg-chno="89067" tvg-name="Histoire" tvg-logo="https://zap2it.tmsimg.com/assets/s89067_ll_h15_aa.png" group-title="Switzerland" tvg-id="HISTOIR" tvc-guide-stationid="89067",Histoire
@@ -1077,6 +1165,10 @@ http://example.local/CHE-HISTEUH.ts
 http://example.local/CHE-HITOE3.ts
 #EXTINF:-1 tvg-chno="111015" tvg-name="Home & Garden TV" tvg-logo="https://zap2it.tmsimg.com/assets/s111015_ll_h15_aa.png" group-title="Switzerland" tvg-id="HOGATVD" tvc-guide-stationid="111015",Home & Garden TV
 http://example.local/CHE-HOGATVD.ts
+#EXTINF:-1 tvg-chno="111194" tvg-name="Home & Garden TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s111194_ll_h15_ab.png" group-title="Switzerland" tvg-id="HOGAHD" tvc-guide-stationid="111194",Home & Garden TV HD
+http://example.local/CHE-HOGAHD.ts
+#EXTINF:-1 tvg-chno="149274" tvg-name="Homicide" tvg-logo="https://zap2it.tmsimg.com/assets/s149274_ll_h15_aa.png" group-title="Switzerland" tvg-id="HOMICID" tvc-guide-stationid="149274",Homicide
+http://example.local/CHE-HOMICID.ts
 #EXTINF:-1 tvg-chno="113324" tvg-name="HOPE Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s113324_ll_h15_aa.png" group-title="Switzerland" tvg-id="HOPEDE" tvc-guide-stationid="113324",HOPE Channel HD
 http://example.local/CHE-HOPEDE.ts
 #EXTINF:-1 tvg-chno="90459" tvg-name="hr-fernsehen HD" tvg-logo="https://logos.jesmann.com/HRHFHD.png" group-title="Switzerland" tvg-id="HRHFHD" tvc-guide-stationid="90459",hr-fernsehen HD
@@ -1097,10 +1189,14 @@ http://example.local/CHE-HSE24EX.ts
 http://example.local/CHE-HS24EHD.ts
 #EXTINF:-1 tvg-chno="83595" tvg-name="HSE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83595_ll_h15_ad.png" group-title="Switzerland" tvg-id="HSE24HD" tvc-guide-stationid="83595",HSE HD
 http://example.local/CHE-HSE24HD.ts
+#EXTINF:-1 tvg-chno="83610" tvg-name="HSE TREND" tvg-logo="https://zap2it.tmsimg.com/assets/s83610_ll_h15_ac.png" group-title="Switzerland" tvg-id="HSE24TR" tvc-guide-stationid="83610",HSE TREND
+http://example.local/CHE-HSE24TR.ts
 #EXTINF:-1 tvg-chno="99147" tvg-name="Hustler TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99147_ll_h15_aa.png" group-title="Switzerland" tvg-id="HUSTSWH" tvc-guide-stationid="99147",Hustler TV HD
 http://example.local/CHE-HUSTSWH.ts
 #EXTINF:-1 tvg-chno="150269" tvg-name="HÖHENRAUSCH" tvg-logo="https://zap2it.tmsimg.com/assets/s150269_ll_h15_ab.png" group-title="Switzerland" tvg-id="HOHENSD" tvc-guide-stationid="150269",HÖHENRAUSCH
 http://example.local/CHE-HOHENSD.ts
+#EXTINF:-1 tvg-chno="150268" tvg-name="HÖHENRAUSCH HD" tvg-logo="https://zap2it.tmsimg.com/assets/s150268_ll_h15_ab.png" group-title="Switzerland" tvg-id="HOHENHD" tvc-guide-stationid="150268",HÖHENRAUSCH HD
+http://example.local/CHE-HOHENHD.ts
 #EXTINF:-1 tvg-chno="146194" tvg-name="I-TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s146194_ll_h9_aa.png" group-title="Switzerland" tvg-id="ITVHDCH" tvc-guide-stationid="146194",I-TV HD
 http://example.local/CHE-ITVHDCH.ts
 #EXTINF:-1 tvg-chno="115649" tvg-name="i24 News" tvg-logo="https://zap2it.tmsimg.com/assets/s115649_ll_h15_aa.png" group-title="Switzerland" tvg-id="I24EGB" tvc-guide-stationid="115649",i24 News
@@ -1117,6 +1213,8 @@ http://example.local/CHE-ICIMEDSP.ts
 http://example.local/CHE-ICONCRH.ts
 #EXTINF:-1 tvg-chno="125272" tvg-name="Indo NHK World Japan HD" tvg-logo="https://zap2it.tmsimg.com/assets/s125272_ll_h15_aa.png" group-title="Switzerland" tvg-id="INHKWHD" tvc-guide-stationid="125272",Indo NHK World Japan HD
 http://example.local/CHE-INHKWHD.ts
+#EXTINF:-1 tvg-chno="169784" tvg-name="INFAST" group-title="Switzerland" tvg-id="INFASTDE" tvc-guide-stationid="169784",INFAST
+http://example.local/CHE-INFASTDE.ts
 #EXTINF:-1 tvg-chno="119725" tvg-name="infosport+ HD" group-title="Switzerland" tvg-id="INFOSPL" tvc-guide-stationid="119725",infosport+ HD
 http://example.local/CHE-INFOSPL.ts
 #EXTINF:-1 tvg-chno="99927" tvg-name="INPLUS" tvg-logo="https://zap2it.tmsimg.com/assets/s99927_ll_h15_ab.png" group-title="Switzerland" tvg-id="INPLUSUK" tvc-guide-stationid="99927",INPLUS
@@ -1125,6 +1223,8 @@ http://example.local/CHE-INPLUSUK.ts
 http://example.local/CHE-INULTRA.ts
 #EXTINF:-1 tvg-chno="117128" tvg-name="INULTRA" group-title="Switzerland" tvg-id="INULTUK" tvc-guide-stationid="117128",INULTRA
 http://example.local/CHE-INULTUK.ts
+#EXTINF:-1 tvg-chno="169785" tvg-name="INWONDER" group-title="Switzerland" tvg-id="INWONDE" tvc-guide-stationid="169785",INWONDER
+http://example.local/CHE-INWONDE.ts
 #EXTINF:-1 tvg-chno="117246" tvg-name="Iran International HD" tvg-logo="https://zap2it.tmsimg.com/assets/s117246_ll_h15_aa.png" group-title="Switzerland" tvg-id="IRAINTH" tvc-guide-stationid="117246",Iran International HD
 http://example.local/CHE-IRAINTH.ts
 #EXTINF:-1 tvg-chno="84621" tvg-name="Iris HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84621_ll_h9_aa.png" group-title="Switzerland" tvg-id="IRIS" tvc-guide-stationid="84621",Iris HD
@@ -1163,8 +1263,12 @@ http://example.local/CHE-JONEHD.ts
 http://example.local/CHE-JUKEBOX.ts
 #EXTINF:-1 tvg-chno="144654" tvg-name="Just Cooking" tvg-logo="https://zap2it.tmsimg.com/assets/s112103_ll_h15_ab.png" group-title="Switzerland" tvg-id="JUCOOSD" tvc-guide-stationid="144654",Just Cooking
 http://example.local/CHE-JUCOOSD.ts
+#EXTINF:-1 tvg-chno="112103" tvg-name="Just Cooking HD" tvg-logo="https://zap2it.tmsimg.com/assets/s112103_ll_h15_ab.png" group-title="Switzerland" tvg-id="JUCOOK" tvc-guide-stationid="112103",Just Cooking HD
+http://example.local/CHE-JUCOOK.ts
 #EXTINF:-1 tvg-chno="149866" tvg-name="Just Fishing" group-title="Switzerland" tvg-id="JFISSDE" tvc-guide-stationid="149866",Just Fishing
 http://example.local/CHE-JFISSDE.ts
+#EXTINF:-1 tvg-chno="137718" tvg-name="Just Fishing HD" tvg-logo="https://zap2it.tmsimg.com/assets/s137718_ll_h15_ab.png" group-title="Switzerland" tvg-id="JFISHDE" tvc-guide-stationid="137718",Just Fishing HD
+http://example.local/CHE-JFISHDE.ts
 #EXTINF:-1 tvg-chno="90461" tvg-name="Juwelo HD" group-title="Switzerland" tvg-id="JUWELHD" tvc-guide-stationid="90461",Juwelo HD
 http://example.local/CHE-JUWELHD.ts
 #EXTINF:-1 tvg-chno="83673" tvg-name="Juwelo TV" tvg-logo="https://zap2it.tmsimg.com/assets/s83673_ll_h9_ab.png" group-title="Switzerland" tvg-id="JUWELTV" tvc-guide-stationid="83673",Juwelo TV
@@ -1231,6 +1335,8 @@ http://example.local/CHE-KTVKOHD.ts
 http://example.local/CHE-KURDHD.ts
 #EXTINF:-1 tvg-chno="115871" tvg-name="Kurdsat TV" tvg-logo="https://zap2it.tmsimg.com/assets/s115871_ll_h9_aa.png" group-title="Switzerland" tvg-id="KURDTV" tvc-guide-stationid="115871",Kurdsat TV
 http://example.local/CHE-KURDTV.ts
+#EXTINF:-1 tvg-chno="113767" tvg-name="Kuriakos TV" tvg-logo="https://zap2it.tmsimg.com/assets/s113767_ll_h9_aa.png" group-title="Switzerland" tvg-id="KURIPT" tvc-guide-stationid="113767",Kuriakos TV
+http://example.local/CHE-KURIPT.ts
 #EXTINF:-1 tvg-chno="113660" tvg-name="KURIER TV" tvg-logo="https://zap2it.tmsimg.com/assets/s113660_ll_h15_ab.png" group-title="Switzerland" tvg-id="KURIER" tvc-guide-stationid="113660",KURIER TV
 http://example.local/CHE-KURIER.ts
 #EXTINF:-1 tvg-chno="52131" tvg-name="L'Équipe" tvg-logo="https://zap2it.tmsimg.com/assets/s52131_ll_h15_aa.png" group-title="Switzerland" tvg-id="LEQUIPE" tvc-guide-stationid="52131",L'Équipe
@@ -1239,11 +1345,15 @@ http://example.local/CHE-LEQUIPE.ts
 http://example.local/CHE-EQUIPEH.ts
 #EXTINF:-1 tvg-chno="122439" tvg-name="L-TV (L-TV Landesfernsehen)" tvg-logo="https://zap2it.tmsimg.com/assets/s122439_ll_h15_ab.png" group-title="Switzerland" tvg-id="LTVLNDF" tvc-guide-stationid="122439",L-TV (L-TV Landesfernsehen)
 http://example.local/CHE-LTVLNDF.ts
+#EXTINF:-1 tvg-chno="91203" tvg-name="La 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91203_ll_h9_aa.png" group-title="Switzerland" tvg-id="LA1HD" tvc-guide-stationid="91203",La 1 HD
+http://example.local/CHE-LA1HD.ts
+#EXTINF:-1 tvg-chno="91206" tvg-name="La 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91206_ll_h15_aa.png" group-title="Switzerland" tvg-id="LA2HD" tvc-guide-stationid="91206",La 2 HD
+http://example.local/CHE-LA2HD.ts
 #EXTINF:-1 tvg-chno="75500" tvg-name="La 5 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75500_ll_h15_aa.png" group-title="Switzerland" tvg-id="LA5ITL" tvc-guide-stationid="75500",La 5 HD
 http://example.local/CHE-LA5ITL.ts
 #EXTINF:-1 tvg-chno="56247" tvg-name="La 7" tvg-logo="https://zap2it.tmsimg.com/assets/s56247_ll_h15_aa.png" group-title="Switzerland" tvg-id="LA7ITL" tvc-guide-stationid="56247",La 7
 http://example.local/CHE-LA7ITL.ts
-#EXTINF:-1 tvg-chno="89069" tvg-name="La 7 D HD" tvg-logo="https://zap2it.tmsimg.com/assets/s89069_ll_h15_aa.png" group-title="Switzerland" tvg-id="LA7DHD" tvc-guide-stationid="89069",La 7 D HD
+#EXTINF:-1 tvg-chno="89069" tvg-name="La 7 Cinema HD" tvg-logo="https://zap2it.tmsimg.com/assets/s89069_ll_h15_aa.png" group-title="Switzerland" tvg-id="LA7DHD" tvc-guide-stationid="89069",La 7 Cinema HD
 http://example.local/CHE-LA7DHD.ts
 #EXTINF:-1 tvg-chno="86825" tvg-name="La 7 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s86825_ll_h15_ab.png" group-title="Switzerland" tvg-id="LA7HD" tvc-guide-stationid="86825",La 7 HD
 http://example.local/CHE-LA7HD.ts
@@ -1253,6 +1363,10 @@ http://example.local/CHE-CHAINME.ts
 http://example.local/CHE-TELECH.ts
 #EXTINF:-1 tvg-chno="104588" tvg-name="La Télé HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104588_ll_h15_aa.png" group-title="Switzerland" tvg-id="TELECHH" tvc-guide-stationid="104588",La Télé HD
 http://example.local/CHE-TELECHH.ts
+#EXTINF:-1 tvg-chno="84638" tvg-name="LA7 Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002C8DLP.png" group-title="Switzerland" tvg-id="LA7CINE" tvc-guide-stationid="84638",LA7 Cinema
+http://example.local/CHE-LA7CINE.ts
+#EXTINF:-1 tvg-chno="159781" tvg-name="Landlust TV" tvg-logo="https://zap2it.tmsimg.com/assets/s159781_ll_h15_aa.png" group-title="Switzerland" tvg-id="LANDLUST" tvc-guide-stationid="159781",Landlust TV
+http://example.local/CHE-LANDLUST.ts
 #EXTINF:-1 tvg-chno="52127" tvg-name="LCI" tvg-logo="https://zap2it.tmsimg.com/assets/s52127_ll_h15_aa.png" group-title="Switzerland" tvg-id="LCIINFO" tvc-guide-stationid="52127",LCI
 http://example.local/CHE-LCIINFO.ts
 #EXTINF:-1 tvg-chno="90509" tvg-name="LCI HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90509_ll_h15_aa.png" group-title="Switzerland" tvg-id="LCIHD" tvc-guide-stationid="90509",LCI HD
@@ -1261,8 +1375,12 @@ http://example.local/CHE-LCIHD.ts
 http://example.local/CHE-LCPANLA.ts
 #EXTINF:-1 tvg-chno="97638" tvg-name="LCP HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97638_ll_h15_aa.png" group-title="Switzerland" tvg-id="LCPHD" tvc-guide-stationid="97638",LCP HD
 http://example.local/CHE-LCPHD.ts
+#EXTINF:-1 tvg-chno="116787" tvg-name="Liechtensteiner Landeskanal" tvg-logo="https://zap2it.tmsimg.com/assets/s116787_ll_h15_aa.png" group-title="Switzerland" tvg-id="LCHLAND" tvc-guide-stationid="116787",Liechtensteiner Landeskanal
+http://example.local/CHE-LCHLAND.ts
 #EXTINF:-1 tvg-chno="120497" tvg-name="Lilo TV" tvg-logo="https://zap2it.tmsimg.com/assets/s120497_ll_h15_aa.png" group-title="Switzerland" tvg-id="LILOTV" tvc-guide-stationid="120497",Lilo TV
 http://example.local/CHE-LILOTV.ts
+#EXTINF:-1 tvg-chno="122378" tvg-name="Lilo TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122378_ll_h9_aa.png" group-title="Switzerland" tvg-id="LILOTVHD" tvc-guide-stationid="122378",Lilo TV HD
+http://example.local/CHE-LILOTVHD.ts
 #EXTINF:-1 tvg-chno="117675" tvg-name="Loly TV HD" group-title="Switzerland" tvg-id="LOLYTVHD" tvc-guide-stationid="117675",Loly TV HD
 http://example.local/CHE-LOLYTVHD.ts
 #EXTINF:-1 tvg-chno="119141" tvg-name="Love Nature" tvg-logo="https://zap2it.tmsimg.com/assets/s119141_ll_h15_ac.png" group-title="Switzerland" tvg-id="LN4KUHD" tvc-guide-stationid="119141",Love Nature
@@ -1351,6 +1469,8 @@ http://example.local/CHE-MOTVHD.ts
 http://example.local/CHE-MOTVIFR.ts
 #EXTINF:-1 tvg-chno="118447" tvg-name="Movie Smart Turk" group-title="Switzerland" tvg-id="MVSMTR" tvc-guide-stationid="118447",Movie Smart Turk
 http://example.local/CHE-MVSMTR.ts
+#EXTINF:-1 tvg-chno="134817" tvg-name="Moviedome" tvg-logo="https://zap2it.tmsimg.com/assets/s134817_ll_h15_aa.png" group-title="Switzerland" tvg-id="MOVDODE" tvc-guide-stationid="134817",Moviedome
+http://example.local/CHE-MOVDODE.ts
 #EXTINF:-1 tvg-chno="134818" tvg-name="Moviedome Family" tvg-logo="https://zap2it.tmsimg.com/assets/s134818_ll_h15_aa.png" group-title="Switzerland" tvg-id="MODOFDE" tvc-guide-stationid="134818",Moviedome Family
 http://example.local/CHE-MODOFDE.ts
 #EXTINF:-1 tvg-chno="52456" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s52456_ll_h15_aa.png" group-title="Switzerland" tvg-id="MTVFR" tvc-guide-stationid="52456",MTV
@@ -1439,6 +1559,8 @@ http://example.local/CHE-NTVATHD.ts
 http://example.local/CHE-N24DOKU.ts
 #EXTINF:-1 tvg-chno="110848" tvg-name="N24 Doku HD" tvg-logo="https://logos.jesmann.com/N24DKHD.png" group-title="Switzerland" tvg-id="N24DKHD" tvc-guide-stationid="110848",N24 Doku HD
 http://example.local/CHE-N24DKHD.ts
+#EXTINF:-1 tvg-chno="124271" tvg-name="Naruto" tvg-logo="https://zap2it.tmsimg.com/assets/s124271_ll_h15_aa.png" group-title="Switzerland" tvg-id="NARUTO" tvc-guide-stationid="124271",Naruto
+http://example.local/CHE-NARUTO.ts
 #EXTINF:-1 tvg-chno="119713" tvg-name="NASA TV UHD" group-title="Switzerland" tvg-id="NASATV" tvc-guide-stationid="119713",NASA TV UHD
 http://example.local/CHE-NASATV.ts
 #EXTINF:-1 tvg-chno="99800" tvg-name="Nash Kinomir" tvg-logo="https://zap2it.tmsimg.com/assets/s99800_ll_h15_aa.png" group-title="Switzerland" tvg-id="KINOMIR" tvc-guide-stationid="99800",Nash Kinomir
@@ -1469,6 +1591,8 @@ http://example.local/CHE-NAUTFRE.ts
 http://example.local/CHE-NAUTGER.ts
 #EXTINF:-1 tvg-chno="106105" tvg-name="Nautical Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106105_ll_h15_aa.png" group-title="Switzerland" tvg-id="NAUFRHD" tvc-guide-stationid="106105",Nautical Channel HD
 http://example.local/CHE-NAUFRHD.ts
+#EXTINF:-1 tvg-chno="101489" tvg-name="NDR 1 Niedersachsen" tvg-logo="https://zap2it.tmsimg.com/assets/s101489_ll_h15_ac.png" group-title="Switzerland" tvg-id="NDR1NI" tvc-guide-stationid="101489",NDR 1 Niedersachsen
+http://example.local/CHE-NDR1NI.ts
 #EXTINF:-1 tvg-chno="83624" tvg-name="NDR Fernsehen HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83624_ll_h15_ab.png" group-title="Switzerland" tvg-id="NDRFNHD" tvc-guide-stationid="83624",NDR Fernsehen HD
 http://example.local/CHE-NDRFNHD.ts
 #EXTINF:-1 tvg-chno="91973" tvg-name="NDR Fernsehen HH HD (NDRFRN)" tvg-logo="https://zap2it.tmsimg.com/assets/s91973_ll_h15_ab.png" group-title="Switzerland" tvg-id="NDRHHHD" tvc-guide-stationid="91973",NDR Fernsehen HH HD (NDRFRN)
@@ -1489,6 +1613,8 @@ http://example.local/CHE-NETWHD.ts
 http://example.local/CHE-NETZKI.ts
 #EXTINF:-1 tvg-chno="121499" tvg-name="NHK World Europe HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121499_ll_h15_aa.png" group-title="Switzerland" tvg-id="NHKWLDH" tvc-guide-stationid="121499",NHK World Europe HD
 http://example.local/CHE-NHKWLDH.ts
+#EXTINF:-1 tvg-chno="159115" tvg-name="NHK World Japan HD" group-title="Switzerland" tvg-id="INHKWHDCMS" tvc-guide-stationid="159115",NHK World Japan HD
+http://example.local/CHE-INHKWHDCMS.ts
 #EXTINF:-1 tvg-chno="115807" tvg-name="NHK World Premium" tvg-logo="https://zap2it.tmsimg.com/assets/s115807_ll_h15_ab.png" group-title="Switzerland" tvg-id="NHKWP" tvc-guide-stationid="115807",NHK World Premium
 http://example.local/CHE-NHKWP.ts
 #EXTINF:-1 tvg-chno="59155" tvg-name="NHK World TV" tvg-logo="https://zap2it.tmsimg.com/assets/s59155_ll_h15_aa.png" group-title="Switzerland" tvg-id="NHKWRLD" tvc-guide-stationid="59155",NHK World TV
@@ -1537,6 +1663,8 @@ http://example.local/CHE-NOVE.ts
 http://example.local/CHE-NOVEHD.ts
 #EXTINF:-1 tvg-chno="119730" tvg-name="Novelas HD" group-title="Switzerland" tvg-id="NOVHDFR" tvc-guide-stationid="119730",Novelas HD
 http://example.local/CHE-NOVHDFR.ts
+#EXTINF:-1 tvg-chno="191972" tvg-name="Novo19 HD" group-title="Switzerland" tvg-id="NOVO19H" tvc-guide-stationid="191972",Novo19 HD
+http://example.local/CHE-NOVO19H.ts
 #EXTINF:-1 tvg-chno="110745" tvg-name="Now 70s" tvg-logo="https://zap2it.tmsimg.com/assets/s110745_ll_h15_ab.png" group-title="Switzerland" tvg-id="NOW70UK" tvc-guide-stationid="110745",Now 70s
 http://example.local/CHE-NOW70UK.ts
 #EXTINF:-1 tvg-chno="108488" tvg-name="Now 80s" tvg-logo="https://zap2it.tmsimg.com/assets/s108488_ll_h15_ad.png" group-title="Switzerland" tvg-id="NOW80UK" tvc-guide-stationid="108488",Now 80s
@@ -1567,8 +1695,12 @@ http://example.local/CHE-OE24HD.ts
 http://example.local/CHE-ONEARD.ts
 #EXTINF:-1 tvg-chno="90457" tvg-name="one HD" tvg-logo="https://logos.jesmann.com/ONEARHD.png" group-title="Switzerland" tvg-id="ONEARHD" tvc-guide-stationid="90457",one HD
 http://example.local/CHE-ONEARHD.ts
+#EXTINF:-1 tvg-chno="119169" tvg-name="One Music Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119169_ll_h9_aa.png" group-title="Switzerland" tvg-id="ONEMUTV" tvc-guide-stationid="119169",One Music Television HD
+http://example.local/CHE-ONEMUTV.ts
 #EXTINF:-1 tvg-chno="135131" tvg-name="One Terra" group-title="Switzerland" tvg-id="ONETERRA" tvc-guide-stationid="135131",One Terra
 http://example.local/CHE-ONETERRA.ts
+#EXTINF:-1 tvg-chno="149867" tvg-name="One Terra HD" group-title="Switzerland" tvg-id="ONETEHD" tvc-guide-stationid="149867",One Terra HD
+http://example.local/CHE-ONETEHD.ts
 #EXTINF:-1 tvg-chno="53814" tvg-name="ORF 1" tvg-logo="https://zap2it.tmsimg.com/assets/s53814_ll_h15_aa.png" group-title="Switzerland" tvg-id="ORF1OSR" tvc-guide-stationid="53814",ORF 1
 http://example.local/CHE-ORF1OSR.ts
 #EXTINF:-1 tvg-chno="88636" tvg-name="ORF 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88636_ll_h15_ab.png" group-title="Switzerland" tvg-id="ORF1HD" tvc-guide-stationid="88636",ORF 1 HD
@@ -1599,10 +1731,14 @@ http://example.local/CHE-PARAFR.ts
 http://example.local/CHE-PARFRHD.ts
 #EXTINF:-1 tvg-chno="117865" tvg-name="Paramount+" tvg-logo="https://zap2it.tmsimg.com/assets/s134150_ll_h15_aa.png" group-title="Switzerland" tvg-id="PARAPLS" tvc-guide-stationid="117865",Paramount+
 http://example.local/CHE-PARAPLS.ts
+#EXTINF:-1 tvg-chno="138623" tvg-name="Paramount+ Showcase HD" group-title="Switzerland" tvg-id="PARAHDUK" tvc-guide-stationid="138623",Paramount+ Showcase HD
+http://example.local/CHE-PARAHDUK.ts
 #EXTINF:-1 tvg-chno="109848" tvg-name="Parole di Vita" tvg-logo="https://zap2it.tmsimg.com/assets/s109848_ll_h15_aa.png" group-title="Switzerland" tvg-id="PARVIT" tvc-guide-stationid="109848",Parole di Vita
 http://example.local/CHE-PARVIT.ts
 #EXTINF:-1 tvg-chno="73510" tvg-name="PBS America" tvg-logo="https://zap2it.tmsimg.com/assets/s73510_ll_h15_ab.png" group-title="Switzerland" tvg-id="PBSUKVM" tvc-guide-stationid="73510",PBS America
 http://example.local/CHE-PBSUKVM.ts
+#EXTINF:-1 tvg-chno="118329" tvg-name="PBS America" tvg-logo="https://zap2it.tmsimg.com/assets/s118329_ll_h9_aa.png" group-title="Switzerland" tvg-id="PBSAMER" tvc-guide-stationid="118329",PBS America
+http://example.local/CHE-PBSAMER.ts
 #EXTINF:-1 tvg-chno="90464" tvg-name="Pearl.tv HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90464_ll_h15_aa.png" group-title="Switzerland" tvg-id="PEARLHD" tvc-guide-stationid="90464",Pearl.tv HD
 http://example.local/CHE-PEARLHD.ts
 #EXTINF:-1 tvg-chno="103582" tvg-name="Penthouse Passion HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103582_ll_h15_aa.png" group-title="Switzerland" tvg-id="PHPASS" tvc-guide-stationid="103582",Penthouse Passion HD
@@ -1693,8 +1829,14 @@ http://example.local/CHE-PULS8.ts
 http://example.local/CHE-PULS8HD.ts
 #EXTINF:-1 tvg-chno="113873" tvg-name="QS24 TV" tvg-logo="https://zap2it.tmsimg.com/assets/s113873_ll_h15_aa.png" group-title="Switzerland" tvg-id="QS24DE" tvc-guide-stationid="113873",QS24 TV
 http://example.local/CHE-QS24DE.ts
+#EXTINF:-1 tvg-chno="62391" tvg-name="Quest" tvg-logo="https://zap2it.tmsimg.com/assets/s62391_ll_h15_ae.png" group-title="Switzerland" tvg-id="QUEST" tvc-guide-stationid="62391",Quest
+http://example.local/CHE-QUEST.ts
 #EXTINF:-1 tvg-chno="105894" tvg-name="Quest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105894_ll_h15_ac.png" group-title="Switzerland" tvg-id="QUESHDV" tvc-guide-stationid="105894",Quest HD
 http://example.local/CHE-QUESHDV.ts
+#EXTINF:-1 tvg-chno="117469" tvg-name="Quest HD" tvg-logo="https://zap2it.tmsimg.com/assets/s117469_ll_h15_aa.png" group-title="Switzerland" tvg-id="QUESTUKHD" tvc-guide-stationid="117469",Quest HD
+http://example.local/CHE-QUESTUKHD.ts
+#EXTINF:-1 tvg-chno="102471" tvg-name="Quest Red" tvg-logo="https://zap2it.tmsimg.com/assets/s102471_ll_h15_ab.png" group-title="Switzerland" tvg-id="QREDUK" tvc-guide-stationid="102471",Quest Red
+http://example.local/CHE-QREDUK.ts
 #EXTINF:-1 tvg-chno="75287" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s75287_ll_h15_aa.png" group-title="Switzerland" tvg-id="QVCITA" tvc-guide-stationid="75287",QVC
 http://example.local/CHE-QVCITA.ts
 #EXTINF:-1 tvg-chno="73259" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s73259_ll_h15_ad.png" group-title="Switzerland" tvg-id="QVCDEUT" tvc-guide-stationid="73259",QVC
@@ -1717,10 +1859,16 @@ http://example.local/CHE-R9HD.ts
 http://example.local/CHE-RADBRHD.ts
 #EXTINF:-1 tvg-chno="84691" tvg-name="Radio Italia TV" tvg-logo="https://zap2it.tmsimg.com/assets/s84691_ll_h15_ac.png" group-title="Switzerland" tvg-id="RITALTV" tvc-guide-stationid="84691",Radio Italia TV
 http://example.local/CHE-RITALTV.ts
+#EXTINF:-1 tvg-chno="100855" tvg-name="Radio Italia TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100855_ll_h15_ac.png" group-title="Switzerland" tvg-id="RITATVH" tvc-guide-stationid="100855",Radio Italia TV HD
+http://example.local/CHE-RITATVH.ts
 #EXTINF:-1 tvg-chno="118488" tvg-name="Radio Ticino" tvg-logo="https://zap2it.tmsimg.com/assets/s118488_ll_h9_aa.png" group-title="Switzerland" tvg-id="TICINO" tvc-guide-stationid="118488",Radio Ticino
 http://example.local/CHE-TICINO.ts
+#EXTINF:-1 tvg-chno="109851" tvg-name="Radiofreccia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s109851_ll_h9_aa.png" group-title="Switzerland" tvg-id="FRECCHD" tvc-guide-stationid="109851",Radiofreccia HD
+http://example.local/CHE-FRECCHD.ts
 #EXTINF:-1 tvg-chno="119775" tvg-name="Radionorba TV" tvg-logo="https://zap2it.tmsimg.com/assets/s119775_ll_h15_aa.png" group-title="Switzerland" tvg-id="NORBATV" tvc-guide-stationid="119775",Radionorba TV
 http://example.local/CHE-NORBATV.ts
+#EXTINF:-1 tvg-chno="121802" tvg-name="Radionorba TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121802_ll_h15_aa.png" group-title="Switzerland" tvg-id="NORBAHD" tvc-guide-stationid="121802",Radionorba TV HD
+http://example.local/CHE-NORBAHD.ts
 #EXTINF:-1 tvg-chno="21834" tvg-name="Rai 1" tvg-logo="https://zap2it.tmsimg.com/assets/s21834_ll_h15_ac.png" group-title="Switzerland" tvg-id="RAIUNO" tvc-guide-stationid="21834",Rai 1
 http://example.local/CHE-RAIUNO.ts
 #EXTINF:-1 tvg-chno="84696" tvg-name="Rai 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84696_ll_h15_aa.png" group-title="Switzerland" tvg-id="RAI1HD" tvc-guide-stationid="84696",Rai 1 HD
@@ -1779,6 +1927,12 @@ http://example.local/CHE-DISRTIH.ts
 http://example.local/CHE-RRECEUR.ts
 #EXTINF:-1 tvg-chno="107169" tvg-name="Record Europa HD (RREC)" tvg-logo="https://zap2it.tmsimg.com/assets/s107169_ll_h15_ab.png" group-title="Switzerland" tvg-id="RECEUHD" tvc-guide-stationid="107169",Record Europa HD (RREC)
 http://example.local/CHE-RECEUHD.ts
+#EXTINF:-1 tvg-chno="127718" tvg-name="Record News" tvg-logo="https://zap2it.tmsimg.com/assets/s127718_ll_h15_ac.png" group-title="Switzerland" tvg-id="RECNEWS" tvc-guide-stationid="127718",Record News
+http://example.local/CHE-RECNEWS.ts
+#EXTINF:-1 tvg-chno="125242" tvg-name="Record TV (RREC)" tvg-logo="https://zap2it.tmsimg.com/assets/s125242_ll_h15_ab.png" group-title="Switzerland" tvg-id="RRECTEL" tvc-guide-stationid="125242",Record TV (RREC)
+http://example.local/CHE-RRECTEL.ts
+#EXTINF:-1 tvg-chno="167509" tvg-name="Red Bull TV" tvg-logo="https://zap2it.tmsimg.com/assets/s167509_ll_h9_aa.png" group-title="Switzerland" tvg-id="REDBUK" tvc-guide-stationid="167509",Red Bull TV
+http://example.local/CHE-REDBUK.ts
 #EXTINF:-1 tvg-chno="118628" tvg-name="Rede Globo TV Internacional Europa HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118628_h3_aa.png" group-title="Switzerland" tvg-id="GLBEUHD" tvc-guide-stationid="118628",Rede Globo TV Internacional Europa HD
 http://example.local/CHE-GLBEUHD.ts
 #EXTINF:-1 tvg-chno="101110" tvg-name="Regional Fernsehen Oberbayern HD" tvg-logo="https://zap2it.tmsimg.com/assets/s101110_ll_h15_ac.png" group-title="Switzerland" tvg-id="REGOHD" tvc-guide-stationid="101110",Regional Fernsehen Oberbayern HD
@@ -1807,6 +1961,8 @@ http://example.local/CHE-RIKSATEU.ts
 http://example.local/CHE-RMCDECO.ts
 #EXTINF:-1 tvg-chno="87508" tvg-name="RMC Découverte HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87508_ll_h15_ab.png" group-title="Switzerland" tvg-id="RMCDH24" tvc-guide-stationid="87508",RMC Découverte HD
 http://example.local/CHE-RMCDH24.ts
+#EXTINF:-1 tvg-chno="83539" tvg-name="RMC Life" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002D1FYH.png" group-title="Switzerland" tvg-id="RMCLIFE" tvc-guide-stationid="83539",RMC Life
+http://example.local/CHE-RMCLIFE.ts
 #EXTINF:-1 tvg-chno="105855" tvg-name="RMC Sport 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105855_ll_h15_aa.png" group-title="Switzerland" tvg-id="RMCP1HD" tvc-guide-stationid="105855",RMC Sport 1 HD
 http://example.local/CHE-RMCP1HD.ts
 #EXTINF:-1 tvg-chno="90503" tvg-name="RMC Sport 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90503_ll_h15_aa.png" group-title="Switzerland" tvg-id="RMCP3HD" tvc-guide-stationid="90503",RMC Sport 3 HD
@@ -1841,6 +1997,8 @@ http://example.local/CHE-RTBFR.ts
 http://example.local/CHE-RTI1.ts
 #EXTINF:-1 tvg-chno="115870" tvg-name="RTK" tvg-logo="https://zap2it.tmsimg.com/assets/s115870_ll_h9_aa.png" group-title="Switzerland" tvg-id="RTKCRO" tvc-guide-stationid="115870",RTK
 http://example.local/CHE-RTKCRO.ts
+#EXTINF:-1 tvg-chno="78640" tvg-name="RTK 1" tvg-logo="https://zap2it.tmsimg.com/assets/s78640_ll_h15_aa.png" group-title="Switzerland" tvg-id="RTK" tvc-guide-stationid="78640",RTK 1
+http://example.local/CHE-RTK.ts
 #EXTINF:-1 tvg-chno="53956" tvg-name="RTL" tvg-logo="https://zap2it.tmsimg.com/assets/s53956_ll_h9_ac.png" group-title="Switzerland" tvg-id="RTLSCHW" tvc-guide-stationid="53956",RTL
 http://example.local/CHE-RTLSCHW.ts
 #EXTINF:-1 tvg-chno="106956" tvg-name="RTL" tvg-logo="https://zap2it.tmsimg.com/assets/s106956_ll_h9_ad.png" group-title="Switzerland" tvg-id="RTLVFKD" tvc-guide-stationid="106956",RTL
@@ -1861,6 +2019,8 @@ http://example.local/CHE-RTLCRHD.ts
 http://example.local/CHE-RTLHNS.ts
 #EXTINF:-1 tvg-chno="99530" tvg-name="RTL HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99530_ll_h15_aa.png" group-title="Switzerland" tvg-id="RTLCHHD" tvc-guide-stationid="99530",RTL HD
 http://example.local/CHE-RTLCHHD.ts
+#EXTINF:-1 tvg-chno="83641" tvg-name="RTL HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83641_ll_h9_ab.png" group-title="Switzerland" tvg-id="RTLHD" tvc-guide-stationid="83641",RTL HD
+http://example.local/CHE-RTLHD.ts
 #EXTINF:-1 tvg-chno="83964" tvg-name="RTL Living" tvg-logo="https://zap2it.tmsimg.com/assets/s83964_ll_h9_ad.png" group-title="Switzerland" tvg-id="RTLLIVG" tvc-guide-stationid="83964",RTL Living
 http://example.local/CHE-RTLLIVG.ts
 #EXTINF:-1 tvg-chno="83644" tvg-name="RTL Living HD" tvg-logo="https://logos.jesmann.com/RTLLVHD.png" group-title="Switzerland" tvg-id="RTLLVHD" tvc-guide-stationid="83644",RTL Living HD
@@ -1895,12 +2055,14 @@ http://example.local/CHE-RTL2OST.ts
 http://example.local/CHE-RTL2GRH.ts
 #EXTINF:-1 tvg-chno="99950" tvg-name="RTLZWEI HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99950_ll_h15_ab.png" group-title="Switzerland" tvg-id="RTL2CHH" tvc-guide-stationid="99950",RTLZWEI HD
 http://example.local/CHE-RTL2CHH.ts
+#EXTINF:-1 tvg-chno="83642" tvg-name="RTLZWEI HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83642_ll_h15_ac.png" group-title="Switzerland" tvg-id="RTL2HD" tvc-guide-stationid="83642",RTLZWEI HD
+http://example.local/CHE-RTL2HD.ts
 #EXTINF:-1 tvg-chno="97666" tvg-name="RTP Internacional Europe" tvg-logo="https://zap2it.tmsimg.com/assets/s97666_ll_h15_aa.png" group-title="Switzerland" tvg-id="RTPIE" tvc-guide-stationid="97666",RTP Internacional Europe
 http://example.local/CHE-RTPIE.ts
+#EXTINF:-1 tvg-chno="106171" tvg-name="RTP Notícias" tvg-logo="https://zap2it.tmsimg.com/assets/s106171_ll_h15_aa.png" group-title="Switzerland" tvg-id="RTP3" tvc-guide-stationid="106171",RTP Notícias
+http://example.local/CHE-RTP3.ts
 #EXTINF:-1 tvg-chno="113751" tvg-name="RTP3" tvg-logo="https://zap2it.tmsimg.com/assets/s113751_ll_h15_aa.png" group-title="Switzerland" tvg-id="RTP3POR" tvc-guide-stationid="113751",RTP3
 http://example.local/CHE-RTP3POR.ts
-#EXTINF:-1 tvg-chno="106171" tvg-name="RTP3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s106171_ll_h15_aa.png" group-title="Switzerland" tvg-id="RTP3" tvc-guide-stationid="106171",RTP3 Internacional
-http://example.local/CHE-RTP3.ts
 #EXTINF:-1 tvg-chno="100021" tvg-name="RTR Planeta" tvg-logo="https://zap2it.tmsimg.com/assets/s100021_ll_h9_ac.png" group-title="Switzerland" tvg-id="RTREU" tvc-guide-stationid="100021",RTR Planeta
 http://example.local/CHE-RTREU.ts
 #EXTINF:-1 tvg-chno="109356" tvg-name="RTRS TV" tvg-logo="https://zap2it.tmsimg.com/assets/s109356_ll_h15_aa.png" group-title="Switzerland" tvg-id="RTRSTV" tvc-guide-stationid="109356",RTRS TV
@@ -1923,6 +2085,8 @@ http://example.local/CHE-RTSH1.ts
 http://example.local/CHE-RTSH24.ts
 #EXTINF:-1 tvg-chno="115866" tvg-name="RTSH 3" tvg-logo="https://zap2it.tmsimg.com/assets/s115866_ll_h15_aa.png" group-title="Switzerland" tvg-id="RTSH3" tvc-guide-stationid="115866",RTSH 3
 http://example.local/CHE-RTSH3.ts
+#EXTINF:-1 tvg-chno="115866" tvg-name="RTSH satelit" tvg-logo="https://zap2it.tmsimg.com/assets/s115866_ll_h15_aa.png" group-title="Switzerland" tvg-id="RTSHSAT" tvc-guide-stationid="115866",RTSH satelit
+http://example.local/CHE-RTSHSAT.ts
 #EXTINF:-1 tvg-chno="62730" tvg-name="RTV 21" tvg-logo="https://zap2it.tmsimg.com/assets/s62730_ll_h15_aa.png" group-title="Switzerland" tvg-id="RTV21" tvc-guide-stationid="62730",RTV 21
 http://example.local/CHE-RTV21.ts
 #EXTINF:-1 tvg-chno="118737" tvg-name="RTV 21 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118737_ll_h15_aa.png" group-title="Switzerland" tvg-id="RTV21HD" tvc-guide-stationid="118737",RTV 21 HD
@@ -1983,12 +2147,16 @@ http://example.local/CHE-SCHLADX.ts
 http://example.local/CHE-SCHLGHD.ts
 #EXTINF:-1 tvg-chno="90479" tvg-name="Science et Vie TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90479_ll_h15_ab.png" group-title="Switzerland" tvg-id="ENCYCHD" tvc-guide-stationid="90479",Science et Vie TV HD
 http://example.local/CHE-ENCYCHD.ts
+#EXTINF:-1 tvg-chno="160229" tvg-name="Scooore" tvg-logo="https://zap2it.tmsimg.com/assets/s160229_ll_h15_aa.png" group-title="Switzerland" tvg-id="SCOOORE" tvc-guide-stationid="160229",Scooore
+http://example.local/CHE-SCOOORE.ts
 #EXTINF:-1 tvg-chno="52801" tvg-name="SEASONS [LES]" tvg-logo="https://zap2it.tmsimg.com/assets/s52801_ll_h9_ab.png" group-title="Switzerland" tvg-id="SEASONS" tvc-guide-stationid="52801",SEASONS [LES]
 http://example.local/CHE-SEASONS.ts
 #EXTINF:-1 tvg-chno="119777" tvg-name="Senato Italiano" tvg-logo="https://zap2it.tmsimg.com/assets/s119777_ll_h15_aa.png" group-title="Switzerland" tvg-id="SENATO" tvc-guide-stationid="119777",Senato Italiano
 http://example.local/CHE-SENATO.ts
 #EXTINF:-1 tvg-chno="150271" tvg-name="Serien+" tvg-logo="https://zap2it.tmsimg.com/assets/s150271_ll_h15_aa.png" group-title="Switzerland" tvg-id="SERPLSD" tvc-guide-stationid="150271",Serien+
 http://example.local/CHE-SERPLSD.ts
+#EXTINF:-1 tvg-chno="150270" tvg-name="Serien+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s150270_ll_h15_aa.png" group-title="Switzerland" tvg-id="SERPLHD" tvc-guide-stationid="150270",Serien+ HD
+http://example.local/CHE-SERPLHD.ts
 #EXTINF:-1 tvg-chno="90473" tvg-name="Servus TV AT" tvg-logo="https://zap2it.tmsimg.com/assets/s90473_ll_h15_aa.png" group-title="Switzerland" tvg-id="SERVUSA" tvc-guide-stationid="90473",Servus TV AT
 http://example.local/CHE-SERVUSA.ts
 #EXTINF:-1 tvg-chno="99536" tvg-name="ServusTV AT HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99536_ll_h15_aa.png" group-title="Switzerland" tvg-id="SERVAHD" tvc-guide-stationid="99536",ServusTV AT HD
@@ -2049,6 +2217,8 @@ http://example.local/CHE-SKYKGHD.ts
 http://example.local/CHE-SKYMIX.ts
 #EXTINF:-1 tvg-chno="16234" tvg-name="Sky News" tvg-logo="https://zap2it.tmsimg.com/assets/s16234_ll_h15_ad.png" group-title="Switzerland" tvg-id="SKYNEWS" tvc-guide-stationid="16234",Sky News
 http://example.local/CHE-SKYNEWS.ts
+#EXTINF:-1 tvg-chno="90642" tvg-name="Sky News HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90642_ll_h15_aa.png" group-title="Switzerland" tvg-id="SKYNWHD" tvc-guide-stationid="90642",Sky News HD
+http://example.local/CHE-SKYNWHD.ts
 #EXTINF:-1 tvg-chno="83874" tvg-name="Sky News International" tvg-logo="https://zap2it.tmsimg.com/assets/s83874_ll_h15_aa.png" group-title="Switzerland" tvg-id="SNEWSIN" tvc-guide-stationid="83874",Sky News International
 http://example.local/CHE-SNEWSIN.ts
 #EXTINF:-1 tvg-chno="101090" tvg-name="Sky One" tvg-logo="https://zap2it.tmsimg.com/assets/s101090_ll_h15_aa.png" group-title="Switzerland" tvg-id="SKY1DE" tvc-guide-stationid="101090",Sky One
@@ -2061,8 +2231,16 @@ http://example.local/CHE-SKYSCDE.ts
 http://example.local/CHE-SKY1GHD.ts
 #EXTINF:-1 tvg-chno="83740" tvg-name="Sky Sport 2 HD" tvg-logo="https://logos.jesmann.com/SKY2GHD.png" group-title="Switzerland" tvg-id="SKY2GHD" tvc-guide-stationid="83740",Sky Sport 2 HD
 http://example.local/CHE-SKY2GHD.ts
+#EXTINF:-1 tvg-chno="125281" tvg-name="Sky Sport Bundesliga" tvg-logo="https://zap2it.tmsimg.com/assets/s125281_ll_h15_ab.png" group-title="Switzerland" tvg-id="SKYBUNSD" tvc-guide-stationid="125281",Sky Sport Bundesliga
+http://example.local/CHE-SKYBUNSD.ts
 #EXTINF:-1 tvg-chno="86882" tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo="https://logos.jesmann.com/SKYBUHD.png" group-title="Switzerland" tvg-id="SKYBUHD" tvc-guide-stationid="86882",Sky Sport Bundesliga 1 HD
 http://example.local/CHE-SKYBUHD.ts
+#EXTINF:-1 tvg-chno="117522" tvg-name="Sky Sport F1 HD" tvg-logo="https://logos.jesmann.com/SKYF1DE.png" group-title="Switzerland" tvg-id="SKYF1DE" tvc-guide-stationid="117522",Sky Sport F1 HD
+http://example.local/CHE-SKYF1DE.ts
+#EXTINF:-1 tvg-chno="125287" tvg-name="Sky Sport Premier League HD" tvg-logo="https://logos.jesmann.com/SKYPLHD.png" group-title="Switzerland" tvg-id="SKYPLHD" tvc-guide-stationid="125287",Sky Sport Premier League HD
+http://example.local/CHE-SKYPLHD.ts
+#EXTINF:-1 tvg-chno="125285" tvg-name="Sky Sport Tennis" tvg-logo="https://zap2it.tmsimg.com/assets/s125285_ll_h15_ab.png" group-title="Switzerland" tvg-id="SKYTENSD" tvc-guide-stationid="125285",Sky Sport Tennis
+http://example.local/CHE-SKYTENSD.ts
 #EXTINF:-1 tvg-chno="115852" tvg-name="Sky Sports APP" tvg-logo="https://zap2it.tmsimg.com/assets/s115852_ll_h15_aa.png" group-title="Switzerland" tvg-id="SKYAPP" tvc-guide-stationid="115852",Sky Sports APP
 http://example.local/CHE-SKYAPP.ts
 #EXTINF:-1 tvg-chno="91038" tvg-name="Sky TG24" tvg-logo="https://zap2it.tmsimg.com/assets/s91038_ll_h15_ab.png" group-title="Switzerland" tvg-id="SKTG24I" tvc-guide-stationid="91038",Sky TG24
@@ -2075,6 +2253,8 @@ http://example.local/CHE-SONTVHD.ts
 http://example.local/CHE-SPIEG.ts
 #EXTINF:-1 tvg-chno="90374" tvg-name="Spiegel Geschichte HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90374_ll_h15_aa.png" group-title="Switzerland" tvg-id="SPIEGHD" tvc-guide-stationid="90374",Spiegel Geschichte HD
 http://example.local/CHE-SPIEGHD.ts
+#EXTINF:-1 tvg-chno="145217" tvg-name="Spiegel TV Konflikte" tvg-logo="https://zap2it.tmsimg.com/assets/s145217_ll_h15_ab.png" group-title="Switzerland" tvg-id="SKONF" tvc-guide-stationid="145217",Spiegel TV Konflikte
+http://example.local/CHE-SKONF.ts
 #EXTINF:-1 tvg-chno="119778" tvg-name="Sport Italia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119778_ll_h15_aa.png" group-title="Switzerland" tvg-id="SPOITHD" tvc-guide-stationid="119778",Sport Italia HD
 http://example.local/CHE-SPOITHD.ts
 #EXTINF:-1 tvg-chno="98422" tvg-name="Sport1" tvg-logo="https://zap2it.tmsimg.com/assets/s98422_ll_h15_aa.png" group-title="Switzerland" tvg-id="SPRT1CH" tvc-guide-stationid="98422",Sport1
@@ -2085,12 +2265,18 @@ http://example.local/CHE-SP1CHHD.ts
 http://example.local/CHE-SPO1HD.ts
 #EXTINF:-1 tvg-chno="83768" tvg-name="Sportdigital 1+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83768_ll_h15_ac.png" group-title="Switzerland" tvg-id="SPRT1HD" tvc-guide-stationid="83768",Sportdigital 1+ HD
 http://example.local/CHE-SPRT1HD.ts
+#EXTINF:-1 tvg-chno="99765" tvg-name="Sportdigital 1+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99765_ll_h15_ab.png" group-title="Switzerland" tvg-id="SPPHDCH" tvc-guide-stationid="99765",Sportdigital 1+ HD
+http://example.local/CHE-SPPHDCH.ts
 #EXTINF:-1 tvg-chno="152824" tvg-name="SPORTDIGITAL FUSSBALL 2 HD" group-title="Switzerland" tvg-id="SDFUS2HD" tvc-guide-stationid="152824",SPORTDIGITAL FUSSBALL 2 HD
 http://example.local/CHE-SDFUS2HD.ts
+#EXTINF:-1 tvg-chno="150066" tvg-name="Sportdigital FUSSBALL 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s150066_ll_h15_aa.png" group-title="Switzerland" tvg-id="SPDIFU2" tvc-guide-stationid="150066",Sportdigital FUSSBALL 2 HD
+http://example.local/CHE-SPDIFU2.ts
 #EXTINF:-1 tvg-chno="92464" tvg-name="SPORTDIGITAL FUSSBALL HD" tvg-logo="https://zap2it.tmsimg.com/assets/s92464_ll_h15_ab.png" group-title="Switzerland" tvg-id="SPODHD" tvc-guide-stationid="92464",SPORTDIGITAL FUSSBALL HD
 http://example.local/CHE-SPODHD.ts
 #EXTINF:-1 tvg-chno="98863" tvg-name="Sportitalia" tvg-logo="https://zap2it.tmsimg.com/assets/s98863_ll_h15_aa.png" group-title="Switzerland" tvg-id="SPORTIT" tvc-guide-stationid="98863",Sportitalia
 http://example.local/CHE-SPORTIT.ts
+#EXTINF:-1 tvg-chno="167770" tvg-name="SPORTITALIA HD" group-title="Switzerland" tvg-id="SPORITH" tvc-guide-stationid="167770",SPORTITALIA HD
+http://example.local/CHE-SPORITH.ts
 #EXTINF:-1 tvg-chno="90621" tvg-name="SR Fernsehen" tvg-logo="https://zap2it.tmsimg.com/assets/s90621_ll_h15_aa.png" group-title="Switzerland" tvg-id="SWRSR" tvc-guide-stationid="90621",SR Fernsehen
 http://example.local/CHE-SWRSR.ts
 #EXTINF:-1 tvg-chno="99511" tvg-name="SR Fernsehen HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99511_ll_h15_ab.png" group-title="Switzerland" tvg-id="SWRSRHD" tvc-guide-stationid="99511",SR Fernsehen HD
@@ -2111,10 +2297,18 @@ http://example.local/CHE-SRFZWHD.ts
 http://example.local/CHE-STARTHD.ts
 #EXTINF:-1 tvg-chno="106724" tvg-name="Star TVE" tvg-logo="https://zap2it.tmsimg.com/assets/s106724_ll_h15_ac.png" group-title="Switzerland" tvg-id="STARHD" tvc-guide-stationid="106724",Star TVE
 http://example.local/CHE-STARHD.ts
+#EXTINF:-1 tvg-chno="134111" tvg-name="Starke Frauen" tvg-logo="https://zap2it.tmsimg.com/assets/s134111_ll_h15_aa.png" group-title="Switzerland" tvg-id="STRKF" tvc-guide-stationid="134111",Starke Frauen
+http://example.local/CHE-STRKF.ts
+#EXTINF:-1 tvg-chno="131268" tvg-name="Stars in Gefahr (Stars in Danger)" tvg-logo="https://zap2it.tmsimg.com/assets/s131268_ll_h9_aa.png" group-title="Switzerland" tvg-id="STARIGE" tvc-guide-stationid="131268",Stars in Gefahr (Stars in Danger)
+http://example.local/CHE-STARIGE.ts
 #EXTINF:-1 tvg-chno="118775" tvg-name="STARS.TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118775_ll_h15_ag.png" group-title="Switzerland" tvg-id="STARSPL" tvc-guide-stationid="118775",STARS.TV HD
 http://example.local/CHE-STARSPL.ts
+#EXTINF:-1 tvg-chno="153251" tvg-name="Steiermark TV" tvg-logo="https://zap2it.tmsimg.com/assets/s153251_ll_h15_aa.png" group-title="Switzerland" tvg-id="STEIERM" tvc-guide-stationid="153251",Steiermark TV
+http://example.local/CHE-STEIERM.ts
 #EXTINF:-1 tvg-chno="130908" tvg-name="Stimmungsgarten TV" tvg-logo="https://zap2it.tmsimg.com/assets/s130908_ll_h9_ab.png" group-title="Switzerland" tvg-id="STIMGAR" tvc-guide-stationid="130908",Stimmungsgarten TV
 http://example.local/CHE-STIMGAR.ts
+#EXTINF:-1 tvg-chno="161869" tvg-name="Stimmungsgarten TV HD" group-title="Switzerland" tvg-id="STIMGHD" tvc-guide-stationid="161869",Stimmungsgarten TV HD
+http://example.local/CHE-STIMGHD.ts
 #EXTINF:-1 tvg-chno="130454" tvg-name="Stingray Djazz" tvg-logo="https://zap2it.tmsimg.com/assets/s130454_ll_h15_aa.png" group-title="Switzerland" tvg-id="STDJAZZ" tvc-guide-stationid="130454",Stingray Djazz
 http://example.local/CHE-STDJAZZ.ts
 #EXTINF:-1 tvg-chno="114731" tvg-name="Stingray Festival 4K" tvg-logo="https://zap2it.tmsimg.com/assets/s114731_ll_h9_aa.png" group-title="Switzerland" tvg-id="SFE4KUS" tvc-guide-stationid="114731",Stingray Festival 4K
@@ -2123,6 +2317,10 @@ http://example.local/CHE-SFE4KUS.ts
 http://example.local/CHE-STIFEHD.ts
 #EXTINF:-1 tvg-chno="166415" tvg-name="Stingray iConcerts HD (Switzerland)" group-title="Switzerland" tvg-id="STINGCH" tvc-guide-stationid="166415",Stingray iConcerts HD (Switzerland)
 http://example.local/CHE-STINGCH.ts
+#EXTINF:-1 tvg-chno="124282" tvg-name="Streamster" tvg-logo="https://zap2it.tmsimg.com/assets/s124282_ll_h15_aa.png" group-title="Switzerland" tvg-id="STREAMSTER" tvc-guide-stationid="124282",Streamster
+http://example.local/CHE-STREAMSTER.ts
+#EXTINF:-1 tvg-chno="145717" tvg-name="Strongman Champions League" tvg-logo="https://zap2it.tmsimg.com/assets/s145717_ll_h15_aa.png" group-title="Switzerland" tvg-id="STCHLDE" tvc-guide-stationid="145717",Strongman Champions League
+http://example.local/CHE-STCHLDE.ts
 #EXTINF:-1 tvg-chno="52814" tvg-name="Super RTL" tvg-logo="https://zap2it.tmsimg.com/assets/s52814_ll_h15_ac.png" group-title="Switzerland" tvg-id="SUPRTL" tvc-guide-stationid="52814",Super RTL
 http://example.local/CHE-SUPRTL.ts
 #EXTINF:-1 tvg-chno="55156" tvg-name="Super RTL" tvg-logo="https://zap2it.tmsimg.com/assets/s55156_ll_h15_ab.png" group-title="Switzerland" tvg-id="SUPRTLS" tvc-guide-stationid="55156",Super RTL
@@ -2261,6 +2459,8 @@ http://example.local/CHE-TELVIDE.ts
 http://example.local/CHE-TEZRHD.ts
 #EXTINF:-1 tvg-chno="134819" tvg-name="TemporaTV" tvg-logo="https://zap2it.tmsimg.com/assets/s134819_ll_h15_ab.png" group-title="Switzerland" tvg-id="TEMPORA" tvc-guide-stationid="134819",TemporaTV
 http://example.local/CHE-TEMPORA.ts
+#EXTINF:-1 tvg-chno="149333" tvg-name="Terra Mater Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s149333_ll_h15_aa.png" group-title="Switzerland" tvg-id="TMWILD" tvc-guide-stationid="149333",Terra Mater Wild
+http://example.local/CHE-TMWILD.ts
 #EXTINF:-1 tvg-chno="24462" tvg-name="TF1" tvg-logo="https://zap2it.tmsimg.com/assets/s24462_ll_h15_aa.png" group-title="Switzerland" tvg-id="TF1" tvc-guide-stationid="24462",TF1
 http://example.local/CHE-TF1.ts
 #EXTINF:-1 tvg-chno="70551" tvg-name="TF1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s70551_ll_h15_aa.png" group-title="Switzerland" tvg-id="DTF1HD" tvc-guide-stationid="70551",TF1 HD
@@ -2287,11 +2487,17 @@ http://example.local/CHE-TGCO24H.ts
 http://example.local/CHE-TGRTEU.ts
 #EXTINF:-1 tvg-chno="119498" tvg-name="TGRT Haber HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119498_ll_h15_aa.png" group-title="Switzerland" tvg-id="TGRTHHD" tvc-guide-stationid="119498",TGRT Haber HD
 http://example.local/CHE-TGRTHHD.ts
+#EXTINF:-1 tvg-chno="168510" tvg-name="That's Rock" group-title="Switzerland" tvg-id="THATSRO" tvc-guide-stationid="168510",That's Rock
+http://example.local/CHE-THATSRO.ts
+#EXTINF:-1 tvg-chno="120346" tvg-name="That's TV" tvg-logo="https://zap2it.tmsimg.com/assets/s120346_ll_h9_aa.png" group-title="Switzerland" tvg-id="THATSTV" tvc-guide-stationid="120346",That's TV
+http://example.local/CHE-THATSTV.ts
+#EXTINF:-1 tvg-chno="131027" tvg-name="Thats Melody" tvg-logo="https://zap2it.tmsimg.com/assets/s131027_ll_h15_ad.png" group-title="Switzerland" tvg-id="THAT80S" tvc-guide-stationid="131027",Thats Melody
+http://example.local/CHE-THAT80S.ts
 #EXTINF:-1 tvg-chno="83592" tvg-name="The History Channel HD" tvg-logo="https://logos.jesmann.com/HISTHDD.png" group-title="Switzerland" tvg-id="HISTHDD" tvc-guide-stationid="83592",The History Channel HD
 http://example.local/CHE-HISTHDD.ts
 #EXTINF:-1 tvg-chno="87565" tvg-name="The Museum Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s87565_ll_h15_aa.png" group-title="Switzerland" tvg-id="MUSCHAN" tvc-guide-stationid="87565",The Museum Channel
 http://example.local/CHE-MUSCHAN.ts
-#EXTINF:-1 tvg-chno="21781" tvg-name="The Word Network" tvg-logo="https://zap2it.tmsimg.com/assets/s21781_ll_h15_ac.png" group-title="Switzerland" tvg-id="WORD" tvc-guide-stationid="21781",The Word Network
+#EXTINF:-1 tvg-chno="21781" tvg-name="The Word Network" tvg-logo="https://zap2it.tmsimg.com/assets/s21781_h3_aa.png" group-title="Switzerland" tvg-id="WORD" tvc-guide-stationid="21781",The Word Network
 http://example.local/CHE-WORD.ts
 #EXTINF:-1 tvg-chno="52363" tvg-name="Tiji" tvg-logo="https://zap2it.tmsimg.com/assets/s52363_ll_h15_aa.png" group-title="Switzerland" tvg-id="TIJIFR" tvc-guide-stationid="52363",Tiji
 http://example.local/CHE-TIJIFR.ts
@@ -2321,8 +2527,16 @@ http://example.local/CHE-TOGPLUS.ts
 http://example.local/CHE-TOPC24.ts
 #EXTINF:-1 tvg-chno="84717" tvg-name="Top Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s84717_ll_h9_aa.png" group-title="Switzerland" tvg-id="TOPCRME" tvc-guide-stationid="84717",Top Crime
 http://example.local/CHE-TOPCRME.ts
+#EXTINF:-1 tvg-chno="149275" tvg-name="TOP FILME" tvg-logo="https://zap2it.tmsimg.com/assets/s149275_ll_h9_aa.png" group-title="Switzerland" tvg-id="TOPFILM" tvc-guide-stationid="149275",TOP FILME
+http://example.local/CHE-TOPFILM.ts
 #EXTINF:-1 tvg-chno="146189" tvg-name="Top News HD" group-title="Switzerland" tvg-id="TOPNALB" tvc-guide-stationid="146189",Top News HD
 http://example.local/CHE-TOPNALB.ts
+#EXTINF:-1 tvg-chno="160193" tvg-name="Top Sci-Fi" tvg-logo="https://zap2it.tmsimg.com/assets/s160193_ll_h15_ab.png" group-title="Switzerland" tvg-id="TOPSF" tvc-guide-stationid="160193",Top Sci-Fi
+http://example.local/CHE-TOPSF.ts
+#EXTINF:-1 tvg-chno="120496" tvg-name="Top Serien" tvg-logo="https://zap2it.tmsimg.com/assets/s120496_ll_h9_ab.png" group-title="Switzerland" tvg-id="CRACTION" tvc-guide-stationid="120496",Top Serien
+http://example.local/CHE-CRACTION.ts
+#EXTINF:-1 tvg-chno="124270" tvg-name="Top True Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s124270_ll_h15_aa.png" group-title="Switzerland" tvg-id="TOTRCR" tvc-guide-stationid="124270",Top True Crime
+http://example.local/CHE-TOTRCR.ts
 #EXTINF:-1 tvg-chno="52868" tvg-name="Toute L'Histoire" tvg-logo="https://zap2it.tmsimg.com/assets/s52868_ll_h15_aa.png" group-title="Switzerland" tvg-id="TOULHST" tvc-guide-stationid="52868",Toute L'Histoire
 http://example.local/CHE-TOULHST.ts
 #EXTINF:-1 tvg-chno="90485" tvg-name="Toute L'Histoire HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90485_ll_h15_aa.png" group-title="Switzerland" tvg-id="TOHIFHD" tvc-guide-stationid="90485",Toute L'Histoire HD
@@ -2357,7 +2571,7 @@ http://example.local/CHE-TRTCOHD.ts
 http://example.local/CHE-TRTMUHD.ts
 #EXTINF:-1 tvg-chno="118642" tvg-name="TRT Spor HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118642_ll_h15_aa.png" group-title="Switzerland" tvg-id="TRTSPHD" tvc-guide-stationid="118642",TRT Spor HD
 http://example.local/CHE-TRTSPHD.ts
-#EXTINF:-1 tvg-chno="77684" tvg-name="TRT Turk" tvg-logo="https://zap2it.tmsimg.com/assets/s77684_ll_h15_ab.png" group-title="Switzerland" tvg-id="TRTTURK" tvc-guide-stationid="77684",TRT Turk
+#EXTINF:-1 tvg-chno="77684" tvg-name="TRT Turk" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G7N.png" group-title="Switzerland" tvg-id="TRTTURK" tvc-guide-stationid="77684",TRT Turk
 http://example.local/CHE-TRTTURK.ts
 #EXTINF:-1 tvg-chno="104305" tvg-name="TRT World HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104305_ll_h15_aa.png" group-title="Switzerland" tvg-id="TRTWRLD" tvc-guide-stationid="104305",TRT World HD
 http://example.local/CHE-TRTWRLD.ts
@@ -2365,6 +2579,10 @@ http://example.local/CHE-TRTWRLD.ts
 http://example.local/CHE-TRTTURKHD.ts
 #EXTINF:-1 tvg-chno="31756" tvg-name="True Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s31756_ll_h15_ab.png" group-title="Switzerland" tvg-id="TRUCRUK" tvc-guide-stationid="31756",True Crime
 http://example.local/CHE-TRUCRUK.ts
+#EXTINF:-1 tvg-chno="97331" tvg-name="True Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s97331_ll_h15_ab.png" group-title="Switzerland" tvg-id="TRUCRIM" tvc-guide-stationid="97331",True Crime
+http://example.local/CHE-TRUCRIM.ts
+#EXTINF:-1 tvg-chno="37298" tvg-name="TV 5 EUROPE" group-title="Switzerland" tvg-id="37298" tvc-guide-stationid="37298",TV 5 EUROPE
+http://example.local/CHE-37298.ts
 #EXTINF:-1 tvg-chno="52906" tvg-name="TV Breizh" tvg-logo="https://zap2it.tmsimg.com/assets/s52906_ll_h15_ab.png" group-title="Switzerland" tvg-id="TVBRE" tvc-guide-stationid="52906",TV Breizh
 http://example.local/CHE-TVBRE.ts
 #EXTINF:-1 tvg-chno="97611" tvg-name="TV Breizh HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97611_ll_h15_aa.png" group-title="Switzerland" tvg-id="TVBRZHD" tvc-guide-stationid="97611",TV Breizh HD
@@ -2405,6 +2623,8 @@ http://example.local/CHE-TV24HD.ts
 http://example.local/CHE-TV24UHD.ts
 #EXTINF:-1 tvg-chno="105054" tvg-name="TV25 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105054_ll_h15_aa.png" group-title="Switzerland" tvg-id="TV25HD" tvc-guide-stationid="105054",TV25 HD
 http://example.local/CHE-TV25HD.ts
+#EXTINF:-1 tvg-chno="101755" tvg-name="TV5 Monde" tvg-logo="https://zap2it.tmsimg.com/assets/s101755_ll_h15_aa.png" group-title="Switzerland" tvg-id="TV5MENG" tvc-guide-stationid="101755",TV5 Monde
+http://example.local/CHE-TV5MENG.ts
 #EXTINF:-1 tvg-chno="56112" tvg-name="TV5 Monde (FBSM)" tvg-logo="https://zap2it.tmsimg.com/assets/s56112_ll_h15_aa.png" group-title="Switzerland" tvg-id="TV5FBSM" tvc-guide-stationid="56112",TV5 Monde (FBSM)
 http://example.local/CHE-TV5FBSM.ts
 #EXTINF:-1 tvg-chno="21495" tvg-name="TV5 Monde Europe" tvg-logo="https://zap2it.tmsimg.com/assets/s21495_ll_h15_aa.png" group-title="Switzerland" tvg-id="TV5MON" tvc-guide-stationid="21495",TV5 Monde Europe
@@ -2425,6 +2645,8 @@ http://example.local/CHE-TVCNEWS.ts
 http://example.local/CHE-TVCG1HD.ts
 #EXTINF:-1 tvg-chno="115873" tvg-name="TVCG Sat" tvg-logo="https://zap2it.tmsimg.com/assets/s115873_ll_h15_aa.png" group-title="Switzerland" tvg-id="TVCGST" tvc-guide-stationid="115873",TVCG Sat
 http://example.local/CHE-TVCGST.ts
+#EXTINF:-1 tvg-chno="124877" tvg-name="TVE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s124877_ll_h15_aa.png" group-title="Switzerland" tvg-id="TVEHD" tvc-guide-stationid="124877",TVE HD
+http://example.local/CHE-TVEHD.ts
 #EXTINF:-1 tvg-chno="90320" tvg-name="TVE Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s90320_ll_h15_aa.png" group-title="Switzerland" tvg-id="TVEINTS" tvc-guide-stationid="90320",TVE Internacional
 http://example.local/CHE-TVEINTS.ts
 #EXTINF:-1 tvg-chno="113729" tvg-name="TVE Internacional HD (Europe)" tvg-logo="https://zap2it.tmsimg.com/assets/s113729_ll_h15_aa.png" group-title="Switzerland" tvg-id="TVEINHD" tvc-guide-stationid="113729",TVE Internacional HD (Europe)
@@ -2455,10 +2677,14 @@ http://example.local/CHE-TTOONPH.ts
 http://example.local/CHE-TRKHBR.ts
 #EXTINF:-1 tvg-chno="24305" tvg-name="U&Dave" tvg-logo="https://zap2it.tmsimg.com/assets/s24305_ll_h15_ac.png" group-title="Switzerland" tvg-id="UDAVE" tvc-guide-stationid="24305",U&Dave
 http://example.local/CHE-UDAVE.ts
+#EXTINF:-1 tvg-chno="117463" tvg-name="U&Dave HD" tvg-logo="https://zap2it.tmsimg.com/assets/s117463_ll_h9_ac.png" group-title="Switzerland" tvg-id="UDAVEHD" tvc-guide-stationid="117463",U&Dave HD
+http://example.local/CHE-UDAVEHD.ts
 #EXTINF:-1 tvg-chno="117464" tvg-name="U&Drama" tvg-logo="https://zap2it.tmsimg.com/assets/s117464_ll_h15_ae.png" group-title="Switzerland" tvg-id="UDRAMA" tvc-guide-stationid="117464",U&Drama
 http://example.local/CHE-UDRAMA.ts
 #EXTINF:-1 tvg-chno="82575" tvg-name="U&Drama HD" tvg-logo="https://zap2it.tmsimg.com/assets/s82575_ll_h15_ab.png" group-title="Switzerland" tvg-id="UDRAMHD" tvc-guide-stationid="82575",U&Drama HD
 http://example.local/CHE-UDRAMHD.ts
+#EXTINF:-1 tvg-chno="138444" tvg-name="U&Yesterday" tvg-logo="https://zap2it.tmsimg.com/assets/s138444_ll_h15_aa.png" group-title="Switzerland" tvg-id="UYESTSD" tvc-guide-stationid="138444",U&Yesterday
+http://example.local/CHE-UYESTSD.ts
 #EXTINF:-1 tvg-chno="31783" tvg-name="U&Yesterday HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31783_ll_h15_ae.png" group-title="Switzerland" tvg-id="UYESTER" tvc-guide-stationid="31783",U&Yesterday HD
 http://example.local/CHE-UYESTER.ts
 #EXTINF:-1 tvg-chno="124206" tvg-name="UATV" group-title="Switzerland" tvg-id="UATVUA" tvc-guide-stationid="124206",UATV
@@ -2515,6 +2741,8 @@ http://example.local/CHE-WARNFRHD.ts
 http://example.local/CHE-WRNITHD.ts
 #EXTINF:-1 tvg-chno="119734" tvg-name="Warner TV Next HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119734_ll_h15_aa.png" group-title="Switzerland" tvg-id="WTVNEHD" tvc-guide-stationid="119734",Warner TV Next HD
 http://example.local/CHE-WTVNEHD.ts
+#EXTINF:-1 tvg-chno="161636" tvg-name="Wasabi" tvg-logo="https://zap2it.tmsimg.com/assets/s161636_ll_h15_aa.png" group-title="Switzerland" tvg-id="WASABI" tvc-guide-stationid="161636",Wasabi
+http://example.local/CHE-WASABI.ts
 #EXTINF:-1 tvg-chno="89560" tvg-name="WBTV Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s89560_ll_h15_ac.png" group-title="Switzerland" tvg-id="WBTVCOM" tvc-guide-stationid="89560",WBTV Comedy
 http://example.local/CHE-WBTVCOM.ts
 #EXTINF:-1 tvg-chno="90373" tvg-name="WBTV Comedy HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90373_ll_h15_ac.png" group-title="Switzerland" tvg-id="WBTVCOMH" tvc-guide-stationid="90373",WBTV Comedy HD
@@ -2553,12 +2781,20 @@ http://example.local/CHE-WDRMUNH.ts
 http://example.local/CHE-WDRSIEHD.ts
 #EXTINF:-1 tvg-chno="84146" tvg-name="WDR Wuppertal HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84146_ll_h15_ac.png" group-title="Switzerland" tvg-id="WDRWHD" tvc-guide-stationid="84146",WDR Wuppertal HD
 http://example.local/CHE-WDRWHD.ts
+#EXTINF:-1 tvg-chno="159443" tvg-name="wedo Amor" group-title="Switzerland" tvg-id="WEDOAMO" tvc-guide-stationid="159443",wedo Amor
+http://example.local/CHE-WEDOAMO.ts
 #EXTINF:-1 tvg-chno="135711" tvg-name="wedo big stories" tvg-logo="https://zap2it.tmsimg.com/assets/s135711_ll_h9_ab.png" group-title="Switzerland" tvg-id="WEDODE" tvc-guide-stationid="135711",wedo big stories
 http://example.local/CHE-WEDODE.ts
+#EXTINF:-1 tvg-chno="134114" tvg-name="wedo big stories" tvg-logo="https://zap2it.tmsimg.com/assets/s134114_ll_h9_ab.png" group-title="Switzerland" tvg-id="WEDBDEN" tvc-guide-stationid="134114",wedo big stories
+http://example.local/CHE-WEDBDEN.ts
 #EXTINF:-1 tvg-chno="124207" tvg-name="wedo movies" tvg-logo="https://zap2it.tmsimg.com/assets/s124207_ll_h9_aa.png" group-title="Switzerland" tvg-id="WEDOMOV" tvc-guide-stationid="124207",wedo movies
 http://example.local/CHE-WEDOMOV.ts
+#EXTINF:-1 tvg-chno="134299" tvg-name="Wedo Movies" group-title="Switzerland" tvg-id="WDMVENG" tvc-guide-stationid="134299",Wedo Movies
+http://example.local/CHE-WDMVENG.ts
 #EXTINF:-1 tvg-chno="139415" tvg-name="wedo sports" tvg-logo="https://zap2it.tmsimg.com/assets/s139415_ll_h15_aa.png" group-title="Switzerland" tvg-id="WEDOSDE" tvc-guide-stationid="139415",wedo sports
 http://example.local/CHE-WEDOSDE.ts
+#EXTINF:-1 tvg-chno="168543" tvg-name="wedotv True Stories" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002F3WMV.png" group-title="Switzerland" tvg-id="WEDOTSDE" tvc-guide-stationid="168543",wedotv True Stories
+http://example.local/CHE-WEDOTSDE.ts
 #EXTINF:-1 tvg-chno="167228" tvg-name="Weihnachtskino" group-title="Switzerland" tvg-id="WEIHKIN" tvc-guide-stationid="167228",Weihnachtskino
 http://example.local/CHE-WEIHKIN.ts
 #EXTINF:-1 tvg-chno="67200" tvg-name="Welt" tvg-logo="https://zap2it.tmsimg.com/assets/s67200_ll_h15_aa.png" group-title="Switzerland" tvg-id="WELTDE" tvc-guide-stationid="67200",Welt
@@ -2575,8 +2811,18 @@ http://example.local/CHE-WELTHDE.ts
 http://example.local/CHE-WETFERN.ts
 #EXTINF:-1 tvg-chno="106683" tvg-name="wetter.tv HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106683_ll_h15_aa.png" group-title="Switzerland" tvg-id="WETTERH" tvc-guide-stationid="106683",wetter.tv HD
 http://example.local/CHE-WETTERH.ts
+#EXTINF:-1 tvg-chno="114980" tvg-name="WION" tvg-logo="https://zap2it.tmsimg.com/assets/s114980_ll_h15_ab.png" group-title="Switzerland" tvg-id="WION" tvc-guide-stationid="114980",WION
+http://example.local/CHE-WION.ts
+#EXTINF:-1 tvg-chno="121161" tvg-name="WION HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121161_ll_h15_ab.png" group-title="Switzerland" tvg-id="WIONHDUK" tvc-guide-stationid="121161",WION HD
+http://example.local/CHE-WIONHDUK.ts
+#EXTINF:-1 tvg-chno="134231" tvg-name="World of Freesports" tvg-logo="https://zap2it.tmsimg.com/assets/s134231_ll_h9_ab.png" group-title="Switzerland" tvg-id="WOFSPDE" tvc-guide-stationid="134231",World of Freesports
+http://example.local/CHE-WOFSPDE.ts
 #EXTINF:-1 tvg-chno="144655" tvg-name="XPLORE" tvg-logo="https://zap2it.tmsimg.com/assets/s112099_ll_h15_ab.png" group-title="Switzerland" tvg-id="XPLORSD" tvc-guide-stationid="144655",XPLORE
 http://example.local/CHE-XPLORSD.ts
+#EXTINF:-1 tvg-chno="112099" tvg-name="XPLORE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s112099_ll_h15_ab.png" group-title="Switzerland" tvg-id="XPLORE" tvc-guide-stationid="112099",XPLORE HD
+http://example.local/CHE-XPLORE.ts
+#EXTINF:-1 tvg-chno="161635" tvg-name="Y'a que la veritè qui compte" tvg-logo="https://zap2it.tmsimg.com/assets/s161635_ll_h9_aa.png" group-title="Switzerland" tvg-id="YQLVER" tvc-guide-stationid="161635",Y'a que la veritè qui compte
+http://example.local/CHE-YQLVER.ts
 #EXTINF:-1 tvg-chno="119139" tvg-name="Z1 Televizija" tvg-logo="https://zap2it.tmsimg.com/assets/s119139_ll_h15_aa.png" group-title="Switzerland" tvg-id="Z1TELE" tvc-guide-stationid="119139",Z1 Televizija
 http://example.local/CHE-Z1TELE.ts
 #EXTINF:-1 tvg-chno="89319" tvg-name="Z1 TV Sljeme" tvg-logo="https://zap2it.tmsimg.com/assets/s89319_ll_h15_aa.png" group-title="Switzerland" tvg-id="Z1SLJEM" tvc-guide-stationid="89319",Z1 TV Sljeme
@@ -2599,5 +2845,7 @@ http://example.local/CHE-ZDFNGHD.ts
 http://example.local/CHE-ZICOTV.ts
 #EXTINF:-1 tvg-chno="169858" tvg-name="Zwei Music Television" group-title="Switzerland" tvg-id="ZWEMUTV" tvc-guide-stationid="169858",Zwei Music Television
 http://example.local/CHE-ZWEMUTV.ts
+#EXTINF:-1 tvg-chno="119170" tvg-name="Zwei Music Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119170_ll_h9_aa.png" group-title="Switzerland" tvg-id="TWOMUTV" tvc-guide-stationid="119170",Zwei Music Television HD
+http://example.local/CHE-TWOMUTV.ts
 #EXTINF:-1 tvg-chno="100436" tvg-name="ČT24" tvg-logo="https://zap2it.tmsimg.com/assets/s100436_ll_h15_ab.png" group-title="Switzerland" tvg-id="CT24" tvc-guide-stationid="100436",ČT24
 http://example.local/CHE-CT24.ts

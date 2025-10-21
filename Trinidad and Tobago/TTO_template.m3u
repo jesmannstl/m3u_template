@@ -43,7 +43,7 @@ http://example.local/TTO-AMCARG.ts
 http://example.local/TTO-AMCMEX.ts
 #EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Trinidad and Tobago" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
 http://example.local/TTO-AMCMXHD.ts
-#EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
+#EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
 http://example.local/TTO-ABC.ts
 #EXTINF:-1 tvg-chno="18649" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Trinidad and Tobago" tvg-id="ANIPL" tvc-guide-stationid="18649",Animal Planet
 http://example.local/TTO-ANIPL.ts
@@ -795,24 +795,24 @@ http://example.local/TTO-MTVHTLA.ts
 http://example.local/TTO-MTVLVHD.ts
 #EXTINF:-1 tvg-chno="16361" tvg-name="MTV2: Music Television" tvg-logo="https://zap2it.tmsimg.com/assets/s16361_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="MTV2" tvc-guide-stationid="16361",MTV2: Music Television
 http://example.local/TTO-MTV2.ts
+#EXTINF:-1 tvg-chno="19329" tvg-name="Music Choice '70s & '80s Favorites" tvg-logo="https://zap2it.tmsimg.com/assets/s19329_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="MC25" tvc-guide-stationid="19329",Music Choice '70s & '80s Favorites
+http://example.local/TTO-MC25.ts
+#EXTINF:-1 tvg-chno="19311" tvg-name="Music Choice Classic Rock" tvg-logo="https://zap2it.tmsimg.com/assets/s19311_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="MC18" tvc-guide-stationid="19311",Music Choice Classic Rock
+http://example.local/TTO-MC18.ts
+#EXTINF:-1 tvg-chno="19358" tvg-name="Music Choice Classical Masterpieces" tvg-logo="https://zap2it.tmsimg.com/assets/s19358_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="MC42" tvc-guide-stationid="19358",Music Choice Classical Masterpieces
+http://example.local/TTO-MC42.ts
+#EXTINF:-1 tvg-chno="19335" tvg-name="Music Choice Joyful Instrumentals" tvg-logo="https://zap2it.tmsimg.com/assets/s19335_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="MC39" tvc-guide-stationid="19335",Music Choice Joyful Instrumentals
+http://example.local/TTO-MC39.ts
+#EXTINF:-1 tvg-chno="19344" tvg-name="Music Choice R&B Classics" tvg-logo="https://zap2it.tmsimg.com/assets/s19344_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="MC09" tvc-guide-stationid="19344",Music Choice R&B Classics
+http://example.local/TTO-MC09.ts
+#EXTINF:-1 tvg-chno="31028" tvg-name="Music Choice Soundscapes" tvg-logo="https://zap2it.tmsimg.com/assets/s31028_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="MC43" tvc-guide-stationid="31028",Music Choice Soundscapes
+http://example.local/TTO-MC43.ts
+#EXTINF:-1 tvg-chno="26250" tvg-name="Music Choice Today's R&B" tvg-logo="https://zap2it.tmsimg.com/assets/s26250_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="MC10" tvc-guide-stationid="26250",Music Choice Today's R&B
+http://example.local/TTO-MC10.ts
 #EXTINF:-1 tvg-chno="31027" tvg-name="Music Choice: Bluegrass" group-title="Trinidad and Tobago" tvg-id="BLUEGR" tvc-guide-stationid="31027",Music Choice: Bluegrass
 http://example.local/TTO-BLUEGR.ts
-#EXTINF:-1 tvg-chno="19311" tvg-name="Music Choice: Classic Rock" tvg-logo="https://zap2it.tmsimg.com/assets/s19311_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="MC18" tvc-guide-stationid="19311",Music Choice: Classic Rock
-http://example.local/TTO-MC18.ts
-#EXTINF:-1 tvg-chno="19344" tvg-name="Music Choice: R&B Classics" tvg-logo="https://zap2it.tmsimg.com/assets/s19344_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="MC09" tvc-guide-stationid="19344",Music Choice: R&B Classics
-http://example.local/TTO-MC09.ts
-#EXTINF:-1 tvg-chno="26250" tvg-name="Music Choice: R&B Soul" tvg-logo="https://zap2it.tmsimg.com/assets/s26250_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="MC10" tvc-guide-stationid="26250",Music Choice: R&B Soul
-http://example.local/TTO-MC10.ts
-#EXTINF:-1 tvg-chno="31028" tvg-name="Music Choice: Soundscapes" tvg-logo="https://zap2it.tmsimg.com/assets/s31028_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="MC43" tvc-guide-stationid="31028",Music Choice: Soundscapes
-http://example.local/TTO-MC43.ts
-#EXTINF:-1 tvg-chno="19358" tvg-name="Music Choice: Stage & Screen" tvg-logo="https://zap2it.tmsimg.com/assets/s19358_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="MC42" tvc-guide-stationid="19358",Music Choice: Stage & Screen
-http://example.local/TTO-MC42.ts
 #EXTINF:-1 tvg-chno="26247" tvg-name="Music Choice: Tejano" group-title="Trinidad and Tobago" tvg-id="MCTEJ" tvc-guide-stationid="26247",Music Choice: Tejano
 http://example.local/TTO-MCTEJ.ts
-#EXTINF:-1 tvg-chno="19329" tvg-name="Music Choice: Toddler Tunes" tvg-logo="https://zap2it.tmsimg.com/assets/s19329_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="MC25" tvc-guide-stationid="19329",Music Choice: Toddler Tunes
-http://example.local/TTO-MC25.ts
-#EXTINF:-1 tvg-chno="19335" tvg-name="Music Choice: Tropicales" tvg-logo="https://zap2it.tmsimg.com/assets/s19335_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="MC39" tvc-guide-stationid="19335",Music Choice: Tropicales
-http://example.local/TTO-MC39.ts
 #EXTINF:-1 tvg-chno="74559" tvg-name="My Destination TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s74559_ll_h9_aa.png" group-title="Trinidad and Tobago" tvg-id="MYDESHD" tvc-guide-stationid="74559",My Destination TV HD
 http://example.local/TTO-MYDESHD.ts
 #EXTINF:-1 tvg-chno="10991" tvg-name="National Broadcasting Company (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="Trinidad and Tobago" tvg-id="NBC" tvc-guide-stationid="10991",National Broadcasting Company (NBC)
@@ -1231,7 +1231,7 @@ http://example.local/TTO-TRAV.ts
 http://example.local/TTO-TRAVHD.ts
 #EXTINF:-1 tvg-chno="11187" tvg-name="The Weather Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11187_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="WEATH" tvc-guide-stationid="11187",The Weather Channel
 http://example.local/TTO-WEATH.ts
-#EXTINF:-1 tvg-chno="21781" tvg-name="The Word Network" tvg-logo="https://zap2it.tmsimg.com/assets/s21781_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="WORD" tvc-guide-stationid="21781",The Word Network
+#EXTINF:-1 tvg-chno="21781" tvg-name="The Word Network" tvg-logo="https://zap2it.tmsimg.com/assets/s21781_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="WORD" tvc-guide-stationid="21781",The Word Network
 http://example.local/TTO-WORD.ts
 #EXTINF:-1 tvg-chno="67579" tvg-name="TikTok Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s67579_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="SMUS43" tvc-guide-stationid="67579",TikTok Radio
 http://example.local/TTO-SMUS43.ts
@@ -1273,7 +1273,7 @@ http://example.local/TTO-TNCSTEN.ts
 http://example.local/TTO-TLCANZ.ts
 #EXTINF:-1 tvg-chno="14767" tvg-name="Trinity Broadcasting Network" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y4QD.png" group-title="Trinidad and Tobago" tvg-id="TBN" tvc-guide-stationid="14767",Trinity Broadcasting Network
 http://example.local/TTO-TBN.ts
-#EXTINF:-1 tvg-chno="59539" tvg-name="Trinity Broadcasting Network HD (TBN)" tvg-logo="https://zap2it.tmsimg.com/assets/s14767_ll_h15_ad.png" group-title="Trinidad and Tobago" tvg-id="TBNHD" tvc-guide-stationid="59539",Trinity Broadcasting Network HD (TBN)
+#EXTINF:-1 tvg-chno="59539" tvg-name="Trinity Broadcasting Network HD (TBN)" tvg-logo="https://zap2it.tmsimg.com/assets/s14767_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="TBNHD" tvc-guide-stationid="59539",Trinity Broadcasting Network HD (TBN)
 http://example.local/TTO-TBNHD.ts
 #EXTINF:-1 tvg-chno="83164" tvg-name="Trinity TV" group-title="Trinidad and Tobago" tvg-id="TCN" tvc-guide-stationid="83164",Trinity TV
 http://example.local/TTO-TCN.ts
@@ -1391,7 +1391,7 @@ http://example.local/TTO-WSVNDT.ts
 http://example.local/TTO-WTVJ.ts
 #EXTINF:-1 tvg-chno="21219" tvg-name="WTVJ-DT (NBC)" tvg-logo="https://logos.jesmann.com/wtvjdt.png" group-title="Trinidad and Tobago" tvg-id="WTVJDT" tvc-guide-stationid="21219",WTVJ-DT (NBC)
 http://example.local/TTO-WTVJDT.ts
-#EXTINF:-1 tvg-chno="11760" tvg-name="WWOR TV Channel 9 (Local New York) (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/s51307_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="WWOR" tvc-guide-stationid="11760",WWOR TV Channel 9 (Local New York) (MNT)
+#EXTINF:-1 tvg-chno="11760" tvg-name="WWOR TV Channel 9 (Local New York) (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y3ZQ.png" group-title="Trinidad and Tobago" tvg-id="WWOR" tvc-guide-stationid="11760",WWOR TV Channel 9 (Local New York) (MNT)
 http://example.local/TTO-WWOR.ts
 #EXTINF:-1 tvg-chno="26566" tvg-name="WWOR-DT (MNT)" tvg-logo="https://logos.jesmann.com/wwordt.png" group-title="Trinidad and Tobago" tvg-id="WWORDT" tvc-guide-stationid="26566",WWOR-DT (MNT)
 http://example.local/TTO-WWORDT.ts

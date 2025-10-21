@@ -7,12 +7,14 @@ http://example.local/ESP-1P1INT.ts
 http://example.local/ESP-1PLUS1UKR.ts
 #EXTINF:-1 tvg-chno="53409" tvg-name="1-2-3.tv" tvg-logo="https://zap2it.tmsimg.com/assets/s53409_ll_h15_ac.png" group-title="Spain" tvg-id="123TVGR" tvc-guide-stationid="53409",1-2-3.tv
 http://example.local/ESP-123TVGR.ts
-#EXTINF:-1 tvg-chno="90494" tvg-name="1-2-3.tv HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90494_ll_h15_ab.png" group-title="Spain" tvg-id="123TVGH" tvc-guide-stationid="90494",1-2-3.tv HD
+#EXTINF:-1 tvg-chno="90494" tvg-name="1-2-3.tv HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002F84SJ.png" group-title="Spain" tvg-id="123TVGH" tvc-guide-stationid="90494",1-2-3.tv HD
 http://example.local/ESP-123TVGH.ts
 #EXTINF:-1 tvg-chno="87155" tvg-name="2M Maroc" tvg-logo="https://zap2it.tmsimg.com/assets/s87155_ll_h9_aa.png" group-title="Spain" tvg-id="2MAROC" tvc-guide-stationid="87155",2M Maroc
 http://example.local/ESP-2MAROC.ts
 #EXTINF:-1 tvg-chno="90340" tvg-name="324 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90340_ll_h15_aa.png" group-title="Spain" tvg-id="324CAT" tvc-guide-stationid="90340",324 HD
 http://example.local/ESP-324CAT.ts
+#EXTINF:-1 tvg-chno="90340" tvg-name="3CatInfo" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002BG5FV.png" group-title="Spain" tvg-id="3CATINF" tvc-guide-stationid="90340",3CatInfo
+http://example.local/ESP-3CATINF.ts
 #EXTINF:-1 tvg-chno="66621" tvg-name="3sat" tvg-logo="https://zap2it.tmsimg.com/assets/s66621_ll_h15_ac.png" group-title="Spain" tvg-id="3SATGEH" tvc-guide-stationid="66621",3sat
 http://example.local/ESP-3SATGEH.ts
 #EXTINF:-1 tvg-chno="83545" tvg-name="3sat HD" tvg-logo="https://logos.jesmann.com/3SATHD.png" group-title="Spain" tvg-id="3SATHD" tvc-guide-stationid="83545",3sat HD
@@ -689,6 +691,8 @@ http://example.local/ESP-NICHDES.ts
 http://example.local/ESP-NKUR.ts
 #EXTINF:-1 tvg-chno="83908" tvg-name="Niederbayern TV Deggendorf / Straubing" tvg-logo="https://zap2it.tmsimg.com/assets/s83908_ll_h9_ad.png" group-title="Spain" tvg-id="DONAUTV" tvc-guide-stationid="83908",Niederbayern TV Deggendorf / Straubing
 http://example.local/ESP-DONAUTV.ts
+#EXTINF:-1 tvg-chno="83908" tvg-name="Niederbayern TV Deggendorf / Straubing" tvg-logo="https://zap2it.tmsimg.com/assets/s83908_ll_h9_ad.png" group-title="Spain" tvg-id="NIEDBYDS" tvc-guide-stationid="83908",Niederbayern TV Deggendorf / Straubing
+http://example.local/ESP-NIEDBYDS.ts
 #EXTINF:-1 tvg-chno="97743" tvg-name="Niederbayern TV Landshut" tvg-logo="https://zap2it.tmsimg.com/assets/s97743_ll_h15_ab.png" group-title="Spain" tvg-id="NBTVL" tvc-guide-stationid="97743",Niederbayern TV Landshut
 http://example.local/ESP-NBTVL.ts
 #EXTINF:-1 tvg-chno="83915" tvg-name="Niederbayern TV Passau" tvg-logo="https://zap2it.tmsimg.com/assets/s83915_ll_h9_ad.png" group-title="Spain" tvg-id="NBTVP" tvc-guide-stationid="83915",Niederbayern TV Passau

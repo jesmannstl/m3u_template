@@ -123,8 +123,12 @@ http://example.local/IRL-BESTDIR.ts
 http://example.local/IRL-BFBSR1.ts
 #EXTINF:-1 tvg-chno="101972" tvg-name="BLAZE" tvg-logo="https://zap2it.tmsimg.com/assets/s101972_ll_h15_aa.png" group-title="Ireland" tvg-id="BLAZUK" tvc-guide-stationid="101972",BLAZE
 http://example.local/IRL-BLAZUK.ts
+#EXTINF:-1 tvg-chno="101284" tvg-name="Bloomberg" tvg-logo="https://zap2it.tmsimg.com/assets/s101284_ll_h15_aa.png" group-title="Ireland" tvg-id="BLOOMME" tvc-guide-stationid="101284",Bloomberg
+http://example.local/IRL-BLOOMME.ts
 #EXTINF:-1 tvg-chno="20711" tvg-name="Bloomberg TV HD (UK)" tvg-logo="https://zap2it.tmsimg.com/assets/s20711_ll_h15_ab.png" group-title="Ireland" tvg-id="BLOMUK" tvc-guide-stationid="20711",Bloomberg TV HD (UK)
 http://example.local/IRL-BLOMUK.ts
+#EXTINF:-1 tvg-chno="21883" tvg-name="Boomerang" tvg-logo="https://zap2it.tmsimg.com/assets/s21883_ll_h15_ab.png" group-title="Ireland" tvg-id="BOOM" tvc-guide-stationid="21883",Boomerang
+http://example.local/IRL-BOOM.ts
 #EXTINF:-1 tvg-chno="48928" tvg-name="Boomerang +1" tvg-logo="https://zap2it.tmsimg.com/assets/s48928_ll_h15_aa.png" group-title="Ireland" tvg-id="BOOMRP1" tvc-guide-stationid="48928",Boomerang +1
 http://example.local/IRL-BOOMRP1.ts
 #EXTINF:-1 tvg-chno="24341" tvg-name="Boomerang HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24341_ll_h15_ab.png" group-title="Ireland" tvg-id="BOOMRG" tvc-guide-stationid="24341",Boomerang HD
@@ -263,6 +267,8 @@ http://example.local/IRL-DISTUP1.ts
 http://example.local/IRL-DMAXE.ts
 #EXTINF:-1 tvg-chno="78765" tvg-name="DocuBox" tvg-logo="https://zap2it.tmsimg.com/assets/s78765_ll_h15_aa.png" group-title="Ireland" tvg-id="DOCBOX" tvc-guide-stationid="78765",DocuBox
 http://example.local/IRL-DOCBOX.ts
+#EXTINF:-1 tvg-chno="135426" tvg-name="Dreamworks" group-title="Ireland" tvg-id="DRWOPHL" tvc-guide-stationid="135426",Dreamworks
+http://example.local/IRL-DRWOPHL.ts
 #EXTINF:-1 tvg-chno="106353" tvg-name="Dublin FM 104" tvg-logo="https://zap2it.tmsimg.com/assets/s106353_ll_h9_aa.png" group-title="Ireland" tvg-id="DUBFM" tvc-guide-stationid="106353",Dublin FM 104
 http://example.local/IRL-DUBFM.ts
 #EXTINF:-1 tvg-chno="118530" tvg-name="Dunamis TV" tvg-logo="https://zap2it.tmsimg.com/assets/s118530_ll_h9_aa.png" group-title="Ireland" tvg-id="DUNAMIS" tvc-guide-stationid="118530",Dunamis TV
@@ -323,6 +329,8 @@ http://example.local/IRL-FOODIRE.ts
 http://example.local/IRL-FOODEUR.ts
 #EXTINF:-1 tvg-chno="55670" tvg-name="Food Network +1" tvg-logo="https://zap2it.tmsimg.com/assets/s55670_ll_h15_ab.png" group-title="Ireland" tvg-id="FOODNP1" tvc-guide-stationid="55670",Food Network +1
 http://example.local/IRL-FOODNP1.ts
+#EXTINF:-1 tvg-chno="159111" tvg-name="France 24" tvg-logo="https://zap2it.tmsimg.com/assets/s159111_ll_h15_aa.png" group-title="Ireland" tvg-id="FR24ENCMS" tvc-guide-stationid="159111",France 24
+http://example.local/IRL-FR24ENCMS.ts
 #EXTINF:-1 tvg-chno="122442" tvg-name="France 24 English" tvg-logo="https://zap2it.tmsimg.com/assets/s122442_ll_h15_aa.png" group-title="Ireland" tvg-id="FR24ENS" tvc-guide-stationid="122442",France 24 English
 http://example.local/IRL-FR24ENS.ts
 #EXTINF:-1 tvg-chno="60961" tvg-name="France 24 English HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60961_ll_h9_aa.png" group-title="Ireland" tvg-id="FR24EN" tvc-guide-stationid="60961",France 24 English HD
@@ -337,6 +345,8 @@ http://example.local/IRL-GAMEPLHD.ts
 http://example.local/IRL-GBNEWS.ts
 #EXTINF:-1 tvg-chno="72305" tvg-name="Gemporia" tvg-logo="https://zap2it.tmsimg.com/assets/s72305_ll_h9_aa.png" group-title="Ireland" tvg-id="GEMP" tvc-guide-stationid="72305",Gemporia
 http://example.local/IRL-GEMP.ts
+#EXTINF:-1 tvg-chno="27993" tvg-name="GEMPORIA HD" tvg-logo="https://zap2it.tmsimg.com/assets/s27993_ll_h15_ab.png" group-title="Ireland" tvg-id="GEMPORIAHD" tvc-guide-stationid="27993",GEMPORIA HD
+http://example.local/IRL-GEMPORIAHD.ts
 #EXTINF:-1 tvg-chno="27993" tvg-name="Gems TV" tvg-logo="https://zap2it.tmsimg.com/assets/s27993_ll_h15_ab.png" group-title="Ireland" tvg-id="GEMSTV" tvc-guide-stationid="27993",Gems TV
 http://example.local/IRL-GEMSTV.ts
 #EXTINF:-1 tvg-chno="58696" tvg-name="Geo News" tvg-logo="https://zap2it.tmsimg.com/assets/s58696_ll_h15_ac.png" group-title="Ireland" tvg-id="GEONEWS" tvc-guide-stationid="58696",Geo News
@@ -349,14 +359,16 @@ http://example.local/IRL-GINXTV.ts
 http://example.local/IRL-GODCH.ts
 #EXTINF:-1 tvg-chno="24442" tvg-name="Gold Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s24442_ll_h15_ab.png" group-title="Ireland" tvg-id="GOLDRAD" tvc-guide-stationid="24442",Gold Radio
 http://example.local/IRL-GOLDRAD.ts
-#EXTINF:-1 tvg-chno="46306" tvg-name="Great! Action" tvg-logo="https://zap2it.tmsimg.com/assets/s46306_ll_h15_ad.png" group-title="Ireland" tvg-id="GRTMACT" tvc-guide-stationid="46306",Great! Action
+#EXTINF:-1 tvg-chno="46306" tvg-name="Great! Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027ESHS.png" group-title="Ireland" tvg-id="GRTMACT" tvc-guide-stationid="46306",Great! Action
 http://example.local/IRL-GRTMACT.ts
+#EXTINF:-1 tvg-chno="44717" tvg-name="Great! Christmas" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BNYJ.png" group-title="Ireland" tvg-id="GREATRO" tvc-guide-stationid="44717",Great! Christmas
+http://example.local/IRL-GREATRO.ts
 #EXTINF:-1 tvg-chno="81450" tvg-name="Great! Mystery" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BMG3.png" group-title="Ireland" tvg-id="GRETMYS" tvc-guide-stationid="81450",Great! Mystery
 http://example.local/IRL-GRETMYS.ts
-#EXTINF:-1 tvg-chno="44717" tvg-name="GREAT! Romance" tvg-logo="https://zap2it.tmsimg.com/assets/s44717_ll_h15_af.png" group-title="Ireland" tvg-id="GREATRO" tvc-guide-stationid="44717",GREAT! Romance
-http://example.local/IRL-GREATRO.ts
-#EXTINF:-1 tvg-chno="57747" tvg-name="GREAT! tv" tvg-logo="https://zap2it.tmsimg.com/assets/s57747_h3_bb.png" group-title="Ireland" tvg-id="GREATUK" tvc-guide-stationid="57747",GREAT! tv
+#EXTINF:-1 tvg-chno="57747" tvg-name="Great! TV" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027EKW0.png" group-title="Ireland" tvg-id="GREATUK" tvc-guide-stationid="57747",Great! TV
 http://example.local/IRL-GREATUK.ts
+#EXTINF:-1 tvg-chno="101065" tvg-name="hayu" tvg-logo="https://zap2it.tmsimg.com/assets/s101065_ll_h15_aa.png" group-title="Ireland" tvg-id="HAYUAVM" tvc-guide-stationid="101065",hayu
+http://example.local/IRL-HAYUAVM.ts
 #EXTINF:-1 tvg-chno="69978" tvg-name="Heart 80s" tvg-logo="https://zap2it.tmsimg.com/assets/s69978_ll_h15_aa.png" group-title="Ireland" tvg-id="HEART80" tvc-guide-stationid="69978",Heart 80s
 http://example.local/IRL-HEART80.ts
 #EXTINF:-1 tvg-chno="24467" tvg-name="Heart FM" tvg-logo="https://zap2it.tmsimg.com/assets/s24467_ll_h15_aa.png" group-title="Ireland" tvg-id="HEART" tvc-guide-stationid="24467",Heart FM
@@ -441,6 +453,8 @@ http://example.local/IRL-MUTV.ts
 http://example.local/IRL-MUTVHD.ts
 #EXTINF:-1 tvg-chno="33883" tvg-name="MATV NATIONAL" tvg-logo="https://zap2it.tmsimg.com/assets/s33883_ll_h9_aa.png" group-title="Ireland" tvg-id="MATVNAT" tvc-guide-stationid="33883",MATV NATIONAL
 http://example.local/IRL-MATVNAT.ts
+#EXTINF:-1 tvg-chno="135438" tvg-name="Moonbug Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s135438_ll_h15_aa.png" group-title="Ireland" tvg-id="MOONPHL" tvc-guide-stationid="135438",Moonbug Kids
+http://example.local/IRL-MOONPHL.ts
 #EXTINF:-1 tvg-chno="47657" tvg-name="More 4" tvg-logo="https://zap2it.tmsimg.com/assets/s47657_ll_h15_ab.png" group-title="Ireland" tvg-id="MORE4" tvc-guide-stationid="47657",More 4
 http://example.local/IRL-MORE4.ts
 #EXTINF:-1 tvg-chno="82858" tvg-name="More 4 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s82858_ll_h15_ab.png" group-title="Ireland" tvg-id="MORE4HD" tvc-guide-stationid="82858",More 4 HD
@@ -451,6 +465,8 @@ http://example.local/IRL-MORE4P1.ts
 http://example.local/IRL-MOVIE24.ts
 #EXTINF:-1 tvg-chno="52795" tvg-name="Movies 24+" tvg-logo="https://zap2it.tmsimg.com/assets/s52795_ll_h15_aa.png" group-title="Ireland" tvg-id="MOV24P" tvc-guide-stationid="52795",Movies 24+
 http://example.local/IRL-MOV24P.ts
+#EXTINF:-1 tvg-chno="100301" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s100301_ll_h15_aa.png" group-title="Ireland" tvg-id="MTVMC" tvc-guide-stationid="100301",MTV
+http://example.local/IRL-MTVMC.ts
 #EXTINF:-1 tvg-chno="56245" tvg-name="MTV 00s Europe" tvg-logo="https://zap2it.tmsimg.com/assets/s56245_ll_h15_ab.png" group-title="Ireland" tvg-id="MTV00EU" tvc-guide-stationid="56245",MTV 00s Europe
 http://example.local/IRL-MTV00EU.ts
 #EXTINF:-1 tvg-chno="24170" tvg-name="MTV 80s UK" tvg-logo="https://zap2it.tmsimg.com/assets/s24170_ll_h9_ad.png" group-title="Ireland" tvg-id="MTV80UK" tvc-guide-stationid="24170",MTV 80s UK
@@ -499,6 +515,8 @@ http://example.local/IRL-NHKWLDH.ts
 http://example.local/IRL-INNHKWJCMS.ts
 #EXTINF:-1 tvg-chno="116452" tvg-name="Nick Jr." tvg-logo="https://zap2it.tmsimg.com/assets/s116452_ll_h15_ab.png" group-title="Ireland" tvg-id="NICJIRE" tvc-guide-stationid="116452",Nick Jr.
 http://example.local/IRL-NICJIRE.ts
+#EXTINF:-1 tvg-chno="80163" tvg-name="Nick Jr." tvg-logo="https://zap2it.tmsimg.com/assets/s80163_ll_h15_aa.png" group-title="Ireland" tvg-id="NICKJGL" tvc-guide-stationid="80163",Nick Jr.
+http://example.local/IRL-NICKJGL.ts
 #EXTINF:-1 tvg-chno="97286" tvg-name="Nick Jr. +1" tvg-logo="https://zap2it.tmsimg.com/assets/s97286_ll_h15_ab.png" group-title="Ireland" tvg-id="NICKJR1" tvc-guide-stationid="97286",Nick Jr. +1
 http://example.local/IRL-NICKJR1.ts
 #EXTINF:-1 tvg-chno="105143" tvg-name="Nick Jr. HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105143_ll_h15_ab.png" group-title="Ireland" tvg-id="NKJRUKH" tvc-guide-stationid="105143",Nick Jr. HD
@@ -511,6 +529,8 @@ http://example.local/IRL-NICKJR.ts
 http://example.local/IRL-NICK.ts
 #EXTINF:-1 tvg-chno="116453" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s116453_ll_h15_ab.png" group-title="Ireland" tvg-id="NICKIRE" tvc-guide-stationid="116453",Nickelodeon
 http://example.local/IRL-NICKIRE.ts
+#EXTINF:-1 tvg-chno="100403" tvg-name="Nickelodeon" group-title="Ireland" tvg-id="NICKLMC" tvc-guide-stationid="100403",Nickelodeon
+http://example.local/IRL-NICKLMC.ts
 #EXTINF:-1 tvg-chno="97277" tvg-name="Nickelodeon +1" tvg-logo="https://zap2it.tmsimg.com/assets/s97277_ll_h15_ab.png" group-title="Ireland" tvg-id="NICKP1" tvc-guide-stationid="97277",Nickelodeon +1
 http://example.local/IRL-NICKP1.ts
 #EXTINF:-1 tvg-chno="69261" tvg-name="Nickelodeon HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69261_ll_h15_ab.png" group-title="Ireland" tvg-id="NICKHD" tvc-guide-stationid="69261",Nickelodeon HD
@@ -529,6 +549,8 @@ http://example.local/IRL-OIRETV.ts
 http://example.local/IRL-OIRETVSKY.ts
 #EXTINF:-1 tvg-chno="24659" tvg-name="Panjab Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s24659_ll_h9_ac.png" group-title="Ireland" tvg-id="PANJAB" tvc-guide-stationid="24659",Panjab Radio
 http://example.local/IRL-PANJAB.ts
+#EXTINF:-1 tvg-chno="106214" tvg-name="Paramount" tvg-logo="https://zap2it.tmsimg.com/assets/s106214_ll_h15_aa.png" group-title="Ireland" tvg-id="PARALN" tvc-guide-stationid="106214",Paramount
+http://example.local/IRL-PARALN.ts
 #EXTINF:-1 tvg-chno="133885" tvg-name="PBC" group-title="Ireland" tvg-id="PBC" tvc-guide-stationid="133885",PBC
 http://example.local/IRL-PBC.ts
 #EXTINF:-1 tvg-chno="73510" tvg-name="PBS America" tvg-logo="https://zap2it.tmsimg.com/assets/s73510_ll_h15_ab.png" group-title="Ireland" tvg-id="PBSUKVM" tvc-guide-stationid="73510",PBS America
@@ -549,10 +571,14 @@ http://example.local/IRL-POPP1.ts
 http://example.local/IRL-POPMXUK.ts
 #EXTINF:-1 tvg-chno="103019" tvg-name="Pop Max +1" tvg-logo="https://zap2it.tmsimg.com/assets/s103019_ll_h15_ac.png" group-title="Ireland" tvg-id="POPMXP1" tvc-guide-stationid="103019",Pop Max +1
 http://example.local/IRL-POPMXP1.ts
+#EXTINF:-1 tvg-chno="121046" tvg-name="Premier Sports 1" tvg-logo="https://zap2it.tmsimg.com/assets/s121046_ll_h15_aa.png" group-title="Ireland" tvg-id="PRSPSKY" tvc-guide-stationid="121046",Premier Sports 1
+http://example.local/IRL-PRSPSKY.ts
 #EXTINF:-1 tvg-chno="79027" tvg-name="Premier Sports 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s79027_ll_h15_ah.png" group-title="Ireland" tvg-id="PRMSPVM" tvc-guide-stationid="79027",Premier Sports 1 HD
 http://example.local/IRL-PRMSPVM.ts
 #EXTINF:-1 tvg-chno="125231" tvg-name="Premier Sports 1 ROI" tvg-logo="https://zap2it.tmsimg.com/assets/s125231_ll_h15_aa.png" group-title="Ireland" tvg-id="PRS1IR" tvc-guide-stationid="125231",Premier Sports 1 ROI
 http://example.local/IRL-PRS1IR.ts
+#EXTINF:-1 tvg-chno="109163" tvg-name="Premier Sports 2" group-title="Ireland" tvg-id="PRMSP2VM" tvc-guide-stationid="109163",Premier Sports 2
+http://example.local/IRL-PRMSP2VM.ts
 #EXTINF:-1 tvg-chno="109162" tvg-name="Premier Sports 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s109162_ll_h15_ab.png" group-title="Ireland" tvg-id="PREMSP2" tvc-guide-stationid="109162",Premier Sports 2 HD
 http://example.local/IRL-PREMSP2.ts
 #EXTINF:-1 tvg-chno="125232" tvg-name="Premier Sports 2 ROI" tvg-logo="https://zap2it.tmsimg.com/assets/s125232_ll_h15_aa.png" group-title="Ireland" tvg-id="PRS2IR" tvc-guide-stationid="125232",Premier Sports 2 ROI
@@ -731,6 +757,8 @@ http://example.local/IRL-SKHISHD.ts
 http://example.local/IRL-SKYINTR.ts
 #EXTINF:-1 tvg-chno="133812" tvg-name="Sky Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s133812_ll_h15_aa.png" group-title="Ireland" tvg-id="SKYKIDS" tvc-guide-stationid="133812",Sky Kids
 http://example.local/IRL-SKYKIDS.ts
+#EXTINF:-1 tvg-chno="133813" tvg-name="Sky Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s133813_ll_h15_aa.png" group-title="Ireland" tvg-id="SKYKDVM" tvc-guide-stationid="133813",Sky Kids
+http://example.local/IRL-SKYKDVM.ts
 #EXTINF:-1 tvg-chno="120545" tvg-name="Sky Max HD" tvg-logo="https://zap2it.tmsimg.com/assets/s120545_ll_h9_ad.png" group-title="Ireland" tvg-id="SKYMAX" tvc-guide-stationid="120545",Sky Max HD
 http://example.local/IRL-SKYMAX.ts
 #EXTINF:-1 tvg-chno="120546" tvg-name="Sky Max SD" tvg-logo="https://zap2it.tmsimg.com/assets/s120546_ll_h9_aa.png" group-title="Ireland" tvg-id="SKMXSD" tvc-guide-stationid="120546",Sky Max SD
@@ -761,6 +789,8 @@ http://example.local/IRL-SKYFI.ts
 http://example.local/IRL-SKYFHD.ts
 #EXTINF:-1 tvg-chno="16235" tvg-name="Sky Showcase" tvg-logo="https://zap2it.tmsimg.com/assets/s16235_ll_h15_ac.png" group-title="Ireland" tvg-id="SKYSHO" tvc-guide-stationid="16235",Sky Showcase
 http://example.local/IRL-SKYSHO.ts
+#EXTINF:-1 tvg-chno="121074" tvg-name="Sky Showcase" tvg-logo="https://zap2it.tmsimg.com/assets/s121074_ll_h15_aa.png" group-title="Ireland" tvg-id="SKYSHOSKY" tvc-guide-stationid="121074",Sky Showcase
+http://example.local/IRL-SKYSHOSKY.ts
 #EXTINF:-1 tvg-chno="70698" tvg-name="Sky Showcase +1" tvg-logo="https://zap2it.tmsimg.com/assets/s70698_ll_h9_as.png" group-title="Ireland" tvg-id="SKSHP1" tvc-guide-stationid="70698",Sky Showcase +1
 http://example.local/IRL-SKSHP1.ts
 #EXTINF:-1 tvg-chno="49611" tvg-name="Sky Showcase HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49611_ll_h9_as.png" group-title="Ireland" tvg-id="SKSHHD" tvc-guide-stationid="49611",Sky Showcase HD
@@ -769,6 +799,8 @@ http://example.local/IRL-SKSHHD.ts
 http://example.local/IRL-SKYSHOI.ts
 #EXTINF:-1 tvg-chno="125285" tvg-name="Sky Sport Tennis" tvg-logo="https://zap2it.tmsimg.com/assets/s125285_ll_h15_ab.png" group-title="Ireland" tvg-id="SKYTENSD" tvc-guide-stationid="125285",Sky Sport Tennis
 http://example.local/IRL-SKYTENSD.ts
+#EXTINF:-1 tvg-chno="104845" tvg-name="Sky Sport UHD" tvg-logo="https://logos.jesmann.com/SKYSPUH.png" group-title="Ireland" tvg-id="SKYSPUH" tvc-guide-stationid="104845",Sky Sport UHD
+http://example.local/IRL-SKYSPUH.ts
 #EXTINF:-1 tvg-chno="19038" tvg-name="Sky Sports Action" tvg-logo="https://zap2it.tmsimg.com/assets/s19038_ll_h15_ab.png" group-title="Ireland" tvg-id="SSPOAC" tvc-guide-stationid="19038",Sky Sports Action
 http://example.local/IRL-SSPOAC.ts
 #EXTINF:-1 tvg-chno="87577" tvg-name="Sky Sports Action HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87577_ll_h15_aa.png" group-title="Ireland" tvg-id="SSPOACH" tvc-guide-stationid="87577",Sky Sports Action HD
@@ -777,9 +809,9 @@ http://example.local/IRL-SSPOACH.ts
 http://example.local/IRL-SSPOACD.ts
 #EXTINF:-1 tvg-chno="107319" tvg-name="Sky Sports Arena HD" tvg-logo="https://zap2it.tmsimg.com/assets/s107319_ll_h15_ab.png" group-title="Ireland" tvg-id="SARHDVM" tvc-guide-stationid="107319",Sky Sports Arena HD
 http://example.local/IRL-SARHDVM.ts
-#EXTINF:-1 tvg-chno="116705" tvg-name="Sky Sports Box Office HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116705_ll_h15_aa.png" group-title="Ireland" tvg-id="SKYSBOH" tvc-guide-stationid="116705",Sky Sports Box Office HD
+#EXTINF:-1 tvg-chno="116705" tvg-name="Sky Sports Box Office HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027JS43.png" group-title="Ireland" tvg-id="SKYSBOH" tvc-guide-stationid="116705",Sky Sports Box Office HD
 http://example.local/IRL-SKYSBOH.ts
-#EXTINF:-1 tvg-chno="19036" tvg-name="Sky Sports Cricket" tvg-logo="https://zap2it.tmsimg.com/assets/s19036_ll_h15_ab.png" group-title="Ireland" tvg-id="SSPOCR" tvc-guide-stationid="19036",Sky Sports Cricket
+#EXTINF:-1 tvg-chno="19036" tvg-name="Sky Sports Cricket" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027JWFZ.png" group-title="Ireland" tvg-id="SSPOCR" tvc-guide-stationid="19036",Sky Sports Cricket
 http://example.local/IRL-SSPOCR.ts
 #EXTINF:-1 tvg-chno="51204" tvg-name="Sky Sports Cricket HD" tvg-logo="https://zap2it.tmsimg.com/assets/s51204_ll_h15_ab.png" group-title="Ireland" tvg-id="SSPOCRH" tvc-guide-stationid="51204",Sky Sports Cricket HD
 http://example.local/IRL-SSPOCRH.ts
@@ -789,23 +821,27 @@ http://example.local/IRL-SKYSPOF1.ts
 http://example.local/IRL-SSPOF1.ts
 #EXTINF:-1 tvg-chno="87578" tvg-name="Sky Sports F1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87578_ll_h15_ab.png" group-title="Ireland" tvg-id="SSPOF1H" tvc-guide-stationid="87578",Sky Sports F1 HD
 http://example.local/IRL-SSPOF1H.ts
-#EXTINF:-1 tvg-chno="104325" tvg-name="Sky Sports Football" tvg-logo="https://zap2it.tmsimg.com/assets/s104325_ll_h15_ab.png" group-title="Ireland" tvg-id="SSPOFB" tvc-guide-stationid="104325",Sky Sports Football
+#EXTINF:-1 tvg-chno="104325" tvg-name="Sky Sports Football" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027JZ2T.png" group-title="Ireland" tvg-id="SSPOFB" tvc-guide-stationid="104325",Sky Sports Football
 http://example.local/IRL-SSPOFB.ts
+#EXTINF:-1 tvg-chno="104326" tvg-name="Sky Sports Football" tvg-logo="https://zap2it.tmsimg.com/assets/s104326_ll_h15_aa.png" group-title="Ireland" tvg-id="SSPOFBV" tvc-guide-stationid="104326",Sky Sports Football
+http://example.local/IRL-SSPOFBV.ts
 #EXTINF:-1 tvg-chno="104327" tvg-name="Sky Sports Football HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104327_ll_h15_aa.png" group-title="Ireland" tvg-id="SSPOFBH" tvc-guide-stationid="104327",Sky Sports Football HD
 http://example.local/IRL-SSPOFBH.ts
-#EXTINF:-1 tvg-chno="24216" tvg-name="Sky Sports Golf" tvg-logo="https://zap2it.tmsimg.com/assets/s24216_ll_h15_ab.png" group-title="Ireland" tvg-id="SSPOGO" tvc-guide-stationid="24216",Sky Sports Golf
+#EXTINF:-1 tvg-chno="24216" tvg-name="Sky Sports Golf" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027JZQ3.png" group-title="Ireland" tvg-id="SSPOGO" tvc-guide-stationid="24216",Sky Sports Golf
 http://example.local/IRL-SSPOGO.ts
+#EXTINF:-1 tvg-chno="116698" tvg-name="Sky Sports Golf" tvg-logo="https://zap2it.tmsimg.com/assets/s116698_ll_h15_ab.png" group-title="Ireland" tvg-id="SSPOGIR" tvc-guide-stationid="116698",Sky Sports Golf
+http://example.local/IRL-SSPOGIR.ts
 #EXTINF:-1 tvg-chno="67695" tvg-name="Sky Sports Golf HD" tvg-logo="https://zap2it.tmsimg.com/assets/s67695_ll_h15_ab.png" group-title="Ireland" tvg-id="SSPOGOD" tvc-guide-stationid="67695",Sky Sports Golf HD
 http://example.local/IRL-SSPOGOD.ts
-#EXTINF:-1 tvg-chno="17744" tvg-name="Sky Sports Main Event" tvg-logo="https://zap2it.tmsimg.com/assets/s17744_ll_h15_ab.png" group-title="Ireland" tvg-id="SSPOME" tvc-guide-stationid="17744",Sky Sports Main Event
+#EXTINF:-1 tvg-chno="17744" tvg-name="Sky Sports Main Event" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027JK9P.png" group-title="Ireland" tvg-id="SSPOME" tvc-guide-stationid="17744",Sky Sports Main Event
 http://example.local/IRL-SSPOME.ts
 #EXTINF:-1 tvg-chno="49609" tvg-name="Sky Sports Main Event HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49609_ll_h15_ab.png" group-title="Ireland" tvg-id="SSPOMEH" tvc-guide-stationid="49609",Sky Sports Main Event HD
 http://example.local/IRL-SSPOMEH.ts
 #EXTINF:-1 tvg-chno="100265" tvg-name="Sky Sports Mix" tvg-logo="https://zap2it.tmsimg.com/assets/s100265_ll_h15_ab.png" group-title="Ireland" tvg-id="SSPOMXS" tvc-guide-stationid="100265",Sky Sports Mix
 http://example.local/IRL-SSPOMXS.ts
-#EXTINF:-1 tvg-chno="100264" tvg-name="Sky Sports Mix HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100264_ll_h15_ab.png" group-title="Ireland" tvg-id="SSPOMXH" tvc-guide-stationid="100264",Sky Sports Mix HD
+#EXTINF:-1 tvg-chno="100264" tvg-name="Sky Sports Mix HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027JQ20.png" group-title="Ireland" tvg-id="SSPOMXH" tvc-guide-stationid="100264",Sky Sports Mix HD
 http://example.local/IRL-SSPOMXH.ts
-#EXTINF:-1 tvg-chno="20643" tvg-name="Sky Sports News" tvg-logo="https://zap2it.tmsimg.com/assets/s20643_ll_h15_ac.png" group-title="Ireland" tvg-id="SSPONE" tvc-guide-stationid="20643",Sky Sports News
+#EXTINF:-1 tvg-chno="20643" tvg-name="Sky Sports News" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027JYG5.png" group-title="Ireland" tvg-id="SSPONE" tvc-guide-stationid="20643",Sky Sports News
 http://example.local/IRL-SSPONE.ts
 #EXTINF:-1 tvg-chno="68347" tvg-name="Sky Sports News HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68347_ll_h15_ab.png" group-title="Ireland" tvg-id="SSPONED" tvc-guide-stationid="68347",Sky Sports News HD
 http://example.local/IRL-SSPONED.ts
@@ -813,20 +849,24 @@ http://example.local/IRL-SSPONED.ts
 http://example.local/IRL-SSPOPL.ts
 #EXTINF:-1 tvg-chno="116645" tvg-name="Sky Sports Premier League HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116645_ll_h15_ab.png" group-title="Ireland" tvg-id="SPLHD" tvc-guide-stationid="116645",Sky Sports Premier League HD
 http://example.local/IRL-SPLHD.ts
-#EXTINF:-1 tvg-chno="30505" tvg-name="Sky Sports Racing" tvg-logo="https://zap2it.tmsimg.com/assets/s30505_ll_h15_ab.png" group-title="Ireland" tvg-id="SSPORAC" tvc-guide-stationid="30505",Sky Sports Racing
+#EXTINF:-1 tvg-chno="30505" tvg-name="Sky Sports Racing" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027JEL9.png" group-title="Ireland" tvg-id="SSPORAC" tvc-guide-stationid="30505",Sky Sports Racing
 http://example.local/IRL-SSPORAC.ts
 #EXTINF:-1 tvg-chno="120949" tvg-name="Sky Sports Racing HD" tvg-logo="https://zap2it.tmsimg.com/assets/s120949_ll_h15_aa.png" group-title="Ireland" tvg-id="SSPORCSKYC" tvc-guide-stationid="120949",Sky Sports Racing HD
 http://example.local/IRL-SSPORCSKYC.ts
-#EXTINF:-1 tvg-chno="147889" tvg-name="Sky Sports Tennis HD" tvg-logo="https://zap2it.tmsimg.com/assets/s147889_ll_h15_aa.png" group-title="Ireland" tvg-id="SKYSPTUK" tvc-guide-stationid="147889",Sky Sports Tennis HD
+#EXTINF:-1 tvg-chno="147889" tvg-name="Sky Sports Tennis HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027M1BP.png" group-title="Ireland" tvg-id="SKYSPTUK" tvc-guide-stationid="147889",Sky Sports Tennis HD
 http://example.local/IRL-SKYSPTUK.ts
-#EXTINF:-1 tvg-chno="104322" tvg-name="Sky Sports+" tvg-logo="https://zap2it.tmsimg.com/assets/s104322_ll_h15_aa.png" group-title="Ireland" tvg-id="SKYSPLUS" tvc-guide-stationid="104322",Sky Sports+
+#EXTINF:-1 tvg-chno="104322" tvg-name="Sky Sports+" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027JRKM.png" group-title="Ireland" tvg-id="SKYSPLUS" tvc-guide-stationid="104322",Sky Sports+
 http://example.local/IRL-SKYSPLUS.ts
 #EXTINF:-1 tvg-chno="104323" tvg-name="Sky Sports+" tvg-logo="https://zap2it.tmsimg.com/assets/s104323_ll_h15_aa.png" group-title="Ireland" tvg-id="SSPLUS" tvc-guide-stationid="104323",Sky Sports+
 http://example.local/IRL-SSPLUS.ts
+#EXTINF:-1 tvg-chno="116707" tvg-name="Sky Sports+" tvg-logo="https://zap2it.tmsimg.com/assets/s116707_ll_h15_aa.png" group-title="Ireland" tvg-id="SSPLUSROI" tvc-guide-stationid="116707",Sky Sports+
+http://example.local/IRL-SSPLUSROI.ts
 #EXTINF:-1 tvg-chno="104324" tvg-name="Sky Sports+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104324_ll_h15_aa.png" group-title="Ireland" tvg-id="SPLUSHDVM" tvc-guide-stationid="104324",Sky Sports+ HD
 http://example.local/IRL-SPLUSHDVM.ts
 #EXTINF:-1 tvg-chno="17443" tvg-name="Sky Witness" tvg-logo="https://zap2it.tmsimg.com/assets/s17443_ll_h15_ac.png" group-title="Ireland" tvg-id="SKYWITN" tvc-guide-stationid="17443",Sky Witness
 http://example.local/IRL-SKYWITN.ts
+#EXTINF:-1 tvg-chno="116461" tvg-name="Sky Witness" tvg-logo="https://zap2it.tmsimg.com/assets/s116461_ll_h15_ab.png" group-title="Ireland" tvg-id="SKYWIIRE" tvc-guide-stationid="116461",Sky Witness
+http://example.local/IRL-SKYWIIRE.ts
 #EXTINF:-1 tvg-chno="31949" tvg-name="Sky Witness +1" tvg-logo="https://zap2it.tmsimg.com/assets/s31949_ll_h15_ab.png" group-title="Ireland" tvg-id="SKYWIT1" tvc-guide-stationid="31949",Sky Witness +1
 http://example.local/IRL-SKYWIT1.ts
 #EXTINF:-1 tvg-chno="64590" tvg-name="Sky Witness HD" tvg-logo="https://zap2it.tmsimg.com/assets/s64590_ll_h15_ad.png" group-title="Ireland" tvg-id="SKWITHD" tvc-guide-stationid="64590",Sky Witness HD
@@ -895,8 +935,12 @@ http://example.local/IRL-TLCUNK.ts
 http://example.local/IRL-TLCUNK1.ts
 #EXTINF:-1 tvg-chno="79654" tvg-name="TLC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s79654_ll_h15_ab.png" group-title="Ireland" tvg-id="TLCUKHD" tvc-guide-stationid="79654",TLC HD
 http://example.local/IRL-TLCUKHD.ts
+#EXTINF:-1 tvg-chno="112053" tvg-name="TNT Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s50707_ll_h15_ae.png" group-title="Ireland" tvg-id="TNTSPCH" tvc-guide-stationid="112053",TNT Sports
+http://example.local/IRL-TNTSPCH.ts
 #EXTINF:-1 tvg-chno="97542" tvg-name="TNT Sports 1" tvg-logo="https://zap2it.tmsimg.com/assets/s97542_ll_h15_ad.png" group-title="Ireland" tvg-id="TNTSPORT1" tvc-guide-stationid="97542",TNT Sports 1
 http://example.local/IRL-TNTSPORT1.ts
+#EXTINF:-1 tvg-chno="82447" tvg-name="TNT Sports 1" tvg-logo="https://zap2it.tmsimg.com/assets/s82447_ll_h15_ac.png" group-title="Ireland" tvg-id="TNTSP1VM" tvc-guide-stationid="82447",TNT Sports 1
+http://example.local/IRL-TNTSP1VM.ts
 #EXTINF:-1 tvg-chno="82450" tvg-name="TNT Sports 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s82450_ll_h15_ad.png" group-title="Ireland" tvg-id="TNTSP1HD" tvc-guide-stationid="82450",TNT Sports 1 HD
 http://example.local/IRL-TNTSP1HD.ts
 #EXTINF:-1 tvg-chno="82449" tvg-name="TNT Sports 2" tvg-logo="https://zap2it.tmsimg.com/assets/s82449_ll_h15_ac.png" group-title="Ireland" tvg-id="TNTSP2VM" tvc-guide-stationid="82449",TNT Sports 2
@@ -905,6 +949,8 @@ http://example.local/IRL-TNTSP2VM.ts
 http://example.local/IRL-TNTSP2HD.ts
 #EXTINF:-1 tvg-chno="95771" tvg-name="TNT Sports 3" tvg-logo="https://zap2it.tmsimg.com/assets/s95771_ll_h15_ab.png" group-title="Ireland" tvg-id="TNTSP3VM" tvc-guide-stationid="95771",TNT Sports 3
 http://example.local/IRL-TNTSP3VM.ts
+#EXTINF:-1 tvg-chno="120954" tvg-name="TNT Sports 3" tvg-logo="https://zap2it.tmsimg.com/assets/s120954_ll_h15_ab.png" group-title="Ireland" tvg-id="TNTSP3SKY" tvc-guide-stationid="120954",TNT Sports 3
+http://example.local/IRL-TNTSP3SKY.ts
 #EXTINF:-1 tvg-chno="95772" tvg-name="TNT Sports 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s95772_ll_h15_ad.png" group-title="Ireland" tvg-id="TNTSP3HD" tvc-guide-stationid="95772",TNT Sports 3 HD
 http://example.local/IRL-TNTSP3HD.ts
 #EXTINF:-1 tvg-chno="141631" tvg-name="TNT Sports 4" tvg-logo="https://zap2it.tmsimg.com/assets/s141631_ll_h15_ab.png" group-title="Ireland" tvg-id="TNTSP4UK" tvc-guide-stationid="141631",TNT Sports 4
@@ -949,6 +995,8 @@ http://example.local/IRL-TVCNEWS.ts
 http://example.local/IRL-TWR.ts
 #EXTINF:-1 tvg-chno="21258" tvg-name="U&alibi" tvg-logo="https://zap2it.tmsimg.com/assets/s21258_ll_h15_ac.png" group-title="Ireland" tvg-id="ALIBI" tvc-guide-stationid="21258",U&alibi
 http://example.local/IRL-ALIBI.ts
+#EXTINF:-1 tvg-chno="116423" tvg-name="U&alibi" tvg-logo="https://zap2it.tmsimg.com/assets/s116423_ll_h15_aa.png" group-title="Ireland" tvg-id="ALIBIRE" tvc-guide-stationid="116423",U&alibi
+http://example.local/IRL-ALIBIRE.ts
 #EXTINF:-1 tvg-chno="45509" tvg-name="U&alibi +1" tvg-logo="https://zap2it.tmsimg.com/assets/s45509_ll_h15_ad.png" group-title="Ireland" tvg-id="ALIBIP1" tvc-guide-stationid="45509",U&alibi +1
 http://example.local/IRL-ALIBIP1.ts
 #EXTINF:-1 tvg-chno="75803" tvg-name="U&alibi HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75803_ll_h15_ab.png" group-title="Ireland" tvg-id="ALIBIHD" tvc-guide-stationid="75803",U&alibi HD
