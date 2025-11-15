@@ -407,7 +407,7 @@ http://example.local/PRI-HBOHD.ts
 http://example.local/PRI-HBOF.ts
 #EXTINF:-1 tvg-chno="57396" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Puerto Rico" tvg-id="HBOFAME" tvc-guide-stationid="57396",HBO Family
 http://example.local/PRI-HBOFAME.ts
-#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" group-title="Puerto Rico" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
+#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
 http://example.local/PRI-HBOFP.ts
 #EXTINF:-1 tvg-chno="10241" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="Puerto Rico" tvg-id="HBOHTS" tvc-guide-stationid="10241",HBO Hits
 http://example.local/PRI-HBOHTS.ts
@@ -523,12 +523,8 @@ http://example.local/PRI-MLBHD.ts
 http://example.local/PRI-MTHD.ts
 #EXTINF:-1 tvg-chno="15295" tvg-name="MoviePlex" tvg-logo="https://zap2it.tmsimg.com/assets/s15295_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="MPLEX" tvc-guide-stationid="15295",MoviePlex
 http://example.local/PRI-MPLEX.ts
-#EXTINF:-1 tvg-chno="16300" tvg-name="MSNBC" tvg-logo="https://zap2it.tmsimg.com/assets/s16300_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="MSNBC" tvc-guide-stationid="16300",MSNBC
-http://example.local/PRI-MSNBC.ts
 #EXTINF:-1 tvg-chno="24394" tvg-name="MSNBC - Olympics Alternate" group-title="Puerto Rico" tvg-id="MSNBCA" tvc-guide-stationid="24394",MSNBC - Olympics Alternate
 http://example.local/PRI-MSNBCA.ts
-#EXTINF:-1 tvg-chno="64241" tvg-name="MSNBC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s64241_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="MNBCHD" tvc-guide-stationid="64241",MSNBC HD
-http://example.local/PRI-MNBCHD.ts
 #EXTINF:-1 tvg-chno="66301" tvg-name="MSNBC HD - Olympics Alternate" group-title="Puerto Rico" tvg-id="MNBCHDA" tvc-guide-stationid="66301",MSNBC HD - Olympics Alternate
 http://example.local/PRI-MNBCHDA.ts
 #EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="MTVL" tvc-guide-stationid="12712",MTV

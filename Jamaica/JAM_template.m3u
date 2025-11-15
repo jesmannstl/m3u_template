@@ -713,7 +713,7 @@ http://example.local/JAM-HBOFMEH.ts
 http://example.local/JAM-HBOF.ts
 #EXTINF:-1 tvg-chno="57396" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Jamaica" tvg-id="HBOFAME" tvc-guide-stationid="57396",HBO Family
 http://example.local/JAM-HBOFAME.ts
-#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" group-title="Jamaica" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
+#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png" group-title="Jamaica" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
 http://example.local/JAM-HBOFP.ts
 #EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_aa.png" group-title="Jamaica" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
 http://example.local/JAM-HBOLAT.ts
@@ -853,12 +853,8 @@ http://example.local/JAM-MSPORTS.ts
 http://example.local/JAM-MONDM.ts
 #EXTINF:-1 tvg-chno="10979" tvg-name="MSG Zone 1" tvg-logo="https://zap2it.tmsimg.com/assets/s10979_ll_h15_ab.png" group-title="Jamaica" tvg-id="MSG" tvc-guide-stationid="10979",MSG Zone 1
 http://example.local/JAM-MSG.ts
-#EXTINF:-1 tvg-chno="16300" tvg-name="MSNBC" tvg-logo="https://zap2it.tmsimg.com/assets/s16300_ll_h15_ac.png" group-title="Jamaica" tvg-id="MSNBC" tvc-guide-stationid="16300",MSNBC
-http://example.local/JAM-MSNBC.ts
 #EXTINF:-1 tvg-chno="24394" tvg-name="MSNBC - Olympics Alternate" group-title="Jamaica" tvg-id="MSNBCA" tvc-guide-stationid="24394",MSNBC - Olympics Alternate
 http://example.local/JAM-MSNBCA.ts
-#EXTINF:-1 tvg-chno="64241" tvg-name="MSNBC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s64241_ll_h15_ac.png" group-title="Jamaica" tvg-id="MNBCHD" tvc-guide-stationid="64241",MSNBC HD
-http://example.local/JAM-MNBCHD.ts
 #EXTINF:-1 tvg-chno="61345" tvg-name="MTM TV" group-title="Jamaica" tvg-id="MTMTV" tvc-guide-stationid="61345",MTM TV
 http://example.local/JAM-MTMTV.ts
 #EXTINF:-1 tvg-chno="10986" tvg-name="MTV - Music Television" tvg-logo="https://zap2it.tmsimg.com/assets/s10986_ll_h15_aa.png" group-title="Jamaica" tvg-id="MTV" tvc-guide-stationid="10986",MTV - Music Television

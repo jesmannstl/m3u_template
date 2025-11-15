@@ -309,7 +309,7 @@ http://example.local/BMU-HBOHD.ts
 http://example.local/BMU-HBOF.ts
 #EXTINF:-1 tvg-chno="80550" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Bermuda" tvg-id="HBOFMEH" tvc-guide-stationid="80550",HBO Family
 http://example.local/BMU-HBOFMEH.ts
-#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" group-title="Bermuda" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
+#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png" group-title="Bermuda" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
 http://example.local/BMU-HBOFP.ts
 #EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_aa.png" group-title="Bermuda" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
 http://example.local/BMU-HBOLAT.ts
@@ -403,12 +403,8 @@ http://example.local/BMU-MIZZOU.ts
 http://example.local/BMU-MNMT.ts
 #EXTINF:-1 tvg-chno="25621" tvg-name="MovieMax" tvg-logo="https://zap2it.tmsimg.com/assets/s25621_ll_h15_ad.png" group-title="Bermuda" tvg-id="MOVIE" tvc-guide-stationid="25621",MovieMax
 http://example.local/BMU-MOVIE.ts
-#EXTINF:-1 tvg-chno="16300" tvg-name="MSNBC" tvg-logo="https://zap2it.tmsimg.com/assets/s16300_ll_h15_ac.png" group-title="Bermuda" tvg-id="MSNBC" tvc-guide-stationid="16300",MSNBC
-http://example.local/BMU-MSNBC.ts
 #EXTINF:-1 tvg-chno="24394" tvg-name="MSNBC - Olympics Alternate" group-title="Bermuda" tvg-id="MSNBCA" tvc-guide-stationid="24394",MSNBC - Olympics Alternate
 http://example.local/BMU-MSNBCA.ts
-#EXTINF:-1 tvg-chno="64241" tvg-name="MSNBC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s64241_ll_h15_ac.png" group-title="Bermuda" tvg-id="MNBCHD" tvc-guide-stationid="64241",MSNBC HD
-http://example.local/BMU-MNBCHD.ts
 #EXTINF:-1 tvg-chno="10986" tvg-name="MTV - Music Television" tvg-logo="https://zap2it.tmsimg.com/assets/s10986_ll_h15_aa.png" group-title="Bermuda" tvg-id="MTV" tvc-guide-stationid="10986",MTV - Music Television
 http://example.local/BMU-MTV.ts
 #EXTINF:-1 tvg-chno="60964" tvg-name="MTV - Music Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60964_ll_h15_aa.png" group-title="Bermuda" tvg-id="MTVHD" tvc-guide-stationid="60964",MTV - Music Television HD

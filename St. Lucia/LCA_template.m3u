@@ -267,7 +267,7 @@ http://example.local/LCA-HBOI.ts
 http://example.local/LCA-HBOF.ts
 #EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="St. Lucia" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
 http://example.local/LCA-HBOFMHD.ts
-#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" group-title="St. Lucia" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
+#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png" group-title="St. Lucia" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
 http://example.local/LCA-HBOFP.ts
 #EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_aa.png" group-title="St. Lucia" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
 http://example.local/LCA-HBOLAT.ts
@@ -339,8 +339,6 @@ http://example.local/LCA-LMN.ts
 http://example.local/LCA-MAGN.ts
 #EXTINF:-1 tvg-chno="50270" tvg-name="MBC America" tvg-logo="https://zap2it.tmsimg.com/assets/s50270_ll_h9_aa.png" group-title="St. Lucia" tvg-id="MBCKOR" tvc-guide-stationid="50270",MBC America
 http://example.local/LCA-MBCKOR.ts
-#EXTINF:-1 tvg-chno="16300" tvg-name="MSNBC" tvg-logo="https://zap2it.tmsimg.com/assets/s16300_ll_h15_ac.png" group-title="St. Lucia" tvg-id="MSNBC" tvc-guide-stationid="16300",MSNBC
-http://example.local/LCA-MSNBC.ts
 #EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="St. Lucia" tvg-id="MTVL" tvc-guide-stationid="12712",MTV
 http://example.local/LCA-MTVL.ts
 #EXTINF:-1 tvg-chno="60964" tvg-name="MTV - Music Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60964_ll_h15_aa.png" group-title="St. Lucia" tvg-id="MTVHD" tvc-guide-stationid="60964",MTV - Music Television HD
