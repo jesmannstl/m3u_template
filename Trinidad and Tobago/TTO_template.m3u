@@ -35,24 +35,24 @@ http://example.local/TTO-ALJZ.ts
 http://example.local/TTO-ALJZENG.ts
 #EXTINF:-1 tvg-chno="55999" tvg-name="ALL TV (KOREA)" tvg-logo="https://zap2it.tmsimg.com/assets/s55999_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="ALLTVK" tvc-guide-stationid="55999",ALL TV (KOREA)
 http://example.local/TTO-ALLTVK.ts
-#EXTINF:-1 tvg-chno="10021" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s10021_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="AMC" tvc-guide-stationid="10021",AMC
-http://example.local/TTO-AMC.ts
-#EXTINF:-1 tvg-chno="90977" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Trinidad and Tobago" tvg-id="AMCARG" tvc-guide-stationid="90977",AMC
-http://example.local/TTO-AMCARG.ts
 #EXTINF:-1 tvg-chno="90653" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Trinidad and Tobago" tvg-id="AMCMEX" tvc-guide-stationid="90653",AMC
 http://example.local/TTO-AMCMEX.ts
+#EXTINF:-1 tvg-chno="10021" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s10021_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="AMC" tvc-guide-stationid="10021",AMC
+http://example.local/TTO-AMC.ts
 #EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Trinidad and Tobago" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
 http://example.local/TTO-AMCMXHD.ts
-#EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
+#EXTINF:-1 tvg-chno="90977" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Trinidad and Tobago" tvg-id="AMCARG" tvc-guide-stationid="90977",AMC
+http://example.local/TTO-AMCARG.ts
+#EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
 http://example.local/TTO-ABC.ts
 #EXTINF:-1 tvg-chno="18649" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Trinidad and Tobago" tvg-id="ANIPL" tvc-guide-stationid="18649",Animal Planet
 http://example.local/TTO-ANIPL.ts
 #EXTINF:-1 tvg-chno="16331" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s16331_ll_h9_ad.png" group-title="Trinidad and Tobago" tvg-id="APL" tvc-guide-stationid="16331",Animal Planet
 http://example.local/TTO-APL.ts
-#EXTINF:-1 tvg-chno="97167" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="ANIPLH" tvc-guide-stationid="97167",Animal Planet
-http://example.local/TTO-ANIPLH.ts
 #EXTINF:-1 tvg-chno="18648" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Trinidad and Tobago" tvg-id="ANIPI" tvc-guide-stationid="18648",Animal Planet
 http://example.local/TTO-ANIPI.ts
+#EXTINF:-1 tvg-chno="97167" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="ANIPLH" tvc-guide-stationid="97167",Animal Planet
+http://example.local/TTO-ANIPLH.ts
 #EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Trinidad and Tobago" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
 http://example.local/TTO-ANT3I.ts
 #EXTINF:-1 tvg-chno="18741" tvg-name="ART Cable" tvg-logo="https://zap2it.tmsimg.com/assets/s18741_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="ARTL" tvc-guide-stationid="18741",ART Cable
@@ -143,14 +143,14 @@ http://example.local/TTO-EXITO90.ts
 http://example.local/TTO-EXITOIT.ts
 #EXTINF:-1 tvg-chno="40285" tvg-name="Audio DLA Éxitos Samba Y Pagode" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="SAMBAPA" tvc-guide-stationid="40285",Audio DLA Éxitos Samba Y Pagode
 http://example.local/TTO-SAMBAPA.ts
-#EXTINF:-1 tvg-chno="26083" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s17484_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="AXNARG" tvc-guide-stationid="26083",AXN
-http://example.local/TTO-AXNARG.ts
 #EXTINF:-1 tvg-chno="58374" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s17484_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="AXNARGE" tvc-guide-stationid="58374",AXN
 http://example.local/TTO-AXNARGE.ts
-#EXTINF:-1 tvg-chno="25529" tvg-name="B4U Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s25529_ll_h9_ab.png" group-title="Trinidad and Tobago" tvg-id="B4UMOV" tvc-guide-stationid="25529",B4U Movies
-http://example.local/TTO-B4UMOV.ts
+#EXTINF:-1 tvg-chno="26083" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s17484_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="AXNARG" tvc-guide-stationid="26083",AXN
+http://example.local/TTO-AXNARG.ts
 #EXTINF:-1 tvg-chno="21852" tvg-name="B4U Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s25529_ll_h9_ab.png" group-title="Trinidad and Tobago" tvg-id="B4U" tvc-guide-stationid="21852",B4U Movies
 http://example.local/TTO-B4U.ts
+#EXTINF:-1 tvg-chno="25529" tvg-name="B4U Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s25529_ll_h9_ab.png" group-title="Trinidad and Tobago" tvg-id="B4UMOV" tvc-guide-stationid="25529",B4U Movies
+http://example.local/TTO-B4UMOV.ts
 #EXTINF:-1 tvg-chno="24465" tvg-name="B4U Music USA" tvg-logo="https://zap2it.tmsimg.com/assets/s24465_ll_h9_aa.png" group-title="Trinidad and Tobago" tvg-id="B4UMUS" tvc-guide-stationid="24465",B4U Music USA
 http://example.local/TTO-B4UMUS.ts
 #EXTINF:-1 tvg-chno="81716" tvg-name="Baby Tv" tvg-logo="https://zap2it.tmsimg.com/assets/s81716_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="BABYENG" tvc-guide-stationid="81716",Baby Tv
@@ -207,10 +207,10 @@ http://example.local/TTO-BVNHET.ts
 http://example.local/TTO-CNN.ts
 #EXTINF:-1 tvg-chno="20742" tvg-name="Canal 24 Horas HD" tvg-logo="https://zap2it.tmsimg.com/assets/s20742_ll_h9_aa.png" group-title="Trinidad and Tobago" tvg-id="CAN24" tvc-guide-stationid="20742",Canal 24 Horas HD
 http://example.local/TTO-CAN24.ts
-#EXTINF:-1 tvg-chno="19385" tvg-name="Canal Sony" tvg-logo="https://zap2it.tmsimg.com/assets/s19385_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="SETLC" tvc-guide-stationid="19385",Canal Sony
-http://example.local/TTO-SETLC.ts
 #EXTINF:-1 tvg-chno="75047" tvg-name="Canal Sony" tvg-logo="https://zap2it.tmsimg.com/assets/s75047_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="SETCOLE" tvc-guide-stationid="75047",Canal Sony
 http://example.local/TTO-SETCOLE.ts
+#EXTINF:-1 tvg-chno="19385" tvg-name="Canal Sony" tvg-logo="https://zap2it.tmsimg.com/assets/s19385_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="SETLC" tvc-guide-stationid="19385",Canal Sony
+http://example.local/TTO-SETLC.ts
 #EXTINF:-1 tvg-chno="18567" tvg-name="Caracol TV Canal 1" tvg-logo="https://zap2it.tmsimg.com/assets/s18567_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="CARA" tvc-guide-stationid="18567",Caracol TV Canal 1
 http://example.local/TTO-CARA.ts
 #EXTINF:-1 tvg-chno="63246" tvg-name="Caribbean News Media Group" tvg-logo="https://zap2it.tmsimg.com/assets/s63246_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="TTT" tvc-guide-stationid="63246",Caribbean News Media Group
@@ -219,20 +219,20 @@ http://example.local/TTO-TTT.ts
 http://example.local/TTO-CARIBVN.ts
 #EXTINF:-1 tvg-chno="16141" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="TOONL" tvc-guide-stationid="16141",Cartoon Network
 http://example.local/TTO-TOONL.ts
-#EXTINF:-1 tvg-chno="12131" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s12131_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="TOON" tvc-guide-stationid="12131",Cartoon Network
-http://example.local/TTO-TOON.ts
-#EXTINF:-1 tvg-chno="101403" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="CARTPHD" tvc-guide-stationid="101403",Cartoon Network
-http://example.local/TTO-CARTPHD.ts
-#EXTINF:-1 tvg-chno="19458" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="TOONLS" tvc-guide-stationid="19458",Cartoon Network
-http://example.local/TTO-TOONLS.ts
 #EXTINF:-1 tvg-chno="42502" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="TOONES" tvc-guide-stationid="42502",Cartoon Network
 http://example.local/TTO-TOONES.ts
+#EXTINF:-1 tvg-chno="101403" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="CARTPHD" tvc-guide-stationid="101403",Cartoon Network
+http://example.local/TTO-CARTPHD.ts
+#EXTINF:-1 tvg-chno="12131" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s12131_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="TOON" tvc-guide-stationid="12131",Cartoon Network
+http://example.local/TTO-TOON.ts
+#EXTINF:-1 tvg-chno="19458" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="TOONLS" tvc-guide-stationid="19458",Cartoon Network
+http://example.local/TTO-TOONLS.ts
 #EXTINF:-1 tvg-chno="60048" tvg-name="Cartoon Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60048_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="TOONHD" tvc-guide-stationid="60048",Cartoon Network HD
 http://example.local/TTO-TOONHD.ts
-#EXTINF:-1 tvg-chno="44832" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="CARTOAI" tvc-guide-stationid="44832",Cartoonito
-http://example.local/TTO-CARTOAI.ts
 #EXTINF:-1 tvg-chno="55719" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="CARTOM" tvc-guide-stationid="55719",Cartoonito
 http://example.local/TTO-CARTOM.ts
+#EXTINF:-1 tvg-chno="44832" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="CARTOAI" tvc-guide-stationid="44832",Cartoonito
+http://example.local/TTO-CARTOAI.ts
 #EXTINF:-1 tvg-chno="26089" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="CARTOA" tvc-guide-stationid="26089",Cartoonito
 http://example.local/TTO-CARTOA.ts
 #EXTINF:-1 tvg-chno="97805" tvg-name="Catch" group-title="Trinidad and Tobago" tvg-id="CATCHTV" tvc-guide-stationid="97805",Catch
@@ -263,16 +263,18 @@ http://example.local/TTO-UCL4.ts
 http://example.local/TTO-CINL.ts
 #EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
 http://example.local/TTO-CCL.ts
-#EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
-http://example.local/TTO-CCLHD.ts
 #EXTINF:-1 tvg-chno="16434" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="CCI" tvc-guide-stationid="16434",Cinecanal
 http://example.local/TTO-CCI.ts
-#EXTINF:-1 tvg-chno="16794" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="CINELW" tvc-guide-stationid="16794",Cinemax
-http://example.local/TTO-CINELW.ts
+#EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
+http://example.local/TTO-CCLHD.ts
 #EXTINF:-1 tvg-chno="78890" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="MAXSURE" tvc-guide-stationid="78890",Cinemax
 http://example.local/TTO-MAXSURE.ts
+#EXTINF:-1 tvg-chno="16794" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="CINELW" tvc-guide-stationid="16794",Cinemax
+http://example.local/TTO-CINELW.ts
 #EXTINF:-1 tvg-chno="34933" tvg-name="Cinemax HD" tvg-logo="https://zap2it.tmsimg.com/assets/s34933_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="MAXHD" tvc-guide-stationid="34933",Cinemax HD
 http://example.local/TTO-MAXHD.ts
+#EXTINF:-1 tvg-chno="10121" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png" group-title="Trinidad and Tobago" tvg-id="CINEHIT" tvc-guide-stationid="10121",Cinemax Hits
+http://example.local/TTO-CINEHIT.ts
 #EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
 http://example.local/TTO-CITY.ts
 #EXTINF:-1 tvg-chno="34200" tvg-name="Citytv Toronto HD (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s34200_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="CITYDT" tvc-guide-stationid="34200",Citytv Toronto HD (CITYDT)
@@ -295,10 +297,10 @@ http://example.local/TTO-CNNHL.ts
 http://example.local/TTO-CNNI.ts
 #EXTINF:-1 tvg-chno="15192" tvg-name="CNNI Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s15192_ll_h9_aa.png" group-title="Trinidad and Tobago" tvg-id="CNNIL" tvc-guide-stationid="15192",CNNI Latin America
 http://example.local/TTO-CNNIL.ts
-#EXTINF:-1 tvg-chno="74906" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s100848_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="COMCLAH" tvc-guide-stationid="74906",Comedy Central
-http://example.local/TTO-COMCLAH.ts
 #EXTINF:-1 tvg-chno="74528" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s76326_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="COMCELA" tvc-guide-stationid="74528",Comedy Central
 http://example.local/TTO-COMCELA.ts
+#EXTINF:-1 tvg-chno="74906" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s100848_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="COMCLAH" tvc-guide-stationid="74906",Comedy Central
+http://example.local/TTO-COMCLAH.ts
 #EXTINF:-1 tvg-chno="10149" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s10149_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="COMEDY" tvc-guide-stationid="10149",Comedy Central
 http://example.local/TTO-COMEDY.ts
 #EXTINF:-1 tvg-chno="82470" tvg-name="Comedy.TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s82470_ll_h9_aa.png" group-title="Trinidad and Tobago" tvg-id="CMDTVHD" tvc-guide-stationid="82470",Comedy.TV HD
@@ -311,7 +313,7 @@ http://example.local/TTO-COOK.ts
 http://example.local/TTO-COOKHD.ts
 #EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
 http://example.local/TTO-SCIFIS.ts
-#EXTINF:-1 tvg-chno="19026" tvg-name="Daystar Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="DYSTR" tvc-guide-stationid="19026",Daystar Television Network
+#EXTINF:-1 tvg-chno="19026" tvg-name="Daystar Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y563.png" group-title="Trinidad and Tobago" tvg-id="DYSTR" tvc-guide-stationid="19026",Daystar Television Network
 http://example.local/TTO-DYSTR.ts
 #EXTINF:-1 tvg-chno="16288" tvg-name="De Película" tvg-logo="https://zap2it.tmsimg.com/assets/s16288_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="DEPEL" tvc-guide-stationid="16288",De Película
 http://example.local/TTO-DEPEL.ts
@@ -331,22 +333,22 @@ http://example.local/TTO-DISCCHD.ts
 http://example.local/TTO-DCIVILI.ts
 #EXTINF:-1 tvg-chno="16618" tvg-name="Discovery Family Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16618_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="DFC" tvc-guide-stationid="16618",Discovery Family Channel
 http://example.local/TTO-DFC.ts
-#EXTINF:-1 tvg-chno="24424" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_ll_h15_ae.png" group-title="Trinidad and Tobago" tvg-id="DHEAL" tvc-guide-stationid="24424",Discovery Home & Health
-http://example.local/TTO-DHEAL.ts
 #EXTINF:-1 tvg-chno="34083" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="DHEAI" tvc-guide-stationid="34083",Discovery Home & Health
 http://example.local/TTO-DHEAI.ts
-#EXTINF:-1 tvg-chno="91959" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s97571_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="DHEALHE" tvc-guide-stationid="91959",Discovery Home & Health
-http://example.local/TTO-DHEALHE.ts
 #EXTINF:-1 tvg-chno="59582" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_ll_h15_ae.png" group-title="Trinidad and Tobago" tvg-id="DHEALM" tvc-guide-stationid="59582",Discovery Home & Health
 http://example.local/TTO-DHEALM.ts
+#EXTINF:-1 tvg-chno="91959" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s97571_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="DHEALHE" tvc-guide-stationid="91959",Discovery Home & Health
+http://example.local/TTO-DHEALHE.ts
+#EXTINF:-1 tvg-chno="24424" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_ll_h15_ae.png" group-title="Trinidad and Tobago" tvg-id="DHEAL" tvc-guide-stationid="24424",Discovery Home & Health
+http://example.local/TTO-DHEAL.ts
 #EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
 http://example.local/TTO-DKNLM.ts
-#EXTINF:-1 tvg-chno="16665" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16665_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="DKNI" tvc-guide-stationid="16665",Discovery Kids
-http://example.local/TTO-DKNI.ts
-#EXTINF:-1 tvg-chno="16680" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="DKNL" tvc-guide-stationid="16680",Discovery Kids
-http://example.local/TTO-DKNL.ts
 #EXTINF:-1 tvg-chno="84733" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s84733_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="DKNLAE" tvc-guide-stationid="84733",Discovery Kids
 http://example.local/TTO-DKNLAE.ts
+#EXTINF:-1 tvg-chno="16680" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="DKNL" tvc-guide-stationid="16680",Discovery Kids
+http://example.local/TTO-DKNL.ts
+#EXTINF:-1 tvg-chno="16665" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16665_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="DKNI" tvc-guide-stationid="16665",Discovery Kids
+http://example.local/TTO-DKNI.ts
 #EXTINF:-1 tvg-chno="81239" tvg-name="Discovery Kids LatinAm HD" tvg-logo="https://zap2it.tmsimg.com/assets/s81239_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="DKNLHD" tvc-guide-stationid="81239",Discovery Kids LatinAm HD
 http://example.local/TTO-DKNLHD.ts
 #EXTINF:-1 tvg-chno="16125" tvg-name="Discovery Life Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16125_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="DLC" tvc-guide-stationid="16125",Discovery Life Channel
@@ -359,32 +361,32 @@ http://example.local/TTO-DISSCI.ts
 http://example.local/TTO-DSCIENI.ts
 #EXTINF:-1 tvg-chno="65301" tvg-name="Discovery Theater HD" tvg-logo="https://zap2it.tmsimg.com/assets/s65940_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="DTHLIHD" tvc-guide-stationid="65301",Discovery Theater HD
 http://example.local/TTO-DTHLIHD.ts
+#EXTINF:-1 tvg-chno="46608" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="DTURBOL" tvc-guide-stationid="46608",Discovery Turbo
+http://example.local/TTO-DTURBOL.ts
 #EXTINF:-1 tvg-chno="24284" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s24284_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="DITURBO" tvc-guide-stationid="24284",Discovery Turbo
 http://example.local/TTO-DITURBO.ts
 #EXTINF:-1 tvg-chno="54948" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="DTURBO" tvc-guide-stationid="54948",Discovery Turbo
 http://example.local/TTO-DTURBO.ts
-#EXTINF:-1 tvg-chno="46608" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="DTURBOL" tvc-guide-stationid="46608",Discovery Turbo
-http://example.local/TTO-DTURBOL.ts
 #EXTINF:-1 tvg-chno="66488" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="DWRLDHD" tvc-guide-stationid="66488",Discovery World
 http://example.local/TTO-DWRLDHD.ts
 #EXTINF:-1 tvg-chno="70662" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="DWRLDHE" tvc-guide-stationid="70662",Discovery World
 http://example.local/TTO-DWRLDHE.ts
-#EXTINF:-1 tvg-chno="10171" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s10171_ll_h15_ae.png" group-title="Trinidad and Tobago" tvg-id="DISN" tvc-guide-stationid="10171",Disney Channel
-http://example.local/TTO-DISN.ts
 #EXTINF:-1 tvg-chno="19234" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s19234_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="DISNL" tvc-guide-stationid="19234",Disney Channel
 http://example.local/TTO-DISNL.ts
+#EXTINF:-1 tvg-chno="10171" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s10171_ll_h15_ae.png" group-title="Trinidad and Tobago" tvg-id="DISN" tvc-guide-stationid="10171",Disney Channel
+http://example.local/TTO-DISN.ts
 #EXTINF:-1 tvg-chno="41223" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s41223_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="DISNLS" tvc-guide-stationid="41223",Disney Channel
 http://example.local/TTO-DISNLS.ts
 #EXTINF:-1 tvg-chno="61311" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="DISNJMX" tvc-guide-stationid="61311",Disney Junior
 http://example.local/TTO-DISNJMX.ts
-#EXTINF:-1 tvg-chno="74796" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s74796_ll_h15_ad.png" group-title="Trinidad and Tobago" tvg-id="DJCH" tvc-guide-stationid="74796",Disney Junior
-http://example.local/TTO-DJCH.ts
 #EXTINF:-1 tvg-chno="70506" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="DISJMXE" tvc-guide-stationid="70506",Disney Junior
 http://example.local/TTO-DISJMXE.ts
-#EXTINF:-1 tvg-chno="18279" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s18279_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="DXD" tvc-guide-stationid="18279",Disney XD
-http://example.local/TTO-DXD.ts
+#EXTINF:-1 tvg-chno="74796" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s74796_ll_h15_ad.png" group-title="Trinidad and Tobago" tvg-id="DJCH" tvc-guide-stationid="74796",Disney Junior
+http://example.local/TTO-DJCH.ts
 #EXTINF:-1 tvg-chno="16563" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="DISNXD" tvc-guide-stationid="16563",Disney XD
 http://example.local/TTO-DISNXD.ts
+#EXTINF:-1 tvg-chno="18279" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s18279_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="DXD" tvc-guide-stationid="18279",Disney XD
+http://example.local/TTO-DXD.ts
 #EXTINF:-1 tvg-chno="50414" tvg-name="DMX Adult Contemporary Holiday" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="ADCOHOL" tvc-guide-stationid="50414",DMX Adult Contemporary Holiday
 http://example.local/TTO-ADCOHOL.ts
 #EXTINF:-1 tvg-chno="80781" tvg-name="DMX Chamber Music" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="DMX9D" tvc-guide-stationid="80781",DMX Chamber Music
@@ -465,22 +467,22 @@ http://example.local/TTO-EPGPL10.ts
 http://example.local/TTO-EPGPL12.ts
 #EXTINF:-1 tvg-chno="46838" tvg-name="EPG PROGRAMACION LOCAL 095" group-title="Trinidad and Tobago" tvg-id="EPGPL95" tvc-guide-stationid="46838",EPG PROGRAMACION LOCAL 095
 http://example.local/TTO-EPGPL95.ts
-#EXTINF:-1 tvg-chno="10179" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s10179_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="ESPN" tvc-guide-stationid="10179",ESPN
-http://example.local/TTO-ESPN.ts
 #EXTINF:-1 tvg-chno="17725" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s17725_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="ESPNAR" tvc-guide-stationid="17725",ESPN
 http://example.local/TTO-ESPNAR.ts
 #EXTINF:-1 tvg-chno="19158" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s17725_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="ESPNM" tvc-guide-stationid="19158",ESPN
 http://example.local/TTO-ESPNM.ts
+#EXTINF:-1 tvg-chno="10179" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s10179_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="ESPN" tvc-guide-stationid="10179",ESPN
+http://example.local/TTO-ESPN.ts
 #EXTINF:-1 tvg-chno="10180" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="ESP2ME" tvc-guide-stationid="10180",ESPN 2
 http://example.local/TTO-ESP2ME.ts
 #EXTINF:-1 tvg-chno="75585" tvg-name="ESPN 3" tvg-logo="https://zap2it.tmsimg.com/assets/s75585_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="ESPN3BH" tvc-guide-stationid="75585",ESPN 3
 http://example.local/TTO-ESPN3BH.ts
 #EXTINF:-1 tvg-chno="30392" tvg-name="ESPN 5 Centroamérica" tvg-logo="https://zap2it.tmsimg.com/assets/s122027_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="ESP5CES" tvc-guide-stationid="30392",ESPN 5 Centroamérica
 http://example.local/TTO-ESP5CES.ts
-#EXTINF:-1 tvg-chno="78764" tvg-name="ESPN Caribbean" group-title="Trinidad and Tobago" tvg-id="ESPNICH" tvc-guide-stationid="78764",ESPN Caribbean
-http://example.local/TTO-ESPNICH.ts
 #EXTINF:-1 tvg-chno="64997" tvg-name="ESPN Caribbean" group-title="Trinidad and Tobago" tvg-id="ESPNIC" tvc-guide-stationid="64997",ESPN Caribbean
 http://example.local/TTO-ESPNIC.ts
+#EXTINF:-1 tvg-chno="78764" tvg-name="ESPN Caribbean" group-title="Trinidad and Tobago" tvg-id="ESPNICH" tvc-guide-stationid="78764",ESPN Caribbean
+http://example.local/TTO-ESPNICH.ts
 #EXTINF:-1 tvg-chno="25595" tvg-name="ESPN Deportes" tvg-logo="https://zap2it.tmsimg.com/assets/s25595_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="ESPND" tvc-guide-stationid="25595",ESPN Deportes
 http://example.local/TTO-ESPND.ts
 #EXTINF:-1 tvg-chno="71914" tvg-name="ESPN Deportes HD" tvg-logo="https://zap2it.tmsimg.com/assets/s71914_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="ESPNDHD" tvc-guide-stationid="71914",ESPN Deportes HD
@@ -553,20 +555,20 @@ http://example.local/TTO-FS2.ts
 http://example.local/TTO-FS2HD.ts
 #EXTINF:-1 tvg-chno="14929" tvg-name="Fuse" tvg-logo="https://zap2it.tmsimg.com/assets/s14929_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="FUSE" tvc-guide-stationid="14929",Fuse
 http://example.local/TTO-FUSE.ts
-#EXTINF:-1 tvg-chno="14321" tvg-name="FX" tvg-logo="https://zap2it.tmsimg.com/assets/s14321_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="FX" tvc-guide-stationid="14321",FX
-http://example.local/TTO-FX.ts
 #EXTINF:-1 tvg-chno="46442" tvg-name="FX" tvg-logo="https://zap2it.tmsimg.com/assets/s46442_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="FXL" tvc-guide-stationid="46442",FX
 http://example.local/TTO-FXL.ts
+#EXTINF:-1 tvg-chno="14321" tvg-name="FX" tvg-logo="https://zap2it.tmsimg.com/assets/s14321_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="FX" tvc-guide-stationid="14321",FX
+http://example.local/TTO-FX.ts
 #EXTINF:-1 tvg-chno="82819" tvg-name="FX LATIN AMERICA HD (Central Feed)" tvg-logo="https://zap2it.tmsimg.com/assets/s105689_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="FXLCNHD" tvc-guide-stationid="82819",FX LATIN AMERICA HD (Central Feed)
 http://example.local/TTO-FXLCNHD.ts
 #EXTINF:-1 tvg-chno="70253" tvg-name="FX Movie Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s70253_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="FXMHD" tvc-guide-stationid="70253",FX Movie Channel HD
 http://example.local/TTO-FXMHD.ts
-#EXTINF:-1 tvg-chno="105767" tvg-name="FX Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s25069_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="FXMOHD" tvc-guide-stationid="105767",FX Movies
-http://example.local/TTO-FXMOHD.ts
 #EXTINF:-1 tvg-chno="19787" tvg-name="FX Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s25069_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="FXMO" tvc-guide-stationid="19787",FX Movies
 http://example.local/TTO-FXMO.ts
 #EXTINF:-1 tvg-chno="25069" tvg-name="FX Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s25069_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="FXMES" tvc-guide-stationid="25069",FX Movies
 http://example.local/TTO-FXMES.ts
+#EXTINF:-1 tvg-chno="105767" tvg-name="FX Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s25069_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="FXMOHD" tvc-guide-stationid="105767",FX Movies
+http://example.local/TTO-FXMOHD.ts
 #EXTINF:-1 tvg-chno="14988" tvg-name="FXM" tvg-logo="https://zap2it.tmsimg.com/assets/s14988_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="FXM" tvc-guide-stationid="14988",FXM
 http://example.local/TTO-FXM.ts
 #EXTINF:-1 tvg-chno="17927" tvg-name="FXX" tvg-logo="https://zap2it.tmsimg.com/assets/s17927_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="FXX" tvc-guide-stationid="17927",FXX
@@ -617,7 +619,7 @@ http://example.local/TTO-GOKIDS.ts
 http://example.local/TTO-GLDENM.ts
 #EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
 http://example.local/TTO-GLDEN.ts
-#EXTINF:-1 tvg-chno="18999" tvg-name="Golden Eagle Broadcasting" tvg-logo="https://zap2it.tmsimg.com/assets/s18999_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="GEB" tvc-guide-stationid="18999",Golden Eagle Broadcasting
+#EXTINF:-1 tvg-chno="18999" tvg-name="Golden Eagle Broadcasting" tvg-logo="https://zap2it.tmsimg.com/assets/s18999_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="GEB" tvc-guide-stationid="18999",Golden Eagle Broadcasting
 http://example.local/TTO-GEB.ts
 #EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
 http://example.local/TTO-GOLDEDG.ts
@@ -627,7 +629,7 @@ http://example.local/TTO-GOLDNHD.ts
 http://example.local/TTO-GOLF.ts
 #EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61854_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
 http://example.local/TTO-GOLFHD.ts
-#EXTINF:-1 tvg-chno="89922" tvg-name="Grit" tvg-logo="https://zap2it.tmsimg.com/assets/s89922_ll_h9_aa.png" group-title="Trinidad and Tobago" tvg-id="GRIT" tvc-guide-stationid="89922",Grit
+#EXTINF:-1 tvg-chno="89922" tvg-name="Grit" tvg-logo="https://zap2it.tmsimg.com/assets/s89922_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="GRIT" tvc-guide-stationid="89922",Grit
 http://example.local/TTO-GRIT.ts
 #EXTINF:-1 tvg-chno="100668" tvg-name="H2 History" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="H2LATH" tvc-guide-stationid="100668",H2 History
 http://example.local/TTO-H2LATH.ts
@@ -641,62 +643,68 @@ http://example.local/TTO-HBOCAR.ts
 http://example.local/TTO-HBOCARH.ts
 #EXTINF:-1 tvg-chno="108216" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Trinidad and Tobago" tvg-id="HBO2EHD" tvc-guide-stationid="108216",HBO 2
 http://example.local/TTO-HBO2EHD.ts
+#EXTINF:-1 tvg-chno="10243" tvg-name="HBO Drama" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBV2.png" group-title="Trinidad and Tobago" tvg-id="HBODRMA" tvc-guide-stationid="10243",HBO Drama
+http://example.local/TTO-HBODRMA.ts
 #EXTINF:-1 tvg-chno="19548" tvg-name="HBO East" tvg-logo="https://zap2it.tmsimg.com/assets/s19548_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="HBOHD" tvc-guide-stationid="19548",HBO East
 http://example.local/TTO-HBOHD.ts
 #EXTINF:-1 tvg-chno="16585" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="HBOF" tvc-guide-stationid="16585",HBO Family
 http://example.local/TTO-HBOF.ts
-#EXTINF:-1 tvg-chno="80550" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="HBOFMEH" tvc-guide-stationid="80550",HBO Family
-http://example.local/TTO-HBOFMEH.ts
 #EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
 http://example.local/TTO-HBOFMHD.ts
+#EXTINF:-1 tvg-chno="80550" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="HBOFMEH" tvc-guide-stationid="80550",HBO Family
+http://example.local/TTO-HBOFMEH.ts
+#EXTINF:-1 tvg-chno="10241" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="Trinidad and Tobago" tvg-id="HBOHTS" tvc-guide-stationid="10241",HBO Hits
+http://example.local/TTO-HBOHTS.ts
+#EXTINF:-1 tvg-chno="10242" tvg-name="HBO Hits (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CL6E.png" group-title="Trinidad and Tobago" tvg-id="HBOHTP" tvc-guide-stationid="10242",HBO Hits (Pacific)
+http://example.local/TTO-HBOHTP.ts
 #EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
 http://example.local/TTO-HBOLAT.ts
 #EXTINF:-1 tvg-chno="24575" tvg-name="HBO Latino (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="HBOLATP" tvc-guide-stationid="24575",HBO Latino (Pacific)
 http://example.local/TTO-HBOLATP.ts
 #EXTINF:-1 tvg-chno="59837" tvg-name="HBO Latino HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="HBOLAHD" tvc-guide-stationid="59837",HBO Latino HD
 http://example.local/TTO-HBOLAHD.ts
-#EXTINF:-1 tvg-chno="68242" tvg-name="HBO Mundi" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="MUNLE" tvc-guide-stationid="68242",HBO Mundi
-http://example.local/TTO-MUNLE.ts
 #EXTINF:-1 tvg-chno="70081" tvg-name="HBO Mundi" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="MUNMEX" tvc-guide-stationid="70081",HBO Mundi
 http://example.local/TTO-MUNMEX.ts
-#EXTINF:-1 tvg-chno="96531" tvg-name="HBO Mundi Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="MUNCARH" tvc-guide-stationid="96531",HBO Mundi Caribbean
-http://example.local/TTO-MUNCARH.ts
+#EXTINF:-1 tvg-chno="68242" tvg-name="HBO Mundi" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="MUNLE" tvc-guide-stationid="68242",HBO Mundi
+http://example.local/TTO-MUNLE.ts
 #EXTINF:-1 tvg-chno="86765" tvg-name="HBO Mundi Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="MUNCAR" tvc-guide-stationid="86765",HBO Mundi Caribbean
 http://example.local/TTO-MUNCAR.ts
-#EXTINF:-1 tvg-chno="80551" tvg-name="HBO Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s34725_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="HBOPIH" tvc-guide-stationid="80551",HBO Plus
-http://example.local/TTO-HBOPIH.ts
+#EXTINF:-1 tvg-chno="96531" tvg-name="HBO Mundi Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="MUNCARH" tvc-guide-stationid="96531",HBO Mundi Caribbean
+http://example.local/TTO-MUNCARH.ts
 #EXTINF:-1 tvg-chno="76218" tvg-name="HBO Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s34725_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="HBOPPAE" tvc-guide-stationid="76218",HBO Plus
 http://example.local/TTO-HBOPPAE.ts
 #EXTINF:-1 tvg-chno="57397" tvg-name="HBO Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s34725_h3_ab.png" group-title="Trinidad and Tobago" tvg-id="HBOPIW" tvc-guide-stationid="57397",HBO Plus
 http://example.local/TTO-HBOPIW.ts
+#EXTINF:-1 tvg-chno="80551" tvg-name="HBO Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s34725_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="HBOPIH" tvc-guide-stationid="80551",HBO Plus
+http://example.local/TTO-HBOPIH.ts
 #EXTINF:-1 tvg-chno="82514" tvg-name="HBO Plus Panregional English HD" tvg-logo="https://zap2it.tmsimg.com/assets/s34725_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="HBOPIHD" tvc-guide-stationid="82514",HBO Plus Panregional English HD
 http://example.local/TTO-HBOPIHD.ts
-#EXTINF:-1 tvg-chno="68301" tvg-name="HBO POP" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="POPMXH" tvc-guide-stationid="68301",HBO POP
-http://example.local/TTO-POPMXH.ts
 #EXTINF:-1 tvg-chno="93262" tvg-name="HBO Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="POPLAE" tvc-guide-stationid="93262",HBO Pop
 http://example.local/TTO-POPLAE.ts
-#EXTINF:-1 tvg-chno="80554" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="HBOSEHD" tvc-guide-stationid="80554",HBO Signature
-http://example.local/TTO-HBOSEHD.ts
+#EXTINF:-1 tvg-chno="68301" tvg-name="HBO POP" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="POPMXH" tvc-guide-stationid="68301",HBO POP
+http://example.local/TTO-POPMXH.ts
 #EXTINF:-1 tvg-chno="74450" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="HBOSLA" tvc-guide-stationid="74450",HBO Signature
 http://example.local/TTO-HBOSLA.ts
 #EXTINF:-1 tvg-chno="80120" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="HBOSLHD" tvc-guide-stationid="80120",HBO Signature
 http://example.local/TTO-HBOSLHD.ts
+#EXTINF:-1 tvg-chno="80554" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="HBOSEHD" tvc-guide-stationid="80554",HBO Signature
+http://example.local/TTO-HBOSEHD.ts
+#EXTINF:-1 tvg-chno="80838" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="HBOXLAE" tvc-guide-stationid="80838",HBO Xtreme
+http://example.local/TTO-HBOXLAE.ts
 #EXTINF:-1 tvg-chno="57400" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="HBOXMXE" tvc-guide-stationid="57400",HBO Xtreme
 http://example.local/TTO-HBOXMXE.ts
 #EXTINF:-1 tvg-chno="34887" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="HBOXMX" tvc-guide-stationid="34887",HBO Xtreme
 http://example.local/TTO-HBOXMX.ts
 #EXTINF:-1 tvg-chno="80115" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="HBOXMXH" tvc-guide-stationid="80115",HBO Xtreme
 http://example.local/TTO-HBOXMXH.ts
-#EXTINF:-1 tvg-chno="80838" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="HBOXLAE" tvc-guide-stationid="80838",HBO Xtreme
-http://example.local/TTO-HBOXLAE.ts
 #EXTINF:-1 tvg-chno="33668" tvg-name="HDNet Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s33668_ll_h15_ae.png" group-title="Trinidad and Tobago" tvg-id="HDNETMV" tvc-guide-stationid="33668",HDNet Movies
 http://example.local/TTO-HDNETMV.ts
 #EXTINF:-1 tvg-chno="29328" tvg-name="Hillsong Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s29328_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="HILLSNG" tvc-guide-stationid="29328",Hillsong Channel
 http://example.local/TTO-HILLSNG.ts
-#EXTINF:-1 tvg-chno="14771" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s14771_ll_h15_af.png" group-title="Trinidad and Tobago" tvg-id="HISTORY" tvc-guide-stationid="14771",History
-http://example.local/TTO-HISTORY.ts
 #EXTINF:-1 tvg-chno="40137" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="HCLM" tvc-guide-stationid="40137",History
 http://example.local/TTO-HCLM.ts
+#EXTINF:-1 tvg-chno="14771" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s14771_ll_h15_af.png" group-title="Trinidad and Tobago" tvg-id="HISTORY" tvc-guide-stationid="14771",History
+http://example.local/TTO-HISTORY.ts
 #EXTINF:-1 tvg-chno="70669" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="HCLMHD" tvc-guide-stationid="70669",History
 http://example.local/TTO-HCLMHD.ts
 #EXTINF:-1 tvg-chno="48157" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="HCLI" tvc-guide-stationid="48157",History
@@ -711,6 +719,8 @@ http://example.local/TTO-HLN.ts
 http://example.local/TTO-HGTV.ts
 #EXTINF:-1 tvg-chno="49788" tvg-name="Home & Garden Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49788_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="HGTVD" tvc-guide-stationid="49788",Home & Garden Television HD
 http://example.local/TTO-HGTVD.ts
+#EXTINF:-1 tvg-chno="17638" tvg-name="Home Network" tvg-logo="https://zap2it.tmsimg.com/assets/s17638_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="HOMENET" tvc-guide-stationid="17638",Home Network
+http://example.local/TTO-HOMENET.ts
 #EXTINF:-1 tvg-chno="15969" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="HTVLA" tvc-guide-stationid="15969",HTV
 http://example.local/TTO-HTVLA.ts
 #EXTINF:-1 tvg-chno="59522" tvg-name="Hustler Mature" tvg-logo="https://zap2it.tmsimg.com/assets/s59522_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="HMAXX5" tvc-guide-stationid="59522",Hustler Mature
@@ -721,10 +731,10 @@ http://example.local/TTO-HUSTLR.ts
 http://example.local/TTO-HYPE.ts
 #EXTINF:-1 tvg-chno="65237" tvg-name="IBN TV" tvg-logo="https://zap2it.tmsimg.com/assets/s65237_ll_h9_ab.png" group-title="Trinidad and Tobago" tvg-id="IBN" tvc-guide-stationid="65237",IBN TV
 http://example.local/TTO-IBN.ts
-#EXTINF:-1 tvg-chno="25793" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="IDM" tvc-guide-stationid="25793",ID
-http://example.local/TTO-IDM.ts
 #EXTINF:-1 tvg-chno="16446" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="IDLE" tvc-guide-stationid="16446",ID
 http://example.local/TTO-IDLE.ts
+#EXTINF:-1 tvg-chno="25793" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="IDM" tvc-guide-stationid="25793",ID
+http://example.local/TTO-IDM.ts
 #EXTINF:-1 tvg-chno="14873" tvg-name="IFC" tvg-logo="https://zap2it.tmsimg.com/assets/s14873_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="IFC" tvc-guide-stationid="14873",IFC
 http://example.local/TTO-IFC.ts
 #EXTINF:-1 tvg-chno="22579" tvg-name="Information Channel - INFO" group-title="Trinidad and Tobago" tvg-id="INFO" tvc-guide-stationid="22579",Information Channel - INFO
@@ -749,12 +759,12 @@ http://example.local/TTO-JUST.ts
 http://example.local/TTO-KTLA.ts
 #EXTINF:-1 tvg-chno="10918" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s10918_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="LIFE" tvc-guide-stationid="10918",Lifetime
 http://example.local/TTO-LIFE.ts
-#EXTINF:-1 tvg-chno="89214" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="LIFELA" tvc-guide-stationid="89214",Lifetime
-http://example.local/TTO-LIFELA.ts
 #EXTINF:-1 tvg-chno="89197" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="LIFELC" tvc-guide-stationid="89197",Lifetime
 http://example.local/TTO-LIFELC.ts
 #EXTINF:-1 tvg-chno="159513" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="LIFSURH" tvc-guide-stationid="159513",Lifetime
 http://example.local/TTO-LIFSURH.ts
+#EXTINF:-1 tvg-chno="89214" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="LIFELA" tvc-guide-stationid="89214",Lifetime
+http://example.local/TTO-LIFELA.ts
 #EXTINF:-1 tvg-chno="60150" tvg-name="Lifetime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60150_ll_h15_ad.png" group-title="Trinidad and Tobago" tvg-id="LIFEHD" tvc-guide-stationid="60150",Lifetime HD
 http://example.local/TTO-LIFEHD.ts
 #EXTINF:-1 tvg-chno="29612" tvg-name="Lifetime Real Women" tvg-logo="https://zap2it.tmsimg.com/assets/s29612_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="LRW" tvc-guide-stationid="29612",Lifetime Real Women
@@ -773,6 +783,10 @@ http://example.local/TTO-MANCAVE.ts
 http://example.local/TTO-MAYLPPV.ts
 #EXTINF:-1 tvg-chno="98262" tvg-name="Mediatti National Geographic HD" group-title="Trinidad and Tobago" tvg-id="MNATGHD" tvc-guide-stationid="98262",Mediatti National Geographic HD
 http://example.local/TTO-MNATGHD.ts
+#EXTINF:-1 tvg-chno="16300" tvg-name="MS NOW" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002H5PTR.png" group-title="Trinidad and Tobago" tvg-id="MSNOW" tvc-guide-stationid="16300",MS NOW
+http://example.local/TTO-MSNOW.ts
+#EXTINF:-1 tvg-chno="64241" tvg-name="MS NOW HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002H5PTL.png" group-title="Trinidad and Tobago" tvg-id="MSNOWHD" tvc-guide-stationid="64241",MS NOW HD
+http://example.local/TTO-MSNOWHD.ts
 #EXTINF:-1 tvg-chno="61345" tvg-name="MTM TV" group-title="Trinidad and Tobago" tvg-id="MTMTV" tvc-guide-stationid="61345",MTM TV
 http://example.local/TTO-MTMTV.ts
 #EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="MTVL" tvc-guide-stationid="12712",MTV
@@ -821,10 +835,10 @@ http://example.local/TTO-NGCLA.ts
 http://example.local/TTO-NGCLAH.ts
 #EXTINF:-1 tvg-chno="24959" tvg-name="National Geographic USA" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="NGC" tvc-guide-stationid="24959",National Geographic USA
 http://example.local/TTO-NGC.ts
-#EXTINF:-1 tvg-chno="66804" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s66804_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="NGWILD" tvc-guide-stationid="66804",National Geographic Wild
-http://example.local/TTO-NGWILD.ts
 #EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
 http://example.local/TTO-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="66804" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s66804_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="NGWILD" tvc-guide-stationid="66804",National Geographic Wild
+http://example.local/TTO-NGWILD.ts
 #EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="Trinidad and Tobago" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
 http://example.local/TTO-NBAX18.ts
 #EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Trinidad and Tobago" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
@@ -881,18 +895,18 @@ http://example.local/TTO-ONTV4.ts
 http://example.local/TTO-OWN.ts
 #EXTINF:-1 tvg-chno="14776" tvg-name="Outdoor Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14776_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="OUTD" tvc-guide-stationid="14776",Outdoor Channel
 http://example.local/TTO-OUTD.ts
-#EXTINF:-1 tvg-chno="46737" tvg-name="Outdoor Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s46737_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="OUTHD" tvc-guide-stationid="46737",Outdoor Channel HD
-http://example.local/TTO-OUTHD.ts
 #EXTINF:-1 tvg-chno="78687" tvg-name="Outdoor Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s78687_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="OUTDHD" tvc-guide-stationid="78687",Outdoor Channel HD
 http://example.local/TTO-OUTDHD.ts
+#EXTINF:-1 tvg-chno="46737" tvg-name="Outdoor Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s46737_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="OUTHD" tvc-guide-stationid="46737",Outdoor Channel HD
+http://example.local/TTO-OUTHD.ts
 #EXTINF:-1 tvg-chno="21484" tvg-name="Oxygen True Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s21484_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="OXYGEN" tvc-guide-stationid="21484",Oxygen True Crime
 http://example.local/TTO-OXYGEN.ts
-#EXTINF:-1 tvg-chno="11163" tvg-name="Paramount Network" tvg-logo="https://zap2it.tmsimg.com/assets/s11163_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="PAR" tvc-guide-stationid="11163",Paramount Network
-http://example.local/TTO-PAR.ts
-#EXTINF:-1 tvg-chno="91120" tvg-name="Paramount Network" tvg-logo="https://zap2it.tmsimg.com/assets/s91120_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="PARMNHD" tvc-guide-stationid="91120",Paramount Network
-http://example.local/TTO-PARMNHD.ts
 #EXTINF:-1 tvg-chno="91029" tvg-name="Paramount Network" tvg-logo="https://zap2it.tmsimg.com/assets/s106215_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="PARAMNT" tvc-guide-stationid="91029",Paramount Network
 http://example.local/TTO-PARAMNT.ts
+#EXTINF:-1 tvg-chno="91120" tvg-name="Paramount Network" tvg-logo="https://zap2it.tmsimg.com/assets/s91120_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="PARMNHD" tvc-guide-stationid="91120",Paramount Network
+http://example.local/TTO-PARMNHD.ts
+#EXTINF:-1 tvg-chno="11163" tvg-name="Paramount Network" tvg-logo="https://zap2it.tmsimg.com/assets/s11163_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="PAR" tvc-guide-stationid="11163",Paramount Network
+http://example.local/TTO-PAR.ts
 #EXTINF:-1 tvg-chno="90277" tvg-name="Paramount Network Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s90277_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="PARCAR" tvc-guide-stationid="90277",Paramount Network Caribbean
 http://example.local/TTO-PARCAR.ts
 #EXTINF:-1 tvg-chno="59186" tvg-name="Paramount Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59186_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="PARHD" tvc-guide-stationid="59186",Paramount Network HD
@@ -959,16 +973,16 @@ http://example.local/TTO-SETASUK.ts
 http://example.local/TTO-SORPRESA.ts
 #EXTINF:-1 tvg-chno="70351" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="SPACES" tvc-guide-stationid="70351",Space
 http://example.local/TTO-SPACES.ts
-#EXTINF:-1 tvg-chno="66349" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="SPACMHD" tvc-guide-stationid="66349",Space
-http://example.local/TTO-SPACMHD.ts
-#EXTINF:-1 tvg-chno="61627" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="SPACEE" tvc-guide-stationid="61627",Space
-http://example.local/TTO-SPACEE.ts
+#EXTINF:-1 tvg-chno="83056" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="SPACECE" tvc-guide-stationid="83056",Space
+http://example.local/TTO-SPACECE.ts
 #EXTINF:-1 tvg-chno="69490" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="SPACEEH" tvc-guide-stationid="69490",Space
 http://example.local/TTO-SPACEEH.ts
 #EXTINF:-1 tvg-chno="16499" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="SPACE" tvc-guide-stationid="16499",Space
 http://example.local/TTO-SPACE.ts
-#EXTINF:-1 tvg-chno="83056" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="SPACECE" tvc-guide-stationid="83056",Space
-http://example.local/TTO-SPACECE.ts
+#EXTINF:-1 tvg-chno="66349" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="SPACMHD" tvc-guide-stationid="66349",Space
+http://example.local/TTO-SPACMHD.ts
+#EXTINF:-1 tvg-chno="61627" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="SPACEE" tvc-guide-stationid="61627",Space
+http://example.local/TTO-SPACEE.ts
 #EXTINF:-1 tvg-chno="94739" tvg-name="Sports Mosaic" group-title="Trinidad and Tobago" tvg-id="SPTSM" tvc-guide-stationid="94739",Sports Mosaic
 http://example.local/TTO-SPTSM.ts
 #EXTINF:-1 tvg-chno="49030" tvg-name="Sportsman Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s49030_ll_h15_ae.png" group-title="Trinidad and Tobago" tvg-id="SPMN" tvc-guide-stationid="49030",Sportsman Channel
@@ -989,48 +1003,48 @@ http://example.local/TTO-SPMAX.ts
 http://example.local/TTO-SPORTVI.ts
 #EXTINF:-1 tvg-chno="58828" tvg-name="Star Action" tvg-logo="https://zap2it.tmsimg.com/assets/s58835_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="STARACE" tvc-guide-stationid="58828",Star Action
 http://example.local/TTO-STARACE.ts
-#EXTINF:-1 tvg-chno="58835" tvg-name="Star Action" tvg-logo="https://zap2it.tmsimg.com/assets/s58835_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="STRACO" tvc-guide-stationid="58835",Star Action
-http://example.local/TTO-STRACO.ts
-#EXTINF:-1 tvg-chno="92027" tvg-name="Star Action" tvg-logo="https://zap2it.tmsimg.com/assets/s58835_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="STRACEH" tvc-guide-stationid="92027",Star Action
-http://example.local/TTO-STRACEH.ts
-#EXTINF:-1 tvg-chno="58893" tvg-name="Star Action" tvg-logo="https://zap2it.tmsimg.com/assets/s58835_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="STRACOE" tvc-guide-stationid="58893",Star Action
-http://example.local/TTO-STRACOE.ts
 #EXTINF:-1 tvg-chno="74574" tvg-name="Star Action" tvg-logo="https://zap2it.tmsimg.com/assets/s58835_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="STRACHD" tvc-guide-stationid="74574",Star Action
 http://example.local/TTO-STRACHD.ts
+#EXTINF:-1 tvg-chno="58835" tvg-name="Star Action" tvg-logo="https://zap2it.tmsimg.com/assets/s58835_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="STRACO" tvc-guide-stationid="58835",Star Action
+http://example.local/TTO-STRACO.ts
 #EXTINF:-1 tvg-chno="58892" tvg-name="Star Action" tvg-logo="https://zap2it.tmsimg.com/assets/s58835_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="STRACEE" tvc-guide-stationid="58892",Star Action
 http://example.local/TTO-STRACEE.ts
+#EXTINF:-1 tvg-chno="58893" tvg-name="Star Action" tvg-logo="https://zap2it.tmsimg.com/assets/s58835_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="STRACOE" tvc-guide-stationid="58893",Star Action
+http://example.local/TTO-STRACOE.ts
+#EXTINF:-1 tvg-chno="92027" tvg-name="Star Action" tvg-logo="https://zap2it.tmsimg.com/assets/s58835_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="STRACEH" tvc-guide-stationid="92027",Star Action
+http://example.local/TTO-STRACEH.ts
 #EXTINF:-1 tvg-chno="15688" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="STARMEX" tvc-guide-stationid="15688",Star Channel
 http://example.local/TTO-STARMEX.ts
 #EXTINF:-1 tvg-chno="92111" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="STRANHD" tvc-guide-stationid="92111",Star Channel
 http://example.local/TTO-STRANHD.ts
-#EXTINF:-1 tvg-chno="77388" tvg-name="STAR CINEMA" tvg-logo="https://zap2it.tmsimg.com/assets/s71662_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="STARCIE" tvc-guide-stationid="77388",STAR CINEMA
-http://example.local/TTO-STARCIE.ts
 #EXTINF:-1 tvg-chno="71662" tvg-name="STAR CINEMA" tvg-logo="https://zap2it.tmsimg.com/assets/s71662_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="STARCI" tvc-guide-stationid="71662",STAR CINEMA
 http://example.local/TTO-STARCI.ts
 #EXTINF:-1 tvg-chno="98729" tvg-name="STAR CINEMA" tvg-logo="https://zap2it.tmsimg.com/assets/s71662_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="STARCIH" tvc-guide-stationid="98729",STAR CINEMA
 http://example.local/TTO-STARCIH.ts
+#EXTINF:-1 tvg-chno="77388" tvg-name="STAR CINEMA" tvg-logo="https://zap2it.tmsimg.com/assets/s71662_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="STARCIE" tvc-guide-stationid="77388",STAR CINEMA
+http://example.local/TTO-STARCIE.ts
 #EXTINF:-1 tvg-chno="44028" tvg-name="Star Classics" tvg-logo="https://zap2it.tmsimg.com/assets/s44028_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="STARCLA" tvc-guide-stationid="44028",Star Classics
 http://example.local/TTO-STARCLA.ts
 #EXTINF:-1 tvg-chno="58386" tvg-name="Star Classics" tvg-logo="https://zap2it.tmsimg.com/assets/s44028_h3_ba.png" group-title="Trinidad and Tobago" tvg-id="STARCLAE" tvc-guide-stationid="58386",Star Classics
 http://example.local/TTO-STARCLAE.ts
-#EXTINF:-1 tvg-chno="90969" tvg-name="STAR COMEDY" tvg-logo="https://zap2it.tmsimg.com/assets/s90916_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="STRCOME" tvc-guide-stationid="90969",STAR COMEDY
-http://example.local/TTO-STRCOME.ts
 #EXTINF:-1 tvg-chno="90916" tvg-name="STAR COMEDY" tvg-logo="https://zap2it.tmsimg.com/assets/s90916_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="STARCOM" tvc-guide-stationid="90916",STAR COMEDY
 http://example.local/TTO-STARCOM.ts
+#EXTINF:-1 tvg-chno="90969" tvg-name="STAR COMEDY" tvg-logo="https://zap2it.tmsimg.com/assets/s90916_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="STRCOME" tvc-guide-stationid="90969",STAR COMEDY
+http://example.local/TTO-STRCOME.ts
 #EXTINF:-1 tvg-chno="65399" tvg-name="STAR FUN" tvg-logo="https://zap2it.tmsimg.com/assets/s65399_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="STARFAM" tvc-guide-stationid="65399",STAR FUN
 http://example.local/TTO-STARFAM.ts
+#EXTINF:-1 tvg-chno="92028" tvg-name="STAR FUN" tvg-logo="https://zap2it.tmsimg.com/assets/s65399_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="STRFAEH" tvc-guide-stationid="92028",STAR FUN
+http://example.local/TTO-STRFAEH.ts
 #EXTINF:-1 tvg-chno="65400" tvg-name="STAR FUN" tvg-logo="https://zap2it.tmsimg.com/assets/s65399_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="STARFO" tvc-guide-stationid="65400",STAR FUN
 http://example.local/TTO-STARFO.ts
 #EXTINF:-1 tvg-chno="66360" tvg-name="STAR FUN" tvg-logo="https://zap2it.tmsimg.com/assets/s65399_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="STARFOE" tvc-guide-stationid="66360",STAR FUN
 http://example.local/TTO-STARFOE.ts
-#EXTINF:-1 tvg-chno="92028" tvg-name="STAR FUN" tvg-logo="https://zap2it.tmsimg.com/assets/s65399_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="STRFAEH" tvc-guide-stationid="92028",STAR FUN
-http://example.local/TTO-STRFAEH.ts
 #EXTINF:-1 tvg-chno="58833" tvg-name="Star Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s58833_ll_h15_ae.png" group-title="Trinidad and Tobago" tvg-id="STARHIT" tvc-guide-stationid="58833",Star Hits
 http://example.local/TTO-STARHIT.ts
-#EXTINF:-1 tvg-chno="95949" tvg-name="Star Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s58833_ll_h15_ae.png" group-title="Trinidad and Tobago" tvg-id="STRHEHD" tvc-guide-stationid="95949",Star Hits
-http://example.local/TTO-STRHEHD.ts
 #EXTINF:-1 tvg-chno="59621" tvg-name="Star Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s58833_ll_h15_ae.png" group-title="Trinidad and Tobago" tvg-id="STRHITE" tvc-guide-stationid="59621",Star Hits
 http://example.local/TTO-STRHITE.ts
+#EXTINF:-1 tvg-chno="95949" tvg-name="Star Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s58833_ll_h15_ae.png" group-title="Trinidad and Tobago" tvg-id="STRHEHD" tvc-guide-stationid="95949",Star Hits
+http://example.local/TTO-STRHEHD.ts
 #EXTINF:-1 tvg-chno="49263" tvg-name="Star Life" tvg-logo="https://zap2it.tmsimg.com/assets/s49263_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="STARLAT" tvc-guide-stationid="49263",Star Life
 http://example.local/TTO-STARLAT.ts
 #EXTINF:-1 tvg-chno="18812" tvg-name="Star Series" tvg-logo="https://zap2it.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="STARSER" tvc-guide-stationid="18812",Star Series
@@ -1105,14 +1119,14 @@ http://example.local/TTO-SMESP36.ts
 http://example.local/TTO-SMUS15.ts
 #EXTINF:-1 tvg-chno="68624" tvg-name="Stingray Hip Hop" tvg-logo="https://zap2it.tmsimg.com/assets/s68624_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="SMUS30" tvc-guide-stationid="68624",Stingray Hip Hop
 http://example.local/TTO-SMUS30.ts
-#EXTINF:-1 tvg-chno="67564" tvg-name="Stingray Hip-Hop/R&B" tvg-logo="https://zap2it.tmsimg.com/assets/s95856_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="SMUS28" tvc-guide-stationid="67564",Stingray Hip-Hop/R&B
-http://example.local/TTO-SMUS28.ts
 #EXTINF:-1 tvg-chno="45222" tvg-name="Stingray Hip-Hop/R&B" tvg-logo="https://zap2it.tmsimg.com/assets/s45222_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="SM033" tvc-guide-stationid="45222",Stingray Hip-Hop/R&B
 http://example.local/TTO-SM033.ts
-#EXTINF:-1 tvg-chno="67555" tvg-name="Stingray Hit List" tvg-logo="https://zap2it.tmsimg.com/assets/s21640_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="SMUS01" tvc-guide-stationid="67555",Stingray Hit List
-http://example.local/TTO-SMUS01.ts
+#EXTINF:-1 tvg-chno="67564" tvg-name="Stingray Hip-Hop/R&B" tvg-logo="https://zap2it.tmsimg.com/assets/s95856_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="SMUS28" tvc-guide-stationid="67564",Stingray Hip-Hop/R&B
+http://example.local/TTO-SMUS28.ts
 #EXTINF:-1 tvg-chno="21640" tvg-name="Stingray Hit List" tvg-logo="https://zap2it.tmsimg.com/assets/s21640_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="SM007" tvc-guide-stationid="21640",Stingray Hit List
 http://example.local/TTO-SM007.ts
+#EXTINF:-1 tvg-chno="67555" tvg-name="Stingray Hit List" tvg-logo="https://zap2it.tmsimg.com/assets/s21640_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="SMUS01" tvc-guide-stationid="67555",Stingray Hit List
+http://example.local/TTO-SMUS01.ts
 #EXTINF:-1 tvg-chno="68678" tvg-name="Stingray Holiday Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s68678_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="SMUS11" tvc-guide-stationid="68678",Stingray Holiday Hits
 http://example.local/TTO-SMUS11.ts
 #EXTINF:-1 tvg-chno="67557" tvg-name="Stingray Hot Country" tvg-logo="https://zap2it.tmsimg.com/assets/s67557_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="SMUS21" tvc-guide-stationid="67557",Stingray Hot Country
@@ -1133,10 +1147,10 @@ http://example.local/TTO-SMUS22.ts
 http://example.local/TTO-SMUS07.ts
 #EXTINF:-1 tvg-chno="45249" tvg-name="Stingray Opera Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s45249_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="SM031" tvc-guide-stationid="45249",Stingray Opera Plus
 http://example.local/TTO-SM031.ts
-#EXTINF:-1 tvg-chno="67558" tvg-name="Stingray Pop Adult" tvg-logo="https://zap2it.tmsimg.com/assets/s21637_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="SMUS02" tvc-guide-stationid="67558",Stingray Pop Adult
-http://example.local/TTO-SMUS02.ts
 #EXTINF:-1 tvg-chno="21637" tvg-name="Stingray Pop Adult" tvg-logo="https://zap2it.tmsimg.com/assets/s21637_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="SM004" tvc-guide-stationid="21637",Stingray Pop Adult
 http://example.local/TTO-SM004.ts
+#EXTINF:-1 tvg-chno="67558" tvg-name="Stingray Pop Adult" tvg-logo="https://zap2it.tmsimg.com/assets/s21637_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="SMUS02" tvc-guide-stationid="67558",Stingray Pop Adult
+http://example.local/TTO-SMUS02.ts
 #EXTINF:-1 tvg-chno="67575" tvg-name="Stingray Pop Classics" tvg-logo="https://zap2it.tmsimg.com/assets/s67575_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="SMUS37" tvc-guide-stationid="67575",Stingray Pop Classics
 http://example.local/TTO-SMUS37.ts
 #EXTINF:-1 tvg-chno="67566" tvg-name="Stingray Remember the '80s" tvg-logo="https://zap2it.tmsimg.com/assets/s67566_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="SMUS06" tvc-guide-stationid="67566",Stingray Remember the '80s
@@ -1147,10 +1161,10 @@ http://example.local/TTO-SMUS46.ts
 http://example.local/TTO-SMUS14.ts
 #EXTINF:-1 tvg-chno="67568" tvg-name="Stingray Rock Alternative" tvg-logo="https://zap2it.tmsimg.com/assets/s67568_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="SMUS13" tvc-guide-stationid="67568",Stingray Rock Alternative
 http://example.local/TTO-SMUS13.ts
-#EXTINF:-1 tvg-chno="68688" tvg-name="Stingray Rock en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s68688_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="SMUS48" tvc-guide-stationid="68688",Stingray Rock en Español
-http://example.local/TTO-SMUS48.ts
 #EXTINF:-1 tvg-chno="84417" tvg-name="Stingray Rock En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s95856_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="SMESP52" tvc-guide-stationid="84417",Stingray Rock En Español
 http://example.local/TTO-SMESP52.ts
+#EXTINF:-1 tvg-chno="68688" tvg-name="Stingray Rock en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s68688_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="SMUS48" tvc-guide-stationid="68688",Stingray Rock en Español
+http://example.local/TTO-SMUS48.ts
 #EXTINF:-1 tvg-chno="68687" tvg-name="Stingray Romance Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s88516_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="SMUS49" tvc-guide-stationid="68687",Stingray Romance Latino
 http://example.local/TTO-SMUS49.ts
 #EXTINF:-1 tvg-chno="77008" tvg-name="Stingray Rompepistas" tvg-logo="https://zap2it.tmsimg.com/assets/s95856_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="SMESP23" tvc-guide-stationid="77008",Stingray Rompepistas
@@ -1179,14 +1193,14 @@ http://example.local/TTO-SMESP30.ts
 http://example.local/TTO-SMUS45.ts
 #EXTINF:-1 tvg-chno="67580" tvg-name="Stingray Éxitos Tropicales" tvg-logo="https://zap2it.tmsimg.com/assets/s95856_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="SMUS44" tvc-guide-stationid="67580",Stingray Éxitos Tropicales
 http://example.local/TTO-SMUS44.ts
-#EXTINF:-1 tvg-chno="60688" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s29017_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="STULCOI" tvc-guide-stationid="60688",Studio Universal
-http://example.local/TTO-STULCOI.ts
 #EXTINF:-1 tvg-chno="29017" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s29017_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="STULM" tvc-guide-stationid="29017",Studio Universal
 http://example.local/TTO-STULM.ts
 #EXTINF:-1 tvg-chno="90605" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s90605_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="STULMHD" tvc-guide-stationid="90605",Studio Universal
 http://example.local/TTO-STULMHD.ts
 #EXTINF:-1 tvg-chno="16426" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s29017_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="STULA" tvc-guide-stationid="16426",Studio Universal
 http://example.local/TTO-STULA.ts
+#EXTINF:-1 tvg-chno="60688" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s29017_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="STULCOI" tvc-guide-stationid="60688",Studio Universal
+http://example.local/TTO-STULCOI.ts
 #EXTINF:-1 tvg-chno="16108" tvg-name="SundanceTV" tvg-logo="https://zap2it.tmsimg.com/assets/s16108_ll_h9_aa.png" group-title="Trinidad and Tobago" tvg-id="SUNDANC" tvc-guide-stationid="16108",SundanceTV
 http://example.local/TTO-SUNDANC.ts
 #EXTINF:-1 tvg-chno="11097" tvg-name="SYFY" tvg-logo="https://zap2it.tmsimg.com/assets/s11097_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="SYFY" tvc-guide-stationid="11097",SYFY
@@ -1231,36 +1245,36 @@ http://example.local/TTO-WEATH.ts
 http://example.local/TTO-WORD.ts
 #EXTINF:-1 tvg-chno="67579" tvg-name="TikTok Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s67579_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="SMUS43" tvc-guide-stationid="67579",TikTok Radio
 http://example.local/TTO-SMUS43.ts
-#EXTINF:-1 tvg-chno="73822" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s73822_ll_h15_ae.png" group-title="Trinidad and Tobago" tvg-id="TLCLASP" tvc-guide-stationid="73822",TLC
-http://example.local/TTO-TLCLASP.ts
 #EXTINF:-1 tvg-chno="11158" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s11158_ll_h15_ad.png" group-title="Trinidad and Tobago" tvg-id="TLC" tvc-guide-stationid="11158",TLC
 http://example.local/TTO-TLC.ts
+#EXTINF:-1 tvg-chno="73822" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s73822_ll_h15_ae.png" group-title="Trinidad and Tobago" tvg-id="TLCLASP" tvc-guide-stationid="73822",TLC
+http://example.local/TTO-TLCLASP.ts
 #EXTINF:-1 tvg-chno="73824" tvg-name="TLC Latin America (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s73822_ll_h15_ae.png" group-title="Trinidad and Tobago" tvg-id="TLCLAE" tvc-guide-stationid="73824",TLC Latin America (English)
 http://example.local/TTO-TLCLAE.ts
 #EXTINF:-1 tvg-chno="37232" tvg-name="TLNovelas" tvg-logo="https://zap2it.tmsimg.com/assets/s37232_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="TLNOVEL" tvc-guide-stationid="37232",TLNovelas
 http://example.local/TTO-TLNOVEL.ts
 #EXTINF:-1 tvg-chno="11164" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s11164_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="TNT" tvc-guide-stationid="11164",TNT
 http://example.local/TTO-TNT.ts
-#EXTINF:-1 tvg-chno="71148" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Trinidad and Tobago" tvg-id="TNTLDLY" tvc-guide-stationid="71148",TNT
-http://example.local/TTO-TNTLDLY.ts
-#EXTINF:-1 tvg-chno="83143" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="TNTLDEN" tvc-guide-stationid="83143",TNT
-http://example.local/TTO-TNTLDEN.ts
+#EXTINF:-1 tvg-chno="11165" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Trinidad and Tobago" tvg-id="TNTI" tvc-guide-stationid="11165",TNT
+http://example.local/TTO-TNTI.ts
 #EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Trinidad and Tobago" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
 http://example.local/TTO-TNTLC.ts
 #EXTINF:-1 tvg-chno="106062" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="TNTLCHH" tvc-guide-stationid="106062",TNT
 http://example.local/TTO-TNTLCHH.ts
 #EXTINF:-1 tvg-chno="59425" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Trinidad and Tobago" tvg-id="TNTLCHI" tvc-guide-stationid="59425",TNT
 http://example.local/TTO-TNTLCHI.ts
-#EXTINF:-1 tvg-chno="11165" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Trinidad and Tobago" tvg-id="TNTI" tvc-guide-stationid="11165",TNT
-http://example.local/TTO-TNTI.ts
+#EXTINF:-1 tvg-chno="71148" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Trinidad and Tobago" tvg-id="TNTLDLY" tvc-guide-stationid="71148",TNT
+http://example.local/TTO-TNTLDLY.ts
+#EXTINF:-1 tvg-chno="83143" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="TNTLDEN" tvc-guide-stationid="83143",TNT
+http://example.local/TTO-TNTLDEN.ts
 #EXTINF:-1 tvg-chno="42642" tvg-name="TNT HD" tvg-logo="https://zap2it.tmsimg.com/assets/s42642_ll_h15_ac.png" group-title="Trinidad and Tobago" tvg-id="TNTHD" tvc-guide-stationid="42642",TNT HD
 http://example.local/TTO-TNTHD.ts
-#EXTINF:-1 tvg-chno="92105" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="TNTSPAE" tvc-guide-stationid="92105",TNT Series
-http://example.local/TTO-TNTSPAE.ts
 #EXTINF:-1 tvg-chno="92090" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="TNTSRS" tvc-guide-stationid="92090",TNT Series
 http://example.local/TTO-TNTSRS.ts
 #EXTINF:-1 tvg-chno="106709" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="TNTSERH" tvc-guide-stationid="106709",TNT Series
 http://example.local/TTO-TNTSERH.ts
+#EXTINF:-1 tvg-chno="92105" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_ll_h15_ab.png" group-title="Trinidad and Tobago" tvg-id="TNTSPAE" tvc-guide-stationid="92105",TNT Series
+http://example.local/TTO-TNTSPAE.ts
 #EXTINF:-1 tvg-chno="63109" tvg-name="Tooncast" tvg-logo="https://zap2it.tmsimg.com/assets/s63109_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="TOONCST" tvc-guide-stationid="63109",Tooncast
 http://example.local/TTO-TOONCST.ts
 #EXTINF:-1 tvg-chno="67595" tvg-name="TOONCAST" tvg-logo="https://zap2it.tmsimg.com/assets/s63109_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="TNCSTEN" tvc-guide-stationid="67595",TOONCAST
@@ -1281,10 +1295,10 @@ http://example.local/TTO-TVNI.ts
 http://example.local/TTO-JAAGRIT.ts
 #EXTINF:-1 tvg-chno="16123" tvg-name="TV Land" tvg-logo="https://zap2it.tmsimg.com/assets/s16123_h3_aa.png" group-title="Trinidad and Tobago" tvg-id="TVLAND" tvc-guide-stationid="16123",TV Land
 http://example.local/TTO-TVLAND.ts
-#EXTINF:-1 tvg-chno="54090" tvg-name="TV4" tvg-logo="https://zap2it.tmsimg.com/assets/s54090_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="TV4SWED" tvc-guide-stationid="54090",TV4
-http://example.local/TTO-TV4SWED.ts
 #EXTINF:-1 tvg-chno="79677" tvg-name="TV4" group-title="Trinidad and Tobago" tvg-id="TV4TTO" tvc-guide-stationid="79677",TV4
 http://example.local/TTO-TV4TTO.ts
+#EXTINF:-1 tvg-chno="54090" tvg-name="TV4" tvg-logo="https://zap2it.tmsimg.com/assets/s54090_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="TV4SWED" tvc-guide-stationid="54090",TV4
+http://example.local/TTO-TV4SWED.ts
 #EXTINF:-1 tvg-chno="16422" tvg-name="TV5 Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16422_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="TV5L" tvc-guide-stationid="16422",TV5 Latin America
 http://example.local/TTO-TV5L.ts
 #EXTINF:-1 tvg-chno="16217" tvg-name="TVE" tvg-logo="https://zap2it.tmsimg.com/assets/s16217_ll_h15_aa.png" group-title="Trinidad and Tobago" tvg-id="TVEI" tvc-guide-stationid="16217",TVE

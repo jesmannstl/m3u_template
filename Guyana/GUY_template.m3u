@@ -131,8 +131,12 @@ http://example.local/GUY-GOLF.ts
 http://example.local/GUY-HBOP.ts
 #EXTINF:-1 tvg-chno="16585" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png" group-title="Guyana" tvg-id="HBOF" tvc-guide-stationid="16585",HBO Family
 http://example.local/GUY-HBOF.ts
-#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png" group-title="Guyana" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
+#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" group-title="Guyana" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
 http://example.local/GUY-HBOFP.ts
+#EXTINF:-1 tvg-chno="10241" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="Guyana" tvg-id="HBOHTS" tvc-guide-stationid="10241",HBO Hits
+http://example.local/GUY-HBOHTS.ts
+#EXTINF:-1 tvg-chno="10242" tvg-name="HBO Hits (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CL6E.png" group-title="Guyana" tvg-id="HBOHTP" tvc-guide-stationid="10242",HBO Hits (Pacific)
+http://example.local/GUY-HBOHTP.ts
 #EXTINF:-1 tvg-chno="74450" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Guyana" tvg-id="HBOSLA" tvc-guide-stationid="74450",HBO Signature
 http://example.local/GUY-HBOSLA.ts
 #EXTINF:-1 tvg-chno="34887" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Guyana" tvg-id="HBOXMX" tvc-guide-stationid="34887",HBO Xtreme

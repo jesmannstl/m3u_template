@@ -27,7 +27,9 @@ http://example.local/CUW-AMCMEX.ts
 http://example.local/CUW-AMC.ts
 #EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Curacao" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
 http://example.local/CUW-AMCMXHD.ts
-#EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="Curacao" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
+#EXTINF:-1 tvg-chno="17457" tvg-name="AMC Series" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002GM3XT.png" group-title="Curacao" tvg-id="AMCSRS" tvc-guide-stationid="17457",AMC Series
+http://example.local/CUW-AMCSRS.ts
+#EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="Curacao" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
 http://example.local/CUW-ABC.ts
 #EXTINF:-1 tvg-chno="18649" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Curacao" tvg-id="ANIPL" tvc-guide-stationid="18649",Animal Planet
 http://example.local/CUW-ANIPL.ts
@@ -189,10 +191,10 @@ http://example.local/CUW-TOONL.ts
 http://example.local/CUW-CARTPHD.ts
 #EXTINF:-1 tvg-chno="42502" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Curacao" tvg-id="TOONES" tvc-guide-stationid="42502",Cartoon Network
 http://example.local/CUW-TOONES.ts
-#EXTINF:-1 tvg-chno="55719" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Curacao" tvg-id="CARTOM" tvc-guide-stationid="55719",Cartoonito
-http://example.local/CUW-CARTOM.ts
 #EXTINF:-1 tvg-chno="44832" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Curacao" tvg-id="CARTOAI" tvc-guide-stationid="44832",Cartoonito
 http://example.local/CUW-CARTOAI.ts
+#EXTINF:-1 tvg-chno="55719" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Curacao" tvg-id="CARTOM" tvc-guide-stationid="55719",Cartoonito
+http://example.local/CUW-CARTOM.ts
 #EXTINF:-1 tvg-chno="36916" tvg-name="CBA Television" group-title="Curacao" tvg-id="CBATV" tvc-guide-stationid="36916",CBA Television
 http://example.local/CUW-CBATV.ts
 #EXTINF:-1 tvg-chno="10092" tvg-name="CBMT - CBC Montreal (CBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10084_ll_h15_ab.png" group-title="Curacao" tvg-id="CBMT" tvc-guide-stationid="10092",CBMT - CBC Montreal (CBC)
@@ -241,10 +243,10 @@ http://example.local/CUW-DT2SPT.ts
 http://example.local/CUW-DSC.ts
 #EXTINF:-1 tvg-chno="96307" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_h3_aa.png" group-title="Curacao" tvg-id="DISCCHD" tvc-guide-stationid="96307",Discovery Channel
 http://example.local/CUW-DISCCHD.ts
-#EXTINF:-1 tvg-chno="25788" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="Curacao" tvg-id="DISCCH" tvc-guide-stationid="25788",Discovery Channel
-http://example.local/CUW-DISCCH.ts
 #EXTINF:-1 tvg-chno="15800" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="Curacao" tvg-id="TDCI" tvc-guide-stationid="15800",Discovery Channel
 http://example.local/CUW-TDCI.ts
+#EXTINF:-1 tvg-chno="25788" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="Curacao" tvg-id="DISCCH" tvc-guide-stationid="25788",Discovery Channel
+http://example.local/CUW-DISCCH.ts
 #EXTINF:-1 tvg-chno="48524" tvg-name="Discovery Civilization" tvg-logo="https://zap2it.tmsimg.com/assets/s48524_ll_h15_aa.png" group-title="Curacao" tvg-id="DCIVILI" tvc-guide-stationid="48524",Discovery Civilization
 http://example.local/CUW-DCIVILI.ts
 #EXTINF:-1 tvg-chno="16618" tvg-name="Discovery Family Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16618_ll_h15_ab.png" group-title="Curacao" tvg-id="DFC" tvc-guide-stationid="16618",Discovery Family Channel
@@ -261,10 +263,10 @@ http://example.local/CUW-DKNLM.ts
 http://example.local/CUW-DKNI.ts
 #EXTINF:-1 tvg-chno="81239" tvg-name="Discovery Kids LatinAm HD" tvg-logo="https://zap2it.tmsimg.com/assets/s81239_ll_h15_aa.png" group-title="Curacao" tvg-id="DKNLHD" tvc-guide-stationid="81239",Discovery Kids LatinAm HD
 http://example.local/CUW-DKNLHD.ts
-#EXTINF:-1 tvg-chno="46610" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s48527_ll_h15_aa.png" group-title="Curacao" tvg-id="DSCIENL" tvc-guide-stationid="46610",Discovery Science
-http://example.local/CUW-DSCIENL.ts
 #EXTINF:-1 tvg-chno="48527" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s48527_ll_h15_aa.png" group-title="Curacao" tvg-id="DSCIENI" tvc-guide-stationid="48527",Discovery Science
 http://example.local/CUW-DSCIENI.ts
+#EXTINF:-1 tvg-chno="46610" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s48527_ll_h15_aa.png" group-title="Curacao" tvg-id="DSCIENL" tvc-guide-stationid="46610",Discovery Science
+http://example.local/CUW-DSCIENL.ts
 #EXTINF:-1 tvg-chno="65301" tvg-name="Discovery Theater HD" tvg-logo="https://zap2it.tmsimg.com/assets/s65940_ll_h15_ab.png" group-title="Curacao" tvg-id="DTHLIHD" tvc-guide-stationid="65301",Discovery Theater HD
 http://example.local/CUW-DTHLIHD.ts
 #EXTINF:-1 tvg-chno="46608" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="Curacao" tvg-id="DTURBOL" tvc-guide-stationid="46608",Discovery Turbo
@@ -277,10 +279,10 @@ http://example.local/CUW-DWRLDHD.ts
 http://example.local/CUW-DWRLDHE.ts
 #EXTINF:-1 tvg-chno="19234" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s19234_ll_h15_ab.png" group-title="Curacao" tvg-id="DISNL" tvc-guide-stationid="19234",Disney Channel
 http://example.local/CUW-DISNL.ts
-#EXTINF:-1 tvg-chno="70506" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Curacao" tvg-id="DISJMXE" tvc-guide-stationid="70506",Disney Junior
-http://example.local/CUW-DISJMXE.ts
 #EXTINF:-1 tvg-chno="61311" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Curacao" tvg-id="DISNJMX" tvc-guide-stationid="61311",Disney Junior
 http://example.local/CUW-DISNJMX.ts
+#EXTINF:-1 tvg-chno="70506" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Curacao" tvg-id="DISJMXE" tvc-guide-stationid="70506",Disney Junior
+http://example.local/CUW-DISJMXE.ts
 #EXTINF:-1 tvg-chno="16563" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_ll_h15_ab.png" group-title="Curacao" tvg-id="DISNXD" tvc-guide-stationid="16563",Disney XD
 http://example.local/CUW-DISNXD.ts
 #EXTINF:-1 tvg-chno="54930" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_ll_h15_ab.png" group-title="Curacao" tvg-id="DISNXMU" tvc-guide-stationid="54930",Disney XD
@@ -529,17 +531,17 @@ http://example.local/CUW-GAYELLE.ts
 http://example.local/CUW-GLITZ.ts
 #EXTINF:-1 tvg-chno="33904" tvg-name="Globovision" tvg-logo="https://zap2it.tmsimg.com/assets/s33904_ll_h9_aa.png" group-title="Curacao" tvg-id="GLOVIS" tvc-guide-stationid="33904",Globovision
 http://example.local/CUW-GLOVIS.ts
-#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Curacao" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
-http://example.local/CUW-GLDEN.ts
 #EXTINF:-1 tvg-chno="16298" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Curacao" tvg-id="GLDENM" tvc-guide-stationid="16298",Golden
 http://example.local/CUW-GLDENM.ts
+#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Curacao" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
+http://example.local/CUW-GLDEN.ts
 #EXTINF:-1 tvg-chno="58392" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Curacao" tvg-id="GLDENME" tvc-guide-stationid="58392",Golden
 http://example.local/CUW-GLDENME.ts
 #EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Curacao" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
 http://example.local/CUW-GOLDEDG.ts
 #EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Curacao" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
 http://example.local/CUW-GOLDNHD.ts
-#EXTINF:-1 tvg-chno="70718" tvg-name="Golden Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s68317_ll_h15_ab.png" group-title="Curacao" tvg-id="GOLDNHE" tvc-guide-stationid="70718",Golden Plus
+#EXTINF:-1 tvg-chno="70718" tvg-name="Golden Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s68317_h3_aa.png" group-title="Curacao" tvg-id="GOLDNHE" tvc-guide-stationid="70718",Golden Plus
 http://example.local/CUW-GOLDNHE.ts
 #EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Curacao" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
 http://example.local/CUW-GOLF.ts
@@ -563,8 +565,12 @@ http://example.local/CUW-HBOF.ts
 http://example.local/CUW-HBOFMHD.ts
 #EXTINF:-1 tvg-chno="57396" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Curacao" tvg-id="HBOFAME" tvc-guide-stationid="57396",HBO Family
 http://example.local/CUW-HBOFAME.ts
-#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png" group-title="Curacao" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
+#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" group-title="Curacao" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
 http://example.local/CUW-HBOFP.ts
+#EXTINF:-1 tvg-chno="10241" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="Curacao" tvg-id="HBOHTS" tvc-guide-stationid="10241",HBO Hits
+http://example.local/CUW-HBOHTS.ts
+#EXTINF:-1 tvg-chno="10242" tvg-name="HBO Hits (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CL6E.png" group-title="Curacao" tvg-id="HBOHTP" tvc-guide-stationid="10242",HBO Hits (Pacific)
+http://example.local/CUW-HBOHTP.ts
 #EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_aa.png" group-title="Curacao" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
 http://example.local/CUW-HBOLAT.ts
 #EXTINF:-1 tvg-chno="59837" tvg-name="HBO Latino HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_ba.png" group-title="Curacao" tvg-id="HBOLAHD" tvc-guide-stationid="59837",HBO Latino HD
@@ -659,8 +665,6 @@ http://example.local/CUW-LMNHD.ts
 http://example.local/CUW-MAGN.ts
 #EXTINF:-1 tvg-chno="73869" tvg-name="Manhandle XX.5 - New Frontier" tvg-logo="https://zap2it.tmsimg.com/assets/s73869_ll_h15_aa.png" group-title="Curacao" tvg-id="MANXX5" tvc-guide-stationid="73869",Manhandle XX.5 - New Frontier
 http://example.local/CUW-MANXX5.ts
-#EXTINF:-1 tvg-chno="17457" tvg-name="Mas Chic" tvg-logo="https://zap2it.tmsimg.com/assets/s17457_ll_h15_ad.png" group-title="Curacao" tvg-id="MASCHIC" tvc-guide-stationid="17457",Mas Chic
-http://example.local/CUW-MASCHIC.ts
 #EXTINF:-1 tvg-chno="57399" tvg-name="Max Prime Latin Am Panregional English" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_h3_ba.png" group-title="Curacao" tvg-id="MPRENG" tvc-guide-stationid="57399",Max Prime Latin Am Panregional English
 http://example.local/CUW-MPRENG.ts
 #EXTINF:-1 tvg-chno="62079" tvg-name="MLB Network" tvg-logo="https://zap2it.tmsimg.com/assets/s62079_ll_h15_aa.png" group-title="Curacao" tvg-id="MLBN" tvc-guide-stationid="62079",MLB Network
@@ -759,10 +763,10 @@ http://example.local/CUW-SXTRENG.ts
 http://example.local/CUW-SETASUK.ts
 #EXTINF:-1 tvg-chno="69490" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png" group-title="Curacao" tvg-id="SPACEEH" tvc-guide-stationid="69490",Space
 http://example.local/CUW-SPACEEH.ts
-#EXTINF:-1 tvg-chno="66349" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png" group-title="Curacao" tvg-id="SPACMHD" tvc-guide-stationid="66349",Space
-http://example.local/CUW-SPACMHD.ts
 #EXTINF:-1 tvg-chno="68021" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png" group-title="Curacao" tvg-id="SPACEHD" tvc-guide-stationid="68021",Space
 http://example.local/CUW-SPACEHD.ts
+#EXTINF:-1 tvg-chno="66349" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png" group-title="Curacao" tvg-id="SPACMHD" tvc-guide-stationid="66349",Space
+http://example.local/CUW-SPACMHD.ts
 #EXTINF:-1 tvg-chno="60399" tvg-name="Sportsman Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60399_ll_h15_ad.png" group-title="Curacao" tvg-id="SPMANHD" tvc-guide-stationid="60399",Sportsman Channel HD
 http://example.local/CUW-SPMANHD.ts
 #EXTINF:-1 tvg-chno="82672" tvg-name="SportsMax 2" tvg-logo="https://zap2it.tmsimg.com/assets/s82672_ll_h15_ac.png" group-title="Curacao" tvg-id="SPMAX2" tvc-guide-stationid="82672",SportsMax 2
@@ -779,12 +783,12 @@ http://example.local/CUW-SPORTVI.ts
 http://example.local/CUW-STARACE.ts
 #EXTINF:-1 tvg-chno="74574" tvg-name="Star Action" tvg-logo="https://zap2it.tmsimg.com/assets/s58835_ll_h15_ac.png" group-title="Curacao" tvg-id="STRACHD" tvc-guide-stationid="74574",Star Action
 http://example.local/CUW-STRACHD.ts
-#EXTINF:-1 tvg-chno="58835" tvg-name="Star Action" tvg-logo="https://zap2it.tmsimg.com/assets/s58835_ll_h15_ac.png" group-title="Curacao" tvg-id="STRACO" tvc-guide-stationid="58835",Star Action
-http://example.local/CUW-STRACO.ts
 #EXTINF:-1 tvg-chno="58892" tvg-name="Star Action" tvg-logo="https://zap2it.tmsimg.com/assets/s58835_ll_h15_ac.png" group-title="Curacao" tvg-id="STRACEE" tvc-guide-stationid="58892",Star Action
 http://example.local/CUW-STRACEE.ts
 #EXTINF:-1 tvg-chno="58893" tvg-name="Star Action" tvg-logo="https://zap2it.tmsimg.com/assets/s58835_ll_h15_ac.png" group-title="Curacao" tvg-id="STRACOE" tvc-guide-stationid="58893",Star Action
 http://example.local/CUW-STRACOE.ts
+#EXTINF:-1 tvg-chno="58835" tvg-name="Star Action" tvg-logo="https://zap2it.tmsimg.com/assets/s58835_ll_h15_ac.png" group-title="Curacao" tvg-id="STRACO" tvc-guide-stationid="58835",Star Action
+http://example.local/CUW-STRACO.ts
 #EXTINF:-1 tvg-chno="15688" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_ll_h15_ac.png" group-title="Curacao" tvg-id="STARMEX" tvc-guide-stationid="15688",Star Channel
 http://example.local/CUW-STARMEX.ts
 #EXTINF:-1 tvg-chno="92111" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_h3_ba.png" group-title="Curacao" tvg-id="STRANHD" tvc-guide-stationid="92111",Star Channel
@@ -899,10 +903,10 @@ http://example.local/CUW-THIT.ts
 http://example.local/CUW-THMU.ts
 #EXTINF:-1 tvg-chno="45243" tvg-name="Telemicro Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s45243_ll_h9_aa.png" group-title="Curacao" tvg-id="TMICRO" tvc-guide-stationid="45243",Telemicro Internacional
 http://example.local/CUW-TMICRO.ts
-#EXTINF:-1 tvg-chno="64835" tvg-name="Telemundo Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s64835_ll_h15_ac.png" group-title="Curacao" tvg-id="CABTELE" tvc-guide-stationid="64835",Telemundo Internacional
-http://example.local/CUW-CABTELE.ts
 #EXTINF:-1 tvg-chno="87116" tvg-name="Telemundo Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s102862_ll_h15_aa.png" group-title="Curacao" tvg-id="TELIV" tvc-guide-stationid="87116",Telemundo Internacional
 http://example.local/CUW-TELIV.ts
+#EXTINF:-1 tvg-chno="64835" tvg-name="Telemundo Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s64835_ll_h15_ac.png" group-title="Curacao" tvg-id="CABTELE" tvc-guide-stationid="64835",Telemundo Internacional
+http://example.local/CUW-CABTELE.ts
 #EXTINF:-1 tvg-chno="47620" tvg-name="TeleSur" tvg-logo="https://zap2it.tmsimg.com/assets/s47620_ll_h15_aa.png" group-title="Curacao" tvg-id="TELESUR" tvc-guide-stationid="47620",TeleSur
 http://example.local/CUW-TELESUR.ts
 #EXTINF:-1 tvg-chno="36533" tvg-name="TELEVEN" tvg-logo="https://zap2it.tmsimg.com/assets/s36533_ll_h15_aa.png" group-title="Curacao" tvg-id="TELEVEN" tvc-guide-stationid="36533",TELEVEN
@@ -927,12 +931,12 @@ http://example.local/CUW-TLNOVEL.ts
 http://example.local/CUW-TNTLC.ts
 #EXTINF:-1 tvg-chno="106062" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Curacao" tvg-id="TNTLCHH" tvc-guide-stationid="106062",TNT
 http://example.local/CUW-TNTLCHH.ts
-#EXTINF:-1 tvg-chno="11164" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s11164_h3_aa.png" group-title="Curacao" tvg-id="TNT" tvc-guide-stationid="11164",TNT
-http://example.local/CUW-TNT.ts
 #EXTINF:-1 tvg-chno="83143" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_h3_aa.png" group-title="Curacao" tvg-id="TNTLDEN" tvc-guide-stationid="83143",TNT
 http://example.local/CUW-TNTLDEN.ts
 #EXTINF:-1 tvg-chno="97390" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Curacao" tvg-id="TNTLDEH" tvc-guide-stationid="97390",TNT
 http://example.local/CUW-TNTLDEH.ts
+#EXTINF:-1 tvg-chno="11164" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s11164_h3_aa.png" group-title="Curacao" tvg-id="TNT" tvc-guide-stationid="11164",TNT
+http://example.local/CUW-TNT.ts
 #EXTINF:-1 tvg-chno="92090" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_ll_h15_ab.png" group-title="Curacao" tvg-id="TNTSRS" tvc-guide-stationid="92090",TNT Series
 http://example.local/CUW-TNTSRS.ts
 #EXTINF:-1 tvg-chno="106709" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_ll_h15_ab.png" group-title="Curacao" tvg-id="TNTSERH" tvc-guide-stationid="106709",TNT Series
@@ -967,10 +971,10 @@ http://example.local/CUW-UNTVM.ts
 http://example.local/CUW-USALA.ts
 #EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Curacao" tvg-id="USALIH" tvc-guide-stationid="101357",USA
 http://example.local/CUW-USALIH.ts
-#EXTINF:-1 tvg-chno="75599" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s75599_ll_h15_ab.png" group-title="Curacao" tvg-id="USABR" tvc-guide-stationid="75599",USA
-http://example.local/CUW-USABR.ts
 #EXTINF:-1 tvg-chno="58427" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Curacao" tvg-id="USALI" tvc-guide-stationid="58427",USA
 http://example.local/CUW-USALI.ts
+#EXTINF:-1 tvg-chno="75599" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s75599_ll_h15_ab.png" group-title="Curacao" tvg-id="USABR" tvc-guide-stationid="75599",USA
+http://example.local/CUW-USABR.ts
 #EXTINF:-1 tvg-chno="41725" tvg-name="VENEVISION" tvg-logo="https://zap2it.tmsimg.com/assets/s41725_ll_h15_ad.png" group-title="Curacao" tvg-id="VENE" tvc-guide-stationid="41725",VENEVISION
 http://example.local/CUW-VENE.ts
 #EXTINF:-1 tvg-chno="16498" tvg-name="Venus" tvg-logo="https://zap2it.tmsimg.com/assets/s16498_ll_h15_aa.png" group-title="Curacao" tvg-id="VNUS" tvc-guide-stationid="16498",Venus
@@ -1011,9 +1015,9 @@ http://example.local/CUW-XTSY.ts
 http://example.local/CUW-ZEECIN.ts
 #EXTINF:-1 tvg-chno="90968" tvg-name="Zee TV Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s90968_ll_h15_aa.png" group-title="Curacao" tvg-id="ZEECAR" tvc-guide-stationid="90968",Zee TV Caribbean
 http://example.local/CUW-ZEECAR.ts
-#EXTINF:-1 tvg-chno="21497" tvg-name="Zee TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0022HE0M.png" group-title="Curacao" tvg-id="ZEE" tvc-guide-stationid="21497",Zee TV HD
-http://example.local/CUW-ZEE.ts
 #EXTINF:-1 tvg-chno="77032" tvg-name="Zee TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0026XG6J.png" group-title="Curacao" tvg-id="ZEETVH" tvc-guide-stationid="77032",Zee TV HD
 http://example.local/CUW-ZEETVH.ts
+#EXTINF:-1 tvg-chno="21497" tvg-name="Zee TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0022HE0M.png" group-title="Curacao" tvg-id="ZEE" tvc-guide-stationid="21497",Zee TV HD
+http://example.local/CUW-ZEE.ts
 #EXTINF:-1 tvg-chno="110065" tvg-name="ZooMoo" tvg-logo="https://zap2it.tmsimg.com/assets/s89920_ll_h15_ab.png" group-title="Curacao" tvg-id="ZOOMOSH" tvc-guide-stationid="110065",ZooMoo
 http://example.local/CUW-ZOOMOSH.ts

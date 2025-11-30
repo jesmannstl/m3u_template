@@ -17,6 +17,8 @@ http://example.local/ABW-AMCMEX.ts
 http://example.local/ABW-AMC.ts
 #EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Aruba" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
 http://example.local/ABW-AMCMXHD.ts
+#EXTINF:-1 tvg-chno="87939" tvg-name="AMC Series" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002GM3XT.png" group-title="Aruba" tvg-id="AMCSRSEN" tvc-guide-stationid="87939",AMC Series
+http://example.local/ABW-AMCSRSEN.ts
 #EXTINF:-1 tvg-chno="18649" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Aruba" tvg-id="ANIPL" tvc-guide-stationid="18649",Animal Planet
 http://example.local/ABW-ANIPL.ts
 #EXTINF:-1 tvg-chno="97167" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_h3_ba.png" group-title="Aruba" tvg-id="ANIPLH" tvc-guide-stationid="97167",Animal Planet
@@ -287,10 +289,10 @@ http://example.local/ABW-GAME1.ts
 http://example.local/ABW-GLITZ.ts
 #EXTINF:-1 tvg-chno="33904" tvg-name="Globovision" tvg-logo="https://zap2it.tmsimg.com/assets/s33904_ll_h9_aa.png" group-title="Aruba" tvg-id="GLOVIS" tvc-guide-stationid="33904",Globovision
 http://example.local/ABW-GLOVIS.ts
-#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Aruba" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
-http://example.local/ABW-GLDEN.ts
 #EXTINF:-1 tvg-chno="16298" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Aruba" tvg-id="GLDENM" tvc-guide-stationid="16298",Golden
 http://example.local/ABW-GLDENM.ts
+#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Aruba" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
+http://example.local/ABW-GLDEN.ts
 #EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Aruba" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
 http://example.local/ABW-GOLDEDG.ts
 #EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Aruba" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
@@ -315,8 +317,12 @@ http://example.local/ABW-HBO2LA.ts
 http://example.local/ABW-HBOF.ts
 #EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Aruba" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
 http://example.local/ABW-HBOFMHD.ts
-#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png" group-title="Aruba" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
+#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" group-title="Aruba" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
 http://example.local/ABW-HBOFP.ts
+#EXTINF:-1 tvg-chno="10241" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="Aruba" tvg-id="HBOHTS" tvc-guide-stationid="10241",HBO Hits
+http://example.local/ABW-HBOHTS.ts
+#EXTINF:-1 tvg-chno="10242" tvg-name="HBO Hits (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CL6E.png" group-title="Aruba" tvg-id="HBOHTP" tvc-guide-stationid="10242",HBO Hits (Pacific)
+http://example.local/ABW-HBOHTP.ts
 #EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_aa.png" group-title="Aruba" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
 http://example.local/ABW-HBOLAT.ts
 #EXTINF:-1 tvg-chno="59837" tvg-name="HBO Latino HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_ba.png" group-title="Aruba" tvg-id="HBOLAHD" tvc-guide-stationid="59837",HBO Latino HD
@@ -385,8 +391,6 @@ http://example.local/ABW-LMN.ts
 http://example.local/ABW-LMNHD.ts
 #EXTINF:-1 tvg-chno="18544" tvg-name="Magnolia Network" tvg-logo="https://zap2it.tmsimg.com/assets/s18544_ll_h15_ad.png" group-title="Aruba" tvg-id="MAGN" tvc-guide-stationid="18544",Magnolia Network
 http://example.local/ABW-MAGN.ts
-#EXTINF:-1 tvg-chno="87939" tvg-name="Mas Chic" tvg-logo="https://zap2it.tmsimg.com/assets/s17457_ll_h15_ad.png" group-title="Aruba" tvg-id="MASCHIE" tvc-guide-stationid="87939",Mas Chic
-http://example.local/ABW-MASCHIE.ts
 #EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Aruba" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
 http://example.local/ABW-MTHD.ts
 #EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="Aruba" tvg-id="MTVL" tvc-guide-stationid="12712",MTV
@@ -619,7 +623,7 @@ http://example.local/ABW-UNIRE.ts
 http://example.local/ABW-UNTVM.ts
 #EXTINF:-1 tvg-chno="83015" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Aruba" tvg-id="UNTVME" tvc-guide-stationid="83015",Universal TV
 http://example.local/ABW-UNTVME.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" group-title="Aruba" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Aruba" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/ABW-UNI.ts
 #EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Aruba" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/ABW-USALA.ts

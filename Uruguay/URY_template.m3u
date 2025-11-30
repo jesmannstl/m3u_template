@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="18955" tvg-name="A&E" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_ll_h15_ab.png" group-title="Uruguay" tvg-id="AEMX" tvc-guide-stationid="18955",A&E
-http://example.local/URY-AEMX.ts
 #EXTINF:-1 tvg-chno="71743" tvg-name="A&E" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_h3_aa.png" group-title="Uruguay" tvg-id="AEARGHD" tvc-guide-stationid="71743",A&E
 http://example.local/URY-AEARGHD.ts
+#EXTINF:-1 tvg-chno="18955" tvg-name="A&E" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_ll_h15_ab.png" group-title="Uruguay" tvg-id="AEMX" tvc-guide-stationid="18955",A&E
+http://example.local/URY-AEMX.ts
 #EXTINF:-1 tvg-chno="159475" tvg-name="A&E North HD" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_ll_h15_ab.png" group-title="Uruguay" tvg-id="AENORH" tvc-guide-stationid="159475",A&E North HD
 http://example.local/URY-AENORH.ts
-#EXTINF:-1 tvg-chno="83162" tvg-name="Adrenalina Sports Network" tvg-logo="https://zap2it.tmsimg.com/assets/s83162_ll_h15_ad.png" group-title="Uruguay" tvg-id="ADRESN" tvc-guide-stationid="83162",Adrenalina Sports Network
-http://example.local/URY-ADRESN.ts
 #EXTINF:-1 tvg-chno="83166" tvg-name="Adrenalina Sports Network" tvg-logo="https://zap2it.tmsimg.com/assets/s83162_h3_aa.png" group-title="Uruguay" tvg-id="ADRESNH" tvc-guide-stationid="83166",Adrenalina Sports Network
 http://example.local/URY-ADRESNH.ts
+#EXTINF:-1 tvg-chno="83162" tvg-name="Adrenalina Sports Network" tvg-logo="https://zap2it.tmsimg.com/assets/s83162_ll_h15_ad.png" group-title="Uruguay" tvg-id="ADRESN" tvc-guide-stationid="83162",Adrenalina Sports Network
+http://example.local/URY-ADRESN.ts
 #EXTINF:-1 tvg-chno="16496" tvg-name="Adult Swim" tvg-logo="https://zap2it.tmsimg.com/assets/s16496_ll_h15_ad.png" group-title="Uruguay" tvg-id="ADSLA" tvc-guide-stationid="16496",Adult Swim
 http://example.local/URY-ADSLA.ts
 #EXTINF:-1 tvg-chno="68223" tvg-name="Adult Swim" tvg-logo="https://zap2it.tmsimg.com/assets/s68223_ll_h15_ad.png" group-title="Uruguay" tvg-id="ADSLAHD" tvc-guide-stationid="68223",Adult Swim
@@ -19,6 +19,10 @@ http://example.local/URY-ALLEGRO.ts
 http://example.local/URY-AMCMEX.ts
 #EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Uruguay" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
 http://example.local/URY-AMCMXHD.ts
+#EXTINF:-1 tvg-chno="17457" tvg-name="AMC Series" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002GM3XT.png" group-title="Uruguay" tvg-id="AMCSRS" tvc-guide-stationid="17457",AMC Series
+http://example.local/URY-AMCSRS.ts
+#EXTINF:-1 tvg-chno="96306" tvg-name="AMC Series HD" tvg-logo="https://zap2it.tmsimg.com/assets/s17457_h3_ba.png" group-title="Uruguay" tvg-id="AMCSRSHD" tvc-guide-stationid="96306",AMC Series HD
+http://example.local/URY-AMCSRSHD.ts
 #EXTINF:-1 tvg-chno="16272" tvg-name="America 24" tvg-logo="https://zap2it.tmsimg.com/assets/s16272_ll_h15_ac.png" group-title="Uruguay" tvg-id="AMER24" tvc-guide-stationid="16272",America 24
 http://example.local/URY-AMER24.ts
 #EXTINF:-1 tvg-chno="99798" tvg-name="America 24 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s16272_ll_h15_ac.png" group-title="Uruguay" tvg-id="AMR24HD" tvc-guide-stationid="99798",America 24 HD
@@ -27,10 +31,10 @@ http://example.local/URY-AMR24HD.ts
 http://example.local/URY-AMSP.ts
 #EXTINF:-1 tvg-chno="98573" tvg-name="Americable USA Network" group-title="Uruguay" tvg-id="AMUSA" tvc-guide-stationid="98573",Americable USA Network
 http://example.local/URY-AMUSA.ts
-#EXTINF:-1 tvg-chno="112229" tvg-name="América TV" tvg-logo="https://zap2it.tmsimg.com/assets/s16395_h3_aa.png" group-title="Uruguay" tvg-id="AMETVA" tvc-guide-stationid="112229",América TV
-http://example.local/URY-AMETVA.ts
 #EXTINF:-1 tvg-chno="16395" tvg-name="América Tv" tvg-logo="https://zap2it.tmsimg.com/assets/s16395_h3_aa.png" group-title="Uruguay" tvg-id="AMSAT" tvc-guide-stationid="16395",América Tv
 http://example.local/URY-AMSAT.ts
+#EXTINF:-1 tvg-chno="112229" tvg-name="América TV" tvg-logo="https://zap2it.tmsimg.com/assets/s16395_h3_aa.png" group-title="Uruguay" tvg-id="AMETVA" tvc-guide-stationid="112229",América TV
+http://example.local/URY-AMETVA.ts
 #EXTINF:-1 tvg-chno="18649" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Uruguay" tvg-id="ANIPL" tvc-guide-stationid="18649",Animal Planet
 http://example.local/URY-ANIPL.ts
 #EXTINF:-1 tvg-chno="97167" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_h3_ba.png" group-title="Uruguay" tvg-id="ANIPLH" tvc-guide-stationid="97167",Animal Planet
@@ -85,10 +89,10 @@ http://example.local/URY-EXITO70.ts
 http://example.local/URY-EXITO80.ts
 #EXTINF:-1 tvg-chno="41078" tvg-name="Audio DLA Éxitos de los 90" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png" group-title="Uruguay" tvg-id="EXITO90" tvc-guide-stationid="41078",Audio DLA Éxitos de los 90
 http://example.local/URY-EXITO90.ts
-#EXTINF:-1 tvg-chno="72534" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s72534_ll_h15_ab.png" group-title="Uruguay" tvg-id="AXNHD" tvc-guide-stationid="72534",AXN
-http://example.local/URY-AXNHD.ts
 #EXTINF:-1 tvg-chno="26083" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s17484_ll_h15_ab.png" group-title="Uruguay" tvg-id="AXNARG" tvc-guide-stationid="26083",AXN
 http://example.local/URY-AXNARG.ts
+#EXTINF:-1 tvg-chno="72534" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s72534_ll_h15_ab.png" group-title="Uruguay" tvg-id="AXNHD" tvc-guide-stationid="72534",AXN
+http://example.local/URY-AXNHD.ts
 #EXTINF:-1 tvg-chno="106791" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s72534_ll_h15_ab.png" group-title="Uruguay" tvg-id="AXNARGH" tvc-guide-stationid="106791",AXN
 http://example.local/URY-AXNARGH.ts
 #EXTINF:-1 tvg-chno="56036" tvg-name="Baby Tv" tvg-logo="https://zap2it.tmsimg.com/assets/s56036_ll_h15_ab.png" group-title="Uruguay" tvg-id="BABYTVL" tvc-guide-stationid="56036",Baby Tv
@@ -127,10 +131,10 @@ http://example.local/URY-CAN11PT.ts
 http://example.local/URY-CANALTW.ts
 #EXTINF:-1 tvg-chno="20742" tvg-name="Canal 24 Horas HD" tvg-logo="https://zap2it.tmsimg.com/assets/s20742_ll_h9_aa.png" group-title="Uruguay" tvg-id="CAN24" tvc-guide-stationid="20742",Canal 24 Horas HD
 http://example.local/URY-CAN24.ts
-#EXTINF:-1 tvg-chno="105339" tvg-name="Canal 26" tvg-logo="https://zap2it.tmsimg.com/assets/s103103_ll_h15_ab.png" group-title="Uruguay" tvg-id="CAN26SD" tvc-guide-stationid="105339",Canal 26
-http://example.local/URY-CAN26SD.ts
 #EXTINF:-1 tvg-chno="103103" tvg-name="Canal 26" tvg-logo="https://zap2it.tmsimg.com/assets/s103103_ll_h15_ab.png" group-title="Uruguay" tvg-id="CAN26HD" tvc-guide-stationid="103103",Canal 26
 http://example.local/URY-CAN26HD.ts
+#EXTINF:-1 tvg-chno="105339" tvg-name="Canal 26" tvg-logo="https://zap2it.tmsimg.com/assets/s103103_ll_h15_ab.png" group-title="Uruguay" tvg-id="CAN26SD" tvc-guide-stationid="105339",Canal 26
+http://example.local/URY-CAN26SD.ts
 #EXTINF:-1 tvg-chno="75990" tvg-name="Canal 4" tvg-logo="https://zap2it.tmsimg.com/assets/s75990_h3_aa.png" group-title="Uruguay" tvg-id="MONTTV" tvc-guide-stationid="75990",Canal 4
 http://example.local/URY-MONTTV.ts
 #EXTINF:-1 tvg-chno="91682" tvg-name="Canal 4 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75990_ll_h15_ac.png" group-title="Uruguay" tvg-id="MONTTHD" tvc-guide-stationid="91682",Canal 4 HD
@@ -161,16 +165,16 @@ http://example.local/URY-CARAI.ts
 http://example.local/URY-CARA.ts
 #EXTINF:-1 tvg-chno="59562" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Uruguay" tvg-id="TOONARG" tvc-guide-stationid="59562",Cartoon Network
 http://example.local/URY-TOONARG.ts
-#EXTINF:-1 tvg-chno="105690" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Uruguay" tvg-id="TOONARH" tvc-guide-stationid="105690",Cartoon Network
-http://example.local/URY-TOONARH.ts
 #EXTINF:-1 tvg-chno="101735" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Uruguay" tvg-id="TOONLHD" tvc-guide-stationid="101735",Cartoon Network
 http://example.local/URY-TOONLHD.ts
-#EXTINF:-1 tvg-chno="55719" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Uruguay" tvg-id="CARTOM" tvc-guide-stationid="55719",Cartoonito
-http://example.local/URY-CARTOM.ts
+#EXTINF:-1 tvg-chno="105690" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Uruguay" tvg-id="TOONARH" tvc-guide-stationid="105690",Cartoon Network
+http://example.local/URY-TOONARH.ts
 #EXTINF:-1 tvg-chno="113537" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Uruguay" tvg-id="CARTOAM" tvc-guide-stationid="113537",Cartoonito
 http://example.local/URY-CARTOAM.ts
 #EXTINF:-1 tvg-chno="26089" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Uruguay" tvg-id="CARTOA" tvc-guide-stationid="26089",Cartoonito
 http://example.local/URY-CARTOA.ts
+#EXTINF:-1 tvg-chno="55719" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Uruguay" tvg-id="CARTOM" tvc-guide-stationid="55719",Cartoonito
+http://example.local/URY-CARTOM.ts
 #EXTINF:-1 tvg-chno="44479" tvg-name="CGTN Español" tvg-logo="https://zap2it.tmsimg.com/assets/s44479_ll_h15_ab.png" group-title="Uruguay" tvg-id="CGTNE" tvc-guide-stationid="44479",CGTN Español
 http://example.local/URY-CGTNE.ts
 #EXTINF:-1 tvg-chno="139926" tvg-name="Chacra TV" tvg-logo="https://zap2it.tmsimg.com/assets/s139926_ll_h15_aa.png" group-title="Uruguay" tvg-id="CHATV" tvc-guide-stationid="139926",Chacra TV
@@ -237,30 +241,30 @@ http://example.local/URY-DISCCHD.ts
 http://example.local/URY-DHEALM.ts
 #EXTINF:-1 tvg-chno="91959" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s97571_h3_aa.png" group-title="Uruguay" tvg-id="DHEALHE" tvc-guide-stationid="91959",Discovery Home & Health
 http://example.local/URY-DHEALHE.ts
-#EXTINF:-1 tvg-chno="90849" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s90849_ll_h15_aa.png" group-title="Uruguay" tvg-id="DKNLAEH" tvc-guide-stationid="90849",Discovery Kids
-http://example.local/URY-DKNLAEH.ts
 #EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_h3_aa.png" group-title="Uruguay" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
 http://example.local/URY-DKNLM.ts
 #EXTINF:-1 tvg-chno="109832" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Uruguay" tvg-id="DKLAHD" tvc-guide-stationid="109832",Discovery Kids
 http://example.local/URY-DKLAHD.ts
-#EXTINF:-1 tvg-chno="46610" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s48527_ll_h15_aa.png" group-title="Uruguay" tvg-id="DSCIENL" tvc-guide-stationid="46610",Discovery Science
-http://example.local/URY-DSCIENL.ts
+#EXTINF:-1 tvg-chno="90849" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s90849_ll_h15_aa.png" group-title="Uruguay" tvg-id="DKNLAEH" tvc-guide-stationid="90849",Discovery Kids
+http://example.local/URY-DKNLAEH.ts
 #EXTINF:-1 tvg-chno="110960" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s48527_ll_h15_aa.png" group-title="Uruguay" tvg-id="DSCIENH" tvc-guide-stationid="110960",Discovery Science
 http://example.local/URY-DSCIENH.ts
 #EXTINF:-1 tvg-chno="109986" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s48527_h3_ba.png" group-title="Uruguay" tvg-id="DSCIEH" tvc-guide-stationid="109986",Discovery Science
 http://example.local/URY-DSCIEH.ts
+#EXTINF:-1 tvg-chno="46610" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s48527_ll_h15_aa.png" group-title="Uruguay" tvg-id="DSCIENL" tvc-guide-stationid="46610",Discovery Science
+http://example.local/URY-DSCIENL.ts
 #EXTINF:-1 tvg-chno="65301" tvg-name="Discovery Theater HD" tvg-logo="https://zap2it.tmsimg.com/assets/s65940_ll_h15_ab.png" group-title="Uruguay" tvg-id="DTHLIHD" tvc-guide-stationid="65301",Discovery Theater HD
 http://example.local/URY-DTHLIHD.ts
-#EXTINF:-1 tvg-chno="46608" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="Uruguay" tvg-id="DTURBOL" tvc-guide-stationid="46608",Discovery Turbo
-http://example.local/URY-DTURBOL.ts
 #EXTINF:-1 tvg-chno="107611" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="Uruguay" tvg-id="DTRBLAH" tvc-guide-stationid="107611",Discovery Turbo
 http://example.local/URY-DTRBLAH.ts
+#EXTINF:-1 tvg-chno="46608" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="Uruguay" tvg-id="DTURBOL" tvc-guide-stationid="46608",Discovery Turbo
+http://example.local/URY-DTURBOL.ts
 #EXTINF:-1 tvg-chno="119937" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_h3_ba.png" group-title="Uruguay" tvg-id="DTRBOEH" tvc-guide-stationid="119937",Discovery Turbo
 http://example.local/URY-DTRBOEH.ts
-#EXTINF:-1 tvg-chno="66488" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png" group-title="Uruguay" tvg-id="DWRLDHD" tvc-guide-stationid="66488",Discovery World
-http://example.local/URY-DWRLDHD.ts
 #EXTINF:-1 tvg-chno="70662" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png" group-title="Uruguay" tvg-id="DWRLDHE" tvc-guide-stationid="70662",Discovery World
 http://example.local/URY-DWRLDHE.ts
+#EXTINF:-1 tvg-chno="66488" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png" group-title="Uruguay" tvg-id="DWRLDHD" tvc-guide-stationid="66488",Discovery World
+http://example.local/URY-DWRLDHD.ts
 #EXTINF:-1 tvg-chno="41223" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s41223_ll_h15_aa.png" group-title="Uruguay" tvg-id="DISNLS" tvc-guide-stationid="41223",Disney Channel
 http://example.local/URY-DISNLS.ts
 #EXTINF:-1 tvg-chno="107644" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s41223_ll_h15_aa.png" group-title="Uruguay" tvg-id="DISNLSH" tvc-guide-stationid="107644",Disney Channel
@@ -317,20 +321,20 @@ http://example.local/URY-ENCU.ts
 http://example.local/URY-ENLACE.ts
 #EXTINF:-1 tvg-chno="17725" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s17725_ll_h15_ac.png" group-title="Uruguay" tvg-id="ESPNAR" tvc-guide-stationid="17725",ESPN
 http://example.local/URY-ESPNAR.ts
-#EXTINF:-1 tvg-chno="10180" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Uruguay" tvg-id="ESP2ME" tvc-guide-stationid="10180",ESPN 2
-http://example.local/URY-ESP2ME.ts
 #EXTINF:-1 tvg-chno="88735" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Uruguay" tvg-id="ESP2LS" tvc-guide-stationid="88735",ESPN 2
 http://example.local/URY-ESP2LS.ts
 #EXTINF:-1 tvg-chno="99064" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_h3_aa.png" group-title="Uruguay" tvg-id="ESP2SH" tvc-guide-stationid="99064",ESPN 2
 http://example.local/URY-ESP2SH.ts
+#EXTINF:-1 tvg-chno="10180" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Uruguay" tvg-id="ESP2ME" tvc-guide-stationid="10180",ESPN 2
+http://example.local/URY-ESP2ME.ts
 #EXTINF:-1 tvg-chno="96876" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Uruguay" tvg-id="ESPN2MH" tvc-guide-stationid="96876",ESPN 2
 http://example.local/URY-ESPN2MH.ts
 #EXTINF:-1 tvg-chno="65930" tvg-name="ESPN 4 México" tvg-logo="https://zap2it.tmsimg.com/assets/s65930_ll_h15_ae.png" group-title="Uruguay" tvg-id="ESP4MXH" tvc-guide-stationid="65930",ESPN 4 México
 http://example.local/URY-ESP4MXH.ts
-#EXTINF:-1 tvg-chno="122027" tvg-name="ESPN 5" tvg-logo="https://zap2it.tmsimg.com/assets/s122027_ll_h15_ab.png" group-title="Uruguay" tvg-id="ESPN5SH" tvc-guide-stationid="122027",ESPN 5
-http://example.local/URY-ESPN5SH.ts
 #EXTINF:-1 tvg-chno="90856" tvg-name="ESPN 5" tvg-logo="https://zap2it.tmsimg.com/assets/s90856_ll_h15_ac.png" group-title="Uruguay" tvg-id="ESPN5SD" tvc-guide-stationid="90856",ESPN 5
 http://example.local/URY-ESPN5SD.ts
+#EXTINF:-1 tvg-chno="122027" tvg-name="ESPN 5" tvg-logo="https://zap2it.tmsimg.com/assets/s122027_ll_h15_ab.png" group-title="Uruguay" tvg-id="ESPN5SH" tvc-guide-stationid="122027",ESPN 5
+http://example.local/URY-ESPN5SH.ts
 #EXTINF:-1 tvg-chno="86787" tvg-name="ESPN 5" tvg-logo="https://zap2it.tmsimg.com/assets/s86787_ll_h15_ac.png" group-title="Uruguay" tvg-id="ESPN5B" tvc-guide-stationid="86787",ESPN 5
 http://example.local/URY-ESPN5B.ts
 #EXTINF:-1 tvg-chno="30392" tvg-name="ESPN 5 Centroamérica" tvg-logo="https://zap2it.tmsimg.com/assets/s122027_ll_h15_ab.png" group-title="Uruguay" tvg-id="ESP5CES" tvc-guide-stationid="30392",ESPN 5 Centroamérica
@@ -405,16 +409,16 @@ http://example.local/URY-GARAGETV.ts
 http://example.local/URY-GLITZ.ts
 #EXTINF:-1 tvg-chno="42206" tvg-name="Globo" tvg-logo="https://zap2it.tmsimg.com/assets/s42206_ll_h15_cc.png" group-title="Uruguay" tvg-id="REDEGL" tvc-guide-stationid="42206",Globo
 http://example.local/URY-REDEGL.ts
-#EXTINF:-1 tvg-chno="97833" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Uruguay" tvg-id="GLDENEH" tvc-guide-stationid="97833",Golden
-http://example.local/URY-GLDENEH.ts
 #EXTINF:-1 tvg-chno="97825" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Uruguay" tvg-id="GLDENH" tvc-guide-stationid="97825",Golden
 http://example.local/URY-GLDENH.ts
+#EXTINF:-1 tvg-chno="97833" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Uruguay" tvg-id="GLDENEH" tvc-guide-stationid="97833",Golden
+http://example.local/URY-GLDENEH.ts
 #EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Uruguay" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
 http://example.local/URY-GOLDEDG.ts
-#EXTINF:-1 tvg-chno="80804" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_h3_ba.png" group-title="Uruguay" tvg-id="GPREMSD" tvc-guide-stationid="80804",Golden Premier
-http://example.local/URY-GPREMSD.ts
 #EXTINF:-1 tvg-chno="80596" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Uruguay" tvg-id="GLDPREM" tvc-guide-stationid="80596",Golden Premier
 http://example.local/URY-GLDPREM.ts
+#EXTINF:-1 tvg-chno="80804" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_h3_ba.png" group-title="Uruguay" tvg-id="GPREMSD" tvc-guide-stationid="80804",Golden Premier
+http://example.local/URY-GPREMSD.ts
 #EXTINF:-1 tvg-chno="80660" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Uruguay" tvg-id="GLDPRD2" tvc-guide-stationid="80660",Golden Premier
 http://example.local/URY-GLDPRD2.ts
 #EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Uruguay" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
@@ -427,20 +431,20 @@ http://example.local/URY-GOLTVL.ts
 http://example.local/URY-GOLLAHD.ts
 #EXTINF:-1 tvg-chno="100668" tvg-name="H2 History" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_h3_ba.png" group-title="Uruguay" tvg-id="H2LATH" tvc-guide-stationid="100668",H2 History
 http://example.local/URY-H2LATH.ts
-#EXTINF:-1 tvg-chno="12288" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Uruguay" tvg-id="HBOL" tvc-guide-stationid="12288",HBO
-http://example.local/URY-HBOL.ts
 #EXTINF:-1 tvg-chno="16191" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Uruguay" tvg-id="HBOI" tvc-guide-stationid="16191",HBO
 http://example.local/URY-HBOI.ts
+#EXTINF:-1 tvg-chno="12288" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Uruguay" tvg-id="HBOL" tvc-guide-stationid="12288",HBO
+http://example.local/URY-HBOL.ts
+#EXTINF:-1 tvg-chno="108216" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Uruguay" tvg-id="HBO2EHD" tvc-guide-stationid="108216",HBO 2
+http://example.local/URY-HBO2EHD.ts
 #EXTINF:-1 tvg-chno="68244" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Uruguay" tvg-id="HBO2ENG" tvc-guide-stationid="68244",HBO 2
 http://example.local/URY-HBO2ENG.ts
 #EXTINF:-1 tvg-chno="68140" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Uruguay" tvg-id="HBO2LA" tvc-guide-stationid="68140",HBO 2
 http://example.local/URY-HBO2LA.ts
-#EXTINF:-1 tvg-chno="108216" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Uruguay" tvg-id="HBO2EHD" tvc-guide-stationid="108216",HBO 2
-http://example.local/URY-HBO2EHD.ts
-#EXTINF:-1 tvg-chno="57396" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Uruguay" tvg-id="HBOFAME" tvc-guide-stationid="57396",HBO Family
-http://example.local/URY-HBOFAME.ts
 #EXTINF:-1 tvg-chno="80550" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Uruguay" tvg-id="HBOFMEH" tvc-guide-stationid="80550",HBO Family
 http://example.local/URY-HBOFMEH.ts
+#EXTINF:-1 tvg-chno="57396" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Uruguay" tvg-id="HBOFAME" tvc-guide-stationid="57396",HBO Family
+http://example.local/URY-HBOFAME.ts
 #EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_aa.png" group-title="Uruguay" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
 http://example.local/URY-HBOLAT.ts
 #EXTINF:-1 tvg-chno="59837" tvg-name="HBO Latino HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_ba.png" group-title="Uruguay" tvg-id="HBOLAHD" tvc-guide-stationid="59837",HBO Latino HD
@@ -451,24 +455,24 @@ http://example.local/URY-MUNMEX.ts
 http://example.local/URY-MUNLA.ts
 #EXTINF:-1 tvg-chno="80112" tvg-name="HBO Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s34725_ll_h15_ab.png" group-title="Uruguay" tvg-id="HBOPPHD" tvc-guide-stationid="80112",HBO Plus
 http://example.local/URY-HBOPPHD.ts
-#EXTINF:-1 tvg-chno="70545" tvg-name="HBO Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_h3_aa.png" group-title="Uruguay" tvg-id="POPLEH" tvc-guide-stationid="70545",HBO Pop
-http://example.local/URY-POPLEH.ts
-#EXTINF:-1 tvg-chno="92951" tvg-name="HBO Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_ll_h15_ab.png" group-title="Uruguay" tvg-id="POPLA" tvc-guide-stationid="92951",HBO Pop
-http://example.local/URY-POPLA.ts
-#EXTINF:-1 tvg-chno="91408" tvg-name="HBO POP" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_h3_ba.png" group-title="Uruguay" tvg-id="POPMX" tvc-guide-stationid="91408",HBO POP
-http://example.local/URY-POPMX.ts
 #EXTINF:-1 tvg-chno="68301" tvg-name="HBO POP" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_ll_h15_ab.png" group-title="Uruguay" tvg-id="POPMXH" tvc-guide-stationid="68301",HBO POP
 http://example.local/URY-POPMXH.ts
-#EXTINF:-1 tvg-chno="74450" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Uruguay" tvg-id="HBOSLA" tvc-guide-stationid="74450",HBO Signature
-http://example.local/URY-HBOSLA.ts
+#EXTINF:-1 tvg-chno="92951" tvg-name="HBO Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_ll_h15_ab.png" group-title="Uruguay" tvg-id="POPLA" tvc-guide-stationid="92951",HBO Pop
+http://example.local/URY-POPLA.ts
+#EXTINF:-1 tvg-chno="70545" tvg-name="HBO Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_h3_aa.png" group-title="Uruguay" tvg-id="POPLEH" tvc-guide-stationid="70545",HBO Pop
+http://example.local/URY-POPLEH.ts
+#EXTINF:-1 tvg-chno="91408" tvg-name="HBO POP" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_h3_ba.png" group-title="Uruguay" tvg-id="POPMX" tvc-guide-stationid="91408",HBO POP
+http://example.local/URY-POPMX.ts
 #EXTINF:-1 tvg-chno="80554" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Uruguay" tvg-id="HBOSEHD" tvc-guide-stationid="80554",HBO Signature
 http://example.local/URY-HBOSEHD.ts
+#EXTINF:-1 tvg-chno="74450" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Uruguay" tvg-id="HBOSLA" tvc-guide-stationid="74450",HBO Signature
+http://example.local/URY-HBOSLA.ts
 #EXTINF:-1 tvg-chno="80120" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Uruguay" tvg-id="HBOSLHD" tvc-guide-stationid="80120",HBO Signature
 http://example.local/URY-HBOSLHD.ts
-#EXTINF:-1 tvg-chno="57400" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Uruguay" tvg-id="HBOXMXE" tvc-guide-stationid="57400",HBO Xtreme
-http://example.local/URY-HBOXMXE.ts
 #EXTINF:-1 tvg-chno="80115" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_h3_aa.png" group-title="Uruguay" tvg-id="HBOXMXH" tvc-guide-stationid="80115",HBO Xtreme
 http://example.local/URY-HBOXMXH.ts
+#EXTINF:-1 tvg-chno="57400" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Uruguay" tvg-id="HBOXMXE" tvc-guide-stationid="57400",HBO Xtreme
+http://example.local/URY-HBOXMXE.ts
 #EXTINF:-1 tvg-chno="113556" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_h3_ba.png" group-title="Uruguay" tvg-id="HBOXLAM" tvc-guide-stationid="113556",HBO Xtreme
 http://example.local/URY-HBOXLAM.ts
 #EXTINF:-1 tvg-chno="111077" tvg-name="HGTV" tvg-logo="https://zap2it.tmsimg.com/assets/s111055_h3_aa.png" group-title="Uruguay" tvg-id="HGTVLAS" tvc-guide-stationid="111077",HGTV
@@ -493,14 +497,14 @@ http://example.local/URY-HOLALAH.ts
 http://example.local/URY-HTVMUDM.ts
 #EXTINF:-1 tvg-chno="76951" tvg-name="Hustler TV" tvg-logo="https://zap2it.tmsimg.com/assets/s102775_ll_h15_ab.png" group-title="Uruguay" tvg-id="ESHUSTL" tvc-guide-stationid="76951",Hustler TV
 http://example.local/URY-ESHUSTL.ts
-#EXTINF:-1 tvg-chno="25793" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Uruguay" tvg-id="IDM" tvc-guide-stationid="25793",ID
-http://example.local/URY-IDM.ts
-#EXTINF:-1 tvg-chno="16446" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Uruguay" tvg-id="IDLE" tvc-guide-stationid="16446",ID
-http://example.local/URY-IDLE.ts
 #EXTINF:-1 tvg-chno="25743" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Uruguay" tvg-id="IDA" tvc-guide-stationid="25743",ID
 http://example.local/URY-IDA.ts
 #EXTINF:-1 tvg-chno="77635" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Uruguay" tvg-id="IDLHD" tvc-guide-stationid="77635",ID
 http://example.local/URY-IDLHD.ts
+#EXTINF:-1 tvg-chno="16446" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Uruguay" tvg-id="IDLE" tvc-guide-stationid="16446",ID
+http://example.local/URY-IDLE.ts
+#EXTINF:-1 tvg-chno="25793" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Uruguay" tvg-id="IDM" tvc-guide-stationid="25793",ID
+http://example.local/URY-IDM.ts
 #EXTINF:-1 tvg-chno="97002" tvg-name="IVC" tvg-logo="https://zap2it.tmsimg.com/assets/s97002_ll_h15_aa.png" group-title="Uruguay" tvg-id="IVCVENE" tvc-guide-stationid="97002",IVC
 http://example.local/URY-IVCVENE.ts
 #EXTINF:-1 tvg-chno="108605" tvg-name="IVC Net HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97002_ll_h15_aa.png" group-title="Uruguay" tvg-id="IVNETHD" tvc-guide-stationid="108605",IVC Net HD
@@ -511,10 +515,10 @@ http://example.local/URY-KANALL.ts
 http://example.local/URY-KZOAR.ts
 #EXTINF:-1 tvg-chno="112052" tvg-name="La Red (HD)" tvg-logo="https://zap2it.tmsimg.com/assets/s17422_h3_aa.png" group-title="Uruguay" tvg-id="REDCD" tvc-guide-stationid="112052",La Red (HD)
 http://example.local/URY-REDCD.ts
-#EXTINF:-1 tvg-chno="16461" tvg-name="Las Estrellas (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png" group-title="Uruguay" tvg-id="XEW" tvc-guide-stationid="16461",Las Estrellas (ESTRNET)
-http://example.local/URY-XEW.ts
 #EXTINF:-1 tvg-chno="45831" tvg-name="Las Estrellas (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png" group-title="Uruguay" tvg-id="XEWTDT" tvc-guide-stationid="45831",Las Estrellas (ESTRNET)
 http://example.local/URY-XEWTDT.ts
+#EXTINF:-1 tvg-chno="16461" tvg-name="Las Estrellas (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png" group-title="Uruguay" tvg-id="XEW" tvc-guide-stationid="16461",Las Estrellas (ESTRNET)
+http://example.local/URY-XEW.ts
 #EXTINF:-1 tvg-chno="89197" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Uruguay" tvg-id="LIFELC" tvc-guide-stationid="89197",Lifetime
 http://example.local/URY-LIFELC.ts
 #EXTINF:-1 tvg-chno="159513" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Uruguay" tvg-id="LIFSURH" tvc-guide-stationid="159513",Lifetime
@@ -525,10 +529,6 @@ http://example.local/URY-NACPSD.ts
 http://example.local/URY-NACIONP.ts
 #EXTINF:-1 tvg-chno="125678" tvg-name="Love Nature" tvg-logo="https://zap2it.tmsimg.com/assets/s125678_ll_h15_ab.png" group-title="Uruguay" tvg-id="LOVENAE" tvc-guide-stationid="125678",Love Nature
 http://example.local/URY-LOVENAE.ts
-#EXTINF:-1 tvg-chno="17457" tvg-name="Mas Chic" tvg-logo="https://zap2it.tmsimg.com/assets/s17457_ll_h15_ad.png" group-title="Uruguay" tvg-id="MASCHIC" tvc-guide-stationid="17457",Mas Chic
-http://example.local/URY-MASCHIC.ts
-#EXTINF:-1 tvg-chno="96306" tvg-name="Mas Chic" tvg-logo="https://zap2it.tmsimg.com/assets/s17457_ll_h15_ad.png" group-title="Uruguay" tvg-id="MASCHHD" tvc-guide-stationid="96306",Mas Chic
-http://example.local/URY-MASCHHD.ts
 #EXTINF:-1 tvg-chno="113555" tvg-name="Max Up HD" tvg-logo="https://zap2it.tmsimg.com/assets/s113555_ll_h15_aa.png" group-title="Uruguay" tvg-id="MAXUAM" tvc-guide-stationid="113555",Max Up HD
 http://example.local/URY-MAXUAM.ts
 #EXTINF:-1 tvg-chno="107382" tvg-name="MC" tvg-logo="https://zap2it.tmsimg.com/assets/s107382_ll_h15_aa.png" group-title="Uruguay" tvg-id="MCINLHD" tvc-guide-stationid="107382",MC
@@ -547,12 +547,12 @@ http://example.local/URY-MPREL.ts
 http://example.local/URY-MTOPHD.ts
 #EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Uruguay" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
 http://example.local/URY-NGKLA.ts
-#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Uruguay" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
-http://example.local/URY-NGCLA.ts
 #EXTINF:-1 tvg-chno="41245" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Uruguay" tvg-id="NGCARG" tvc-guide-stationid="41245",National Geographic
 http://example.local/URY-NGCARG.ts
 #EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Uruguay" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
 http://example.local/URY-NGCLAH.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Uruguay" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/URY-NGCLA.ts
 #EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Uruguay" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
 http://example.local/URY-NBATV.ts
 #EXTINF:-1 tvg-chno="112230" tvg-name="Net Tv" tvg-logo="https://zap2it.tmsimg.com/assets/s109331_h3_aa.png" group-title="Uruguay" tvg-id="NETTVAM" tvc-guide-stationid="112230",Net Tv
@@ -565,10 +565,10 @@ http://example.local/URY-NIKL.ts
 http://example.local/URY-NIKLC.ts
 #EXTINF:-1 tvg-chno="39861" tvg-name="NICK (inactive)" tvg-logo="https://zap2it.tmsimg.com/assets/s16707_ll_h15_ac.png" group-title="Uruguay" tvg-id="NIKIS" tvc-guide-stationid="39861",NICK (inactive)
 http://example.local/URY-NIKIS.ts
-#EXTINF:-1 tvg-chno="84412" tvg-name="Nick Jr." tvg-logo="https://zap2it.tmsimg.com/assets/s60295_h3_aa.png" group-title="Uruguay" tvg-id="NICKJMH" tvc-guide-stationid="84412",Nick Jr.
-http://example.local/URY-NICKJMH.ts
 #EXTINF:-1 tvg-chno="60295" tvg-name="Nick Jr." tvg-logo="https://zap2it.tmsimg.com/assets/s60295_ll_h15_aa.png" group-title="Uruguay" tvg-id="NICKJLM" tvc-guide-stationid="60295",Nick Jr.
 http://example.local/URY-NICKJLM.ts
+#EXTINF:-1 tvg-chno="84412" tvg-name="Nick Jr." tvg-logo="https://zap2it.tmsimg.com/assets/s60295_h3_aa.png" group-title="Uruguay" tvg-id="NICKJMH" tvc-guide-stationid="84412",Nick Jr.
+http://example.local/URY-NICKJMH.ts
 #EXTINF:-1 tvg-chno="61988" tvg-name="NTN24" tvg-logo="https://zap2it.tmsimg.com/assets/s61988_ll_h15_ac.png" group-title="Uruguay" tvg-id="NTN24" tvc-guide-stationid="61988",NTN24
 http://example.local/URY-NTN24.ts
 #EXTINF:-1 tvg-chno="126495" tvg-name="NUEVO TIEMPO" group-title="Uruguay" tvg-id="NUEVOPE" tvc-guide-stationid="126495",NUEVO TIEMPO
@@ -627,10 +627,10 @@ http://example.local/URY-SONY.ts
 http://example.local/URY-SONYHD.ts
 #EXTINF:-1 tvg-chno="123690" tvg-name="Sony Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s124605_ll_h15_aa.png" group-title="Uruguay" tvg-id="SONYMH" tvc-guide-stationid="123690",Sony Movies
 http://example.local/URY-SONYMH.ts
-#EXTINF:-1 tvg-chno="66349" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png" group-title="Uruguay" tvg-id="SPACMHD" tvc-guide-stationid="66349",Space
-http://example.local/URY-SPACMHD.ts
 #EXTINF:-1 tvg-chno="70351" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="Uruguay" tvg-id="SPACES" tvc-guide-stationid="70351",Space
 http://example.local/URY-SPACES.ts
+#EXTINF:-1 tvg-chno="66349" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png" group-title="Uruguay" tvg-id="SPACMHD" tvc-guide-stationid="66349",Space
+http://example.local/URY-SPACMHD.ts
 #EXTINF:-1 tvg-chno="36630" tvg-name="SPAN CNN" tvg-logo="https://zap2it.tmsimg.com/assets/s10142_ll_h15_aa.png" group-title="Uruguay" tvg-id="SCNN" tvc-guide-stationid="36630",SPAN CNN
 http://example.local/URY-SCNN.ts
 #EXTINF:-1 tvg-chno="56103" tvg-name="sportv" tvg-logo="https://zap2it.tmsimg.com/assets/s56103_ll_h15_ad.png" group-title="Uruguay" tvg-id="SPORTV" tvc-guide-stationid="56103",sportv
@@ -639,10 +639,10 @@ http://example.local/URY-SPORTV.ts
 http://example.local/URY-STARG.ts
 #EXTINF:-1 tvg-chno="92111" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_h3_ba.png" group-title="Uruguay" tvg-id="STRANHD" tvc-guide-stationid="92111",Star Channel
 http://example.local/URY-STRANHD.ts
-#EXTINF:-1 tvg-chno="15688" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_ll_h15_ac.png" group-title="Uruguay" tvg-id="STARMEX" tvc-guide-stationid="15688",Star Channel
-http://example.local/URY-STARMEX.ts
 #EXTINF:-1 tvg-chno="88534" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s88534_ll_h15_aa.png" group-title="Uruguay" tvg-id="STARMHD" tvc-guide-stationid="88534",Star Channel
 http://example.local/URY-STARMHD.ts
+#EXTINF:-1 tvg-chno="15688" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_ll_h15_ac.png" group-title="Uruguay" tvg-id="STARMEX" tvc-guide-stationid="15688",Star Channel
+http://example.local/URY-STARMEX.ts
 #EXTINF:-1 tvg-chno="106724" tvg-name="Star TVE" tvg-logo="https://zap2it.tmsimg.com/assets/s106724_ll_h15_ac.png" group-title="Uruguay" tvg-id="STARHD" tvc-guide-stationid="106724",Star TVE
 http://example.local/URY-STARHD.ts
 #EXTINF:-1 tvg-chno="29017" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s29017_ll_h15_aa.png" group-title="Uruguay" tvg-id="STULM" tvc-guide-stationid="29017",Studio Universal
@@ -709,7 +709,7 @@ http://example.local/URY-TVEB.ts
 http://example.local/URY-TVNI.ts
 #EXTINF:-1 tvg-chno="82025" tvg-name="Tv Ciudad" tvg-logo="https://zap2it.tmsimg.com/assets/s82025_ll_h15_ab.png" group-title="Uruguay" tvg-id="TVCIUD" tvc-guide-stationid="82025",Tv Ciudad
 http://example.local/URY-TVCIUD.ts
-#EXTINF:-1 tvg-chno="16525" tvg-name="Tv Pública" tvg-logo="https://zap2it.tmsimg.com/assets/s16525_ll_h9_ac.png" group-title="Uruguay" tvg-id="TVPU" tvc-guide-stationid="16525",Tv Pública
+#EXTINF:-1 tvg-chno="16525" tvg-name="Tv Pública" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284GWZ.png" group-title="Uruguay" tvg-id="TVPU" tvc-guide-stationid="16525",Tv Pública
 http://example.local/URY-TVPU.ts
 #EXTINF:-1 tvg-chno="16422" tvg-name="TV5 Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16422_ll_h15_aa.png" group-title="Uruguay" tvg-id="TV5L" tvc-guide-stationid="16422",TV5 Latin America
 http://example.local/URY-TV5L.ts
@@ -753,7 +753,7 @@ http://example.local/URY-UNTVM.ts
 http://example.local/URY-UNTVAR.ts
 #EXTINF:-1 tvg-chno="106732" tvg-name="Universal TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Uruguay" tvg-id="UNTVARH" tvc-guide-stationid="106732",Universal TV HD
 http://example.local/URY-UNTVARH.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" group-title="Uruguay" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Uruguay" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/URY-UNI.ts
 #EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Uruguay" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/URY-USALA.ts
@@ -773,10 +773,10 @@ http://example.local/URY-VTVMUR.ts
 http://example.local/URY-WOLEARG.ts
 #EXTINF:-1 tvg-chno="105691" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_ll_h15_ae.png" group-title="Uruguay" tvg-id="WOLEARH" tvc-guide-stationid="105691",Warner Channel
 http://example.local/URY-WOLEARH.ts
-#EXTINF:-1 tvg-chno="72166" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_h3_aa.png" group-title="Uruguay" tvg-id="WBLHD" tvc-guide-stationid="72166",Warner Channel
-http://example.local/URY-WBLHD.ts
 #EXTINF:-1 tvg-chno="98111" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_h3_aa.png" group-title="Uruguay" tvg-id="WBLMHD" tvc-guide-stationid="98111",Warner Channel
 http://example.local/URY-WBLMHD.ts
+#EXTINF:-1 tvg-chno="72166" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_h3_aa.png" group-title="Uruguay" tvg-id="WBLHD" tvc-guide-stationid="72166",Warner Channel
+http://example.local/URY-WBLHD.ts
 #EXTINF:-1 tvg-chno="59014" tvg-name="Wobi" tvg-logo="https://zap2it.tmsimg.com/assets/s59014_ll_h15_aa.png" group-title="Uruguay" tvg-id="WOBI" tvc-guide-stationid="59014",Wobi
 http://example.local/URY-WOBI.ts
 #EXTINF:-1 tvg-chno="77820" tvg-name="WooHoo" tvg-logo="https://zap2it.tmsimg.com/assets/s77820_ll_h15_ab.png" group-title="Uruguay" tvg-id="WOOHOO" tvc-guide-stationid="77820",WooHoo

@@ -23,14 +23,14 @@ http://example.local/CYM-ALJAZEH.ts
 http://example.local/CYM-AMC.ts
 #EXTINF:-1 tvg-chno="59337" tvg-name="AMC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59337_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="AMCHD" tvc-guide-stationid="59337",AMC HD
 http://example.local/CYM-AMCHD.ts
-#EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="Cayman Islands" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
+#EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
 http://example.local/CYM-ABC.ts
 #EXTINF:-1 tvg-chno="16331" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s16331_ll_h9_ad.png" group-title="Cayman Islands" tvg-id="APL" tvc-guide-stationid="16331",Animal Planet
 http://example.local/CYM-APL.ts
-#EXTINF:-1 tvg-chno="110653" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_h3_aa.png" group-title="Cayman Islands" tvg-id="ANIPIE" tvc-guide-stationid="110653",Animal Planet
-http://example.local/CYM-ANIPIE.ts
 #EXTINF:-1 tvg-chno="18648" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Cayman Islands" tvg-id="ANIPI" tvc-guide-stationid="18648",Animal Planet
 http://example.local/CYM-ANIPI.ts
+#EXTINF:-1 tvg-chno="110653" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_h3_aa.png" group-title="Cayman Islands" tvg-id="ANIPIE" tvc-guide-stationid="110653",Animal Planet
+http://example.local/CYM-ANIPIE.ts
 #EXTINF:-1 tvg-chno="40279" tvg-name="AUDIO DLA ADULTO CONTEMPORÁNEO" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="DLADULT" tvc-guide-stationid="40279",AUDIO DLA ADULTO CONTEMPORÁNEO
 http://example.local/CYM-DLADULT.ts
 #EXTINF:-1 tvg-chno="37862" tvg-name="AUDIO DLA BLUES" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="BLUESDL" tvc-guide-stationid="37862",AUDIO DLA BLUES
@@ -103,14 +103,14 @@ http://example.local/CYM-CARIBVN.ts
 http://example.local/CYM-TOON.ts
 #EXTINF:-1 tvg-chno="100085" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="TOONLSE" tvc-guide-stationid="100085",Cartoon Network
 http://example.local/CYM-TOONLSE.ts
-#EXTINF:-1 tvg-chno="26089" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="CARTOA" tvc-guide-stationid="26089",Cartoonito
-http://example.local/CYM-CARTOA.ts
-#EXTINF:-1 tvg-chno="107448" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="CARTPEH" tvc-guide-stationid="107448",Cartoonito
-http://example.local/CYM-CARTPEH.ts
-#EXTINF:-1 tvg-chno="107451" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="CARTPPE" tvc-guide-stationid="107451",Cartoonito
-http://example.local/CYM-CARTPPE.ts
 #EXTINF:-1 tvg-chno="44832" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="CARTOAI" tvc-guide-stationid="44832",Cartoonito
 http://example.local/CYM-CARTOAI.ts
+#EXTINF:-1 tvg-chno="107448" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="CARTPEH" tvc-guide-stationid="107448",Cartoonito
+http://example.local/CYM-CARTPEH.ts
+#EXTINF:-1 tvg-chno="26089" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="CARTOA" tvc-guide-stationid="26089",Cartoonito
+http://example.local/CYM-CARTOA.ts
+#EXTINF:-1 tvg-chno="107451" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="CARTPPE" tvc-guide-stationid="107451",Cartoonito
+http://example.local/CYM-CARTPPE.ts
 #EXTINF:-1 tvg-chno="112123" tvg-name="Cayman Islands Government TV" group-title="Cayman Islands" tvg-id="CIGTV" tvc-guide-stationid="112123",Cayman Islands Government TV
 http://example.local/CYM-CIGTV.ts
 #EXTINF:-1 tvg-chno="97738" tvg-name="Cayman Life TV" group-title="Cayman Islands" tvg-id="CAYLIFE" tvc-guide-stationid="97738",Cayman Life TV
@@ -133,6 +133,10 @@ http://example.local/CYM-CCANCEN.ts
 http://example.local/CYM-CCANCOL.ts
 #EXTINF:-1 tvg-chno="95561" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="CINECHE" tvc-guide-stationid="95561",Cinemax
 http://example.local/CYM-CINECHE.ts
+#EXTINF:-1 tvg-chno="18433" tvg-name="Cinemax Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC1Q.png" group-title="Cayman Islands" tvg-id="CINACT" tvc-guide-stationid="18433",Cinemax Action
+http://example.local/CYM-CINACT.ts
+#EXTINF:-1 tvg-chno="10121" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png" group-title="Cayman Islands" tvg-id="CINEHIT" tvc-guide-stationid="10121",Cinemax Hits
+http://example.local/CYM-CINEHIT.ts
 #EXTINF:-1 tvg-chno="36466" tvg-name="CITN27" group-title="Cayman Islands" tvg-id="CITN27" tvc-guide-stationid="36466",CITN27
 http://example.local/CYM-CITN27.ts
 #EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png" group-title="Cayman Islands" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
@@ -171,42 +175,42 @@ http://example.local/CYM-SPEED.ts
 http://example.local/CYM-DYSTRHD.ts
 #EXTINF:-1 tvg-chno="61395" tvg-name="Discover Cayman" group-title="Cayman Islands" tvg-id="DISCC" tvc-guide-stationid="61395",Discover Cayman
 http://example.local/CYM-DISCC.ts
-#EXTINF:-1 tvg-chno="17444" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s17444_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="DISCOV" tvc-guide-stationid="17444",Discovery Channel
-http://example.local/CYM-DISCOV.ts
 #EXTINF:-1 tvg-chno="15800" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="Cayman Islands" tvg-id="TDCI" tvc-guide-stationid="15800",Discovery Channel
 http://example.local/CYM-TDCI.ts
 #EXTINF:-1 tvg-chno="11150" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11150_h3_ba.png" group-title="Cayman Islands" tvg-id="DSC" tvc-guide-stationid="11150",Discovery Channel
 http://example.local/CYM-DSC.ts
+#EXTINF:-1 tvg-chno="17444" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s17444_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="DISCOV" tvc-guide-stationid="17444",Discovery Channel
+http://example.local/CYM-DISCOV.ts
 #EXTINF:-1 tvg-chno="48524" tvg-name="Discovery Civilization" tvg-logo="https://zap2it.tmsimg.com/assets/s48524_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="DCIVILI" tvc-guide-stationid="48524",Discovery Civilization
 http://example.local/CYM-DCIVILI.ts
 #EXTINF:-1 tvg-chno="16618" tvg-name="Discovery Family Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16618_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="DFC" tvc-guide-stationid="16618",Discovery Family Channel
 http://example.local/CYM-DFC.ts
-#EXTINF:-1 tvg-chno="34083" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_h3_aa.png" group-title="Cayman Islands" tvg-id="DHEAI" tvc-guide-stationid="34083",Discovery Home & Health
-http://example.local/CYM-DHEAI.ts
-#EXTINF:-1 tvg-chno="90847" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s90847_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="DHEAIHD" tvc-guide-stationid="90847",Discovery Home & Health
-http://example.local/CYM-DHEAIHD.ts
 #EXTINF:-1 tvg-chno="76960" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s97571_h3_aa.png" group-title="Cayman Islands" tvg-id="DHEALHD" tvc-guide-stationid="76960",Discovery Home & Health
 http://example.local/CYM-DHEALHD.ts
+#EXTINF:-1 tvg-chno="90847" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s90847_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="DHEAIHD" tvc-guide-stationid="90847",Discovery Home & Health
+http://example.local/CYM-DHEAIHD.ts
+#EXTINF:-1 tvg-chno="34083" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_h3_aa.png" group-title="Cayman Islands" tvg-id="DHEAI" tvc-guide-stationid="34083",Discovery Home & Health
+http://example.local/CYM-DHEAI.ts
+#EXTINF:-1 tvg-chno="16680" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="DKNL" tvc-guide-stationid="16680",Discovery Kids
+http://example.local/CYM-DKNL.ts
 #EXTINF:-1 tvg-chno="90849" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s90849_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="DKNLAEH" tvc-guide-stationid="90849",Discovery Kids
 http://example.local/CYM-DKNLAEH.ts
 #EXTINF:-1 tvg-chno="99489" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="DKNIHD" tvc-guide-stationid="99489",Discovery Kids
 http://example.local/CYM-DKNIHD.ts
-#EXTINF:-1 tvg-chno="16680" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="DKNL" tvc-guide-stationid="16680",Discovery Kids
-http://example.local/CYM-DKNL.ts
 #EXTINF:-1 tvg-chno="81239" tvg-name="Discovery Kids LatinAm HD" tvg-logo="https://zap2it.tmsimg.com/assets/s81239_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="DKNLHD" tvc-guide-stationid="81239",Discovery Kids LatinAm HD
 http://example.local/CYM-DKNLHD.ts
-#EXTINF:-1 tvg-chno="69425" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s69425_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="DISCSCI" tvc-guide-stationid="69425",Discovery Science
-http://example.local/CYM-DISCSCI.ts
-#EXTINF:-1 tvg-chno="109986" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s48527_h3_ba.png" group-title="Cayman Islands" tvg-id="DSCIEH" tvc-guide-stationid="109986",Discovery Science
-http://example.local/CYM-DSCIEH.ts
 #EXTINF:-1 tvg-chno="48527" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s48527_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="DSCIENI" tvc-guide-stationid="48527",Discovery Science
 http://example.local/CYM-DSCIENI.ts
+#EXTINF:-1 tvg-chno="109986" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s48527_h3_ba.png" group-title="Cayman Islands" tvg-id="DSCIEH" tvc-guide-stationid="109986",Discovery Science
+http://example.local/CYM-DSCIEH.ts
+#EXTINF:-1 tvg-chno="69425" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s69425_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="DISCSCI" tvc-guide-stationid="69425",Discovery Science
+http://example.local/CYM-DISCSCI.ts
 #EXTINF:-1 tvg-chno="65301" tvg-name="Discovery Theater HD" tvg-logo="https://zap2it.tmsimg.com/assets/s65940_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="DTHLIHD" tvc-guide-stationid="65301",Discovery Theater HD
 http://example.local/CYM-DTHLIHD.ts
-#EXTINF:-1 tvg-chno="119937" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_h3_ba.png" group-title="Cayman Islands" tvg-id="DTRBOEH" tvc-guide-stationid="119937",Discovery Turbo
-http://example.local/CYM-DTRBOEH.ts
 #EXTINF:-1 tvg-chno="54948" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="DTURBO" tvc-guide-stationid="54948",Discovery Turbo
 http://example.local/CYM-DTURBO.ts
+#EXTINF:-1 tvg-chno="119937" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_h3_ba.png" group-title="Cayman Islands" tvg-id="DTRBOEH" tvc-guide-stationid="119937",Discovery Turbo
+http://example.local/CYM-DTRBOEH.ts
 #EXTINF:-1 tvg-chno="70662" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="DWRLDHE" tvc-guide-stationid="70662",Discovery World
 http://example.local/CYM-DWRLDHE.ts
 #EXTINF:-1 tvg-chno="10171" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s10171_ll_h15_ae.png" group-title="Cayman Islands" tvg-id="DISN" tvc-guide-stationid="10171",Disney Channel
@@ -251,10 +255,10 @@ http://example.local/CYM-ESPN.ts
 http://example.local/CYM-ESP2ME.ts
 #EXTINF:-1 tvg-chno="75585" tvg-name="ESPN 3" tvg-logo="https://zap2it.tmsimg.com/assets/s75585_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="ESPN3BH" tvc-guide-stationid="75585",ESPN 3
 http://example.local/CYM-ESPN3BH.ts
-#EXTINF:-1 tvg-chno="78764" tvg-name="ESPN Caribbean" group-title="Cayman Islands" tvg-id="ESPNICH" tvc-guide-stationid="78764",ESPN Caribbean
-http://example.local/CYM-ESPNICH.ts
 #EXTINF:-1 tvg-chno="64997" tvg-name="ESPN Caribbean" group-title="Cayman Islands" tvg-id="ESPNIC" tvc-guide-stationid="64997",ESPN Caribbean
 http://example.local/CYM-ESPNIC.ts
+#EXTINF:-1 tvg-chno="78764" tvg-name="ESPN Caribbean" group-title="Cayman Islands" tvg-id="ESPNICH" tvc-guide-stationid="78764",ESPN Caribbean
+http://example.local/CYM-ESPNICH.ts
 #EXTINF:-1 tvg-chno="12444" tvg-name="ESPN2" tvg-logo="https://zap2it.tmsimg.com/assets/s12444_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="ESPN2" tvc-guide-stationid="12444",ESPN2
 http://example.local/CYM-ESPN2.ts
 #EXTINF:-1 tvg-chno="55885" tvg-name="ESPN2 Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s55885_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="ESPN2CA" tvc-guide-stationid="55885",ESPN2 Caribbean
@@ -373,46 +377,52 @@ http://example.local/CYM-GOLF.ts
 http://example.local/CYM-GOLFHD.ts
 #EXTINF:-1 tvg-chno="11221" tvg-name="Hallmark Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11221_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="HALL" tvc-guide-stationid="11221",Hallmark Channel
 http://example.local/CYM-HALL.ts
-#EXTINF:-1 tvg-chno="10240" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s10240_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="HBO" tvc-guide-stationid="10240",HBO
-http://example.local/CYM-HBO.ts
-#EXTINF:-1 tvg-chno="16191" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="HBOI" tvc-guide-stationid="16191",HBO
-http://example.local/CYM-HBOI.ts
 #EXTINF:-1 tvg-chno="57383" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s10240_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="HBOCAR" tvc-guide-stationid="57383",HBO
 http://example.local/CYM-HBOCAR.ts
-#EXTINF:-1 tvg-chno="80113" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Cayman Islands" tvg-id="HBOPNHD" tvc-guide-stationid="80113",HBO 2
-http://example.local/CYM-HBOPNHD.ts
-#EXTINF:-1 tvg-chno="100788" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Cayman Islands" tvg-id="HBOPNHE" tvc-guide-stationid="100788",HBO 2
-http://example.local/CYM-HBOPNHE.ts
+#EXTINF:-1 tvg-chno="16191" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="HBOI" tvc-guide-stationid="16191",HBO
+http://example.local/CYM-HBOI.ts
+#EXTINF:-1 tvg-chno="10240" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s10240_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="HBO" tvc-guide-stationid="10240",HBO
+http://example.local/CYM-HBO.ts
 #EXTINF:-1 tvg-chno="68244" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Cayman Islands" tvg-id="HBO2ENG" tvc-guide-stationid="68244",HBO 2
 http://example.local/CYM-HBO2ENG.ts
+#EXTINF:-1 tvg-chno="100788" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Cayman Islands" tvg-id="HBOPNHE" tvc-guide-stationid="100788",HBO 2
+http://example.local/CYM-HBOPNHE.ts
+#EXTINF:-1 tvg-chno="80113" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Cayman Islands" tvg-id="HBOPNHD" tvc-guide-stationid="80113",HBO 2
+http://example.local/CYM-HBOPNHD.ts
+#EXTINF:-1 tvg-chno="10243" tvg-name="HBO Drama" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBV2.png" group-title="Cayman Islands" tvg-id="HBODRMA" tvc-guide-stationid="10243",HBO Drama
+http://example.local/CYM-HBODRMA.ts
+#EXTINF:-1 tvg-chno="59363" tvg-name="HBO Drama HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBV6.png" group-title="Cayman Islands" tvg-id="HBODRHD" tvc-guide-stationid="59363",HBO Drama HD
+http://example.local/CYM-HBODRHD.ts
 #EXTINF:-1 tvg-chno="16585" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="HBOF" tvc-guide-stationid="16585",HBO Family
 http://example.local/CYM-HBOF.ts
 #EXTINF:-1 tvg-chno="80550" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Cayman Islands" tvg-id="HBOFMEH" tvc-guide-stationid="80550",HBO Family
 http://example.local/CYM-HBOFMEH.ts
+#EXTINF:-1 tvg-chno="10241" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="Cayman Islands" tvg-id="HBOHTS" tvc-guide-stationid="10241",HBO Hits
+http://example.local/CYM-HBOHTS.ts
 #EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_aa.png" group-title="Cayman Islands" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
 http://example.local/CYM-HBOLAT.ts
-#EXTINF:-1 tvg-chno="108217" tvg-name="HBO Mundi" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="MUNLEH" tvc-guide-stationid="108217",HBO Mundi
-http://example.local/CYM-MUNLEH.ts
 #EXTINF:-1 tvg-chno="68242" tvg-name="HBO Mundi" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="MUNLE" tvc-guide-stationid="68242",HBO Mundi
 http://example.local/CYM-MUNLE.ts
+#EXTINF:-1 tvg-chno="108217" tvg-name="HBO Mundi" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="MUNLEH" tvc-guide-stationid="108217",HBO Mundi
+http://example.local/CYM-MUNLEH.ts
 #EXTINF:-1 tvg-chno="86765" tvg-name="HBO Mundi Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="MUNCAR" tvc-guide-stationid="86765",HBO Mundi Caribbean
 http://example.local/CYM-MUNCAR.ts
-#EXTINF:-1 tvg-chno="80112" tvg-name="HBO Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s34725_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="HBOPPHD" tvc-guide-stationid="80112",HBO Plus
-http://example.local/CYM-HBOPPHD.ts
 #EXTINF:-1 tvg-chno="80551" tvg-name="HBO Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s34725_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="HBOPIH" tvc-guide-stationid="80551",HBO Plus
 http://example.local/CYM-HBOPIH.ts
+#EXTINF:-1 tvg-chno="80112" tvg-name="HBO Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s34725_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="HBOPPHD" tvc-guide-stationid="80112",HBO Plus
+http://example.local/CYM-HBOPPHD.ts
 #EXTINF:-1 tvg-chno="16796" tvg-name="HBO Plus Panregional English" tvg-logo="https://zap2it.tmsimg.com/assets/s34725_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="HBOPI" tvc-guide-stationid="16796",HBO Plus Panregional English
 http://example.local/CYM-HBOPI.ts
 #EXTINF:-1 tvg-chno="70545" tvg-name="HBO Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_h3_aa.png" group-title="Cayman Islands" tvg-id="POPLEH" tvc-guide-stationid="70545",HBO Pop
 http://example.local/CYM-POPLEH.ts
 #EXTINF:-1 tvg-chno="80554" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="HBOSEHD" tvc-guide-stationid="80554",HBO Signature
 http://example.local/CYM-HBOSEHD.ts
+#EXTINF:-1 tvg-chno="82648" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_h3_ba.png" group-title="Cayman Islands" tvg-id="HBOXLEH" tvc-guide-stationid="82648",HBO Xtreme
+http://example.local/CYM-HBOXLEH.ts
 #EXTINF:-1 tvg-chno="57400" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="HBOXMXE" tvc-guide-stationid="57400",HBO Xtreme
 http://example.local/CYM-HBOXMXE.ts
 #EXTINF:-1 tvg-chno="34887" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="HBOXMX" tvc-guide-stationid="34887",HBO Xtreme
 http://example.local/CYM-HBOXMX.ts
-#EXTINF:-1 tvg-chno="82648" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_h3_ba.png" group-title="Cayman Islands" tvg-id="HBOXLEH" tvc-guide-stationid="82648",HBO Xtreme
-http://example.local/CYM-HBOXLEH.ts
 #EXTINF:-1 tvg-chno="29328" tvg-name="Hillsong Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s29328_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="HILLSNG" tvc-guide-stationid="29328",Hillsong Channel
 http://example.local/CYM-HILLSNG.ts
 #EXTINF:-1 tvg-chno="102674" tvg-name="Hillsong Channel HD" group-title="Cayman Islands" tvg-id="HISNGHD" tvc-guide-stationid="102674",Hillsong Channel HD
@@ -431,12 +441,12 @@ http://example.local/CYM-HGTV.ts
 http://example.local/CYM-HGTVD.ts
 #EXTINF:-1 tvg-chno="73074" tvg-name="Hot 104.1FM" group-title="Cayman Islands" tvg-id="HOT1041" tvc-guide-stationid="73074",Hot 104.1FM
 http://example.local/CYM-HOT1041.ts
+#EXTINF:-1 tvg-chno="25793" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="IDM" tvc-guide-stationid="25793",ID
+http://example.local/CYM-IDM.ts
 #EXTINF:-1 tvg-chno="16446" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="IDLE" tvc-guide-stationid="16446",ID
 http://example.local/CYM-IDLE.ts
 #EXTINF:-1 tvg-chno="77635" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="IDLHD" tvc-guide-stationid="77635",ID
 http://example.local/CYM-IDLHD.ts
-#EXTINF:-1 tvg-chno="25793" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="IDM" tvc-guide-stationid="25793",ID
-http://example.local/CYM-IDM.ts
 #EXTINF:-1 tvg-chno="90848" tvg-name="Investigacion Discovery Latin AmEnglish HD" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="IDLEHD" tvc-guide-stationid="90848",Investigacion Discovery Latin AmEnglish HD
 http://example.local/CYM-IDLEHD.ts
 #EXTINF:-1 tvg-chno="69073" tvg-name="ISAT" tvg-logo="https://zap2it.tmsimg.com/assets/s16497_h3_aa.png" group-title="Cayman Islands" tvg-id="ISATENG" tvc-guide-stationid="69073",ISAT
@@ -447,10 +457,10 @@ http://example.local/CYM-ISATMX.ts
 http://example.local/CYM-ISLND24.ts
 #EXTINF:-1 tvg-chno="109553" tvg-name="Law & Crime Stream" tvg-logo="https://zap2it.tmsimg.com/assets/s109553_h3_ba.png" group-title="Cayman Islands" tvg-id="LCSTR" tvc-guide-stationid="109553",Law & Crime Stream
 http://example.local/CYM-LCSTR.ts
-#EXTINF:-1 tvg-chno="89214" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="LIFELA" tvc-guide-stationid="89214",Lifetime
-http://example.local/CYM-LIFELA.ts
 #EXTINF:-1 tvg-chno="10918" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s10918_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="LIFE" tvc-guide-stationid="10918",Lifetime
 http://example.local/CYM-LIFE.ts
+#EXTINF:-1 tvg-chno="89214" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="LIFELA" tvc-guide-stationid="89214",Lifetime
+http://example.local/CYM-LIFELA.ts
 #EXTINF:-1 tvg-chno="60150" tvg-name="Lifetime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60150_ll_h15_ad.png" group-title="Cayman Islands" tvg-id="LIFEHD" tvc-guide-stationid="60150",Lifetime HD
 http://example.local/CYM-LIFEHD.ts
 #EXTINF:-1 tvg-chno="29612" tvg-name="Lifetime Real Women" tvg-logo="https://zap2it.tmsimg.com/assets/s29612_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="LRW" tvc-guide-stationid="29612",Lifetime Real Women
@@ -481,6 +491,10 @@ http://example.local/CYM-MIMUSIC.ts
 http://example.local/CYM-MLBHD.ts
 #EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
 http://example.local/CYM-MTHD.ts
+#EXTINF:-1 tvg-chno="16300" tvg-name="MS NOW" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002H5PTR.png" group-title="Cayman Islands" tvg-id="MSNOW" tvc-guide-stationid="16300",MS NOW
+http://example.local/CYM-MSNOW.ts
+#EXTINF:-1 tvg-chno="64241" tvg-name="MS NOW HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002H5PTL.png" group-title="Cayman Islands" tvg-id="MSNOWHD" tvc-guide-stationid="64241",MS NOW HD
+http://example.local/CYM-MSNOWHD.ts
 #EXTINF:-1 tvg-chno="10986" tvg-name="MTV - Music Television" tvg-logo="https://zap2it.tmsimg.com/assets/s10986_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="MTV" tvc-guide-stationid="10986",MTV - Music Television
 http://example.local/CYM-MTV.ts
 #EXTINF:-1 tvg-chno="60964" tvg-name="MTV - Music Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60964_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="MTVHD" tvc-guide-stationid="60964",MTV - Music Television HD
@@ -691,12 +705,12 @@ http://example.local/CYM-SECH.ts
 http://example.local/CYM-SET.ts
 #EXTINF:-1 tvg-chno="67676" tvg-name="SonLife Broadcasting Network" tvg-logo="https://zap2it.tmsimg.com/assets/s67676_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="SBND" tvc-guide-stationid="67676",SonLife Broadcasting Network
 http://example.local/CYM-SBND.ts
-#EXTINF:-1 tvg-chno="70351" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="SPACES" tvc-guide-stationid="70351",Space
-http://example.local/CYM-SPACES.ts
-#EXTINF:-1 tvg-chno="69490" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="SPACEEH" tvc-guide-stationid="69490",Space
-http://example.local/CYM-SPACEEH.ts
 #EXTINF:-1 tvg-chno="61627" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="SPACEE" tvc-guide-stationid="61627",Space
 http://example.local/CYM-SPACEE.ts
+#EXTINF:-1 tvg-chno="69490" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="SPACEEH" tvc-guide-stationid="69490",Space
+http://example.local/CYM-SPACEEH.ts
+#EXTINF:-1 tvg-chno="70351" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="SPACES" tvc-guide-stationid="70351",Space
+http://example.local/CYM-SPACES.ts
 #EXTINF:-1 tvg-chno="82672" tvg-name="SportsMax 2" tvg-logo="https://zap2it.tmsimg.com/assets/s82672_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="SPMAX2" tvc-guide-stationid="82672",SportsMax 2
 http://example.local/CYM-SPMAX2.ts
 #EXTINF:-1 tvg-chno="99405" tvg-name="SportsMax 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s82672_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="SPMX2HD" tvc-guide-stationid="99405",SportsMax 2 HD
@@ -709,10 +723,10 @@ http://example.local/CYM-SPMAX.ts
 http://example.local/CYM-STRACEH.ts
 #EXTINF:-1 tvg-chno="15688" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="STARMEX" tvc-guide-stationid="15688",Star Channel
 http://example.local/CYM-STARMEX.ts
-#EXTINF:-1 tvg-chno="108215" tvg-name="STAR CINEMA" tvg-logo="https://zap2it.tmsimg.com/assets/s71662_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="STRCIEH" tvc-guide-stationid="108215",STAR CINEMA
-http://example.local/CYM-STRCIEH.ts
 #EXTINF:-1 tvg-chno="77388" tvg-name="STAR CINEMA" tvg-logo="https://zap2it.tmsimg.com/assets/s71662_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="STARCIE" tvc-guide-stationid="77388",STAR CINEMA
 http://example.local/CYM-STARCIE.ts
+#EXTINF:-1 tvg-chno="108215" tvg-name="STAR CINEMA" tvg-logo="https://zap2it.tmsimg.com/assets/s71662_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="STRCIEH" tvc-guide-stationid="108215",STAR CINEMA
+http://example.local/CYM-STRCIEH.ts
 #EXTINF:-1 tvg-chno="99435" tvg-name="Star Classics" tvg-logo="https://zap2it.tmsimg.com/assets/s44028_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="STRCLAEA" tvc-guide-stationid="99435",Star Classics
 http://example.local/CYM-STRCLAEA.ts
 #EXTINF:-1 tvg-chno="100793" tvg-name="STAR COMEDY" tvg-logo="https://zap2it.tmsimg.com/assets/s90916_h3_ba.png" group-title="Cayman Islands" tvg-id="STCMEHD" tvc-guide-stationid="100793",STAR COMEDY
@@ -785,32 +799,32 @@ http://example.local/CYM-WEATH.ts
 http://example.local/CYM-WEATHHD.ts
 #EXTINF:-1 tvg-chno="98179" tvg-name="This is Cayman" group-title="Cayman Islands" tvg-id="THISCAY" tvc-guide-stationid="98179",This is Cayman
 http://example.local/CYM-THISCAY.ts
-#EXTINF:-1 tvg-chno="88943" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s73822_ll_h15_ae.png" group-title="Cayman Islands" tvg-id="TLCLAHD" tvc-guide-stationid="88943",TLC
-http://example.local/CYM-TLCLAHD.ts
 #EXTINF:-1 tvg-chno="11158" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s11158_ll_h15_ad.png" group-title="Cayman Islands" tvg-id="TLC" tvc-guide-stationid="11158",TLC
 http://example.local/CYM-TLC.ts
 #EXTINF:-1 tvg-chno="73822" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s73822_ll_h15_ae.png" group-title="Cayman Islands" tvg-id="TLCLASP" tvc-guide-stationid="73822",TLC
 http://example.local/CYM-TLCLASP.ts
+#EXTINF:-1 tvg-chno="88943" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s73822_ll_h15_ae.png" group-title="Cayman Islands" tvg-id="TLCLAHD" tvc-guide-stationid="88943",TLC
+http://example.local/CYM-TLCLAHD.ts
 #EXTINF:-1 tvg-chno="73824" tvg-name="TLC Latin America (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s73822_ll_h15_ae.png" group-title="Cayman Islands" tvg-id="TLCLAE" tvc-guide-stationid="73824",TLC Latin America (English)
 http://example.local/CYM-TLCLAE.ts
-#EXTINF:-1 tvg-chno="106062" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="TNTLCHH" tvc-guide-stationid="106062",TNT
-http://example.local/CYM-TNTLCHH.ts
-#EXTINF:-1 tvg-chno="106190" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="TNTLH" tvc-guide-stationid="106190",TNT
-http://example.local/CYM-TNTLH.ts
-#EXTINF:-1 tvg-chno="11164" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s11164_h3_aa.png" group-title="Cayman Islands" tvg-id="TNT" tvc-guide-stationid="11164",TNT
-http://example.local/CYM-TNT.ts
-#EXTINF:-1 tvg-chno="15914" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Cayman Islands" tvg-id="TNTL" tvc-guide-stationid="15914",TNT
-http://example.local/CYM-TNTL.ts
-#EXTINF:-1 tvg-chno="11165" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Cayman Islands" tvg-id="TNTI" tvc-guide-stationid="11165",TNT
-http://example.local/CYM-TNTI.ts
 #EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Cayman Islands" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
 http://example.local/CYM-TNTLC.ts
+#EXTINF:-1 tvg-chno="11164" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s11164_h3_aa.png" group-title="Cayman Islands" tvg-id="TNT" tvc-guide-stationid="11164",TNT
+http://example.local/CYM-TNT.ts
+#EXTINF:-1 tvg-chno="11165" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Cayman Islands" tvg-id="TNTI" tvc-guide-stationid="11165",TNT
+http://example.local/CYM-TNTI.ts
+#EXTINF:-1 tvg-chno="106190" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="TNTLH" tvc-guide-stationid="106190",TNT
+http://example.local/CYM-TNTLH.ts
+#EXTINF:-1 tvg-chno="106062" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="TNTLCHH" tvc-guide-stationid="106062",TNT
+http://example.local/CYM-TNTLCHH.ts
+#EXTINF:-1 tvg-chno="15914" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Cayman Islands" tvg-id="TNTL" tvc-guide-stationid="15914",TNT
+http://example.local/CYM-TNTL.ts
 #EXTINF:-1 tvg-chno="42642" tvg-name="TNT HD" tvg-logo="https://zap2it.tmsimg.com/assets/s42642_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="TNTHD" tvc-guide-stationid="42642",TNT HD
 http://example.local/CYM-TNTHD.ts
-#EXTINF:-1 tvg-chno="63109" tvg-name="Tooncast" tvg-logo="https://zap2it.tmsimg.com/assets/s63109_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="TOONCST" tvc-guide-stationid="63109",Tooncast
-http://example.local/CYM-TOONCST.ts
 #EXTINF:-1 tvg-chno="67595" tvg-name="TOONCAST" tvg-logo="https://zap2it.tmsimg.com/assets/s63109_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="TNCSTEN" tvc-guide-stationid="67595",TOONCAST
 http://example.local/CYM-TNCSTEN.ts
+#EXTINF:-1 tvg-chno="63109" tvg-name="Tooncast" tvg-logo="https://zap2it.tmsimg.com/assets/s63109_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="TOONCST" tvc-guide-stationid="63109",Tooncast
+http://example.local/CYM-TOONCST.ts
 #EXTINF:-1 tvg-chno="14767" tvg-name="Trinity Broadcasting Network" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y4QD.png" group-title="Cayman Islands" tvg-id="TBN" tvc-guide-stationid="14767",Trinity Broadcasting Network
 http://example.local/CYM-TBN.ts
 #EXTINF:-1 tvg-chno="59539" tvg-name="Trinity Broadcasting Network HD (TBN)" tvg-logo="https://zap2it.tmsimg.com/assets/s14767_h3_aa.png" group-title="Cayman Islands" tvg-id="TBNHD" tvc-guide-stationid="59539",Trinity Broadcasting Network HD (TBN)
@@ -827,7 +841,7 @@ http://example.local/CYM-TCMHD.ts
 http://example.local/CYM-TVONEHD.ts
 #EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/CYM-UNTVM.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" group-title="Cayman Islands" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/CYM-UNI.ts
 #EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="Cayman Islands" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
 http://example.local/CYM-UNIHD.ts
@@ -837,10 +851,10 @@ http://example.local/CYM-UP.ts
 http://example.local/CYM-USALA.ts
 #EXTINF:-1 tvg-chno="11207" tvg-name="USA Network" tvg-logo="https://zap2it.tmsimg.com/assets/s11207_ll_h15_af.png" group-title="Cayman Islands" tvg-id="USA" tvc-guide-stationid="11207",USA Network
 http://example.local/CYM-USA.ts
-#EXTINF:-1 tvg-chno="42567" tvg-name="VH1" tvg-logo="https://zap2it.tmsimg.com/assets/s42567_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="VH1L" tvc-guide-stationid="42567",VH1
-http://example.local/CYM-VH1L.ts
 #EXTINF:-1 tvg-chno="11218" tvg-name="VH1" tvg-logo="https://zap2it.tmsimg.com/assets/s11218_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="VH1" tvc-guide-stationid="11218",VH1
 http://example.local/CYM-VH1.ts
+#EXTINF:-1 tvg-chno="42567" tvg-name="VH1" tvg-logo="https://zap2it.tmsimg.com/assets/s42567_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="VH1L" tvc-guide-stationid="42567",VH1
+http://example.local/CYM-VH1L.ts
 #EXTINF:-1 tvg-chno="90396" tvg-name="VH1 (Caribbean)" tvg-logo="https://zap2it.tmsimg.com/assets/s42567_h3_aa.png" group-title="Cayman Islands" tvg-id="VH1CAR" tvc-guide-stationid="90396",VH1 (Caribbean)
 http://example.local/CYM-VH1CAR.ts
 #EXTINF:-1 tvg-chno="65732" tvg-name="Vice HD" tvg-logo="https://zap2it.tmsimg.com/assets/s18822_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="VICEHD" tvc-guide-stationid="65732",Vice HD
@@ -863,7 +877,7 @@ http://example.local/CYM-WFOR.ts
 http://example.local/CYM-WFORDT.ts
 #EXTINF:-1 tvg-chno="11474" tvg-name="WGN (Chicago) (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s51306_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="WGN" tvc-guide-stationid="11474",WGN (Chicago) (CW)
 http://example.local/CYM-WGN.ts
-#EXTINF:-1 tvg-chno="90285" tvg-name="WLTV-DT3 (IMYS)" tvg-logo="https://zap2it.tmsimg.com/assets/s89923_ll_h15_ad.png" group-title="Cayman Islands" tvg-id="WLTVDT3" tvc-guide-stationid="90285",WLTV-DT3 (IMYS)
+#EXTINF:-1 tvg-chno="90285" tvg-name="WLTV-DT3 (NOSEYTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s157427_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="WLTVDT3" tvc-guide-stationid="90285",WLTV-DT3 (NOSEYTV)
 http://example.local/CYM-WLTVDT3.ts
 #EXTINF:-1 tvg-chno="64046" tvg-name="World Fishing Network HD (US)" tvg-logo="https://zap2it.tmsimg.com/assets/s64046_ll_h15_aa.png" group-title="Cayman Islands" tvg-id="WFNUSHD" tvc-guide-stationid="64046",World Fishing Network HD (US)
 http://example.local/CYM-WFNUSHD.ts
@@ -877,7 +891,7 @@ http://example.local/CYM-WPLG.ts
 http://example.local/CYM-WPLGDT.ts
 #EXTINF:-1 tvg-chno="35515" tvg-name="WPXM-DT (ION)" tvg-logo="https://zap2it.tmsimg.com/assets/s18633_ll_h15_ad.png" group-title="Cayman Islands" tvg-id="WPXMDT" tvc-guide-stationid="35515",WPXM-DT (ION)
 http://example.local/CYM-WPXMDT.ts
-#EXTINF:-1 tvg-chno="54616" tvg-name="WPXM-DT2 (BOUNCE)" tvg-logo="https://zap2it.tmsimg.com/assets/s73067_ll_h15_ab.png" group-title="Cayman Islands" tvg-id="WPXMDT2" tvc-guide-stationid="54616",WPXM-DT2 (BOUNCE)
+#EXTINF:-1 tvg-chno="54616" tvg-name="WPXM-DT2 (BOUNCE)" tvg-logo="https://zap2it.tmsimg.com/assets/s73067_h3_aa.png" group-title="Cayman Islands" tvg-id="WPXMDT2" tvc-guide-stationid="54616",WPXM-DT2 (BOUNCE)
 http://example.local/CYM-WPXMDT2.ts
 #EXTINF:-1 tvg-chno="11398" tvg-name="WSFL" group-title="Cayman Islands" tvg-id="WSFL" tvc-guide-stationid="11398",WSFL
 http://example.local/CYM-WSFL.ts

@@ -15,8 +15,8 @@ http://example.local/PAN-AENOR.ts
 http://example.local/PAN-AENORH.ts
 #EXTINF:-1 tvg-chno="56193" tvg-name="AccuWeather" tvg-logo="https://zap2it.tmsimg.com/assets/s56193_ll_h15_ab.png" group-title="Panama" tvg-id="ACUWTHR" tvc-guide-stationid="56193",AccuWeather
 http://example.local/PAN-ACUWTHR.ts
-#EXTINF:-1 tvg-chno="15384" tvg-name="ADN40" tvg-logo="https://zap2it.tmsimg.com/assets/s15384_ll_h15_ad.png" group-title="Panama" tvg-id="ADN40" tvc-guide-stationid="15384",ADN40
-http://example.local/PAN-ADN40.ts
+#EXTINF:-1 tvg-chno="15384" tvg-name="ADN Noticias" tvg-logo="https://zap2it.tmsimg.com/assets/s15384_h3_ba.png" group-title="Panama" tvg-id="ADNNOT" tvc-guide-stationid="15384",ADN Noticias
+http://example.local/PAN-ADNNOT.ts
 #EXTINF:-1 tvg-chno="83162" tvg-name="Adrenalina Sports Network" tvg-logo="https://zap2it.tmsimg.com/assets/s83162_ll_h15_ad.png" group-title="Panama" tvg-id="ADRESN" tvc-guide-stationid="83162",Adrenalina Sports Network
 http://example.local/PAN-ADRESN.ts
 #EXTINF:-1 tvg-chno="83166" tvg-name="Adrenalina Sports Network" tvg-logo="https://zap2it.tmsimg.com/assets/s83162_h3_aa.png" group-title="Panama" tvg-id="ADRESNH" tvc-guide-stationid="83166",Adrenalina Sports Network
@@ -35,10 +35,12 @@ http://example.local/PAN-AMC.ts
 http://example.local/PAN-AMCMEX.ts
 #EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Panama" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
 http://example.local/PAN-AMCMXHD.ts
-#EXTINF:-1 tvg-chno="97167" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_h3_ba.png" group-title="Panama" tvg-id="ANIPLH" tvc-guide-stationid="97167",Animal Planet
-http://example.local/PAN-ANIPLH.ts
+#EXTINF:-1 tvg-chno="17457" tvg-name="AMC Series" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002GM3XT.png" group-title="Panama" tvg-id="AMCSRS" tvc-guide-stationid="17457",AMC Series
+http://example.local/PAN-AMCSRS.ts
 #EXTINF:-1 tvg-chno="18649" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Panama" tvg-id="ANIPL" tvc-guide-stationid="18649",Animal Planet
 http://example.local/PAN-ANIPL.ts
+#EXTINF:-1 tvg-chno="97167" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_h3_ba.png" group-title="Panama" tvg-id="ANIPLH" tvc-guide-stationid="97167",Animal Planet
+http://example.local/PAN-ANIPLH.ts
 #EXTINF:-1 tvg-chno="18648" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Panama" tvg-id="ANIPI" tvc-guide-stationid="18648",Animal Planet
 http://example.local/PAN-ANIPI.ts
 #EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Panama" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
@@ -99,10 +101,10 @@ http://example.local/PAN-EXITO90.ts
 http://example.local/PAN-EXITOES.ts
 #EXTINF:-1 tvg-chno="41080" tvg-name="Audio DLA Éxitos En Italiano" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png" group-title="Panama" tvg-id="EXITOIT" tvc-guide-stationid="41080",Audio DLA Éxitos En Italiano
 http://example.local/PAN-EXITOIT.ts
-#EXTINF:-1 tvg-chno="17484" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s17484_ll_h15_ab.png" group-title="Panama" tvg-id="AXNL" tvc-guide-stationid="17484",AXN
-http://example.local/PAN-AXNL.ts
 #EXTINF:-1 tvg-chno="26083" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s17484_ll_h15_ab.png" group-title="Panama" tvg-id="AXNARG" tvc-guide-stationid="26083",AXN
 http://example.local/PAN-AXNARG.ts
+#EXTINF:-1 tvg-chno="17484" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s17484_ll_h15_ab.png" group-title="Panama" tvg-id="AXNL" tvc-guide-stationid="17484",AXN
+http://example.local/PAN-AXNL.ts
 #EXTINF:-1 tvg-chno="72534" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s72534_ll_h15_ab.png" group-title="Panama" tvg-id="AXNHD" tvc-guide-stationid="72534",AXN
 http://example.local/PAN-AXNHD.ts
 #EXTINF:-1 tvg-chno="75359" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s72534_ll_h15_ab.png" group-title="Panama" tvg-id="AXNLAHD" tvc-guide-stationid="75359",AXN
@@ -211,18 +213,18 @@ http://example.local/PAN-CANALU.ts
 http://example.local/PAN-VASCO.ts
 #EXTINF:-1 tvg-chno="39719" tvg-name="CARACOL INTERNATIONAL" tvg-logo="https://zap2it.tmsimg.com/assets/s39719_ll_h15_ab.png" group-title="Panama" tvg-id="CARAI" tvc-guide-stationid="39719",CARACOL INTERNATIONAL
 http://example.local/PAN-CARAI.ts
-#EXTINF:-1 tvg-chno="101403" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Panama" tvg-id="CARTPHD" tvc-guide-stationid="101403",Cartoon Network
-http://example.local/PAN-CARTPHD.ts
 #EXTINF:-1 tvg-chno="16141" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Panama" tvg-id="TOONL" tvc-guide-stationid="16141",Cartoon Network
 http://example.local/PAN-TOONL.ts
+#EXTINF:-1 tvg-chno="101403" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Panama" tvg-id="CARTPHD" tvc-guide-stationid="101403",Cartoon Network
+http://example.local/PAN-CARTPHD.ts
 #EXTINF:-1 tvg-chno="19458" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Panama" tvg-id="TOONLS" tvc-guide-stationid="19458",Cartoon Network
 http://example.local/PAN-TOONLS.ts
 #EXTINF:-1 tvg-chno="12131" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s12131_h3_ba.png" group-title="Panama" tvg-id="TOON" tvc-guide-stationid="12131",Cartoon Network
 http://example.local/PAN-TOON.ts
-#EXTINF:-1 tvg-chno="26089" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Panama" tvg-id="CARTOA" tvc-guide-stationid="26089",Cartoonito
-http://example.local/PAN-CARTOA.ts
 #EXTINF:-1 tvg-chno="55719" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Panama" tvg-id="CARTOM" tvc-guide-stationid="55719",Cartoonito
 http://example.local/PAN-CARTOM.ts
+#EXTINF:-1 tvg-chno="26089" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Panama" tvg-id="CARTOA" tvc-guide-stationid="26089",Cartoonito
+http://example.local/PAN-CARTOA.ts
 #EXTINF:-1 tvg-chno="107448" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Panama" tvg-id="CARTPEH" tvc-guide-stationid="107448",Cartoonito
 http://example.local/PAN-CARTPEH.ts
 #EXTINF:-1 tvg-chno="84443" tvg-name="CB24" tvg-logo="https://zap2it.tmsimg.com/assets/s84443_ll_h15_aa.png" group-title="Panama" tvg-id="CB24" tvc-guide-stationid="84443",CB24
@@ -253,10 +255,10 @@ http://example.local/PAN-CMAX.ts
 http://example.local/PAN-CLAROSP.ts
 #EXTINF:-1 tvg-chno="10139" tvg-name="CNBC" tvg-logo="https://zap2it.tmsimg.com/assets/s10139_ll_h15_ae.png" group-title="Panama" tvg-id="CNBC" tvc-guide-stationid="10139",CNBC
 http://example.local/PAN-CNBC.ts
-#EXTINF:-1 tvg-chno="17054" tvg-name="CNN En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png" group-title="Panama" tvg-id="CNNL" tvc-guide-stationid="17054",CNN En Español
-http://example.local/PAN-CNNL.ts
 #EXTINF:-1 tvg-chno="27773" tvg-name="CNN en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png" group-title="Panama" tvg-id="CNNEM" tvc-guide-stationid="27773",CNN en Español
 http://example.local/PAN-CNNEM.ts
+#EXTINF:-1 tvg-chno="17054" tvg-name="CNN En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png" group-title="Panama" tvg-id="CNNL" tvc-guide-stationid="17054",CNN En Español
+http://example.local/PAN-CNNL.ts
 #EXTINF:-1 tvg-chno="58631" tvg-name="CNN en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s58631_ll_h9_aa.png" group-title="Panama" tvg-id="CNNE" tvc-guide-stationid="58631",CNN en Español
 http://example.local/PAN-CNNE.ts
 #EXTINF:-1 tvg-chno="58646" tvg-name="CNN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58646_ll_h15_ac.png" group-title="Panama" tvg-id="CNNHD" tvc-guide-stationid="58646",CNN HD
@@ -295,12 +297,12 @@ http://example.local/PAN-DISCCH.ts
 http://example.local/PAN-TDCL.ts
 #EXTINF:-1 tvg-chno="59582" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_ll_h15_ae.png" group-title="Panama" tvg-id="DHEALM" tvc-guide-stationid="59582",Discovery Home & Health
 http://example.local/PAN-DHEALM.ts
+#EXTINF:-1 tvg-chno="97571" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s97571_ll_h15_ab.png" group-title="Panama" tvg-id="DHEALH" tvc-guide-stationid="97571",Discovery Home & Health
+http://example.local/PAN-DHEALH.ts
 #EXTINF:-1 tvg-chno="91959" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s97571_h3_aa.png" group-title="Panama" tvg-id="DHEALHE" tvc-guide-stationid="91959",Discovery Home & Health
 http://example.local/PAN-DHEALHE.ts
 #EXTINF:-1 tvg-chno="24424" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_ll_h15_ae.png" group-title="Panama" tvg-id="DHEAL" tvc-guide-stationid="24424",Discovery Home & Health
 http://example.local/PAN-DHEAL.ts
-#EXTINF:-1 tvg-chno="97571" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s97571_ll_h15_ab.png" group-title="Panama" tvg-id="DHEALH" tvc-guide-stationid="97571",Discovery Home & Health
-http://example.local/PAN-DHEALH.ts
 #EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_h3_aa.png" group-title="Panama" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
 http://example.local/PAN-DKNLM.ts
 #EXTINF:-1 tvg-chno="16680" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Panama" tvg-id="DKNL" tvc-guide-stationid="16680",Discovery Kids
@@ -309,10 +311,10 @@ http://example.local/PAN-DKNL.ts
 http://example.local/PAN-DKNLHD.ts
 #EXTINF:-1 tvg-chno="46610" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s48527_ll_h15_aa.png" group-title="Panama" tvg-id="DSCIENL" tvc-guide-stationid="46610",Discovery Science
 http://example.local/PAN-DSCIENL.ts
-#EXTINF:-1 tvg-chno="65940" tvg-name="Discovery Theater HD" tvg-logo="https://zap2it.tmsimg.com/assets/s65940_ll_h15_ab.png" group-title="Panama" tvg-id="DTHLAHD" tvc-guide-stationid="65940",Discovery Theater HD
-http://example.local/PAN-DTHLAHD.ts
 #EXTINF:-1 tvg-chno="65301" tvg-name="Discovery Theater HD" tvg-logo="https://zap2it.tmsimg.com/assets/s65940_ll_h15_ab.png" group-title="Panama" tvg-id="DTHLIHD" tvc-guide-stationid="65301",Discovery Theater HD
 http://example.local/PAN-DTHLIHD.ts
+#EXTINF:-1 tvg-chno="65940" tvg-name="Discovery Theater HD" tvg-logo="https://zap2it.tmsimg.com/assets/s65940_ll_h15_ab.png" group-title="Panama" tvg-id="DTHLAHD" tvc-guide-stationid="65940",Discovery Theater HD
+http://example.local/PAN-DTHLAHD.ts
 #EXTINF:-1 tvg-chno="46608" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="Panama" tvg-id="DTURBOL" tvc-guide-stationid="46608",Discovery Turbo
 http://example.local/PAN-DTURBOL.ts
 #EXTINF:-1 tvg-chno="54948" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="Panama" tvg-id="DTURBO" tvc-guide-stationid="54948",Discovery Turbo
@@ -323,16 +325,16 @@ http://example.local/PAN-DWRLDHD.ts
 http://example.local/PAN-DISNL.ts
 #EXTINF:-1 tvg-chno="41223" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s41223_ll_h15_aa.png" group-title="Panama" tvg-id="DISNLS" tvc-guide-stationid="41223",Disney Channel
 http://example.local/PAN-DISNLS.ts
-#EXTINF:-1 tvg-chno="114439" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Panama" tvg-id="DISJMXH" tvc-guide-stationid="114439",Disney Junior
-http://example.local/PAN-DISJMXH.ts
 #EXTINF:-1 tvg-chno="61311" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Panama" tvg-id="DISNJMX" tvc-guide-stationid="61311",Disney Junior
 http://example.local/PAN-DISNJMX.ts
+#EXTINF:-1 tvg-chno="114439" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Panama" tvg-id="DISJMXH" tvc-guide-stationid="114439",Disney Junior
+http://example.local/PAN-DISJMXH.ts
 #EXTINF:-1 tvg-chno="74796" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s74796_ll_h15_ad.png" group-title="Panama" tvg-id="DJCH" tvc-guide-stationid="74796",Disney Junior
 http://example.local/PAN-DJCH.ts
-#EXTINF:-1 tvg-chno="118920" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_h3_aa.png" group-title="Panama" tvg-id="DISNXAH" tvc-guide-stationid="118920",Disney XD
-http://example.local/PAN-DISNXAH.ts
 #EXTINF:-1 tvg-chno="16563" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_ll_h15_ab.png" group-title="Panama" tvg-id="DISNXD" tvc-guide-stationid="16563",Disney XD
 http://example.local/PAN-DISNXD.ts
+#EXTINF:-1 tvg-chno="118920" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_h3_aa.png" group-title="Panama" tvg-id="DISNXAH" tvc-guide-stationid="118920",Disney XD
+http://example.local/PAN-DISNXAH.ts
 #EXTINF:-1 tvg-chno="54930" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_ll_h15_ab.png" group-title="Panama" tvg-id="DISNXMU" tvc-guide-stationid="54930",Disney XD
 http://example.local/PAN-DISNXMU.ts
 #EXTINF:-1 tvg-chno="25748" tvg-name="Disney XD en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s25748_ll_h15_aa.png" group-title="Panama" tvg-id="DXDS" tvc-guide-stationid="25748",Disney XD en Español
@@ -441,22 +443,22 @@ http://example.local/PAN-ESPNAR.ts
 http://example.local/PAN-ESPNM.ts
 #EXTINF:-1 tvg-chno="109193" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s17725_ll_h15_ac.png" group-title="Panama" tvg-id="ESPCAM" tvc-guide-stationid="109193",ESPN
 http://example.local/PAN-ESPCAM.ts
+#EXTINF:-1 tvg-chno="90293" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_h3_aa.png" group-title="Panama" tvg-id="ESP2NH" tvc-guide-stationid="90293",ESPN 2
+http://example.local/PAN-ESP2NH.ts
 #EXTINF:-1 tvg-chno="10180" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Panama" tvg-id="ESP2ME" tvc-guide-stationid="10180",ESPN 2
 http://example.local/PAN-ESP2ME.ts
+#EXTINF:-1 tvg-chno="67546" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Panama" tvg-id="ESP2MEH" tvc-guide-stationid="67546",ESPN 2
+http://example.local/PAN-ESP2MEH.ts
 #EXTINF:-1 tvg-chno="37747" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Panama" tvg-id="ESPN2MX" tvc-guide-stationid="37747",ESPN 2
 http://example.local/PAN-ESPN2MX.ts
 #EXTINF:-1 tvg-chno="96876" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Panama" tvg-id="ESPN2MH" tvc-guide-stationid="96876",ESPN 2
 http://example.local/PAN-ESPN2MH.ts
 #EXTINF:-1 tvg-chno="63212" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Panama" tvg-id="ESP2LN" tvc-guide-stationid="63212",ESPN 2
 http://example.local/PAN-ESP2LN.ts
-#EXTINF:-1 tvg-chno="90293" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_h3_aa.png" group-title="Panama" tvg-id="ESP2NH" tvc-guide-stationid="90293",ESPN 2
-http://example.local/PAN-ESP2NH.ts
-#EXTINF:-1 tvg-chno="67546" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Panama" tvg-id="ESP2MEH" tvc-guide-stationid="67546",ESPN 2
-http://example.local/PAN-ESP2MEH.ts
-#EXTINF:-1 tvg-chno="79042" tvg-name="ESPN 3" tvg-logo="https://zap2it.tmsimg.com/assets/s73833_h3_aa.png" group-title="Panama" tvg-id="ESPN3N" tvc-guide-stationid="79042",ESPN 3
-http://example.local/PAN-ESPN3N.ts
 #EXTINF:-1 tvg-chno="75585" tvg-name="ESPN 3" tvg-logo="https://zap2it.tmsimg.com/assets/s75585_ll_h15_ac.png" group-title="Panama" tvg-id="ESPN3BH" tvc-guide-stationid="75585",ESPN 3
 http://example.local/PAN-ESPN3BH.ts
+#EXTINF:-1 tvg-chno="79042" tvg-name="ESPN 3" tvg-logo="https://zap2it.tmsimg.com/assets/s73833_h3_aa.png" group-title="Panama" tvg-id="ESPN3N" tvc-guide-stationid="79042",ESPN 3
+http://example.local/PAN-ESPN3N.ts
 #EXTINF:-1 tvg-chno="65930" tvg-name="ESPN 4 México" tvg-logo="https://zap2it.tmsimg.com/assets/s65930_ll_h15_ae.png" group-title="Panama" tvg-id="ESP4MXH" tvc-guide-stationid="65930",ESPN 4 México
 http://example.local/PAN-ESP4MXH.ts
 #EXTINF:-1 tvg-chno="121544" tvg-name="ESPN 4 Sur" tvg-logo="https://zap2it.tmsimg.com/assets/s65930_ll_h15_ae.png" group-title="Panama" tvg-id="ESPN4SH" tvc-guide-stationid="121544",ESPN 4 Sur
@@ -543,14 +545,14 @@ http://example.local/PAN-FX.ts
 http://example.local/PAN-FXLCNHD.ts
 #EXTINF:-1 tvg-chno="70253" tvg-name="FX Movie Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s70253_ll_h15_aa.png" group-title="Panama" tvg-id="FXMHD" tvc-guide-stationid="70253",FX Movie Channel HD
 http://example.local/PAN-FXMHD.ts
-#EXTINF:-1 tvg-chno="82050" tvg-name="FX Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s25069_ll_h15_ac.png" group-title="Panama" tvg-id="FXMCH" tvc-guide-stationid="82050",FX Movies
-http://example.local/PAN-FXMCH.ts
 #EXTINF:-1 tvg-chno="19787" tvg-name="FX Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s25069_ll_h15_ac.png" group-title="Panama" tvg-id="FXMO" tvc-guide-stationid="19787",FX Movies
 http://example.local/PAN-FXMO.ts
-#EXTINF:-1 tvg-chno="105767" tvg-name="FX Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s25069_ll_h15_ac.png" group-title="Panama" tvg-id="FXMOHD" tvc-guide-stationid="105767",FX Movies
-http://example.local/PAN-FXMOHD.ts
+#EXTINF:-1 tvg-chno="82050" tvg-name="FX Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s25069_ll_h15_ac.png" group-title="Panama" tvg-id="FXMCH" tvc-guide-stationid="82050",FX Movies
+http://example.local/PAN-FXMCH.ts
 #EXTINF:-1 tvg-chno="25069" tvg-name="FX Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s25069_ll_h15_ac.png" group-title="Panama" tvg-id="FXMES" tvc-guide-stationid="25069",FX Movies
 http://example.local/PAN-FXMES.ts
+#EXTINF:-1 tvg-chno="105767" tvg-name="FX Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s25069_ll_h15_ac.png" group-title="Panama" tvg-id="FXMOHD" tvc-guide-stationid="105767",FX Movies
+http://example.local/PAN-FXMOHD.ts
 #EXTINF:-1 tvg-chno="14988" tvg-name="FXM" tvg-logo="https://zap2it.tmsimg.com/assets/s14988_ll_h15_aa.png" group-title="Panama" tvg-id="FXM" tvc-guide-stationid="14988",FXM
 http://example.local/PAN-FXM.ts
 #EXTINF:-1 tvg-chno="17672" tvg-name="Galicia TV America" tvg-logo="https://zap2it.tmsimg.com/assets/s17672_ll_h15_aa.png" group-title="Panama" tvg-id="GALTV" tvc-guide-stationid="17672",Galicia TV America
@@ -579,10 +581,10 @@ http://example.local/PAN-REDEGL.ts
 http://example.local/PAN-GLOVIS.ts
 #EXTINF:-1 tvg-chno="91279" tvg-name="Gol TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91279_ll_h15_ab.png" group-title="Panama" tvg-id="GOLTVSH" tvc-guide-stationid="91279",Gol TV HD
 http://example.local/PAN-GOLTVSH.ts
-#EXTINF:-1 tvg-chno="16298" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Panama" tvg-id="GLDENM" tvc-guide-stationid="16298",Golden
-http://example.local/PAN-GLDENM.ts
 #EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Panama" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
 http://example.local/PAN-GLDEN.ts
+#EXTINF:-1 tvg-chno="16298" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Panama" tvg-id="GLDENM" tvc-guide-stationid="16298",Golden
+http://example.local/PAN-GLDENM.ts
 #EXTINF:-1 tvg-chno="97825" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Panama" tvg-id="GLDENH" tvc-guide-stationid="97825",Golden
 http://example.local/PAN-GLDENH.ts
 #EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Panama" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
@@ -605,20 +607,20 @@ http://example.local/PAN-GOLTVL.ts
 http://example.local/PAN-GUATVIS.ts
 #EXTINF:-1 tvg-chno="16191" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Panama" tvg-id="HBOI" tvc-guide-stationid="16191",HBO
 http://example.local/PAN-HBOI.ts
+#EXTINF:-1 tvg-chno="12288" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Panama" tvg-id="HBOL" tvc-guide-stationid="12288",HBO
+http://example.local/PAN-HBOL.ts
 #EXTINF:-1 tvg-chno="16795" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Panama" tvg-id="HBOLW" tvc-guide-stationid="16795",HBO
 http://example.local/PAN-HBOLW.ts
 #EXTINF:-1 tvg-chno="80406" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Panama" tvg-id="HBOEHD" tvc-guide-stationid="80406",HBO
 http://example.local/PAN-HBOEHD.ts
-#EXTINF:-1 tvg-chno="12288" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Panama" tvg-id="HBOL" tvc-guide-stationid="12288",HBO
-http://example.local/PAN-HBOL.ts
 #EXTINF:-1 tvg-chno="68244" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Panama" tvg-id="HBO2ENG" tvc-guide-stationid="68244",HBO 2
 http://example.local/PAN-HBO2ENG.ts
+#EXTINF:-1 tvg-chno="80113" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Panama" tvg-id="HBOPNHD" tvc-guide-stationid="80113",HBO 2
+http://example.local/PAN-HBOPNHD.ts
 #EXTINF:-1 tvg-chno="68140" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Panama" tvg-id="HBO2LA" tvc-guide-stationid="68140",HBO 2
 http://example.local/PAN-HBO2LA.ts
 #EXTINF:-1 tvg-chno="80652" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Panama" tvg-id="HBO2MHD" tvc-guide-stationid="80652",HBO 2
 http://example.local/PAN-HBO2MHD.ts
-#EXTINF:-1 tvg-chno="80113" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Panama" tvg-id="HBOPNHD" tvc-guide-stationid="80113",HBO 2
-http://example.local/PAN-HBOPNHD.ts
 #EXTINF:-1 tvg-chno="19548" tvg-name="HBO East" tvg-logo="https://zap2it.tmsimg.com/assets/s19548_ll_h15_aa.png" group-title="Panama" tvg-id="HBOHD" tvc-guide-stationid="19548",HBO East
 http://example.local/PAN-HBOHD.ts
 #EXTINF:-1 tvg-chno="34879" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_ll_h15_ae.png" group-title="Panama" tvg-id="HBOFAM" tvc-guide-stationid="34879",HBO Family
@@ -641,32 +643,32 @@ http://example.local/PAN-HBOPLLW.ts
 http://example.local/PAN-HBOPPHD.ts
 #EXTINF:-1 tvg-chno="93262" tvg-name="HBO Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_h3_aa.png" group-title="Panama" tvg-id="POPLAE" tvc-guide-stationid="93262",HBO Pop
 http://example.local/PAN-POPLAE.ts
+#EXTINF:-1 tvg-chno="70545" tvg-name="HBO Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_h3_aa.png" group-title="Panama" tvg-id="POPLEH" tvc-guide-stationid="70545",HBO Pop
+http://example.local/PAN-POPLEH.ts
 #EXTINF:-1 tvg-chno="68301" tvg-name="HBO POP" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_ll_h15_ab.png" group-title="Panama" tvg-id="POPMXH" tvc-guide-stationid="68301",HBO POP
 http://example.local/PAN-POPMXH.ts
 #EXTINF:-1 tvg-chno="68134" tvg-name="HBO Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_ll_h15_ab.png" group-title="Panama" tvg-id="POPLAH" tvc-guide-stationid="68134",HBO Pop
 http://example.local/PAN-POPLAH.ts
-#EXTINF:-1 tvg-chno="70545" tvg-name="HBO Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_h3_aa.png" group-title="Panama" tvg-id="POPLEH" tvc-guide-stationid="70545",HBO Pop
-http://example.local/PAN-POPLEH.ts
 #EXTINF:-1 tvg-chno="74450" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Panama" tvg-id="HBOSLA" tvc-guide-stationid="74450",HBO Signature
 http://example.local/PAN-HBOSLA.ts
 #EXTINF:-1 tvg-chno="80120" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Panama" tvg-id="HBOSLHD" tvc-guide-stationid="80120",HBO Signature
 http://example.local/PAN-HBOSLHD.ts
-#EXTINF:-1 tvg-chno="57400" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Panama" tvg-id="HBOXMXE" tvc-guide-stationid="57400",HBO Xtreme
-http://example.local/PAN-HBOXMXE.ts
-#EXTINF:-1 tvg-chno="34887" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Panama" tvg-id="HBOXMX" tvc-guide-stationid="34887",HBO Xtreme
-http://example.local/PAN-HBOXMX.ts
 #EXTINF:-1 tvg-chno="80211" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Panama" tvg-id="HBOXLAH" tvc-guide-stationid="80211",HBO Xtreme
 http://example.local/PAN-HBOXLAH.ts
+#EXTINF:-1 tvg-chno="34887" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Panama" tvg-id="HBOXMX" tvc-guide-stationid="34887",HBO Xtreme
+http://example.local/PAN-HBOXMX.ts
 #EXTINF:-1 tvg-chno="80115" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_h3_aa.png" group-title="Panama" tvg-id="HBOXMXH" tvc-guide-stationid="80115",HBO Xtreme
 http://example.local/PAN-HBOXMXH.ts
+#EXTINF:-1 tvg-chno="57400" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Panama" tvg-id="HBOXMXE" tvc-guide-stationid="57400",HBO Xtreme
+http://example.local/PAN-HBOXMXE.ts
 #EXTINF:-1 tvg-chno="82648" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_h3_ba.png" group-title="Panama" tvg-id="HBOXLEH" tvc-guide-stationid="82648",HBO Xtreme
 http://example.local/PAN-HBOXLEH.ts
 #EXTINF:-1 tvg-chno="111077" tvg-name="HGTV" tvg-logo="https://zap2it.tmsimg.com/assets/s111055_h3_aa.png" group-title="Panama" tvg-id="HGTVLAS" tvc-guide-stationid="111077",HGTV
 http://example.local/PAN-HGTVLAS.ts
-#EXTINF:-1 tvg-chno="48157" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Panama" tvg-id="HCLI" tvc-guide-stationid="48157",History
-http://example.local/PAN-HCLI.ts
 #EXTINF:-1 tvg-chno="40137" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Panama" tvg-id="HCLM" tvc-guide-stationid="40137",History
 http://example.local/PAN-HCLM.ts
+#EXTINF:-1 tvg-chno="48157" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Panama" tvg-id="HCLI" tvc-guide-stationid="48157",History
+http://example.local/PAN-HCLI.ts
 #EXTINF:-1 tvg-chno="70669" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Panama" tvg-id="HCLMHD" tvc-guide-stationid="70669",History
 http://example.local/PAN-HCLMHD.ts
 #EXTINF:-1 tvg-chno="25016" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Panama" tvg-id="HCL" tvc-guide-stationid="25016",History
@@ -677,10 +679,10 @@ http://example.local/PAN-HCLVEHD.ts
 http://example.local/PAN-HISTORY.ts
 #EXTINF:-1 tvg-chno="89238" tvg-name="History 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_h3_ba.png" group-title="Panama" tvg-id="H2LAME" tvc-guide-stationid="89238",History 2
 http://example.local/PAN-H2LAME.ts
-#EXTINF:-1 tvg-chno="80374" tvg-name="History 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_ll_h15_ae.png" group-title="Panama" tvg-id="H2LAM" tvc-guide-stationid="80374",History 2
-http://example.local/PAN-H2LAM.ts
 #EXTINF:-1 tvg-chno="89610" tvg-name="History 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_h3_ba.png" group-title="Panama" tvg-id="H2LAT" tvc-guide-stationid="89610",History 2
 http://example.local/PAN-H2LAT.ts
+#EXTINF:-1 tvg-chno="80374" tvg-name="History 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_ll_h15_ae.png" group-title="Panama" tvg-id="H2LAM" tvc-guide-stationid="80374",History 2
+http://example.local/PAN-H2LAM.ts
 #EXTINF:-1 tvg-chno="10145" tvg-name="HLN" tvg-logo="https://zap2it.tmsimg.com/assets/s10145_ll_h15_ac.png" group-title="Panama" tvg-id="HLN" tvc-guide-stationid="10145",HLN
 http://example.local/PAN-HLN.ts
 #EXTINF:-1 tvg-chno="92054" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Panama" tvg-id="HOLALAH" tvc-guide-stationid="92054",HOLA! TV
@@ -699,12 +701,12 @@ http://example.local/PAN-HTVLA.ts
 http://example.local/PAN-HTVMUDM.ts
 #EXTINF:-1 tvg-chno="45498" tvg-name="Hustler TV" tvg-logo="https://zap2it.tmsimg.com/assets/s45498_ll_h15_aa.png" group-title="Panama" tvg-id="HUSTLR" tvc-guide-stationid="45498",Hustler TV
 http://example.local/PAN-HUSTLR.ts
+#EXTINF:-1 tvg-chno="25793" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Panama" tvg-id="IDM" tvc-guide-stationid="25793",ID
+http://example.local/PAN-IDM.ts
 #EXTINF:-1 tvg-chno="99569" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Panama" tvg-id="IDLENHD" tvc-guide-stationid="99569",ID
 http://example.local/PAN-IDLENHD.ts
 #EXTINF:-1 tvg-chno="16048" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Panama" tvg-id="IDL" tvc-guide-stationid="16048",ID
 http://example.local/PAN-IDL.ts
-#EXTINF:-1 tvg-chno="25793" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Panama" tvg-id="IDM" tvc-guide-stationid="25793",ID
-http://example.local/PAN-IDM.ts
 #EXTINF:-1 tvg-chno="77635" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Panama" tvg-id="IDLHD" tvc-guide-stationid="77635",ID
 http://example.local/PAN-IDLHD.ts
 #EXTINF:-1 tvg-chno="38899" tvg-name="IMAGEN INFORMATIVA" group-title="Panama" tvg-id="IMAGEN" tvc-guide-stationid="38899",IMAGEN INFORMATIVA
@@ -733,10 +735,10 @@ http://example.local/PAN-XEWTDT.ts
 http://example.local/PAN-ESTRE.ts
 #EXTINF:-1 tvg-chno="77243" tvg-name="Las Estrellas Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16257_ll_h15_ab.png" group-title="Panama" tvg-id="ESTREHD" tvc-guide-stationid="77243",Las Estrellas Internacional
 http://example.local/PAN-ESTREHD.ts
-#EXTINF:-1 tvg-chno="89197" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Panama" tvg-id="LIFELC" tvc-guide-stationid="89197",Lifetime
-http://example.local/PAN-LIFELC.ts
 #EXTINF:-1 tvg-chno="89214" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Panama" tvg-id="LIFELA" tvc-guide-stationid="89214",Lifetime
 http://example.local/PAN-LIFELA.ts
+#EXTINF:-1 tvg-chno="89197" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Panama" tvg-id="LIFELC" tvc-guide-stationid="89197",Lifetime
+http://example.local/PAN-LIFELC.ts
 #EXTINF:-1 tvg-chno="10918" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s10918_ll_h15_ac.png" group-title="Panama" tvg-id="LIFE" tvc-guide-stationid="10918",Lifetime
 http://example.local/PAN-LIFE.ts
 #EXTINF:-1 tvg-chno="81436" tvg-name="MALLTV" group-title="Panama" tvg-id="MALLTV" tvc-guide-stationid="81436",MALLTV
@@ -745,8 +747,6 @@ http://example.local/PAN-MALLTV.ts
 http://example.local/PAN-MARIA.ts
 #EXTINF:-1 tvg-chno="52949" tvg-name="Mas 23" tvg-logo="https://zap2it.tmsimg.com/assets/s52949_h3_aa.png" group-title="Panama" tvg-id="MAS23" tvc-guide-stationid="52949",Mas 23
 http://example.local/PAN-MAS23.ts
-#EXTINF:-1 tvg-chno="17457" tvg-name="Mas Chic" tvg-logo="https://zap2it.tmsimg.com/assets/s17457_ll_h15_ad.png" group-title="Panama" tvg-id="MASCHIC" tvc-guide-stationid="17457",Mas Chic
-http://example.local/PAN-MASCHIC.ts
 #EXTINF:-1 tvg-chno="60939" tvg-name="Mexico Travel Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s60939_ll_h15_aa.png" group-title="Panama" tvg-id="MTCH" tvc-guide-stationid="60939",Mexico Travel Channel
 http://example.local/PAN-MTCH.ts
 #EXTINF:-1 tvg-chno="61719" tvg-name="Milenio" tvg-logo="https://zap2it.tmsimg.com/assets/s61719_ll_h15_ab.png" group-title="Panama" tvg-id="MILENIO" tvc-guide-stationid="61719",Milenio
@@ -771,6 +771,8 @@ http://example.local/PAN-MSKYP1.ts
 http://example.local/PAN-MSKYP2.ts
 #EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Panama" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
 http://example.local/PAN-MTHD.ts
+#EXTINF:-1 tvg-chno="16300" tvg-name="MS NOW" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002H5PTR.png" group-title="Panama" tvg-id="MSNOW" tvc-guide-stationid="16300",MS NOW
+http://example.local/PAN-MSNOW.ts
 #EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="Panama" tvg-id="MTVL" tvc-guide-stationid="12712",MTV
 http://example.local/PAN-MTVL.ts
 #EXTINF:-1 tvg-chno="60964" tvg-name="MTV - Music Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60964_ll_h15_aa.png" group-title="Panama" tvg-id="MTVHD" tvc-guide-stationid="60964",MTV - Music Television HD
@@ -797,10 +799,10 @@ http://example.local/PAN-XHTV.ts
 http://example.local/PAN-NGKLA.ts
 #EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Panama" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
 http://example.local/PAN-NGCLA.ts
-#EXTINF:-1 tvg-chno="80076" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Panama" tvg-id="NGCCLHD" tvc-guide-stationid="80076",National Geographic
-http://example.local/PAN-NGCCLHD.ts
 #EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Panama" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
 http://example.local/PAN-NGCLAH.ts
+#EXTINF:-1 tvg-chno="80076" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Panama" tvg-id="NGCCLHD" tvc-guide-stationid="80076",National Geographic
+http://example.local/PAN-NGCCLHD.ts
 #EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Panama" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
 http://example.local/PAN-NGWLAHD.ts
 #EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="Panama" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
@@ -939,14 +941,14 @@ http://example.local/PAN-SKYPV9.ts
 http://example.local/PAN-SKYWKND.ts
 #EXTINF:-1 tvg-chno="47424" tvg-name="Sky View" group-title="Panama" tvg-id="SKYVIEW" tvc-guide-stationid="47424",Sky View
 http://example.local/PAN-SKYVIEW.ts
-#EXTINF:-1 tvg-chno="66349" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png" group-title="Panama" tvg-id="SPACMHD" tvc-guide-stationid="66349",Space
-http://example.local/PAN-SPACMHD.ts
 #EXTINF:-1 tvg-chno="70351" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="Panama" tvg-id="SPACES" tvc-guide-stationid="70351",Space
 http://example.local/PAN-SPACES.ts
-#EXTINF:-1 tvg-chno="16499" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="Panama" tvg-id="SPACE" tvc-guide-stationid="16499",Space
-http://example.local/PAN-SPACE.ts
+#EXTINF:-1 tvg-chno="66349" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png" group-title="Panama" tvg-id="SPACMHD" tvc-guide-stationid="66349",Space
+http://example.local/PAN-SPACMHD.ts
 #EXTINF:-1 tvg-chno="68021" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png" group-title="Panama" tvg-id="SPACEHD" tvc-guide-stationid="68021",Space
 http://example.local/PAN-SPACEHD.ts
+#EXTINF:-1 tvg-chno="16499" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="Panama" tvg-id="SPACE" tvc-guide-stationid="16499",Space
+http://example.local/PAN-SPACE.ts
 #EXTINF:-1 tvg-chno="54394" tvg-name="SporTV" tvg-logo="https://zap2it.tmsimg.com/assets/s54394_ll_h15_ad.png" group-title="Panama" tvg-id="SPORTVI" tvc-guide-stationid="54394",SporTV
 http://example.local/PAN-SPORTVI.ts
 #EXTINF:-1 tvg-chno="105160" tvg-name="Star Action" tvg-logo="https://zap2it.tmsimg.com/assets/s58835_h3_ba.png" group-title="Panama" tvg-id="STRACMX" tvc-guide-stationid="105160",Star Action
@@ -1057,10 +1059,10 @@ http://example.local/PAN-SUNCHHD.ts
 http://example.local/PAN-SYFY.ts
 #EXTINF:-1 tvg-chno="11867" tvg-name="TBS" tvg-logo="https://zap2it.tmsimg.com/assets/s11867_ll_h15_ac.png" group-title="Panama" tvg-id="TBS" tvc-guide-stationid="11867",TBS
 http://example.local/PAN-TBS.ts
-#EXTINF:-1 tvg-chno="44824" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s19246_ll_h15_ac.png" group-title="Panama" tvg-id="TCMLI" tvc-guide-stationid="44824",TCM
-http://example.local/PAN-TCMLI.ts
 #EXTINF:-1 tvg-chno="19246" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s19246_h3_aa.png" group-title="Panama" tvg-id="TCML" tvc-guide-stationid="19246",TCM
 http://example.local/PAN-TCML.ts
+#EXTINF:-1 tvg-chno="44824" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s19246_ll_h15_ac.png" group-title="Panama" tvg-id="TCMLI" tvc-guide-stationid="44824",TCM
+http://example.local/PAN-TCMLI.ts
 #EXTINF:-1 tvg-chno="72294" tvg-name="TeenNick" tvg-logo="https://zap2it.tmsimg.com/assets/s77783_ll_h15_ab.png" group-title="Panama" tvg-id="NIKLAHD" tvc-guide-stationid="72294",TeenNick
 http://example.local/PAN-NIKLAHD.ts
 #EXTINF:-1 tvg-chno="60668" tvg-name="TELEANTILLAS" tvg-logo="https://zap2it.tmsimg.com/assets/s60668_ll_h15_aa.png" group-title="Panama" tvg-id="TELANTL" tvc-guide-stationid="60668",TELEANTILLAS
@@ -1101,10 +1103,10 @@ http://example.local/PAN-TLCLASP.ts
 http://example.local/PAN-TLC.ts
 #EXTINF:-1 tvg-chno="37232" tvg-name="TLNovelas" tvg-logo="https://zap2it.tmsimg.com/assets/s37232_ll_h15_ab.png" group-title="Panama" tvg-id="TLNOVEL" tvc-guide-stationid="37232",TLNovelas
 http://example.local/PAN-TLNOVEL.ts
-#EXTINF:-1 tvg-chno="106742" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Panama" tvg-id="TNTARHD" tvc-guide-stationid="106742",TNT
-http://example.local/PAN-TNTARHD.ts
 #EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Panama" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
 http://example.local/PAN-TNTLC.ts
+#EXTINF:-1 tvg-chno="106742" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Panama" tvg-id="TNTARHD" tvc-guide-stationid="106742",TNT
+http://example.local/PAN-TNTARHD.ts
 #EXTINF:-1 tvg-chno="106062" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Panama" tvg-id="TNTLCHH" tvc-guide-stationid="106062",TNT
 http://example.local/PAN-TNTLCHH.ts
 #EXTINF:-1 tvg-chno="71148" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Panama" tvg-id="TNTLDLY" tvc-guide-stationid="71148",TNT
@@ -1121,10 +1123,10 @@ http://example.local/PAN-TOONCST.ts
 http://example.local/PAN-TRUTV.ts
 #EXTINF:-1 tvg-chno="38683" tvg-name="TUDN" tvg-logo="https://zap2it.tmsimg.com/assets/s65129_h3_aa.png" group-title="Panama" tvg-id="TUDNM" tvc-guide-stationid="38683",TUDN
 http://example.local/PAN-TUDNM.ts
-#EXTINF:-1 tvg-chno="65129" tvg-name="TUDN" tvg-logo="https://zap2it.tmsimg.com/assets/s65129_ll_h15_aa.png" group-title="Panama" tvg-id="TUDNMH" tvc-guide-stationid="65129",TUDN
-http://example.local/PAN-TUDNMH.ts
 #EXTINF:-1 tvg-chno="77068" tvg-name="TUDN" tvg-logo="https://zap2it.tmsimg.com/assets/s89113_ll_h15_ac.png" group-title="Panama" tvg-id="TUDNC" tvc-guide-stationid="77068",TUDN
 http://example.local/PAN-TUDNC.ts
+#EXTINF:-1 tvg-chno="65129" tvg-name="TUDN" tvg-logo="https://zap2it.tmsimg.com/assets/s65129_ll_h15_aa.png" group-title="Panama" tvg-id="TUDNMH" tvc-guide-stationid="65129",TUDN
+http://example.local/PAN-TUDNMH.ts
 #EXTINF:-1 tvg-chno="89113" tvg-name="TUDN" tvg-logo="https://zap2it.tmsimg.com/assets/s89113_ll_h15_ac.png" group-title="Panama" tvg-id="TUDNCH" tvc-guide-stationid="89113",TUDN
 http://example.local/PAN-TUDNCH.ts
 #EXTINF:-1 tvg-chno="63720" tvg-name="TV Agro" tvg-logo="https://zap2it.tmsimg.com/assets/s63720_ll_h15_aa.png" group-title="Panama" tvg-id="TVAGRO" tvc-guide-stationid="63720",TV Agro
@@ -1157,11 +1159,11 @@ http://example.local/PAN-TYCINTL.ts
 http://example.local/PAN-UNIC.ts
 #EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Panama" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
 http://example.local/PAN-UNILAHD.ts
-#EXTINF:-1 tvg-chno="49005" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Panama" tvg-id="UNTVL" tvc-guide-stationid="49005",Universal TV
-http://example.local/PAN-UNTVL.ts
 #EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Panama" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/PAN-UNTVM.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" group-title="Panama" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="49005" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Panama" tvg-id="UNTVL" tvc-guide-stationid="49005",Universal TV
+http://example.local/PAN-UNTVL.ts
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Panama" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/PAN-UNI.ts
 #EXTINF:-1 tvg-chno="75951" tvg-name="Univision TDN" tvg-logo="https://zap2it.tmsimg.com/assets/s75176_ll_h15_ae.png" group-title="Panama" tvg-id="UTDN" tvc-guide-stationid="75951",Univision TDN
 http://example.local/PAN-UTDN.ts
@@ -1181,18 +1183,18 @@ http://example.local/PAN-VNUS.ts
 http://example.local/PAN-VH1.ts
 #EXTINF:-1 tvg-chno="42567" tvg-name="VH1" tvg-logo="https://zap2it.tmsimg.com/assets/s42567_ll_h15_aa.png" group-title="Panama" tvg-id="VH1L" tvc-guide-stationid="42567",VH1
 http://example.local/PAN-VH1L.ts
-#EXTINF:-1 tvg-chno="72166" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_h3_aa.png" group-title="Panama" tvg-id="WBLHD" tvc-guide-stationid="72166",Warner Channel
-http://example.local/PAN-WBLHD.ts
 #EXTINF:-1 tvg-chno="37771" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_ll_h15_ae.png" group-title="Panama" tvg-id="WOLEARG" tvc-guide-stationid="37771",Warner Channel
 http://example.local/PAN-WOLEARG.ts
+#EXTINF:-1 tvg-chno="72166" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_h3_aa.png" group-title="Panama" tvg-id="WBLHD" tvc-guide-stationid="72166",Warner Channel
+http://example.local/PAN-WBLHD.ts
+#EXTINF:-1 tvg-chno="38303" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_h3_aa.png" group-title="Panama" tvg-id="OLEAND" tvc-guide-stationid="38303",Warner Channel
+http://example.local/PAN-OLEAND.ts
 #EXTINF:-1 tvg-chno="16213" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_ll_h15_ae.png" group-title="Panama" tvg-id="WBL" tvc-guide-stationid="16213",Warner Channel
 http://example.local/PAN-WBL.ts
 #EXTINF:-1 tvg-chno="98111" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_h3_aa.png" group-title="Panama" tvg-id="WBLMHD" tvc-guide-stationid="98111",Warner Channel
 http://example.local/PAN-WBLMHD.ts
 #EXTINF:-1 tvg-chno="45018" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_h3_aa.png" group-title="Panama" tvg-id="WBLA2" tvc-guide-stationid="45018",Warner Channel
 http://example.local/PAN-WBLA2.ts
-#EXTINF:-1 tvg-chno="38303" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_h3_aa.png" group-title="Panama" tvg-id="OLEAND" tvc-guide-stationid="38303",Warner Channel
-http://example.local/PAN-OLEAND.ts
 #EXTINF:-1 tvg-chno="16409" tvg-name="WE tv" tvg-logo="https://zap2it.tmsimg.com/assets/s16409_ll_h15_ab.png" group-title="Panama" tvg-id="WE" tvc-guide-stationid="16409",WE tv
 http://example.local/PAN-WE.ts
 #EXTINF:-1 tvg-chno="11349" tvg-name="WFOR (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="Panama" tvg-id="WFOR" tvc-guide-stationid="11349",WFOR (CBS)

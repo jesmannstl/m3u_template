@@ -15,7 +15,7 @@ http://example.local/LCA-AMCMEX.ts
 http://example.local/LCA-AMC.ts
 #EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="St. Lucia" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
 http://example.local/LCA-AMCMXHD.ts
-#EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="St. Lucia" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
+#EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="St. Lucia" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
 http://example.local/LCA-ABC.ts
 #EXTINF:-1 tvg-chno="18649" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="St. Lucia" tvg-id="ANIPL" tvc-guide-stationid="18649",Animal Planet
 http://example.local/LCA-ANIPL.ts
@@ -115,7 +115,7 @@ http://example.local/LCA-COOK.ts
 http://example.local/LCA-CSPAN.ts
 #EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png" group-title="St. Lucia" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
 http://example.local/LCA-SCIFIS.ts
-#EXTINF:-1 tvg-chno="19026" tvg-name="Daystar Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_ba.png" group-title="St. Lucia" tvg-id="DYSTR" tvc-guide-stationid="19026",Daystar Television Network
+#EXTINF:-1 tvg-chno="19026" tvg-name="Daystar Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y563.png" group-title="St. Lucia" tvg-id="DYSTR" tvc-guide-stationid="19026",Daystar Television Network
 http://example.local/LCA-DYSTR.ts
 #EXTINF:-1 tvg-chno="16288" tvg-name="De Película" tvg-logo="https://zap2it.tmsimg.com/assets/s16288_ll_h15_ac.png" group-title="St. Lucia" tvg-id="DEPEL" tvc-guide-stationid="16288",De Película
 http://example.local/LCA-DEPEL.ts
@@ -157,10 +157,10 @@ http://example.local/LCA-DISJMXE.ts
 http://example.local/LCA-DISNJMX.ts
 #EXTINF:-1 tvg-chno="16563" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_ll_h15_ab.png" group-title="St. Lucia" tvg-id="DISNXD" tvc-guide-stationid="16563",Disney XD
 http://example.local/LCA-DISNXD.ts
-#EXTINF:-1 tvg-chno="18279" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s18279_ll_h15_aa.png" group-title="St. Lucia" tvg-id="DXD" tvc-guide-stationid="18279",Disney XD
-http://example.local/LCA-DXD.ts
 #EXTINF:-1 tvg-chno="95556" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_ll_h15_ab.png" group-title="St. Lucia" tvg-id="DISXMUE" tvc-guide-stationid="95556",Disney XD
 http://example.local/LCA-DISXMUE.ts
+#EXTINF:-1 tvg-chno="18279" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s18279_ll_h15_aa.png" group-title="St. Lucia" tvg-id="DXD" tvc-guide-stationid="18279",Disney XD
+http://example.local/LCA-DXD.ts
 #EXTINF:-1 tvg-chno="79318" tvg-name="DW" tvg-logo="https://zap2it.tmsimg.com/assets/s79318_ll_h15_ab.png" group-title="St. Lucia" tvg-id="DWEUR" tvc-guide-stationid="79318",DW
 http://example.local/LCA-DWEUR.ts
 #EXTINF:-1 tvg-chno="64230" tvg-name="DW en español" tvg-logo="https://zap2it.tmsimg.com/assets/s64230_ll_h15_ag.png" group-title="St. Lucia" tvg-id="DWLA" tvc-guide-stationid="64230",DW en español
@@ -267,8 +267,12 @@ http://example.local/LCA-HBOI.ts
 http://example.local/LCA-HBOF.ts
 #EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="St. Lucia" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
 http://example.local/LCA-HBOFMHD.ts
-#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png" group-title="St. Lucia" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
+#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" group-title="St. Lucia" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
 http://example.local/LCA-HBOFP.ts
+#EXTINF:-1 tvg-chno="10241" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="St. Lucia" tvg-id="HBOHTS" tvc-guide-stationid="10241",HBO Hits
+http://example.local/LCA-HBOHTS.ts
+#EXTINF:-1 tvg-chno="10242" tvg-name="HBO Hits (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CL6E.png" group-title="St. Lucia" tvg-id="HBOHTP" tvc-guide-stationid="10242",HBO Hits (Pacific)
+http://example.local/LCA-HBOHTP.ts
 #EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_aa.png" group-title="St. Lucia" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
 http://example.local/LCA-HBOLAT.ts
 #EXTINF:-1 tvg-chno="59837" tvg-name="HBO Latino HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_ba.png" group-title="St. Lucia" tvg-id="HBOLAHD" tvc-guide-stationid="59837",HBO Latino HD
@@ -325,12 +329,12 @@ http://example.local/LCA-IONHD.ts
 http://example.local/LCA-LIFELC.ts
 #EXTINF:-1 tvg-chno="159513" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="St. Lucia" tvg-id="LIFSURH" tvc-guide-stationid="159513",Lifetime
 http://example.local/LCA-LIFSURH.ts
+#EXTINF:-1 tvg-chno="89345" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="St. Lucia" tvg-id="LIFELAE" tvc-guide-stationid="89345",Lifetime
+http://example.local/LCA-LIFELAE.ts
 #EXTINF:-1 tvg-chno="10918" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s10918_ll_h15_ac.png" group-title="St. Lucia" tvg-id="LIFE" tvc-guide-stationid="10918",Lifetime
 http://example.local/LCA-LIFE.ts
 #EXTINF:-1 tvg-chno="89214" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="St. Lucia" tvg-id="LIFELA" tvc-guide-stationid="89214",Lifetime
 http://example.local/LCA-LIFELA.ts
-#EXTINF:-1 tvg-chno="89345" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="St. Lucia" tvg-id="LIFELAE" tvc-guide-stationid="89345",Lifetime
-http://example.local/LCA-LIFELAE.ts
 #EXTINF:-1 tvg-chno="29612" tvg-name="Lifetime Real Women" tvg-logo="https://zap2it.tmsimg.com/assets/s29612_ll_h15_aa.png" group-title="St. Lucia" tvg-id="LRW" tvc-guide-stationid="29612",Lifetime Real Women
 http://example.local/LCA-LRW.ts
 #EXTINF:-1 tvg-chno="18480" tvg-name="LMN" tvg-logo="https://zap2it.tmsimg.com/assets/s18480_ll_h15_ad.png" group-title="St. Lucia" tvg-id="LMN" tvc-guide-stationid="18480",LMN
@@ -339,6 +343,8 @@ http://example.local/LCA-LMN.ts
 http://example.local/LCA-MAGN.ts
 #EXTINF:-1 tvg-chno="50270" tvg-name="MBC America" tvg-logo="https://zap2it.tmsimg.com/assets/s50270_ll_h9_aa.png" group-title="St. Lucia" tvg-id="MBCKOR" tvc-guide-stationid="50270",MBC America
 http://example.local/LCA-MBCKOR.ts
+#EXTINF:-1 tvg-chno="16300" tvg-name="MS NOW" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002H5PTR.png" group-title="St. Lucia" tvg-id="MSNOW" tvc-guide-stationid="16300",MS NOW
+http://example.local/LCA-MSNOW.ts
 #EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="St. Lucia" tvg-id="MTVL" tvc-guide-stationid="12712",MTV
 http://example.local/LCA-MTVL.ts
 #EXTINF:-1 tvg-chno="60964" tvg-name="MTV - Music Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60964_ll_h15_aa.png" group-title="St. Lucia" tvg-id="MTVHD" tvc-guide-stationid="60964",MTV - Music Television HD
@@ -573,7 +579,7 @@ http://example.local/LCA-UNIPR.ts
 http://example.local/LCA-UNIRE.ts
 #EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="St. Lucia" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/LCA-UNTVM.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" group-title="St. Lucia" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="St. Lucia" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/LCA-UNI.ts
 #EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://zap2it.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="St. Lucia" tvg-id="UP" tvc-guide-stationid="44940",UPtv
 http://example.local/LCA-UP.ts

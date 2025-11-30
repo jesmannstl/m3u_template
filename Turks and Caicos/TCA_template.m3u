@@ -27,12 +27,16 @@ http://example.local/TCA-BHER.ts
 http://example.local/TCA-BETSOUL.ts
 #EXTINF:-1 tvg-chno="16829" tvg-name="Bloomberg Tv" tvg-logo="https://zap2it.tmsimg.com/assets/s14755_ll_h15_ab.png" group-title="Turks and Caicos" tvg-id="BLOOMI" tvc-guide-stationid="16829",Bloomberg Tv
 http://example.local/TCA-BLOOMI.ts
+#EXTINF:-1 tvg-chno="10142" tvg-name="Cable News Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10142_ll_h15_aa.png" group-title="Turks and Caicos" tvg-id="CNN" tvc-guide-stationid="10142",Cable News Network
+http://example.local/TCA-CNN.ts
 #EXTINF:-1 tvg-chno="16141" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Turks and Caicos" tvg-id="TOONL" tvc-guide-stationid="16141",Cartoon Network
 http://example.local/TCA-TOONL.ts
 #EXTINF:-1 tvg-chno="55719" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Turks and Caicos" tvg-id="CARTOM" tvc-guide-stationid="55719",Cartoonito
 http://example.local/TCA-CARTOM.ts
 #EXTINF:-1 tvg-chno="10091" tvg-name="CBC Toronto (CBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10084_ll_h15_ab.png" group-title="Turks and Caicos" tvg-id="CBLT" tvc-guide-stationid="10091",CBC Toronto (CBC)
 http://example.local/TCA-CBLT.ts
+#EXTINF:-1 tvg-chno="18433" tvg-name="Cinemax Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC1Q.png" group-title="Turks and Caicos" tvg-id="CINACT" tvc-guide-stationid="18433",Cinemax Action
+http://example.local/TCA-CINACT.ts
 #EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png" group-title="Turks and Caicos" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
 http://example.local/TCA-CITY.ts
 #EXTINF:-1 tvg-chno="10139" tvg-name="CNBC" tvg-logo="https://zap2it.tmsimg.com/assets/s10139_ll_h15_ae.png" group-title="Turks and Caicos" tvg-id="CNBC" tvc-guide-stationid="10139",CNBC
@@ -53,6 +57,8 @@ http://example.local/TCA-DFC.ts
 http://example.local/TCA-DHEAL.ts
 #EXTINF:-1 tvg-chno="46610" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s48527_ll_h15_aa.png" group-title="Turks and Caicos" tvg-id="DSCIENL" tvc-guide-stationid="46610",Discovery Science
 http://example.local/TCA-DSCIENL.ts
+#EXTINF:-1 tvg-chno="10171" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s10171_ll_h15_ae.png" group-title="Turks and Caicos" tvg-id="DISN" tvc-guide-stationid="10171",Disney Channel
+http://example.local/TCA-DISN.ts
 #EXTINF:-1 tvg-chno="19234" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s19234_ll_h15_ab.png" group-title="Turks and Caicos" tvg-id="DISNL" tvc-guide-stationid="19234",Disney Channel
 http://example.local/TCA-DISNL.ts
 #EXTINF:-1 tvg-chno="16563" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_ll_h15_ab.png" group-title="Turks and Caicos" tvg-id="DISNXD" tvc-guide-stationid="16563",Disney XD
@@ -115,6 +121,8 @@ http://example.local/TCA-HLN.ts
 http://example.local/TCA-HGTV.ts
 #EXTINF:-1 tvg-chno="49788" tvg-name="Home & Garden Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49788_ll_h15_ab.png" group-title="Turks and Caicos" tvg-id="HGTVD" tvc-guide-stationid="49788",Home & Garden Television HD
 http://example.local/TCA-HGTVD.ts
+#EXTINF:-1 tvg-chno="26134" tvg-name="Home Shopping Network Español" group-title="Turks and Caicos" tvg-id="HSNE" tvc-guide-stationid="26134",Home Shopping Network Español
+http://example.local/TCA-HSNE.ts
 #EXTINF:-1 tvg-chno="14873" tvg-name="IFC" tvg-logo="https://zap2it.tmsimg.com/assets/s14873_ll_h15_ac.png" group-title="Turks and Caicos" tvg-id="IFC" tvc-guide-stationid="14873",IFC
 http://example.local/TCA-IFC.ts
 #EXTINF:-1 tvg-chno="10918" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s10918_ll_h15_ac.png" group-title="Turks and Caicos" tvg-id="LIFE" tvc-guide-stationid="10918",Lifetime
@@ -129,6 +137,8 @@ http://example.local/TCA-LMN.ts
 http://example.local/TCA-LMNHD.ts
 #EXTINF:-1 tvg-chno="18544" tvg-name="Magnolia Network" tvg-logo="https://zap2it.tmsimg.com/assets/s18544_ll_h15_ad.png" group-title="Turks and Caicos" tvg-id="MAGN" tvc-guide-stationid="18544",Magnolia Network
 http://example.local/TCA-MAGN.ts
+#EXTINF:-1 tvg-chno="16300" tvg-name="MS NOW" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002H5PTR.png" group-title="Turks and Caicos" tvg-id="MSNOW" tvc-guide-stationid="16300",MS NOW
+http://example.local/TCA-MSNOW.ts
 #EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="Turks and Caicos" tvg-id="MTVL" tvc-guide-stationid="12712",MTV
 http://example.local/TCA-MTVL.ts
 #EXTINF:-1 tvg-chno="49141" tvg-name="MTVLIVE" tvg-logo="https://zap2it.tmsimg.com/assets/s49141_ll_h15_ab.png" group-title="Turks and Caicos" tvg-id="MTVLIVE" tvc-guide-stationid="49141",MTVLIVE
@@ -143,6 +153,8 @@ http://example.local/TCA-NFLHD.ts
 http://example.local/TCA-NIKL.ts
 #EXTINF:-1 tvg-chno="60295" tvg-name="Nick Jr." tvg-logo="https://zap2it.tmsimg.com/assets/s60295_ll_h15_aa.png" group-title="Turks and Caicos" tvg-id="NICKJLM" tvc-guide-stationid="60295",Nick Jr.
 http://example.local/TCA-NICKJLM.ts
+#EXTINF:-1 tvg-chno="68358" tvg-name="One Caribbean Weather" group-title="Turks and Caicos" tvg-id="CARIBWE" tvc-guide-stationid="68358",One Caribbean Weather
+http://example.local/TCA-CARIBWE.ts
 #EXTINF:-1 tvg-chno="70387" tvg-name="Oprah Winfrey Network" tvg-logo="https://zap2it.tmsimg.com/assets/s70387_ll_h15_aa.png" group-title="Turks and Caicos" tvg-id="OWN" tvc-guide-stationid="70387",Oprah Winfrey Network
 http://example.local/TCA-OWN.ts
 #EXTINF:-1 tvg-chno="14776" tvg-name="Outdoor Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14776_ll_h15_ab.png" group-title="Turks and Caicos" tvg-id="OUTD" tvc-guide-stationid="14776",Outdoor Channel
@@ -161,6 +173,8 @@ http://example.local/TCA-PARSHOH.ts
 http://example.local/TCA-WPCH.ts
 #EXTINF:-1 tvg-chno="14782" tvg-name="PPVP/Pay-Per-View Previews" group-title="Turks and Caicos" tvg-id="PPVP" tvc-guide-stationid="14782",PPVP/Pay-Per-View Previews
 http://example.local/TCA-PPVP.ts
+#EXTINF:-1 tvg-chno="11069" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s11069_ll_h15_ad.png" group-title="Turks and Caicos" tvg-id="QVC" tvc-guide-stationid="11069",QVC
+http://example.local/TCA-QVC.ts
 #EXTINF:-1 tvg-chno="45169" tvg-name="RACER Network" tvg-logo="https://zap2it.tmsimg.com/assets/s45169_ll_h15_ac.png" group-title="Turks and Caicos" tvg-id="RACER" tvc-guide-stationid="45169",RACER Network
 http://example.local/TCA-RACER.ts
 #EXTINF:-1 tvg-chno="61036" tvg-name="RACER Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61036_ll_h15_ac.png" group-title="Turks and Caicos" tvg-id="RACERHD" tvc-guide-stationid="61036",RACER Network HD
@@ -209,14 +223,18 @@ http://example.local/TCA-TNT.ts
 http://example.local/TCA-TBN.ts
 #EXTINF:-1 tvg-chno="16123" tvg-name="TV Land" tvg-logo="https://zap2it.tmsimg.com/assets/s16123_h3_aa.png" group-title="Turks and Caicos" tvg-id="TVLAND" tvc-guide-stationid="16123",TV Land
 http://example.local/TCA-TVLAND.ts
+#EXTINF:-1 tvg-chno="35513" tvg-name="TV ONE" tvg-logo="https://zap2it.tmsimg.com/assets/s35513_ll_h15_ab.png" group-title="Turks and Caicos" tvg-id="TVONE" tvc-guide-stationid="35513",TV ONE
+http://example.local/TCA-TVONE.ts
 #EXTINF:-1 tvg-chno="16422" tvg-name="TV5 Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16422_ll_h15_aa.png" group-title="Turks and Caicos" tvg-id="TV5L" tvc-guide-stationid="16422",TV5 Latin America
 http://example.local/TCA-TV5L.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" group-title="Turks and Caicos" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Turks and Caicos" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/TCA-UNI.ts
 #EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Turks and Caicos" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/TCA-USALA.ts
 #EXTINF:-1 tvg-chno="11207" tvg-name="USA Network" tvg-logo="https://zap2it.tmsimg.com/assets/s11207_ll_h15_af.png" group-title="Turks and Caicos" tvg-id="USA" tvc-guide-stationid="11207",USA Network
 http://example.local/TCA-USA.ts
+#EXTINF:-1 tvg-chno="11218" tvg-name="VH1" tvg-logo="https://zap2it.tmsimg.com/assets/s11218_ll_h15_ac.png" group-title="Turks and Caicos" tvg-id="VH1" tvc-guide-stationid="11218",VH1
+http://example.local/TCA-VH1.ts
 #EXTINF:-1 tvg-chno="42567" tvg-name="VH1" tvg-logo="https://zap2it.tmsimg.com/assets/s42567_ll_h15_aa.png" group-title="Turks and Caicos" tvg-id="VH1L" tvc-guide-stationid="42567",VH1
 http://example.local/TCA-VH1L.ts
 #EXTINF:-1 tvg-chno="11259" tvg-name="WABC (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="Turks and Caicos" tvg-id="WABC" tvc-guide-stationid="11259",WABC (ABC)
@@ -225,22 +243,32 @@ http://example.local/TCA-WABC.ts
 http://example.local/TCA-WCBS.ts
 #EXTINF:-1 tvg-chno="16409" tvg-name="WE tv" tvg-logo="https://zap2it.tmsimg.com/assets/s16409_ll_h15_ab.png" group-title="Turks and Caicos" tvg-id="WE" tvc-guide-stationid="16409",WE tv
 http://example.local/TCA-WE.ts
+#EXTINF:-1 tvg-chno="54878" tvg-name="Weather Point" group-title="Turks and Caicos" tvg-id="WTHRPNT" tvc-guide-stationid="54878",Weather Point
+http://example.local/TCA-WTHRPNT.ts
 #EXTINF:-1 tvg-chno="11474" tvg-name="WGN (Chicago) (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s51306_ll_h15_ac.png" group-title="Turks and Caicos" tvg-id="WGN" tvc-guide-stationid="11474",WGN (Chicago) (CW)
 http://example.local/TCA-WGN.ts
 #EXTINF:-1 tvg-chno="70044" tvg-name="Willow Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s70044_ll_h15_aa.png" group-title="Turks and Caicos" tvg-id="CRIC" tvc-guide-stationid="70044",Willow Plus
 http://example.local/TCA-CRIC.ts
+#EXTINF:-1 tvg-chno="11624" tvg-name="WKRN (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="Turks and Caicos" tvg-id="WKRN" tvc-guide-stationid="11624",WKRN (ABC)
+http://example.local/TCA-WKRN.ts
 #EXTINF:-1 tvg-chno="11705" tvg-name="WNBC (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_h3_ba.png" group-title="Turks and Caicos" tvg-id="WNBC" tvc-guide-stationid="11705",WNBC (NBC)
 http://example.local/TCA-WNBC.ts
 #EXTINF:-1 tvg-chno="20459" tvg-name="WNBC-DT (NBC)" tvg-logo="https://logos.jesmann.com/wnbcdt.png" group-title="Turks and Caicos" tvg-id="WNBCDT" tvc-guide-stationid="20459",WNBC-DT (NBC)
 http://example.local/TCA-WNBCDT.ts
+#EXTINF:-1 tvg-chno="11715" tvg-name="WNET (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png" group-title="Turks and Caicos" tvg-id="WNET" tvc-guide-stationid="11715",WNET (PBS)
+http://example.local/TCA-WNET.ts
 #EXTINF:-1 tvg-chno="11746" tvg-name="WNYW (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="Turks and Caicos" tvg-id="WNYW" tvc-guide-stationid="11746",WNYW (FOX)
 http://example.local/TCA-WNYW.ts
 #EXTINF:-1 tvg-chno="11771" tvg-name="WPBT (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_h3_ba.png" group-title="Turks and Caicos" tvg-id="WPBT" tvc-guide-stationid="11771",WPBT (PBS)
 http://example.local/TCA-WPBT.ts
 #EXTINF:-1 tvg-chno="11779" tvg-name="WPIX (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s11779_ll_h15_aa.png" group-title="Turks and Caicos" tvg-id="WPIX" tvc-guide-stationid="11779",WPIX (CW)
 http://example.local/TCA-WPIX.ts
+#EXTINF:-1 tvg-chno="11837" tvg-name="WSEE (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="Turks and Caicos" tvg-id="WSEE" tvc-guide-stationid="11837",WSEE (CBS)
+http://example.local/TCA-WSEE.ts
 #EXTINF:-1 tvg-chno="58874" tvg-name="WSEE-DT (CBS)" tvg-logo="https://logos.jesmann.com/wseedt.png" group-title="Turks and Caicos" tvg-id="WSEEDT" tvc-guide-stationid="58874",WSEE-DT (CBS)
 http://example.local/TCA-WSEEDT.ts
+#EXTINF:-1 tvg-chno="11857" tvg-name="WSVN (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="Turks and Caicos" tvg-id="WSVN" tvc-guide-stationid="11857",WSVN (FOX)
+http://example.local/TCA-WSVN.ts
 #EXTINF:-1 tvg-chno="11760" tvg-name="WWOR TV Channel 9 (Local New York) (MNT)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y3ZQ.png" group-title="Turks and Caicos" tvg-id="WWOR" tvc-guide-stationid="11760",WWOR TV Channel 9 (Local New York) (MNT)
 http://example.local/TCA-WWOR.ts
 #EXTINF:-1 tvg-chno="36504" tvg-name="ZNS 13" tvg-logo="https://zap2it.tmsimg.com/assets/s36504_ll_h15_ab.png" group-title="Turks and Caicos" tvg-id="ZNS" tvc-guide-stationid="36504",ZNS 13

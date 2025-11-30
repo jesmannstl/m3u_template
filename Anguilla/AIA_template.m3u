@@ -1,18 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="10002" tvg-name="3 Angels Broadcasting Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10002_ll_h15_aa.png" group-title="Anguilla" tvg-id="3ANGELS" tvc-guide-stationid="10002",3 Angels Broadcasting Network
+http://example.local/AIA-3ANGELS.ts
 #EXTINF:-1 tvg-chno="10035" tvg-name="A&E" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_ll_h15_ab.png" group-title="Anguilla" tvg-id="AETV" tvc-guide-stationid="10035",A&E
 http://example.local/AIA-AETV.ts
 #EXTINF:-1 tvg-chno="18955" tvg-name="A&E" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_ll_h15_ab.png" group-title="Anguilla" tvg-id="AEMX" tvc-guide-stationid="18955",A&E
 http://example.local/AIA-AEMX.ts
 #EXTINF:-1 tvg-chno="87004" tvg-name="A&E" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_h3_aa.png" group-title="Anguilla" tvg-id="AEMXHD" tvc-guide-stationid="87004",A&E
 http://example.local/AIA-AEMXHD.ts
-#EXTINF:-1 tvg-chno="90653" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Anguilla" tvg-id="AMCMEX" tvc-guide-stationid="90653",AMC
-http://example.local/AIA-AMCMEX.ts
 #EXTINF:-1 tvg-chno="10021" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s10021_ll_h15_ab.png" group-title="Anguilla" tvg-id="AMC" tvc-guide-stationid="10021",AMC
 http://example.local/AIA-AMC.ts
+#EXTINF:-1 tvg-chno="90653" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Anguilla" tvg-id="AMCMEX" tvc-guide-stationid="90653",AMC
+http://example.local/AIA-AMCMEX.ts
 #EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Anguilla" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
 http://example.local/AIA-AMCMXHD.ts
-#EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="Anguilla" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
+#EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="Anguilla" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
 http://example.local/AIA-ABC.ts
+#EXTINF:-1 tvg-chno="16331" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s16331_ll_h9_ad.png" group-title="Anguilla" tvg-id="APL" tvc-guide-stationid="16331",Animal Planet
+http://example.local/AIA-APL.ts
 #EXTINF:-1 tvg-chno="18649" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Anguilla" tvg-id="ANIPL" tvc-guide-stationid="18649",Animal Planet
 http://example.local/AIA-ANIPL.ts
 #EXTINF:-1 tvg-chno="97167" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_h3_ba.png" group-title="Anguilla" tvg-id="ANIPLH" tvc-guide-stationid="97167",Animal Planet
@@ -53,6 +57,8 @@ http://example.local/AIA-CARIBVN.ts
 http://example.local/AIA-TOONL.ts
 #EXTINF:-1 tvg-chno="101403" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Anguilla" tvg-id="CARTPHD" tvc-guide-stationid="101403",Cartoon Network
 http://example.local/AIA-CARTPHD.ts
+#EXTINF:-1 tvg-chno="55719" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Anguilla" tvg-id="CARTOM" tvc-guide-stationid="55719",Cartoonito
+http://example.local/AIA-CARTOM.ts
 #EXTINF:-1 tvg-chno="59250" tvg-name="CBS Sports Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59250_ll_h15_ac.png" group-title="Anguilla" tvg-id="CBSSNHD" tvc-guide-stationid="59250",CBS Sports Network HD
 http://example.local/AIA-CBSSNHD.ts
 #EXTINF:-1 tvg-chno="15296" tvg-name="Cine Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s15296_ll_h9_ab.png" group-title="Anguilla" tvg-id="CINL" tvc-guide-stationid="15296",Cine Latino
@@ -65,18 +71,18 @@ http://example.local/AIA-CMTV.ts
 http://example.local/AIA-CNBC.ts
 #EXTINF:-1 tvg-chno="61718" tvg-name="CNC3" tvg-logo="https://zap2it.tmsimg.com/assets/s61718_ll_h9_aa.png" group-title="Anguilla" tvg-id="CNC3" tvc-guide-stationid="61718",CNC3
 http://example.local/AIA-CNC3.ts
-#EXTINF:-1 tvg-chno="17054" tvg-name="CNN En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png" group-title="Anguilla" tvg-id="CNNL" tvc-guide-stationid="17054",CNN En Español
-http://example.local/AIA-CNNL.ts
 #EXTINF:-1 tvg-chno="27773" tvg-name="CNN en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png" group-title="Anguilla" tvg-id="CNNEM" tvc-guide-stationid="27773",CNN en Español
 http://example.local/AIA-CNNEM.ts
+#EXTINF:-1 tvg-chno="17054" tvg-name="CNN En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png" group-title="Anguilla" tvg-id="CNNL" tvc-guide-stationid="17054",CNN En Español
+http://example.local/AIA-CNNL.ts
 #EXTINF:-1 tvg-chno="15192" tvg-name="CNNI Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s15192_ll_h9_aa.png" group-title="Anguilla" tvg-id="CNNIL" tvc-guide-stationid="15192",CNNI Latin America
 http://example.local/AIA-CNNIL.ts
-#EXTINF:-1 tvg-chno="10149" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s10149_h3_ba.png" group-title="Anguilla" tvg-id="COMEDY" tvc-guide-stationid="10149",Comedy Central
-http://example.local/AIA-COMEDY.ts
 #EXTINF:-1 tvg-chno="74528" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s76326_ll_h15_ab.png" group-title="Anguilla" tvg-id="COMCELA" tvc-guide-stationid="74528",Comedy Central
 http://example.local/AIA-COMCELA.ts
 #EXTINF:-1 tvg-chno="74906" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s100848_ll_h15_ac.png" group-title="Anguilla" tvg-id="COMCLAH" tvc-guide-stationid="74906",Comedy Central
 http://example.local/AIA-COMCLAH.ts
+#EXTINF:-1 tvg-chno="10149" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s10149_h3_ba.png" group-title="Anguilla" tvg-id="COMEDY" tvc-guide-stationid="10149",Comedy Central
+http://example.local/AIA-COMEDY.ts
 #EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png" group-title="Anguilla" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
 http://example.local/AIA-SCIFIS.ts
 #EXTINF:-1 tvg-chno="16288" tvg-name="De Película" tvg-logo="https://zap2it.tmsimg.com/assets/s16288_ll_h15_ac.png" group-title="Anguilla" tvg-id="DEPEL" tvc-guide-stationid="16288",De Película
@@ -107,6 +113,8 @@ http://example.local/AIA-DTURBOL.ts
 http://example.local/AIA-DWRLDHD.ts
 #EXTINF:-1 tvg-chno="70662" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png" group-title="Anguilla" tvg-id="DWRLDHE" tvc-guide-stationid="70662",Discovery World
 http://example.local/AIA-DWRLDHE.ts
+#EXTINF:-1 tvg-chno="10171" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s10171_ll_h15_ae.png" group-title="Anguilla" tvg-id="DISN" tvc-guide-stationid="10171",Disney Channel
+http://example.local/AIA-DISN.ts
 #EXTINF:-1 tvg-chno="19234" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s19234_ll_h15_ab.png" group-title="Anguilla" tvg-id="DISNL" tvc-guide-stationid="19234",Disney Channel
 http://example.local/AIA-DISNL.ts
 #EXTINF:-1 tvg-chno="70506" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Anguilla" tvg-id="DISJMXE" tvc-guide-stationid="70506",Disney Junior
@@ -119,10 +127,10 @@ http://example.local/AIA-ETVLN.ts
 http://example.local/AIA-ETVLNHD.ts
 #EXTINF:-1 tvg-chno="45910" tvg-name="El Gourmet" tvg-logo="https://zap2it.tmsimg.com/assets/s25553_ll_h15_ad.png" group-title="Anguilla" tvg-id="GOURMETN" tvc-guide-stationid="45910",El Gourmet
 http://example.local/AIA-GOURMETN.ts
-#EXTINF:-1 tvg-chno="10179" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s10179_ll_h15_aa.png" group-title="Anguilla" tvg-id="ESPN" tvc-guide-stationid="10179",ESPN
-http://example.local/AIA-ESPN.ts
 #EXTINF:-1 tvg-chno="17725" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s17725_ll_h15_ac.png" group-title="Anguilla" tvg-id="ESPNAR" tvc-guide-stationid="17725",ESPN
 http://example.local/AIA-ESPNAR.ts
+#EXTINF:-1 tvg-chno="10179" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s10179_ll_h15_aa.png" group-title="Anguilla" tvg-id="ESPN" tvc-guide-stationid="10179",ESPN
+http://example.local/AIA-ESPN.ts
 #EXTINF:-1 tvg-chno="10180" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Anguilla" tvg-id="ESP2ME" tvc-guide-stationid="10180",ESPN 2
 http://example.local/AIA-ESP2ME.ts
 #EXTINF:-1 tvg-chno="75585" tvg-name="ESPN 3" tvg-logo="https://zap2it.tmsimg.com/assets/s75585_ll_h15_ac.png" group-title="Anguilla" tvg-id="ESPN3BH" tvc-guide-stationid="75585",ESPN 3
@@ -133,6 +141,8 @@ http://example.local/AIA-ESP5CES.ts
 http://example.local/AIA-ESPNDHD.ts
 #EXTINF:-1 tvg-chno="12444" tvg-name="ESPN2" tvg-logo="https://zap2it.tmsimg.com/assets/s12444_ll_h15_ab.png" group-title="Anguilla" tvg-id="ESPN2" tvc-guide-stationid="12444",ESPN2
 http://example.local/AIA-ESPN2.ts
+#EXTINF:-1 tvg-chno="55885" tvg-name="ESPN2 Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s55885_ll_h15_aa.png" group-title="Anguilla" tvg-id="ESPN2CA" tvc-guide-stationid="55885",ESPN2 Caribbean
+http://example.local/AIA-ESPN2CA.ts
 #EXTINF:-1 tvg-chno="45507" tvg-name="ESPN2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45507_ll_h15_aa.png" group-title="Anguilla" tvg-id="ESPN2HD" tvc-guide-stationid="45507",ESPN2 HD
 http://example.local/AIA-ESPN2HD.ts
 #EXTINF:-1 tvg-chno="75777" tvg-name="Fiesta 106.5" group-title="Anguilla" tvg-id="FSTA" tvc-guide-stationid="75777",Fiesta 106.5
@@ -151,6 +161,8 @@ http://example.local/AIA-FNC.ts
 http://example.local/AIA-FSCPLHD.ts
 #EXTINF:-1 tvg-chno="66365" tvg-name="Fox Sports 2" tvg-logo="https://zap2it.tmsimg.com/assets/s66365_ll_h15_ab.png" group-title="Anguilla" tvg-id="FOXS2" tvc-guide-stationid="66365",Fox Sports 2
 http://example.local/AIA-FOXS2.ts
+#EXTINF:-1 tvg-chno="30189" tvg-name="Fox Sports Racing" tvg-logo="https://zap2it.tmsimg.com/assets/s30189_ll_h15_aa.png" group-title="Anguilla" tvg-id="FSR" tvc-guide-stationid="30189",Fox Sports Racing
+http://example.local/AIA-FSR.ts
 #EXTINF:-1 tvg-chno="77077" tvg-name="Fox Sports Racing HD" tvg-logo="https://zap2it.tmsimg.com/assets/s77077_ll_h15_aa.png" group-title="Anguilla" tvg-id="FSRHD" tvc-guide-stationid="77077",Fox Sports Racing HD
 http://example.local/AIA-FSRHD.ts
 #EXTINF:-1 tvg-chno="10093" tvg-name="Freeform" tvg-logo="https://zap2it.tmsimg.com/assets/s10093_ll_h15_ae.png" group-title="Anguilla" tvg-id="FREEFRM" tvc-guide-stationid="10093",Freeform
@@ -159,10 +171,10 @@ http://example.local/AIA-FREEFRM.ts
 http://example.local/AIA-FS1HD.ts
 #EXTINF:-1 tvg-chno="59305" tvg-name="FS2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59305_ll_h15_aa.png" group-title="Anguilla" tvg-id="FS2HD" tvc-guide-stationid="59305",FS2 HD
 http://example.local/AIA-FS2HD.ts
-#EXTINF:-1 tvg-chno="14321" tvg-name="FX" tvg-logo="https://zap2it.tmsimg.com/assets/s14321_ll_h15_aa.png" group-title="Anguilla" tvg-id="FX" tvc-guide-stationid="14321",FX
-http://example.local/AIA-FX.ts
 #EXTINF:-1 tvg-chno="46442" tvg-name="FX" tvg-logo="https://zap2it.tmsimg.com/assets/s46442_ll_h15_aa.png" group-title="Anguilla" tvg-id="FXL" tvc-guide-stationid="46442",FX
 http://example.local/AIA-FXL.ts
+#EXTINF:-1 tvg-chno="14321" tvg-name="FX" tvg-logo="https://zap2it.tmsimg.com/assets/s14321_ll_h15_aa.png" group-title="Anguilla" tvg-id="FX" tvc-guide-stationid="14321",FX
+http://example.local/AIA-FX.ts
 #EXTINF:-1 tvg-chno="70253" tvg-name="FX Movie Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s70253_ll_h15_aa.png" group-title="Anguilla" tvg-id="FXMHD" tvc-guide-stationid="70253",FX Movie Channel HD
 http://example.local/AIA-FXMHD.ts
 #EXTINF:-1 tvg-chno="19787" tvg-name="FX Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s25069_ll_h15_ac.png" group-title="Anguilla" tvg-id="FXMO" tvc-guide-stationid="19787",FX Movies
@@ -185,6 +197,8 @@ http://example.local/AIA-GOLDNHD.ts
 http://example.local/AIA-GOLF.ts
 #EXTINF:-1 tvg-chno="100668" tvg-name="H2 History" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_h3_ba.png" group-title="Anguilla" tvg-id="H2LATH" tvc-guide-stationid="100668",H2 History
 http://example.local/AIA-H2LATH.ts
+#EXTINF:-1 tvg-chno="10240" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s10240_ll_h15_aa.png" group-title="Anguilla" tvg-id="HBO" tvc-guide-stationid="10240",HBO
+http://example.local/AIA-HBO.ts
 #EXTINF:-1 tvg-chno="57383" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s10240_ll_h15_aa.png" group-title="Anguilla" tvg-id="HBOCAR" tvc-guide-stationid="57383",HBO
 http://example.local/AIA-HBOCAR.ts
 #EXTINF:-1 tvg-chno="96533" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s19548_ll_h15_aa.png" group-title="Anguilla" tvg-id="HBOCARH" tvc-guide-stationid="96533",HBO
@@ -193,6 +207,10 @@ http://example.local/AIA-HBOCARH.ts
 http://example.local/AIA-HBOF.ts
 #EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Anguilla" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
 http://example.local/AIA-HBOFMHD.ts
+#EXTINF:-1 tvg-chno="10241" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="Anguilla" tvg-id="HBOHTS" tvc-guide-stationid="10241",HBO Hits
+http://example.local/AIA-HBOHTS.ts
+#EXTINF:-1 tvg-chno="10242" tvg-name="HBO Hits (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CL6E.png" group-title="Anguilla" tvg-id="HBOHTP" tvc-guide-stationid="10242",HBO Hits (Pacific)
+http://example.local/AIA-HBOHTP.ts
 #EXTINF:-1 tvg-chno="59837" tvg-name="HBO Latino HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_ba.png" group-title="Anguilla" tvg-id="HBOLAHD" tvc-guide-stationid="59837",HBO Latino HD
 http://example.local/AIA-HBOLAHD.ts
 #EXTINF:-1 tvg-chno="70081" tvg-name="HBO Mundi" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png" group-title="Anguilla" tvg-id="MUNMEX" tvc-guide-stationid="70081",HBO Mundi
@@ -241,6 +259,8 @@ http://example.local/AIA-LIFE.ts
 http://example.local/AIA-LIFELC.ts
 #EXTINF:-1 tvg-chno="159513" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Anguilla" tvg-id="LIFSURH" tvc-guide-stationid="159513",Lifetime
 http://example.local/AIA-LIFSURH.ts
+#EXTINF:-1 tvg-chno="16300" tvg-name="MS NOW" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002H5PTR.png" group-title="Anguilla" tvg-id="MSNOW" tvc-guide-stationid="16300",MS NOW
+http://example.local/AIA-MSNOW.ts
 #EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="Anguilla" tvg-id="MTVL" tvc-guide-stationid="12712",MTV
 http://example.local/AIA-MTVL.ts
 #EXTINF:-1 tvg-chno="60964" tvg-name="MTV - Music Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60964_ll_h15_aa.png" group-title="Anguilla" tvg-id="MTVHD" tvc-guide-stationid="60964",MTV - Music Television HD
@@ -263,6 +283,8 @@ http://example.local/AIA-NIKL.ts
 http://example.local/AIA-NIK.ts
 #EXTINF:-1 tvg-chno="107423" tvg-name="OnDIRECTV HD (South)" tvg-logo="https://zap2it.tmsimg.com/assets/s107423_ll_h15_aa.png" group-title="Anguilla" tvg-id="ONDTHS" tvc-guide-stationid="107423",OnDIRECTV HD (South)
 http://example.local/AIA-ONDTHS.ts
+#EXTINF:-1 tvg-chno="68358" tvg-name="One Caribbean Weather" group-title="Anguilla" tvg-id="CARIBWE" tvc-guide-stationid="68358",One Caribbean Weather
+http://example.local/AIA-CARIBWE.ts
 #EXTINF:-1 tvg-chno="70387" tvg-name="Oprah Winfrey Network" tvg-logo="https://zap2it.tmsimg.com/assets/s70387_ll_h15_aa.png" group-title="Anguilla" tvg-id="OWN" tvc-guide-stationid="70387",Oprah Winfrey Network
 http://example.local/AIA-OWN.ts
 #EXTINF:-1 tvg-chno="21484" tvg-name="Oxygen True Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s21484_ll_h15_ac.png" group-title="Anguilla" tvg-id="OXYGEN" tvc-guide-stationid="21484",Oxygen True Crime
@@ -289,10 +311,10 @@ http://example.local/AIA-PBS.ts
 http://example.local/AIA-RCARA.ts
 #EXTINF:-1 tvg-chno="75906" tvg-name="RFI" group-title="Anguilla" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
 http://example.local/AIA-RFIRAD.ts
-#EXTINF:-1 tvg-chno="60801" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="Anguilla" tvg-id="SPACEM" tvc-guide-stationid="60801",Space
-http://example.local/AIA-SPACEM.ts
 #EXTINF:-1 tvg-chno="97370" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png" group-title="Anguilla" tvg-id="SPCEEHD" tvc-guide-stationid="97370",Space
 http://example.local/AIA-SPCEEHD.ts
+#EXTINF:-1 tvg-chno="60801" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="Anguilla" tvg-id="SPACEM" tvc-guide-stationid="60801",Space
+http://example.local/AIA-SPACEM.ts
 #EXTINF:-1 tvg-chno="82672" tvg-name="SportsMax 2" tvg-logo="https://zap2it.tmsimg.com/assets/s82672_ll_h15_ac.png" group-title="Anguilla" tvg-id="SPMAX2" tvc-guide-stationid="82672",SportsMax 2
 http://example.local/AIA-SPMAX2.ts
 #EXTINF:-1 tvg-chno="99405" tvg-name="SportsMax 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s82672_ll_h15_ac.png" group-title="Anguilla" tvg-id="SPMX2HD" tvc-guide-stationid="99405",SportsMax 2 HD
@@ -375,6 +397,8 @@ http://example.local/AIA-STULA.ts
 http://example.local/AIA-STULM.ts
 #EXTINF:-1 tvg-chno="90605" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s90605_ll_h15_aa.png" group-title="Anguilla" tvg-id="STULMHD" tvc-guide-stationid="90605",Studio Universal
 http://example.local/AIA-STULMHD.ts
+#EXTINF:-1 tvg-chno="11097" tvg-name="SYFY" tvg-logo="https://zap2it.tmsimg.com/assets/s11097_h3_aa.png" group-title="Anguilla" tvg-id="SYFY" tvc-guide-stationid="11097",SYFY
+http://example.local/AIA-SYFY.ts
 #EXTINF:-1 tvg-chno="26857" tvg-name="TBN Europe" tvg-logo="https://zap2it.tmsimg.com/assets/s26857_ll_h9_aa.png" group-title="Anguilla" tvg-id="TBNEU" tvc-guide-stationid="26857",TBN Europe
 http://example.local/AIA-TBNEU.ts
 #EXTINF:-1 tvg-chno="19246" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s19246_h3_aa.png" group-title="Anguilla" tvg-id="TCML" tvc-guide-stationid="19246",TCM
@@ -387,12 +411,16 @@ http://example.local/AIA-CABTELE.ts
 http://example.local/AIA-TEMPO.ts
 #EXTINF:-1 tvg-chno="33395" tvg-name="Tennis Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s33395_ll_h15_ac.png" group-title="Anguilla" tvg-id="TENNIS" tvc-guide-stationid="33395",Tennis Channel
 http://example.local/AIA-TENNIS.ts
+#EXTINF:-1 tvg-chno="47472" tvg-name="The Africa Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s47472_ll_h15_ab.png" group-title="Anguilla" tvg-id="AFRCA" tvc-guide-stationid="47472",The Africa Channel
+http://example.local/AIA-AFRCA.ts
 #EXTINF:-1 tvg-chno="61033" tvg-name="The Golf Channel Latinoamerica" tvg-logo="https://zap2it.tmsimg.com/assets/s61033_ll_h15_ab.png" group-title="Anguilla" tvg-id="GOLFLA" tvc-guide-stationid="61033",The Golf Channel Latinoamerica
 http://example.local/AIA-GOLFLA.ts
 #EXTINF:-1 tvg-chno="101736" tvg-name="The Golf Channel Latinoamerica HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61033_ll_h15_ab.png" group-title="Anguilla" tvg-id="GOLFLAH" tvc-guide-stationid="101736",The Golf Channel Latinoamerica HD
 http://example.local/AIA-GOLFLAH.ts
 #EXTINF:-1 tvg-chno="11160" tvg-name="The Movie Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11160_ll_h15_aa.png" group-title="Anguilla" tvg-id="TMC" tvc-guide-stationid="11160",The Movie Channel
 http://example.local/AIA-TMC.ts
+#EXTINF:-1 tvg-chno="11180" tvg-name="The Travel Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11180_ll_h15_ac.png" group-title="Anguilla" tvg-id="TRAV" tvc-guide-stationid="11180",The Travel Channel
+http://example.local/AIA-TRAV.ts
 #EXTINF:-1 tvg-chno="11187" tvg-name="The Weather Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11187_ll_h15_aa.png" group-title="Anguilla" tvg-id="WEATH" tvc-guide-stationid="11187",The Weather Channel
 http://example.local/AIA-WEATH.ts
 #EXTINF:-1 tvg-chno="67579" tvg-name="TikTok Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s67579_ll_h15_ab.png" group-title="Anguilla" tvg-id="SMUS43" tvc-guide-stationid="67579",TikTok Radio
@@ -415,6 +443,8 @@ http://example.local/AIA-TNTSRS.ts
 http://example.local/AIA-TNTSERH.ts
 #EXTINF:-1 tvg-chno="56243" tvg-name="Travel Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s56243_ll_h15_ab.png" group-title="Anguilla" tvg-id="TRAVEU" tvc-guide-stationid="56243",Travel Channel
 http://example.local/AIA-TRAVEU.ts
+#EXTINF:-1 tvg-chno="14767" tvg-name="Trinity Broadcasting Network" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y4QD.png" group-title="Anguilla" tvg-id="TBN" tvc-guide-stationid="14767",Trinity Broadcasting Network
+http://example.local/AIA-TBN.ts
 #EXTINF:-1 tvg-chno="10153" tvg-name="truTV" tvg-logo="https://zap2it.tmsimg.com/assets/s10153_ll_h15_ad.png" group-title="Anguilla" tvg-id="TRUTV" tvc-guide-stationid="10153",truTV
 http://example.local/AIA-TRUTV.ts
 #EXTINF:-1 tvg-chno="16123" tvg-name="TV Land" tvg-logo="https://zap2it.tmsimg.com/assets/s16123_h3_aa.png" group-title="Anguilla" tvg-id="TVLAND" tvc-guide-stationid="16123",TV Land
@@ -435,7 +465,7 @@ http://example.local/AIA-UNIPR.ts
 http://example.local/AIA-UNIRE.ts
 #EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Anguilla" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
 http://example.local/AIA-UNTVM.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" group-title="Anguilla" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Anguilla" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/AIA-UNI.ts
 #EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Anguilla" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/AIA-USALA.ts
@@ -451,6 +481,8 @@ http://example.local/AIA-VH1.ts
 http://example.local/AIA-VH1L.ts
 #EXTINF:-1 tvg-chno="18822" tvg-name="Vice" tvg-logo="https://zap2it.tmsimg.com/assets/s18822_ll_h15_ac.png" group-title="Anguilla" tvg-id="VICE" tvc-guide-stationid="18822",Vice
 http://example.local/AIA-VICE.ts
+#EXTINF:-1 tvg-chno="24505" tvg-name="WANF-DT" tvg-logo="https://logos.jesmann.com/wanfdt.png" group-title="Anguilla" tvg-id="WANFDT" tvc-guide-stationid="24505",WANF-DT
+http://example.local/AIA-WANFDT.ts
 #EXTINF:-1 tvg-chno="16213" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_ll_h15_ae.png" group-title="Anguilla" tvg-id="WBL" tvc-guide-stationid="16213",Warner Channel
 http://example.local/AIA-WBL.ts
 #EXTINF:-1 tvg-chno="11331" tvg-name="WCBS (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="Anguilla" tvg-id="WCBS" tvc-guide-stationid="11331",WCBS (CBS)
@@ -459,6 +491,12 @@ http://example.local/AIA-WCBS.ts
 http://example.local/AIA-WGN.ts
 #EXTINF:-1 tvg-chno="11779" tvg-name="WPIX (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s11779_ll_h15_aa.png" group-title="Anguilla" tvg-id="WPIX" tvc-guide-stationid="11779",WPIX (CW)
 http://example.local/AIA-WPIX.ts
+#EXTINF:-1 tvg-chno="19586" tvg-name="WSB-DT (ABC)" tvg-logo="https://logos.jesmann.com/wsbdt.png" group-title="Anguilla" tvg-id="WSBDT" tvc-guide-stationid="19586",WSB-DT (ABC)
+http://example.local/AIA-WSBDT.ts
+#EXTINF:-1 tvg-chno="11857" tvg-name="WSVN (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="Anguilla" tvg-id="WSVN" tvc-guide-stationid="11857",WSVN (FOX)
+http://example.local/AIA-WSVN.ts
+#EXTINF:-1 tvg-chno="11916" tvg-name="WTVJ (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="Anguilla" tvg-id="WTVJ" tvc-guide-stationid="11916",WTVJ (NBC)
+http://example.local/AIA-WTVJ.ts
 #EXTINF:-1 tvg-chno="90968" tvg-name="Zee TV Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s90968_ll_h15_aa.png" group-title="Anguilla" tvg-id="ZEECAR" tvc-guide-stationid="90968",Zee TV Caribbean
 http://example.local/AIA-ZEECAR.ts
 #EXTINF:-1 tvg-chno="110065" tvg-name="ZooMoo" tvg-logo="https://zap2it.tmsimg.com/assets/s89920_ll_h15_ab.png" group-title="Anguilla" tvg-id="ZOOMOSH" tvc-guide-stationid="110065",ZooMoo

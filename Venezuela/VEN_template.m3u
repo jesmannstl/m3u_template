@@ -15,6 +15,8 @@ http://example.local/VEN-ADRESNH.ts
 http://example.local/VEN-AMCMEX.ts
 #EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Venezuela" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
 http://example.local/VEN-AMCMXHD.ts
+#EXTINF:-1 tvg-chno="17457" tvg-name="AMC Series" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002GM3XT.png" group-title="Venezuela" tvg-id="AMCSRS" tvc-guide-stationid="17457",AMC Series
+http://example.local/VEN-AMCSRS.ts
 #EXTINF:-1 tvg-chno="18649" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Venezuela" tvg-id="ANIPL" tvc-guide-stationid="18649",Animal Planet
 http://example.local/VEN-ANIPL.ts
 #EXTINF:-1 tvg-chno="97167" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_h3_ba.png" group-title="Venezuela" tvg-id="ANIPLH" tvc-guide-stationid="97167",Animal Planet
@@ -109,12 +111,12 @@ http://example.local/VEN-EXITOIN.ts
 http://example.local/VEN-EXITOIT.ts
 #EXTINF:-1 tvg-chno="40808" tvg-name="Audio DLA Éxitos Europeos" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png" group-title="Venezuela" tvg-id="EXITOEU" tvc-guide-stationid="40808",Audio DLA Éxitos Europeos
 http://example.local/VEN-EXITOEU.ts
-#EXTINF:-1 tvg-chno="47124" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s17484_ll_h15_ab.png" group-title="Venezuela" tvg-id="AXNLV" tvc-guide-stationid="47124",AXN
-http://example.local/VEN-AXNLV.ts
-#EXTINF:-1 tvg-chno="72534" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s72534_ll_h15_ab.png" group-title="Venezuela" tvg-id="AXNHD" tvc-guide-stationid="72534",AXN
-http://example.local/VEN-AXNHD.ts
 #EXTINF:-1 tvg-chno="17484" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s17484_ll_h15_ab.png" group-title="Venezuela" tvg-id="AXNL" tvc-guide-stationid="17484",AXN
 http://example.local/VEN-AXNL.ts
+#EXTINF:-1 tvg-chno="72534" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s72534_ll_h15_ab.png" group-title="Venezuela" tvg-id="AXNHD" tvc-guide-stationid="72534",AXN
+http://example.local/VEN-AXNHD.ts
+#EXTINF:-1 tvg-chno="47124" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s17484_ll_h15_ab.png" group-title="Venezuela" tvg-id="AXNLV" tvc-guide-stationid="47124",AXN
+http://example.local/VEN-AXNLV.ts
 #EXTINF:-1 tvg-chno="56036" tvg-name="Baby Tv" tvg-logo="https://zap2it.tmsimg.com/assets/s56036_ll_h15_ab.png" group-title="Venezuela" tvg-id="BABYTVL" tvc-guide-stationid="56036",Baby Tv
 http://example.local/VEN-BABYTVL.ts
 #EXTINF:-1 tvg-chno="104918" tvg-name="Baby Tv" tvg-logo="https://zap2it.tmsimg.com/assets/s56036_ll_h15_ab.png" group-title="Venezuela" tvg-id="BABTVLH" tvc-guide-stationid="104918",Baby Tv
@@ -149,20 +151,20 @@ http://example.local/VEN-CANALIN.ts
 http://example.local/VEN-ORBE21.ts
 #EXTINF:-1 tvg-chno="19385" tvg-name="Canal Sony" tvg-logo="https://zap2it.tmsimg.com/assets/s19385_ll_h15_ac.png" group-title="Venezuela" tvg-id="SETLC" tvc-guide-stationid="19385",Canal Sony
 http://example.local/VEN-SETLC.ts
-#EXTINF:-1 tvg-chno="71721" tvg-name="Canal Sony" tvg-logo="https://zap2it.tmsimg.com/assets/s71721_ll_h15_aa.png" group-title="Venezuela" tvg-id="SETLVHD" tvc-guide-stationid="71721",Canal Sony
-http://example.local/VEN-SETLVHD.ts
 #EXTINF:-1 tvg-chno="75047" tvg-name="Canal Sony" tvg-logo="https://zap2it.tmsimg.com/assets/s75047_ll_h15_aa.png" group-title="Venezuela" tvg-id="SETCOLE" tvc-guide-stationid="75047",Canal Sony
 http://example.local/VEN-SETCOLE.ts
+#EXTINF:-1 tvg-chno="71721" tvg-name="Canal Sony" tvg-logo="https://zap2it.tmsimg.com/assets/s71721_ll_h15_aa.png" group-title="Venezuela" tvg-id="SETLVHD" tvc-guide-stationid="71721",Canal Sony
+http://example.local/VEN-SETLVHD.ts
 #EXTINF:-1 tvg-chno="39719" tvg-name="CARACOL INTERNATIONAL" tvg-logo="https://zap2it.tmsimg.com/assets/s39719_ll_h15_ab.png" group-title="Venezuela" tvg-id="CARAI" tvc-guide-stationid="39719",CARACOL INTERNATIONAL
 http://example.local/VEN-CARAI.ts
 #EXTINF:-1 tvg-chno="16141" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Venezuela" tvg-id="TOONL" tvc-guide-stationid="16141",Cartoon Network
 http://example.local/VEN-TOONL.ts
+#EXTINF:-1 tvg-chno="105690" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Venezuela" tvg-id="TOONARH" tvc-guide-stationid="105690",Cartoon Network
+http://example.local/VEN-TOONARH.ts
 #EXTINF:-1 tvg-chno="59562" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Venezuela" tvg-id="TOONARG" tvc-guide-stationid="59562",Cartoon Network
 http://example.local/VEN-TOONARG.ts
 #EXTINF:-1 tvg-chno="101403" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Venezuela" tvg-id="CARTPHD" tvc-guide-stationid="101403",Cartoon Network
 http://example.local/VEN-CARTPHD.ts
-#EXTINF:-1 tvg-chno="105690" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Venezuela" tvg-id="TOONARH" tvc-guide-stationid="105690",Cartoon Network
-http://example.local/VEN-TOONARH.ts
 #EXTINF:-1 tvg-chno="26089" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Venezuela" tvg-id="CARTOA" tvc-guide-stationid="26089",Cartoonito
 http://example.local/VEN-CARTOA.ts
 #EXTINF:-1 tvg-chno="55719" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Venezuela" tvg-id="CARTOM" tvc-guide-stationid="55719",Cartoonito
@@ -179,16 +181,18 @@ http://example.local/VEN-CINL.ts
 http://example.local/VEN-CINLUS.ts
 #EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Venezuela" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
 http://example.local/VEN-CCL.ts
-#EXTINF:-1 tvg-chno="105851" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Venezuela" tvg-id="CANALHD" tvc-guide-stationid="105851",Cinecanal
-http://example.local/VEN-CANALHD.ts
-#EXTINF:-1 tvg-chno="104908" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Venezuela" tvg-id="CCANAL" tvc-guide-stationid="104908",Cinecanal
-http://example.local/VEN-CCANAL.ts
 #EXTINF:-1 tvg-chno="105609" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Venezuela" tvg-id="CCANCOL" tvc-guide-stationid="105609",Cinecanal
 http://example.local/VEN-CCANCOL.ts
+#EXTINF:-1 tvg-chno="104908" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Venezuela" tvg-id="CCANAL" tvc-guide-stationid="104908",Cinecanal
+http://example.local/VEN-CCANAL.ts
+#EXTINF:-1 tvg-chno="105851" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Venezuela" tvg-id="CANALHD" tvc-guide-stationid="105851",Cinecanal
+http://example.local/VEN-CANALHD.ts
 #EXTINF:-1 tvg-chno="16794" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Venezuela" tvg-id="CINELW" tvc-guide-stationid="16794",Cinemax
 http://example.local/VEN-CINELW.ts
 #EXTINF:-1 tvg-chno="12508" tvg-name="Cinemax (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10120_ll_h15_ab.png" group-title="Venezuela" tvg-id="MAXP" tvc-guide-stationid="12508",Cinemax (Pacific)
 http://example.local/VEN-MAXP.ts
+#EXTINF:-1 tvg-chno="10121" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png" group-title="Venezuela" tvg-id="CINEHIT" tvc-guide-stationid="10121",Cinemax Hits
+http://example.local/VEN-CINEHIT.ts
 #EXTINF:-1 tvg-chno="72291" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72291_ll_h15_ab.png" group-title="Venezuela" tvg-id="CLAROSP" tvc-guide-stationid="72291",Claro Sports
 http://example.local/VEN-CLAROSP.ts
 #EXTINF:-1 tvg-chno="24214" tvg-name="Club MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s24214_ll_h15_ae.png" group-title="Venezuela" tvg-id="CLMTVUK" tvc-guide-stationid="24214",Club MTV
@@ -297,10 +301,10 @@ http://example.local/VEN-TRESATH.ts
 http://example.local/VEN-TREINT.ts
 #EXTINF:-1 tvg-chno="20286" tvg-name="ENLACE TV" tvg-logo="https://zap2it.tmsimg.com/assets/s20286_h3_ba.png" group-title="Venezuela" tvg-id="ENLACE" tvc-guide-stationid="20286",ENLACE TV
 http://example.local/VEN-ENLACE.ts
-#EXTINF:-1 tvg-chno="17725" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s17725_ll_h15_ac.png" group-title="Venezuela" tvg-id="ESPNAR" tvc-guide-stationid="17725",ESPN
-http://example.local/VEN-ESPNAR.ts
 #EXTINF:-1 tvg-chno="98533" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s17725_h3_aa.png" group-title="Venezuela" tvg-id="ESP2COH" tvc-guide-stationid="98533",ESPN
 http://example.local/VEN-ESP2COH.ts
+#EXTINF:-1 tvg-chno="17725" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s17725_ll_h15_ac.png" group-title="Venezuela" tvg-id="ESPNAR" tvc-guide-stationid="17725",ESPN
+http://example.local/VEN-ESPNAR.ts
 #EXTINF:-1 tvg-chno="88735" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Venezuela" tvg-id="ESP2LS" tvc-guide-stationid="88735",ESPN 2
 http://example.local/VEN-ESP2LS.ts
 #EXTINF:-1 tvg-chno="10180" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Venezuela" tvg-id="ESP2ME" tvc-guide-stationid="10180",ESPN 2
@@ -311,22 +315,22 @@ http://example.local/VEN-ESP2MEH.ts
 http://example.local/VEN-ESP4MXH.ts
 #EXTINF:-1 tvg-chno="121544" tvg-name="ESPN 4 Sur" tvg-logo="https://zap2it.tmsimg.com/assets/s65930_ll_h15_ae.png" group-title="Venezuela" tvg-id="ESPN4SH" tvc-guide-stationid="121544",ESPN 4 Sur
 http://example.local/VEN-ESPN4SH.ts
-#EXTINF:-1 tvg-chno="122027" tvg-name="ESPN 5" tvg-logo="https://zap2it.tmsimg.com/assets/s122027_ll_h15_ab.png" group-title="Venezuela" tvg-id="ESPN5SH" tvc-guide-stationid="122027",ESPN 5
-http://example.local/VEN-ESPN5SH.ts
 #EXTINF:-1 tvg-chno="90856" tvg-name="ESPN 5" tvg-logo="https://zap2it.tmsimg.com/assets/s90856_ll_h15_ac.png" group-title="Venezuela" tvg-id="ESPN5SD" tvc-guide-stationid="90856",ESPN 5
 http://example.local/VEN-ESPN5SD.ts
+#EXTINF:-1 tvg-chno="122027" tvg-name="ESPN 5" tvg-logo="https://zap2it.tmsimg.com/assets/s122027_ll_h15_ab.png" group-title="Venezuela" tvg-id="ESPN5SH" tvc-guide-stationid="122027",ESPN 5
+http://example.local/VEN-ESPN5SH.ts
 #EXTINF:-1 tvg-chno="86787" tvg-name="ESPN 5" tvg-logo="https://zap2it.tmsimg.com/assets/s86787_ll_h15_ac.png" group-title="Venezuela" tvg-id="ESPN5B" tvc-guide-stationid="86787",ESPN 5
 http://example.local/VEN-ESPN5B.ts
 #EXTINF:-1 tvg-chno="30392" tvg-name="ESPN 5 Centroamérica" tvg-logo="https://zap2it.tmsimg.com/assets/s122027_ll_h15_ab.png" group-title="Venezuela" tvg-id="ESP5CES" tvc-guide-stationid="30392",ESPN 5 Centroamérica
 http://example.local/VEN-ESP5CES.ts
 #EXTINF:-1 tvg-chno="124752" tvg-name="ESPN 6" tvg-logo="https://zap2it.tmsimg.com/assets/s124752_ll_h15_ab.png" group-title="Venezuela" tvg-id="ESPN6SD" tvc-guide-stationid="124752",ESPN 6
 http://example.local/VEN-ESPN6SD.ts
-#EXTINF:-1 tvg-chno="99633" tvg-name="ESPN 6" tvg-logo="https://zap2it.tmsimg.com/assets/s99633_ll_h15_ag.png" group-title="Venezuela" tvg-id="ESPN6B" tvc-guide-stationid="99633",ESPN 6
-http://example.local/VEN-ESPN6B.ts
 #EXTINF:-1 tvg-chno="47374" tvg-name="ESPN 6" tvg-logo="https://zap2it.tmsimg.com/assets/s47374_ll_h15_ad.png" group-title="Venezuela" tvg-id="ESPN6SS" tvc-guide-stationid="47374",ESPN 6
 http://example.local/VEN-ESPN6SS.ts
 #EXTINF:-1 tvg-chno="79923" tvg-name="ESPN 6" tvg-logo="https://zap2it.tmsimg.com/assets/s79923_ll_h15_ad.png" group-title="Venezuela" tvg-id="ESPN6SH" tvc-guide-stationid="79923",ESPN 6
 http://example.local/VEN-ESPN6SH.ts
+#EXTINF:-1 tvg-chno="99633" tvg-name="ESPN 6" tvg-logo="https://zap2it.tmsimg.com/assets/s99633_ll_h15_ag.png" group-title="Venezuela" tvg-id="ESPN6B" tvc-guide-stationid="99633",ESPN 6
+http://example.local/VEN-ESPN6B.ts
 #EXTINF:-1 tvg-chno="73935" tvg-name="ESPN 7" tvg-logo="https://zap2it.tmsimg.com/assets/s73935_ll_h15_ac.png" group-title="Venezuela" tvg-id="ESPN7SS" tvc-guide-stationid="73935",ESPN 7
 http://example.local/VEN-ESPN7SS.ts
 #EXTINF:-1 tvg-chno="91513" tvg-name="ESPN 7" tvg-logo="https://zap2it.tmsimg.com/assets/s91513_ll_h15_aa.png" group-title="Venezuela" tvg-id="ESPN7SH" tvc-guide-stationid="91513",ESPN 7
@@ -359,10 +363,10 @@ http://example.local/VEN-EUROPHD.ts
 http://example.local/VEN-EWTNL.ts
 #EXTINF:-1 tvg-chno="91833" tvg-name="Fashion One" tvg-logo="https://zap2it.tmsimg.com/assets/s91833_ll_h15_aa.png" group-title="Venezuela" tvg-id="FAS" tvc-guide-stationid="91833",Fashion One
 http://example.local/VEN-FAS.ts
-#EXTINF:-1 tvg-chno="16215" tvg-name="Film & Arts" tvg-logo="https://zap2it.tmsimg.com/assets/s87687_ll_h15_aa.png" group-title="Venezuela" tvg-id="FABL" tvc-guide-stationid="16215",Film & Arts
-http://example.local/VEN-FABL.ts
 #EXTINF:-1 tvg-chno="88305" tvg-name="Film & Arts" tvg-logo="https://zap2it.tmsimg.com/assets/s87687_ll_h15_aa.png" group-title="Venezuela" tvg-id="FABMEX" tvc-guide-stationid="88305",Film & Arts
 http://example.local/VEN-FABMEX.ts
+#EXTINF:-1 tvg-chno="16215" tvg-name="Film & Arts" tvg-logo="https://zap2it.tmsimg.com/assets/s87687_ll_h15_aa.png" group-title="Venezuela" tvg-id="FABL" tvc-guide-stationid="16215",Film & Arts
+http://example.local/VEN-FABL.ts
 #EXTINF:-1 tvg-chno="91919" tvg-name="Food Network" tvg-logo="https://zap2it.tmsimg.com/assets/s91919_ll_h15_aa.png" group-title="Venezuela" tvg-id="FOODLA" tvc-guide-stationid="91919",Food Network
 http://example.local/VEN-FOODLA.ts
 #EXTINF:-1 tvg-chno="112146" tvg-name="Food Network Latam HD" group-title="Venezuela" tvg-id="FODAMCO" tvc-guide-stationid="112146",Food Network Latam HD
@@ -403,10 +407,10 @@ http://example.local/VEN-REDEGL.ts
 http://example.local/VEN-GLOVIS.ts
 #EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Venezuela" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
 http://example.local/VEN-GLDEN.ts
-#EXTINF:-1 tvg-chno="97825" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Venezuela" tvg-id="GLDENH" tvc-guide-stationid="97825",Golden
-http://example.local/VEN-GLDENH.ts
 #EXTINF:-1 tvg-chno="97833" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Venezuela" tvg-id="GLDENEH" tvc-guide-stationid="97833",Golden
 http://example.local/VEN-GLDENEH.ts
+#EXTINF:-1 tvg-chno="97825" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Venezuela" tvg-id="GLDENH" tvc-guide-stationid="97825",Golden
+http://example.local/VEN-GLDENH.ts
 #EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Venezuela" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
 http://example.local/VEN-GOLDEDG.ts
 #EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Venezuela" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
@@ -423,80 +427,82 @@ http://example.local/VEN-GOLLAHD.ts
 http://example.local/VEN-H2LATH.ts
 #EXTINF:-1 tvg-chno="11221" tvg-name="Hallmark Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11221_ll_h15_aa.png" group-title="Venezuela" tvg-id="HALL" tvc-guide-stationid="11221",Hallmark Channel
 http://example.local/VEN-HALL.ts
-#EXTINF:-1 tvg-chno="80406" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Venezuela" tvg-id="HBOEHD" tvc-guide-stationid="80406",HBO
-http://example.local/VEN-HBOEHD.ts
 #EXTINF:-1 tvg-chno="16191" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Venezuela" tvg-id="HBOI" tvc-guide-stationid="16191",HBO
 http://example.local/VEN-HBOI.ts
 #EXTINF:-1 tvg-chno="84823" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Venezuela" tvg-id="HBOLWHD" tvc-guide-stationid="84823",HBO
 http://example.local/VEN-HBOLWHD.ts
+#EXTINF:-1 tvg-chno="80406" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Venezuela" tvg-id="HBOEHD" tvc-guide-stationid="80406",HBO
+http://example.local/VEN-HBOEHD.ts
 #EXTINF:-1 tvg-chno="16795" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Venezuela" tvg-id="HBOLW" tvc-guide-stationid="16795",HBO
 http://example.local/VEN-HBOLW.ts
 #EXTINF:-1 tvg-chno="12288" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Venezuela" tvg-id="HBOL" tvc-guide-stationid="12288",HBO
 http://example.local/VEN-HBOL.ts
 #EXTINF:-1 tvg-chno="68244" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Venezuela" tvg-id="HBO2ENG" tvc-guide-stationid="68244",HBO 2
 http://example.local/VEN-HBO2ENG.ts
-#EXTINF:-1 tvg-chno="108216" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Venezuela" tvg-id="HBO2EHD" tvc-guide-stationid="108216",HBO 2
-http://example.local/VEN-HBO2EHD.ts
 #EXTINF:-1 tvg-chno="68140" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Venezuela" tvg-id="HBO2LA" tvc-guide-stationid="68140",HBO 2
 http://example.local/VEN-HBO2LA.ts
-#EXTINF:-1 tvg-chno="16585" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png" group-title="Venezuela" tvg-id="HBOF" tvc-guide-stationid="16585",HBO Family
-http://example.local/VEN-HBOF.ts
+#EXTINF:-1 tvg-chno="108216" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Venezuela" tvg-id="HBO2EHD" tvc-guide-stationid="108216",HBO 2
+http://example.local/VEN-HBO2EHD.ts
 #EXTINF:-1 tvg-chno="34879" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_ll_h15_ae.png" group-title="Venezuela" tvg-id="HBOFAM" tvc-guide-stationid="34879",HBO Family
 http://example.local/VEN-HBOFAM.ts
+#EXTINF:-1 tvg-chno="57396" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Venezuela" tvg-id="HBOFAME" tvc-guide-stationid="57396",HBO Family
+http://example.local/VEN-HBOFAME.ts
+#EXTINF:-1 tvg-chno="16585" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png" group-title="Venezuela" tvg-id="HBOF" tvc-guide-stationid="16585",HBO Family
+http://example.local/VEN-HBOF.ts
 #EXTINF:-1 tvg-chno="80550" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Venezuela" tvg-id="HBOFMEH" tvc-guide-stationid="80550",HBO Family
 http://example.local/VEN-HBOFMEH.ts
 #EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Venezuela" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
 http://example.local/VEN-HBOFMHD.ts
-#EXTINF:-1 tvg-chno="57396" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Venezuela" tvg-id="HBOFAME" tvc-guide-stationid="57396",HBO Family
-http://example.local/VEN-HBOFAME.ts
+#EXTINF:-1 tvg-chno="10241" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="Venezuela" tvg-id="HBOHTS" tvc-guide-stationid="10241",HBO Hits
+http://example.local/VEN-HBOHTS.ts
 #EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_aa.png" group-title="Venezuela" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
 http://example.local/VEN-HBOLAT.ts
 #EXTINF:-1 tvg-chno="59837" tvg-name="HBO Latino HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_ba.png" group-title="Venezuela" tvg-id="HBOLAHD" tvc-guide-stationid="59837",HBO Latino HD
 http://example.local/VEN-HBOLAHD.ts
 #EXTINF:-1 tvg-chno="70081" tvg-name="HBO Mundi" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png" group-title="Venezuela" tvg-id="MUNMEX" tvc-guide-stationid="70081",HBO Mundi
 http://example.local/VEN-MUNMEX.ts
-#EXTINF:-1 tvg-chno="68301" tvg-name="HBO POP" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_ll_h15_ab.png" group-title="Venezuela" tvg-id="POPMXH" tvc-guide-stationid="68301",HBO POP
-http://example.local/VEN-POPMXH.ts
 #EXTINF:-1 tvg-chno="92951" tvg-name="HBO Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_ll_h15_ab.png" group-title="Venezuela" tvg-id="POPLA" tvc-guide-stationid="92951",HBO Pop
 http://example.local/VEN-POPLA.ts
+#EXTINF:-1 tvg-chno="68301" tvg-name="HBO POP" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_ll_h15_ab.png" group-title="Venezuela" tvg-id="POPMXH" tvc-guide-stationid="68301",HBO POP
+http://example.local/VEN-POPMXH.ts
 #EXTINF:-1 tvg-chno="74450" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Venezuela" tvg-id="HBOSLA" tvc-guide-stationid="74450",HBO Signature
 http://example.local/VEN-HBOSLA.ts
 #EXTINF:-1 tvg-chno="80120" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Venezuela" tvg-id="HBOSLHD" tvc-guide-stationid="80120",HBO Signature
 http://example.local/VEN-HBOSLHD.ts
 #EXTINF:-1 tvg-chno="57400" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Venezuela" tvg-id="HBOXMXE" tvc-guide-stationid="57400",HBO Xtreme
 http://example.local/VEN-HBOXMXE.ts
-#EXTINF:-1 tvg-chno="80115" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_h3_aa.png" group-title="Venezuela" tvg-id="HBOXMXH" tvc-guide-stationid="80115",HBO Xtreme
-http://example.local/VEN-HBOXMXH.ts
 #EXTINF:-1 tvg-chno="34887" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Venezuela" tvg-id="HBOXMX" tvc-guide-stationid="34887",HBO Xtreme
 http://example.local/VEN-HBOXMX.ts
+#EXTINF:-1 tvg-chno="80115" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_h3_aa.png" group-title="Venezuela" tvg-id="HBOXMXH" tvc-guide-stationid="80115",HBO Xtreme
+http://example.local/VEN-HBOXMXH.ts
 #EXTINF:-1 tvg-chno="111077" tvg-name="HGTV" tvg-logo="https://zap2it.tmsimg.com/assets/s111055_h3_aa.png" group-title="Venezuela" tvg-id="HGTVLAS" tvc-guide-stationid="111077",HGTV
 http://example.local/VEN-HGTVLAS.ts
 #EXTINF:-1 tvg-chno="111055" tvg-name="HGTV" tvg-logo="https://zap2it.tmsimg.com/assets/s111055_ll_h15_aa.png" group-title="Venezuela" tvg-id="HGTVLA" tvc-guide-stationid="111055",HGTV
 http://example.local/VEN-HGTVLA.ts
 #EXTINF:-1 tvg-chno="40137" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Venezuela" tvg-id="HCLM" tvc-guide-stationid="40137",History
 http://example.local/VEN-HCLM.ts
-#EXTINF:-1 tvg-chno="70669" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Venezuela" tvg-id="HCLMHD" tvc-guide-stationid="70669",History
-http://example.local/VEN-HCLMHD.ts
-#EXTINF:-1 tvg-chno="48157" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Venezuela" tvg-id="HCLI" tvc-guide-stationid="48157",History
-http://example.local/VEN-HCLI.ts
 #EXTINF:-1 tvg-chno="71669" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Venezuela" tvg-id="HCLVEHD" tvc-guide-stationid="71669",History
 http://example.local/VEN-HCLVEHD.ts
+#EXTINF:-1 tvg-chno="48157" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Venezuela" tvg-id="HCLI" tvc-guide-stationid="48157",History
+http://example.local/VEN-HCLI.ts
+#EXTINF:-1 tvg-chno="70669" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Venezuela" tvg-id="HCLMHD" tvc-guide-stationid="70669",History
+http://example.local/VEN-HCLMHD.ts
 #EXTINF:-1 tvg-chno="89238" tvg-name="History 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_h3_ba.png" group-title="Venezuela" tvg-id="H2LAME" tvc-guide-stationid="89238",History 2
 http://example.local/VEN-H2LAME.ts
-#EXTINF:-1 tvg-chno="82970" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Venezuela" tvg-id="HOLALA" tvc-guide-stationid="82970",HOLA! TV
-http://example.local/VEN-HOLALA.ts
 #EXTINF:-1 tvg-chno="92054" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Venezuela" tvg-id="HOLALAH" tvc-guide-stationid="92054",HOLA! TV
 http://example.local/VEN-HOLALAH.ts
+#EXTINF:-1 tvg-chno="82970" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Venezuela" tvg-id="HOLALA" tvc-guide-stationid="82970",HOLA! TV
+http://example.local/VEN-HOLALA.ts
 #EXTINF:-1 tvg-chno="15969" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png" group-title="Venezuela" tvg-id="HTVLA" tvc-guide-stationid="15969",HTV
 http://example.local/VEN-HTVLA.ts
 #EXTINF:-1 tvg-chno="52760" tvg-name="HTV Musica On Demand" group-title="Venezuela" tvg-id="HTVMUDM" tvc-guide-stationid="52760",HTV Musica On Demand
 http://example.local/VEN-HTVMUDM.ts
 #EXTINF:-1 tvg-chno="25793" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Venezuela" tvg-id="IDM" tvc-guide-stationid="25793",ID
 http://example.local/VEN-IDM.ts
-#EXTINF:-1 tvg-chno="77635" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Venezuela" tvg-id="IDLHD" tvc-guide-stationid="77635",ID
-http://example.local/VEN-IDLHD.ts
 #EXTINF:-1 tvg-chno="16446" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Venezuela" tvg-id="IDLE" tvc-guide-stationid="16446",ID
 http://example.local/VEN-IDLE.ts
+#EXTINF:-1 tvg-chno="77635" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Venezuela" tvg-id="IDLHD" tvc-guide-stationid="77635",ID
+http://example.local/VEN-IDLHD.ts
 #EXTINF:-1 tvg-chno="97002" tvg-name="IVC" tvg-logo="https://zap2it.tmsimg.com/assets/s97002_ll_h15_aa.png" group-title="Venezuela" tvg-id="IVCVENE" tvc-guide-stationid="97002",IVC
 http://example.local/VEN-IVCVENE.ts
 #EXTINF:-1 tvg-chno="108605" tvg-name="IVC Net HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97002_ll_h15_aa.png" group-title="Venezuela" tvg-id="IVNETHD" tvc-guide-stationid="108605",IVC Net HD
@@ -507,14 +513,12 @@ http://example.local/VEN-LATELE.ts
 http://example.local/VEN-XEW.ts
 #EXTINF:-1 tvg-chno="45831" tvg-name="Las Estrellas (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png" group-title="Venezuela" tvg-id="XEWTDT" tvc-guide-stationid="45831",Las Estrellas (ESTRNET)
 http://example.local/VEN-XEWTDT.ts
+#EXTINF:-1 tvg-chno="89214" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Venezuela" tvg-id="LIFELA" tvc-guide-stationid="89214",Lifetime
+http://example.local/VEN-LIFELA.ts
 #EXTINF:-1 tvg-chno="89197" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Venezuela" tvg-id="LIFELC" tvc-guide-stationid="89197",Lifetime
 http://example.local/VEN-LIFELC.ts
 #EXTINF:-1 tvg-chno="159513" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Venezuela" tvg-id="LIFSURH" tvc-guide-stationid="159513",Lifetime
 http://example.local/VEN-LIFSURH.ts
-#EXTINF:-1 tvg-chno="89214" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Venezuela" tvg-id="LIFELA" tvc-guide-stationid="89214",Lifetime
-http://example.local/VEN-LIFELA.ts
-#EXTINF:-1 tvg-chno="17457" tvg-name="Mas Chic" tvg-logo="https://zap2it.tmsimg.com/assets/s17457_ll_h15_ad.png" group-title="Venezuela" tvg-id="MASCHIC" tvc-guide-stationid="17457",Mas Chic
-http://example.local/VEN-MASCHIC.ts
 #EXTINF:-1 tvg-chno="113555" tvg-name="Max Up HD" tvg-logo="https://zap2it.tmsimg.com/assets/s113555_ll_h15_aa.png" group-title="Venezuela" tvg-id="MAXUAM" tvc-guide-stationid="113555",Max Up HD
 http://example.local/VEN-MAXUAM.ts
 #EXTINF:-1 tvg-chno="46632" tvg-name="Meridiano TV" tvg-logo="https://zap2it.tmsimg.com/assets/s46632_ll_h15_aa.png" group-title="Venezuela" tvg-id="MERIDNO" tvc-guide-stationid="46632",Meridiano TV
@@ -613,10 +617,10 @@ http://example.local/VEN-STARACE.ts
 http://example.local/VEN-STRACO.ts
 #EXTINF:-1 tvg-chno="15688" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_ll_h15_ac.png" group-title="Venezuela" tvg-id="STARMEX" tvc-guide-stationid="15688",Star Channel
 http://example.local/VEN-STARMEX.ts
-#EXTINF:-1 tvg-chno="92111" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_h3_ba.png" group-title="Venezuela" tvg-id="STRANHD" tvc-guide-stationid="92111",Star Channel
-http://example.local/VEN-STRANHD.ts
 #EXTINF:-1 tvg-chno="24882" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_ll_h15_ac.png" group-title="Venezuela" tvg-id="STARG" tvc-guide-stationid="24882",Star Channel
 http://example.local/VEN-STARG.ts
+#EXTINF:-1 tvg-chno="92111" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_h3_ba.png" group-title="Venezuela" tvg-id="STRANHD" tvc-guide-stationid="92111",Star Channel
+http://example.local/VEN-STRANHD.ts
 #EXTINF:-1 tvg-chno="88534" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s88534_ll_h15_aa.png" group-title="Venezuela" tvg-id="STARMHD" tvc-guide-stationid="88534",Star Channel
 http://example.local/VEN-STARMHD.ts
 #EXTINF:-1 tvg-chno="44028" tvg-name="Star Classics" tvg-logo="https://zap2it.tmsimg.com/assets/s44028_ll_h15_ac.png" group-title="Venezuela" tvg-id="STARCLA" tvc-guide-stationid="44028",Star Classics
@@ -717,20 +721,20 @@ http://example.local/VEN-TLNOHI.ts
 http://example.local/VEN-TLT.ts
 #EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Venezuela" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
 http://example.local/VEN-TNTLC.ts
-#EXTINF:-1 tvg-chno="106062" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Venezuela" tvg-id="TNTLCHH" tvc-guide-stationid="106062",TNT
-http://example.local/VEN-TNTLCHH.ts
 #EXTINF:-1 tvg-chno="106742" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Venezuela" tvg-id="TNTARHD" tvc-guide-stationid="106742",TNT
 http://example.local/VEN-TNTARHD.ts
 #EXTINF:-1 tvg-chno="11165" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Venezuela" tvg-id="TNTI" tvc-guide-stationid="11165",TNT
 http://example.local/VEN-TNTI.ts
 #EXTINF:-1 tvg-chno="106190" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Venezuela" tvg-id="TNTLH" tvc-guide-stationid="106190",TNT
 http://example.local/VEN-TNTLH.ts
+#EXTINF:-1 tvg-chno="106062" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Venezuela" tvg-id="TNTLCHH" tvc-guide-stationid="106062",TNT
+http://example.local/VEN-TNTLCHH.ts
+#EXTINF:-1 tvg-chno="92090" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_ll_h15_ab.png" group-title="Venezuela" tvg-id="TNTSRS" tvc-guide-stationid="92090",TNT Series
+http://example.local/VEN-TNTSRS.ts
 #EXTINF:-1 tvg-chno="91993" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_ll_h15_ab.png" group-title="Venezuela" tvg-id="TNTSER" tvc-guide-stationid="91993",TNT Series
 http://example.local/VEN-TNTSER.ts
 #EXTINF:-1 tvg-chno="106709" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_ll_h15_ab.png" group-title="Venezuela" tvg-id="TNTSERH" tvc-guide-stationid="106709",TNT Series
 http://example.local/VEN-TNTSERH.ts
-#EXTINF:-1 tvg-chno="92090" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_ll_h15_ab.png" group-title="Venezuela" tvg-id="TNTSRS" tvc-guide-stationid="92090",TNT Series
-http://example.local/VEN-TNTSRS.ts
 #EXTINF:-1 tvg-chno="113541" tvg-name="TNT Series HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_ll_h15_ab.png" group-title="Venezuela" tvg-id="TNTSEAM" tvc-guide-stationid="113541",TNT Series HD
 http://example.local/VEN-TNTSEAM.ts
 #EXTINF:-1 tvg-chno="63109" tvg-name="Tooncast" tvg-logo="https://zap2it.tmsimg.com/assets/s63109_ll_h15_aa.png" group-title="Venezuela" tvg-id="TOONCST" tvc-guide-stationid="63109",Tooncast
@@ -745,7 +749,7 @@ http://example.local/VEN-TVNI.ts
 http://example.local/VEN-FLIA.ts
 #EXTINF:-1 tvg-chno="86551" tvg-name="TV FANB" group-title="Venezuela" tvg-id="FANB" tvc-guide-stationid="86551",TV FANB
 http://example.local/VEN-FANB.ts
-#EXTINF:-1 tvg-chno="16525" tvg-name="Tv Pública" tvg-logo="https://zap2it.tmsimg.com/assets/s16525_ll_h9_ac.png" group-title="Venezuela" tvg-id="TVPU" tvc-guide-stationid="16525",Tv Pública
+#EXTINF:-1 tvg-chno="16525" tvg-name="Tv Pública" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284GWZ.png" group-title="Venezuela" tvg-id="TVPU" tvc-guide-stationid="16525",Tv Pública
 http://example.local/VEN-TVPU.ts
 #EXTINF:-1 tvg-chno="16422" tvg-name="TV5 Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16422_ll_h15_aa.png" group-title="Venezuela" tvg-id="TV5L" tvc-guide-stationid="16422",TV5 Latin America
 http://example.local/VEN-TV5L.ts
@@ -803,12 +807,12 @@ http://example.local/VEN-VIVETV.ts
 http://example.local/VEN-VTV.ts
 #EXTINF:-1 tvg-chno="37771" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_ll_h15_ae.png" group-title="Venezuela" tvg-id="WOLEARG" tvc-guide-stationid="37771",Warner Channel
 http://example.local/VEN-WOLEARG.ts
+#EXTINF:-1 tvg-chno="45018" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_h3_aa.png" group-title="Venezuela" tvg-id="WBLA2" tvc-guide-stationid="45018",Warner Channel
+http://example.local/VEN-WBLA2.ts
 #EXTINF:-1 tvg-chno="72166" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_h3_aa.png" group-title="Venezuela" tvg-id="WBLHD" tvc-guide-stationid="72166",Warner Channel
 http://example.local/VEN-WBLHD.ts
 #EXTINF:-1 tvg-chno="38303" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_h3_aa.png" group-title="Venezuela" tvg-id="OLEAND" tvc-guide-stationid="38303",Warner Channel
 http://example.local/VEN-OLEAND.ts
-#EXTINF:-1 tvg-chno="45018" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_h3_aa.png" group-title="Venezuela" tvg-id="WBLA2" tvc-guide-stationid="45018",Warner Channel
-http://example.local/VEN-WBLA2.ts
 #EXTINF:-1 tvg-chno="59014" tvg-name="Wobi" tvg-logo="https://zap2it.tmsimg.com/assets/s59014_ll_h15_aa.png" group-title="Venezuela" tvg-id="WOBI" tvc-guide-stationid="59014",Wobi
 http://example.local/VEN-WOBI.ts
 #EXTINF:-1 tvg-chno="72853" tvg-name="X-Time" tvg-logo="https://zap2it.tmsimg.com/assets/s72853_ll_h15_aa.png" group-title="Venezuela" tvg-id="XTIME" tvc-guide-stationid="72853",X-Time

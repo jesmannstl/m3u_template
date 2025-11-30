@@ -11,13 +11,13 @@ http://example.local/KNA-AEMXHD.ts
 http://example.local/KNA-AEMX.ts
 #EXTINF:-1 tvg-chno="65994" tvg-name="Adult Swim" tvg-logo="https://zap2it.tmsimg.com/assets/s16496_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="ADSENS" tvc-guide-stationid="65994",Adult Swim
 http://example.local/KNA-ADSENS.ts
-#EXTINF:-1 tvg-chno="90653" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="AMCMEX" tvc-guide-stationid="90653",AMC
-http://example.local/KNA-AMCMEX.ts
 #EXTINF:-1 tvg-chno="10021" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s10021_ll_h15_ab.png" group-title="St. Kitts and Nevis" tvg-id="AMC" tvc-guide-stationid="10021",AMC
 http://example.local/KNA-AMC.ts
+#EXTINF:-1 tvg-chno="90653" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="AMCMEX" tvc-guide-stationid="90653",AMC
+http://example.local/KNA-AMCMEX.ts
 #EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
 http://example.local/KNA-AMCMXHD.ts
-#EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="St. Kitts and Nevis" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
+#EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="St. Kitts and Nevis" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
 http://example.local/KNA-ABC.ts
 #EXTINF:-1 tvg-chno="16331" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s16331_ll_h9_ad.png" group-title="St. Kitts and Nevis" tvg-id="APL" tvc-guide-stationid="16331",Animal Planet
 http://example.local/KNA-APL.ts
@@ -149,9 +149,9 @@ http://example.local/KNA-CSPAN2.ts
 http://example.local/KNA-SCIFIS.ts
 #EXTINF:-1 tvg-chno="33640" tvg-name="Cubavision" tvg-logo="https://zap2it.tmsimg.com/assets/s33640_ll_h15_aa.png" group-title="St. Kitts and Nevis" tvg-id="CUBVIS" tvc-guide-stationid="33640",Cubavision
 http://example.local/KNA-CUBVIS.ts
-#EXTINF:-1 tvg-chno="67240" tvg-name="CVM Television Limited" tvg-logo="https://zap2it.tmsimg.com/assets/s67240_ll_h15_aa.png" group-title="St. Kitts and Nevis" tvg-id="CVM" tvc-guide-stationid="67240",CVM Television Limited
+#EXTINF:-1 tvg-chno="67240" tvg-name="CVM Television Limited" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002CXF0L.png" group-title="St. Kitts and Nevis" tvg-id="CVM" tvc-guide-stationid="67240",CVM Television Limited
 http://example.local/KNA-CVM.ts
-#EXTINF:-1 tvg-chno="19026" tvg-name="Daystar Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_ba.png" group-title="St. Kitts and Nevis" tvg-id="DYSTR" tvc-guide-stationid="19026",Daystar Television Network
+#EXTINF:-1 tvg-chno="19026" tvg-name="Daystar Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y563.png" group-title="St. Kitts and Nevis" tvg-id="DYSTR" tvc-guide-stationid="19026",Daystar Television Network
 http://example.local/KNA-DYSTR.ts
 #EXTINF:-1 tvg-chno="16288" tvg-name="De Película" tvg-logo="https://zap2it.tmsimg.com/assets/s16288_ll_h15_ac.png" group-title="St. Kitts and Nevis" tvg-id="DEPEL" tvc-guide-stationid="16288",De Película
 http://example.local/KNA-DEPEL.ts
@@ -211,10 +211,10 @@ http://example.local/KNA-ETVLN.ts
 http://example.local/KNA-ETVLNHD.ts
 #EXTINF:-1 tvg-chno="45910" tvg-name="El Gourmet" tvg-logo="https://zap2it.tmsimg.com/assets/s25553_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="GOURMETN" tvc-guide-stationid="45910",El Gourmet
 http://example.local/KNA-GOURMETN.ts
-#EXTINF:-1 tvg-chno="17725" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s17725_ll_h15_ac.png" group-title="St. Kitts and Nevis" tvg-id="ESPNAR" tvc-guide-stationid="17725",ESPN
-http://example.local/KNA-ESPNAR.ts
 #EXTINF:-1 tvg-chno="10179" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s10179_ll_h15_aa.png" group-title="St. Kitts and Nevis" tvg-id="ESPN" tvc-guide-stationid="10179",ESPN
 http://example.local/KNA-ESPN.ts
+#EXTINF:-1 tvg-chno="17725" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s17725_ll_h15_ac.png" group-title="St. Kitts and Nevis" tvg-id="ESPNAR" tvc-guide-stationid="17725",ESPN
+http://example.local/KNA-ESPNAR.ts
 #EXTINF:-1 tvg-chno="10180" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="St. Kitts and Nevis" tvg-id="ESP2ME" tvc-guide-stationid="10180",ESPN 2
 http://example.local/KNA-ESP2ME.ts
 #EXTINF:-1 tvg-chno="63212" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="St. Kitts and Nevis" tvg-id="ESP2LN" tvc-guide-stationid="63212",ESPN 2
@@ -319,6 +319,10 @@ http://example.local/KNA-HBOFMEH.ts
 http://example.local/KNA-HBOF.ts
 #EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="St. Kitts and Nevis" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
 http://example.local/KNA-HBOFMHD.ts
+#EXTINF:-1 tvg-chno="10241" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="St. Kitts and Nevis" tvg-id="HBOHTS" tvc-guide-stationid="10241",HBO Hits
+http://example.local/KNA-HBOHTS.ts
+#EXTINF:-1 tvg-chno="10242" tvg-name="HBO Hits (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CL6E.png" group-title="St. Kitts and Nevis" tvg-id="HBOHTP" tvc-guide-stationid="10242",HBO Hits (Pacific)
+http://example.local/KNA-HBOHTP.ts
 #EXTINF:-1 tvg-chno="59837" tvg-name="HBO Latino HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_ba.png" group-title="St. Kitts and Nevis" tvg-id="HBOLAHD" tvc-guide-stationid="59837",HBO Latino HD
 http://example.local/KNA-HBOLAHD.ts
 #EXTINF:-1 tvg-chno="70081" tvg-name="HBO Mundi" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png" group-title="St. Kitts and Nevis" tvg-id="MUNMEX" tvc-guide-stationid="70081",HBO Mundi
@@ -407,6 +411,8 @@ http://example.local/KNA-LMN.ts
 http://example.local/KNA-MAGNHD.ts
 #EXTINF:-1 tvg-chno="76969" tvg-name="MISSOURI VS MURRAY STATE" group-title="St. Kitts and Nevis" tvg-id="MIZZOU" tvc-guide-stationid="76969",MISSOURI VS MURRAY STATE
 http://example.local/KNA-MIZZOU.ts
+#EXTINF:-1 tvg-chno="64241" tvg-name="MS NOW HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002H5PTL.png" group-title="St. Kitts and Nevis" tvg-id="MSNOWHD" tvc-guide-stationid="64241",MS NOW HD
+http://example.local/KNA-MSNOWHD.ts
 #EXTINF:-1 tvg-chno="61345" tvg-name="MTM TV" group-title="St. Kitts and Nevis" tvg-id="MTMTV" tvc-guide-stationid="61345",MTM TV
 http://example.local/KNA-MTMTV.ts
 #EXTINF:-1 tvg-chno="41468" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="St. Kitts and Nevis" tvg-id="MTVLA" tvc-guide-stationid="41468",MTV
@@ -799,12 +805,12 @@ http://example.local/KNA-UNIRE.ts
 http://example.local/KNA-UNTVM.ts
 #EXTINF:-1 tvg-chno="68049" tvg-name="Univision Network HD (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="St. Kitts and Nevis" tvg-id="UNIHD" tvc-guide-stationid="68049",Univision Network HD (UNI)
 http://example.local/KNA-UNIHD.ts
+#EXTINF:-1 tvg-chno="58427" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="USALI" tvc-guide-stationid="58427",USA
+http://example.local/KNA-USALI.ts
 #EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/KNA-USALA.ts
 #EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="USALIH" tvc-guide-stationid="101357",USA
 http://example.local/KNA-USALIH.ts
-#EXTINF:-1 tvg-chno="58427" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="St. Kitts and Nevis" tvg-id="USALI" tvc-guide-stationid="58427",USA
-http://example.local/KNA-USALI.ts
 #EXTINF:-1 tvg-chno="11207" tvg-name="USA Network" tvg-logo="https://zap2it.tmsimg.com/assets/s11207_ll_h15_af.png" group-title="St. Kitts and Nevis" tvg-id="USA" tvc-guide-stationid="11207",USA Network
 http://example.local/KNA-USA.ts
 #EXTINF:-1 tvg-chno="16498" tvg-name="Venus" tvg-logo="https://zap2it.tmsimg.com/assets/s16498_ll_h15_aa.png" group-title="St. Kitts and Nevis" tvg-id="VNUS" tvc-guide-stationid="16498",Venus

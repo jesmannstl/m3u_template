@@ -7,10 +7,10 @@ http://example.local/VCT-AETV.ts
 http://example.local/VCT-AEMXHD.ts
 #EXTINF:-1 tvg-chno="55559" tvg-name="Al Jazeera English" tvg-logo="https://zap2it.tmsimg.com/assets/s55559_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="ALJZENG" tvc-guide-stationid="55559",Al Jazeera English
 http://example.local/VCT-ALJZENG.ts
-#EXTINF:-1 tvg-chno="90653" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Saint Vincent and the Grenadines" tvg-id="AMCMEX" tvc-guide-stationid="90653",AMC
-http://example.local/VCT-AMCMEX.ts
 #EXTINF:-1 tvg-chno="10021" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s10021_ll_h15_ab.png" group-title="Saint Vincent and the Grenadines" tvg-id="AMC" tvc-guide-stationid="10021",AMC
 http://example.local/VCT-AMC.ts
+#EXTINF:-1 tvg-chno="90653" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Saint Vincent and the Grenadines" tvg-id="AMCMEX" tvc-guide-stationid="90653",AMC
+http://example.local/VCT-AMCMEX.ts
 #EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Saint Vincent and the Grenadines" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
 http://example.local/VCT-AMCMXHD.ts
 #EXTINF:-1 tvg-chno="18284" tvg-name="American Heroes Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s18284_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="AHC" tvc-guide-stationid="18284",American Heroes Channel
@@ -59,6 +59,8 @@ http://example.local/VCT-CCTV4.ts
 http://example.local/VCT-CINL.ts
 #EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
 http://example.local/VCT-CCL.ts
+#EXTINF:-1 tvg-chno="10121" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png" group-title="Saint Vincent and the Grenadines" tvg-id="CINEHIT" tvc-guide-stationid="10121",Cinemax Hits
+http://example.local/VCT-CINEHIT.ts
 #EXTINF:-1 tvg-chno="61718" tvg-name="CNC3" tvg-logo="https://zap2it.tmsimg.com/assets/s61718_ll_h9_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="CNC3" tvc-guide-stationid="61718",CNC3
 http://example.local/VCT-CNC3.ts
 #EXTINF:-1 tvg-chno="27773" tvg-name="CNN en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png" group-title="Saint Vincent and the Grenadines" tvg-id="CNNEM" tvc-guide-stationid="27773",CNN en Español
@@ -101,10 +103,10 @@ http://example.local/VCT-DWRLDHE.ts
 http://example.local/VCT-DISNL.ts
 #EXTINF:-1 tvg-chno="70506" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Saint Vincent and the Grenadines" tvg-id="DISJMXE" tvc-guide-stationid="70506",Disney Junior
 http://example.local/VCT-DISJMXE.ts
-#EXTINF:-1 tvg-chno="16563" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_ll_h15_ab.png" group-title="Saint Vincent and the Grenadines" tvg-id="DISNXD" tvc-guide-stationid="16563",Disney XD
-http://example.local/VCT-DISNXD.ts
 #EXTINF:-1 tvg-chno="18279" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s18279_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="DXD" tvc-guide-stationid="18279",Disney XD
 http://example.local/VCT-DXD.ts
+#EXTINF:-1 tvg-chno="16563" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_ll_h15_ab.png" group-title="Saint Vincent and the Grenadines" tvg-id="DISNXD" tvc-guide-stationid="16563",Disney XD
+http://example.local/VCT-DISNXD.ts
 #EXTINF:-1 tvg-chno="64230" tvg-name="DW en español" tvg-logo="https://zap2it.tmsimg.com/assets/s64230_ll_h15_ag.png" group-title="Saint Vincent and the Grenadines" tvg-id="DWLA" tvc-guide-stationid="64230",DW en español
 http://example.local/VCT-DWLA.ts
 #EXTINF:-1 tvg-chno="30259" tvg-name="E! Entertainment TV" tvg-logo="https://zap2it.tmsimg.com/assets/s30259_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="ETVLN" tvc-guide-stationid="30259",E! Entertainment TV
@@ -113,10 +115,10 @@ http://example.local/VCT-ETVLN.ts
 http://example.local/VCT-ETVLNHD.ts
 #EXTINF:-1 tvg-chno="45910" tvg-name="El Gourmet" tvg-logo="https://zap2it.tmsimg.com/assets/s25553_ll_h15_ad.png" group-title="Saint Vincent and the Grenadines" tvg-id="GOURMETN" tvc-guide-stationid="45910",El Gourmet
 http://example.local/VCT-GOURMETN.ts
-#EXTINF:-1 tvg-chno="17725" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s17725_ll_h15_ac.png" group-title="Saint Vincent and the Grenadines" tvg-id="ESPNAR" tvc-guide-stationid="17725",ESPN
-http://example.local/VCT-ESPNAR.ts
 #EXTINF:-1 tvg-chno="10179" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s10179_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="ESPN" tvc-guide-stationid="10179",ESPN
 http://example.local/VCT-ESPN.ts
+#EXTINF:-1 tvg-chno="17725" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s17725_ll_h15_ac.png" group-title="Saint Vincent and the Grenadines" tvg-id="ESPNAR" tvc-guide-stationid="17725",ESPN
+http://example.local/VCT-ESPNAR.ts
 #EXTINF:-1 tvg-chno="10180" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Saint Vincent and the Grenadines" tvg-id="ESP2ME" tvc-guide-stationid="10180",ESPN 2
 http://example.local/VCT-ESP2ME.ts
 #EXTINF:-1 tvg-chno="30392" tvg-name="ESPN 5 Centroamérica" tvg-logo="https://zap2it.tmsimg.com/assets/s122027_ll_h15_ab.png" group-title="Saint Vincent and the Grenadines" tvg-id="ESP5CES" tvc-guide-stationid="30392",ESPN 5 Centroamérica
@@ -177,16 +179,20 @@ http://example.local/VCT-GOLDNHD.ts
 http://example.local/VCT-GOLF.ts
 #EXTINF:-1 tvg-chno="100668" tvg-name="H2 History" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_h3_ba.png" group-title="Saint Vincent and the Grenadines" tvg-id="H2LATH" tvc-guide-stationid="100668",H2 History
 http://example.local/VCT-H2LATH.ts
+#EXTINF:-1 tvg-chno="10240" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s10240_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="HBO" tvc-guide-stationid="10240",HBO
+http://example.local/VCT-HBO.ts
 #EXTINF:-1 tvg-chno="57383" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s10240_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="HBOCAR" tvc-guide-stationid="57383",HBO
 http://example.local/VCT-HBOCAR.ts
 #EXTINF:-1 tvg-chno="96533" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s19548_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="HBOCARH" tvc-guide-stationid="96533",HBO
 http://example.local/VCT-HBOCARH.ts
-#EXTINF:-1 tvg-chno="10240" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s10240_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="HBO" tvc-guide-stationid="10240",HBO
-http://example.local/VCT-HBO.ts
 #EXTINF:-1 tvg-chno="16585" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="HBOF" tvc-guide-stationid="16585",HBO Family
 http://example.local/VCT-HBOF.ts
 #EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Saint Vincent and the Grenadines" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
 http://example.local/VCT-HBOFMHD.ts
+#EXTINF:-1 tvg-chno="10241" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="Saint Vincent and the Grenadines" tvg-id="HBOHTS" tvc-guide-stationid="10241",HBO Hits
+http://example.local/VCT-HBOHTS.ts
+#EXTINF:-1 tvg-chno="10242" tvg-name="HBO Hits (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CL6E.png" group-title="Saint Vincent and the Grenadines" tvg-id="HBOHTP" tvc-guide-stationid="10242",HBO Hits (Pacific)
+http://example.local/VCT-HBOHTP.ts
 #EXTINF:-1 tvg-chno="59837" tvg-name="HBO Latino HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_ba.png" group-title="Saint Vincent and the Grenadines" tvg-id="HBOLAHD" tvc-guide-stationid="59837",HBO Latino HD
 http://example.local/VCT-HBOLAHD.ts
 #EXTINF:-1 tvg-chno="70081" tvg-name="HBO Mundi" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png" group-title="Saint Vincent and the Grenadines" tvg-id="MUNMEX" tvc-guide-stationid="70081",HBO Mundi
@@ -281,10 +287,10 @@ http://example.local/VCT-PLAYL.ts
 http://example.local/VCT-RCARA.ts
 #EXTINF:-1 tvg-chno="75906" tvg-name="RFI" group-title="Saint Vincent and the Grenadines" tvg-id="RFIRAD" tvc-guide-stationid="75906",RFI
 http://example.local/VCT-RFIRAD.ts
-#EXTINF:-1 tvg-chno="69490" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="SPACEEH" tvc-guide-stationid="69490",Space
-http://example.local/VCT-SPACEEH.ts
 #EXTINF:-1 tvg-chno="70351" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="SPACES" tvc-guide-stationid="70351",Space
 http://example.local/VCT-SPACES.ts
+#EXTINF:-1 tvg-chno="69490" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="SPACEEH" tvc-guide-stationid="69490",Space
+http://example.local/VCT-SPACEEH.ts
 #EXTINF:-1 tvg-chno="82672" tvg-name="SportsMax 2" tvg-logo="https://zap2it.tmsimg.com/assets/s82672_ll_h15_ac.png" group-title="Saint Vincent and the Grenadines" tvg-id="SPMAX2" tvc-guide-stationid="82672",SportsMax 2
 http://example.local/VCT-SPMAX2.ts
 #EXTINF:-1 tvg-chno="99405" tvg-name="SportsMax 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s82672_ll_h15_ac.png" group-title="Saint Vincent and the Grenadines" tvg-id="SPMX2HD" tvc-guide-stationid="99405",SportsMax 2 HD
@@ -397,12 +403,12 @@ http://example.local/VCT-SMUS43.ts
 http://example.local/VCT-TLCLASP.ts
 #EXTINF:-1 tvg-chno="37232" tvg-name="TLNovelas" tvg-logo="https://zap2it.tmsimg.com/assets/s37232_ll_h15_ab.png" group-title="Saint Vincent and the Grenadines" tvg-id="TLNOVEL" tvc-guide-stationid="37232",TLNovelas
 http://example.local/VCT-TLNOVEL.ts
+#EXTINF:-1 tvg-chno="11164" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s11164_h3_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="TNT" tvc-guide-stationid="11164",TNT
+http://example.local/VCT-TNT.ts
 #EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Saint Vincent and the Grenadines" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
 http://example.local/VCT-TNTLC.ts
 #EXTINF:-1 tvg-chno="106062" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="TNTLCHH" tvc-guide-stationid="106062",TNT
 http://example.local/VCT-TNTLCHH.ts
-#EXTINF:-1 tvg-chno="11164" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s11164_h3_aa.png" group-title="Saint Vincent and the Grenadines" tvg-id="TNT" tvc-guide-stationid="11164",TNT
-http://example.local/VCT-TNT.ts
 #EXTINF:-1 tvg-chno="92090" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_ll_h15_ab.png" group-title="Saint Vincent and the Grenadines" tvg-id="TNTSRS" tvc-guide-stationid="92090",TNT Series
 http://example.local/VCT-TNTSRS.ts
 #EXTINF:-1 tvg-chno="106709" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_ll_h15_ab.png" group-title="Saint Vincent and the Grenadines" tvg-id="TNTSERH" tvc-guide-stationid="106709",TNT Series

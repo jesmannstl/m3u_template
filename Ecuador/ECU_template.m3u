@@ -17,6 +17,8 @@ http://example.local/ECU-ALLTVK.ts
 http://example.local/ECU-AMCMEX.ts
 #EXTINF:-1 tvg-chno="90852" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Ecuador" tvg-id="AMCMXHD" tvc-guide-stationid="90852",AMC
 http://example.local/ECU-AMCMXHD.ts
+#EXTINF:-1 tvg-chno="17457" tvg-name="AMC Series" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002GM3XT.png" group-title="Ecuador" tvg-id="AMCSRS" tvc-guide-stationid="17457",AMC Series
+http://example.local/ECU-AMCSRS.ts
 #EXTINF:-1 tvg-chno="87857" tvg-name="Americavisión" tvg-logo="https://zap2it.tmsimg.com/assets/s87857_ll_h15_aa.png" group-title="Ecuador" tvg-id="AMERVI" tvc-guide-stationid="87857",Americavisión
 http://example.local/ECU-AMERVI.ts
 #EXTINF:-1 tvg-chno="18649" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Ecuador" tvg-id="ANIPL" tvc-guide-stationid="18649",Animal Planet
@@ -131,14 +133,14 @@ http://example.local/ECU-EXITO70.ts
 http://example.local/ECU-EXITO80.ts
 #EXTINF:-1 tvg-chno="41078" tvg-name="Audio DLA Éxitos de los 90" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png" group-title="Ecuador" tvg-id="EXITO90" tvc-guide-stationid="41078",Audio DLA Éxitos de los 90
 http://example.local/ECU-EXITO90.ts
-#EXTINF:-1 tvg-chno="26083" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s17484_ll_h15_ab.png" group-title="Ecuador" tvg-id="AXNARG" tvc-guide-stationid="26083",AXN
-http://example.local/ECU-AXNARG.ts
-#EXTINF:-1 tvg-chno="72534" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s72534_ll_h15_ab.png" group-title="Ecuador" tvg-id="AXNHD" tvc-guide-stationid="72534",AXN
-http://example.local/ECU-AXNHD.ts
-#EXTINF:-1 tvg-chno="75359" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s72534_ll_h15_ab.png" group-title="Ecuador" tvg-id="AXNLAHD" tvc-guide-stationid="75359",AXN
-http://example.local/ECU-AXNLAHD.ts
 #EXTINF:-1 tvg-chno="17484" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s17484_ll_h15_ab.png" group-title="Ecuador" tvg-id="AXNL" tvc-guide-stationid="17484",AXN
 http://example.local/ECU-AXNL.ts
+#EXTINF:-1 tvg-chno="72534" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s72534_ll_h15_ab.png" group-title="Ecuador" tvg-id="AXNHD" tvc-guide-stationid="72534",AXN
+http://example.local/ECU-AXNHD.ts
+#EXTINF:-1 tvg-chno="26083" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s17484_ll_h15_ab.png" group-title="Ecuador" tvg-id="AXNARG" tvc-guide-stationid="26083",AXN
+http://example.local/ECU-AXNARG.ts
+#EXTINF:-1 tvg-chno="75359" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s72534_ll_h15_ab.png" group-title="Ecuador" tvg-id="AXNLAHD" tvc-guide-stationid="75359",AXN
+http://example.local/ECU-AXNLAHD.ts
 #EXTINF:-1 tvg-chno="56036" tvg-name="Baby Tv" tvg-logo="https://zap2it.tmsimg.com/assets/s56036_ll_h15_ab.png" group-title="Ecuador" tvg-id="BABYTVL" tvc-guide-stationid="56036",Baby Tv
 http://example.local/ECU-BABYTVL.ts
 #EXTINF:-1 tvg-chno="70575" tvg-name="Bang TV" tvg-logo="https://zap2it.tmsimg.com/assets/s70575_h3_ba.png" group-title="Ecuador" tvg-id="BANGTV" tvc-guide-stationid="70575",Bang TV
@@ -181,10 +183,10 @@ http://example.local/ECU-RCNTEL.ts
 http://example.local/ECU-SETLPE.ts
 #EXTINF:-1 tvg-chno="71721" tvg-name="Canal Sony" tvg-logo="https://zap2it.tmsimg.com/assets/s71721_ll_h15_aa.png" group-title="Ecuador" tvg-id="SETLVHD" tvc-guide-stationid="71721",Canal Sony
 http://example.local/ECU-SETLVHD.ts
-#EXTINF:-1 tvg-chno="70312" tvg-name="Canal Sony" tvg-logo="https://zap2it.tmsimg.com/assets/s70312_ll_h15_ab.png" group-title="Ecuador" tvg-id="SETLCHD" tvc-guide-stationid="70312",Canal Sony
-http://example.local/ECU-SETLCHD.ts
 #EXTINF:-1 tvg-chno="19385" tvg-name="Canal Sony" tvg-logo="https://zap2it.tmsimg.com/assets/s19385_ll_h15_ac.png" group-title="Ecuador" tvg-id="SETLC" tvc-guide-stationid="19385",Canal Sony
 http://example.local/ECU-SETLC.ts
+#EXTINF:-1 tvg-chno="70312" tvg-name="Canal Sony" tvg-logo="https://zap2it.tmsimg.com/assets/s70312_ll_h15_ab.png" group-title="Ecuador" tvg-id="SETLCHD" tvc-guide-stationid="70312",Canal Sony
+http://example.local/ECU-SETLCHD.ts
 #EXTINF:-1 tvg-chno="61373" tvg-name="Canal Uno" tvg-logo="https://zap2it.tmsimg.com/assets/s61373_ll_h15_ab.png" group-title="Ecuador" tvg-id="UNOGUAY" tvc-guide-stationid="61373",Canal Uno
 http://example.local/ECU-UNOGUAY.ts
 #EXTINF:-1 tvg-chno="82166" tvg-name="Capital TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82166_ll_h6_aa.png" group-title="Ecuador" tvg-id="CAPTV" tvc-guide-stationid="82166",Capital TV
@@ -195,10 +197,10 @@ http://example.local/ECU-CARAI.ts
 http://example.local/ECU-CARA.ts
 #EXTINF:-1 tvg-chno="16141" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Ecuador" tvg-id="TOONL" tvc-guide-stationid="16141",Cartoon Network
 http://example.local/ECU-TOONL.ts
-#EXTINF:-1 tvg-chno="19458" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Ecuador" tvg-id="TOONLS" tvc-guide-stationid="19458",Cartoon Network
-http://example.local/ECU-TOONLS.ts
 #EXTINF:-1 tvg-chno="101735" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Ecuador" tvg-id="TOONLHD" tvc-guide-stationid="101735",Cartoon Network
 http://example.local/ECU-TOONLHD.ts
+#EXTINF:-1 tvg-chno="19458" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Ecuador" tvg-id="TOONLS" tvc-guide-stationid="19458",Cartoon Network
+http://example.local/ECU-TOONLS.ts
 #EXTINF:-1 tvg-chno="26089" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Ecuador" tvg-id="CARTOA" tvc-guide-stationid="26089",Cartoonito
 http://example.local/ECU-CARTOA.ts
 #EXTINF:-1 tvg-chno="60755" tvg-name="Cbeebies TV" tvg-logo="https://zap2it.tmsimg.com/assets/s60755_ll_h15_aa.png" group-title="Ecuador" tvg-id="CBEETV" tvc-guide-stationid="60755",Cbeebies TV
@@ -209,12 +211,12 @@ http://example.local/ECU-CCTV4.ts
 http://example.local/ECU-CINEPLH.ts
 #EXTINF:-1 tvg-chno="15296" tvg-name="Cine Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s15296_ll_h9_ab.png" group-title="Ecuador" tvg-id="CINL" tvc-guide-stationid="15296",Cine Latino
 http://example.local/ECU-CINL.ts
-#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Ecuador" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
-http://example.local/ECU-CCL.ts
 #EXTINF:-1 tvg-chno="104908" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Ecuador" tvg-id="CCANAL" tvc-guide-stationid="104908",Cinecanal
 http://example.local/ECU-CCANAL.ts
 #EXTINF:-1 tvg-chno="105851" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Ecuador" tvg-id="CANALHD" tvc-guide-stationid="105851",Cinecanal
 http://example.local/ECU-CANALHD.ts
+#EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Ecuador" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
+http://example.local/ECU-CCL.ts
 #EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Ecuador" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
 http://example.local/ECU-CCLHD.ts
 #EXTINF:-1 tvg-chno="64240" tvg-name="Cinema Plus" group-title="Ecuador" tvg-id="CINPLS" tvc-guide-stationid="64240",Cinema Plus
@@ -269,18 +271,18 @@ http://example.local/ECU-SPOEQ.ts
 http://example.local/ECU-DT2SPT.ts
 #EXTINF:-1 tvg-chno="25788" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="Ecuador" tvg-id="DISCCH" tvc-guide-stationid="25788",Discovery Channel
 http://example.local/ECU-DISCCH.ts
-#EXTINF:-1 tvg-chno="54195" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="Ecuador" tvg-id="TDCLA" tvc-guide-stationid="54195",Discovery Channel
-http://example.local/ECU-TDCLA.ts
 #EXTINF:-1 tvg-chno="15798" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="Ecuador" tvg-id="TDCL" tvc-guide-stationid="15798",Discovery Channel
 http://example.local/ECU-TDCL.ts
+#EXTINF:-1 tvg-chno="54195" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="Ecuador" tvg-id="TDCLA" tvc-guide-stationid="54195",Discovery Channel
+http://example.local/ECU-TDCLA.ts
 #EXTINF:-1 tvg-chno="16618" tvg-name="Discovery Family Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16618_ll_h15_ab.png" group-title="Ecuador" tvg-id="DFC" tvc-guide-stationid="16618",Discovery Family Channel
 http://example.local/ECU-DFC.ts
 #EXTINF:-1 tvg-chno="59582" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_ll_h15_ae.png" group-title="Ecuador" tvg-id="DHEALM" tvc-guide-stationid="59582",Discovery Home & Health
 http://example.local/ECU-DHEALM.ts
-#EXTINF:-1 tvg-chno="24424" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_ll_h15_ae.png" group-title="Ecuador" tvg-id="DHEAL" tvc-guide-stationid="24424",Discovery Home & Health
-http://example.local/ECU-DHEAL.ts
 #EXTINF:-1 tvg-chno="91959" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s97571_h3_aa.png" group-title="Ecuador" tvg-id="DHEALHE" tvc-guide-stationid="91959",Discovery Home & Health
 http://example.local/ECU-DHEALHE.ts
+#EXTINF:-1 tvg-chno="24424" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_ll_h15_ae.png" group-title="Ecuador" tvg-id="DHEAL" tvc-guide-stationid="24424",Discovery Home & Health
+http://example.local/ECU-DHEAL.ts
 #EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_h3_aa.png" group-title="Ecuador" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
 http://example.local/ECU-DKNLM.ts
 #EXTINF:-1 tvg-chno="16680" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Ecuador" tvg-id="DKNL" tvc-guide-stationid="16680",Discovery Kids
@@ -291,32 +293,32 @@ http://example.local/ECU-DKNLHD.ts
 http://example.local/ECU-DSCIENL.ts
 #EXTINF:-1 tvg-chno="75835" tvg-name="Discovery Theater" tvg-logo="https://zap2it.tmsimg.com/assets/s75835_ll_h15_ab.png" group-title="Ecuador" tvg-id="DISCHD" tvc-guide-stationid="75835",Discovery Theater
 http://example.local/ECU-DISCHD.ts
-#EXTINF:-1 tvg-chno="65940" tvg-name="Discovery Theater HD" tvg-logo="https://zap2it.tmsimg.com/assets/s65940_ll_h15_ab.png" group-title="Ecuador" tvg-id="DTHLAHD" tvc-guide-stationid="65940",Discovery Theater HD
-http://example.local/ECU-DTHLAHD.ts
 #EXTINF:-1 tvg-chno="65301" tvg-name="Discovery Theater HD" tvg-logo="https://zap2it.tmsimg.com/assets/s65940_ll_h15_ab.png" group-title="Ecuador" tvg-id="DTHLIHD" tvc-guide-stationid="65301",Discovery Theater HD
 http://example.local/ECU-DTHLIHD.ts
+#EXTINF:-1 tvg-chno="65940" tvg-name="Discovery Theater HD" tvg-logo="https://zap2it.tmsimg.com/assets/s65940_ll_h15_ab.png" group-title="Ecuador" tvg-id="DTHLAHD" tvc-guide-stationid="65940",Discovery Theater HD
+http://example.local/ECU-DTHLAHD.ts
 #EXTINF:-1 tvg-chno="46608" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="Ecuador" tvg-id="DTURBOL" tvc-guide-stationid="46608",Discovery Turbo
 http://example.local/ECU-DTURBOL.ts
 #EXTINF:-1 tvg-chno="66488" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png" group-title="Ecuador" tvg-id="DWRLDHD" tvc-guide-stationid="66488",Discovery World
 http://example.local/ECU-DWRLDHD.ts
-#EXTINF:-1 tvg-chno="19234" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s19234_ll_h15_ab.png" group-title="Ecuador" tvg-id="DISNL" tvc-guide-stationid="19234",Disney Channel
-http://example.local/ECU-DISNL.ts
-#EXTINF:-1 tvg-chno="61801" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s41223_ll_h15_aa.png" group-title="Ecuador" tvg-id="DISNLCH" tvc-guide-stationid="61801",Disney Channel
-http://example.local/ECU-DISNLCH.ts
 #EXTINF:-1 tvg-chno="41223" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s41223_ll_h15_aa.png" group-title="Ecuador" tvg-id="DISNLS" tvc-guide-stationid="41223",Disney Channel
 http://example.local/ECU-DISNLS.ts
-#EXTINF:-1 tvg-chno="61311" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Ecuador" tvg-id="DISNJMX" tvc-guide-stationid="61311",Disney Junior
-http://example.local/ECU-DISNJMX.ts
+#EXTINF:-1 tvg-chno="61801" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s41223_ll_h15_aa.png" group-title="Ecuador" tvg-id="DISNLCH" tvc-guide-stationid="61801",Disney Channel
+http://example.local/ECU-DISNLCH.ts
+#EXTINF:-1 tvg-chno="19234" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s19234_ll_h15_ab.png" group-title="Ecuador" tvg-id="DISNL" tvc-guide-stationid="19234",Disney Channel
+http://example.local/ECU-DISNL.ts
 #EXTINF:-1 tvg-chno="60506" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Ecuador" tvg-id="DISNJS" tvc-guide-stationid="60506",Disney Junior
 http://example.local/ECU-DISNJS.ts
 #EXTINF:-1 tvg-chno="114439" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Ecuador" tvg-id="DISJMXH" tvc-guide-stationid="114439",Disney Junior
 http://example.local/ECU-DISJMXH.ts
-#EXTINF:-1 tvg-chno="16563" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_ll_h15_ab.png" group-title="Ecuador" tvg-id="DISNXD" tvc-guide-stationid="16563",Disney XD
-http://example.local/ECU-DISNXD.ts
-#EXTINF:-1 tvg-chno="54930" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_ll_h15_ab.png" group-title="Ecuador" tvg-id="DISNXMU" tvc-guide-stationid="54930",Disney XD
-http://example.local/ECU-DISNXMU.ts
+#EXTINF:-1 tvg-chno="61311" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Ecuador" tvg-id="DISNJMX" tvc-guide-stationid="61311",Disney Junior
+http://example.local/ECU-DISNJMX.ts
 #EXTINF:-1 tvg-chno="21458" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_ll_h15_ab.png" group-title="Ecuador" tvg-id="DISNXDA" tvc-guide-stationid="21458",Disney XD
 http://example.local/ECU-DISNXDA.ts
+#EXTINF:-1 tvg-chno="54930" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_ll_h15_ab.png" group-title="Ecuador" tvg-id="DISNXMU" tvc-guide-stationid="54930",Disney XD
+http://example.local/ECU-DISNXMU.ts
+#EXTINF:-1 tvg-chno="16563" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_ll_h15_ab.png" group-title="Ecuador" tvg-id="DISNXD" tvc-guide-stationid="16563",Disney XD
+http://example.local/ECU-DISNXD.ts
 #EXTINF:-1 tvg-chno="50414" tvg-name="DMX Adult Contemporary Holiday" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_h3_aa.png" group-title="Ecuador" tvg-id="ADCOHOL" tvc-guide-stationid="50414",DMX Adult Contemporary Holiday
 http://example.local/ECU-ADCOHOL.ts
 #EXTINF:-1 tvg-chno="19680" tvg-name="DMX: Alternative" tvg-logo="https://zap2it.tmsimg.com/assets/s19680_ll_h9_aa.png" group-title="Ecuador" tvg-id="ALTERN" tvc-guide-stationid="19680",DMX: Alternative
@@ -353,10 +355,10 @@ http://example.local/ECU-DWEUR.ts
 http://example.local/ECU-DWLA.ts
 #EXTINF:-1 tvg-chno="16237" tvg-name="E! Entertainment Television" tvg-logo="https://zap2it.tmsimg.com/assets/s30259_ll_h15_aa.png" group-title="Ecuador" tvg-id="ETVL" tvc-guide-stationid="16237",E! Entertainment Television
 http://example.local/ECU-ETVL.ts
-#EXTINF:-1 tvg-chno="30259" tvg-name="E! Entertainment TV" tvg-logo="https://zap2it.tmsimg.com/assets/s30259_ll_h15_aa.png" group-title="Ecuador" tvg-id="ETVLN" tvc-guide-stationid="30259",E! Entertainment TV
-http://example.local/ECU-ETVLN.ts
 #EXTINF:-1 tvg-chno="101734" tvg-name="E! Entertainment TV" tvg-logo="https://zap2it.tmsimg.com/assets/s30259_h3_ba.png" group-title="Ecuador" tvg-id="ETVLNHD" tvc-guide-stationid="101734",E! Entertainment TV
 http://example.local/ECU-ETVLNHD.ts
+#EXTINF:-1 tvg-chno="30259" tvg-name="E! Entertainment TV" tvg-logo="https://zap2it.tmsimg.com/assets/s30259_ll_h15_aa.png" group-title="Ecuador" tvg-id="ETVLN" tvc-guide-stationid="30259",E! Entertainment TV
+http://example.local/ECU-ETVLN.ts
 #EXTINF:-1 tvg-chno="60346" tvg-name="Ecuador TV" tvg-logo="https://zap2it.tmsimg.com/assets/s60346_ll_h15_aa.png" group-title="Ecuador" tvg-id="ECUTV" tvc-guide-stationid="60346",Ecuador TV
 http://example.local/ECU-ECUTV.ts
 #EXTINF:-1 tvg-chno="50233" tvg-name="EcuaTV" tvg-logo="https://zap2it.tmsimg.com/assets/s50233_ll_h15_ac.png" group-title="Ecuador" tvg-id="ECUATV" tvc-guide-stationid="50233",EcuaTV
@@ -383,34 +385,34 @@ http://example.local/ECU-TREINT.ts
 http://example.local/ECU-ENCU.ts
 #EXTINF:-1 tvg-chno="20286" tvg-name="ENLACE TV" tvg-logo="https://zap2it.tmsimg.com/assets/s20286_h3_ba.png" group-title="Ecuador" tvg-id="ENLACE" tvc-guide-stationid="20286",ENLACE TV
 http://example.local/ECU-ENLACE.ts
-#EXTINF:-1 tvg-chno="63385" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s17725_ll_h15_ac.png" group-title="Ecuador" tvg-id="ESP2CO" tvc-guide-stationid="63385",ESPN
-http://example.local/ECU-ESP2CO.ts
 #EXTINF:-1 tvg-chno="17725" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s17725_ll_h15_ac.png" group-title="Ecuador" tvg-id="ESPNAR" tvc-guide-stationid="17725",ESPN
 http://example.local/ECU-ESPNAR.ts
+#EXTINF:-1 tvg-chno="63385" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s17725_ll_h15_ac.png" group-title="Ecuador" tvg-id="ESP2CO" tvc-guide-stationid="63385",ESPN
+http://example.local/ECU-ESP2CO.ts
 #EXTINF:-1 tvg-chno="10180" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Ecuador" tvg-id="ESP2ME" tvc-guide-stationid="10180",ESPN 2
 http://example.local/ECU-ESP2ME.ts
-#EXTINF:-1 tvg-chno="96876" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Ecuador" tvg-id="ESPN2MH" tvc-guide-stationid="96876",ESPN 2
-http://example.local/ECU-ESPN2MH.ts
 #EXTINF:-1 tvg-chno="55836" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Ecuador" tvg-id="E2LSAH" tvc-guide-stationid="55836",ESPN 2
 http://example.local/ECU-E2LSAH.ts
 #EXTINF:-1 tvg-chno="67546" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Ecuador" tvg-id="ESP2MEH" tvc-guide-stationid="67546",ESPN 2
 http://example.local/ECU-ESP2MEH.ts
+#EXTINF:-1 tvg-chno="96876" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Ecuador" tvg-id="ESPN2MH" tvc-guide-stationid="96876",ESPN 2
+http://example.local/ECU-ESPN2MH.ts
 #EXTINF:-1 tvg-chno="75585" tvg-name="ESPN 3" tvg-logo="https://zap2it.tmsimg.com/assets/s75585_ll_h15_ac.png" group-title="Ecuador" tvg-id="ESPN3BH" tvc-guide-stationid="75585",ESPN 3
 http://example.local/ECU-ESPN3BH.ts
+#EXTINF:-1 tvg-chno="125748" tvg-name="ESPN 4" tvg-logo="https://zap2it.tmsimg.com/assets/s65930_ll_h15_ae.png" group-title="Ecuador" tvg-id="ESP4SUS" tvc-guide-stationid="125748",ESPN 4
+http://example.local/ECU-ESP4SUS.ts
 #EXTINF:-1 tvg-chno="65930" tvg-name="ESPN 4 México" tvg-logo="https://zap2it.tmsimg.com/assets/s65930_ll_h15_ae.png" group-title="Ecuador" tvg-id="ESP4MXH" tvc-guide-stationid="65930",ESPN 4 México
 http://example.local/ECU-ESP4MXH.ts
-#EXTINF:-1 tvg-chno="125748" tvg-name="ESPN 4 Sur" tvg-logo="https://zap2it.tmsimg.com/assets/s65930_ll_h15_ae.png" group-title="Ecuador" tvg-id="ESP4SUS" tvc-guide-stationid="125748",ESPN 4 Sur
-http://example.local/ECU-ESP4SUS.ts
 #EXTINF:-1 tvg-chno="90856" tvg-name="ESPN 5" tvg-logo="https://zap2it.tmsimg.com/assets/s90856_ll_h15_ac.png" group-title="Ecuador" tvg-id="ESPN5SD" tvc-guide-stationid="90856",ESPN 5
 http://example.local/ECU-ESPN5SD.ts
 #EXTINF:-1 tvg-chno="86787" tvg-name="ESPN 5" tvg-logo="https://zap2it.tmsimg.com/assets/s86787_ll_h15_ac.png" group-title="Ecuador" tvg-id="ESPN5B" tvc-guide-stationid="86787",ESPN 5
 http://example.local/ECU-ESPN5B.ts
 #EXTINF:-1 tvg-chno="30392" tvg-name="ESPN 5 Centroamérica" tvg-logo="https://zap2it.tmsimg.com/assets/s122027_ll_h15_ab.png" group-title="Ecuador" tvg-id="ESP5CES" tvc-guide-stationid="30392",ESPN 5 Centroamérica
 http://example.local/ECU-ESP5CES.ts
-#EXTINF:-1 tvg-chno="47374" tvg-name="ESPN 6" tvg-logo="https://zap2it.tmsimg.com/assets/s47374_ll_h15_ad.png" group-title="Ecuador" tvg-id="ESPN6SS" tvc-guide-stationid="47374",ESPN 6
-http://example.local/ECU-ESPN6SS.ts
 #EXTINF:-1 tvg-chno="124752" tvg-name="ESPN 6" tvg-logo="https://zap2it.tmsimg.com/assets/s124752_ll_h15_ab.png" group-title="Ecuador" tvg-id="ESPN6SD" tvc-guide-stationid="124752",ESPN 6
 http://example.local/ECU-ESPN6SD.ts
+#EXTINF:-1 tvg-chno="47374" tvg-name="ESPN 6" tvg-logo="https://zap2it.tmsimg.com/assets/s47374_ll_h15_ad.png" group-title="Ecuador" tvg-id="ESPN6SS" tvc-guide-stationid="47374",ESPN 6
+http://example.local/ECU-ESPN6SS.ts
 #EXTINF:-1 tvg-chno="73935" tvg-name="ESPN 7" tvg-logo="https://zap2it.tmsimg.com/assets/s73935_ll_h15_ac.png" group-title="Ecuador" tvg-id="ESPN7SS" tvc-guide-stationid="73935",ESPN 7
 http://example.local/ECU-ESPN7SS.ts
 #EXTINF:-1 tvg-chno="91513" tvg-name="ESPN 7" tvg-logo="https://zap2it.tmsimg.com/assets/s91513_ll_h15_aa.png" group-title="Ecuador" tvg-id="ESPN7SH" tvc-guide-stationid="91513",ESPN 7
@@ -425,16 +427,16 @@ http://example.local/ECU-ESPN3.ts
 http://example.local/ECU-ESPN3HD.ts
 #EXTINF:-1 tvg-chno="82432" tvg-name="Euronews" tvg-logo="https://zap2it.tmsimg.com/assets/s82432_ll_h15_aa.png" group-title="Ecuador" tvg-id="EUNEWS" tvc-guide-stationid="82432",Euronews
 http://example.local/ECU-EUNEWS.ts
-#EXTINF:-1 tvg-chno="27741" tvg-name="Europa Europa" tvg-logo="https://zap2it.tmsimg.com/assets/s27741_ll_h15_aa.png" group-title="Ecuador" tvg-id="EUROPA" tvc-guide-stationid="27741",Europa Europa
-http://example.local/ECU-EUROPA.ts
 #EXTINF:-1 tvg-chno="99979" tvg-name="Europa Europa" tvg-logo="https://zap2it.tmsimg.com/assets/s27741_ll_h15_aa.png" group-title="Ecuador" tvg-id="EUROPHD" tvc-guide-stationid="99979",Europa Europa
 http://example.local/ECU-EUROPHD.ts
+#EXTINF:-1 tvg-chno="27741" tvg-name="Europa Europa" tvg-logo="https://zap2it.tmsimg.com/assets/s27741_ll_h15_aa.png" group-title="Ecuador" tvg-id="EUROPA" tvc-guide-stationid="27741",Europa Europa
+http://example.local/ECU-EUROPA.ts
 #EXTINF:-1 tvg-chno="16350" tvg-name="EWTN Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16350_ll_h9_ab.png" group-title="Ecuador" tvg-id="EWTNL" tvc-guide-stationid="16350",EWTN Latin America
 http://example.local/ECU-EWTNL.ts
-#EXTINF:-1 tvg-chno="88305" tvg-name="Film & Arts" tvg-logo="https://zap2it.tmsimg.com/assets/s87687_ll_h15_aa.png" group-title="Ecuador" tvg-id="FABMEX" tvc-guide-stationid="88305",Film & Arts
-http://example.local/ECU-FABMEX.ts
 #EXTINF:-1 tvg-chno="16215" tvg-name="Film & Arts" tvg-logo="https://zap2it.tmsimg.com/assets/s87687_ll_h15_aa.png" group-title="Ecuador" tvg-id="FABL" tvc-guide-stationid="16215",Film & Arts
 http://example.local/ECU-FABL.ts
+#EXTINF:-1 tvg-chno="88305" tvg-name="Film & Arts" tvg-logo="https://zap2it.tmsimg.com/assets/s87687_ll_h15_aa.png" group-title="Ecuador" tvg-id="FABMEX" tvc-guide-stationid="88305",Film & Arts
+http://example.local/ECU-FABMEX.ts
 #EXTINF:-1 tvg-chno="18262" tvg-name="FM" tvg-logo="https://zap2it.tmsimg.com/assets/s18262_ll_h15_ac.png" group-title="Ecuador" tvg-id="FM" tvc-guide-stationid="18262",FM
 http://example.local/ECU-FM.ts
 #EXTINF:-1 tvg-chno="91919" tvg-name="Food Network" tvg-logo="https://zap2it.tmsimg.com/assets/s91919_ll_h15_aa.png" group-title="Ecuador" tvg-id="FOODLA" tvc-guide-stationid="91919",Food Network
@@ -445,36 +447,36 @@ http://example.local/ECU-FODAMCO.ts
 http://example.local/ECU-FNC.ts
 #EXTINF:-1 tvg-chno="60179" tvg-name="Fox News Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60179_ll_h15_ab.png" group-title="Ecuador" tvg-id="FNCHD" tvc-guide-stationid="60179",Fox News Channel HD
 http://example.local/ECU-FNCHD.ts
-#EXTINF:-1 tvg-chno="30191" tvg-name="FOX SPORTS" tvg-logo="https://zap2it.tmsimg.com/assets/s41677_ll_h15_ac.png" group-title="Ecuador" tvg-id="FSAR" tvc-guide-stationid="30191",FOX SPORTS
-http://example.local/ECU-FSAR.ts
 #EXTINF:-1 tvg-chno="68952" tvg-name="FOX SPORTS" group-title="Ecuador" tvg-id="FSARH" tvc-guide-stationid="68952",FOX SPORTS
 http://example.local/ECU-FSARH.ts
+#EXTINF:-1 tvg-chno="30191" tvg-name="FOX SPORTS" tvg-logo="https://zap2it.tmsimg.com/assets/s41677_ll_h15_ac.png" group-title="Ecuador" tvg-id="FSAR" tvc-guide-stationid="30191",FOX SPORTS
+http://example.local/ECU-FSAR.ts
 #EXTINF:-1 tvg-chno="30262" tvg-name="FOX Sports (Cono Sur Argentina)" tvg-logo="https://zap2it.tmsimg.com/assets/s41677_ll_h15_ac.png" group-title="Ecuador" tvg-id="FSALA" tvc-guide-stationid="30262",FOX Sports (Cono Sur Argentina)
 http://example.local/ECU-FSALA.ts
 #EXTINF:-1 tvg-chno="66365" tvg-name="Fox Sports 2" tvg-logo="https://zap2it.tmsimg.com/assets/s66365_ll_h15_ab.png" group-title="Ecuador" tvg-id="FOXS2" tvc-guide-stationid="66365",Fox Sports 2
 http://example.local/ECU-FOXS2.ts
 #EXTINF:-1 tvg-chno="59307" tvg-name="Fox Sports Latin America HD (inactive)" tvg-logo="https://zap2it.tmsimg.com/assets/s59307_ll_h15_aa.png" group-title="Ecuador" tvg-id="FSLAHD" tvc-guide-stationid="59307",Fox Sports Latin America HD (inactive)
 http://example.local/ECU-FSLAHD.ts
-#EXTINF:-1 tvg-chno="46442" tvg-name="FX" tvg-logo="https://zap2it.tmsimg.com/assets/s46442_ll_h15_aa.png" group-title="Ecuador" tvg-id="FXL" tvc-guide-stationid="46442",FX
-http://example.local/ECU-FXL.ts
 #EXTINF:-1 tvg-chno="77617" tvg-name="FX" tvg-logo="https://zap2it.tmsimg.com/assets/s105689_ll_h15_aa.png" group-title="Ecuador" tvg-id="FXLHD" tvc-guide-stationid="77617",FX
 http://example.local/ECU-FXLHD.ts
+#EXTINF:-1 tvg-chno="46442" tvg-name="FX" tvg-logo="https://zap2it.tmsimg.com/assets/s46442_ll_h15_aa.png" group-title="Ecuador" tvg-id="FXL" tvc-guide-stationid="46442",FX
+http://example.local/ECU-FXL.ts
 #EXTINF:-1 tvg-chno="78807" tvg-name="FX LATIN AMERICA (Central Feed)" tvg-logo="https://zap2it.tmsimg.com/assets/s46442_ll_h15_aa.png" group-title="Ecuador" tvg-id="FXLCEN" tvc-guide-stationid="78807",FX LATIN AMERICA (Central Feed)
 http://example.local/ECU-FXLCEN.ts
-#EXTINF:-1 tvg-chno="19787" tvg-name="FX Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s25069_ll_h15_ac.png" group-title="Ecuador" tvg-id="FXMO" tvc-guide-stationid="19787",FX Movies
-http://example.local/ECU-FXMO.ts
 #EXTINF:-1 tvg-chno="25069" tvg-name="FX Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s25069_ll_h15_ac.png" group-title="Ecuador" tvg-id="FXMES" tvc-guide-stationid="25069",FX Movies
 http://example.local/ECU-FXMES.ts
+#EXTINF:-1 tvg-chno="19787" tvg-name="FX Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s25069_ll_h15_ac.png" group-title="Ecuador" tvg-id="FXMO" tvc-guide-stationid="19787",FX Movies
+http://example.local/ECU-FXMO.ts
 #EXTINF:-1 tvg-chno="14988" tvg-name="FXM" tvg-logo="https://zap2it.tmsimg.com/assets/s14988_ll_h15_aa.png" group-title="Ecuador" tvg-id="FXM" tvc-guide-stationid="14988",FXM
 http://example.local/ECU-FXM.ts
 #EXTINF:-1 tvg-chno="46318" tvg-name="Gamavisión" tvg-logo="https://zap2it.tmsimg.com/assets/s46318_ll_h15_aa.png" group-title="Ecuador" tvg-id="GAMAV" tvc-guide-stationid="46318",Gamavisión
 http://example.local/ECU-GAMAV.ts
 #EXTINF:-1 tvg-chno="24459" tvg-name="Glitz" tvg-logo="https://zap2it.tmsimg.com/assets/s61514_ll_h15_aa.png" group-title="Ecuador" tvg-id="GLITZ" tvc-guide-stationid="24459",Glitz
 http://example.local/ECU-GLITZ.ts
-#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Ecuador" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
-http://example.local/ECU-GLDEN.ts
 #EXTINF:-1 tvg-chno="97825" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Ecuador" tvg-id="GLDENH" tvc-guide-stationid="97825",Golden
 http://example.local/ECU-GLDENH.ts
+#EXTINF:-1 tvg-chno="50709" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Ecuador" tvg-id="GLDEN" tvc-guide-stationid="50709",Golden
+http://example.local/ECU-GLDEN.ts
 #EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Ecuador" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
 http://example.local/ECU-GOLDEDG.ts
 #EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Ecuador" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
@@ -487,22 +489,22 @@ http://example.local/ECU-GOLF.ts
 http://example.local/ECU-H2LATH.ts
 #EXTINF:-1 tvg-chno="11221" tvg-name="Hallmark Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11221_ll_h15_aa.png" group-title="Ecuador" tvg-id="HALL" tvc-guide-stationid="11221",Hallmark Channel
 http://example.local/ECU-HALL.ts
-#EXTINF:-1 tvg-chno="12288" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Ecuador" tvg-id="HBOL" tvc-guide-stationid="12288",HBO
-http://example.local/ECU-HBOL.ts
-#EXTINF:-1 tvg-chno="80406" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Ecuador" tvg-id="HBOEHD" tvc-guide-stationid="80406",HBO
-http://example.local/ECU-HBOEHD.ts
 #EXTINF:-1 tvg-chno="16795" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Ecuador" tvg-id="HBOLW" tvc-guide-stationid="16795",HBO
 http://example.local/ECU-HBOLW.ts
+#EXTINF:-1 tvg-chno="12288" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Ecuador" tvg-id="HBOL" tvc-guide-stationid="12288",HBO
+http://example.local/ECU-HBOL.ts
 #EXTINF:-1 tvg-chno="16191" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Ecuador" tvg-id="HBOI" tvc-guide-stationid="16191",HBO
 http://example.local/ECU-HBOI.ts
-#EXTINF:-1 tvg-chno="68140" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Ecuador" tvg-id="HBO2LA" tvc-guide-stationid="68140",HBO 2
-http://example.local/ECU-HBO2LA.ts
-#EXTINF:-1 tvg-chno="74644" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Ecuador" tvg-id="HBO2PAN" tvc-guide-stationid="74644",HBO 2
-http://example.local/ECU-HBO2PAN.ts
+#EXTINF:-1 tvg-chno="80406" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Ecuador" tvg-id="HBOEHD" tvc-guide-stationid="80406",HBO
+http://example.local/ECU-HBOEHD.ts
 #EXTINF:-1 tvg-chno="68244" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Ecuador" tvg-id="HBO2ENG" tvc-guide-stationid="68244",HBO 2
 http://example.local/ECU-HBO2ENG.ts
 #EXTINF:-1 tvg-chno="108216" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Ecuador" tvg-id="HBO2EHD" tvc-guide-stationid="108216",HBO 2
 http://example.local/ECU-HBO2EHD.ts
+#EXTINF:-1 tvg-chno="68140" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Ecuador" tvg-id="HBO2LA" tvc-guide-stationid="68140",HBO 2
+http://example.local/ECU-HBO2LA.ts
+#EXTINF:-1 tvg-chno="74644" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Ecuador" tvg-id="HBO2PAN" tvc-guide-stationid="74644",HBO 2
+http://example.local/ECU-HBO2PAN.ts
 #EXTINF:-1 tvg-chno="19548" tvg-name="HBO East" tvg-logo="https://zap2it.tmsimg.com/assets/s19548_ll_h15_aa.png" group-title="Ecuador" tvg-id="HBOHD" tvc-guide-stationid="19548",HBO East
 http://example.local/ECU-HBOHD.ts
 #EXTINF:-1 tvg-chno="34879" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_ll_h15_ae.png" group-title="Ecuador" tvg-id="HBOFAM" tvc-guide-stationid="34879",HBO Family
@@ -513,7 +515,7 @@ http://example.local/ECU-HBOFMEH.ts
 http://example.local/ECU-HBOFAME.ts
 #EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Ecuador" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
 http://example.local/ECU-HBOFMHD.ts
-#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png" group-title="Ecuador" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
+#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" group-title="Ecuador" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
 http://example.local/ECU-HBOFP.ts
 #EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_aa.png" group-title="Ecuador" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
 http://example.local/ECU-HBOLAT.ts
@@ -521,30 +523,30 @@ http://example.local/ECU-HBOLAT.ts
 http://example.local/ECU-HBOLATP.ts
 #EXTINF:-1 tvg-chno="59837" tvg-name="HBO Latino HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_ba.png" group-title="Ecuador" tvg-id="HBOLAHD" tvc-guide-stationid="59837",HBO Latino HD
 http://example.local/ECU-HBOLAHD.ts
-#EXTINF:-1 tvg-chno="70081" tvg-name="HBO Mundi" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png" group-title="Ecuador" tvg-id="MUNMEX" tvc-guide-stationid="70081",HBO Mundi
-http://example.local/ECU-MUNMEX.ts
 #EXTINF:-1 tvg-chno="68119" tvg-name="HBO Mundi" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png" group-title="Ecuador" tvg-id="MUNLA" tvc-guide-stationid="68119",HBO Mundi
 http://example.local/ECU-MUNLA.ts
+#EXTINF:-1 tvg-chno="70081" tvg-name="HBO Mundi" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png" group-title="Ecuador" tvg-id="MUNMEX" tvc-guide-stationid="70081",HBO Mundi
+http://example.local/ECU-MUNMEX.ts
 #EXTINF:-1 tvg-chno="75537" tvg-name="HBO Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s34725_ll_h15_ab.png" group-title="Ecuador" tvg-id="HBOPPA" tvc-guide-stationid="75537",HBO Plus
 http://example.local/ECU-HBOPPA.ts
-#EXTINF:-1 tvg-chno="68134" tvg-name="HBO Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_ll_h15_ab.png" group-title="Ecuador" tvg-id="POPLAH" tvc-guide-stationid="68134",HBO Pop
-http://example.local/ECU-POPLAH.ts
 #EXTINF:-1 tvg-chno="93262" tvg-name="HBO Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_h3_aa.png" group-title="Ecuador" tvg-id="POPLAE" tvc-guide-stationid="93262",HBO Pop
 http://example.local/ECU-POPLAE.ts
 #EXTINF:-1 tvg-chno="68301" tvg-name="HBO POP" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_ll_h15_ab.png" group-title="Ecuador" tvg-id="POPMXH" tvc-guide-stationid="68301",HBO POP
 http://example.local/ECU-POPMXH.ts
+#EXTINF:-1 tvg-chno="68134" tvg-name="HBO Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_ll_h15_ab.png" group-title="Ecuador" tvg-id="POPLAH" tvc-guide-stationid="68134",HBO Pop
+http://example.local/ECU-POPLAH.ts
 #EXTINF:-1 tvg-chno="74450" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Ecuador" tvg-id="HBOSLA" tvc-guide-stationid="74450",HBO Signature
 http://example.local/ECU-HBOSLA.ts
 #EXTINF:-1 tvg-chno="80120" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Ecuador" tvg-id="HBOSLHD" tvc-guide-stationid="80120",HBO Signature
 http://example.local/ECU-HBOSLHD.ts
 #EXTINF:-1 tvg-chno="57400" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Ecuador" tvg-id="HBOXMXE" tvc-guide-stationid="57400",HBO Xtreme
 http://example.local/ECU-HBOXMXE.ts
-#EXTINF:-1 tvg-chno="34887" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Ecuador" tvg-id="HBOXMX" tvc-guide-stationid="34887",HBO Xtreme
-http://example.local/ECU-HBOXMX.ts
 #EXTINF:-1 tvg-chno="80115" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_h3_aa.png" group-title="Ecuador" tvg-id="HBOXMXH" tvc-guide-stationid="80115",HBO Xtreme
 http://example.local/ECU-HBOXMXH.ts
 #EXTINF:-1 tvg-chno="80199" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Ecuador" tvg-id="HBOXLA" tvc-guide-stationid="80199",HBO Xtreme
 http://example.local/ECU-HBOXLA.ts
+#EXTINF:-1 tvg-chno="34887" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Ecuador" tvg-id="HBOXMX" tvc-guide-stationid="34887",HBO Xtreme
+http://example.local/ECU-HBOXMX.ts
 #EXTINF:-1 tvg-chno="111055" tvg-name="HGTV" tvg-logo="https://zap2it.tmsimg.com/assets/s111055_ll_h15_aa.png" group-title="Ecuador" tvg-id="HGTVLA" tvc-guide-stationid="111055",HGTV
 http://example.local/ECU-HGTVLA.ts
 #EXTINF:-1 tvg-chno="40137" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Ecuador" tvg-id="HCLM" tvc-guide-stationid="40137",History
@@ -569,10 +571,10 @@ http://example.local/ECU-HTVLA.ts
 http://example.local/ECU-HUSTLR.ts
 #EXTINF:-1 tvg-chno="25793" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Ecuador" tvg-id="IDM" tvc-guide-stationid="25793",ID
 http://example.local/ECU-IDM.ts
-#EXTINF:-1 tvg-chno="16048" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Ecuador" tvg-id="IDL" tvc-guide-stationid="16048",ID
-http://example.local/ECU-IDL.ts
 #EXTINF:-1 tvg-chno="77635" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Ecuador" tvg-id="IDLHD" tvc-guide-stationid="77635",ID
 http://example.local/ECU-IDLHD.ts
+#EXTINF:-1 tvg-chno="16048" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Ecuador" tvg-id="IDL" tvc-guide-stationid="16048",ID
+http://example.local/ECU-IDL.ts
 #EXTINF:-1 tvg-chno="37958" tvg-name="INFORMACION 104" group-title="Ecuador" tvg-id="INF104" tvc-guide-stationid="37958",INFORMACION 104
 http://example.local/ECU-INF104.ts
 #EXTINF:-1 tvg-chno="108605" tvg-name="IVC Net HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97002_ll_h15_aa.png" group-title="Ecuador" tvg-id="IVNETHD" tvc-guide-stationid="108605",IVC Net HD
@@ -585,18 +587,16 @@ http://example.local/ECU-XEW.ts
 http://example.local/ECU-ESTRE.ts
 #EXTINF:-1 tvg-chno="61029" tvg-name="LaTele" tvg-logo="https://zap2it.tmsimg.com/assets/s61029_ll_h15_aa.png" group-title="Ecuador" tvg-id="LATELEC" tvc-guide-stationid="61029",LaTele
 http://example.local/ECU-LATELEC.ts
-#EXTINF:-1 tvg-chno="89214" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Ecuador" tvg-id="LIFELA" tvc-guide-stationid="89214",Lifetime
-http://example.local/ECU-LIFELA.ts
 #EXTINF:-1 tvg-chno="89197" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Ecuador" tvg-id="LIFELC" tvc-guide-stationid="89197",Lifetime
 http://example.local/ECU-LIFELC.ts
 #EXTINF:-1 tvg-chno="159513" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Ecuador" tvg-id="LIFSURH" tvc-guide-stationid="159513",Lifetime
 http://example.local/ECU-LIFSURH.ts
+#EXTINF:-1 tvg-chno="89214" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Ecuador" tvg-id="LIFELA" tvc-guide-stationid="89214",Lifetime
+http://example.local/ECU-LIFELA.ts
 #EXTINF:-1 tvg-chno="82046" tvg-name="Majestad TV" group-title="Ecuador" tvg-id="MAJE" tvc-guide-stationid="82046",Majestad TV
 http://example.local/ECU-MAJE.ts
 #EXTINF:-1 tvg-chno="82047" tvg-name="Manavision" tvg-logo="https://zap2it.tmsimg.com/assets/s82047_ll_h15_aa.png" group-title="Ecuador" tvg-id="MANA9" tvc-guide-stationid="82047",Manavision
 http://example.local/ECU-MANA9.ts
-#EXTINF:-1 tvg-chno="17457" tvg-name="Mas Chic" tvg-logo="https://zap2it.tmsimg.com/assets/s17457_ll_h15_ad.png" group-title="Ecuador" tvg-id="MASCHIC" tvc-guide-stationid="17457",Mas Chic
-http://example.local/ECU-MASCHIC.ts
 #EXTINF:-1 tvg-chno="60490" tvg-name="Mosaico Deportes" group-title="Ecuador" tvg-id="MODEPDM" tvc-guide-stationid="60490",Mosaico Deportes
 http://example.local/ECU-MODEPDM.ts
 #EXTINF:-1 tvg-chno="47359" tvg-name="Mosaico Entretenimiento" group-title="Ecuador" tvg-id="MENTRE" tvc-guide-stationid="47359",Mosaico Entretenimiento
@@ -609,10 +609,10 @@ http://example.local/ECU-MOSHBO.ts
 http://example.local/ECU-MINFANT.ts
 #EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Ecuador" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
 http://example.local/ECU-MTHD.ts
-#EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="Ecuador" tvg-id="MTVL" tvc-guide-stationid="12712",MTV
-http://example.local/ECU-MTVL.ts
 #EXTINF:-1 tvg-chno="49295" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="Ecuador" tvg-id="MTVLC" tvc-guide-stationid="49295",MTV
 http://example.local/ECU-MTVLC.ts
+#EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="Ecuador" tvg-id="MTVL" tvc-guide-stationid="12712",MTV
+http://example.local/ECU-MTVL.ts
 #EXTINF:-1 tvg-chno="60964" tvg-name="MTV - Music Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60964_ll_h15_aa.png" group-title="Ecuador" tvg-id="MTVHD" tvc-guide-stationid="60964",MTV - Music Television HD
 http://example.local/ECU-MTVHD.ts
 #EXTINF:-1 tvg-chno="120767" tvg-name="MTV 00s" tvg-logo="https://zap2it.tmsimg.com/assets/s56245_ll_h15_ab.png" group-title="Ecuador" tvg-id="MTV00S" tvc-guide-stationid="120767",MTV 00s
@@ -629,10 +629,10 @@ http://example.local/ECU-MTOPHD.ts
 http://example.local/ECU-MUSCLAS.ts
 #EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Ecuador" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
 http://example.local/ECU-NGKLA.ts
-#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Ecuador" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
-http://example.local/ECU-NGCLA.ts
 #EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Ecuador" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
 http://example.local/ECU-NGCLAH.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Ecuador" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/ECU-NGCLA.ts
 #EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Ecuador" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
 http://example.local/ECU-NGWLAHD.ts
 #EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="Ecuador" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
@@ -655,10 +655,10 @@ http://example.local/ECU-NICKJMH.ts
 http://example.local/ECU-NMZK.ts
 #EXTINF:-1 tvg-chno="61988" tvg-name="NTN24" tvg-logo="https://zap2it.tmsimg.com/assets/s61988_ll_h15_ac.png" group-title="Ecuador" tvg-id="NTN24" tvc-guide-stationid="61988",NTN24
 http://example.local/ECU-NTN24.ts
-#EXTINF:-1 tvg-chno="33431" tvg-name="Nuestra Tele Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s33431_ll_h15_ad.png" group-title="Ecuador" tvg-id="NUESTRT" tvc-guide-stationid="33431",Nuestra Tele Internacional
-http://example.local/ECU-NUESTRT.ts
 #EXTINF:-1 tvg-chno="83385" tvg-name="Nuestra Tele Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s33431_ll_h15_ad.png" group-title="Ecuador" tvg-id="NUESTRC" tvc-guide-stationid="83385",Nuestra Tele Internacional
 http://example.local/ECU-NUESTRC.ts
+#EXTINF:-1 tvg-chno="33431" tvg-name="Nuestra Tele Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s33431_ll_h15_ad.png" group-title="Ecuador" tvg-id="NUESTRT" tvc-guide-stationid="33431",Nuestra Tele Internacional
+http://example.local/ECU-NUESTRT.ts
 #EXTINF:-1 tvg-chno="80837" tvg-name="Oromar TV" tvg-logo="https://zap2it.tmsimg.com/assets/s80837_ll_h15_aa.png" group-title="Ecuador" tvg-id="OROMTV" tvc-guide-stationid="80837",Oromar TV
 http://example.local/ECU-OROMTV.ts
 #EXTINF:-1 tvg-chno="91029" tvg-name="Paramount Network" tvg-logo="https://zap2it.tmsimg.com/assets/s106215_ll_h15_aa.png" group-title="Ecuador" tvg-id="PARAMNT" tvc-guide-stationid="91029",Paramount Network
@@ -715,28 +715,28 @@ http://example.local/ECU-SONYMS.ts
 http://example.local/ECU-SONYMH.ts
 #EXTINF:-1 tvg-chno="70351" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="Ecuador" tvg-id="SPACES" tvc-guide-stationid="70351",Space
 http://example.local/ECU-SPACES.ts
-#EXTINF:-1 tvg-chno="76301" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="Ecuador" tvg-id="SPACECN" tvc-guide-stationid="76301",Space
-http://example.local/ECU-SPACECN.ts
-#EXTINF:-1 tvg-chno="68021" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png" group-title="Ecuador" tvg-id="SPACEHD" tvc-guide-stationid="68021",Space
-http://example.local/ECU-SPACEHD.ts
 #EXTINF:-1 tvg-chno="66349" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png" group-title="Ecuador" tvg-id="SPACMHD" tvc-guide-stationid="66349",Space
 http://example.local/ECU-SPACMHD.ts
 #EXTINF:-1 tvg-chno="16499" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="Ecuador" tvg-id="SPACE" tvc-guide-stationid="16499",Space
 http://example.local/ECU-SPACE.ts
 #EXTINF:-1 tvg-chno="69490" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png" group-title="Ecuador" tvg-id="SPACEEH" tvc-guide-stationid="69490",Space
 http://example.local/ECU-SPACEEH.ts
+#EXTINF:-1 tvg-chno="76301" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="Ecuador" tvg-id="SPACECN" tvc-guide-stationid="76301",Space
+http://example.local/ECU-SPACECN.ts
+#EXTINF:-1 tvg-chno="68021" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png" group-title="Ecuador" tvg-id="SPACEHD" tvc-guide-stationid="68021",Space
+http://example.local/ECU-SPACEHD.ts
 #EXTINF:-1 tvg-chno="58828" tvg-name="Star Action" tvg-logo="https://zap2it.tmsimg.com/assets/s58835_ll_h15_ac.png" group-title="Ecuador" tvg-id="STARACE" tvc-guide-stationid="58828",Star Action
 http://example.local/ECU-STARACE.ts
 #EXTINF:-1 tvg-chno="58835" tvg-name="Star Action" tvg-logo="https://zap2it.tmsimg.com/assets/s58835_ll_h15_ac.png" group-title="Ecuador" tvg-id="STRACO" tvc-guide-stationid="58835",Star Action
 http://example.local/ECU-STRACO.ts
 #EXTINF:-1 tvg-chno="15688" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_ll_h15_ac.png" group-title="Ecuador" tvg-id="STARMEX" tvc-guide-stationid="15688",Star Channel
 http://example.local/ECU-STARMEX.ts
-#EXTINF:-1 tvg-chno="88534" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s88534_ll_h15_aa.png" group-title="Ecuador" tvg-id="STARMHD" tvc-guide-stationid="88534",Star Channel
-http://example.local/ECU-STARMHD.ts
-#EXTINF:-1 tvg-chno="43541" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_ll_h15_ac.png" group-title="Ecuador" tvg-id="STARCOL" tvc-guide-stationid="43541",Star Channel
-http://example.local/ECU-STARCOL.ts
 #EXTINF:-1 tvg-chno="92111" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_h3_ba.png" group-title="Ecuador" tvg-id="STRANHD" tvc-guide-stationid="92111",Star Channel
 http://example.local/ECU-STRANHD.ts
+#EXTINF:-1 tvg-chno="43541" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_ll_h15_ac.png" group-title="Ecuador" tvg-id="STARCOL" tvc-guide-stationid="43541",Star Channel
+http://example.local/ECU-STARCOL.ts
+#EXTINF:-1 tvg-chno="88534" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s88534_ll_h15_aa.png" group-title="Ecuador" tvg-id="STARMHD" tvc-guide-stationid="88534",Star Channel
+http://example.local/ECU-STARMHD.ts
 #EXTINF:-1 tvg-chno="71662" tvg-name="STAR CINEMA" tvg-logo="https://zap2it.tmsimg.com/assets/s71662_ll_h15_ac.png" group-title="Ecuador" tvg-id="STARCI" tvc-guide-stationid="71662",STAR CINEMA
 http://example.local/ECU-STARCI.ts
 #EXTINF:-1 tvg-chno="44028" tvg-name="Star Classics" tvg-logo="https://zap2it.tmsimg.com/assets/s44028_ll_h15_ac.png" group-title="Ecuador" tvg-id="STARCLA" tvc-guide-stationid="44028",Star Classics
@@ -745,20 +745,20 @@ http://example.local/ECU-STARCLA.ts
 http://example.local/ECU-STARFAM.ts
 #EXTINF:-1 tvg-chno="65400" tvg-name="STAR FUN" tvg-logo="https://zap2it.tmsimg.com/assets/s65399_ll_h15_ac.png" group-title="Ecuador" tvg-id="STARFO" tvc-guide-stationid="65400",STAR FUN
 http://example.local/ECU-STARFO.ts
-#EXTINF:-1 tvg-chno="58833" tvg-name="Star Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s58833_ll_h15_ae.png" group-title="Ecuador" tvg-id="STARHIT" tvc-guide-stationid="58833",Star Hits
-http://example.local/ECU-STARHIT.ts
 #EXTINF:-1 tvg-chno="73049" tvg-name="Star Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s58833_ll_h15_ae.png" group-title="Ecuador" tvg-id="STARHHD" tvc-guide-stationid="73049",Star Hits
 http://example.local/ECU-STARHHD.ts
+#EXTINF:-1 tvg-chno="58833" tvg-name="Star Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s58833_ll_h15_ae.png" group-title="Ecuador" tvg-id="STARHIT" tvc-guide-stationid="58833",Star Hits
+http://example.local/ECU-STARHIT.ts
 #EXTINF:-1 tvg-chno="49263" tvg-name="Star Life" tvg-logo="https://zap2it.tmsimg.com/assets/s49263_ll_h15_ab.png" group-title="Ecuador" tvg-id="STARLAT" tvc-guide-stationid="49263",Star Life
 http://example.local/ECU-STARLAT.ts
 #EXTINF:-1 tvg-chno="58472" tvg-name="Star Life" tvg-logo="https://zap2it.tmsimg.com/assets/s49263_ll_h15_ab.png" group-title="Ecuador" tvg-id="STRLIFC" tvc-guide-stationid="58472",Star Life
 http://example.local/ECU-STRLIFC.ts
 #EXTINF:-1 tvg-chno="17960" tvg-name="Star Series" tvg-logo="https://zap2it.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="Ecuador" tvg-id="STARSO" tvc-guide-stationid="17960",Star Series
 http://example.local/ECU-STARSO.ts
-#EXTINF:-1 tvg-chno="60542" tvg-name="Star Series" tvg-logo="https://zap2it.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="Ecuador" tvg-id="STARSHD" tvc-guide-stationid="60542",Star Series
-http://example.local/ECU-STARSHD.ts
 #EXTINF:-1 tvg-chno="18812" tvg-name="Star Series" tvg-logo="https://zap2it.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="Ecuador" tvg-id="STARSER" tvc-guide-stationid="18812",Star Series
 http://example.local/ECU-STARSER.ts
+#EXTINF:-1 tvg-chno="60542" tvg-name="Star Series" tvg-logo="https://zap2it.tmsimg.com/assets/s60542_ll_h15_ac.png" group-title="Ecuador" tvg-id="STARSHD" tvc-guide-stationid="60542",Star Series
+http://example.local/ECU-STARSHD.ts
 #EXTINF:-1 tvg-chno="76990" tvg-name="Stingray Jammin' Reggae" tvg-logo="https://zap2it.tmsimg.com/assets/s95856_ll_h15_aa.png" group-title="Ecuador" tvg-id="SMESP10" tvc-guide-stationid="76990",Stingray Jammin' Reggae
 http://example.local/ECU-SMESP10.ts
 #EXTINF:-1 tvg-chno="29017" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s29017_ll_h15_aa.png" group-title="Ecuador" tvg-id="STULM" tvc-guide-stationid="29017",Studio Universal
@@ -817,16 +817,16 @@ http://example.local/ECU-TLCLASP.ts
 http://example.local/ECU-TLCHD.ts
 #EXTINF:-1 tvg-chno="37232" tvg-name="TLNovelas" tvg-logo="https://zap2it.tmsimg.com/assets/s37232_ll_h15_ab.png" group-title="Ecuador" tvg-id="TLNOVEL" tvc-guide-stationid="37232",TLNovelas
 http://example.local/ECU-TLNOVEL.ts
-#EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Ecuador" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
-http://example.local/ECU-TNTLC.ts
-#EXTINF:-1 tvg-chno="33573" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Ecuador" tvg-id="TNTLCH" tvc-guide-stationid="33573",TNT
-http://example.local/ECU-TNTLCH.ts
 #EXTINF:-1 tvg-chno="11164" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s11164_h3_aa.png" group-title="Ecuador" tvg-id="TNT" tvc-guide-stationid="11164",TNT
 http://example.local/ECU-TNT.ts
 #EXTINF:-1 tvg-chno="106062" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Ecuador" tvg-id="TNTLCHH" tvc-guide-stationid="106062",TNT
 http://example.local/ECU-TNTLCHH.ts
 #EXTINF:-1 tvg-chno="71148" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Ecuador" tvg-id="TNTLDLY" tvc-guide-stationid="71148",TNT
 http://example.local/ECU-TNTLDLY.ts
+#EXTINF:-1 tvg-chno="33573" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Ecuador" tvg-id="TNTLCH" tvc-guide-stationid="33573",TNT
+http://example.local/ECU-TNTLCH.ts
+#EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Ecuador" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
+http://example.local/ECU-TNTLC.ts
 #EXTINF:-1 tvg-chno="91993" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_ll_h15_ab.png" group-title="Ecuador" tvg-id="TNTSER" tvc-guide-stationid="91993",TNT Series
 http://example.local/ECU-TNTSER.ts
 #EXTINF:-1 tvg-chno="106709" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_ll_h15_ab.png" group-title="Ecuador" tvg-id="TNTSERH" tvc-guide-stationid="106709",TNT Series

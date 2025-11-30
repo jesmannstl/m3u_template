@@ -55,7 +55,7 @@ http://example.local/BMU-BLOOM.ts
 http://example.local/BMU-BLOOMHD.ts
 #EXTINF:-1 tvg-chno="21883" tvg-name="Boomerang" tvg-logo="https://zap2it.tmsimg.com/assets/s21883_ll_h15_ab.png" group-title="Bermuda" tvg-id="BOOM" tvc-guide-stationid="21883",Boomerang
 http://example.local/BMU-BOOM.ts
-#EXTINF:-1 tvg-chno="73067" tvg-name="Bounce TV" tvg-logo="https://zap2it.tmsimg.com/assets/s73067_ll_h15_ab.png" group-title="Bermuda" tvg-id="BOUNCE" tvc-guide-stationid="73067",Bounce TV
+#EXTINF:-1 tvg-chno="73067" tvg-name="Bounce TV" tvg-logo="https://zap2it.tmsimg.com/assets/s73067_h3_aa.png" group-title="Bermuda" tvg-id="BOUNCE" tvc-guide-stationid="73067",Bounce TV
 http://example.local/BMU-BOUNCE.ts
 #EXTINF:-1 tvg-chno="10057" tvg-name="Bravo" tvg-logo="https://zap2it.tmsimg.com/assets/s10057_ll_h15_ab.png" group-title="Bermuda" tvg-id="BRAVO" tvc-guide-stationid="10057",Bravo
 http://example.local/BMU-BRAVO.ts
@@ -99,8 +99,14 @@ http://example.local/BMU-CH82.ts
 http://example.local/BMU-CHEAPTH.ts
 #EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Bermuda" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
 http://example.local/BMU-CCLHD.ts
+#EXTINF:-1 tvg-chno="18433" tvg-name="Cinemax Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC1Q.png" group-title="Bermuda" tvg-id="CINACT" tvc-guide-stationid="18433",Cinemax Action
+http://example.local/BMU-CINACT.ts
+#EXTINF:-1 tvg-chno="25620" tvg-name="Cinemax Classics" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBLL.png" group-title="Bermuda" tvg-id="CINECLS" tvc-guide-stationid="25620",Cinemax Classics
+http://example.local/BMU-CINECLS.ts
 #EXTINF:-1 tvg-chno="34933" tvg-name="Cinemax HD" tvg-logo="https://zap2it.tmsimg.com/assets/s34933_ll_h15_ab.png" group-title="Bermuda" tvg-id="MAXHD" tvc-guide-stationid="34933",Cinemax HD
 http://example.local/BMU-MAXHD.ts
+#EXTINF:-1 tvg-chno="10121" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png" group-title="Bermuda" tvg-id="CINEHIT" tvc-guide-stationid="10121",Cinemax Hits
+http://example.local/BMU-CINEHIT.ts
 #EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png" group-title="Bermuda" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
 http://example.local/BMU-CITY.ts
 #EXTINF:-1 tvg-chno="16325" tvg-name="Classic Arts Showcase" tvg-logo="https://zap2it.tmsimg.com/assets/s16325_ll_h6_aa.png" group-title="Bermuda" tvg-id="CAS" tvc-guide-stationid="16325",Classic Arts Showcase
@@ -143,7 +149,7 @@ http://example.local/BMU-CSPAN.ts
 http://example.local/BMU-SCIFIS.ts
 #EXTINF:-1 tvg-chno="10108" tvg-name="CTV Toronto (CTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s10108_ll_h15_ab.png" group-title="Bermuda" tvg-id="CFTO" tvc-guide-stationid="10108",CTV Toronto (CTV)
 http://example.local/BMU-CFTO.ts
-#EXTINF:-1 tvg-chno="19026" tvg-name="Daystar Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/s19026_h3_ba.png" group-title="Bermuda" tvg-id="DYSTR" tvc-guide-stationid="19026",Daystar Television Network
+#EXTINF:-1 tvg-chno="19026" tvg-name="Daystar Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y563.png" group-title="Bermuda" tvg-id="DYSTR" tvc-guide-stationid="19026",Daystar Television Network
 http://example.local/BMU-DYSTR.ts
 #EXTINF:-1 tvg-chno="11150" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11150_h3_ba.png" group-title="Bermuda" tvg-id="DSC" tvc-guide-stationid="11150",Discovery Channel
 http://example.local/BMU-DSC.ts
@@ -155,12 +161,12 @@ http://example.local/BMU-DLAHDE.ts
 http://example.local/BMU-DCIVILI.ts
 #EXTINF:-1 tvg-chno="16618" tvg-name="Discovery Family Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16618_ll_h15_ab.png" group-title="Bermuda" tvg-id="DFC" tvc-guide-stationid="16618",Discovery Family Channel
 http://example.local/BMU-DFC.ts
+#EXTINF:-1 tvg-chno="97571" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s97571_ll_h15_ab.png" group-title="Bermuda" tvg-id="DHEALH" tvc-guide-stationid="97571",Discovery Home & Health
+http://example.local/BMU-DHEALH.ts
 #EXTINF:-1 tvg-chno="34083" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_h3_aa.png" group-title="Bermuda" tvg-id="DHEAI" tvc-guide-stationid="34083",Discovery Home & Health
 http://example.local/BMU-DHEAI.ts
 #EXTINF:-1 tvg-chno="90847" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s90847_ll_h15_aa.png" group-title="Bermuda" tvg-id="DHEAIHD" tvc-guide-stationid="90847",Discovery Home & Health
 http://example.local/BMU-DHEAIHD.ts
-#EXTINF:-1 tvg-chno="97571" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s97571_ll_h15_ab.png" group-title="Bermuda" tvg-id="DHEALH" tvc-guide-stationid="97571",Discovery Home & Health
-http://example.local/BMU-DHEALH.ts
 #EXTINF:-1 tvg-chno="16665" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16665_ll_h15_aa.png" group-title="Bermuda" tvg-id="DKNI" tvc-guide-stationid="16665",Discovery Kids
 http://example.local/BMU-DKNI.ts
 #EXTINF:-1 tvg-chno="16125" tvg-name="Discovery Life Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16125_ll_h15_ac.png" group-title="Bermuda" tvg-id="DLC" tvc-guide-stationid="16125",Discovery Life Channel
@@ -191,10 +197,10 @@ http://example.local/BMU-PPVBARK.ts
 http://example.local/BMU-ESPN.ts
 #EXTINF:-1 tvg-chno="10180" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Bermuda" tvg-id="ESP2ME" tvc-guide-stationid="10180",ESPN 2
 http://example.local/BMU-ESP2ME.ts
-#EXTINF:-1 tvg-chno="78764" tvg-name="ESPN Caribbean" group-title="Bermuda" tvg-id="ESPNICH" tvc-guide-stationid="78764",ESPN Caribbean
-http://example.local/BMU-ESPNICH.ts
 #EXTINF:-1 tvg-chno="64997" tvg-name="ESPN Caribbean" group-title="Bermuda" tvg-id="ESPNIC" tvc-guide-stationid="64997",ESPN Caribbean
 http://example.local/BMU-ESPNIC.ts
+#EXTINF:-1 tvg-chno="78764" tvg-name="ESPN Caribbean" group-title="Bermuda" tvg-id="ESPNICH" tvc-guide-stationid="78764",ESPN Caribbean
+http://example.local/BMU-ESPNICH.ts
 #EXTINF:-1 tvg-chno="32645" tvg-name="ESPN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s32645_ll_h15_ab.png" group-title="Bermuda" tvg-id="ESPNHD" tvc-guide-stationid="32645",ESPN HD
 http://example.local/BMU-ESPNHD.ts
 #EXTINF:-1 tvg-chno="12444" tvg-name="ESPN2" tvg-logo="https://zap2it.tmsimg.com/assets/s12444_ll_h15_ab.png" group-title="Bermuda" tvg-id="ESPN2" tvc-guide-stationid="12444",ESPN2
@@ -303,14 +309,18 @@ http://example.local/BMU-HBO.ts
 http://example.local/BMU-HBO2EHD.ts
 #EXTINF:-1 tvg-chno="18429" tvg-name="HBO Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s18429_ll_h15_aa.png" group-title="Bermuda" tvg-id="HBOC" tvc-guide-stationid="18429",HBO Comedy
 http://example.local/BMU-HBOC.ts
+#EXTINF:-1 tvg-chno="10243" tvg-name="HBO Drama" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBV2.png" group-title="Bermuda" tvg-id="HBODRMA" tvc-guide-stationid="10243",HBO Drama
+http://example.local/BMU-HBODRMA.ts
 #EXTINF:-1 tvg-chno="19548" tvg-name="HBO East" tvg-logo="https://zap2it.tmsimg.com/assets/s19548_ll_h15_aa.png" group-title="Bermuda" tvg-id="HBOHD" tvc-guide-stationid="19548",HBO East
 http://example.local/BMU-HBOHD.ts
 #EXTINF:-1 tvg-chno="16585" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png" group-title="Bermuda" tvg-id="HBOF" tvc-guide-stationid="16585",HBO Family
 http://example.local/BMU-HBOF.ts
 #EXTINF:-1 tvg-chno="80550" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Bermuda" tvg-id="HBOFMEH" tvc-guide-stationid="80550",HBO Family
 http://example.local/BMU-HBOFMEH.ts
-#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png" group-title="Bermuda" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
+#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" group-title="Bermuda" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
 http://example.local/BMU-HBOFP.ts
+#EXTINF:-1 tvg-chno="10241" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="Bermuda" tvg-id="HBOHTS" tvc-guide-stationid="10241",HBO Hits
+http://example.local/BMU-HBOHTS.ts
 #EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_aa.png" group-title="Bermuda" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
 http://example.local/BMU-HBOLAT.ts
 #EXTINF:-1 tvg-chno="59837" tvg-name="HBO Latino HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_ba.png" group-title="Bermuda" tvg-id="HBOLAHD" tvc-guide-stationid="59837",HBO Latino HD
@@ -387,8 +397,6 @@ http://example.local/BMU-LMN.ts
 http://example.local/BMU-LMNHD.ts
 #EXTINF:-1 tvg-chno="14786" tvg-name="Local Origination - LOOR" tvg-logo="https://zap2it.tmsimg.com/assets/s14786_ll_h15_aa.png" group-title="Bermuda" tvg-id="LOOR" tvc-guide-stationid="14786",Local Origination - LOOR
 http://example.local/BMU-LOOR.ts
-#EXTINF:-1 tvg-chno="16175" tvg-name="Local Programming" tvg-logo="https://zap2it.tmsimg.com/assets/s16175_ll_h15_ab.png" group-title="Bermuda" tvg-id="LOCAL" tvc-guide-stationid="16175",Local Programming
-http://example.local/BMU-LOCAL.ts
 #EXTINF:-1 tvg-chno="22567" tvg-name="Local weather" group-title="Bermuda" tvg-id="LWEA" tvc-guide-stationid="22567",Local weather
 http://example.local/BMU-LWEA.ts
 #EXTINF:-1 tvg-chno="18544" tvg-name="Magnolia Network" tvg-logo="https://zap2it.tmsimg.com/assets/s18544_ll_h15_ad.png" group-title="Bermuda" tvg-id="MAGN" tvc-guide-stationid="18544",Magnolia Network
@@ -403,8 +411,12 @@ http://example.local/BMU-MIZZOU.ts
 http://example.local/BMU-MNMT.ts
 #EXTINF:-1 tvg-chno="25621" tvg-name="MovieMax" tvg-logo="https://zap2it.tmsimg.com/assets/s25621_ll_h15_ad.png" group-title="Bermuda" tvg-id="MOVIE" tvc-guide-stationid="25621",MovieMax
 http://example.local/BMU-MOVIE.ts
-#EXTINF:-1 tvg-chno="24394" tvg-name="MSNBC - Olympics Alternate" group-title="Bermuda" tvg-id="MSNBCA" tvc-guide-stationid="24394",MSNBC - Olympics Alternate
-http://example.local/BMU-MSNBCA.ts
+#EXTINF:-1 tvg-chno="16300" tvg-name="MS NOW" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002H5PTR.png" group-title="Bermuda" tvg-id="MSNOW" tvc-guide-stationid="16300",MS NOW
+http://example.local/BMU-MSNOW.ts
+#EXTINF:-1 tvg-chno="64241" tvg-name="MS NOW HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002H5PTL.png" group-title="Bermuda" tvg-id="MSNOWHD" tvc-guide-stationid="64241",MS NOW HD
+http://example.local/BMU-MSNOWHD.ts
+#EXTINF:-1 tvg-chno="24394" tvg-name="MS NOW Olympics Alternate" group-title="Bermuda" tvg-id="MSNOWA" tvc-guide-stationid="24394",MS NOW Olympics Alternate
+http://example.local/BMU-MSNOWA.ts
 #EXTINF:-1 tvg-chno="10986" tvg-name="MTV - Music Television" tvg-logo="https://zap2it.tmsimg.com/assets/s10986_ll_h15_aa.png" group-title="Bermuda" tvg-id="MTV" tvc-guide-stationid="10986",MTV - Music Television
 http://example.local/BMU-MTV.ts
 #EXTINF:-1 tvg-chno="60964" tvg-name="MTV - Music Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60964_ll_h15_aa.png" group-title="Bermuda" tvg-id="MTVHD" tvc-guide-stationid="60964",MTV - Music Television HD
@@ -577,10 +589,10 @@ http://example.local/BMU-OUTHD.ts
 http://example.local/BMU-OMAX.ts
 #EXTINF:-1 tvg-chno="21484" tvg-name="Oxygen True Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s21484_ll_h15_ac.png" group-title="Bermuda" tvg-id="OXYGEN" tvc-guide-stationid="21484",Oxygen True Crime
 http://example.local/BMU-OXYGEN.ts
-#EXTINF:-1 tvg-chno="92002" tvg-name="Paramount Network" group-title="Bermuda" tvg-id="PARMNHE" tvc-guide-stationid="92002",Paramount Network
-http://example.local/BMU-PARMNHE.ts
 #EXTINF:-1 tvg-chno="11163" tvg-name="Paramount Network" tvg-logo="https://zap2it.tmsimg.com/assets/s11163_ll_h15_ac.png" group-title="Bermuda" tvg-id="PAR" tvc-guide-stationid="11163",Paramount Network
 http://example.local/BMU-PAR.ts
+#EXTINF:-1 tvg-chno="92002" tvg-name="Paramount Network" group-title="Bermuda" tvg-id="PARMNHE" tvc-guide-stationid="92002",Paramount Network
+http://example.local/BMU-PARMNHE.ts
 #EXTINF:-1 tvg-chno="90277" tvg-name="Paramount Network Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s90277_ll_h15_ab.png" group-title="Bermuda" tvg-id="PARCAR" tvc-guide-stationid="90277",Paramount Network Caribbean
 http://example.local/BMU-PARCAR.ts
 #EXTINF:-1 tvg-chno="11115" tvg-name="Paramount+ with Showtime" tvg-logo="https://zap2it.tmsimg.com/assets/s11115_ll_h15_ad.png" group-title="Bermuda" tvg-id="PARSHO" tvc-guide-stationid="11115",Paramount+ with Showtime
@@ -609,6 +621,8 @@ http://example.local/BMU-RAII.ts
 http://example.local/BMU-RELI.ts
 #EXTINF:-1 tvg-chno="83098" tvg-name="Revolt HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83098_ll_h15_ac.png" group-title="Bermuda" tvg-id="RVLTHD" tvc-guide-stationid="83098",Revolt HD
 http://example.local/BMU-RVLTHD.ts
+#EXTINF:-1 tvg-chno="16175" tvg-name="Rogers tv Cape Breton" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002HCZEF.png" group-title="Bermuda" tvg-id="RTVCAP" tvc-guide-stationid="16175",Rogers tv Cape Breton
+http://example.local/BMU-RTVCAP.ts
 #EXTINF:-1 tvg-chno="105350" tvg-name="RT America" tvg-logo="https://zap2it.tmsimg.com/assets/s105350_ll_h15_aa.png" group-title="Bermuda" tvg-id="RTAMER" tvc-guide-stationid="105350",RT America
 http://example.local/BMU-RTAMER.ts
 #EXTINF:-1 tvg-chno="103832" tvg-name="RT Documentary" tvg-logo="https://zap2it.tmsimg.com/assets/s103832_ll_h15_aa.png" group-title="Bermuda" tvg-id="RTDOCO" tvc-guide-stationid="103832",RT Documentary
@@ -807,10 +821,10 @@ http://example.local/BMU-WORD.ts
 http://example.local/BMU-THMAX.ts
 #EXTINF:-1 tvg-chno="67579" tvg-name="TikTok Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s67579_ll_h15_ab.png" group-title="Bermuda" tvg-id="SMUS43" tvc-guide-stationid="67579",TikTok Radio
 http://example.local/BMU-SMUS43.ts
-#EXTINF:-1 tvg-chno="73822" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s73822_ll_h15_ae.png" group-title="Bermuda" tvg-id="TLCLASP" tvc-guide-stationid="73822",TLC
-http://example.local/BMU-TLCLASP.ts
 #EXTINF:-1 tvg-chno="11158" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s11158_ll_h15_ad.png" group-title="Bermuda" tvg-id="TLC" tvc-guide-stationid="11158",TLC
 http://example.local/BMU-TLC.ts
+#EXTINF:-1 tvg-chno="73822" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s73822_ll_h15_ae.png" group-title="Bermuda" tvg-id="TLCLASP" tvc-guide-stationid="73822",TLC
+http://example.local/BMU-TLCLASP.ts
 #EXTINF:-1 tvg-chno="57391" tvg-name="TLC HD (US)" tvg-logo="https://zap2it.tmsimg.com/assets/s57391_ll_h15_ad.png" group-title="Bermuda" tvg-id="TLCHD" tvc-guide-stationid="57391",TLC HD (US)
 http://example.local/BMU-TLCHD.ts
 #EXTINF:-1 tvg-chno="11164" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s11164_h3_aa.png" group-title="Bermuda" tvg-id="TNT" tvc-guide-stationid="11164",TNT
@@ -839,7 +853,7 @@ http://example.local/BMU-TVONE.ts
 http://example.local/BMU-TVONEHD.ts
 #EXTINF:-1 tvg-chno="19059" tvg-name="TV5MONDE Etats Unis" tvg-logo="https://zap2it.tmsimg.com/assets/s19059_ll_h15_ab.png" group-title="Bermuda" tvg-id="TV5MOND" tvc-guide-stationid="19059",TV5MONDE Etats Unis
 http://example.local/BMU-TV5MOND.ts
-#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" group-title="Bermuda" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
+#EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Bermuda" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/BMU-UNI.ts
 #EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://zap2it.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="Bermuda" tvg-id="UP" tvc-guide-stationid="44940",UPtv
 http://example.local/BMU-UP.ts

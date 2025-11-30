@@ -5,10 +5,10 @@ http://example.local/BRA-FAZENDA.ts
 http://example.local/BRA-AEBR.ts
 #EXTINF:-1 tvg-chno="77795" tvg-name="A&E HD" tvg-logo="https://zap2it.tmsimg.com/assets/s77795_ll_h15_aa.png" group-title="Brazil" tvg-id="AEHDBRA" tvc-guide-stationid="77795",A&E HD
 http://example.local/BRA-AEHDBRA.ts
-#EXTINF:-1 tvg-chno="75608" tvg-name="Adult Swim" tvg-logo="https://zap2it.tmsimg.com/assets/s75608_ll_h15_ac.png" group-title="Brazil" tvg-id="ADSBRH" tvc-guide-stationid="75608",Adult Swim
-http://example.local/BRA-ADSBRH.ts
 #EXTINF:-1 tvg-chno="75607" tvg-name="Adult Swim" tvg-logo="https://zap2it.tmsimg.com/assets/s75607_ll_h15_ab.png" group-title="Brazil" tvg-id="ADSBR" tvc-guide-stationid="75607",Adult Swim
 http://example.local/BRA-ADSBR.ts
+#EXTINF:-1 tvg-chno="75608" tvg-name="Adult Swim" tvg-logo="https://zap2it.tmsimg.com/assets/s75608_ll_h15_ac.png" group-title="Brazil" tvg-id="ADSBRH" tvc-guide-stationid="75608",Adult Swim
+http://example.local/BRA-ADSBRH.ts
 #EXTINF:-1 tvg-chno="77828" tvg-name="AgroBrasil TV" tvg-logo="https://zap2it.tmsimg.com/assets/s77828_ll_h9_aa.png" group-title="Brazil" tvg-id="CANAGRO" tvc-guide-stationid="77828",AgroBrasil TV
 http://example.local/BRA-CANAGRO.ts
 #EXTINF:-1 tvg-chno="115356" tvg-name="Agromais HD" tvg-logo="https://zap2it.tmsimg.com/assets/s115356_ll_h15_ab.png" group-title="Brazil" tvg-id="AGROMHD" tvc-guide-stationid="115356",Agromais HD
@@ -71,8 +71,6 @@ http://example.local/BRA-ZYA720.ts
 http://example.local/BRA-BMINASH.ts
 #EXTINF:-1 tvg-chno="104268" tvg-name="Band Natal HD (BAND)" tvg-logo="https://zap2it.tmsimg.com/assets/s104268_ll_h15_aa.png" group-title="Brazil" tvg-id="BNATALH" tvc-guide-stationid="104268",Band Natal HD (BAND)
 http://example.local/BRA-BNATALH.ts
-#EXTINF:-1 tvg-chno="109812" tvg-name="Band News Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s109812_ll_h15_aa.png" group-title="Brazil" tvg-id="BNEWINT" tvc-guide-stationid="109812",Band News Internacional
-http://example.local/BRA-BNEWINT.ts
 #EXTINF:-1 tvg-chno="104380" tvg-name="Band Piauí HD (BAND)" tvg-logo="https://zap2it.tmsimg.com/assets/s104380_ll_h15_aa.png" group-title="Brazil" tvg-id="BPIAUIH" tvc-guide-stationid="104380",Band Piauí HD (BAND)
 http://example.local/BRA-BPIAUIH.ts
 #EXTINF:-1 tvg-chno="76136" tvg-name="Band Rio (BAND)" tvg-logo="https://zap2it.tmsimg.com/assets/s76136_ll_h15_ab.png" group-title="Brazil" tvg-id="ZYB514" tvc-guide-stationid="76136",Band Rio (BAND)
@@ -173,8 +171,6 @@ http://example.local/BRA-CGOV.ts
 http://example.local/BRA-LIKE.ts
 #EXTINF:-1 tvg-chno="38704" tvg-name="Canal Rural" tvg-logo="https://zap2it.tmsimg.com/assets/s38704_ll_h15_ab.png" group-title="Brazil" tvg-id="CRU" tvc-guide-stationid="38704",Canal Rural
 http://example.local/BRA-CRU.ts
-#EXTINF:-1 tvg-chno="113446" tvg-name="Canal Smithsonian HD" tvg-logo="https://zap2it.tmsimg.com/assets/s113446_ll_h15_ac.png" group-title="Brazil" tvg-id="SMITHHD" tvc-guide-stationid="113446",Canal Smithsonian HD
-http://example.local/BRA-SMITHHD.ts
 #EXTINF:-1 tvg-chno="95092" tvg-name="Canal Universitário CNU" tvg-logo="https://zap2it.tmsimg.com/assets/s95092_ll_h9_aa.png" group-title="Brazil" tvg-id="CNUSP" tvc-guide-stationid="95092",Canal Universitário CNU
 http://example.local/BRA-CNUSP.ts
 #EXTINF:-1 tvg-chno="94958" tvg-name="Canal Universitário TV UFSC" tvg-logo="https://zap2it.tmsimg.com/assets/s94958_ll_h9_aa.png" group-title="Brazil" tvg-id="TVUFSC" tvc-guide-stationid="94958",Canal Universitário TV UFSC
@@ -255,10 +251,10 @@ http://example.local/BRA-COMBA.ts
 http://example.local/BRA-COMBA2.ts
 #EXTINF:-1 tvg-chno="124758" tvg-name="Combate HD" tvg-logo="https://zap2it.tmsimg.com/assets/s124758_ll_h15_ab.png" group-title="Brazil" tvg-id="COMBATH" tvc-guide-stationid="124758",Combate HD
 http://example.local/BRA-COMBATH.ts
-#EXTINF:-1 tvg-chno="75832" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s75832_ll_h15_ab.png" group-title="Brazil" tvg-id="COMCENT" tvc-guide-stationid="75832",Comedy Central
-http://example.local/BRA-COMCENT.ts
 #EXTINF:-1 tvg-chno="83200" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s83200_ll_h15_ab.png" group-title="Brazil" tvg-id="COMCHD" tvc-guide-stationid="83200",Comedy Central
 http://example.local/BRA-COMCHD.ts
+#EXTINF:-1 tvg-chno="75832" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s75832_ll_h15_ab.png" group-title="Brazil" tvg-id="COMCENT" tvc-guide-stationid="75832",Comedy Central
+http://example.local/BRA-COMCENT.ts
 #EXTINF:-1 tvg-chno="37605" tvg-name="Cultura" tvg-logo="https://zap2it.tmsimg.com/assets/s37605_ll_h15_aa.png" group-title="Brazil" tvg-id="CULTURA" tvc-guide-stationid="37605",Cultura
 http://example.local/BRA-CULTURA.ts
 #EXTINF:-1 tvg-chno="98046" tvg-name="Cultura HD (CULTURA)" tvg-logo="https://zap2it.tmsimg.com/assets/s98046_ll_h15_aa.png" group-title="Brazil" tvg-id="CULTUHD" tvc-guide-stationid="98046",Cultura HD (CULTURA)
@@ -293,10 +289,10 @@ http://example.local/BRA-DTB.ts
 http://example.local/BRA-DTBHD.ts
 #EXTINF:-1 tvg-chno="75605" tvg-name="Discovery World HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75605_ll_h15_aa.png" group-title="Brazil" tvg-id="DWHDB" tvc-guide-stationid="75605",Discovery World HD
 http://example.local/BRA-DWHDB.ts
-#EXTINF:-1 tvg-chno="54592" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s54592_ll_h15_ab.png" group-title="Brazil" tvg-id="DISNB" tvc-guide-stationid="54592",Disney Channel
-http://example.local/BRA-DISNB.ts
 #EXTINF:-1 tvg-chno="75584" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75584_ll_h15_ab.png" group-title="Brazil" tvg-id="DISHD" tvc-guide-stationid="75584",Disney Channel
 http://example.local/BRA-DISHD.ts
+#EXTINF:-1 tvg-chno="54592" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s54592_ll_h15_ab.png" group-title="Brazil" tvg-id="DISNB" tvc-guide-stationid="54592",Disney Channel
+http://example.local/BRA-DISNB.ts
 #EXTINF:-1 tvg-chno="105899" tvg-name="DOGTV" tvg-logo="https://zap2it.tmsimg.com/assets/s105899_ll_h15_aa.png" group-title="Brazil" tvg-id="DOGTVB" tvc-guide-stationid="105899",DOGTV
 http://example.local/BRA-DOGTVB.ts
 #EXTINF:-1 tvg-chno="109971" tvg-name="DOGTV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105899_ll_h15_aa.png" group-title="Brazil" tvg-id="DOGBRHD" tvc-guide-stationid="109971",DOGTV HD
@@ -331,10 +327,10 @@ http://example.local/BRA-ESPN3B.ts
 http://example.local/BRA-ESPN4B.ts
 #EXTINF:-1 tvg-chno="76100" tvg-name="ESPN 4" tvg-logo="https://zap2it.tmsimg.com/assets/s76100_ll_h15_ac.png" group-title="Brazil" tvg-id="ESPN4BH" tvc-guide-stationid="76100",ESPN 4
 http://example.local/BRA-ESPN4BH.ts
-#EXTINF:-1 tvg-chno="90856" tvg-name="ESPN 5" tvg-logo="https://zap2it.tmsimg.com/assets/s90856_ll_h15_ac.png" group-title="Brazil" tvg-id="ESPN5SD" tvc-guide-stationid="90856",ESPN 5
-http://example.local/BRA-ESPN5SD.ts
 #EXTINF:-1 tvg-chno="86787" tvg-name="ESPN 5" tvg-logo="https://zap2it.tmsimg.com/assets/s86787_ll_h15_ac.png" group-title="Brazil" tvg-id="ESPN5B" tvc-guide-stationid="86787",ESPN 5
 http://example.local/BRA-ESPN5B.ts
+#EXTINF:-1 tvg-chno="90856" tvg-name="ESPN 5" tvg-logo="https://zap2it.tmsimg.com/assets/s90856_ll_h15_ac.png" group-title="Brazil" tvg-id="ESPN5SD" tvc-guide-stationid="90856",ESPN 5
+http://example.local/BRA-ESPN5SD.ts
 #EXTINF:-1 tvg-chno="99633" tvg-name="ESPN 6" tvg-logo="https://zap2it.tmsimg.com/assets/s99633_ll_h15_ag.png" group-title="Brazil" tvg-id="ESPN6B" tvc-guide-stationid="99633",ESPN 6
 http://example.local/BRA-ESPN6B.ts
 #EXTINF:-1 tvg-chno="99221" tvg-name="Esporte Interativo" tvg-logo="https://zap2it.tmsimg.com/assets/s99221_ll_h15_aa.png" group-title="Brazil" tvg-id="EIMAXX" tvc-guide-stationid="99221",Esporte Interativo
@@ -419,14 +415,14 @@ http://example.local/BRA-GOLFCHD.ts
 http://example.local/BRA-GOLFCH.ts
 #EXTINF:-1 tvg-chno="125248" tvg-name="Gospel" group-title="Brazil" tvg-id="GOSPTEL" tvc-guide-stationid="125248",Gospel
 http://example.local/BRA-GOSPTEL.ts
-#EXTINF:-1 tvg-chno="15361" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s15361_ll_h15_ab.png" group-title="Brazil" tvg-id="HBOB" tvc-guide-stationid="15361",HBO
-http://example.local/BRA-HBOB.ts
 #EXTINF:-1 tvg-chno="76101" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s76101_ll_h15_ad.png" group-title="Brazil" tvg-id="HBOHDB" tvc-guide-stationid="76101",HBO
 http://example.local/BRA-HBOHDB.ts
-#EXTINF:-1 tvg-chno="56092" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s56092_ll_h15_ab.png" group-title="Brazil" tvg-id="HBOFBE" tvc-guide-stationid="56092",HBO Family
-http://example.local/BRA-HBOFBE.ts
+#EXTINF:-1 tvg-chno="15361" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s15361_ll_h15_ab.png" group-title="Brazil" tvg-id="HBOB" tvc-guide-stationid="15361",HBO
+http://example.local/BRA-HBOB.ts
 #EXTINF:-1 tvg-chno="98096" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s98096_ll_h15_ad.png" group-title="Brazil" tvg-id="HBOFBHD" tvc-guide-stationid="98096",HBO Family
 http://example.local/BRA-HBOFBHD.ts
+#EXTINF:-1 tvg-chno="56092" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s56092_ll_h15_ab.png" group-title="Brazil" tvg-id="HBOFBE" tvc-guide-stationid="56092",HBO Family
+http://example.local/BRA-HBOFBE.ts
 #EXTINF:-1 tvg-chno="136279" tvg-name="HBO Max LA 09" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0025RKSF.png" group-title="Brazil" tvg-id="MLA9" tvc-guide-stationid="136279",HBO Max LA 09
 http://example.local/BRA-MLA9.ts
 #EXTINF:-1 tvg-chno="136280" tvg-name="HBO Max LA 10" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0025RKT4.png" group-title="Brazil" tvg-id="MLA10" tvc-guide-stationid="136280",HBO Max LA 10
@@ -461,18 +457,18 @@ http://example.local/BRA-HBOPBE.ts
 http://example.local/BRA-HBOPOP.ts
 #EXTINF:-1 tvg-chno="96072" tvg-name="HBO Pop SD" tvg-logo="https://zap2it.tmsimg.com/assets/s96072_ll_h15_ab.png" group-title="Brazil" tvg-id="HBOPSD" tvc-guide-stationid="96072",HBO Pop SD
 http://example.local/BRA-HBOPSD.ts
-#EXTINF:-1 tvg-chno="74530" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s74530_ll_h15_ac.png" group-title="Brazil" tvg-id="HBOSB" tvc-guide-stationid="74530",HBO Signature
-http://example.local/BRA-HBOSB.ts
 #EXTINF:-1 tvg-chno="98088" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s98088_ll_h15_ad.png" group-title="Brazil" tvg-id="HBOSBHD" tvc-guide-stationid="98088",HBO Signature
 http://example.local/BRA-HBOSBHD.ts
+#EXTINF:-1 tvg-chno="74530" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s74530_ll_h15_ac.png" group-title="Brazil" tvg-id="HBOSB" tvc-guide-stationid="74530",HBO Signature
+http://example.local/BRA-HBOSB.ts
 #EXTINF:-1 tvg-chno="54590" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s54590_ll_h15_ac.png" group-title="Brazil" tvg-id="HBOXTRM" tvc-guide-stationid="54590",HBO Xtreme
 http://example.local/BRA-HBOXTRM.ts
 #EXTINF:-1 tvg-chno="104742" tvg-name="HBO Xtreme SD" tvg-logo="https://zap2it.tmsimg.com/assets/s104742_ll_h15_ab.png" group-title="Brazil" tvg-id="HBOXTSD" tvc-guide-stationid="104742",HBO Xtreme SD
 http://example.local/BRA-HBOXTSD.ts
-#EXTINF:-1 tvg-chno="75588" tvg-name="HBO2" tvg-logo="https://zap2it.tmsimg.com/assets/s75588_ll_h15_ab.png" group-title="Brazil" tvg-id="HBO2B" tvc-guide-stationid="75588",HBO2
-http://example.local/BRA-HBO2B.ts
 #EXTINF:-1 tvg-chno="98075" tvg-name="HBO2" tvg-logo="https://zap2it.tmsimg.com/assets/s98075_ll_h15_ad.png" group-title="Brazil" tvg-id="HBO2BHD" tvc-guide-stationid="98075",HBO2
 http://example.local/BRA-HBO2BHD.ts
+#EXTINF:-1 tvg-chno="75588" tvg-name="HBO2" tvg-logo="https://zap2it.tmsimg.com/assets/s75588_ll_h15_ab.png" group-title="Brazil" tvg-id="HBO2B" tvc-guide-stationid="75588",HBO2
+http://example.local/BRA-HBO2B.ts
 #EXTINF:-1 tvg-chno="111476" tvg-name="HGTV" tvg-logo="https://zap2it.tmsimg.com/assets/s111476_ll_h15_ac.png" group-title="Brazil" tvg-id="HGTVB" tvc-guide-stationid="111476",HGTV
 http://example.local/BRA-HGTVB.ts
 #EXTINF:-1 tvg-chno="111477" tvg-name="HGTV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s111477_ll_h15_ac.png" group-title="Brazil" tvg-id="HGTVBH" tvc-guide-stationid="111477",HGTV HD
@@ -525,26 +521,24 @@ http://example.local/BRA-MGPIXHD.ts
 http://example.local/BRA-MEIONOR.ts
 #EXTINF:-1 tvg-chno="103725" tvg-name="Meio Norte HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103725_ll_h15_aa.png" group-title="Brazil" tvg-id="MEINOHD" tvc-guide-stationid="103725",Meio Norte HD
 http://example.local/BRA-MEINOHD.ts
-#EXTINF:-1 tvg-chno="94121" tvg-name="Modo Viagem" tvg-logo="https://zap2it.tmsimg.com/assets/s94121_ll_h15_ad.png" group-title="Brazil" tvg-id="MOVISD" tvc-guide-stationid="94121",Modo Viagem
-http://example.local/BRA-MOVISD.ts
 #EXTINF:-1 tvg-chno="74979" tvg-name="Modo Viagem" tvg-logo="https://zap2it.tmsimg.com/assets/s74979_ll_h15_ad.png" group-title="Brazil" tvg-id="MOVIHD" tvc-guide-stationid="74979",Modo Viagem
 http://example.local/BRA-MOVIHD.ts
+#EXTINF:-1 tvg-chno="94121" tvg-name="Modo Viagem" tvg-logo="https://zap2it.tmsimg.com/assets/s94121_ll_h15_ad.png" group-title="Brazil" tvg-id="MOVISD" tvc-guide-stationid="94121",Modo Viagem
+http://example.local/BRA-MOVISD.ts
 #EXTINF:-1 tvg-chno="78139" tvg-name="Mosaico Big Brother Brasil" group-title="Brazil" tvg-id="MOBBBRA" tvc-guide-stationid="78139",Mosaico Big Brother Brasil
 http://example.local/BRA-MOBBBRA.ts
-#EXTINF:-1 tvg-chno="15416" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15416_ll_h15_ab.png" group-title="Brazil" tvg-id="MTVB" tvc-guide-stationid="15416",MTV
-http://example.local/BRA-MTVB.ts
 #EXTINF:-1 tvg-chno="78154" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s78154_ll_h15_ab.png" group-title="Brazil" tvg-id="MTVBRHD" tvc-guide-stationid="78154",MTV
 http://example.local/BRA-MTVBRHD.ts
-#EXTINF:-1 tvg-chno="76238" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s76238_ll_h15_ab.png" group-title="Brazil" tvg-id="ZYAMTV" tvc-guide-stationid="76238",MTV
-http://example.local/BRA-ZYAMTV.ts
+#EXTINF:-1 tvg-chno="15416" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15416_ll_h15_ab.png" group-title="Brazil" tvg-id="MTVB" tvc-guide-stationid="15416",MTV
+http://example.local/BRA-MTVB.ts
 #EXTINF:-1 tvg-chno="103763" tvg-name="MTV 00s" tvg-logo="https://zap2it.tmsimg.com/assets/s103763_ll_h15_ad.png" group-title="Brazil" tvg-id="MTV00SB" tvc-guide-stationid="103763",MTV 00s
 http://example.local/BRA-MTV00SB.ts
 #EXTINF:-1 tvg-chno="113443" tvg-name="MTV Live" tvg-logo="https://zap2it.tmsimg.com/assets/s113443_ll_h15_ab.png" group-title="Brazil" tvg-id="MTVLVOI" tvc-guide-stationid="113443",MTV Live
 http://example.local/BRA-MTVLVOI.ts
-#EXTINF:-1 tvg-chno="61176" tvg-name="MTV Live HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61176_ll_h15_aa.png" group-title="Brazil" tvg-id="MTVLHDK" tvc-guide-stationid="61176",MTV Live HD
-http://example.local/BRA-MTVLHDK.ts
 #EXTINF:-1 tvg-chno="113444" tvg-name="MTV Live HD" tvg-logo="https://zap2it.tmsimg.com/assets/s113444_ll_h15_ab.png" group-title="Brazil" tvg-id="MTVOIHD" tvc-guide-stationid="113444",MTV Live HD
 http://example.local/BRA-MTVOIHD.ts
+#EXTINF:-1 tvg-chno="61176" tvg-name="MTV Live HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61176_ll_h15_aa.png" group-title="Brazil" tvg-id="MTVLHDK" tvc-guide-stationid="61176",MTV Live HD
+http://example.local/BRA-MTVLHDK.ts
 #EXTINF:-1 tvg-chno="105479" tvg-name="Multicultura" tvg-logo="https://zap2it.tmsimg.com/assets/s105479_ll_h9_aa.png" group-title="Brazil" tvg-id="MLTCULT" tvc-guide-stationid="105479",Multicultura
 http://example.local/BRA-MLTCULT.ts
 #EXTINF:-1 tvg-chno="15680" tvg-name="Multishow" tvg-logo="https://zap2it.tmsimg.com/assets/s15680_ll_h15_ad.png" group-title="Brazil" tvg-id="MSW" tvc-guide-stationid="15680",Multishow
@@ -567,14 +561,14 @@ http://example.local/BRA-NDTVHD.ts
 http://example.local/BRA-NHKBRHD.ts
 #EXTINF:-1 tvg-chno="75921" tvg-name="NHK World Premium" tvg-logo="https://zap2it.tmsimg.com/assets/s75921_ll_h15_aa.png" group-title="Brazil" tvg-id="NHKBR" tvc-guide-stationid="75921",NHK World Premium
 http://example.local/BRA-NHKBR.ts
-#EXTINF:-1 tvg-chno="78242" tvg-name="Nick Jr." tvg-logo="https://zap2it.tmsimg.com/assets/s78242_ll_h15_aa.png" group-title="Brazil" tvg-id="NKJRBRZ" tvc-guide-stationid="78242",Nick Jr.
-http://example.local/BRA-NKJRBRZ.ts
 #EXTINF:-1 tvg-chno="104754" tvg-name="Nick Jr." tvg-logo="https://zap2it.tmsimg.com/assets/s104754_ll_h15_aa.png" group-title="Brazil" tvg-id="NJRBRHD" tvc-guide-stationid="104754",Nick Jr.
 http://example.local/BRA-NJRBRHD.ts
-#EXTINF:-1 tvg-chno="16708" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s16708_ll_h15_ab.png" group-title="Brazil" tvg-id="NIKB" tvc-guide-stationid="16708",Nickelodeon
-http://example.local/BRA-NIKB.ts
+#EXTINF:-1 tvg-chno="78242" tvg-name="Nick Jr." tvg-logo="https://zap2it.tmsimg.com/assets/s78242_ll_h15_aa.png" group-title="Brazil" tvg-id="NKJRBRZ" tvc-guide-stationid="78242",Nick Jr.
+http://example.local/BRA-NKJRBRZ.ts
 #EXTINF:-1 tvg-chno="75919" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s75919_ll_h15_ac.png" group-title="Brazil" tvg-id="NICHD" tvc-guide-stationid="75919",Nickelodeon
 http://example.local/BRA-NICHD.ts
+#EXTINF:-1 tvg-chno="16708" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s16708_ll_h15_ab.png" group-title="Brazil" tvg-id="NIKB" tvc-guide-stationid="16708",Nickelodeon
+http://example.local/BRA-NIKB.ts
 #EXTINF:-1 tvg-chno="104779" tvg-name="NordesTV HD (BAND)" tvg-logo="https://zap2it.tmsimg.com/assets/s104779_ll_h15_aa.png" group-title="Brazil" tvg-id="NORDESH" tvc-guide-stationid="104779",NordesTV HD (BAND)
 http://example.local/BRA-NORDESH.ts
 #EXTINF:-1 tvg-chno="105711" tvg-name="NSC TV Blumenau HD (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/s105711_ll_h15_ab.png" group-title="Brazil" tvg-id="RBSBLHD" tvc-guide-stationid="105711",NSC TV Blumenau HD (REDEGL)
@@ -617,10 +611,10 @@ http://example.local/BRA-PRMR2HD.ts
 http://example.local/BRA-PR2SHD.ts
 #EXTINF:-1 tvg-chno="95290" tvg-name="Premiere 3" tvg-logo="https://zap2it.tmsimg.com/assets/s95290_ll_h15_aa.png" group-title="Brazil" tvg-id="PR3UBE" tvc-guide-stationid="95290",Premiere 3
 http://example.local/BRA-PR3UBE.ts
-#EXTINF:-1 tvg-chno="102413" tvg-name="Premiere 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102413_ll_h15_aa.png" group-title="Brazil" tvg-id="PR3UHD" tvc-guide-stationid="102413",Premiere 3 HD
-http://example.local/BRA-PR3UHD.ts
 #EXTINF:-1 tvg-chno="110890" tvg-name="Premiere 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s110890_ll_h15_ab.png" group-title="Brazil" tvg-id="PRMR3HD" tvc-guide-stationid="110890",Premiere 3 HD
 http://example.local/BRA-PRMR3HD.ts
+#EXTINF:-1 tvg-chno="102413" tvg-name="Premiere 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102413_ll_h15_aa.png" group-title="Brazil" tvg-id="PR3UHD" tvc-guide-stationid="102413",Premiere 3 HD
+http://example.local/BRA-PR3UHD.ts
 #EXTINF:-1 tvg-chno="56087" tvg-name="Premiere 4" tvg-logo="https://zap2it.tmsimg.com/assets/s56087_ll_h15_ab.png" group-title="Brazil" tvg-id="PRMR4" tvc-guide-stationid="56087",Premiere 4
 http://example.local/BRA-PRMR4.ts
 #EXTINF:-1 tvg-chno="110891" tvg-name="Premiere 4 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s110891_ll_h15_ab.png" group-title="Brazil" tvg-id="PRMR4HD" tvc-guide-stationid="110891",Premiere 4 HD
@@ -943,8 +937,6 @@ http://example.local/BRA-SEXBR.ts
 http://example.local/BRA-SEXTRMB.ts
 #EXTINF:-1 tvg-chno="56088" tvg-name="Sexy Hot" tvg-logo="https://zap2it.tmsimg.com/assets/s56088_ll_h15_ac.png" group-title="Brazil" tvg-id="SEXYHOT" tvc-guide-stationid="56088",Sexy Hot
 http://example.local/BRA-SEXYHOT.ts
-#EXTINF:-1 tvg-chno="107916" tvg-name="SEXY HOT HD" tvg-logo="https://zap2it.tmsimg.com/assets/s107916_ll_h15_ac.png" group-title="Brazil" tvg-id="SEXHOTH" tvc-guide-stationid="107916",SEXY HOT HD
-http://example.local/BRA-SEXHOTH.ts
 #EXTINF:-1 tvg-chno="76103" tvg-name="SIC Internacional Europa" tvg-logo="https://zap2it.tmsimg.com/assets/s76103_ll_h9_ab.png" group-title="Brazil" tvg-id="SICINT" tvc-guide-stationid="76103",SIC Internacional Europa
 http://example.local/BRA-SICINT.ts
 #EXTINF:-1 tvg-chno="76662" tvg-name="SIC TV (RREC)" tvg-logo="https://zap2it.tmsimg.com/assets/s76662_ll_h9_aa.png" group-title="Brazil" tvg-id="ZYB597" tvc-guide-stationid="76662",SIC TV (RREC)
@@ -961,8 +953,6 @@ http://example.local/BRA-SONYHDB.ts
 http://example.local/BRA-SPACEB.ts
 #EXTINF:-1 tvg-chno="75598" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s75598_ll_h15_aa.png" group-title="Brazil" tvg-id="SPACEHB" tvc-guide-stationid="75598",Space
 http://example.local/BRA-SPACEHB.ts
-#EXTINF:-1 tvg-chno="122137" tvg-name="Space HD" group-title="Brazil" tvg-id="SPACEBOI" tvc-guide-stationid="122137",Space HD
-http://example.local/BRA-SPACEBOI.ts
 #EXTINF:-1 tvg-chno="56103" tvg-name="sportv" tvg-logo="https://zap2it.tmsimg.com/assets/s56103_ll_h15_ad.png" group-title="Brazil" tvg-id="SPORTV" tvc-guide-stationid="56103",sportv
 http://example.local/BRA-SPORTV.ts
 #EXTINF:-1 tvg-chno="120213" tvg-name="SporTV 4" tvg-logo="https://zap2it.tmsimg.com/assets/s120213_ll_h15_ae.png" group-title="Brazil" tvg-id="SPORT4" tvc-guide-stationid="120213",SporTV 4
@@ -989,8 +979,6 @@ http://example.local/BRA-SPTYNET1.ts
 http://example.local/BRA-SPTYNET2.ts
 #EXTINF:-1 tvg-chno="150688" tvg-name="SportyNet +3" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0025JHYX.png" group-title="Brazil" tvg-id="SPTYNET3" tvc-guide-stationid="150688",SportyNet +3
 http://example.local/BRA-SPTYNET3.ts
-#EXTINF:-1 tvg-chno="104763" tvg-name="Star Hits 2 SD" tvg-logo="https://zap2it.tmsimg.com/assets/s104763_ll_h15_ac.png" group-title="Brazil" tvg-id="STARH2SD" tvc-guide-stationid="104763",Star Hits 2 SD
-http://example.local/BRA-STARH2SD.ts
 #EXTINF:-1 tvg-chno="16427" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s16427_ll_h15_aa.png" group-title="Brazil" tvg-id="STUBR" tvc-guide-stationid="16427",Studio Universal
 http://example.local/BRA-STUBR.ts
 #EXTINF:-1 tvg-chno="104740" tvg-name="Studio Universal HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104740_ll_h15_aa.png" group-title="Brazil" tvg-id="STUBRHD" tvc-guide-stationid="104740",Studio Universal HD
@@ -1029,8 +1017,6 @@ http://example.local/BRA-TCTCH.ts
 http://example.local/BRA-TCTCHHD.ts
 #EXTINF:-1 tvg-chno="100066" tvg-name="Telefe Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s100066_ll_h15_ad.png" group-title="Brazil" tvg-id="TELEFEA" tvc-guide-stationid="100066",Telefe Internacional
 http://example.local/BRA-TELEFEA.ts
-#EXTINF:-1 tvg-chno="16189" tvg-name="Telefe Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s100066_ll_h15_ad.png" group-title="Brazil" tvg-id="TEFEI" tvc-guide-stationid="16189",Telefe Internacional
-http://example.local/BRA-TEFEI.ts
 #EXTINF:-1 tvg-chno="75604" tvg-name="Terraviva (BAND)" tvg-logo="https://zap2it.tmsimg.com/assets/s75604_ll_h15_ab.png" group-title="Brazil" tvg-id="VIVA" tvc-guide-stationid="75604",Terraviva (BAND)
 http://example.local/BRA-VIVA.ts
 #EXTINF:-1 tvg-chno="103757" tvg-name="Terraviva HD (BAND)" tvg-logo="https://zap2it.tmsimg.com/assets/s103757_ll_h15_aa.png" group-title="Brazil" tvg-id="TVIVAHD" tvc-guide-stationid="103757",Terraviva HD (BAND)
@@ -1049,16 +1035,10 @@ http://example.local/BRA-TNOBRHD.ts
 http://example.local/BRA-TNOBRSD.ts
 #EXTINF:-1 tvg-chno="92007" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_ll_h15_ab.png" group-title="Brazil" tvg-id="TNTSERE" tvc-guide-stationid="92007",TNT Series
 http://example.local/BRA-TNTSERE.ts
-#EXTINF:-1 tvg-chno="92105" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_ll_h15_ab.png" group-title="Brazil" tvg-id="TNTSPAE" tvc-guide-stationid="92105",TNT Series
-http://example.local/BRA-TNTSPAE.ts
 #EXTINF:-1 tvg-chno="101728" tvg-name="TNT Séries" tvg-logo="https://zap2it.tmsimg.com/assets/s101728_ll_h15_ab.png" group-title="Brazil" tvg-id="TNTSBHD" tvc-guide-stationid="101728",TNT Séries
 http://example.local/BRA-TNTSBHD.ts
-#EXTINF:-1 tvg-chno="97987" tvg-name="TNT Séries" tvg-logo="https://zap2it.tmsimg.com/assets/s97987_ll_h15_aa.png" group-title="Brazil" tvg-id="TNTSBR" tvc-guide-stationid="97987",TNT Séries
-http://example.local/BRA-TNTSBR.ts
 #EXTINF:-1 tvg-chno="83240" tvg-name="Tooncast" tvg-logo="https://zap2it.tmsimg.com/assets/s83240_ll_h15_aa.png" group-title="Brazil" tvg-id="TOONCB" tvc-guide-stationid="83240",Tooncast
 http://example.local/BRA-TOONCB.ts
-#EXTINF:-1 tvg-chno="124748" tvg-name="Tooncast HD" tvg-logo="https://zap2it.tmsimg.com/assets/s124748_ll_h15_aa.png" group-title="Brazil" tvg-id="TOONCBH" tvc-guide-stationid="124748",Tooncast HD
-http://example.local/BRA-TOONCBH.ts
 #EXTINF:-1 tvg-chno="115022" tvg-name="Trace Brasil" tvg-logo="https://zap2it.tmsimg.com/assets/s115022_ll_h15_ac.png" group-title="Brazil" tvg-id="TBRASIL" tvc-guide-stationid="115022",Trace Brasil
 http://example.local/BRA-TBRASIL.ts
 #EXTINF:-1 tvg-chno="98059" tvg-name="Travel Box Brazil" tvg-logo="https://zap2it.tmsimg.com/assets/s98059_ll_h15_ac.png" group-title="Brazil" tvg-id="TRAVBR" tvc-guide-stationid="98059",Travel Box Brazil
@@ -1121,7 +1101,7 @@ http://example.local/BRA-APERHD.ts
 http://example.local/BRA-APOIOHD.ts
 #EXTINF:-1 tvg-chno="76567" tvg-name="TV Arapuan (BAND)" tvg-logo="https://zap2it.tmsimg.com/assets/s76567_ll_h15_aa.png" group-title="Brazil" tvg-id="ZYB277" tvc-guide-stationid="76567",TV Arapuan (BAND)
 http://example.local/BRA-ZYB277.ts
-#EXTINF:-1 tvg-chno="104467" tvg-name="TV Arapuan HD (REDETV)" tvg-logo="https://zap2it.tmsimg.com/assets/s104467_ll_h15_aa.png" group-title="Brazil" tvg-id="ARAPUHD" tvc-guide-stationid="104467",TV Arapuan HD (REDETV)
+#EXTINF:-1 tvg-chno="104467" tvg-name="TV Arapuan HD (BAND)" tvg-logo="https://zap2it.tmsimg.com/assets/s104467_ll_h15_aa.png" group-title="Brazil" tvg-id="ARAPUHD" tvc-guide-stationid="104467",TV Arapuan HD (BAND)
 http://example.local/BRA-ARAPUHD.ts
 #EXTINF:-1 tvg-chno="76438" tvg-name="TV Aratu (SBT)" tvg-logo="https://zap2it.tmsimg.com/assets/s76438_ll_h9_aa.png" group-title="Brazil" tvg-id="ZYA296" tvc-guide-stationid="76438",TV Aratu (SBT)
 http://example.local/BRA-ZYA296.ts
@@ -1229,10 +1209,6 @@ http://example.local/BRA-TVEQUIN.ts
 http://example.local/BRA-EQUINHD.ts
 #EXTINF:-1 tvg-chno="105721" tvg-name="TV Feliz HD (REDETV)" tvg-logo="https://zap2it.tmsimg.com/assets/s105721_ll_h15_aa.png" group-title="Brazil" tvg-id="FELIZHD" tvc-guide-stationid="105721",TV Feliz HD (REDETV)
 http://example.local/BRA-FELIZHD.ts
-#EXTINF:-1 tvg-chno="76234" tvg-name="TV Gazeta de Alagoas (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/s76234_ll_h9_ac.png" group-title="Brazil" tvg-id="ZYA221" tvc-guide-stationid="76234",TV Gazeta de Alagoas (REDEGL)
-http://example.local/BRA-ZYA221.ts
-#EXTINF:-1 tvg-chno="104780" tvg-name="TV Gazeta de Alagoas (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/s104780_ll_h15_ac.png" group-title="Brazil" tvg-id="GAZALHD" tvc-guide-stationid="104780",TV Gazeta de Alagoas (REDEGL)
-http://example.local/BRA-GAZALHD.ts
 #EXTINF:-1 tvg-chno="104470" tvg-name="TV Gazeta HD (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/s104470_ll_h15_ac.png" group-title="Brazil" tvg-id="GAZETAH" tvc-guide-stationid="104470",TV Gazeta HD (REDEGL)
 http://example.local/BRA-GAZETAH.ts
 #EXTINF:-1 tvg-chno="76421" tvg-name="TV Gazeta Rio Branco (RREC)" tvg-logo="https://zap2it.tmsimg.com/assets/s76421_ll_h9_aa.png" group-title="Brazil" tvg-id="ZYA202" tvc-guide-stationid="76421",TV Gazeta Rio Branco (RREC)
@@ -1379,12 +1355,12 @@ http://example.local/BRA-ZYB303.ts
 http://example.local/BRA-SBTV.ts
 #EXTINF:-1 tvg-chno="75870" tvg-name="TV Tribuna (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/s75870_ll_h15_aa.png" group-title="Brazil" tvg-id="GLBTRIB" tvc-guide-stationid="75870",TV Tribuna (REDEGL)
 http://example.local/BRA-GLBTRIB.ts
+#EXTINF:-1 tvg-chno="104480" tvg-name="TV Tribuna HD (BAND)" tvg-logo="https://zap2it.tmsimg.com/assets/s104480_ll_h15_ac.png" group-title="Brazil" tvg-id="BTRIBUH" tvc-guide-stationid="104480",TV Tribuna HD (BAND)
+http://example.local/BRA-BTRIBUH.ts
 #EXTINF:-1 tvg-chno="104331" tvg-name="TV Tribuna HD (SBT)" tvg-logo="https://zap2it.tmsimg.com/assets/s104331_ll_h15_ad.png" group-title="Brazil" tvg-id="TRIBUHD" tvc-guide-stationid="104331",TV Tribuna HD (SBT)
 http://example.local/BRA-TRIBUHD.ts
 #EXTINF:-1 tvg-chno="106538" tvg-name="TV Tribuna HD (REDEGL)" tvg-logo="https://zap2it.tmsimg.com/assets/s106538_ll_h15_aa.png" group-title="Brazil" tvg-id="TRISPHD" tvc-guide-stationid="106538",TV Tribuna HD (REDEGL)
 http://example.local/BRA-TRISPHD.ts
-#EXTINF:-1 tvg-chno="104480" tvg-name="TV Tribuna HD (BAND)" tvg-logo="https://zap2it.tmsimg.com/assets/s104480_ll_h15_ac.png" group-title="Brazil" tvg-id="BTRIBUH" tvc-guide-stationid="104480",TV Tribuna HD (BAND)
-http://example.local/BRA-BTRIBUH.ts
 #EXTINF:-1 tvg-chno="76664" tvg-name="TV Tropical (SBT)" tvg-logo="https://zap2it.tmsimg.com/assets/s76664_ll_h15_aa.png" group-title="Brazil" tvg-id="ZYB601" tvc-guide-stationid="76664",TV Tropical (SBT)
 http://example.local/BRA-ZYB601.ts
 #EXTINF:-1 tvg-chno="76651" tvg-name="TV Tropical (RREC)" tvg-logo="https://zap2it.tmsimg.com/assets/s76651_ll_h15_ab.png" group-title="Brazil" tvg-id="ZYB563" tvc-guide-stationid="76651",TV Tropical (RREC)
@@ -1425,18 +1401,16 @@ http://example.local/BRA-TVE.ts
 http://example.local/BRA-ZYB621.ts
 #EXTINF:-1 tvg-chno="76753" tvg-name="TVE Bahia" tvg-logo="https://zap2it.tmsimg.com/assets/s76753_ll_h9_aa.png" group-title="Brazil" tvg-id="ZYA299" tvc-guide-stationid="76753",TVE Bahia
 http://example.local/BRA-ZYA299.ts
-#EXTINF:-1 tvg-chno="95182" tvg-name="TVT" tvg-logo="https://zap2it.tmsimg.com/assets/s95182_ll_h9_aa.png" group-title="Brazil" tvg-id="TVTMC" tvc-guide-stationid="95182",TVT
-http://example.local/BRA-TVTMC.ts
 #EXTINF:-1 tvg-chno="16138" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s16138_ll_h15_aa.png" group-title="Brazil" tvg-id="UNVRB" tvc-guide-stationid="16138",Universal TV
 http://example.local/BRA-UNVRB.ts
 #EXTINF:-1 tvg-chno="94571" tvg-name="Universal TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s94571_ll_h15_ab.png" group-title="Brazil" tvg-id="UNVRBHD" tvc-guide-stationid="94571",Universal TV HD
 http://example.local/BRA-UNVRBHD.ts
 #EXTINF:-1 tvg-chno="105478" tvg-name="Univesp TV" tvg-logo="https://zap2it.tmsimg.com/assets/s105478_ll_h15_aa.png" group-title="Brazil" tvg-id="UNIVESP" tvc-guide-stationid="105478",Univesp TV
 http://example.local/BRA-UNIVESP.ts
-#EXTINF:-1 tvg-chno="75599" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s75599_ll_h15_ab.png" group-title="Brazil" tvg-id="USABR" tvc-guide-stationid="75599",USA
-http://example.local/BRA-USABR.ts
 #EXTINF:-1 tvg-chno="104739" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s104739_ll_h15_ab.png" group-title="Brazil" tvg-id="USABHD" tvc-guide-stationid="104739",USA
 http://example.local/BRA-USABHD.ts
+#EXTINF:-1 tvg-chno="75599" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s75599_ll_h15_ab.png" group-title="Brazil" tvg-id="USABR" tvc-guide-stationid="75599",USA
+http://example.local/BRA-USABR.ts
 #EXTINF:-1 tvg-chno="114257" tvg-name="Venus TV SD" tvg-logo="https://zap2it.tmsimg.com/assets/s114257_ll_h15_aa.png" group-title="Brazil" tvg-id="VENUSSD" tvc-guide-stationid="114257",Venus TV SD
 http://example.local/BRA-VENUSSD.ts
 #EXTINF:-1 tvg-chno="75801" tvg-name="Verdes Mares" group-title="Brazil" tvg-id="VERDMAR" tvc-guide-stationid="75801",Verdes Mares

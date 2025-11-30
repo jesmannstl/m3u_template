@@ -59,10 +59,10 @@ http://example.local/SWE-DISCCHA.ts
 http://example.local/SWE-DISCOHD.ts
 #EXTINF:-1 tvg-chno="69425" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s69425_ll_h15_aa.png" group-title="Sweden" tvg-id="DISCSCI" tvc-guide-stationid="69425",Discovery Science
 http://example.local/SWE-DISCSCI.ts
-#EXTINF:-1 tvg-chno="24282" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s24282_ll_h15_ab.png" group-title="Sweden" tvg-id="DISSCI" tvc-guide-stationid="24282",Discovery Science
-http://example.local/SWE-DISSCI.ts
 #EXTINF:-1 tvg-chno="104941" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s104941_ll_h15_aa.png" group-title="Sweden" tvg-id="DSCISA" tvc-guide-stationid="104941",Discovery Science
 http://example.local/SWE-DSCISA.ts
+#EXTINF:-1 tvg-chno="24282" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s24282_ll_h15_ab.png" group-title="Sweden" tvg-id="DISSCI" tvc-guide-stationid="24282",Discovery Science
+http://example.local/SWE-DISSCI.ts
 #EXTINF:-1 tvg-chno="115312" tvg-name="Discovery+ Extra 1" tvg-logo="https://zap2it.tmsimg.com/assets/s115312_ll_h15_ab.png" group-title="Sweden" tvg-id="DPLEXT1" tvc-guide-stationid="115312",Discovery+ Extra 1
 http://example.local/SWE-DPLEXT1.ts
 #EXTINF:-1 tvg-chno="115313" tvg-name="Discovery+ Extra 2" tvg-logo="https://zap2it.tmsimg.com/assets/s115313_ll_h15_ab.png" group-title="Sweden" tvg-id="DPLEXT2" tvc-guide-stationid="115313",Discovery+ Extra 2
@@ -113,10 +113,10 @@ http://example.local/SWE-EURSP2H.ts
 http://example.local/SWE-EXTRSP.ts
 #EXTINF:-1 tvg-chno="25027" tvg-name="Extreme Sports Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s25027_ll_h15_aa.png" group-title="Sweden" tvg-id="EXTREME" tvc-guide-stationid="25027",Extreme Sports Channel
 http://example.local/SWE-EXTREME.ts
-#EXTINF:-1 tvg-chno="100285" tvg-name="Fight Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s100285_ll_h9_aa.png" group-title="Sweden" tvg-id="FIGHTNO" tvc-guide-stationid="100285",Fight Sports
-http://example.local/SWE-FIGHTNO.ts
 #EXTINF:-1 tvg-chno="104930" tvg-name="Fight Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s104930_ll_h15_aa.png" group-title="Sweden" tvg-id="FIGHTSA" tvc-guide-stationid="104930",Fight Sports
 http://example.local/SWE-FIGHTSA.ts
+#EXTINF:-1 tvg-chno="100285" tvg-name="Fight Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s100285_ll_h9_aa.png" group-title="Sweden" tvg-id="FIGHTNO" tvc-guide-stationid="100285",Fight Sports
+http://example.local/SWE-FIGHTNO.ts
 #EXTINF:-1 tvg-chno="104931" tvg-name="Fight Sports HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104931_ll_h9_aa.png" group-title="Sweden" tvg-id="FIGSAHD" tvc-guide-stationid="104931",Fight Sports HD
 http://example.local/SWE-FIGSAHD.ts
 #EXTINF:-1 tvg-chno="68135" tvg-name="Food Network" tvg-logo="https://zap2it.tmsimg.com/assets/s68135_ll_h15_aa.png" group-title="Sweden" tvg-id="FOODEUR" tvc-guide-stationid="68135",Food Network
@@ -169,10 +169,12 @@ http://example.local/SWE-KANAL9H.ts
 http://example.local/SWE-KUNSKAP.ts
 #EXTINF:-1 tvg-chno="99333" tvg-name="Kunskapskanalen HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99333_ll_h15_ab.png" group-title="Sweden" tvg-id="KUNSKHD" tvc-guide-stationid="99333",Kunskapskanalen HD
 http://example.local/SWE-KUNSKHD.ts
-#EXTINF:-1 tvg-chno="109166" tvg-name="Love Nature" tvg-logo="https://zap2it.tmsimg.com/assets/s109166_ll_h15_aa.png" group-title="Sweden" tvg-id="LONATVM" tvc-guide-stationid="109166",Love Nature
-http://example.local/SWE-LONATVM.ts
 #EXTINF:-1 tvg-chno="109165" tvg-name="Love Nature" tvg-logo="https://zap2it.tmsimg.com/assets/s109165_ll_h15_aa.png" group-title="Sweden" tvg-id="LONATUK" tvc-guide-stationid="109165",Love Nature
 http://example.local/SWE-LONATUK.ts
+#EXTINF:-1 tvg-chno="109166" tvg-name="Love Nature" tvg-logo="https://zap2it.tmsimg.com/assets/s109166_ll_h15_aa.png" group-title="Sweden" tvg-id="LONATVM" tvc-guide-stationid="109166",Love Nature
+http://example.local/SWE-LONATVM.ts
+#EXTINF:-1 tvg-chno="192664" tvg-name="Love Nature" tvg-logo="https://zap2it.tmsimg.com/assets/s119141_ll_h15_ac.png" group-title="Sweden" tvg-id="LOVENSV" tvc-guide-stationid="192664",Love Nature
+http://example.local/SWE-LOVENSV.ts
 #EXTINF:-1 tvg-chno="105889" tvg-name="Love Nature HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105889_ll_h15_ab.png" group-title="Sweden" tvg-id="LONOHDV" tvc-guide-stationid="105889",Love Nature HD
 http://example.local/SWE-LONOHDV.ts
 #EXTINF:-1 tvg-chno="67375" tvg-name="Magnolia Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s67375_ll_h15_ad.png" group-title="Sweden" tvg-id="MAGNHD" tvc-guide-stationid="67375",Magnolia Network HD
@@ -267,7 +269,7 @@ http://example.local/SWE-SKYS1SV.ts
 http://example.local/SWE-SKYS2SV.ts
 #EXTINF:-1 tvg-chno="107029" tvg-name="Sport Expressen TV" group-title="Sweden" tvg-id="SPEXTV" tvc-guide-stationid="107029",Sport Expressen TV
 http://example.local/SWE-SPEXTV.ts
-#EXTINF:-1 tvg-chno="52814" tvg-name="Super RTL" tvg-logo="https://zap2it.tmsimg.com/assets/s52814_ll_h15_ac.png" group-title="Sweden" tvg-id="SUPRTL" tvc-guide-stationid="52814",Super RTL
+#EXTINF:-1 tvg-chno="52814" tvg-name="Super RTL" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002FLHWV.png" group-title="Sweden" tvg-id="SUPRTL" tvc-guide-stationid="52814",Super RTL
 http://example.local/SWE-SUPRTL.ts
 #EXTINF:-1 tvg-chno="82404" tvg-name="Suryoyo Sat" tvg-logo="https://zap2it.tmsimg.com/assets/s82404_ll_h15_aa.png" group-title="Sweden" tvg-id="SURYSAT" tvc-guide-stationid="82404",Suryoyo Sat
 http://example.local/SWE-SURYSAT.ts
@@ -493,8 +495,8 @@ http://example.local/SWE-VHISTHD.ts
 http://example.local/SWE-VIANAT.ts
 #EXTINF:-1 tvg-chno="87685" tvg-name="Viasat Nature HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87685_ll_h15_aa.png" group-title="Sweden" tvg-id="VIANAHD" tvc-guide-stationid="87685",Viasat Nature HD
 http://example.local/SWE-VIANAHD.ts
-#EXTINF:-1 tvg-chno="77687" tvg-name="Viasat Series" tvg-logo="https://zap2it.tmsimg.com/assets/s77687_ll_h9_aa.png" group-title="Sweden" tvg-id="VIASERI" tvc-guide-stationid="77687",Viasat Series
-http://example.local/SWE-VIASERI.ts
+#EXTINF:-1 tvg-chno="77728" tvg-name="Viasat Sport" tvg-logo="https://zap2it.tmsimg.com/assets/s77728_ll_h15_aa.png" group-title="Sweden" tvg-id="VIASPO" tvc-guide-stationid="77728",Viasat Sport
+http://example.local/SWE-VIASPO.ts
 #EXTINF:-1 tvg-chno="56311" tvg-name="WDR Fernsehen" tvg-logo="https://zap2it.tmsimg.com/assets/s56311_ll_h9_ae.png" group-title="Sweden" tvg-id="WDRFERN" tvc-guide-stationid="56311",WDR Fernsehen
 http://example.local/SWE-WDRFERN.ts
 #EXTINF:-1 tvg-chno="88240" tvg-name="Yle Teema & Fem" tvg-logo="https://zap2it.tmsimg.com/assets/s88240_ll_h15_aa.png" group-title="Sweden" tvg-id="YLETF" tvc-guide-stationid="88240",Yle Teema & Fem
