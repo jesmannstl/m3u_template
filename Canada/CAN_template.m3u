@@ -1741,6 +1741,8 @@ http://example.local/CAN-NHLCI9.ts
 http://example.local/CAN-TDCSD.ts
 #EXTINF:-1 tvg-chno="167588" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s167588_ll_h9_ab.png" group-title="Canada" tvg-id="TDC" tvc-guide-stationid="167588",Discovery Channel
 http://example.local/CAN-TDC.ts
+#EXTINF:-1 tvg-chno="169059" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RSB24.png" group-title="Canada" tvg-id="MTCFAST" tvc-guide-stationid="169059",Discovery Turbo
+http://example.local/CAN-MTCFAST.ts
 #EXTINF:-1 tvg-chno="96509" tvg-name="Disney Channel Canada" tvg-logo="https://zap2it.tmsimg.com/assets/s96509_ll_h15_ab.png" group-title="Canada" tvg-id="DISCA" tvc-guide-stationid="96509",Disney Channel Canada
 http://example.local/CAN-DISCA.ts
 #EXTINF:-1 tvg-chno="96515" tvg-name="Disney Channel Canada - West" tvg-logo="https://zap2it.tmsimg.com/assets/s96515_ll_h15_ab.png" group-title="Canada" tvg-id="DISCW" tvc-guide-stationid="96515",Disney Channel Canada - West
@@ -2871,8 +2873,6 @@ http://example.local/CAN-MLBHD.ts
 http://example.local/CAN-MOMO.ts
 #EXTINF:-1 tvg-chno="102602" tvg-name="More 103.9 FM" group-title="Canada" tvg-id="CKDKFM" tvc-guide-stationid="102602",More 103.9 FM
 http://example.local/CAN-CKDKFM.ts
-#EXTINF:-1 tvg-chno="169059" tvg-name="Motor Trend" tvg-logo="https://zap2it.tmsimg.com/assets/s169059_ll_h15_aa.png" group-title="Canada" tvg-id="MTCFAST" tvc-guide-stationid="169059",Motor Trend
-http://example.local/CAN-MTCFAST.ts
 #EXTINF:-1 tvg-chno="55510" tvg-name="Movie Channel On Demand" group-title="Canada" tvg-id="MOVCHDM" tvc-guide-stationid="55510",Movie Channel On Demand
 http://example.local/CAN-MOVCHDM.ts
 #EXTINF:-1 tvg-chno="27125" tvg-name="MovieTime" tvg-logo="https://zap2it.tmsimg.com/assets/s27125_ll_h15_aa.png" group-title="Canada" tvg-id="MTIME" tvc-guide-stationid="27125",MovieTime

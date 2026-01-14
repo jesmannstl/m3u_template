@@ -361,6 +361,8 @@ http://example.local/COL-DTHLAHD.ts
 http://example.local/COL-DTURBOL.ts
 #EXTINF:-1 tvg-chno="107611" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="Colombia" tvg-id="DTRBLAH" tvc-guide-stationid="107611",Discovery Turbo
 http://example.local/COL-DTRBLAH.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Colombia" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/COL-MTHD.ts
 #EXTINF:-1 tvg-chno="66488" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png" group-title="Colombia" tvg-id="DWRLDHD" tvc-guide-stationid="66488",Discovery World
 http://example.local/COL-DWRLDHD.ts
 #EXTINF:-1 tvg-chno="70662" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png" group-title="Colombia" tvg-id="DWRLDHE" tvc-guide-stationid="70662",Discovery World
@@ -797,8 +799,6 @@ http://example.local/COL-MIMUSIC.ts
 http://example.local/COL-MLB680.ts
 #EXTINF:-1 tvg-chno="109057" tvg-name="MLB DTVL 681 Eng" group-title="Colombia" tvg-id="MLB681E" tvc-guide-stationid="109057",MLB DTVL 681 Eng
 http://example.local/COL-MLB681E.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Colombia" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/COL-MTHD.ts
 #EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="Colombia" tvg-id="MTVL" tvc-guide-stationid="12712",MTV
 http://example.local/COL-MTVL.ts
 #EXTINF:-1 tvg-chno="98954" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_h3_ba.png" group-title="Colombia" tvg-id="MTVLCHD" tvc-guide-stationid="98954",MTV

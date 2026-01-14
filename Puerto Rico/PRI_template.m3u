@@ -197,6 +197,8 @@ http://example.local/PRI-DKNL.ts
 http://example.local/PRI-DKNLAEH.ts
 #EXTINF:-1 tvg-chno="46608" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="DTURBOL" tvc-guide-stationid="46608",Discovery Turbo
 http://example.local/PRI-DTURBOL.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Puerto Rico" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/PRI-MTHD.ts
 #EXTINF:-1 tvg-chno="70662" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="DWRLDHE" tvc-guide-stationid="70662",Discovery World
 http://example.local/PRI-DWRLDHE.ts
 #EXTINF:-1 tvg-chno="19234" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s19234_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="DISNL" tvc-guide-stationid="19234",Disney Channel
@@ -519,8 +521,6 @@ http://example.local/PRI-MEGAUS.ts
 http://example.local/PRI-MLBN.ts
 #EXTINF:-1 tvg-chno="62081" tvg-name="MLB Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s62081_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="MLBHD" tvc-guide-stationid="62081",MLB Network HD
 http://example.local/PRI-MLBHD.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/PRI-MTHD.ts
 #EXTINF:-1 tvg-chno="15295" tvg-name="MoviePlex" tvg-logo="https://zap2it.tmsimg.com/assets/s15295_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="MPLEX" tvc-guide-stationid="15295",MoviePlex
 http://example.local/PRI-MPLEX.ts
 #EXTINF:-1 tvg-chno="16300" tvg-name="MS NOW" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002H5PTR.png" group-title="Puerto Rico" tvg-id="MSNOW" tvc-guide-stationid="16300",MS NOW

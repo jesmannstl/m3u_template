@@ -207,6 +207,8 @@ http://example.local/BES-DSCIENI.ts
 http://example.local/BES-DTURBOL.ts
 #EXTINF:-1 tvg-chno="54948" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="DTURBO" tvc-guide-stationid="54948",Discovery Turbo
 http://example.local/BES-DTURBO.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/BES-MTHD.ts
 #EXTINF:-1 tvg-chno="66488" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="DWRLDHD" tvc-guide-stationid="66488",Discovery World
 http://example.local/BES-DWRLDHD.ts
 #EXTINF:-1 tvg-chno="10171" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s10171_ll_h15_ae.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="DISN" tvc-guide-stationid="10171",Disney Channel
@@ -403,8 +405,6 @@ http://example.local/BES-MPRENG.ts
 http://example.local/BES-METVN.ts
 #EXTINF:-1 tvg-chno="74979" tvg-name="Modo Viagem" tvg-logo="https://zap2it.tmsimg.com/assets/s74979_ll_h15_ad.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="MOVIHD" tvc-guide-stationid="74979",Modo Viagem
 http://example.local/BES-MOVIHD.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/BES-MTHD.ts
 #EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="MTVL" tvc-guide-stationid="12712",MTV
 http://example.local/BES-MTVL.ts
 #EXTINF:-1 tvg-chno="10986" tvg-name="MTV - Music Television" tvg-logo="https://zap2it.tmsimg.com/assets/s10986_ll_h15_aa.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="MTV" tvc-guide-stationid="10986",MTV - Music Television

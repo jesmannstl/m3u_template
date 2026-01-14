@@ -301,6 +301,8 @@ http://example.local/ARG-DTURBOL.ts
 http://example.local/ARG-DTURBO.ts
 #EXTINF:-1 tvg-chno="119937" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_h3_ba.png" group-title="Argentina" tvg-id="DTRBOEH" tvc-guide-stationid="119937",Discovery Turbo
 http://example.local/ARG-DTRBOEH.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Argentina" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/ARG-MTHD.ts
 #EXTINF:-1 tvg-chno="66488" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png" group-title="Argentina" tvg-id="DWRLDHD" tvc-guide-stationid="66488",Discovery World
 http://example.local/ARG-DWRLDHD.ts
 #EXTINF:-1 tvg-chno="70662" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png" group-title="Argentina" tvg-id="DWRLDHE" tvc-guide-stationid="70662",Discovery World
@@ -697,8 +699,6 @@ http://example.local/ARG-LOVENAE.ts
 http://example.local/ARG-MAXUAM.ts
 #EXTINF:-1 tvg-chno="18242" tvg-name="Metro" tvg-logo="https://zap2it.tmsimg.com/assets/s18242_ll_h15_aa.png" group-title="Argentina" tvg-id="METCAN" tvc-guide-stationid="18242",Metro
 http://example.local/ARG-METCAN.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Argentina" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/ARG-MTHD.ts
 #EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="Argentina" tvg-id="MTVL" tvc-guide-stationid="12712",MTV
 http://example.local/ARG-MTVL.ts
 #EXTINF:-1 tvg-chno="41468" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="Argentina" tvg-id="MTVLA" tvc-guide-stationid="41468",MTV

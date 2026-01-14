@@ -481,6 +481,8 @@ http://example.local/CHL-DTHLAHD.ts
 http://example.local/CHL-DTURBOL.ts
 #EXTINF:-1 tvg-chno="107611" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="Chile" tvg-id="DTRBLAH" tvc-guide-stationid="107611",Discovery Turbo
 http://example.local/CHL-DTRBLAH.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Chile" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/CHL-MTHD.ts
 #EXTINF:-1 tvg-chno="66488" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png" group-title="Chile" tvg-id="DWRLDHD" tvc-guide-stationid="66488",Discovery World
 http://example.local/CHL-DWRLDHD.ts
 #EXTINF:-1 tvg-chno="70662" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png" group-title="Chile" tvg-id="DWRLDHE" tvc-guide-stationid="70662",Discovery World
@@ -883,8 +885,6 @@ http://example.local/CHL-MEGAP.ts
 http://example.local/CHL-MIMUSIC.ts
 #EXTINF:-1 tvg-chno="111618" tvg-name="Morrovisión" group-title="Chile" tvg-id="MORA" tvc-guide-stationid="111618",Morrovisión
 http://example.local/CHL-MORA.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Chile" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/CHL-MTHD.ts
 #EXTINF:-1 tvg-chno="86945" tvg-name="Movistar Deportes" tvg-logo="https://zap2it.tmsimg.com/assets/s86945_ll_h15_ab.png" group-title="Chile" tvg-id="MDEPO" tvc-guide-stationid="86945",Movistar Deportes
 http://example.local/CHL-MDEPO.ts
 #EXTINF:-1 tvg-chno="49295" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="Chile" tvg-id="MTVLC" tvc-guide-stationid="49295",MTV

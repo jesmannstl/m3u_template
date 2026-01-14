@@ -353,6 +353,8 @@ http://example.local/DOM-DTURBOL.ts
 http://example.local/DOM-DTURBO.ts
 #EXTINF:-1 tvg-chno="24284" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s24284_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="DITURBO" tvc-guide-stationid="24284",Discovery Turbo
 http://example.local/DOM-DITURBO.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Dominican Republic" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/DOM-MTHD.ts
 #EXTINF:-1 tvg-chno="66488" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png" group-title="Dominican Republic" tvg-id="DWRLDHD" tvc-guide-stationid="66488",Discovery World
 http://example.local/DOM-DWRLDHD.ts
 #EXTINF:-1 tvg-chno="19234" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s19234_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="DISNL" tvc-guide-stationid="19234",Disney Channel
@@ -745,8 +747,6 @@ http://example.local/DOM-MPPE.ts
 http://example.local/DOM-MSKYP1.ts
 #EXTINF:-1 tvg-chno="47368" tvg-name="Mosaico Sky Premiere 2" group-title="Dominican Republic" tvg-id="MSKYP2" tvc-guide-stationid="47368",Mosaico Sky Premiere 2
 http://example.local/DOM-MSKYP2.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Dominican Republic" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/DOM-MTHD.ts
 #EXTINF:-1 tvg-chno="16300" tvg-name="MS NOW" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002H5PTR.png" group-title="Dominican Republic" tvg-id="MSNOW" tvc-guide-stationid="16300",MS NOW
 http://example.local/DOM-MSNOW.ts
 #EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="Dominican Republic" tvg-id="MTVL" tvc-guide-stationid="12712",MTV

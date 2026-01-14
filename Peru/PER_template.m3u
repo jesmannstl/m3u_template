@@ -337,6 +337,8 @@ http://example.local/PER-DSCIENL.ts
 http://example.local/PER-DTHLIHD.ts
 #EXTINF:-1 tvg-chno="46608" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="Peru" tvg-id="DTURBOL" tvc-guide-stationid="46608",Discovery Turbo
 http://example.local/PER-DTURBOL.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Peru" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/PER-MTHD.ts
 #EXTINF:-1 tvg-chno="66488" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png" group-title="Peru" tvg-id="DWRLDHD" tvc-guide-stationid="66488",Discovery World
 http://example.local/PER-DWRLDHD.ts
 #EXTINF:-1 tvg-chno="70662" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png" group-title="Peru" tvg-id="DWRLDHE" tvc-guide-stationid="70662",Discovery World
@@ -699,8 +701,6 @@ http://example.local/PER-MAXUAM.ts
 http://example.local/PER-MSP1.ts
 #EXTINF:-1 tvg-chno="76969" tvg-name="MISSOURI VS MURRAY STATE" group-title="Peru" tvg-id="MIZZOU" tvc-guide-stationid="76969",MISSOURI VS MURRAY STATE
 http://example.local/PER-MIZZOU.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Peru" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/PER-MTHD.ts
 #EXTINF:-1 tvg-chno="63742" tvg-name="Movistar Deportes" tvg-logo="https://zap2it.tmsimg.com/assets/s50213_ll_h15_aa.png" group-title="Peru" tvg-id="MOVDEP" tvc-guide-stationid="63742",Movistar Deportes
 http://example.local/PER-MOVDEP.ts
 #EXTINF:-1 tvg-chno="50213" tvg-name="Movistar Deportes" tvg-logo="https://zap2it.tmsimg.com/assets/s50213_ll_h15_aa.png" group-title="Peru" tvg-id="MOVDEPH" tvc-guide-stationid="50213",Movistar Deportes

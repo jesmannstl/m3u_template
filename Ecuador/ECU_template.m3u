@@ -299,6 +299,8 @@ http://example.local/ECU-DTHLIHD.ts
 http://example.local/ECU-DTHLAHD.ts
 #EXTINF:-1 tvg-chno="46608" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="Ecuador" tvg-id="DTURBOL" tvc-guide-stationid="46608",Discovery Turbo
 http://example.local/ECU-DTURBOL.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Ecuador" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/ECU-MTHD.ts
 #EXTINF:-1 tvg-chno="66488" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png" group-title="Ecuador" tvg-id="DWRLDHD" tvc-guide-stationid="66488",Discovery World
 http://example.local/ECU-DWRLDHD.ts
 #EXTINF:-1 tvg-chno="41223" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s41223_ll_h15_aa.png" group-title="Ecuador" tvg-id="DISNLS" tvc-guide-stationid="41223",Disney Channel
@@ -607,8 +609,6 @@ http://example.local/ECU-MENTRE2.ts
 http://example.local/ECU-MOSHBO.ts
 #EXTINF:-1 tvg-chno="60488" tvg-name="Mosaico Infantil" group-title="Ecuador" tvg-id="MINFANT" tvc-guide-stationid="60488",Mosaico Infantil
 http://example.local/ECU-MINFANT.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Ecuador" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/ECU-MTHD.ts
 #EXTINF:-1 tvg-chno="49295" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="Ecuador" tvg-id="MTVLC" tvc-guide-stationid="49295",MTV
 http://example.local/ECU-MTVLC.ts
 #EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="Ecuador" tvg-id="MTVL" tvc-guide-stationid="12712",MTV

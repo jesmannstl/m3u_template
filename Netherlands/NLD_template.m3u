@@ -315,6 +315,8 @@ http://example.local/NLD-DISCONL.ts
 http://example.local/NLD-DICNLHD.ts
 #EXTINF:-1 tvg-chno="119020" tvg-name="Discovery Science HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119020_ll_h15_ab.png" group-title="Netherlands" tvg-id="DISSHDNL" tvc-guide-stationid="119020",Discovery Science HD
 http://example.local/NLD-DISSHDNL.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Netherlands" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/NLD-MTHD.ts
 #EXTINF:-1 tvg-chno="83574" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s83574_ll_h15_ac.png" group-title="Netherlands" tvg-id="DISNG" tvc-guide-stationid="83574",Disney Channel
 http://example.local/NLD-DISNG.ts
 #EXTINF:-1 tvg-chno="116544" tvg-name="Disney Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116544_ll_h15_ab.png" group-title="Netherlands" tvg-id="DISCNLH" tvc-guide-stationid="116544",Disney Channel HD
@@ -743,8 +745,6 @@ http://example.local/NLD-MOBILES.ts
 http://example.local/NLD-MORE4.ts
 #EXTINF:-1 tvg-chno="47658" tvg-name="More4 +1" tvg-logo="https://zap2it.tmsimg.com/assets/s47658_ll_h15_ac.png" group-title="Netherlands" tvg-id="MORE4P1" tvc-guide-stationid="47658",More4 +1
 http://example.local/NLD-MORE4P1.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Netherlands" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/NLD-MTHD.ts
 #EXTINF:-1 tvg-chno="56245" tvg-name="MTV 00s Europe" tvg-logo="https://zap2it.tmsimg.com/assets/s56245_ll_h15_ab.png" group-title="Netherlands" tvg-id="MTV00EU" tvc-guide-stationid="56245",MTV 00s Europe
 http://example.local/NLD-MTV00EU.ts
 #EXTINF:-1 tvg-chno="56244" tvg-name="MTV 80s" tvg-logo="https://zap2it.tmsimg.com/assets/s56244_ll_h9_ab.png" group-title="Netherlands" tvg-id="MTV80" tvc-guide-stationid="56244",MTV 80s

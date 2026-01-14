@@ -21573,8 +21573,12 @@ http://example.local/GRD-DTHLIHD.ts
 http://example.local/BLZ-DTHLIHD.ts
 #EXTINF:-1 tvg-chno="65301" tvg-name="Discovery Theater HD" tvg-logo="https://zap2it.tmsimg.com/assets/s65940_ll_h15_ab.png" group-title="Antigua and Barbuda" tvg-id="DTHLIHD" tvc-guide-stationid="65301",Discovery Theater HD
 http://example.local/ATG-DTHLIHD.ts
+#EXTINF:-1 tvg-chno="169059" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RSB24.png" group-title="Canada" tvg-id="MTCFAST" tvc-guide-stationid="169059",Discovery Turbo
+http://example.local/CAN-MTCFAST.ts
 #EXTINF:-1 tvg-chno="24284" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s24284_ll_h15_ab.png" group-title="Germany" tvg-id="DITURBO" tvc-guide-stationid="24284",Discovery Turbo
 http://example.local/DEU-DITURBO.ts
+#EXTINF:-1 tvg-chno="92052" tvg-name="DISCOVERY TURBO" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTYH.png" group-title="United States" tvg-id="MT" tvc-guide-stationid="92052",DISCOVERY TURBO
+http://example.local/USA-MT.ts
 #EXTINF:-1 tvg-chno="46608" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="Mexico" tvg-id="DTURBOL" tvc-guide-stationid="46608",Discovery Turbo
 http://example.local/MEX-DTURBOL.ts
 #EXTINF:-1 tvg-chno="107611" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="Mexico" tvg-id="DTRBLAH" tvc-guide-stationid="107611",Discovery Turbo
@@ -21687,12 +21691,50 @@ http://example.local/GRD-DTURBOL.ts
 http://example.local/BLZ-DTRBLAH.ts
 #EXTINF:-1 tvg-chno="46608" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="Antigua and Barbuda" tvg-id="DTURBOL" tvc-guide-stationid="46608",Discovery Turbo
 http://example.local/ATG-DTURBOL.ts
+#EXTINF:-1 tvg-chno="117331" tvg-name="Discovery Turbo (West Coast Feed)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="United States" tvg-id="MTPHD" tvc-guide-stationid="117331",Discovery Turbo (West Coast Feed)
+http://example.local/USA-MTPHD.ts
 #EXTINF:-1 tvg-chno="110284" tvg-name="Discovery Turbo +1" tvg-logo="https://zap2it.tmsimg.com/assets/s110284_ll_h9_ac.png" group-title="United Kingdom" tvg-id="DISTUP1" tvc-guide-stationid="110284",Discovery Turbo +1
 http://example.local/GBR-DISTUP1.ts
 #EXTINF:-1 tvg-chno="110284" tvg-name="Discovery Turbo +1" tvg-logo="https://zap2it.tmsimg.com/assets/s110284_ll_h9_ac.png" group-title="Ireland" tvg-id="DISTUP1" tvc-guide-stationid="110284",Discovery Turbo +1
 http://example.local/IRL-DISTUP1.ts
 #EXTINF:-1 tvg-chno="103307" tvg-name="Discovery Turbo +2" tvg-logo="https://zap2it.tmsimg.com/assets/s103307_ll_h9_aa.png" group-title="Australia" tvg-id="DTU2ANZ" tvc-guide-stationid="103307",Discovery Turbo +2
 http://example.local/AUS-DTU2ANZ.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="United States" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/USA-MTHD.ts
+#EXTINF:-1 tvg-chno="192135" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="United States" tvg-id="MTHDS" tvc-guide-stationid="192135",DISCOVERY TURBO HD
+http://example.local/USA-MTHDS.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Netherlands" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/NLD-MTHD.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Panama" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/PAN-MTHD.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Argentina" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/ARG-MTHD.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Peru" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/PER-MTHD.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Puerto Rico" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/PRI-MTHD.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Colombia" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/COL-MTHD.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Chile" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/CHL-MTHD.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Cayman Islands" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/CYM-MTHD.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Ecuador" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/ECU-MTHD.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Venezuela" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/VEN-MTHD.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Dominican Republic" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/DOM-MTHD.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Guatemala" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/GTM-MTHD.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Aruba" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/ABW-MTHD.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/BES-MTHD.ts
+#EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Belize" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
+http://example.local/BLZ-MTHD.ts
+#EXTINF:-1 tvg-chno="126737" tvg-name="DISCOVERY TURBO TV" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RZ26T.png" group-title="United States" tvg-id="MTFAST" tvc-guide-stationid="126737",DISCOVERY TURBO TV
+http://example.local/USA-MTFAST.ts
 #EXTINF:-1 tvg-chno="117238" tvg-name="Discovery Turbo Xtra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s117238_ll_h9_aa.png" group-title="Poland" tvg-id="DTXPLH" tvc-guide-stationid="117238",Discovery Turbo Xtra HD
 http://example.local/POL-DTXPLH.ts
 #EXTINF:-1 tvg-chno="66488" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png" group-title="Mexico" tvg-id="DWRLDHD" tvc-guide-stationid="66488",Discovery World
@@ -70939,60 +70981,10 @@ http://example.local/MEX-MOTOADV.ts
 http://example.local/ESP-MOTOADV.ts
 #EXTINF:-1 tvg-chno="187515" tvg-name="MotoGP Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028DRTM.png" group-title="United States" tvg-id="MTGP" tvc-guide-stationid="187515",MotoGP Channel
 http://example.local/USA-MTGP.ts
-#EXTINF:-1 tvg-chno="109845" tvg-name="Motor Trend" tvg-logo="https://zap2it.tmsimg.com/assets/s109845_ll_h15_aa.png" group-title="Italy" tvg-id="MOTRIT" tvc-guide-stationid="109845",Motor Trend
-http://example.local/ITA-MOTRIT.ts
-#EXTINF:-1 tvg-chno="169059" tvg-name="Motor Trend" tvg-logo="https://zap2it.tmsimg.com/assets/s169059_ll_h15_aa.png" group-title="Canada" tvg-id="MTCFAST" tvc-guide-stationid="169059",Motor Trend
-http://example.local/CAN-MTCFAST.ts
-#EXTINF:-1 tvg-chno="109845" tvg-name="Motor Trend" tvg-logo="https://zap2it.tmsimg.com/assets/s109845_ll_h15_aa.png" group-title="Switzerland" tvg-id="MOTRIT" tvc-guide-stationid="109845",Motor Trend
-http://example.local/CHE-MOTRIT.ts
-#EXTINF:-1 tvg-chno="117331" tvg-name="Motor Trend (West Coast Feed)" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="United States" tvg-id="MTPHD" tvc-guide-stationid="117331",Motor Trend (West Coast Feed)
-http://example.local/USA-MTPHD.ts
-#EXTINF:-1 tvg-chno="111101" tvg-name="Motor Trend HD" tvg-logo="https://zap2it.tmsimg.com/assets/s111101_ll_h15_aa.png" group-title="Italy" tvg-id="MOTRIHD" tvc-guide-stationid="111101",Motor Trend HD
-http://example.local/ITA-MOTRIHD.ts
-#EXTINF:-1 tvg-chno="111101" tvg-name="Motor Trend HD" tvg-logo="https://zap2it.tmsimg.com/assets/s111101_ll_h15_aa.png" group-title="Switzerland" tvg-id="MOTRIHD" tvc-guide-stationid="111101",Motor Trend HD
-http://example.local/CHE-MOTRIHD.ts
 #EXTINF:-1 tvg-chno="85045" tvg-name="Motori TV" group-title="Italy" tvg-id="MOTORI" tvc-guide-stationid="85045",Motori TV
 http://example.local/ITA-MOTORI.ts
 #EXTINF:-1 tvg-chno="56236" tvg-name="Motorsport.tv" tvg-logo="https://zap2it.tmsimg.com/assets/s56236_ll_h15_aa.png" group-title="United Kingdom" tvg-id="MTRSEUR" tvc-guide-stationid="56236",Motorsport.tv
 http://example.local/GBR-MTRSEUR.ts
-#EXTINF:-1 tvg-chno="92052" tvg-name="MOTORTREND" tvg-logo="https://zap2it.tmsimg.com/assets/s92052_ll_h15_ab.png" group-title="United States" tvg-id="MT" tvc-guide-stationid="92052",MOTORTREND
-http://example.local/USA-MT.ts
-#EXTINF:-1 tvg-chno="126737" tvg-name="MotorTrend FAST TV" tvg-logo="https://zap2it.tmsimg.com/assets/s126737_ll_h15_aa.png" group-title="United States" tvg-id="MTFAST" tvc-guide-stationid="126737",MotorTrend FAST TV
-http://example.local/USA-MTFAST.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="United States" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/USA-MTHD.ts
-#EXTINF:-1 tvg-chno="192135" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="United States" tvg-id="MTHDS" tvc-guide-stationid="192135",MOTORTREND HD
-http://example.local/USA-MTHDS.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Netherlands" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/NLD-MTHD.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Panama" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/PAN-MTHD.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Argentina" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/ARG-MTHD.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Peru" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/PER-MTHD.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/PRI-MTHD.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Colombia" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/COL-MTHD.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Chile" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/CHL-MTHD.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Cayman Islands" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/CYM-MTHD.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Ecuador" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/ECU-MTHD.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Venezuela" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/VEN-MTHD.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Dominican Republic" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/DOM-MTHD.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Guatemala" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/GTM-MTHD.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Aruba" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/ABW-MTHD.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Bonaire, Saba, St. Eustatius" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/BES-MTHD.ts
-#EXTINF:-1 tvg-chno="31046" tvg-name="MOTORTREND HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31046_ll_h15_ac.png" group-title="Belize" tvg-id="MTHD" tvc-guide-stationid="31046",MOTORTREND HD
-http://example.local/BLZ-MTHD.ts
 #EXTINF:-1 tvg-chno="152864" tvg-name="MotorTrend VELOZ TV" tvg-logo="https://zap2it.tmsimg.com/assets/s152864_ll_h15_aa.png" group-title="United States" tvg-id="MTVELOZ" tvc-guide-stationid="152864",MotorTrend VELOZ TV
 http://example.local/USA-MTVELOZ.ts
 #EXTINF:-1 tvg-chno="149475" tvg-name="Motorvision" group-title="United States" tvg-id="MVFR" tvc-guide-stationid="149475",Motorvision
