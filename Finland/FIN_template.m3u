@@ -5,10 +5,10 @@ http://example.local/FIN-3SATGEH.ts
 http://example.local/FIN-3SATHD.ts
 #EXTINF:-1 tvg-chno="27136" tvg-name="Al Jazeera" tvg-logo="https://zap2it.tmsimg.com/assets/s27136_ll_h15_aa.png" group-title="Finland" tvg-id="ALJAZ" tvc-guide-stationid="27136",Al Jazeera
 http://example.local/FIN-ALJAZ.ts
-#EXTINF:-1 tvg-chno="102458" tvg-name="Al Jazeera HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49968_ll_h15_ac.png" group-title="Finland" tvg-id="ALJZHDI" tvc-guide-stationid="102458",Al Jazeera HD
-http://example.local/FIN-ALJZHDI.ts
 #EXTINF:-1 tvg-chno="97267" tvg-name="Al Jazeera HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97267_ll_h15_ab.png" group-title="Finland" tvg-id="ALJAZEH" tvc-guide-stationid="97267",Al Jazeera HD
 http://example.local/FIN-ALJAZEH.ts
+#EXTINF:-1 tvg-chno="102458" tvg-name="Al Jazeera HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49968_ll_h15_ac.png" group-title="Finland" tvg-id="ALJZHDI" tvc-guide-stationid="102458",Al Jazeera HD
+http://example.local/FIN-ALJZHDI.ts
 #EXTINF:-1 tvg-chno="88248" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s88248_ll_h9_aa.png" group-title="Finland" tvg-id="ANPLF" tvc-guide-stationid="88248",Animal Planet
 http://example.local/FIN-ANPLF.ts
 #EXTINF:-1 tvg-chno="88441" tvg-name="Animal Planet HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88441_ll_h9_aa.png" group-title="Finland" tvg-id="APLSHD" tvc-guide-stationid="88441",Animal Planet HD
@@ -29,6 +29,8 @@ http://example.local/FIN-BBCNEUHD.ts
 http://example.local/FIN-BBCNWHD.ts
 #EXTINF:-1 tvg-chno="136272" tvg-name="BBC Nordic" tvg-logo="https://zap2it.tmsimg.com/assets/s136272_ll_h9_ab.png" group-title="Finland" tvg-id="BBCNRDC" tvc-guide-stationid="136272",BBC Nordic
 http://example.local/FIN-BBCNRDC.ts
+#EXTINF:-1 tvg-chno="91961" tvg-name="BBC Nordic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91961_ll_h9_ac.png" group-title="Finland" tvg-id="BBCETHD" tvc-guide-stationid="91961",BBC Nordic HD
+http://example.local/FIN-BBCETHD.ts
 #EXTINF:-1 tvg-chno="118714" tvg-name="Bloomberg Europe HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118714_ll_h15_aa.png" group-title="Finland" tvg-id="BLOMEUR" tvc-guide-stationid="118714",Bloomberg Europe HD
 http://example.local/FIN-BLOMEUR.ts
 #EXTINF:-1 tvg-chno="103002" tvg-name="Bloomberg HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103002_ll_h15_aa.png" group-title="Finland" tvg-id="BLOOEHD" tvc-guide-stationid="103002",Bloomberg HD
@@ -49,6 +51,8 @@ http://example.local/FIN-CRTONHD.ts
 http://example.local/FIN-CARTOFI.ts
 #EXTINF:-1 tvg-chno="31760" tvg-name="Cartoonito HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31760_ll_h15_ab.png" group-title="Finland" tvg-id="CARNITO" tvc-guide-stationid="31760",Cartoonito HD
 http://example.local/FIN-CARNITO.ts
+#EXTINF:-1 tvg-chno="113656" tvg-name="CGTN Documentary HD" tvg-logo="https://zap2it.tmsimg.com/assets/s113656_ll_h9_aa.png" group-title="Finland" tvg-id="CGTNDEU" tvc-guide-stationid="113656",CGTN Documentary HD
+http://example.local/FIN-CGTNDEU.ts
 #EXTINF:-1 tvg-chno="96363" tvg-name="China Global Television Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s96363_ll_h15_ab.png" group-title="Finland" tvg-id="CGTNHD" tvc-guide-stationid="96363",China Global Television Network HD
 http://example.local/FIN-CGTNHD.ts
 #EXTINF:-1 tvg-chno="85453" tvg-name="Class Horse TV" tvg-logo="https://zap2it.tmsimg.com/assets/s85453_ll_h9_aa.png" group-title="Finland" tvg-id="CLSHORS" tvc-guide-stationid="85453",Class Horse TV
@@ -77,6 +81,8 @@ http://example.local/FIN-ARDGRHD.ts
 http://example.local/FIN-DSCFIN.ts
 #EXTINF:-1 tvg-chno="115460" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s115460_ll_h15_ab.png" group-title="Finland" tvg-id="DISSCIN" tvc-guide-stationid="115460",Discovery Science
 http://example.local/FIN-DISSCIN.ts
+#EXTINF:-1 tvg-chno="202939" tvg-name="Discovery Science HD" group-title="Finland" tvg-id="DSCIHD" tvc-guide-stationid="202939",Discovery Science HD
+http://example.local/FIN-DSCIHD.ts
 #EXTINF:-1 tvg-chno="88252" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s10171_ll_h15_ae.png" group-title="Finland" tvg-id="DISNFIN" tvc-guide-stationid="88252",Disney Channel
 http://example.local/FIN-DISNFIN.ts
 #EXTINF:-1 tvg-chno="180483" tvg-name="Disney Channel HD" group-title="Finland" tvg-id="DISNFNH" tvc-guide-stationid="180483",Disney Channel HD
@@ -89,6 +95,12 @@ http://example.local/FIN-DUSKNL.ts
 http://example.local/FIN-DWEUR.ts
 #EXTINF:-1 tvg-chno="105247" tvg-name="DW HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105247_ll_h9_aa.png" group-title="Finland" tvg-id="DWEURHD" tvc-guide-stationid="105247",DW HD
 http://example.local/FIN-DWEURHD.ts
+#EXTINF:-1 tvg-chno="195042" tvg-name="Elisa Viihde Sport 2 HD" group-title="Finland" tvg-id="ELVSP2H" tvc-guide-stationid="195042",Elisa Viihde Sport 2 HD
+http://example.local/FIN-ELVSP2H.ts
+#EXTINF:-1 tvg-chno="195043" tvg-name="Elisa Viihde Sport 3 HD" group-title="Finland" tvg-id="ELVSP3H" tvc-guide-stationid="195043",Elisa Viihde Sport 3 HD
+http://example.local/FIN-ELVSP3H.ts
+#EXTINF:-1 tvg-chno="195044" tvg-name="Elisa Viihde Sport 4 HD" group-title="Finland" tvg-id="ELVSP4H" tvc-guide-stationid="195044",Elisa Viihde Sport 4 HD
+http://example.local/FIN-ELVSP4H.ts
 #EXTINF:-1 tvg-chno="83255" tvg-name="English Club TV" tvg-logo="https://zap2it.tmsimg.com/assets/s83255_ll_h9_aa.png" group-title="Finland" tvg-id="ENGCBTV" tvc-guide-stationid="83255",English Club TV
 http://example.local/FIN-ENGCBTV.ts
 #EXTINF:-1 tvg-chno="118650" tvg-name="English Club TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118650_ll_h15_aa.png" group-title="Finland" tvg-id="ENGCLHD" tvc-guide-stationid="118650",English Club TV HD
@@ -103,6 +115,8 @@ http://example.local/FIN-ESPORT.ts
 http://example.local/FIN-EURONHD.ts
 #EXTINF:-1 tvg-chno="149651" tvg-name="Eveo" group-title="Finland" tvg-id="EVEO" tvc-guide-stationid="149651",Eveo
 http://example.local/FIN-EVEO.ts
+#EXTINF:-1 tvg-chno="203349" tvg-name="Eveo HD" group-title="Finland" tvg-id="EVEOHD" tvc-guide-stationid="203349",Eveo HD
+http://example.local/FIN-EVEOHD.ts
 #EXTINF:-1 tvg-chno="56232" tvg-name="Extreme Sports Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s56232_ll_h15_aa.png" group-title="Finland" tvg-id="EXTRSP" tvc-guide-stationid="56232",Extreme Sports Channel
 http://example.local/FIN-EXTRSP.ts
 #EXTINF:-1 tvg-chno="100285" tvg-name="Fight Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s100285_ll_h9_aa.png" group-title="Finland" tvg-id="FIGHTNO" tvc-guide-stationid="100285",Fight Sports
@@ -123,8 +137,6 @@ http://example.local/FIN-FR2FHD.ts
 http://example.local/FIN-FR24EN.ts
 #EXTINF:-1 tvg-chno="107030" tvg-name="France 24 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s107030_ll_h15_aa.png" group-title="Finland" tvg-id="FR24FHD" tvc-guide-stationid="107030",France 24 HD
 http://example.local/FIN-FR24FHD.ts
-#EXTINF:-1 tvg-chno="60562" tvg-name="France 24 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60562_ll_h15_aa.png" group-title="Finland" tvg-id="FR24POR" tvc-guide-stationid="60562",France 24 HD
-http://example.local/FIN-FR24POR.ts
 #EXTINF:-1 tvg-chno="52074" tvg-name="France 5" tvg-logo="https://zap2it.tmsimg.com/assets/s52074_ll_h15_ab.png" group-title="Finland" tvg-id="FRANCE5" tvc-guide-stationid="52074",France 5
 http://example.local/FIN-FRANCE5.ts
 #EXTINF:-1 tvg-chno="123148" tvg-name="FREEDOM" tvg-logo="https://zap2it.tmsimg.com/assets/s123148_ll_h9_aa.png" group-title="Finland" tvg-id="UATV" tvc-guide-stationid="123148",FREEDOM
@@ -143,12 +155,14 @@ http://example.local/FIN-FTVUHD.ts
 http://example.local/FIN-FUELTVE.ts
 #EXTINF:-1 tvg-chno="84344" tvg-name="Fuel TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84344_ll_h15_ab.png" group-title="Finland" tvg-id="FUELTH" tvc-guide-stationid="84344",Fuel TV HD
 http://example.local/FIN-FUELTH.ts
-#EXTINF:-1 tvg-chno="83272" tvg-name="GINX eSports TV" tvg-logo="https://zap2it.tmsimg.com/assets/s83272_ll_h9_ab.png" group-title="Finland" tvg-id="GINXTVC" tvc-guide-stationid="83272",GINX eSports TV
-http://example.local/FIN-GINXTVC.ts
 #EXTINF:-1 tvg-chno="118323" tvg-name="GINX eSports TV" tvg-logo="https://zap2it.tmsimg.com/assets/s118323_ll_h9_ac.png" group-title="Finland" tvg-id="GINXUK" tvc-guide-stationid="118323",GINX eSports TV
 http://example.local/FIN-GINXUK.ts
+#EXTINF:-1 tvg-chno="83272" tvg-name="GINX eSports TV" tvg-logo="https://zap2it.tmsimg.com/assets/s83272_ll_h9_ab.png" group-title="Finland" tvg-id="GINXTVC" tvc-guide-stationid="83272",GINX eSports TV
+http://example.local/FIN-GINXTVC.ts
 #EXTINF:-1 tvg-chno="100015" tvg-name="GINX TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100015_ll_h15_aa.png" group-title="Finland" tvg-id="GINXTVH" tvc-guide-stationid="100015",GINX TV HD
 http://example.local/FIN-GINXTVH.ts
+#EXTINF:-1 tvg-chno="203350" tvg-name="Godare HD" group-title="Finland" tvg-id="GODARE" tvc-guide-stationid="203350",Godare HD
+http://example.local/FIN-GODARE.ts
 #EXTINF:-1 tvg-chno="98727" tvg-name="H2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s98727_ll_h15_aa.png" group-title="Finland" tvg-id="H2HDSWE" tvc-guide-stationid="98727",H2 HD
 http://example.local/FIN-H2HDSWE.ts
 #EXTINF:-1 tvg-chno="96865" tvg-name="Hero" tvg-logo="https://zap2it.tmsimg.com/assets/s96865_ll_h15_ab.png" group-title="Finland" tvg-id="HERO" tvc-guide-stationid="96865",Hero
@@ -163,8 +177,8 @@ http://example.local/FIN-HUSTSWH.ts
 http://example.local/FIN-ICONCR.ts
 #EXTINF:-1 tvg-chno="99131" tvg-name="iConcerts HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99131_ll_h15_aa.png" group-title="Finland" tvg-id="ICONCRH" tvc-guide-stationid="99131",iConcerts HD
 http://example.local/FIN-ICONCRH.ts
-#EXTINF:-1 tvg-chno="62496" tvg-name="Investigation Discovery" tvg-logo="https://zap2it.tmsimg.com/assets/s62496_ll_h15_ac.png" group-title="Finland" tvg-id="INVDISC" tvc-guide-stationid="62496",Investigation Discovery
-http://example.local/FIN-INVDISC.ts
+#EXTINF:-1 tvg-chno="149106" tvg-name="Investigation Discovery HD" group-title="Finland" tvg-id="INVESTH" tvc-guide-stationid="149106",Investigation Discovery HD
+http://example.local/FIN-INVESTH.ts
 #EXTINF:-1 tvg-chno="65973" tvg-name="Investigation Discovery Pan Regional" tvg-logo="https://zap2it.tmsimg.com/assets/s65973_ll_h15_ac.png" group-title="Finland" tvg-id="INVDIPR" tvc-guide-stationid="65973",Investigation Discovery Pan Regional
 http://example.local/FIN-INVDIPR.ts
 #EXTINF:-1 tvg-chno="88273" tvg-name="JIM" tvg-logo="https://zap2it.tmsimg.com/assets/s88273_ll_h15_ab.png" group-title="Finland" tvg-id="JIMFIN" tvc-guide-stationid="88273",JIM
@@ -189,8 +203,6 @@ http://example.local/FIN-LIVFHD.ts
 http://example.local/FIN-LONOHDV.ts
 #EXTINF:-1 tvg-chno="63346" tvg-name="Mezzo" tvg-logo="https://zap2it.tmsimg.com/assets/s63346_ll_h15_ac.png" group-title="Finland" tvg-id="MEZZOFR" tvc-guide-stationid="63346",Mezzo
 http://example.local/FIN-MEZZOFR.ts
-#EXTINF:-1 tvg-chno="76828" tvg-name="Mezzo" tvg-logo="https://zap2it.tmsimg.com/assets/s76828_ll_h15_ac.png" group-title="Finland" tvg-id="MEZZO" tvc-guide-stationid="76828",Mezzo
-http://example.local/FIN-MEZZO.ts
 #EXTINF:-1 tvg-chno="103035" tvg-name="Mezzo HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103035_ll_h15_ac.png" group-title="Finland" tvg-id="MEZZHFR" tvc-guide-stationid="103035",Mezzo HD
 http://example.local/FIN-MEZZHFR.ts
 #EXTINF:-1 tvg-chno="79428" tvg-name="Mezzo Live" tvg-logo="https://zap2it.tmsimg.com/assets/s79428_ll_h15_ab.png" group-title="Finland" tvg-id="MEZZLHD" tvc-guide-stationid="79428",Mezzo Live
@@ -259,20 +271,20 @@ http://example.local/FIN-NELOFHD.ts
 http://example.local/FIN-NHKWLD.ts
 #EXTINF:-1 tvg-chno="121499" tvg-name="NHK World Europe HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121499_ll_h15_aa.png" group-title="Finland" tvg-id="NHKWLDH" tvc-guide-stationid="121499",NHK World Europe HD
 http://example.local/FIN-NHKWLDH.ts
-#EXTINF:-1 tvg-chno="59155" tvg-name="NHK World TV" tvg-logo="https://zap2it.tmsimg.com/assets/s59155_ll_h15_aa.png" group-title="Finland" tvg-id="NHKWRLD" tvc-guide-stationid="59155",NHK World TV
-http://example.local/FIN-NHKWRLD.ts
 #EXTINF:-1 tvg-chno="88371" tvg-name="Nick Jr" tvg-logo="https://zap2it.tmsimg.com/assets/s88371_ll_h15_aa.png" group-title="Finland" tvg-id="NICJRF" tvc-guide-stationid="88371",Nick Jr
 http://example.local/FIN-NICJRF.ts
 #EXTINF:-1 tvg-chno="17419" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s17419_ll_h15_ab.png" group-title="Finland" tvg-id="NICK" tvc-guide-stationid="17419",Nickelodeon
 http://example.local/FIN-NICK.ts
 #EXTINF:-1 tvg-chno="87764" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s87764_ll_h15_aa.png" group-title="Finland" tvg-id="NICKDK" tvc-guide-stationid="87764",Nickelodeon
 http://example.local/FIN-NICKDK.ts
-#EXTINF:-1 tvg-chno="123871" tvg-name="Nickelodeon Ukraine Pluto TV" tvg-logo="https://zap2it.tmsimg.com/assets/s123871_ll_h15_aa.png" group-title="Finland" tvg-id="NKUR" tvc-guide-stationid="123871",Nickelodeon Ukraine Pluto TV
-http://example.local/FIN-NKUR.ts
+#EXTINF:-1 tvg-chno="69261" tvg-name="Nickelodeon HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69261_ll_h15_ab.png" group-title="Finland" tvg-id="NICKHD" tvc-guide-stationid="69261",Nickelodeon HD
+http://example.local/FIN-NICKHD.ts
 #EXTINF:-1 tvg-chno="82401" tvg-name="NRK1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s82401_ll_h15_aa.png" group-title="Finland" tvg-id="NRK1HD" tvc-guide-stationid="82401",NRK1 HD
 http://example.local/FIN-NRK1HD.ts
 #EXTINF:-1 tvg-chno="90754" tvg-name="NRK2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90754_ll_h15_aa.png" group-title="Finland" tvg-id="NRK2HD" tvc-guide-stationid="90754",NRK2 HD
 http://example.local/FIN-NRK2HD.ts
+#EXTINF:-1 tvg-chno="202562" tvg-name="One Way TV HD" group-title="Finland" tvg-id="ONEWAYH" tvc-guide-stationid="202562",One Way TV HD
+http://example.local/FIN-ONEWAYH.ts
 #EXTINF:-1 tvg-chno="194379" tvg-name="OnniTV HD" group-title="Finland" tvg-id="ONNITV" tvc-guide-stationid="194379",OnniTV HD
 http://example.local/FIN-ONNITV.ts
 #EXTINF:-1 tvg-chno="17441" tvg-name="Playboy TV" tvg-logo="https://zap2it.tmsimg.com/assets/s17441_ll_h15_aa.png" group-title="Finland" tvg-id="PLYBOYE" tvc-guide-stationid="17441",Playboy TV
@@ -289,6 +301,8 @@ http://example.local/FIN-SFKNLFN.ts
 http://example.local/FIN-SKHI2HD.ts
 #EXTINF:-1 tvg-chno="16234" tvg-name="Sky News" tvg-logo="https://zap2it.tmsimg.com/assets/s16234_ll_h15_ad.png" group-title="Finland" tvg-id="SKYNEWS" tvc-guide-stationid="16234",Sky News
 http://example.local/FIN-SKYNEWS.ts
+#EXTINF:-1 tvg-chno="42745" tvg-name="SonLife International" tvg-logo="https://zap2it.tmsimg.com/assets/s42745_ll_h15_aa.png" group-title="Finland" tvg-id="SNLFINT" tvc-guide-stationid="42745",SonLife International
+http://example.local/FIN-SNLFINT.ts
 #EXTINF:-1 tvg-chno="88239" tvg-name="STAR Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s88239_ll_h15_ac.png" group-title="Finland" tvg-id="STARFI" tvc-guide-stationid="88239",STAR Channel
 http://example.local/FIN-STARFI.ts
 #EXTINF:-1 tvg-chno="88468" tvg-name="STAR Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s88468_ll_h15_ac.png" group-title="Finland" tvg-id="STARFHD" tvc-guide-stationid="88468",STAR Channel HD
@@ -297,10 +311,10 @@ http://example.local/FIN-STARFHD.ts
 http://example.local/FIN-SUBFI.ts
 #EXTINF:-1 tvg-chno="105145" tvg-name="Sub HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105145_ll_h15_ab.png" group-title="Finland" tvg-id="SUBFIHD" tvc-guide-stationid="105145",Sub HD
 http://example.local/FIN-SUBFIHD.ts
+#EXTINF:-1 tvg-chno="202056" tvg-name="Sverigekanalen TV" group-title="Finland" tvg-id="SVERGEK" tvc-guide-stationid="202056",Sverigekanalen TV
+http://example.local/FIN-SVERGEK.ts
 #EXTINF:-1 tvg-chno="69433" tvg-name="SVT Barn" tvg-logo="https://zap2it.tmsimg.com/assets/s69433_ll_h9_ab.png" group-title="Finland" tvg-id="SVTB" tvc-guide-stationid="69433",SVT Barn
 http://example.local/FIN-SVTB.ts
-#EXTINF:-1 tvg-chno="99334" tvg-name="SVT Barn HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99334_ll_h9_ab.png" group-title="Finland" tvg-id="SVTBHD" tvc-guide-stationid="99334",SVT Barn HD
-http://example.local/FIN-SVTBHD.ts
 #EXTINF:-1 tvg-chno="180485" tvg-name="SVT Barnkanalen / SVT24 HD" group-title="Finland" tvg-id="SVT24FN" tvc-guide-stationid="180485",SVT Barnkanalen / SVT24 HD
 http://example.local/FIN-SVT24FN.ts
 #EXTINF:-1 tvg-chno="69430" tvg-name="SVT1" tvg-logo="https://zap2it.tmsimg.com/assets/s69430_ll_h15_ab.png" group-title="Finland" tvg-id="SVT1" tvc-guide-stationid="69430",SVT1
@@ -329,6 +343,8 @@ http://example.local/FIN-TRTWEGH.ts
 http://example.local/FIN-TV7FINL.ts
 #EXTINF:-1 tvg-chno="108965" tvg-name="TV10 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s108965_ll_h15_aa.png" group-title="Finland" tvg-id="TV10HD" tvc-guide-stationid="108965",TV10 HD
 http://example.local/FIN-TV10HD.ts
+#EXTINF:-1 tvg-chno="170629" tvg-name="TV12 Bedehuskanalen" tvg-logo="https://zap2it.tmsimg.com/assets/s170629_ll_h15_aa.png" group-title="Finland" tvg-id="TV12BEDHD" tvc-guide-stationid="170629",TV12 Bedehuskanalen
+http://example.local/FIN-TV12BEDHD.ts
 #EXTINF:-1 tvg-chno="76806" tvg-name="TV3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s76806_ll_h15_aa.png" group-title="Finland" tvg-id="TV3HD" tvc-guide-stationid="76806",TV3 HD
 http://example.local/FIN-TV3HD.ts
 #EXTINF:-1 tvg-chno="76807" tvg-name="TV4 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s76807_ll_h15_aa.png" group-title="Finland" tvg-id="TV4HD" tvc-guide-stationid="76807",TV4 HD
@@ -337,20 +353,22 @@ http://example.local/FIN-TV4HD.ts
 http://example.local/FIN-TV5FIN.ts
 #EXTINF:-1 tvg-chno="106761" tvg-name="TV5 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106761_ll_h15_ac.png" group-title="Finland" tvg-id="TV5FHD" tvc-guide-stationid="106761",TV5 HD
 http://example.local/FIN-TV5FHD.ts
-#EXTINF:-1 tvg-chno="21495" tvg-name="TV5 Monde Europe" tvg-logo="https://zap2it.tmsimg.com/assets/s21495_ll_h15_aa.png" group-title="Finland" tvg-id="TV5MON" tvc-guide-stationid="21495",TV5 Monde Europe
+#EXTINF:-1 tvg-chno="21495" tvg-name="TV5 Monde Europe" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002M09J4.png" group-title="Finland" tvg-id="TV5MON" tvc-guide-stationid="21495",TV5 Monde Europe
 http://example.local/FIN-TV5MON.ts
-#EXTINF:-1 tvg-chno="95641" tvg-name="TV5 Monde Europe HD" tvg-logo="https://zap2it.tmsimg.com/assets/s95641_ll_h15_ab.png" group-title="Finland" tvg-id="TV5MHD" tvc-guide-stationid="95641",TV5 Monde Europe HD
+#EXTINF:-1 tvg-chno="95641" tvg-name="TV5 Monde Europe HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002M09E0.png" group-title="Finland" tvg-id="TV5MHD" tvc-guide-stationid="95641",TV5 Monde Europe HD
 http://example.local/FIN-TV5MHD.ts
 #EXTINF:-1 tvg-chno="97608" tvg-name="TV5 Monde HD (FBSM)" tvg-logo="https://zap2it.tmsimg.com/assets/s97608_ll_h15_ab.png" group-title="Finland" tvg-id="TV5FBSMHD" tvc-guide-stationid="97608",TV5 Monde HD (FBSM)
 http://example.local/FIN-TV5FBSMHD.ts
 #EXTINF:-1 tvg-chno="83524" tvg-name="TV6 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83524_ll_h15_aa.png" group-title="Finland" tvg-id="TV6HD" tvc-guide-stationid="83524",TV6 HD
 http://example.local/FIN-TV6HD.ts
+#EXTINF:-1 tvg-chno="202940" tvg-name="TV7 HD" group-title="Finland" tvg-id="TV7HDFI" tvc-guide-stationid="202940",TV7 HD
+http://example.local/FIN-TV7HDFI.ts
 #EXTINF:-1 tvg-chno="108964" tvg-name="TV8 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s108964_ll_h15_aa.png" group-title="Finland" tvg-id="TV8HD" tvc-guide-stationid="108964",TV8 HD
 http://example.local/FIN-TV8HD.ts
-#EXTINF:-1 tvg-chno="90320" tvg-name="TVE Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s90320_ll_h15_aa.png" group-title="Finland" tvg-id="TVEINTS" tvc-guide-stationid="90320",TVE Internacional
-http://example.local/FIN-TVEINTS.ts
 #EXTINF:-1 tvg-chno="115512" tvg-name="TVE Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s115512_ll_h15_aa.png" group-title="Finland" tvg-id="TVEINTH" tvc-guide-stationid="115512",TVE Internacional
 http://example.local/FIN-TVEINTH.ts
+#EXTINF:-1 tvg-chno="90320" tvg-name="TVE Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s90320_ll_h15_aa.png" group-title="Finland" tvg-id="TVEINTS" tvc-guide-stationid="90320",TVE Internacional
+http://example.local/FIN-TVEINTS.ts
 #EXTINF:-1 tvg-chno="113729" tvg-name="TVE Internacional HD (Europe)" tvg-logo="https://zap2it.tmsimg.com/assets/s113729_ll_h15_aa.png" group-title="Finland" tvg-id="TVEINHD" tvc-guide-stationid="113729",TVE Internacional HD (Europe)
 http://example.local/FIN-TVEINHD.ts
 #EXTINF:-1 tvg-chno="82271" tvg-name="V Sport 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s82271_ll_h15_aa.png" group-title="Finland" tvg-id="VIASPHD" tvc-guide-stationid="82271",V Sport 1 HD
@@ -407,3 +425,5 @@ http://example.local/FIN-YLE2.ts
 http://example.local/FIN-YLE2HD.ts
 #EXTINF:-1 tvg-chno="86886" tvg-name="ZDF" tvg-logo="https://zap2it.tmsimg.com/assets/s86886_ll_h15_ab.png" group-title="Finland" tvg-id="ZDFG" tvc-guide-stationid="86886",ZDF
 http://example.local/FIN-ZDFG.ts
+#EXTINF:-1 tvg-chno="67217" tvg-name="ZDF HD" tvg-logo="https://logos.jesmann.com/ZDFGERH.png" group-title="Finland" tvg-id="ZDFGERH" tvc-guide-stationid="67217",ZDF HD
+http://example.local/FIN-ZDFGERH.ts

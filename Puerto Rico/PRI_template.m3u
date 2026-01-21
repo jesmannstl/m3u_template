@@ -3,13 +3,15 @@
 http://example.local/PRI-3ABNL.ts
 #EXTINF:-1 tvg-chno="44895" tvg-name="A Wealth of Entertainment" tvg-logo="https://zap2it.tmsimg.com/assets/s44895_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="AWE" tvc-guide-stationid="44895",A Wealth of Entertainment
 http://example.local/PRI-AWE.ts
-#EXTINF:-1 tvg-chno="18955" tvg-name="A&E" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="AEMX" tvc-guide-stationid="18955",A&E
-http://example.local/PRI-AEMX.ts
-#EXTINF:-1 tvg-chno="10035" tvg-name="A&E" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="AETV" tvc-guide-stationid="10035",A&E
-http://example.local/PRI-AETV.ts
+#EXTINF:-1 tvg-chno="45438" tvg-name="A Wealth of Entertainment HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45438_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="AWEHD" tvc-guide-stationid="45438",A Wealth of Entertainment HD
+http://example.local/PRI-AWEHD.ts
 #EXTINF:-1 tvg-chno="87004" tvg-name="A&E" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_h3_aa.png" group-title="Puerto Rico" tvg-id="AEMXHD" tvc-guide-stationid="87004",A&E
 http://example.local/PRI-AEMXHD.ts
-#EXTINF:-1 tvg-chno="51529" tvg-name="A&E HD East" tvg-logo="https://zap2it.tmsimg.com/assets/s51529_h3_ba.png" group-title="Puerto Rico" tvg-id="AETVHD" tvc-guide-stationid="51529",A&E HD East
+#EXTINF:-1 tvg-chno="10035" tvg-name="A&E" tvg-logo="https://logos.jesmann.com/aetv.png" group-title="Puerto Rico" tvg-id="AETV" tvc-guide-stationid="10035",A&E
+http://example.local/PRI-AETV.ts
+#EXTINF:-1 tvg-chno="18955" tvg-name="A&E" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="AEMX" tvc-guide-stationid="18955",A&E
+http://example.local/PRI-AEMX.ts
+#EXTINF:-1 tvg-chno="51529" tvg-name="A&E HD East" tvg-logo="https://logos.jesmann.com/aetvhd.png" group-title="Puerto Rico" tvg-id="AETVHD" tvc-guide-stationid="51529",A&E HD East
 http://example.local/PRI-AETVHD.ts
 #EXTINF:-1 tvg-chno="159475" tvg-name="A&E North HD" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="AENORH" tvc-guide-stationid="159475",A&E North HD
 http://example.local/PRI-AENORH.ts
@@ -19,32 +21,48 @@ http://example.local/PRI-ABCDT.ts
 http://example.local/PRI-ADRESN.ts
 #EXTINF:-1 tvg-chno="68223" tvg-name="Adult Swim" tvg-logo="https://zap2it.tmsimg.com/assets/s68223_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="ADSLAHD" tvc-guide-stationid="68223",Adult Swim
 http://example.local/PRI-ADSLAHD.ts
+#EXTINF:-1 tvg-chno="16496" tvg-name="Adult Swim" tvg-logo="https://zap2it.tmsimg.com/assets/s16496_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="ADSLA" tvc-guide-stationid="16496",Adult Swim
+http://example.local/PRI-ADSLA.ts
 #EXTINF:-1 tvg-chno="10021" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s10021_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="AMC" tvc-guide-stationid="10021",AMC
 http://example.local/PRI-AMC.ts
 #EXTINF:-1 tvg-chno="59337" tvg-name="AMC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59337_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="AMCHD" tvc-guide-stationid="59337",AMC HD
 http://example.local/PRI-AMCHD.ts
 #EXTINF:-1 tvg-chno="17457" tvg-name="AMC Series" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002GM3XT.png" group-title="Puerto Rico" tvg-id="AMCSRS" tvc-guide-stationid="17457",AMC Series
 http://example.local/PRI-AMCSRS.ts
+#EXTINF:-1 tvg-chno="61865" tvg-name="Americable American Heroes Channel" group-title="Puerto Rico" tvg-id="AMAHC" tvc-guide-stationid="61865",Americable American Heroes Channel
+http://example.local/PRI-AMAHC.ts
+#EXTINF:-1 tvg-chno="71899" tvg-name="Americable Fuel TV HD" group-title="Puerto Rico" tvg-id="AMFUELH" tvc-guide-stationid="71899",Americable Fuel TV HD
+http://example.local/PRI-AMFUELH.ts
+#EXTINF:-1 tvg-chno="71879" tvg-name="Americable FX HD" group-title="Puerto Rico" tvg-id="AMFXHD" tvc-guide-stationid="71879",Americable FX HD
+http://example.local/PRI-AMFXHD.ts
+#EXTINF:-1 tvg-chno="61901" tvg-name="Americable Military History Channel" group-title="Puerto Rico" tvg-id="AMMILH" tvc-guide-stationid="61901",Americable Military History Channel
+http://example.local/PRI-AMMILH.ts
 #EXTINF:-1 tvg-chno="10003" tvg-name="American Broadcasting Company (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="ABC" tvc-guide-stationid="10003",American Broadcasting Company (ABC)
 http://example.local/PRI-ABC.ts
 #EXTINF:-1 tvg-chno="50624" tvg-name="American Heroes Channel" group-title="Puerto Rico" tvg-id="GMAHC" tvc-guide-stationid="50624",American Heroes Channel
 http://example.local/PRI-GMAHC.ts
 #EXTINF:-1 tvg-chno="18284" tvg-name="American Heroes Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s18284_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="AHC" tvc-guide-stationid="18284",American Heroes Channel
 http://example.local/PRI-AHC.ts
-#EXTINF:-1 tvg-chno="16331" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s16331_ll_h9_ad.png" group-title="Puerto Rico" tvg-id="APL" tvc-guide-stationid="16331",Animal Planet
-http://example.local/PRI-APL.ts
 #EXTINF:-1 tvg-chno="18649" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Puerto Rico" tvg-id="ANIPL" tvc-guide-stationid="18649",Animal Planet
 http://example.local/PRI-ANIPL.ts
+#EXTINF:-1 tvg-chno="16331" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s16331_ll_h9_ad.png" group-title="Puerto Rico" tvg-id="APL" tvc-guide-stationid="16331",Animal Planet
+http://example.local/PRI-APL.ts
 #EXTINF:-1 tvg-chno="18648" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Puerto Rico" tvg-id="ANIPI" tvc-guide-stationid="18648",Animal Planet
 http://example.local/PRI-ANIPI.ts
-#EXTINF:-1 tvg-chno="97167" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_h3_ba.png" group-title="Puerto Rico" tvg-id="ANIPLH" tvc-guide-stationid="97167",Animal Planet
+#EXTINF:-1 tvg-chno="97167" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Puerto Rico" tvg-id="ANIPLH" tvc-guide-stationid="97167",Animal Planet
 http://example.local/PRI-ANIPLH.ts
+#EXTINF:-1 tvg-chno="57394" tvg-name="Animal Planet HD" tvg-logo="https://zap2it.tmsimg.com/assets/s57394_ll_h9_ad.png" group-title="Puerto Rico" tvg-id="APLHD" tvc-guide-stationid="57394",Animal Planet HD
+http://example.local/PRI-APLHD.ts
 #EXTINF:-1 tvg-chno="97482" tvg-name="Animal Planet Pan Regional HD" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Puerto Rico" tvg-id="ANIPPRH" tvc-guide-stationid="97482",Animal Planet Pan Regional HD
 http://example.local/PRI-ANIPPRH.ts
 #EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Puerto Rico" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
 http://example.local/PRI-ANT3I.ts
+#EXTINF:-1 tvg-chno="96446" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s96446_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="ATSRIES" tvc-guide-stationid="96446",Atreseries
+http://example.local/PRI-ATSRIES.ts
 #EXTINF:-1 tvg-chno="49432" tvg-name="Audience Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s49432_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="AUD" tvc-guide-stationid="49432",Audience Channel
 http://example.local/PRI-AUD.ts
+#EXTINF:-1 tvg-chno="42471" tvg-name="AUDIO MC ELECTRONIC MUSIC" group-title="Puerto Rico" tvg-id="ELECTR" tvc-guide-stationid="42471",AUDIO MC ELECTRONIC MUSIC
+http://example.local/PRI-ELECTR.ts
 #EXTINF:-1 tvg-chno="28506" tvg-name="AXS TV" tvg-logo="https://zap2it.tmsimg.com/assets/s28506_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="AXSTV" tvc-guide-stationid="28506",AXS TV
 http://example.local/PRI-AXSTV.ts
 #EXTINF:-1 tvg-chno="56036" tvg-name="Baby Tv" tvg-logo="https://zap2it.tmsimg.com/assets/s56036_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="BABYTVL" tvc-guide-stationid="56036",Baby Tv
@@ -59,14 +77,24 @@ http://example.local/PRI-BANGU.ts
 http://example.local/PRI-BBCA.ts
 #EXTINF:-1 tvg-chno="64492" tvg-name="BBC America HD" tvg-logo="https://zap2it.tmsimg.com/assets/s64492_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="BBCAHD" tvc-guide-stationid="64492",BBC America HD
 http://example.local/PRI-BBCAHD.ts
+#EXTINF:-1 tvg-chno="36844" tvg-name="BBC News" tvg-logo="https://zap2it.tmsimg.com/assets/s36844_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="BBCNEEU" tvc-guide-stationid="36844",BBC News
+http://example.local/PRI-BBCNEEU.ts
+#EXTINF:-1 tvg-chno="89542" tvg-name="BBC News (North America)" tvg-logo="https://zap2it.tmsimg.com/assets/s89542_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="BBCWDNA" tvc-guide-stationid="89542",BBC News (North America)
+http://example.local/PRI-BBCWDNA.ts
 #EXTINF:-1 tvg-chno="76942" tvg-name="beIN Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s76942_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="BEINS1" tvc-guide-stationid="76942",beIN Sports
 http://example.local/PRI-BEINS1.ts
+#EXTINF:-1 tvg-chno="87224" tvg-name="BeIN SPORTS 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87224_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="BEIS2HD" tvc-guide-stationid="87224",BeIN SPORTS 2 HD
+http://example.local/PRI-BEIS2HD.ts
 #EXTINF:-1 tvg-chno="76950" tvg-name="beIN Sports HD" tvg-logo="https://zap2it.tmsimg.com/assets/s76950_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="BEIN1HD" tvc-guide-stationid="76950",beIN Sports HD
 http://example.local/PRI-BEIN1HD.ts
-#EXTINF:-1 tvg-chno="63236" tvg-name="BET HD" tvg-logo="https://zap2it.tmsimg.com/assets/s63236_h3_ba.png" group-title="Puerto Rico" tvg-id="BETHD" tvc-guide-stationid="63236",BET HD
+#EXTINF:-1 tvg-chno="10051" tvg-name="BET" tvg-logo="https://zap2it.tmsimg.com/assets/s10051_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="BET" tvc-guide-stationid="10051",BET
+http://example.local/PRI-BET.ts
+#EXTINF:-1 tvg-chno="63236" tvg-name="BET HD" tvg-logo="https://zap2it.tmsimg.com/assets/s63236_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="BETHD" tvc-guide-stationid="63236",BET HD
 http://example.local/PRI-BETHD.ts
 #EXTINF:-1 tvg-chno="30419" tvg-name="BET Jams" tvg-logo="https://zap2it.tmsimg.com/assets/s30419_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="BETJ" tvc-guide-stationid="30419",BET Jams
 http://example.local/PRI-BETJ.ts
+#EXTINF:-1 tvg-chno="18718" tvg-name="BET Soul" tvg-logo="https://zap2it.tmsimg.com/assets/s18718_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="BETSOUL" tvc-guide-stationid="18718",BET Soul
+http://example.local/PRI-BETSOUL.ts
 #EXTINF:-1 tvg-chno="14755" tvg-name="Bloomberg Business Television" tvg-logo="https://zap2it.tmsimg.com/assets/s14755_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="BLOOM" tvc-guide-stationid="14755",Bloomberg Business Television
 http://example.local/PRI-BLOOM.ts
 #EXTINF:-1 tvg-chno="71799" tvg-name="Bloomberg HD" tvg-logo="https://zap2it.tmsimg.com/assets/s71799_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="BLOOMHD" tvc-guide-stationid="71799",Bloomberg HD
@@ -83,20 +111,26 @@ http://example.local/PRI-BRAVOHD.ts
 http://example.local/PRI-BYUTV.ts
 #EXTINF:-1 tvg-chno="10142" tvg-name="Cable News Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10142_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="CNN" tvc-guide-stationid="10142",Cable News Network
 http://example.local/PRI-CNN.ts
+#EXTINF:-1 tvg-chno="20742" tvg-name="Canal 24 Horas HD" tvg-logo="https://zap2it.tmsimg.com/assets/s20742_ll_h9_aa.png" group-title="Puerto Rico" tvg-id="CAN24" tvc-guide-stationid="20742",Canal 24 Horas HD
+http://example.local/PRI-CAN24.ts
 #EXTINF:-1 tvg-chno="12750" tvg-name="Canal Sur" tvg-logo="https://zap2it.tmsimg.com/assets/s12750_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="SUR" tvc-guide-stationid="12750",Canal Sur
 http://example.local/PRI-SUR.ts
 #EXTINF:-1 tvg-chno="39719" tvg-name="CARACOL INTERNATIONAL" tvg-logo="https://zap2it.tmsimg.com/assets/s39719_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="CARAI" tvc-guide-stationid="39719",CARACOL INTERNATIONAL
 http://example.local/PRI-CARAI.ts
-#EXTINF:-1 tvg-chno="12131" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s12131_h3_ba.png" group-title="Puerto Rico" tvg-id="TOON" tvc-guide-stationid="12131",Cartoon Network
-http://example.local/PRI-TOON.ts
+#EXTINF:-1 tvg-chno="18567" tvg-name="Caracol TV Canal 1" tvg-logo="https://zap2it.tmsimg.com/assets/s18567_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="CARA" tvc-guide-stationid="18567",Caracol TV Canal 1
+http://example.local/PRI-CARA.ts
 #EXTINF:-1 tvg-chno="16141" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="TOONL" tvc-guide-stationid="16141",Cartoon Network
 http://example.local/PRI-TOONL.ts
-#EXTINF:-1 tvg-chno="18151" tvg-name="Cartoon Network (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s12131_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="TOONP" tvc-guide-stationid="18151",Cartoon Network (Pacific)
+#EXTINF:-1 tvg-chno="12131" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s12131_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="TOON" tvc-guide-stationid="12131",Cartoon Network
+http://example.local/PRI-TOON.ts
+#EXTINF:-1 tvg-chno="18151" tvg-name="Cartoon Network (Pacific)" tvg-logo="https://logos.jesmann.com/toonp.png" group-title="Puerto Rico" tvg-id="TOONP" tvc-guide-stationid="18151",Cartoon Network (Pacific)
 http://example.local/PRI-TOONP.ts
 #EXTINF:-1 tvg-chno="60048" tvg-name="Cartoon Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60048_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="TOONHD" tvc-guide-stationid="60048",Cartoon Network HD
 http://example.local/PRI-TOONHD.ts
 #EXTINF:-1 tvg-chno="26089" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="CARTOA" tvc-guide-stationid="26089",Cartoonito
 http://example.local/PRI-CARTOA.ts
+#EXTINF:-1 tvg-chno="55719" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="CARTOM" tvc-guide-stationid="55719",Cartoonito
+http://example.local/PRI-CARTOM.ts
 #EXTINF:-1 tvg-chno="60755" tvg-name="Cbeebies TV" tvg-logo="https://zap2it.tmsimg.com/assets/s60755_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="CBEETV" tvc-guide-stationid="60755",Cbeebies TV
 http://example.local/PRI-CBEETV.ts
 #EXTINF:-1 tvg-chno="10098" tvg-name="CBS Corporation (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="CBS" tvc-guide-stationid="10098",CBS Corporation (CBS)
@@ -105,25 +139,31 @@ http://example.local/PRI-CBS.ts
 http://example.local/PRI-CBSSNHD.ts
 #EXTINF:-1 tvg-chno="44608" tvg-name="CCTV Entertainment" tvg-logo="https://zap2it.tmsimg.com/assets/s44608_ll_h9_ab.png" group-title="Puerto Rico" tvg-id="CCENT" tvc-guide-stationid="44608",CCTV Entertainment
 http://example.local/PRI-CCENT.ts
+#EXTINF:-1 tvg-chno="24248" tvg-name="CCTV4-China Central TV" tvg-logo="https://zap2it.tmsimg.com/assets/s24248_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="CCTV4" tvc-guide-stationid="24248",CCTV4-China Central TV
+http://example.local/PRI-CCTV4.ts
 #EXTINF:-1 tvg-chno="44448" tvg-name="CentroAméricaTV" tvg-logo="https://zap2it.tmsimg.com/assets/s44448_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="CENTROA" tvc-guide-stationid="44448",CentroAméricaTV
 http://example.local/PRI-CENTROA.ts
+#EXTINF:-1 tvg-chno="29114" tvg-name="China Global Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/s29114_ll_h9_ab.png" group-title="Puerto Rico" tvg-id="CGTN" tvc-guide-stationid="29114",China Global Television Network
+http://example.local/PRI-CGTN.ts
 #EXTINF:-1 tvg-chno="55141" tvg-name="Choice Cable Internal Communication Channel" group-title="Puerto Rico" tvg-id="ICC" tvc-guide-stationid="55141",Choice Cable Internal Communication Channel
 http://example.local/PRI-ICC.ts
 #EXTINF:-1 tvg-chno="15296" tvg-name="Cine Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s15296_ll_h9_ab.png" group-title="Puerto Rico" tvg-id="CINL" tvc-guide-stationid="15296",Cine Latino
 http://example.local/PRI-CINL.ts
 #EXTINF:-1 tvg-chno="62401" tvg-name="Cine Latino US" tvg-logo="https://zap2it.tmsimg.com/assets/s15296_h3_ba.png" group-title="Puerto Rico" tvg-id="CINLUS" tvc-guide-stationid="62401",Cine Latino US
 http://example.local/PRI-CINLUS.ts
-#EXTINF:-1 tvg-chno="12508" tvg-name="Cinemax (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10120_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="MAXP" tvc-guide-stationid="12508",Cinemax (Pacific)
+#EXTINF:-1 tvg-chno="10120" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s10120_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="MAX" tvc-guide-stationid="10120",Cinemax
+http://example.local/PRI-MAX.ts
+#EXTINF:-1 tvg-chno="12508" tvg-name="Cinemax (Pacific)" tvg-logo="https://logos.jesmann.com/maxp.png" group-title="Puerto Rico" tvg-id="MAXP" tvc-guide-stationid="12508",Cinemax (Pacific)
 http://example.local/PRI-MAXP.ts
 #EXTINF:-1 tvg-chno="18433" tvg-name="Cinemax Action" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC1Q.png" group-title="Puerto Rico" tvg-id="CINACT" tvc-guide-stationid="18433",Cinemax Action
 http://example.local/PRI-CINACT.ts
-#EXTINF:-1 tvg-chno="18434" tvg-name="Cinemax Action (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BC1Q.png" group-title="Puerto Rico" tvg-id="CINACSP" tvc-guide-stationid="18434",Cinemax Action (Pacific)
+#EXTINF:-1 tvg-chno="18434" tvg-name="Cinemax Action (Pacific)" tvg-logo="https://logos.jesmann.com/cinacsp.png" group-title="Puerto Rico" tvg-id="CINACSP" tvc-guide-stationid="18434",Cinemax Action (Pacific)
 http://example.local/PRI-CINACSP.ts
 #EXTINF:-1 tvg-chno="34933" tvg-name="Cinemax HD" tvg-logo="https://zap2it.tmsimg.com/assets/s34933_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="MAXHD" tvc-guide-stationid="34933",Cinemax HD
 http://example.local/PRI-MAXHD.ts
 #EXTINF:-1 tvg-chno="10121" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png" group-title="Puerto Rico" tvg-id="CINEHIT" tvc-guide-stationid="10121",Cinemax Hits
 http://example.local/PRI-CINEHIT.ts
-#EXTINF:-1 tvg-chno="16620" tvg-name="Cinemax Hits (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png" group-title="Puerto Rico" tvg-id="CINEHP" tvc-guide-stationid="16620",Cinemax Hits (Pacific)
+#EXTINF:-1 tvg-chno="16620" tvg-name="Cinemax Hits (Pacific)" tvg-logo="https://logos.jesmann.com/cinehp.png" group-title="Puerto Rico" tvg-id="CINEHP" tvc-guide-stationid="16620",Cinemax Hits (Pacific)
 http://example.local/PRI-CINEHP.ts
 #EXTINF:-1 tvg-chno="60630" tvg-name="CLAROPPV" group-title="Puerto Rico" tvg-id="CLAROPPV" tvc-guide-stationid="60630",CLAROPPV
 http://example.local/PRI-CLAROPPV.ts
@@ -133,30 +173,40 @@ http://example.local/PRI-CAS.ts
 http://example.local/PRI-CNBC.ts
 #EXTINF:-1 tvg-chno="24524" tvg-name="CNBC - Olympic Alternate" group-title="Puerto Rico" tvg-id="CNBCA" tvc-guide-stationid="24524",CNBC - Olympic Alternate
 http://example.local/PRI-CNBCA.ts
-#EXTINF:-1 tvg-chno="58780" tvg-name="CNBC HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NF468.png" group-title="Puerto Rico" tvg-id="CNBCHD" tvc-guide-stationid="58780",CNBC HD
+#EXTINF:-1 tvg-chno="58780" tvg-name="CNBC HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NF45H.png" group-title="Puerto Rico" tvg-id="CNBCHD" tvc-guide-stationid="58780",CNBC HD
 http://example.local/PRI-CNBCHD.ts
 #EXTINF:-1 tvg-chno="66299" tvg-name="CNBC HD - Olympic Alternate" group-title="Puerto Rico" tvg-id="CNBCHDA" tvc-guide-stationid="66299",CNBC HD - Olympic Alternate
 http://example.local/PRI-CNBCHDA.ts
-#EXTINF:-1 tvg-chno="26849" tvg-name="CNBC World" tvg-logo="https://zap2it.tmsimg.com/assets/s26849_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="CNBCWLD" tvc-guide-stationid="26849",CNBC World
+#EXTINF:-1 tvg-chno="10141" tvg-name="CNBC LatinAm" group-title="Puerto Rico" tvg-id="CNBCL" tvc-guide-stationid="10141",CNBC LatinAm
+http://example.local/PRI-CNBCL.ts
+#EXTINF:-1 tvg-chno="26849" tvg-name="CNBC World" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NF46H.png" group-title="Puerto Rico" tvg-id="CNBCWLD" tvc-guide-stationid="26849",CNBC World
 http://example.local/PRI-CNBCWLD.ts
 #EXTINF:-1 tvg-chno="17054" tvg-name="CNN En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="CNNL" tvc-guide-stationid="17054",CNN En Español
 http://example.local/PRI-CNNL.ts
+#EXTINF:-1 tvg-chno="58631" tvg-name="CNN en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s58631_ll_h9_aa.png" group-title="Puerto Rico" tvg-id="CNNE" tvc-guide-stationid="58631",CNN en Español
+http://example.local/PRI-CNNE.ts
 #EXTINF:-1 tvg-chno="27773" tvg-name="CNN en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="CNNEM" tvc-guide-stationid="27773",CNN en Español
 http://example.local/PRI-CNNEM.ts
 #EXTINF:-1 tvg-chno="58646" tvg-name="CNN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58646_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="CNNHD" tvc-guide-stationid="58646",CNN HD
 http://example.local/PRI-CNNHD.ts
+#EXTINF:-1 tvg-chno="20436" tvg-name="CNN Headline News LatinAm" tvg-logo="https://zap2it.tmsimg.com/assets/s20436_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="CNNHL" tvc-guide-stationid="20436",CNN Headline News LatinAm
+http://example.local/PRI-CNNHL.ts
+#EXTINF:-1 tvg-chno="15192" tvg-name="CNNI Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s15192_ll_h9_aa.png" group-title="Puerto Rico" tvg-id="CNNIL" tvc-guide-stationid="15192",CNNI Latin America
+http://example.local/PRI-CNNIL.ts
 #EXTINF:-1 tvg-chno="74906" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s100848_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="COMCLAH" tvc-guide-stationid="74906",Comedy Central
 http://example.local/PRI-COMCLAH.ts
+#EXTINF:-1 tvg-chno="10149" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s10149_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="COMEDY" tvc-guide-stationid="10149",Comedy Central
+http://example.local/PRI-COMEDY.ts
 #EXTINF:-1 tvg-chno="74528" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s76326_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="COMCELA" tvc-guide-stationid="74528",Comedy Central
 http://example.local/PRI-COMCELA.ts
-#EXTINF:-1 tvg-chno="10149" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s10149_h3_ba.png" group-title="Puerto Rico" tvg-id="COMEDY" tvc-guide-stationid="10149",Comedy Central
-http://example.local/PRI-COMEDY.ts
 #EXTINF:-1 tvg-chno="30156" tvg-name="Cooking Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s30156_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="COOK" tvc-guide-stationid="30156",Cooking Channel
 http://example.local/PRI-COOK.ts
 #EXTINF:-1 tvg-chno="68065" tvg-name="Cooking Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68065_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="COOKHD" tvc-guide-stationid="68065",Cooking Channel HD
 http://example.local/PRI-COOKHD.ts
 #EXTINF:-1 tvg-chno="61469" tvg-name="Crime & Investigation Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61469_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="CINHD" tvc-guide-stationid="61469",Crime & Investigation Network HD
 http://example.local/PRI-CINHD.ts
+#EXTINF:-1 tvg-chno="48543" tvg-name="Crime + Investigation" tvg-logo="https://zap2it.tmsimg.com/assets/s48543_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="CIN" tvc-guide-stationid="48543",Crime + Investigation
+http://example.local/PRI-CIN.ts
 #EXTINF:-1 tvg-chno="10161" tvg-name="CSPAN" tvg-logo="https://zap2it.tmsimg.com/assets/s10161_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="CSPAN" tvc-guide-stationid="10161",CSPAN
 http://example.local/PRI-CSPAN.ts
 #EXTINF:-1 tvg-chno="10162" tvg-name="CSPAN2" tvg-logo="https://zap2it.tmsimg.com/assets/s10162_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="CSPAN2" tvc-guide-stationid="10162",CSPAN2
@@ -175,26 +225,40 @@ http://example.local/PRI-DESTHD.ts
 http://example.local/PRI-NFLST.ts
 #EXTINF:-1 tvg-chno="20813" tvg-name="DirecTV - NFL Sunday Ticket - NFLST2" group-title="Puerto Rico" tvg-id="NFLST2" tvc-guide-stationid="20813",DirecTV - NFL Sunday Ticket - NFLST2
 http://example.local/PRI-NFLST2.ts
-#EXTINF:-1 tvg-chno="11150" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11150_h3_ba.png" group-title="Puerto Rico" tvg-id="DSC" tvc-guide-stationid="11150",Discovery Channel
-http://example.local/PRI-DSC.ts
 #EXTINF:-1 tvg-chno="25788" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="DISCCH" tvc-guide-stationid="25788",Discovery Channel
 http://example.local/PRI-DISCCH.ts
+#EXTINF:-1 tvg-chno="11150" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11150_ll_h15_af.png" group-title="Puerto Rico" tvg-id="DSC" tvc-guide-stationid="11150",Discovery Channel
+http://example.local/PRI-DSC.ts
 #EXTINF:-1 tvg-chno="54195" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="TDCLA" tvc-guide-stationid="54195",Discovery Channel
 http://example.local/PRI-TDCLA.ts
 #EXTINF:-1 tvg-chno="15798" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="TDCL" tvc-guide-stationid="15798",Discovery Channel
 http://example.local/PRI-TDCL.ts
+#EXTINF:-1 tvg-chno="48524" tvg-name="Discovery Civilization" tvg-logo="https://zap2it.tmsimg.com/assets/s48524_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="DCIVILI" tvc-guide-stationid="48524",Discovery Civilization
+http://example.local/PRI-DCIVILI.ts
+#EXTINF:-1 tvg-chno="19247" tvg-name="Discovery en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s19247_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="DSCE" tvc-guide-stationid="19247",Discovery en Español
+http://example.local/PRI-DSCE.ts
 #EXTINF:-1 tvg-chno="16618" tvg-name="Discovery Family Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16618_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="DFC" tvc-guide-stationid="16618",Discovery Family Channel
 http://example.local/PRI-DFC.ts
-#EXTINF:-1 tvg-chno="59582" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="DHEALM" tvc-guide-stationid="59582",Discovery Home & Health
-http://example.local/PRI-DHEALM.ts
 #EXTINF:-1 tvg-chno="24424" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="DHEAL" tvc-guide-stationid="24424",Discovery Home & Health
 http://example.local/PRI-DHEAL.ts
-#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_h3_aa.png" group-title="Puerto Rico" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
+#EXTINF:-1 tvg-chno="59582" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="DHEALM" tvc-guide-stationid="59582",Discovery Home & Health
+http://example.local/PRI-DHEALM.ts
+#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
 http://example.local/PRI-DKNLM.ts
 #EXTINF:-1 tvg-chno="16680" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="DKNL" tvc-guide-stationid="16680",Discovery Kids
 http://example.local/PRI-DKNL.ts
 #EXTINF:-1 tvg-chno="90849" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s90849_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="DKNLAEH" tvc-guide-stationid="90849",Discovery Kids
 http://example.local/PRI-DKNLAEH.ts
+#EXTINF:-1 tvg-chno="16125" tvg-name="Discovery Life Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16125_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="DLC" tvc-guide-stationid="16125",Discovery Life Channel
+http://example.local/PRI-DLC.ts
+#EXTINF:-1 tvg-chno="46610" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s48527_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="DSCIENL" tvc-guide-stationid="46610",Discovery Science
+http://example.local/PRI-DSCIENL.ts
+#EXTINF:-1 tvg-chno="48527" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s48527_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="DSCIENI" tvc-guide-stationid="48527",Discovery Science
+http://example.local/PRI-DSCIENI.ts
+#EXTINF:-1 tvg-chno="65301" tvg-name="Discovery Theater HD" tvg-logo="https://zap2it.tmsimg.com/assets/s65940_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="DTHLIHD" tvc-guide-stationid="65301",Discovery Theater HD
+http://example.local/PRI-DTHLIHD.ts
+#EXTINF:-1 tvg-chno="65940" tvg-name="Discovery Theater HD" tvg-logo="https://zap2it.tmsimg.com/assets/s65940_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="DTHLAHD" tvc-guide-stationid="65940",Discovery Theater HD
+http://example.local/PRI-DTHLAHD.ts
 #EXTINF:-1 tvg-chno="46608" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="DTURBOL" tvc-guide-stationid="46608",Discovery Turbo
 http://example.local/PRI-DTURBOL.ts
 #EXTINF:-1 tvg-chno="31046" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RMTEH.png" group-title="Puerto Rico" tvg-id="MTHD" tvc-guide-stationid="31046",DISCOVERY TURBO HD
@@ -203,18 +267,24 @@ http://example.local/PRI-MTHD.ts
 http://example.local/PRI-DWRLDHE.ts
 #EXTINF:-1 tvg-chno="19234" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s19234_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="DISNL" tvc-guide-stationid="19234",Disney Channel
 http://example.local/PRI-DISNL.ts
-#EXTINF:-1 tvg-chno="75584" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75584_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="DISHD" tvc-guide-stationid="75584",Disney Channel
-http://example.local/PRI-DISHD.ts
 #EXTINF:-1 tvg-chno="10171" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s10171_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="DISN" tvc-guide-stationid="10171",Disney Channel
 http://example.local/PRI-DISN.ts
+#EXTINF:-1 tvg-chno="75584" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75584_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="DISHD" tvc-guide-stationid="75584",Disney Channel
+http://example.local/PRI-DISHD.ts
 #EXTINF:-1 tvg-chno="59684" tvg-name="Disney Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59684_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="DISNHD" tvc-guide-stationid="59684",Disney Channel HD
 http://example.local/PRI-DISNHD.ts
 #EXTINF:-1 tvg-chno="61311" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="DISNJMX" tvc-guide-stationid="61311",Disney Junior
 http://example.local/PRI-DISNJMX.ts
+#EXTINF:-1 tvg-chno="70506" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="DISJMXE" tvc-guide-stationid="70506",Disney Junior
+http://example.local/PRI-DISJMXE.ts
 #EXTINF:-1 tvg-chno="16563" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="DISNXD" tvc-guide-stationid="16563",Disney XD
 http://example.local/PRI-DISNXD.ts
 #EXTINF:-1 tvg-chno="18279" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s18279_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="DXD" tvc-guide-stationid="18279",Disney XD
 http://example.local/PRI-DXD.ts
+#EXTINF:-1 tvg-chno="95556" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="DISXMUE" tvc-guide-stationid="95556",Disney XD
+http://example.local/PRI-DISXMUE.ts
+#EXTINF:-1 tvg-chno="60006" tvg-name="Disney XD HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60006_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="DXDHD" tvc-guide-stationid="60006",Disney XD HD
+http://example.local/PRI-DXDHD.ts
 #EXTINF:-1 tvg-chno="69352" tvg-name="Disney XD HD" tvg-logo="https://zap2it.tmsimg.com/assets/s69352_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="DISXDHD" tvc-guide-stationid="69352",Disney XD HD
 http://example.local/PRI-DISXDHD.ts
 #EXTINF:-1 tvg-chno="19309" tvg-name="DMX: Classic Rock" tvg-logo="https://zap2it.tmsimg.com/assets/s19309_ll_h9_aa.png" group-title="Puerto Rico" tvg-id="CLSROCK" tvc-guide-stationid="19309",DMX: Classic Rock
@@ -229,22 +299,40 @@ http://example.local/PRI-LATINCO.ts
 http://example.local/PRI-SNDTRCK.ts
 #EXTINF:-1 tvg-chno="33652" tvg-name="DNU Azteca America Network (AZTECAE)" tvg-logo="https://zap2it.tmsimg.com/assets/s33652_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="AZTECAE" tvc-guide-stationid="33652",DNU Azteca America Network (AZTECAE)
 http://example.local/PRI-AZTECAE.ts
+#EXTINF:-1 tvg-chno="43434" tvg-name="DNU Azteca Satellite Feed" tvg-logo="https://zap2it.tmsimg.com/assets/s33652_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="AZTSAT" tvc-guide-stationid="43434",DNU Azteca Satellite Feed
+http://example.local/PRI-AZTSAT.ts
 #EXTINF:-1 tvg-chno="81235" tvg-name="DNU Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s41223_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="DISNMUH" tvc-guide-stationid="81235",DNU Disney Channel
 http://example.local/PRI-DISNMUH.ts
-#EXTINF:-1 tvg-chno="99828" tvg-name="DNU Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_h3_ba.png" group-title="Puerto Rico" tvg-id="STRPHD" tvc-guide-stationid="99828",DNU Star Channel
+#EXTINF:-1 tvg-chno="99828" tvg-name="DNU Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="STRPHD" tvc-guide-stationid="99828",DNU Star Channel
 http://example.local/PRI-STRPHD.ts
 #EXTINF:-1 tvg-chno="47540" tvg-name="DNU Universal Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s47540_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="UKIDS" tvc-guide-stationid="47540",DNU Universal Kids
 http://example.local/PRI-UKIDS.ts
+#EXTINF:-1 tvg-chno="59298" tvg-name="Dominican View" tvg-logo="https://zap2it.tmsimg.com/assets/s59298_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="DOMVIEW" tvc-guide-stationid="59298",Dominican View
+http://example.local/PRI-DOMVIEW.ts
 #EXTINF:-1 tvg-chno="32195" tvg-name="E! Entertainment" tvg-logo="https://zap2it.tmsimg.com/assets/s32195_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="ETVINT" tvc-guide-stationid="32195",E! Entertainment
 http://example.local/PRI-ETVINT.ts
+#EXTINF:-1 tvg-chno="10989" tvg-name="E! Entertainment Television" tvg-logo="https://zap2it.tmsimg.com/assets/s10989_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="E" tvc-guide-stationid="10989",E! Entertainment Television
+http://example.local/PRI-E.ts
 #EXTINF:-1 tvg-chno="16237" tvg-name="E! Entertainment Television" tvg-logo="https://zap2it.tmsimg.com/assets/s30259_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="ETVL" tvc-guide-stationid="16237",E! Entertainment Television
 http://example.local/PRI-ETVL.ts
 #EXTINF:-1 tvg-chno="61812" tvg-name="E! Entertainment Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61812_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="EHD" tvc-guide-stationid="61812",E! Entertainment Television HD
 http://example.local/PRI-EHD.ts
 #EXTINF:-1 tvg-chno="30259" tvg-name="E! Entertainment TV" tvg-logo="https://zap2it.tmsimg.com/assets/s30259_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="ETVLN" tvc-guide-stationid="30259",E! Entertainment TV
 http://example.local/PRI-ETVLN.ts
-#EXTINF:-1 tvg-chno="20286" tvg-name="ENLACE TV" tvg-logo="https://zap2it.tmsimg.com/assets/s20286_h3_ba.png" group-title="Puerto Rico" tvg-id="ENLACE" tvc-guide-stationid="20286",ENLACE TV
+#EXTINF:-1 tvg-chno="97270" tvg-name="E! HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97270_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="ETVINTH" tvc-guide-stationid="97270",E! HD
+http://example.local/PRI-ETVINTH.ts
+#EXTINF:-1 tvg-chno="46331" tvg-name="Ebenezer" group-title="Puerto Rico" tvg-id="EBENEZR" tvc-guide-stationid="46331",Ebenezer
+http://example.local/PRI-EBENEZR.ts
+#EXTINF:-1 tvg-chno="25553" tvg-name="El Gourmet" tvg-logo="https://zap2it.tmsimg.com/assets/s25553_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="GOURMET" tvc-guide-stationid="25553",El Gourmet
+http://example.local/PRI-GOURMET.ts
+#EXTINF:-1 tvg-chno="45910" tvg-name="El Gourmet" tvg-logo="https://zap2it.tmsimg.com/assets/s25553_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="GOURMETN" tvc-guide-stationid="45910",El Gourmet
+http://example.local/PRI-GOURMETN.ts
+#EXTINF:-1 tvg-chno="20286" tvg-name="ENLACE TV" tvg-logo="https://zap2it.tmsimg.com/assets/s20286_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="ENLACE" tvc-guide-stationid="20286",ENLACE TV
 http://example.local/PRI-ENLACE.ts
+#EXTINF:-1 tvg-chno="27753" tvg-name="EPG iN Demand Previews" group-title="Puerto Rico" tvg-id="INPREVW" tvc-guide-stationid="27753",EPG iN Demand Previews
+http://example.local/PRI-INPREVW.ts
+#EXTINF:-1 tvg-chno="27742" tvg-name="EPG Local Access" group-title="Puerto Rico" tvg-id="EPGLOCL" tvc-guide-stationid="27742",EPG Local Access
+http://example.local/PRI-EPGLOCL.ts
 #EXTINF:-1 tvg-chno="27811" tvg-name="EPG PPV Preview - PPVPRV" group-title="Puerto Rico" tvg-id="PPVPRV" tvc-guide-stationid="27811",EPG PPV Preview - PPVPRV
 http://example.local/PRI-PPVPRV.ts
 #EXTINF:-1 tvg-chno="10179" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s10179_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="ESPN" tvc-guide-stationid="10179",ESPN
@@ -255,10 +343,16 @@ http://example.local/PRI-ESP2MEH.ts
 http://example.local/PRI-ESP2ME.ts
 #EXTINF:-1 tvg-chno="75585" tvg-name="ESPN 3" tvg-logo="https://zap2it.tmsimg.com/assets/s75585_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="ESPN3BH" tvc-guide-stationid="75585",ESPN 3
 http://example.local/PRI-ESPN3BH.ts
+#EXTINF:-1 tvg-chno="30392" tvg-name="ESPN 5 Centroamérica" tvg-logo="https://zap2it.tmsimg.com/assets/s122027_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="ESP5CES" tvc-guide-stationid="30392",ESPN 5 Centroamérica
+http://example.local/PRI-ESP5CES.ts
+#EXTINF:-1 tvg-chno="47374" tvg-name="ESPN 6" tvg-logo="https://zap2it.tmsimg.com/assets/s47374_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="ESPN6SS" tvc-guide-stationid="47374",ESPN 6
+http://example.local/PRI-ESPN6SS.ts
 #EXTINF:-1 tvg-chno="64997" tvg-name="ESPN Caribbean" group-title="Puerto Rico" tvg-id="ESPNIC" tvc-guide-stationid="64997",ESPN Caribbean
 http://example.local/PRI-ESPNIC.ts
 #EXTINF:-1 tvg-chno="25595" tvg-name="ESPN Deportes" tvg-logo="https://zap2it.tmsimg.com/assets/s25595_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="ESPND" tvc-guide-stationid="25595",ESPN Deportes
 http://example.local/PRI-ESPND.ts
+#EXTINF:-1 tvg-chno="71914" tvg-name="ESPN Deportes HD" tvg-logo="https://zap2it.tmsimg.com/assets/s71914_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="ESPNDHD" tvc-guide-stationid="71914",ESPN Deportes HD
+http://example.local/PRI-ESPNDHD.ts
 #EXTINF:-1 tvg-chno="32645" tvg-name="ESPN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s32645_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="ESPNHD" tvc-guide-stationid="32645",ESPN HD
 http://example.local/PRI-ESPNHD.ts
 #EXTINF:-1 tvg-chno="12444" tvg-name="ESPN2" tvg-logo="https://zap2it.tmsimg.com/assets/s12444_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="ESPN2" tvc-guide-stationid="12444",ESPN2
@@ -275,6 +369,8 @@ http://example.local/PRI-ESPNWHD.ts
 http://example.local/PRI-ESPNU.ts
 #EXTINF:-1 tvg-chno="60696" tvg-name="ESPNU HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60696_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="ESPNUHD" tvc-guide-stationid="60696",ESPNU HD
 http://example.local/PRI-ESPNUHD.ts
+#EXTINF:-1 tvg-chno="33527" tvg-name="ETBN Enlace USA" tvg-logo="https://zap2it.tmsimg.com/assets/s33527_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="ENLUSA" tvc-guide-stationid="33527",ETBN Enlace USA
+http://example.local/PRI-ENLUSA.ts
 #EXTINF:-1 tvg-chno="10183" tvg-name="Eternal Word Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10183_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="EWTN" tvc-guide-stationid="10183",Eternal Word Television Network
 http://example.local/PRI-EWTN.ts
 #EXTINF:-1 tvg-chno="16350" tvg-name="EWTN Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16350_ll_h9_ab.png" group-title="Puerto Rico" tvg-id="EWTNL" tvc-guide-stationid="16350",EWTN Latin America
@@ -301,19 +397,23 @@ http://example.local/PRI-FBNHD.ts
 http://example.local/PRI-FXDEP.ts
 #EXTINF:-1 tvg-chno="72189" tvg-name="Fox Deportes HD" tvg-logo="https://zap2it.tmsimg.com/assets/s15377_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="FXDEPHD" tvc-guide-stationid="72189",Fox Deportes HD
 http://example.local/PRI-FXDEPHD.ts
+#EXTINF:-1 tvg-chno="16374" tvg-name="Fox News Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16374_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="FNC" tvc-guide-stationid="16374",Fox News Channel
+http://example.local/PRI-FNC.ts
 #EXTINF:-1 tvg-chno="60179" tvg-name="Fox News Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60179_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="FNCHD" tvc-guide-stationid="60179",Fox News Channel HD
 http://example.local/PRI-FNCHD.ts
 #EXTINF:-1 tvg-chno="66880" tvg-name="Fox Soccer Plus HD" tvg-logo="https://zap2it.tmsimg.com/assets/s66880_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="FSCPLHD" tvc-guide-stationid="66880",Fox Soccer Plus HD
 http://example.local/PRI-FSCPLHD.ts
-#EXTINF:-1 tvg-chno="66365" tvg-name="Fox Sports 2" tvg-logo="https://zap2it.tmsimg.com/assets/s66365_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="FOXS2" tvc-guide-stationid="66365",Fox Sports 2
-http://example.local/PRI-FOXS2.ts
 #EXTINF:-1 tvg-chno="71328" tvg-name="Fox Sports 2" tvg-logo="https://zap2it.tmsimg.com/assets/s66365_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="FOXSHD2" tvc-guide-stationid="71328",Fox Sports 2
 http://example.local/PRI-FOXSHD2.ts
-#EXTINF:-1 tvg-chno="59307" tvg-name="Fox Sports Latin America HD (inactive)" tvg-logo="https://zap2it.tmsimg.com/assets/s59307_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="FSLAHD" tvc-guide-stationid="59307",Fox Sports Latin America HD (inactive)
+#EXTINF:-1 tvg-chno="66365" tvg-name="Fox Sports 2" tvg-logo="https://zap2it.tmsimg.com/assets/s66365_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="FOXS2" tvc-guide-stationid="66365",Fox Sports 2
+http://example.local/PRI-FOXS2.ts
+#EXTINF:-1 tvg-chno="55122" tvg-name="Fox Sports America Sur Premium Colombia" group-title="Puerto Rico" tvg-id="FSALSC" tvc-guide-stationid="55122",Fox Sports America Sur Premium Colombia
+http://example.local/PRI-FSALSC.ts
+#EXTINF:-1 tvg-chno="59307" tvg-name="Fox Sports Latin America HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59307_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="FSLAHD" tvc-guide-stationid="59307",Fox Sports Latin America HD
 http://example.local/PRI-FSLAHD.ts
 #EXTINF:-1 tvg-chno="30189" tvg-name="Fox Sports Racing" tvg-logo="https://zap2it.tmsimg.com/assets/s30189_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="FSR" tvc-guide-stationid="30189",Fox Sports Racing
 http://example.local/PRI-FSR.ts
-#EXTINF:-1 tvg-chno="105781" tvg-name="France 24" tvg-logo="https://zap2it.tmsimg.com/assets/s105780_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="FR24ESD" tvc-guide-stationid="105781",France 24
+#EXTINF:-1 tvg-chno="105781" tvg-name="France 24" tvg-logo="https://zap2it.tmsimg.com/assets/s105780_h3_ac.png" group-title="Puerto Rico" tvg-id="FR24ESD" tvc-guide-stationid="105781",France 24
 http://example.local/PRI-FR24ESD.ts
 #EXTINF:-1 tvg-chno="10093" tvg-name="Freeform" tvg-logo="https://zap2it.tmsimg.com/assets/s10093_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="FREEFRM" tvc-guide-stationid="10093",Freeform
 http://example.local/PRI-FREEFRM.ts
@@ -321,18 +421,22 @@ http://example.local/PRI-FREEFRM.ts
 http://example.local/PRI-FREFMHD.ts
 #EXTINF:-1 tvg-chno="82541" tvg-name="FS1" tvg-logo="https://zap2it.tmsimg.com/assets/s82541_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="FS1" tvc-guide-stationid="82541",FS1
 http://example.local/PRI-FS1.ts
+#EXTINF:-1 tvg-chno="87088" tvg-name="FS1 - Freies Fernsehen Salzburg" tvg-logo="https://zap2it.tmsimg.com/assets/s87088_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="FS1FFS" tvc-guide-stationid="87088",FS1 - Freies Fernsehen Salzburg
+http://example.local/PRI-FS1FFS.ts
 #EXTINF:-1 tvg-chno="82547" tvg-name="FS1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s82547_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="FS1HD" tvc-guide-stationid="82547",FS1 HD
 http://example.local/PRI-FS1HD.ts
+#EXTINF:-1 tvg-chno="14929" tvg-name="Fuse" tvg-logo="https://zap2it.tmsimg.com/assets/s14929_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="FUSE" tvc-guide-stationid="14929",Fuse
+http://example.local/PRI-FUSE.ts
 #EXTINF:-1 tvg-chno="59116" tvg-name="Fuse HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59116_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="FUSEHD" tvc-guide-stationid="59116",Fuse HD
 http://example.local/PRI-FUSEHD.ts
 #EXTINF:-1 tvg-chno="101676" tvg-name="Fusion" tvg-logo="https://zap2it.tmsimg.com/assets/s83173_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="FSION" tvc-guide-stationid="101676",Fusion
 http://example.local/PRI-FSION.ts
-#EXTINF:-1 tvg-chno="46442" tvg-name="FX" tvg-logo="https://zap2it.tmsimg.com/assets/s46442_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="FXL" tvc-guide-stationid="46442",FX
-http://example.local/PRI-FXL.ts
-#EXTINF:-1 tvg-chno="14321" tvg-name="FX" tvg-logo="https://zap2it.tmsimg.com/assets/s14321_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="FX" tvc-guide-stationid="14321",FX
-http://example.local/PRI-FX.ts
 #EXTINF:-1 tvg-chno="77617" tvg-name="FX" tvg-logo="https://zap2it.tmsimg.com/assets/s105689_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="FXLHD" tvc-guide-stationid="77617",FX
 http://example.local/PRI-FXLHD.ts
+#EXTINF:-1 tvg-chno="14321" tvg-name="FX" tvg-logo="https://zap2it.tmsimg.com/assets/s14321_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="FX" tvc-guide-stationid="14321",FX
+http://example.local/PRI-FX.ts
+#EXTINF:-1 tvg-chno="46442" tvg-name="FX" tvg-logo="https://zap2it.tmsimg.com/assets/s46442_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="FXL" tvc-guide-stationid="46442",FX
+http://example.local/PRI-FXL.ts
 #EXTINF:-1 tvg-chno="82819" tvg-name="FX LATIN AMERICA HD (Central Feed)" tvg-logo="https://zap2it.tmsimg.com/assets/s105689_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="FXLCNHD" tvc-guide-stationid="82819",FX LATIN AMERICA HD (Central Feed)
 http://example.local/PRI-FXLCNHD.ts
 #EXTINF:-1 tvg-chno="70253" tvg-name="FX Movie Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s70253_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="FXMHD" tvc-guide-stationid="70253",FX Movie Channel HD
@@ -345,6 +449,8 @@ http://example.local/PRI-FXX.ts
 http://example.local/PRI-FXXHD.ts
 #EXTINF:-1 tvg-chno="16834" tvg-name="FYI" tvg-logo="https://zap2it.tmsimg.com/assets/s16834_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="FYISD" tvc-guide-stationid="16834",FYI
 http://example.local/PRI-FYISD.ts
+#EXTINF:-1 tvg-chno="58988" tvg-name="FYI Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58988_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="FYIHD" tvc-guide-stationid="58988",FYI Channel HD
+http://example.local/PRI-FYIHD.ts
 #EXTINF:-1 tvg-chno="68367" tvg-name="Galavision Cable Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68367_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="GALAHD" tvc-guide-stationid="68367",Galavision Cable Network HD
 http://example.local/PRI-GALAHD.ts
 #EXTINF:-1 tvg-chno="26197" tvg-name="GAME 1" tvg-logo="https://zap2it.tmsimg.com/assets/s26197_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="GAME1" tvc-guide-stationid="26197",GAME 1
@@ -381,74 +487,98 @@ http://example.local/PRI-GMHD1.ts
 http://example.local/PRI-GSN.ts
 #EXTINF:-1 tvg-chno="24459" tvg-name="Glitz" tvg-logo="https://zap2it.tmsimg.com/assets/s61514_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="GLITZ" tvc-guide-stationid="24459",Glitz
 http://example.local/PRI-GLITZ.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+#EXTINF:-1 tvg-chno="32161" tvg-name="GOL TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32161_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="GOLTV" tvc-guide-stationid="32161",GOL TV
+http://example.local/PRI-GOLTV.ts
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Puerto Rico" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
 http://example.local/PRI-GOLF.ts
-#EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61854_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
+#EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFQBE.png" group-title="Puerto Rico" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
 http://example.local/PRI-GOLFHD.ts
+#EXTINF:-1 tvg-chno="33691" tvg-name="GOLTV (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s33691_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="GOLTVE" tvc-guide-stationid="33691",GOLTV (English)
+http://example.local/PRI-GOLTVE.ts
+#EXTINF:-1 tvg-chno="54541" tvg-name="GolTV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s54541_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="GOLTVL" tvc-guide-stationid="54541",GolTV Latin America
+http://example.local/PRI-GOLTVL.ts
 #EXTINF:-1 tvg-chno="11221" tvg-name="Hallmark Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11221_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="HALL" tvc-guide-stationid="11221",Hallmark Channel
 http://example.local/PRI-HALL.ts
 #EXTINF:-1 tvg-chno="66268" tvg-name="Hallmark Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s66268_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="HALLHD" tvc-guide-stationid="66268",Hallmark Channel HD
 http://example.local/PRI-HALLHD.ts
 #EXTINF:-1 tvg-chno="46710" tvg-name="Hallmark Mystery HD" tvg-logo="https://zap2it.tmsimg.com/assets/s46710_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="HMYSHD" tvc-guide-stationid="46710",Hallmark Mystery HD
 http://example.local/PRI-HMYSHD.ts
-#EXTINF:-1 tvg-chno="10240" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s10240_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="HBO" tvc-guide-stationid="10240",HBO
-http://example.local/PRI-HBO.ts
 #EXTINF:-1 tvg-chno="96533" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s19548_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="HBOCARH" tvc-guide-stationid="96533",HBO
 http://example.local/PRI-HBOCARH.ts
-#EXTINF:-1 tvg-chno="10244" tvg-name="HBO (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10240_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="HBOP" tvc-guide-stationid="10244",HBO (Pacific)
+#EXTINF:-1 tvg-chno="10240" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s10240_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="HBO" tvc-guide-stationid="10240",HBO
+http://example.local/PRI-HBO.ts
+#EXTINF:-1 tvg-chno="10244" tvg-name="HBO (Pacific)" tvg-logo="https://logos.jesmann.com/hbop.png" group-title="Puerto Rico" tvg-id="HBOP" tvc-guide-stationid="10244",HBO (Pacific)
 http://example.local/PRI-HBOP.ts
 #EXTINF:-1 tvg-chno="68244" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="HBO2ENG" tvc-guide-stationid="68244",HBO 2
 http://example.local/PRI-HBO2ENG.ts
 #EXTINF:-1 tvg-chno="18429" tvg-name="HBO Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s18429_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="HBOC" tvc-guide-stationid="18429",HBO Comedy
 http://example.local/PRI-HBOC.ts
+#EXTINF:-1 tvg-chno="18430" tvg-name="HBO Comedy (Pacific)" tvg-logo="https://logos.jesmann.com/hbocp.png" group-title="Puerto Rico" tvg-id="HBOCP" tvc-guide-stationid="18430",HBO Comedy (Pacific)
+http://example.local/PRI-HBOCP.ts
 #EXTINF:-1 tvg-chno="10243" tvg-name="HBO Drama" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBV2.png" group-title="Puerto Rico" tvg-id="HBODRMA" tvc-guide-stationid="10243",HBO Drama
 http://example.local/PRI-HBODRMA.ts
-#EXTINF:-1 tvg-chno="16576" tvg-name="HBO Drama (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBV2.png" group-title="Puerto Rico" tvg-id="HBODRP" tvc-guide-stationid="16576",HBO Drama (Pacific)
+#EXTINF:-1 tvg-chno="16576" tvg-name="HBO Drama (Pacific)" tvg-logo="https://logos.jesmann.com/hbodrp.png" group-title="Puerto Rico" tvg-id="HBODRP" tvc-guide-stationid="16576",HBO Drama (Pacific)
 http://example.local/PRI-HBODRP.ts
+#EXTINF:-1 tvg-chno="59363" tvg-name="HBO Drama HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBV6.png" group-title="Puerto Rico" tvg-id="HBODRHD" tvc-guide-stationid="59363",HBO Drama HD
+http://example.local/PRI-HBODRHD.ts
 #EXTINF:-1 tvg-chno="19548" tvg-name="HBO East" tvg-logo="https://zap2it.tmsimg.com/assets/s19548_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="HBOHD" tvc-guide-stationid="19548",HBO East
 http://example.local/PRI-HBOHD.ts
-#EXTINF:-1 tvg-chno="57396" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Puerto Rico" tvg-id="HBOFAME" tvc-guide-stationid="57396",HBO Family
+#EXTINF:-1 tvg-chno="57396" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="HBOFAME" tvc-guide-stationid="57396",HBO Family
 http://example.local/PRI-HBOFAME.ts
 #EXTINF:-1 tvg-chno="16585" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="HBOF" tvc-guide-stationid="16585",HBO Family
 http://example.local/PRI-HBOF.ts
-#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" group-title="Puerto Rico" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
+#EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
+http://example.local/PRI-HBOFMHD.ts
+#EXTINF:-1 tvg-chno="16619" tvg-name="HBO Family (Pacific)" tvg-logo="https://logos.jesmann.com/hbofp.png" group-title="Puerto Rico" tvg-id="HBOFP" tvc-guide-stationid="16619",HBO Family (Pacific)
 http://example.local/PRI-HBOFP.ts
+#EXTINF:-1 tvg-chno="59357" tvg-name="HBO Family HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59357_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="HBOFHD" tvc-guide-stationid="59357",HBO Family HD
+http://example.local/PRI-HBOFHD.ts
 #EXTINF:-1 tvg-chno="10241" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="Puerto Rico" tvg-id="HBOHTS" tvc-guide-stationid="10241",HBO Hits
 http://example.local/PRI-HBOHTS.ts
-#EXTINF:-1 tvg-chno="10242" tvg-name="HBO Hits (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CL6E.png" group-title="Puerto Rico" tvg-id="HBOHTP" tvc-guide-stationid="10242",HBO Hits (Pacific)
+#EXTINF:-1 tvg-chno="10242" tvg-name="HBO Hits (Pacific)" tvg-logo="https://logos.jesmann.com/hbohtp.png" group-title="Puerto Rico" tvg-id="HBOHTP" tvc-guide-stationid="10242",HBO Hits (Pacific)
 http://example.local/PRI-HBOHTP.ts
 #EXTINF:-1 tvg-chno="59368" tvg-name="HBO Hits HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="Puerto Rico" tvg-id="HBOHTHD" tvc-guide-stationid="59368",HBO Hits HD
 http://example.local/PRI-HBOHTHD.ts
-#EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_aa.png" group-title="Puerto Rico" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
+#EXTINF:-1 tvg-chno="24553" tvg-name="HBO Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_ll_h9_ab.png" group-title="Puerto Rico" tvg-id="HBOLAT" tvc-guide-stationid="24553",HBO Latino
 http://example.local/PRI-HBOLAT.ts
-#EXTINF:-1 tvg-chno="59837" tvg-name="HBO Latino HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_ba.png" group-title="Puerto Rico" tvg-id="HBOLAHD" tvc-guide-stationid="59837",HBO Latino HD
+#EXTINF:-1 tvg-chno="24575" tvg-name="HBO Latino (Pacific)" tvg-logo="https://logos.jesmann.com/hbolatp.png" group-title="Puerto Rico" tvg-id="HBOLATP" tvc-guide-stationid="24575",HBO Latino (Pacific)
+http://example.local/PRI-HBOLATP.ts
+#EXTINF:-1 tvg-chno="59837" tvg-name="HBO Latino HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_ll_h9_ab.png" group-title="Puerto Rico" tvg-id="HBOLAHD" tvc-guide-stationid="59837",HBO Latino HD
 http://example.local/PRI-HBOLAHD.ts
 #EXTINF:-1 tvg-chno="18431" tvg-name="HBO Movies" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBWP.png" group-title="Puerto Rico" tvg-id="HBOMOV" tvc-guide-stationid="18431",HBO Movies
 http://example.local/PRI-HBOMOV.ts
-#EXTINF:-1 tvg-chno="18432" tvg-name="HBO Movies (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBWP.png" group-title="Puerto Rico" tvg-id="HBOMVP" tvc-guide-stationid="18432",HBO Movies (Pacific)
+#EXTINF:-1 tvg-chno="18432" tvg-name="HBO Movies (Pacific)" tvg-logo="https://logos.jesmann.com/hbomvp.png" group-title="Puerto Rico" tvg-id="HBOMVP" tvc-guide-stationid="18432",HBO Movies (Pacific)
 http://example.local/PRI-HBOMVP.ts
 #EXTINF:-1 tvg-chno="70081" tvg-name="HBO Mundi" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="MUNMEX" tvc-guide-stationid="70081",HBO Mundi
 http://example.local/PRI-MUNMEX.ts
+#EXTINF:-1 tvg-chno="86765" tvg-name="HBO Mundi Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="MUNCAR" tvc-guide-stationid="86765",HBO Mundi Caribbean
+http://example.local/PRI-MUNCAR.ts
 #EXTINF:-1 tvg-chno="68301" tvg-name="HBO POP" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="POPMXH" tvc-guide-stationid="68301",HBO POP
 http://example.local/PRI-POPMXH.ts
 #EXTINF:-1 tvg-chno="74450" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="HBOSLA" tvc-guide-stationid="74450",HBO Signature
 http://example.local/PRI-HBOSLA.ts
+#EXTINF:-1 tvg-chno="80554" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="HBOSEHD" tvc-guide-stationid="80554",HBO Signature
+http://example.local/PRI-HBOSEHD.ts
 #EXTINF:-1 tvg-chno="33668" tvg-name="HDNet Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s33668_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="HDNETMV" tvc-guide-stationid="33668",HDNet Movies
 http://example.local/PRI-HDNETMV.ts
 #EXTINF:-1 tvg-chno="29328" tvg-name="Hillsong Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s29328_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="HILLSNG" tvc-guide-stationid="29328",Hillsong Channel
 http://example.local/PRI-HILLSNG.ts
+#EXTINF:-1 tvg-chno="70669" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="HCLMHD" tvc-guide-stationid="70669",History
+http://example.local/PRI-HCLMHD.ts
 #EXTINF:-1 tvg-chno="14771" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s14771_ll_h15_af.png" group-title="Puerto Rico" tvg-id="HISTORY" tvc-guide-stationid="14771",History
 http://example.local/PRI-HISTORY.ts
 #EXTINF:-1 tvg-chno="48157" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="HCLI" tvc-guide-stationid="48157",History
 http://example.local/PRI-HCLI.ts
-#EXTINF:-1 tvg-chno="71669" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="HCLVEHD" tvc-guide-stationid="71669",History
-http://example.local/PRI-HCLVEHD.ts
-#EXTINF:-1 tvg-chno="70669" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="HCLMHD" tvc-guide-stationid="70669",History
-http://example.local/PRI-HCLMHD.ts
-#EXTINF:-1 tvg-chno="49296" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="HCLCO" tvc-guide-stationid="49296",History
-http://example.local/PRI-HCLCO.ts
 #EXTINF:-1 tvg-chno="40137" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="HCLM" tvc-guide-stationid="40137",History
 http://example.local/PRI-HCLM.ts
+#EXTINF:-1 tvg-chno="49296" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="HCLCO" tvc-guide-stationid="49296",History
+http://example.local/PRI-HCLCO.ts
+#EXTINF:-1 tvg-chno="25016" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="HCL" tvc-guide-stationid="25016",History
+http://example.local/PRI-HCL.ts
+#EXTINF:-1 tvg-chno="71669" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="HCLVEHD" tvc-guide-stationid="71669",History
+http://example.local/PRI-HCLVEHD.ts
+#EXTINF:-1 tvg-chno="89238" tvg-name="History 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="H2LAME" tvc-guide-stationid="89238",History 2
+http://example.local/PRI-H2LAME.ts
 #EXTINF:-1 tvg-chno="80374" tvg-name="History 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="H2LAM" tvc-guide-stationid="80374",History 2
 http://example.local/PRI-H2LAM.ts
 #EXTINF:-1 tvg-chno="57708" tvg-name="History HD" tvg-logo="https://zap2it.tmsimg.com/assets/s57708_h3_ba.png" group-title="Puerto Rico" tvg-id="HSTRYHD" tvc-guide-stationid="57708",History HD
@@ -459,48 +589,66 @@ http://example.local/PRI-HLN.ts
 http://example.local/PRI-HOLALA.ts
 #EXTINF:-1 tvg-chno="14902" tvg-name="Home & Garden Television" tvg-logo="https://zap2it.tmsimg.com/assets/s14902_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="HGTV" tvc-guide-stationid="14902",Home & Garden Television
 http://example.local/PRI-HGTV.ts
-#EXTINF:-1 tvg-chno="34215" tvg-name="Home & Garden Television (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s14902_h3_aa.png" group-title="Puerto Rico" tvg-id="HGTVP" tvc-guide-stationid="34215",Home & Garden Television (Pacific)
+#EXTINF:-1 tvg-chno="34215" tvg-name="Home & Garden Television (Pacific)" tvg-logo="https://logos.jesmann.com/hgtvp.png" group-title="Puerto Rico" tvg-id="HGTVP" tvc-guide-stationid="34215",Home & Garden Television (Pacific)
 http://example.local/PRI-HGTVP.ts
 #EXTINF:-1 tvg-chno="49788" tvg-name="Home & Garden Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49788_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="HGTVD" tvc-guide-stationid="49788",Home & Garden Television HD
 http://example.local/PRI-HGTVD.ts
 #EXTINF:-1 tvg-chno="10269" tvg-name="Home Shopping Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10269_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="HSN" tvc-guide-stationid="10269",Home Shopping Network
 http://example.local/PRI-HSN.ts
+#EXTINF:-1 tvg-chno="26134" tvg-name="Home Shopping Network Español" group-title="Puerto Rico" tvg-id="HSNE" tvc-guide-stationid="26134",Home Shopping Network Español
+http://example.local/PRI-HSNE.ts
 #EXTINF:-1 tvg-chno="11213" tvg-name="Hot Choice (Viewer's Choice)" tvg-logo="https://zap2it.tmsimg.com/assets/s11213_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="HOT" tvc-guide-stationid="11213",Hot Choice (Viewer's Choice)
 http://example.local/PRI-HOT.ts
 #EXTINF:-1 tvg-chno="15969" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="HTVLA" tvc-guide-stationid="15969",HTV
 http://example.local/PRI-HTVLA.ts
+#EXTINF:-1 tvg-chno="45498" tvg-name="Hustler TV" tvg-logo="https://zap2it.tmsimg.com/assets/s45498_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="HUSTLR" tvc-guide-stationid="45498",Hustler TV
+http://example.local/PRI-HUSTLR.ts
 #EXTINF:-1 tvg-chno="76951" tvg-name="Hustler TV" tvg-logo="https://zap2it.tmsimg.com/assets/s102775_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="ESHUSTL" tvc-guide-stationid="76951",Hustler TV
 http://example.local/PRI-ESHUSTL.ts
 #EXTINF:-1 tvg-chno="77635" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="IDLHD" tvc-guide-stationid="77635",ID
 http://example.local/PRI-IDLHD.ts
+#EXTINF:-1 tvg-chno="16446" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="IDLE" tvc-guide-stationid="16446",ID
+http://example.local/PRI-IDLE.ts
 #EXTINF:-1 tvg-chno="14873" tvg-name="IFC" tvg-logo="https://zap2it.tmsimg.com/assets/s14873_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="IFC" tvc-guide-stationid="14873",IFC
 http://example.local/PRI-IFC.ts
 #EXTINF:-1 tvg-chno="59444" tvg-name="IFC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59444_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="IFCHD" tvc-guide-stationid="59444",IFC HD
 http://example.local/PRI-IFCHD.ts
+#EXTINF:-1 tvg-chno="11211" tvg-name="iN Demand 1" tvg-logo="https://zap2it.tmsimg.com/assets/s11211_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="PPV1" tvc-guide-stationid="11211",iN Demand 1
+http://example.local/PRI-PPV1.ts
 #EXTINF:-1 tvg-chno="16690" tvg-name="iN Demand 2" tvg-logo="https://zap2it.tmsimg.com/assets/s16690_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="PPV2" tvc-guide-stationid="16690",iN Demand 2
 http://example.local/PRI-PPV2.ts
 #EXTINF:-1 tvg-chno="16611" tvg-name="iN Demand 3" tvg-logo="https://zap2it.tmsimg.com/assets/s16611_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="PPV3" tvc-guide-stationid="16611",iN Demand 3
 http://example.local/PRI-PPV3.ts
 #EXTINF:-1 tvg-chno="44076" tvg-name="In Demand PPVHD (HD Events)" tvg-logo="https://zap2it.tmsimg.com/assets/s44076_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="HDPPV" tvc-guide-stationid="44076",In Demand PPVHD (HD Events)
 http://example.local/PRI-HDPPV.ts
+#EXTINF:-1 tvg-chno="18968" tvg-name="iN Demand/IN12" group-title="Puerto Rico" tvg-id="IN12" tvc-guide-stationid="18968",iN Demand/IN12
+http://example.local/PRI-IN12.ts
 #EXTINF:-1 tvg-chno="11066" tvg-name="INSP" tvg-logo="https://zap2it.tmsimg.com/assets/s11066_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="INSP" tvc-guide-stationid="11066",INSP
 http://example.local/PRI-INSP.ts
 #EXTINF:-1 tvg-chno="46219" tvg-name="Inspiration TV" tvg-logo="https://zap2it.tmsimg.com/assets/s46219_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="INSPIR" tvc-guide-stationid="46219",Inspiration TV
 http://example.local/PRI-INSPIR.ts
+#EXTINF:-1 tvg-chno="90848" tvg-name="Investigacion Discovery Latin AmEnglish HD" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="IDLEHD" tvc-guide-stationid="90848",Investigacion Discovery Latin AmEnglish HD
+http://example.local/PRI-IDLEHD.ts
+#EXTINF:-1 tvg-chno="16615" tvg-name="Investigation Discovery" tvg-logo="https://zap2it.tmsimg.com/assets/s16615_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="ID" tvc-guide-stationid="16615",Investigation Discovery
+http://example.local/PRI-ID.ts
 #EXTINF:-1 tvg-chno="62746" tvg-name="ION Network HD (ION)" tvg-logo="https://zap2it.tmsimg.com/assets/s62746_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="IONHD" tvc-guide-stationid="62746",ION Network HD (ION)
 http://example.local/PRI-IONHD.ts
 #EXTINF:-1 tvg-chno="16604" tvg-name="Jewelry Television" tvg-logo="https://zap2it.tmsimg.com/assets/s16604_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="JTV" tvc-guide-stationid="16604",Jewelry Television
 http://example.local/PRI-JTV.ts
-#EXTINF:-1 tvg-chno="58684" tvg-name="Juicy-New Frontier" tvg-logo="https://zap2it.tmsimg.com/assets/s58684_h3_ba.png" group-title="Puerto Rico" tvg-id="JUICY" tvc-guide-stationid="58684",Juicy-New Frontier
+#EXTINF:-1 tvg-chno="62629" tvg-name="JUICY Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s58684_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="JUICYLA" tvc-guide-stationid="62629",JUICY Spanish
+http://example.local/PRI-JUICYLA.ts
+#EXTINF:-1 tvg-chno="58684" tvg-name="Juicy-New Frontier" tvg-logo="https://zap2it.tmsimg.com/assets/s58684_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="JUICY" tvc-guide-stationid="58684",Juicy-New Frontier
 http://example.local/PRI-JUICY.ts
 #EXTINF:-1 tvg-chno="12036" tvg-name="La Cadena del Milagro" group-title="Puerto Rico" tvg-id="LCDM" tvc-guide-stationid="12036",La Cadena del Milagro
 http://example.local/PRI-LCDM.ts
-#EXTINF:-1 tvg-chno="89197" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="LIFELC" tvc-guide-stationid="89197",Lifetime
-http://example.local/PRI-LIFELC.ts
 #EXTINF:-1 tvg-chno="159513" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="LIFSURH" tvc-guide-stationid="159513",Lifetime
 http://example.local/PRI-LIFSURH.ts
 #EXTINF:-1 tvg-chno="10918" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s10918_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="LIFE" tvc-guide-stationid="10918",Lifetime
 http://example.local/PRI-LIFE.ts
+#EXTINF:-1 tvg-chno="89197" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="LIFELC" tvc-guide-stationid="89197",Lifetime
+http://example.local/PRI-LIFELC.ts
+#EXTINF:-1 tvg-chno="10919" tvg-name="Lifetime (Pacific)" tvg-logo="https://logos.jesmann.com/lifep.png" group-title="Puerto Rico" tvg-id="LIFEP" tvc-guide-stationid="10919",Lifetime (Pacific)
+http://example.local/PRI-LIFEP.ts
 #EXTINF:-1 tvg-chno="60150" tvg-name="Lifetime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60150_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="LIFEHD" tvc-guide-stationid="60150",Lifetime HD
 http://example.local/PRI-LIFEHD.ts
 #EXTINF:-1 tvg-chno="29612" tvg-name="Lifetime Real Women" tvg-logo="https://zap2it.tmsimg.com/assets/s29612_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="LRW" tvc-guide-stationid="29612",Lifetime Real Women
@@ -511,12 +659,16 @@ http://example.local/PRI-LINKTV.ts
 http://example.local/PRI-LMN.ts
 #EXTINF:-1 tvg-chno="55887" tvg-name="LMN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s55887_ll_h15_ag.png" group-title="Puerto Rico" tvg-id="LMNHD" tvc-guide-stationid="55887",LMN HD
 http://example.local/PRI-LMNHD.ts
+#EXTINF:-1 tvg-chno="46762" tvg-name="Logo" tvg-logo="https://zap2it.tmsimg.com/assets/s46762_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="LOGO" tvc-guide-stationid="46762",Logo
+http://example.local/PRI-LOGO.ts
 #EXTINF:-1 tvg-chno="18544" tvg-name="Magnolia Network" tvg-logo="https://zap2it.tmsimg.com/assets/s18544_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="MAGN" tvc-guide-stationid="18544",Magnolia Network
 http://example.local/PRI-MAGN.ts
 #EXTINF:-1 tvg-chno="67375" tvg-name="Magnolia Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s67375_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="MAGNHD" tvc-guide-stationid="67375",Magnolia Network HD
 http://example.local/PRI-MAGNHD.ts
 #EXTINF:-1 tvg-chno="58698" tvg-name="Mega TV" tvg-logo="https://zap2it.tmsimg.com/assets/s58698_ll_h9_aa.png" group-title="Puerto Rico" tvg-id="MEGAUS" tvc-guide-stationid="58698",Mega TV
 http://example.local/PRI-MEGAUS.ts
+#EXTINF:-1 tvg-chno="48999" tvg-name="Military History Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s48999_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="MILH" tvc-guide-stationid="48999",Military History Channel
+http://example.local/PRI-MILH.ts
 #EXTINF:-1 tvg-chno="62079" tvg-name="MLB Network" tvg-logo="https://zap2it.tmsimg.com/assets/s62079_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="MLBN" tvc-guide-stationid="62079",MLB Network
 http://example.local/PRI-MLBN.ts
 #EXTINF:-1 tvg-chno="62081" tvg-name="MLB Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s62081_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="MLBHD" tvc-guide-stationid="62081",MLB Network HD
@@ -531,7 +683,7 @@ http://example.local/PRI-MSNOWHD.ts
 http://example.local/PRI-MSNOWHDA.ts
 #EXTINF:-1 tvg-chno="24394" tvg-name="MS NOW Olympics Alternate" group-title="Puerto Rico" tvg-id="MSNOWA" tvc-guide-stationid="24394",MS NOW Olympics Alternate
 http://example.local/PRI-MSNOWA.ts
-#EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="MTVL" tvc-guide-stationid="12712",MTV
+#EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_h3_ba.png" group-title="Puerto Rico" tvg-id="MTVL" tvc-guide-stationid="12712",MTV
 http://example.local/PRI-MTVL.ts
 #EXTINF:-1 tvg-chno="10986" tvg-name="MTV - Music Television" tvg-logo="https://zap2it.tmsimg.com/assets/s10986_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="MTV" tvc-guide-stationid="10986",MTV - Music Television
 http://example.local/PRI-MTV.ts
@@ -539,9 +691,11 @@ http://example.local/PRI-MTV.ts
 http://example.local/PRI-MTVHD.ts
 #EXTINF:-1 tvg-chno="22561" tvg-name="MTV Classic" tvg-logo="https://zap2it.tmsimg.com/assets/s22561_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="MTVCLAS" tvc-guide-stationid="22561",MTV Classic
 http://example.local/PRI-MTVCLAS.ts
+#EXTINF:-1 tvg-chno="67787" tvg-name="MTV Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s67787_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="MTVHTLA" tvc-guide-stationid="67787",MTV Hits
+http://example.local/PRI-MTVHTLA.ts
 #EXTINF:-1 tvg-chno="66419" tvg-name="MTV Live" tvg-logo="https://zap2it.tmsimg.com/assets/s66419_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="MTVLVHD" tvc-guide-stationid="66419",MTV Live
 http://example.local/PRI-MTVLVHD.ts
-#EXTINF:-1 tvg-chno="44228" tvg-name="mtv-U" tvg-logo="https://zap2it.tmsimg.com/assets/s44228_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="MTVU" tvc-guide-stationid="44228",mtv-U
+#EXTINF:-1 tvg-chno="44228" tvg-name="mtv-U" tvg-logo="https://zap2it.tmsimg.com/assets/s44228_h3_aa.png" group-title="Puerto Rico" tvg-id="MTVU" tvc-guide-stationid="44228",mtv-U
 http://example.local/PRI-MTVU.ts
 #EXTINF:-1 tvg-chno="16361" tvg-name="MTV2: Music Television" tvg-logo="https://zap2it.tmsimg.com/assets/s16361_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="MTV2" tvc-guide-stationid="16361",MTV2: Music Television
 http://example.local/PRI-MTV2.ts
@@ -563,6 +717,8 @@ http://example.local/PRI-MC26.ts
 http://example.local/PRI-MC16.ts
 #EXTINF:-1 tvg-chno="31029" tvg-name="Music Choice Alt & Rock Favorites" tvg-logo="https://zap2it.tmsimg.com/assets/s31029_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="MC17" tvc-guide-stationid="31029",Music Choice Alt & Rock Favorites
 http://example.local/PRI-MC17.ts
+#EXTINF:-1 tvg-chno="19341" tvg-name="Music Choice Blues" tvg-logo="https://zap2it.tmsimg.com/assets/s19341_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="MC46" tvc-guide-stationid="19341",Music Choice Blues
+http://example.local/PRI-MC46.ts
 #EXTINF:-1 tvg-chno="19320" tvg-name="Music Choice Calming Classical" tvg-logo="https://zap2it.tmsimg.com/assets/s19320_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="MC38" tvc-guide-stationid="19320",Music Choice Calming Classical
 http://example.local/PRI-MC38.ts
 #EXTINF:-1 tvg-chno="19319" tvg-name="Music Choice Classic Country" tvg-logo="https://zap2it.tmsimg.com/assets/s19319_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="MC34" tvc-guide-stationid="19319",Music Choice Classic Country
@@ -637,6 +793,8 @@ http://example.local/PRI-MC02.ts
 http://example.local/PRI-MC23.ts
 #EXTINF:-1 tvg-chno="31030" tvg-name="Music Choice Yacht Rock" tvg-logo="https://zap2it.tmsimg.com/assets/s31030_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="MC14" tvc-guide-stationid="31030",Music Choice Yacht Rock
 http://example.local/PRI-MC14.ts
+#EXTINF:-1 tvg-chno="31027" tvg-name="Music Choice: Bluegrass" group-title="Puerto Rico" tvg-id="BLUEGR" tvc-guide-stationid="31027",Music Choice: Bluegrass
+http://example.local/PRI-BLUEGR.ts
 #EXTINF:-1 tvg-chno="16886" tvg-name="Naiwave" tvg-logo="https://zap2it.tmsimg.com/assets/s16886_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="NWAVE" tvc-guide-stationid="16886",Naiwave
 http://example.local/PRI-NWAVE.ts
 #EXTINF:-1 tvg-chno="12553" tvg-name="NASA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s12553_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="NASA" tvc-guide-stationid="12553",NASA TV
@@ -645,25 +803,33 @@ http://example.local/PRI-NASA.ts
 http://example.local/PRI-NBC.ts
 #EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
 http://example.local/PRI-NGKLA.ts
-#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Puerto Rico" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
-http://example.local/PRI-NGCLA.ts
-#EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
+#EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_aa.png" group-title="Puerto Rico" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
 http://example.local/PRI-NGCLAH.ts
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+http://example.local/PRI-NGCLA.ts
 #EXTINF:-1 tvg-chno="80076" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="NGCCLHD" tvc-guide-stationid="80076",National Geographic
 http://example.local/PRI-NGCCLHD.ts
-#EXTINF:-1 tvg-chno="49438" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49438_h3_aa.png" group-title="Puerto Rico" tvg-id="NGCHD" tvc-guide-stationid="49438",National Geographic HD
+#EXTINF:-1 tvg-chno="59929" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="GNGCHD" tvc-guide-stationid="59929",National Geographic HD
+http://example.local/PRI-GNGCHD.ts
+#EXTINF:-1 tvg-chno="77693" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s77693_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="NATGEHD" tvc-guide-stationid="77693",National Geographic HD
+http://example.local/PRI-NATGEHD.ts
+#EXTINF:-1 tvg-chno="49438" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49438_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="NGCHD" tvc-guide-stationid="49438",National Geographic HD
 http://example.local/PRI-NGCHD.ts
 #EXTINF:-1 tvg-chno="24959" tvg-name="National Geographic USA" tvg-logo="https://zap2it.tmsimg.com/assets/s24959_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="NGC" tvc-guide-stationid="24959",National Geographic USA
 http://example.local/PRI-NGC.ts
 #EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
 http://example.local/PRI-NGWLAHD.ts
+#EXTINF:-1 tvg-chno="66804" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s66804_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="NGWILD" tvc-guide-stationid="66804",National Geographic Wild
+http://example.local/PRI-NGWILD.ts
+#EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="Puerto Rico" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
+http://example.local/PRI-NBAX18.ts
 #EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
 http://example.local/PRI-NBATV.ts
 #EXTINF:-1 tvg-chno="45526" tvg-name="NBA TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45526_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="NBATVHD" tvc-guide-stationid="45526",NBA TV HD
 http://example.local/PRI-NBATVHD.ts
 #EXTINF:-1 tvg-chno="88828" tvg-name="NBA TV International HD" tvg-logo="https://zap2it.tmsimg.com/assets/s62829_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="NBATVIH" tvc-guide-stationid="88828",NBA TV International HD
 http://example.local/PRI-NBATVIH.ts
-#EXTINF:-1 tvg-chno="28717" tvg-name="NBC Digital Feed (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s28717_h3_ba.png" group-title="Puerto Rico" tvg-id="NBCDT" tvc-guide-stationid="28717",NBC Digital Feed (NBC)
+#EXTINF:-1 tvg-chno="28717" tvg-name="NBC Digital Feed (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s28717_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="NBCDT" tvc-guide-stationid="28717",NBC Digital Feed (NBC)
 http://example.local/PRI-NBCDT.ts
 #EXTINF:-1 tvg-chno="76399" tvg-name="NBCSN HD Non-Olympic" group-title="Puerto Rico" tvg-id="NBCSNOH" tvc-guide-stationid="76399",NBCSN HD Non-Olympic
 http://example.local/PRI-NBCSNOH.ts
@@ -677,12 +843,14 @@ http://example.local/PRI-NFLHD.ts
 http://example.local/PRI-NFLNRZ.ts
 #EXTINF:-1 tvg-chno="58690" tvg-name="NHL Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58690_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="NHLHD" tvc-guide-stationid="58690",NHL Network HD
 http://example.local/PRI-NHLHD.ts
+#EXTINF:-1 tvg-chno="16707" tvg-name="Nick" tvg-logo="https://zap2it.tmsimg.com/assets/s16707_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="NIKL" tvc-guide-stationid="16707",Nick
+http://example.local/PRI-NIKL.ts
 #EXTINF:-1 tvg-chno="19211" tvg-name="Nick Jr" tvg-logo="https://zap2it.tmsimg.com/assets/s19211_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="NICJR" tvc-guide-stationid="19211",Nick Jr
 http://example.local/PRI-NICJR.ts
-#EXTINF:-1 tvg-chno="84412" tvg-name="Nick Jr." tvg-logo="https://zap2it.tmsimg.com/assets/s60295_h3_aa.png" group-title="Puerto Rico" tvg-id="NICKJMH" tvc-guide-stationid="84412",Nick Jr.
-http://example.local/PRI-NICKJMH.ts
 #EXTINF:-1 tvg-chno="60295" tvg-name="Nick Jr." tvg-logo="https://zap2it.tmsimg.com/assets/s60295_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="NICKJLM" tvc-guide-stationid="60295",Nick Jr.
 http://example.local/PRI-NICKJLM.ts
+#EXTINF:-1 tvg-chno="84412" tvg-name="Nick Jr." tvg-logo="https://zap2it.tmsimg.com/assets/s60295_h3_aa.png" group-title="Puerto Rico" tvg-id="NICKJMH" tvc-guide-stationid="84412",Nick Jr.
+http://example.local/PRI-NICKJMH.ts
 #EXTINF:-1 tvg-chno="30418" tvg-name="Nick Music" tvg-logo="https://zap2it.tmsimg.com/assets/s30418_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="NMZK" tvc-guide-stationid="30418",Nick Music
 http://example.local/PRI-NMZK.ts
 #EXTINF:-1 tvg-chno="11006" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s11006_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="NIK" tvc-guide-stationid="11006",Nickelodeon
@@ -703,6 +871,8 @@ http://example.local/PRI-ONDTHS.ts
 http://example.local/PRI-CARIBWE.ts
 #EXTINF:-1 tvg-chno="70387" tvg-name="Oprah Winfrey Network" tvg-logo="https://zap2it.tmsimg.com/assets/s70387_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="OWN" tvc-guide-stationid="70387",Oprah Winfrey Network
 http://example.local/PRI-OWN.ts
+#EXTINF:-1 tvg-chno="70392" tvg-name="Oprah Winfrey Network (Pacific B Feed)" tvg-logo="https://logos.jesmann.com/ownpb.png" group-title="Puerto Rico" tvg-id="OWNPB" tvc-guide-stationid="70392",Oprah Winfrey Network (Pacific B Feed)
+http://example.local/PRI-OWNPB.ts
 #EXTINF:-1 tvg-chno="70388" tvg-name="Oprah Winfrey Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s70388_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="OWNHD" tvc-guide-stationid="70388",Oprah Winfrey Network HD
 http://example.local/PRI-OWNHD.ts
 #EXTINF:-1 tvg-chno="14776" tvg-name="Outdoor Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14776_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="OUTD" tvc-guide-stationid="14776",Outdoor Channel
@@ -713,13 +883,17 @@ http://example.local/PRI-OMAX.ts
 http://example.local/PRI-OVATION.ts
 #EXTINF:-1 tvg-chno="21484" tvg-name="Oxygen True Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s21484_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="OXYGEN" tvc-guide-stationid="21484",Oxygen True Crime
 http://example.local/PRI-OXYGEN.ts
+#EXTINF:-1 tvg-chno="70522" tvg-name="Oxygen True Crime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s70522_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="OXYGNHD" tvc-guide-stationid="70522",Oxygen True Crime HD
+http://example.local/PRI-OXYGNHD.ts
 #EXTINF:-1 tvg-chno="92002" tvg-name="Paramount Network" group-title="Puerto Rico" tvg-id="PARMNHE" tvc-guide-stationid="92002",Paramount Network
 http://example.local/PRI-PARMNHE.ts
 #EXTINF:-1 tvg-chno="11163" tvg-name="Paramount Network" tvg-logo="https://zap2it.tmsimg.com/assets/s11163_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="PAR" tvc-guide-stationid="11163",Paramount Network
 http://example.local/PRI-PAR.ts
+#EXTINF:-1 tvg-chno="90277" tvg-name="Paramount Network Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s90277_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="PARCAR" tvc-guide-stationid="90277",Paramount Network Caribbean
+http://example.local/PRI-PARCAR.ts
 #EXTINF:-1 tvg-chno="11115" tvg-name="Paramount+ with Showtime" tvg-logo="https://zap2it.tmsimg.com/assets/s11115_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="PARSHO" tvc-guide-stationid="11115",Paramount+ with Showtime
 http://example.local/PRI-PARSHO.ts
-#EXTINF:-1 tvg-chno="11117" tvg-name="Paramount+ with Showtime (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s11115_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="PARSHOW" tvc-guide-stationid="11117",Paramount+ with Showtime (Pacific)
+#EXTINF:-1 tvg-chno="11117" tvg-name="Paramount+ with Showtime (Pacific)" tvg-logo="https://logos.jesmann.com/parshow.png" group-title="Puerto Rico" tvg-id="PARSHOW" tvc-guide-stationid="11117",Paramount+ with Showtime (Pacific)
 http://example.local/PRI-PARSHOW.ts
 #EXTINF:-1 tvg-chno="21868" tvg-name="Paramount+ with Showtime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s21868_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="PARSHOH" tvc-guide-stationid="21868",Paramount+ with Showtime HD
 http://example.local/PRI-PARSHOH.ts
@@ -729,23 +903,33 @@ http://example.local/PRI-PASNLA.ts
 http://example.local/PRI-PASNUS.ts
 #EXTINF:-1 tvg-chno="33453" tvg-name="PBS HD (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s33453_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="HD01" tvc-guide-stationid="33453",PBS HD (PBS)
 http://example.local/PRI-HD01.ts
+#EXTINF:-1 tvg-chno="19556" tvg-name="Peachtree TV (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s19556_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="WPCH" tvc-guide-stationid="19556",Peachtree TV (CW)
+http://example.local/PRI-WPCH.ts
+#EXTINF:-1 tvg-chno="73704" tvg-name="Penthouse" tvg-logo="https://zap2it.tmsimg.com/assets/s73704_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="PENTVLM" tvc-guide-stationid="73704",Penthouse
+http://example.local/PRI-PENTVLM.ts
 #EXTINF:-1 tvg-chno="73077" tvg-name="PIXL SD" tvg-logo="https://zap2it.tmsimg.com/assets/s73077_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="PIXLSD" tvc-guide-stationid="73077",PIXL SD
 http://example.local/PRI-PIXLSD.ts
 #EXTINF:-1 tvg-chno="38944" tvg-name="Playboy En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s38944_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="PLAYESP" tvc-guide-stationid="38944",Playboy En Español
 http://example.local/PRI-PLAYESP.ts
 #EXTINF:-1 tvg-chno="16788" tvg-name="Playboy TV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16788_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="PLAYL" tvc-guide-stationid="16788",Playboy TV Latin America
 http://example.local/PRI-PLAYL.ts
-#EXTINF:-1 tvg-chno="12504" tvg-name="PPV en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s12504_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="PPVE" tvc-guide-stationid="12504",PPV en Español
+#EXTINF:-1 tvg-chno="12504" tvg-name="PPV en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s12504_h3_aa.png" group-title="Puerto Rico" tvg-id="PPVE" tvc-guide-stationid="12504",PPV en Español
 http://example.local/PRI-PPVE.ts
-#EXTINF:-1 tvg-chno="11069" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s11069_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="QVC" tvc-guide-stationid="11069",QVC
+#EXTINF:-1 tvg-chno="74524" tvg-name="Puerto Rico Sports Network" group-title="Puerto Rico" tvg-id="PRSN" tvc-guide-stationid="74524",Puerto Rico Sports Network
+http://example.local/PRI-PRSN.ts
+#EXTINF:-1 tvg-chno="11069" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s11069_h3_ba.png" group-title="Puerto Rico" tvg-id="QVC" tvc-guide-stationid="11069",QVC
 http://example.local/PRI-QVC.ts
 #EXTINF:-1 tvg-chno="22564" tvg-name="Radio Channel" group-title="Puerto Rico" tvg-id="RADIO" tvc-guide-stationid="22564",Radio Channel
 http://example.local/PRI-RADIO.ts
+#EXTINF:-1 tvg-chno="19040" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="RAIIS" tvc-guide-stationid="19040",Rai Italia
+http://example.local/PRI-RAIIS.ts
+#EXTINF:-1 tvg-chno="74714" tvg-name="Real XX.5 Premium" group-title="Puerto Rico" tvg-id="REALPRM" tvc-guide-stationid="74714",Real XX.5 Premium
+http://example.local/PRI-REALPRM.ts
 #EXTINF:-1 tvg-chno="58711" tvg-name="Real XX5 - New Frontier" group-title="Puerto Rico" tvg-id="XREAL2" tvc-guide-stationid="58711",Real XX5 - New Frontier
 http://example.local/PRI-XREAL2.ts
-#EXTINF:-1 tvg-chno="52199" tvg-name="ReelzChannel" tvg-logo="https://zap2it.tmsimg.com/assets/s52199_ll_h9_ac.png" group-title="Puerto Rico" tvg-id="REELZ" tvc-guide-stationid="52199",ReelzChannel
+#EXTINF:-1 tvg-chno="52199" tvg-name="ReelzChannel" tvg-logo="https://zap2it.tmsimg.com/assets/s52199_h3_aa.png" group-title="Puerto Rico" tvg-id="REELZ" tvc-guide-stationid="52199",ReelzChannel
 http://example.local/PRI-REELZ.ts
-#EXTINF:-1 tvg-chno="68385" tvg-name="ReelzChannel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68385_ll_h9_ac.png" group-title="Puerto Rico" tvg-id="REELZHD" tvc-guide-stationid="68385",ReelzChannel HD
+#EXTINF:-1 tvg-chno="68385" tvg-name="ReelzChannel HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002HWGLE.png" group-title="Puerto Rico" tvg-id="REELZHD" tvc-guide-stationid="68385",ReelzChannel HD
 http://example.local/PRI-REELZHD.ts
 #EXTINF:-1 tvg-chno="69367" tvg-name="RT en español" tvg-logo="https://zap2it.tmsimg.com/assets/s69367_ll_h6_aa.png" group-title="Puerto Rico" tvg-id="RTSPAN" tvc-guide-stationid="69367",RT en español
 http://example.local/PRI-RTSPAN.ts
@@ -759,25 +943,27 @@ http://example.local/PRI-SEC.ts
 http://example.local/PRI-SET.ts
 #EXTINF:-1 tvg-chno="11116" tvg-name="SHO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s11116_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="SHO2" tvc-guide-stationid="11116",SHO 2
 http://example.local/PRI-SHO2.ts
-#EXTINF:-1 tvg-chno="16444" tvg-name="SHO 2 (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s11116_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="SHO2P" tvc-guide-stationid="16444",SHO 2 (Pacific)
+#EXTINF:-1 tvg-chno="16444" tvg-name="SHO 2 (Pacific)" tvg-logo="https://logos.jesmann.com/sho2p.png" group-title="Puerto Rico" tvg-id="SHO2P" tvc-guide-stationid="16444",SHO 2 (Pacific)
 http://example.local/PRI-SHO2P.ts
 #EXTINF:-1 tvg-chno="58533" tvg-name="SHO 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58533_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="SHO2HD" tvc-guide-stationid="58533",SHO 2 HD
 http://example.local/PRI-SHO2HD.ts
-#EXTINF:-1 tvg-chno="20622" tvg-name="SHO x BET" tvg-logo="https://zap2it.tmsimg.com/assets/s20622_h3_aa.png" group-title="Puerto Rico" tvg-id="SHOBET" tvc-guide-stationid="20622",SHO x BET
+#EXTINF:-1 tvg-chno="20622" tvg-name="SHO x BET" tvg-logo="https://zap2it.tmsimg.com/assets/s20622_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="SHOBET" tvc-guide-stationid="20622",SHO x BET
 http://example.local/PRI-SHOBET.ts
-#EXTINF:-1 tvg-chno="20625" tvg-name="SHO x BET (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s20622_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="SHOBETP" tvc-guide-stationid="20625",SHO x BET (Pacific)
+#EXTINF:-1 tvg-chno="20625" tvg-name="SHO x BET (Pacific)" tvg-logo="https://logos.jesmann.com/shobetp.png" group-title="Puerto Rico" tvg-id="SHOBETP" tvc-guide-stationid="20625",SHO x BET (Pacific)
 http://example.local/PRI-SHOBETP.ts
 #EXTINF:-1 tvg-chno="58823" tvg-name="Shop Latino Network" group-title="Puerto Rico" tvg-id="SHOPLAT" tvc-guide-stationid="58823",Shop Latino Network
 http://example.local/PRI-SHOPLAT.ts
 #EXTINF:-1 tvg-chno="18086" tvg-name="Showtime Extreme" tvg-logo="https://zap2it.tmsimg.com/assets/s18086_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="SHOWX" tvc-guide-stationid="18086",Showtime Extreme
 http://example.local/PRI-SHOWX.ts
-#EXTINF:-1 tvg-chno="18164" tvg-name="Showtime Extreme (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s18086_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="SHOWXP" tvc-guide-stationid="18164",Showtime Extreme (Pacific)
+#EXTINF:-1 tvg-chno="18164" tvg-name="Showtime Extreme (Pacific)" tvg-logo="https://logos.jesmann.com/showxp.png" group-title="Puerto Rico" tvg-id="SHOWXP" tvc-guide-stationid="18164",Showtime Extreme (Pacific)
 http://example.local/PRI-SHOWXP.ts
 #EXTINF:-1 tvg-chno="25274" tvg-name="Showtime Familyzone" tvg-logo="https://zap2it.tmsimg.com/assets/s25274_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="FAMZ" tvc-guide-stationid="25274",Showtime Familyzone
 http://example.local/PRI-FAMZ.ts
+#EXTINF:-1 tvg-chno="25270" tvg-name="Showtime Next" tvg-logo="https://zap2it.tmsimg.com/assets/s25270_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="NEXT" tvc-guide-stationid="25270",Showtime Next
+http://example.local/PRI-NEXT.ts
 #EXTINF:-1 tvg-chno="16153" tvg-name="Showtime Showcase" tvg-logo="https://zap2it.tmsimg.com/assets/s16153_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="SHOCSE" tvc-guide-stationid="16153",Showtime Showcase
 http://example.local/PRI-SHOCSE.ts
-#EXTINF:-1 tvg-chno="16584" tvg-name="Showtime Showcase (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s16153_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="SHOCSEP" tvc-guide-stationid="16584",Showtime Showcase (Pacific)
+#EXTINF:-1 tvg-chno="16584" tvg-name="Showtime Showcase (Pacific)" tvg-logo="https://logos.jesmann.com/shocsep.png" group-title="Puerto Rico" tvg-id="SHOCSEP" tvc-guide-stationid="16584",Showtime Showcase (Pacific)
 http://example.local/PRI-SHOCSEP.ts
 #EXTINF:-1 tvg-chno="25272" tvg-name="Showtime Women" tvg-logo="https://zap2it.tmsimg.com/assets/s25272_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="WOMEN" tvc-guide-stationid="25272",Showtime Women
 http://example.local/PRI-WOMEN.ts
@@ -785,11 +971,15 @@ http://example.local/PRI-WOMEN.ts
 http://example.local/PRI-SBND.ts
 #EXTINF:-1 tvg-chno="25347" tvg-name="Sorpresa" tvg-logo="https://zap2it.tmsimg.com/assets/s56405_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="SORPRESA" tvc-guide-stationid="25347",Sorpresa
 http://example.local/PRI-SORPRESA.ts
+#EXTINF:-1 tvg-chno="36870" tvg-name="SPAN ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s10179_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="SPAESPN" tvc-guide-stationid="36870",SPAN ESPN
+http://example.local/PRI-SPAESPN.ts
 #EXTINF:-1 tvg-chno="37228" tvg-name="SPAN SY FY" group-title="Puerto Rico" tvg-id="SSYFY" tvc-guide-stationid="37228",SPAN SY FY
 http://example.local/PRI-SSYFY.ts
 #EXTINF:-1 tvg-chno="49030" tvg-name="Sportsman Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s49030_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="SPMN" tvc-guide-stationid="49030",Sportsman Channel
 http://example.local/PRI-SPMN.ts
-#EXTINF:-1 tvg-chno="26077" tvg-name="Stadium College Sports Atlantic" tvg-logo="https://zap2it.tmsimg.com/assets/s26077_h3_aa.png" group-title="Puerto Rico" tvg-id="SCSA" tvc-guide-stationid="26077",Stadium College Sports Atlantic
+#EXTINF:-1 tvg-chno="60399" tvg-name="Sportsman Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60399_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="SPMANHD" tvc-guide-stationid="60399",Sportsman Channel HD
+http://example.local/PRI-SPMANHD.ts
+#EXTINF:-1 tvg-chno="26077" tvg-name="Stadium College Sports Atlantic" tvg-logo="https://zap2it.tmsimg.com/assets/s26077_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="SCSA" tvc-guide-stationid="26077",Stadium College Sports Atlantic
 http://example.local/PRI-SCSA.ts
 #EXTINF:-1 tvg-chno="26078" tvg-name="Stadium College Sports Central" tvg-logo="https://zap2it.tmsimg.com/assets/s26078_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="SCSC" tvc-guide-stationid="26078",Stadium College Sports Central
 http://example.local/PRI-SCSC.ts
@@ -797,14 +987,22 @@ http://example.local/PRI-SCSC.ts
 http://example.local/PRI-SCSP.ts
 #EXTINF:-1 tvg-chno="88534" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s88534_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="STARMHD" tvc-guide-stationid="88534",Star Channel
 http://example.local/PRI-STARMHD.ts
+#EXTINF:-1 tvg-chno="15688" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="STARMEX" tvc-guide-stationid="15688",Star Channel
+http://example.local/PRI-STARMEX.ts
+#EXTINF:-1 tvg-chno="95949" tvg-name="Star Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s58833_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="STRHEHD" tvc-guide-stationid="95949",Star Hits
+http://example.local/PRI-STRHEHD.ts
 #EXTINF:-1 tvg-chno="49263" tvg-name="Star Life" tvg-logo="https://zap2it.tmsimg.com/assets/s49263_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="STARLAT" tvc-guide-stationid="49263",Star Life
 http://example.local/PRI-STARLAT.ts
+#EXTINF:-1 tvg-chno="58472" tvg-name="Star Life" tvg-logo="https://zap2it.tmsimg.com/assets/s49263_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="STRLIFC" tvc-guide-stationid="58472",Star Life
+http://example.local/PRI-STRLIFC.ts
 #EXTINF:-1 tvg-chno="12719" tvg-name="Starz" tvg-logo="https://zap2it.tmsimg.com/assets/s12719_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="STARZ" tvc-guide-stationid="12719",Starz
 http://example.local/PRI-STARZ.ts
-#EXTINF:-1 tvg-chno="12741" tvg-name="Starz (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s12719_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="STARZP" tvc-guide-stationid="12741",Starz (Pacific)
+#EXTINF:-1 tvg-chno="12741" tvg-name="Starz (Pacific)" tvg-logo="https://logos.jesmann.com/starzp.png" group-title="Puerto Rico" tvg-id="STARZP" tvc-guide-stationid="12741",Starz (Pacific)
 http://example.local/PRI-STARZP.ts
 #EXTINF:-1 tvg-chno="19634" tvg-name="Starz Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s19634_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="STZCI" tvc-guide-stationid="19634",Starz Cinema
 http://example.local/PRI-STZCI.ts
+#EXTINF:-1 tvg-chno="19651" tvg-name="Starz Cinema (Pacific)" tvg-logo="https://logos.jesmann.com/stzcip.png" group-title="Puerto Rico" tvg-id="STZCIP" tvc-guide-stationid="19651",Starz Cinema (Pacific)
+http://example.local/PRI-STZCIP.ts
 #EXTINF:-1 tvg-chno="67236" tvg-name="Starz Cinema HD" tvg-logo="https://zap2it.tmsimg.com/assets/s67236_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="STRZCIH" tvc-guide-stationid="67236",Starz Cinema HD
 http://example.local/PRI-STRZCIH.ts
 #EXTINF:-1 tvg-chno="34901" tvg-name="Starz Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s34901_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="STZC" tvc-guide-stationid="34901",Starz Comedy
@@ -813,25 +1011,27 @@ http://example.local/PRI-STZC.ts
 http://example.local/PRI-STZE.ts
 #EXTINF:-1 tvg-chno="10178" tvg-name="Starz Encore" tvg-logo="https://zap2it.tmsimg.com/assets/s10178_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="STZENC" tvc-guide-stationid="10178",Starz Encore
 http://example.local/PRI-STZENC.ts
-#EXTINF:-1 tvg-chno="17125" tvg-name="Starz Encore (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10178_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="STZENCP" tvc-guide-stationid="17125",Starz Encore (Pacific)
+#EXTINF:-1 tvg-chno="17125" tvg-name="Starz Encore (Pacific)" tvg-logo="https://logos.jesmann.com/stzencp.png" group-title="Puerto Rico" tvg-id="STZENCP" tvc-guide-stationid="17125",Starz Encore (Pacific)
 http://example.local/PRI-STZENCP.ts
-#EXTINF:-1 tvg-chno="14871" tvg-name="Starz Encore Action" tvg-logo="https://zap2it.tmsimg.com/assets/s14871_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="STZENAC" tvc-guide-stationid="14871",Starz Encore Action
+#EXTINF:-1 tvg-chno="14871" tvg-name="Starz Encore Action" tvg-logo="https://zap2it.tmsimg.com/assets/s14871_h3_ba.png" group-title="Puerto Rico" tvg-id="STZENAC" tvc-guide-stationid="14871",Starz Encore Action
 http://example.local/PRI-STZENAC.ts
 #EXTINF:-1 tvg-chno="14870" tvg-name="Starz Encore Black" tvg-logo="https://zap2it.tmsimg.com/assets/s14870_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="STZENBK" tvc-guide-stationid="14870",Starz Encore Black
 http://example.local/PRI-STZENBK.ts
 #EXTINF:-1 tvg-chno="14764" tvg-name="Starz Encore Classic" tvg-logo="https://zap2it.tmsimg.com/assets/s14764_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="STZENCL" tvc-guide-stationid="14764",Starz Encore Classic
 http://example.local/PRI-STZENCL.ts
+#EXTINF:-1 tvg-chno="72016" tvg-name="Starz Encore Español" tvg-logo="https://zap2it.tmsimg.com/assets/s72016_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="STZESP" tvc-guide-stationid="72016",Starz Encore Español
+http://example.local/PRI-STZESP.ts
 #EXTINF:-1 tvg-chno="14886" tvg-name="Starz Encore Family" tvg-logo="https://zap2it.tmsimg.com/assets/s14886_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="STZENFM" tvc-guide-stationid="14886",Starz Encore Family
 http://example.local/PRI-STZENFM.ts
 #EXTINF:-1 tvg-chno="36225" tvg-name="Starz Encore HD" tvg-logo="https://zap2it.tmsimg.com/assets/s36225_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="STZENHD" tvc-guide-stationid="36225",Starz Encore HD
 http://example.local/PRI-STZENHD.ts
-#EXTINF:-1 tvg-chno="14766" tvg-name="Starz Encore Suspense" tvg-logo="https://zap2it.tmsimg.com/assets/s14766_h3_ba.png" group-title="Puerto Rico" tvg-id="STZENSU" tvc-guide-stationid="14766",Starz Encore Suspense
+#EXTINF:-1 tvg-chno="14766" tvg-name="Starz Encore Suspense" tvg-logo="https://zap2it.tmsimg.com/assets/s14766_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="STZENSU" tvc-guide-stationid="14766",Starz Encore Suspense
 http://example.local/PRI-STZENSU.ts
 #EXTINF:-1 tvg-chno="14765" tvg-name="Starz Encore Westerns" tvg-logo="https://zap2it.tmsimg.com/assets/s14765_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="STZENWS" tvc-guide-stationid="14765",Starz Encore Westerns
 http://example.local/PRI-STZENWS.ts
 #EXTINF:-1 tvg-chno="34941" tvg-name="Starz HD" tvg-logo="https://zap2it.tmsimg.com/assets/s34941_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="STZHD" tvc-guide-stationid="34941",Starz HD
 http://example.local/PRI-STZHD.ts
-#EXTINF:-1 tvg-chno="16833" tvg-name="Starz in Black" tvg-logo="https://zap2it.tmsimg.com/assets/s16833_h3_aa.png" group-title="Puerto Rico" tvg-id="STZIB" tvc-guide-stationid="16833",Starz in Black
+#EXTINF:-1 tvg-chno="16833" tvg-name="Starz in Black" tvg-logo="https://zap2it.tmsimg.com/assets/s16833_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="STZIB" tvc-guide-stationid="16833",Starz in Black
 http://example.local/PRI-STZIB.ts
 #EXTINF:-1 tvg-chno="19635" tvg-name="Starz Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s19635_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="STZK" tvc-guide-stationid="19635",Starz Kids
 http://example.local/PRI-STZK.ts
@@ -839,32 +1039,52 @@ http://example.local/PRI-STZK.ts
 http://example.local/PRI-STZKHD.ts
 #EXTINF:-1 tvg-chno="16426" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s29017_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="STULA" tvc-guide-stationid="16426",Studio Universal
 http://example.local/PRI-STULA.ts
-#EXTINF:-1 tvg-chno="88852" tvg-name="Swift Pursuit Channel (PURST)" tvg-logo="https://zap2it.tmsimg.com/assets/s60111_h3_aa.png" group-title="Puerto Rico" tvg-id="SPURST" tvc-guide-stationid="88852",Swift Pursuit Channel (PURST)
+#EXTINF:-1 tvg-chno="16108" tvg-name="SundanceTV" tvg-logo="https://zap2it.tmsimg.com/assets/s16108_ll_h9_aa.png" group-title="Puerto Rico" tvg-id="SUNDANC" tvc-guide-stationid="16108",SundanceTV
+http://example.local/PRI-SUNDANC.ts
+#EXTINF:-1 tvg-chno="71280" tvg-name="SundanceTV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s71280_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="SUNDHD" tvc-guide-stationid="71280",SundanceTV HD
+http://example.local/PRI-SUNDHD.ts
+#EXTINF:-1 tvg-chno="24515" tvg-name="SuperCanal (Dominican)" tvg-logo="https://zap2it.tmsimg.com/assets/s24515_ll_h9_aa.png" group-title="Puerto Rico" tvg-id="SUPCAN" tvc-guide-stationid="24515",SuperCanal (Dominican)
+http://example.local/PRI-SUPCAN.ts
+#EXTINF:-1 tvg-chno="88852" tvg-name="Swift Pursuit Channel (PURST)" tvg-logo="https://zap2it.tmsimg.com/assets/s60111_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="SPURST" tvc-guide-stationid="88852",Swift Pursuit Channel (PURST)
 http://example.local/PRI-SPURST.ts
-#EXTINF:-1 tvg-chno="24533" tvg-name="Syfy (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s11097_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="SYFYP" tvc-guide-stationid="24533",Syfy (Pacific)
+#EXTINF:-1 tvg-chno="11097" tvg-name="SYFY" tvg-logo="https://zap2it.tmsimg.com/assets/s11097_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="SYFY" tvc-guide-stationid="11097",SYFY
+http://example.local/PRI-SYFY.ts
+#EXTINF:-1 tvg-chno="24533" tvg-name="Syfy (Pacific)" tvg-logo="https://logos.jesmann.com/syfyp.png" group-title="Puerto Rico" tvg-id="SYFYP" tvc-guide-stationid="24533",Syfy (Pacific)
 http://example.local/PRI-SYFYP.ts
 #EXTINF:-1 tvg-chno="58623" tvg-name="Syfy HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58623_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="SYFYHD" tvc-guide-stationid="58623",Syfy HD
 http://example.local/PRI-SYFYHD.ts
+#EXTINF:-1 tvg-chno="99231" tvg-name="TBS" tvg-logo="https://zap2it.tmsimg.com/assets/s75073_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="TBSESHD" tvc-guide-stationid="99231",TBS
+http://example.local/PRI-TBSESHD.ts
 #EXTINF:-1 tvg-chno="11867" tvg-name="TBS" tvg-logo="https://zap2it.tmsimg.com/assets/s11867_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="TBS" tvc-guide-stationid="11867",TBS
 http://example.local/PRI-TBS.ts
-#EXTINF:-1 tvg-chno="99231" tvg-name="TBS" tvg-logo="https://zap2it.tmsimg.com/assets/s75073_h3_aa.png" group-title="Puerto Rico" tvg-id="TBSESHD" tvc-guide-stationid="99231",TBS
-http://example.local/PRI-TBSESHD.ts
+#EXTINF:-1 tvg-chno="75067" tvg-name="TBS" tvg-logo="https://zap2it.tmsimg.com/assets/s75073_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="TBSLAEN" tvc-guide-stationid="75067",TBS
+http://example.local/PRI-TBSLAEN.ts
 #EXTINF:-1 tvg-chno="58515" tvg-name="TBS HD" tvg-logo="https://zap2it.tmsimg.com/assets/s58515_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="TBSHD" tvc-guide-stationid="58515",TBS HD
 http://example.local/PRI-TBSHD.ts
+#EXTINF:-1 tvg-chno="19246" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s19246_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="TCML" tvc-guide-stationid="19246",TCM
+http://example.local/PRI-TCML.ts
 #EXTINF:-1 tvg-chno="59036" tvg-name="Teen Nick" tvg-logo="https://zap2it.tmsimg.com/assets/s59036_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="TNCK" tvc-guide-stationid="59036",Teen Nick
 http://example.local/PRI-TNCK.ts
-#EXTINF:-1 tvg-chno="72294" tvg-name="TeenNick" tvg-logo="https://zap2it.tmsimg.com/assets/s77783_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="NIKLAHD" tvc-guide-stationid="72294",TeenNick
+#EXTINF:-1 tvg-chno="72294" tvg-name="TeenNick" group-title="Puerto Rico" tvg-id="NIKLAHD" tvc-guide-stationid="72294",TeenNick
 http://example.local/PRI-NIKLAHD.ts
 #EXTINF:-1 tvg-chno="16189" tvg-name="Telefe Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s100066_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="TEFEI" tvc-guide-stationid="16189",Telefe Internacional
 http://example.local/PRI-TEFEI.ts
 #EXTINF:-1 tvg-chno="34344" tvg-name="Teleformula" tvg-logo="https://zap2it.tmsimg.com/assets/s34344_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="TFORM" tvc-guide-stationid="34344",Teleformula
 http://example.local/PRI-TFORM.ts
+#EXTINF:-1 tvg-chno="59877" tvg-name="TeleGuam Encore Wam" group-title="Puerto Rico" tvg-id="GENCWAM" tvc-guide-stationid="59877",TeleGuam Encore Wam
+http://example.local/PRI-GENCWAM.ts
+#EXTINF:-1 tvg-chno="59867" tvg-name="TeleGuam Lifetime Real Women" tvg-logo="https://zap2it.tmsimg.com/assets/s29612_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="GUAMLRW" tvc-guide-stationid="59867",TeleGuam Lifetime Real Women
+http://example.local/PRI-GUAMLRW.ts
+#EXTINF:-1 tvg-chno="50635" tvg-name="TeleGuam Planet Green" group-title="Puerto Rico" tvg-id="GMDHOME" tvc-guide-stationid="50635",TeleGuam Planet Green
+http://example.local/PRI-GMDHOME.ts
 #EXTINF:-1 tvg-chno="15211" tvg-name="Telehit" tvg-logo="https://zap2it.tmsimg.com/assets/s15211_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="THIT" tvc-guide-stationid="15211",Telehit
 http://example.local/PRI-THIT.ts
 #EXTINF:-1 tvg-chno="61566" tvg-name="TELEMICRO Canal 5" tvg-logo="https://zap2it.tmsimg.com/assets/s61566_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="TELEMCR" tvc-guide-stationid="61566",TELEMICRO Canal 5
 http://example.local/PRI-TELEMCR.ts
 #EXTINF:-1 tvg-chno="64835" tvg-name="Telemundo Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s64835_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="CABTELE" tvc-guide-stationid="64835",Telemundo Internacional
 http://example.local/PRI-CABTELE.ts
+#EXTINF:-1 tvg-chno="10239" tvg-name="Telemundo Television Network (TELE)" tvg-logo="https://zap2it.tmsimg.com/assets/s10239_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="TELE" tvc-guide-stationid="10239",Telemundo Television Network (TELE)
+http://example.local/PRI-TELE.ts
 #EXTINF:-1 tvg-chno="48523" tvg-name="TeleN" tvg-logo="https://zap2it.tmsimg.com/assets/s48523_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="TELEN" tvc-guide-stationid="48523",TeleN
 http://example.local/PRI-TELEN.ts
 #EXTINF:-1 tvg-chno="47620" tvg-name="TeleSur" tvg-logo="https://zap2it.tmsimg.com/assets/s47620_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="TELESUR" tvc-guide-stationid="47620",TeleSur
@@ -879,12 +1099,14 @@ http://example.local/PRI-TENNIS.ts
 http://example.local/PRI-GOLFLAH.ts
 #EXTINF:-1 tvg-chno="11160" tvg-name="The Movie Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11160_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="TMC" tvc-guide-stationid="11160",The Movie Channel
 http://example.local/PRI-TMC.ts
-#EXTINF:-1 tvg-chno="12509" tvg-name="The Movie Channel (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s11160_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="TMCP" tvc-guide-stationid="12509",The Movie Channel (Pacific)
+#EXTINF:-1 tvg-chno="12509" tvg-name="The Movie Channel (Pacific)" tvg-logo="https://logos.jesmann.com/tmcp.png" group-title="Puerto Rico" tvg-id="TMCP" tvc-guide-stationid="12509",The Movie Channel (Pacific)
 http://example.local/PRI-TMCP.ts
 #EXTINF:-1 tvg-chno="17663" tvg-name="The Movie Channel Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s17663_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="TMCX" tvc-guide-stationid="17663",The Movie Channel Extra
 http://example.local/PRI-TMCX.ts
-#EXTINF:-1 tvg-chno="17687" tvg-name="The Movie Channel Extra (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s17663_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="TMCXP" tvc-guide-stationid="17687",The Movie Channel Extra (Pacific)
+#EXTINF:-1 tvg-chno="17687" tvg-name="The Movie Channel Extra (Pacific)" tvg-logo="https://logos.jesmann.com/tmcxp.png" group-title="Puerto Rico" tvg-id="TMCXP" tvc-guide-stationid="17687",The Movie Channel Extra (Pacific)
 http://example.local/PRI-TMCXP.ts
+#EXTINF:-1 tvg-chno="35329" tvg-name="The Movie Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s35329_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="TMCHD" tvc-guide-stationid="35329",The Movie Channel HD
+http://example.local/PRI-TMCHD.ts
 #EXTINF:-1 tvg-chno="11180" tvg-name="The Travel Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11180_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="TRAV" tvc-guide-stationid="11180",The Travel Channel
 http://example.local/PRI-TRAV.ts
 #EXTINF:-1 tvg-chno="59303" tvg-name="The Travel Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s59303_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="TRAVHD" tvc-guide-stationid="59303",The Travel Channel HD
@@ -897,52 +1119,84 @@ http://example.local/PRI-WEATHHD.ts
 http://example.local/PRI-THMAX.ts
 #EXTINF:-1 tvg-chno="18436" tvg-name="ThrillerMAX (Pacific)" group-title="Puerto Rico" tvg-id="THMAXP" tvc-guide-stationid="18436",ThrillerMAX (Pacific)
 http://example.local/PRI-THMAXP.ts
-#EXTINF:-1 tvg-chno="73822" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s73822_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="TLCLASP" tvc-guide-stationid="73822",TLC
-http://example.local/PRI-TLCLASP.ts
-#EXTINF:-1 tvg-chno="11158" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s11158_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="TLC" tvc-guide-stationid="11158",TLC
-http://example.local/PRI-TLC.ts
 #EXTINF:-1 tvg-chno="88943" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s73822_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="TLCLAHD" tvc-guide-stationid="88943",TLC
 http://example.local/PRI-TLCLAHD.ts
+#EXTINF:-1 tvg-chno="11158" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s11158_h3_aa.png" group-title="Puerto Rico" tvg-id="TLC" tvc-guide-stationid="11158",TLC
+http://example.local/PRI-TLC.ts
+#EXTINF:-1 tvg-chno="73822" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s73822_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="TLCLASP" tvc-guide-stationid="73822",TLC
+http://example.local/PRI-TLCLASP.ts
+#EXTINF:-1 tvg-chno="74420" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s73822_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="TLCMEX" tvc-guide-stationid="74420",TLC
+http://example.local/PRI-TLCMEX.ts
+#EXTINF:-1 tvg-chno="73824" tvg-name="TLC Latin America (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s73822_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="TLCLAE" tvc-guide-stationid="73824",TLC Latin America (English)
+http://example.local/PRI-TLCLAE.ts
+#EXTINF:-1 tvg-chno="90846" tvg-name="TLC Latin America HD (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s73822_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="TLCLAEH" tvc-guide-stationid="90846",TLC Latin America HD (English)
+http://example.local/PRI-TLCLAEH.ts
 #EXTINF:-1 tvg-chno="37232" tvg-name="TLNovelas" tvg-logo="https://zap2it.tmsimg.com/assets/s37232_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="TLNOVEL" tvc-guide-stationid="37232",TLNovelas
 http://example.local/PRI-TLNOVEL.ts
-#EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Puerto Rico" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
-http://example.local/PRI-TNTLC.ts
 #EXTINF:-1 tvg-chno="106062" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="TNTLCHH" tvc-guide-stationid="106062",TNT
 http://example.local/PRI-TNTLCHH.ts
+#EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_h3_ba.png" group-title="Puerto Rico" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
+http://example.local/PRI-TNTLC.ts
 #EXTINF:-1 tvg-chno="11164" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s11164_h3_aa.png" group-title="Puerto Rico" tvg-id="TNT" tvc-guide-stationid="11164",TNT
 http://example.local/PRI-TNT.ts
 #EXTINF:-1 tvg-chno="42642" tvg-name="TNT HD" tvg-logo="https://zap2it.tmsimg.com/assets/s42642_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="TNTHD" tvc-guide-stationid="42642",TNT HD
 http://example.local/PRI-TNTHD.ts
+#EXTINF:-1 tvg-chno="50914" tvg-name="Toku" tvg-logo="https://zap2it.tmsimg.com/assets/s50914_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="TOKU" tvc-guide-stationid="50914",Toku
+http://example.local/PRI-TOKU.ts
 #EXTINF:-1 tvg-chno="18715" tvg-name="Tr3s: MTV Musica y Mas" tvg-logo="https://zap2it.tmsimg.com/assets/s18715_ll_h15_ao.png" group-title="Puerto Rico" tvg-id="TR3S" tvc-guide-stationid="18715",Tr3s: MTV Musica y Mas
 http://example.local/PRI-TR3S.ts
 #EXTINF:-1 tvg-chno="14767" tvg-name="Trinity Broadcasting Network" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y4QD.png" group-title="Puerto Rico" tvg-id="TBN" tvc-guide-stationid="14767",Trinity Broadcasting Network
 http://example.local/PRI-TBN.ts
 #EXTINF:-1 tvg-chno="10153" tvg-name="truTV" tvg-logo="https://zap2it.tmsimg.com/assets/s10153_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="TRUTV" tvc-guide-stationid="10153",truTV
 http://example.local/PRI-TRUTV.ts
-#EXTINF:-1 tvg-chno="75176" tvg-name="TUDN" tvg-logo="https://zap2it.tmsimg.com/assets/s75176_h3_aa.png" group-title="Puerto Rico" tvg-id="TUDNU" tvc-guide-stationid="75176",TUDN
+#EXTINF:-1 tvg-chno="64490" tvg-name="truTV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s64490_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="TRUTVHD" tvc-guide-stationid="64490",truTV HD
+http://example.local/PRI-TRUTVHD.ts
+#EXTINF:-1 tvg-chno="75176" tvg-name="TUDN" tvg-logo="https://zap2it.tmsimg.com/assets/s75176_ll_h15_ae.png" group-title="Puerto Rico" tvg-id="TUDNU" tvc-guide-stationid="75176",TUDN
 http://example.local/PRI-TUDNU.ts
+#EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
+http://example.local/PRI-TCM.ts
 #EXTINF:-1 tvg-chno="64312" tvg-name="Turner Classic Movies HD" tvg-logo="https://zap2it.tmsimg.com/assets/s64312_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="TCMHD" tvc-guide-stationid="64312",Turner Classic Movies HD
 http://example.local/PRI-TCMHD.ts
 #EXTINF:-1 tvg-chno="16046" tvg-name="TV Chile" tvg-logo="https://zap2it.tmsimg.com/assets/s16046_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="TVNI" tvc-guide-stationid="16046",TV Chile
 http://example.local/PRI-TVNI.ts
-#EXTINF:-1 tvg-chno="16123" tvg-name="TV Land" tvg-logo="https://zap2it.tmsimg.com/assets/s16123_h3_aa.png" group-title="Puerto Rico" tvg-id="TVLAND" tvc-guide-stationid="16123",TV Land
+#EXTINF:-1 tvg-chno="16123" tvg-name="TV Land" tvg-logo="https://zap2it.tmsimg.com/assets/s16123_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="TVLAND" tvc-guide-stationid="16123",TV Land
 http://example.local/PRI-TVLAND.ts
+#EXTINF:-1 tvg-chno="16422" tvg-name="TV5 Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16422_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="TV5L" tvc-guide-stationid="16422",TV5 Latin America
+http://example.local/PRI-TV5L.ts
+#EXTINF:-1 tvg-chno="16217" tvg-name="TVE" tvg-logo="https://zap2it.tmsimg.com/assets/s16217_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="TVEI" tvc-guide-stationid="16217",TVE
+http://example.local/PRI-TVEI.ts
 #EXTINF:-1 tvg-chno="77845" tvg-name="TVE International América Latine" group-title="Puerto Rico" tvg-id="TVELAT" tvc-guide-stationid="77845",TVE International América Latine
 http://example.local/PRI-TVELAT.ts
 #EXTINF:-1 tvg-chno="16526" tvg-name="TVN" tvg-logo="https://zap2it.tmsimg.com/assets/s16526_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="TVN" tvc-guide-stationid="16526",TVN
 http://example.local/PRI-TVN.ts
+#EXTINF:-1 tvg-chno="79695" tvg-name="Ultra Clasico" tvg-logo="https://zap2it.tmsimg.com/assets/s178062_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="UCLAS" tvc-guide-stationid="79695",Ultra Clasico
+http://example.local/PRI-UCLAS.ts
+#EXTINF:-1 tvg-chno="79611" tvg-name="Ultra Film" tvg-logo="https://zap2it.tmsimg.com/assets/s79611_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="UFILM" tvc-guide-stationid="79611",Ultra Film
+http://example.local/PRI-UFILM.ts
+#EXTINF:-1 tvg-chno="98720" tvg-name="Ultra Film HD" group-title="Puerto Rico" tvg-id="UFILMHD" tvc-guide-stationid="98720",Ultra Film HD
+http://example.local/PRI-UFILMHD.ts
+#EXTINF:-1 tvg-chno="79696" tvg-name="Ultra Macho" tvg-logo="https://zap2it.tmsimg.com/assets/s79696_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="UMACHO" tvc-guide-stationid="79696",Ultra Macho
+http://example.local/PRI-UMACHO.ts
+#EXTINF:-1 tvg-chno="16521" tvg-name="Unicable" tvg-logo="https://zap2it.tmsimg.com/assets/s16521_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="UNIC" tvc-guide-stationid="16521",Unicable
+http://example.local/PRI-UNIC.ts
+#EXTINF:-1 tvg-chno="29058" tvg-name="UniMas (UNIMAS)" tvg-logo="https://zap2it.tmsimg.com/assets/s29058_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="UNIMAS" tvc-guide-stationid="29058",UniMas (UNIMAS)
+http://example.local/PRI-UNIMAS.ts
 #EXTINF:-1 tvg-chno="69971" tvg-name="Universal Latin Amer HD" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="UNILAHD" tvc-guide-stationid="69971",Universal Latin Amer HD
 http://example.local/PRI-UNILAHD.ts
-#EXTINF:-1 tvg-chno="14791" tvg-name="UNIVERSO" tvg-logo="https://zap2it.tmsimg.com/assets/s14791_h3_aa.png" group-title="Puerto Rico" tvg-id="UNVSO" tvc-guide-stationid="14791",UNIVERSO
+#EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
+http://example.local/PRI-UNTVM.ts
+#EXTINF:-1 tvg-chno="14791" tvg-name="UNIVERSO" tvg-logo="https://zap2it.tmsimg.com/assets/s14791_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="UNVSO" tvc-guide-stationid="14791",UNIVERSO
 http://example.local/PRI-UNVSO.ts
 #EXTINF:-1 tvg-chno="11118" tvg-name="Univision Network (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="UNI" tvc-guide-stationid="11118",Univision Network (UNI)
 http://example.local/PRI-UNI.ts
 #EXTINF:-1 tvg-chno="44940" tvg-name="UPtv" tvg-logo="https://zap2it.tmsimg.com/assets/s44940_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="UP" tvc-guide-stationid="44940",UPtv
 http://example.local/PRI-UP.ts
-#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="USALA" tvc-guide-stationid="56727",USA
-http://example.local/PRI-USALA.ts
 #EXTINF:-1 tvg-chno="101357" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="USALIH" tvc-guide-stationid="101357",USA
 http://example.local/PRI-USALIH.ts
+#EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="USALA" tvc-guide-stationid="56727",USA
+http://example.local/PRI-USALA.ts
+#EXTINF:-1 tvg-chno="58427" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="USALI" tvc-guide-stationid="58427",USA
+http://example.local/PRI-USALI.ts
 #EXTINF:-1 tvg-chno="11207" tvg-name="USA Network" tvg-logo="https://zap2it.tmsimg.com/assets/s11207_ll_h15_af.png" group-title="Puerto Rico" tvg-id="USA" tvc-guide-stationid="11207",USA Network
 http://example.local/PRI-USA.ts
 #EXTINF:-1 tvg-chno="66270" tvg-name="USA Network (USA non-Olympic Feed)" tvg-logo="https://zap2it.tmsimg.com/assets/s11207_ll_h15_af.png" group-title="Puerto Rico" tvg-id="USAA" tvc-guide-stationid="66270",USA Network (USA non-Olympic Feed)
@@ -953,27 +1207,51 @@ http://example.local/PRI-USAHD.ts
 http://example.local/PRI-USAHDA.ts
 #EXTINF:-1 tvg-chno="11218" tvg-name="VH1" tvg-logo="https://zap2it.tmsimg.com/assets/s11218_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="VH1" tvc-guide-stationid="11218",VH1
 http://example.local/PRI-VH1.ts
+#EXTINF:-1 tvg-chno="42567" tvg-name="VH1" tvg-logo="https://zap2it.tmsimg.com/assets/s42567_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="VH1L" tvc-guide-stationid="42567",VH1
+http://example.local/PRI-VH1L.ts
 #EXTINF:-1 tvg-chno="72418" tvg-name="VH1 Mexico HD" tvg-logo="https://zap2it.tmsimg.com/assets/s11218_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="VH1MXHD" tvc-guide-stationid="72418",VH1 Mexico HD
 http://example.local/PRI-VH1MXHD.ts
 #EXTINF:-1 tvg-chno="18822" tvg-name="Vice" tvg-logo="https://zap2it.tmsimg.com/assets/s18822_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="VICE" tvc-guide-stationid="18822",Vice
 http://example.local/PRI-VICE.ts
-#EXTINF:-1 tvg-chno="65732" tvg-name="Vice HD" tvg-logo="https://zap2it.tmsimg.com/assets/s18822_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="VICEHD" tvc-guide-stationid="65732",Vice HD
+#EXTINF:-1 tvg-chno="65732" tvg-name="Vice HD" tvg-logo="https://zap2it.tmsimg.com/assets/s104547_ll_h9_ab.png" group-title="Puerto Rico" tvg-id="VICEHD" tvc-guide-stationid="65732",Vice HD
 http://example.local/PRI-VICEHD.ts
 #EXTINF:-1 tvg-chno="52208" tvg-name="ViendoMovies" tvg-logo="https://zap2it.tmsimg.com/assets/s52208_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="VMOV" tvc-guide-stationid="52208",ViendoMovies
 http://example.local/PRI-VMOV.ts
+#EXTINF:-1 tvg-chno="49330" tvg-name="Vive TV" tvg-logo="https://zap2it.tmsimg.com/assets/s49330_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="VIVETV" tvc-guide-stationid="49330",Vive TV
+http://example.local/PRI-VIVETV.ts
 #EXTINF:-1 tvg-chno="55250" tvg-name="VME" tvg-logo="https://zap2it.tmsimg.com/assets/s55250_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="VME" tvc-guide-stationid="55250",VME
 http://example.local/PRI-VME.ts
+#EXTINF:-1 tvg-chno="63114" tvg-name="VOD Previews" group-title="Puerto Rico" tvg-id="VODPRVW" tvc-guide-stationid="63114",VOD Previews
+http://example.local/PRI-VODPRVW.ts
+#EXTINF:-1 tvg-chno="70135" tvg-name="W20EJ-D (SNC2)" tvg-logo="https://zap2it.tmsimg.com/assets/s178239_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="W20EJD" tvc-guide-stationid="70135",W20EJ-D (SNC2)
+http://example.local/PRI-W20EJD.ts
+#EXTINF:-1 tvg-chno="70507" tvg-name="W20EJ-D2 (MTRSP1N)" tvg-logo="https://zap2it.tmsimg.com/assets/s176691_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="W20EJD2" tvc-guide-stationid="70507",W20EJ-D2 (MTRSP1N)
+http://example.local/PRI-W20EJD2.ts
+#EXTINF:-1 tvg-chno="70509" tvg-name="W20EJ-D3" group-title="Puerto Rico" tvg-id="W20EJD3" tvc-guide-stationid="70509",W20EJ-D3
+http://example.local/PRI-W20EJD3.ts
+#EXTINF:-1 tvg-chno="96111" tvg-name="W29EE-D" group-title="Puerto Rico" tvg-id="W29EED" tvc-guide-stationid="96111",W29EE-D
+http://example.local/PRI-W29EED.ts
+#EXTINF:-1 tvg-chno="96112" tvg-name="W29EE-D2" group-title="Puerto Rico" tvg-id="W29EED2" tvc-guide-stationid="96112",W29EE-D2
+http://example.local/PRI-W29EED2.ts
+#EXTINF:-1 tvg-chno="96113" tvg-name="W29EE-D3" group-title="Puerto Rico" tvg-id="W29EED3" tvc-guide-stationid="96113",W29EE-D3
+http://example.local/PRI-W29EED3.ts
+#EXTINF:-1 tvg-chno="91165" tvg-name="W31DL-D (REVN)" tvg-logo="https://zap2it.tmsimg.com/assets/s91119_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="W31DLD" tvc-guide-stationid="91165",W31DL-D (REVN)
+http://example.local/PRI-W31DLD.ts
+#EXTINF:-1 tvg-chno="91166" tvg-name="W31DL-D2 (SBND)" tvg-logo="https://zap2it.tmsimg.com/assets/s67676_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="W31DLD2" tvc-guide-stationid="91166",W31DL-D2 (SBND)
+http://example.local/PRI-W31DLD2.ts
+#EXTINF:-1 tvg-chno="91167" tvg-name="W31DL-D3" group-title="Puerto Rico" tvg-id="W31DLD3" tvc-guide-stationid="91167",W31DL-D3
+http://example.local/PRI-W31DLD3.ts
 #EXTINF:-1 tvg-chno="33038" tvg-name="W63BF" group-title="Puerto Rico" tvg-id="W63BF" tvc-guide-stationid="33038",W63BF
 http://example.local/PRI-W63BF.ts
-#EXTINF:-1 tvg-chno="11259" tvg-name="WABC (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="Puerto Rico" tvg-id="WABC" tvc-guide-stationid="11259",WABC (ABC)
+#EXTINF:-1 tvg-chno="11259" tvg-name="WABC (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="WABC" tvc-guide-stationid="11259",WABC (ABC)
 http://example.local/PRI-WABC.ts
 #EXTINF:-1 tvg-chno="20453" tvg-name="WABC-DT (ABC)" tvg-logo="https://logos.jesmann.com/wabcdt.png" group-title="Puerto Rico" tvg-id="WABCDT" tvc-guide-stationid="20453",WABC-DT (ABC)
 http://example.local/PRI-WABCDT.ts
-#EXTINF:-1 tvg-chno="12466" tvg-name="WAPA" tvg-logo="https://zap2it.tmsimg.com/assets/s63389_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="WAPA" tvc-guide-stationid="12466",WAPA
+#EXTINF:-1 tvg-chno="12466" tvg-name="WAPA" tvg-logo="https://zap2it.tmsimg.com/assets/s63389_h3_aa.png" group-title="Puerto Rico" tvg-id="WAPA" tvc-guide-stationid="12466",WAPA
 http://example.local/PRI-WAPA.ts
 #EXTINF:-1 tvg-chno="44322" tvg-name="WAPA America" tvg-logo="https://zap2it.tmsimg.com/assets/s63389_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="WAPAUS" tvc-guide-stationid="44322",WAPA America
 http://example.local/PRI-WAPAUS.ts
-#EXTINF:-1 tvg-chno="63389" tvg-name="WAPA-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s63389_h3_aa.png" group-title="Puerto Rico" tvg-id="WAPADT" tvc-guide-stationid="63389",WAPA-DT
+#EXTINF:-1 tvg-chno="63389" tvg-name="WAPA-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s63389_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="WAPADT" tvc-guide-stationid="63389",WAPA-DT
 http://example.local/PRI-WAPADT.ts
 #EXTINF:-1 tvg-chno="63739" tvg-name="WAPA-DT2" tvg-logo="https://zap2it.tmsimg.com/assets/s63739_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="WAPADT2" tvc-guide-stationid="63739",WAPA-DT2
 http://example.local/PRI-WAPADT2.ts
@@ -981,6 +1259,8 @@ http://example.local/PRI-WAPADT2.ts
 http://example.local/PRI-WAPADT3.ts
 #EXTINF:-1 tvg-chno="11331" tvg-name="WCBS (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="WCBS" tvc-guide-stationid="11331",WCBS (CBS)
 http://example.local/PRI-WCBS.ts
+#EXTINF:-1 tvg-chno="11336" tvg-name="WCCU (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="WCCU" tvc-guide-stationid="11336",WCCU (FOX)
+http://example.local/PRI-WCCU.ts
 #EXTINF:-1 tvg-chno="15608" tvg-name="WCCV Canal 54" tvg-logo="https://zap2it.tmsimg.com/assets/s63794_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="WCCV" tvc-guide-stationid="15608",WCCV Canal 54
 http://example.local/PRI-WCCV.ts
 #EXTINF:-1 tvg-chno="63773" tvg-name="WCCV-DT" group-title="Puerto Rico" tvg-id="WCCVDT" tvc-guide-stationid="63773",WCCV-DT
@@ -989,18 +1269,28 @@ http://example.local/PRI-WCCVDT.ts
 http://example.local/PRI-WDWL.ts
 #EXTINF:-1 tvg-chno="63789" tvg-name="WDWL-DT" group-title="Puerto Rico" tvg-id="WDWLDT" tvc-guide-stationid="63789",WDWL-DT
 http://example.local/PRI-WDWLDT.ts
+#EXTINF:-1 tvg-chno="47056" tvg-name="WE" group-title="Puerto Rico" tvg-id="GWE1WD" tvc-guide-stationid="47056",WE
+http://example.local/PRI-GWE1WD.ts
 #EXTINF:-1 tvg-chno="16409" tvg-name="WE tv" tvg-logo="https://zap2it.tmsimg.com/assets/s16409_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="WE" tvc-guide-stationid="16409",WE tv
 http://example.local/PRI-WE.ts
+#EXTINF:-1 tvg-chno="16712" tvg-name="Weather Channel Latin America" group-title="Puerto Rico" tvg-id="TWCL" tvc-guide-stationid="16712",Weather Channel Latin America
+http://example.local/PRI-TWCL.ts
 #EXTINF:-1 tvg-chno="72413" tvg-name="Weather Nation TV" tvg-logo="https://zap2it.tmsimg.com/assets/s72413_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="WTHRNAT" tvc-guide-stationid="72413",Weather Nation TV
 http://example.local/PRI-WTHRNAT.ts
+#EXTINF:-1 tvg-chno="15611" tvg-name="WECN Canal 64" group-title="Puerto Rico" tvg-id="WECN" tvc-guide-stationid="15611",WECN Canal 64
+http://example.local/PRI-WECN.ts
 #EXTINF:-1 tvg-chno="63976" tvg-name="WECN-DT" group-title="Puerto Rico" tvg-id="WECNDT" tvc-guide-stationid="63976",WECN-DT
 http://example.local/PRI-WECNDT.ts
 #EXTINF:-1 tvg-chno="15602" tvg-name="WELU" group-title="Puerto Rico" tvg-id="WELU" tvc-guide-stationid="15602",WELU
 http://example.local/PRI-WELU.ts
 #EXTINF:-1 tvg-chno="63993" tvg-name="WELU-DT" group-title="Puerto Rico" tvg-id="WELUDT" tvc-guide-stationid="63993",WELU-DT
 http://example.local/PRI-WELUDT.ts
+#EXTINF:-1 tvg-chno="11349" tvg-name="WFOR (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="WFOR" tvc-guide-stationid="11349",WFOR (CBS)
+http://example.local/PRI-WFOR.ts
 #EXTINF:-1 tvg-chno="11474" tvg-name="WGN (Chicago) (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s51306_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="WGN" tvc-guide-stationid="11474",WGN (Chicago) (CW)
 http://example.local/PRI-WGN.ts
+#EXTINF:-1 tvg-chno="15612" tvg-name="WIDP TV Tele-Triunfo Canal 46" group-title="Puerto Rico" tvg-id="WIDP" tvc-guide-stationid="15612",WIDP TV Tele-Triunfo Canal 46
+http://example.local/PRI-WIDP.ts
 #EXTINF:-1 tvg-chno="63793" tvg-name="WIDP-DT" group-title="Puerto Rico" tvg-id="WIDPDT" tvc-guide-stationid="63793",WIDP-DT
 http://example.local/PRI-WIDPDT.ts
 #EXTINF:-1 tvg-chno="75940" tvg-name="WIDP-DT2" group-title="Puerto Rico" tvg-id="WIDPDT2" tvc-guide-stationid="75940",WIDP-DT2
@@ -1029,7 +1319,9 @@ http://example.local/PRI-WIPRDT4.ts
 http://example.local/PRI-WIRS.ts
 #EXTINF:-1 tvg-chno="63999" tvg-name="WIRS-DT (SBND)" tvg-logo="https://zap2it.tmsimg.com/assets/s67676_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="WIRSDT" tvc-guide-stationid="63999",WIRS-DT (SBND)
 http://example.local/PRI-WIRSDT.ts
-#EXTINF:-1 tvg-chno="35032" tvg-name="WJPX-DT (AMTEVE)" tvg-logo="https://zap2it.tmsimg.com/assets/s93459_h3_aa.png" group-title="Puerto Rico" tvg-id="WJPXDT" tvc-guide-stationid="35032",WJPX-DT (AMTEVE)
+#EXTINF:-1 tvg-chno="15623" tvg-name="WJPX Canal 24 MTV Puerto Rico (AMTEVE)" tvg-logo="https://zap2it.tmsimg.com/assets/s93459_ll_h9_aa.png" group-title="Puerto Rico" tvg-id="WJPX" tvc-guide-stationid="15623",WJPX Canal 24 MTV Puerto Rico (AMTEVE)
+http://example.local/PRI-WJPX.ts
+#EXTINF:-1 tvg-chno="35032" tvg-name="WJPX-DT (AMTEVE)" tvg-logo="https://zap2it.tmsimg.com/assets/s93459_ll_h9_aa.png" group-title="Puerto Rico" tvg-id="WJPXDT" tvc-guide-stationid="35032",WJPX-DT (AMTEVE)
 http://example.local/PRI-WJPXDT.ts
 #EXTINF:-1 tvg-chno="67831" tvg-name="WJPX-DT2 (SBND)" tvg-logo="https://zap2it.tmsimg.com/assets/s67676_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="WJPXDT2" tvc-guide-stationid="67831",WJPX-DT2 (SBND)
 http://example.local/PRI-WJPXDT2.ts
@@ -1051,27 +1343,35 @@ http://example.local/PRI-WKAQDT3.ts
 http://example.local/PRI-WKAQDT4.ts
 #EXTINF:-1 tvg-chno="35028" tvg-name="WKPV-DT (AMTEVE)" tvg-logo="https://zap2it.tmsimg.com/assets/s93459_ll_h9_aa.png" group-title="Puerto Rico" tvg-id="WKPVDT" tvc-guide-stationid="35028",WKPV-DT (AMTEVE)
 http://example.local/PRI-WKPVDT.ts
+#EXTINF:-1 tvg-chno="11624" tvg-name="WKRN (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="Puerto Rico" tvg-id="WKRN" tvc-guide-stationid="11624",WKRN (ABC)
+http://example.local/PRI-WKRN.ts
 #EXTINF:-1 tvg-chno="11626" tvg-name="WKTV (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_h3_aa.png" group-title="Puerto Rico" tvg-id="WKTV" tvc-guide-stationid="11626",WKTV (NBC)
 http://example.local/PRI-WKTV.ts
 #EXTINF:-1 tvg-chno="12569" tvg-name="WLII" tvg-logo="https://zap2it.tmsimg.com/assets/s43726_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="WLII" tvc-guide-stationid="12569",WLII
 http://example.local/PRI-WLII.ts
-#EXTINF:-1 tvg-chno="43726" tvg-name="WLII-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s43726_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="WLIIDT" tvc-guide-stationid="43726",WLII-DT
+#EXTINF:-1 tvg-chno="43726" tvg-name="WLII-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s43726_h3_aa.png" group-title="Puerto Rico" tvg-id="WLIIDT" tvc-guide-stationid="43726",WLII-DT
 http://example.local/PRI-WLIIDT.ts
-#EXTINF:-1 tvg-chno="119650" tvg-name="WLII-DT2 (UNIMAS)" tvg-logo="https://zap2it.tmsimg.com/assets/s29058_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="WLIIDT2" tvc-guide-stationid="119650",WLII-DT2 (UNIMAS)
+#EXTINF:-1 tvg-chno="119650" tvg-name="WLII-DT2" group-title="Puerto Rico" tvg-id="WLIIDT2" tvc-guide-stationid="119650",WLII-DT2
 http://example.local/PRI-WLIIDT2.ts
+#EXTINF:-1 tvg-chno="115396" tvg-name="WMNS-LD" group-title="Puerto Rico" tvg-id="WMNSLD" tvc-guide-stationid="115396",WMNS-LD
+http://example.local/PRI-WMNSLD.ts
+#EXTINF:-1 tvg-chno="15604" tvg-name="WMTJ (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="WMTJ" tvc-guide-stationid="15604",WMTJ (HD06)
+http://example.local/PRI-WMTJ.ts
 #EXTINF:-1 tvg-chno="63792" tvg-name="WMTJ-DT (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="WMTJDT" tvc-guide-stationid="63792",WMTJ-DT (PBS)
 http://example.local/PRI-WMTJDT.ts
 #EXTINF:-1 tvg-chno="88287" tvg-name="WMTJ-DT2 (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="WMTJDT2" tvc-guide-stationid="88287",WMTJ-DT2 (HD06)
 http://example.local/PRI-WMTJDT2.ts
-#EXTINF:-1 tvg-chno="11705" tvg-name="WNBC (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_h3_ba.png" group-title="Puerto Rico" tvg-id="WNBC" tvc-guide-stationid="11705",WNBC (NBC)
+#EXTINF:-1 tvg-chno="11705" tvg-name="WNBC (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="WNBC" tvc-guide-stationid="11705",WNBC (NBC)
 http://example.local/PRI-WNBC.ts
-#EXTINF:-1 tvg-chno="38702" tvg-name="WNBC 04 SATELLITE (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_h3_aa.png" group-title="Puerto Rico" tvg-id="WNBCSAT" tvc-guide-stationid="38702",WNBC 04 SATELLITE (NBC)
+#EXTINF:-1 tvg-chno="38702" tvg-name="WNBC 04 SATELLITE (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="WNBCSAT" tvc-guide-stationid="38702",WNBC 04 SATELLITE (NBC)
 http://example.local/PRI-WNBCSAT.ts
+#EXTINF:-1 tvg-chno="20459" tvg-name="WNBC-DT (NBC)" tvg-logo="https://logos.jesmann.com/wnbcdt.png" group-title="Puerto Rico" tvg-id="WNBCDT" tvc-guide-stationid="20459",WNBC-DT (NBC)
+http://example.local/PRI-WNBCDT.ts
 #EXTINF:-1 tvg-chno="35030" tvg-name="WNJX-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s63389_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="WNJXDT" tvc-guide-stationid="35030",WNJX-DT
 http://example.local/PRI-WNJXDT.ts
 #EXTINF:-1 tvg-chno="96114" tvg-name="WNJX-DT2" group-title="Puerto Rico" tvg-id="WNJXDT2" tvc-guide-stationid="96114",WNJX-DT2
 http://example.local/PRI-WNJXDT2.ts
-#EXTINF:-1 tvg-chno="116896" tvg-name="WNJX-DT4 (TELE)" tvg-logo="https://zap2it.tmsimg.com/assets/s10239_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="WNJXDT4" tvc-guide-stationid="116896",WNJX-DT4 (TELE)
+#EXTINF:-1 tvg-chno="116896" tvg-name="WNJX-DT4 (TELE)" tvg-logo="https://zap2it.tmsimg.com/assets/s10239_h3_aa.png" group-title="Puerto Rico" tvg-id="WNJXDT4" tvc-guide-stationid="116896",WNJX-DT4 (TELE)
 http://example.local/PRI-WNJXDT4.ts
 #EXTINF:-1 tvg-chno="116897" tvg-name="WNJX-DT5 (TELE)" tvg-logo="https://zap2it.tmsimg.com/assets/s10239_h3_aa.png" group-title="Puerto Rico" tvg-id="WNJXDT5" tvc-guide-stationid="116897",WNJX-DT5 (TELE)
 http://example.local/PRI-WNJXDT5.ts
@@ -1081,7 +1381,7 @@ http://example.local/PRI-WNYW.ts
 http://example.local/PRI-WOLEDT.ts
 #EXTINF:-1 tvg-chno="96989" tvg-name="WOLE-DT2" group-title="Puerto Rico" tvg-id="WOLEDT2" tvc-guide-stationid="96989",WOLE-DT2
 http://example.local/PRI-WOLEDT2.ts
-#EXTINF:-1 tvg-chno="15619" tvg-name="WORA (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="WORA" tvc-guide-stationid="15619",WORA (ABC)
+#EXTINF:-1 tvg-chno="15619" tvg-name="WORA (ABC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10003_h3_aa.png" group-title="Puerto Rico" tvg-id="WORA" tvc-guide-stationid="15619",WORA (ABC)
 http://example.local/PRI-WORA.ts
 #EXTINF:-1 tvg-chno="63808" tvg-name="WORA-DT (ABC)" tvg-logo="https://logos.jesmann.com/woradt.png" group-title="Puerto Rico" tvg-id="WORADT" tvc-guide-stationid="63808",WORA-DT (ABC)
 http://example.local/PRI-WORADT.ts
@@ -1105,7 +1405,11 @@ http://example.local/PRI-WOSTDT3.ts
 http://example.local/PRI-WOSTDT4.ts
 #EXTINF:-1 tvg-chno="125095" tvg-name="WOST-DT6 (BINGE2)" tvg-logo="https://zap2it.tmsimg.com/assets/s153592_ll_h9_aa.png" group-title="Puerto Rico" tvg-id="WOSTDT6" tvc-guide-stationid="125095",WOST-DT6 (BINGE2)
 http://example.local/PRI-WOSTDT6.ts
-#EXTINF:-1 tvg-chno="52399" tvg-name="WQTO-DT (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_h3_aa.png" group-title="Puerto Rico" tvg-id="WQTODT" tvc-guide-stationid="52399",WQTO-DT (HD06)
+#EXTINF:-1 tvg-chno="11779" tvg-name="WPIX (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s11779_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="WPIX" tvc-guide-stationid="11779",WPIX (CW)
+http://example.local/PRI-WPIX.ts
+#EXTINF:-1 tvg-chno="76043" tvg-name="WQSJ-CD" group-title="Puerto Rico" tvg-id="WQSJCD" tvc-guide-stationid="76043",WQSJ-CD
+http://example.local/PRI-WQSJCD.ts
+#EXTINF:-1 tvg-chno="52399" tvg-name="WQTO-DT (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="WQTODT" tvc-guide-stationid="52399",WQTO-DT (HD06)
 http://example.local/PRI-WQTODT.ts
 #EXTINF:-1 tvg-chno="88289" tvg-name="WQTO-DT2 (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="WQTODT2" tvc-guide-stationid="88289",WQTO-DT2 (HD06)
 http://example.local/PRI-WQTODT2.ts
@@ -1123,8 +1427,14 @@ http://example.local/PRI-WSEE.ts
 http://example.local/PRI-WSEEDT.ts
 #EXTINF:-1 tvg-chno="34045" tvg-name="WSEESAT (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="WSEESAT" tvc-guide-stationid="34045",WSEESAT (CBS)
 http://example.local/PRI-WSEESAT.ts
+#EXTINF:-1 tvg-chno="76033" tvg-name="WSJN-CD" group-title="Puerto Rico" tvg-id="WSJNCD" tvc-guide-stationid="76033",WSJN-CD
+http://example.local/PRI-WSJNCD.ts
 #EXTINF:-1 tvg-chno="90562" tvg-name="WSJP-LD (COZITV)" tvg-logo="https://zap2it.tmsimg.com/assets/s78851_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="WSJPLD" tvc-guide-stationid="90562",WSJP-LD (COZITV)
 http://example.local/PRI-WSJPLD.ts
+#EXTINF:-1 tvg-chno="92448" tvg-name="WSJP-LD2 (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s28719_ll_h15_ac.png" group-title="Puerto Rico" tvg-id="WSJPLD2" tvc-guide-stationid="92448",WSJP-LD2 (FOX)
+http://example.local/PRI-WSJPLD2.ts
+#EXTINF:-1 tvg-chno="85923" tvg-name="WSJPLP (Spanish) (COZITV)" tvg-logo="https://zap2it.tmsimg.com/assets/s78851_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="WSJPLPS" tvc-guide-stationid="85923",WSJPLP (Spanish) (COZITV)
+http://example.local/PRI-WSJPLPS.ts
 #EXTINF:-1 tvg-chno="15622" tvg-name="WSJU" group-title="Puerto Rico" tvg-id="WSJU" tvc-guide-stationid="15622",WSJU
 http://example.local/PRI-WSJU.ts
 #EXTINF:-1 tvg-chno="64057" tvg-name="WSJU-DT" group-title="Puerto Rico" tvg-id="WSJUDT" tvc-guide-stationid="64057",WSJU-DT
@@ -1147,6 +1457,10 @@ http://example.local/PRI-WSTEDT2.ts
 http://example.local/PRI-WSURDT.ts
 #EXTINF:-1 tvg-chno="119662" tvg-name="WSUR-DT2" group-title="Puerto Rico" tvg-id="WSURDT2" tvc-guide-stationid="119662",WSUR-DT2
 http://example.local/PRI-WSURDT2.ts
+#EXTINF:-1 tvg-chno="63816" tvg-name="WSVI-DT (ION)" tvg-logo="https://zap2it.tmsimg.com/assets/s18633_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="WSVIDT" tvc-guide-stationid="63816",WSVI-DT (ION)
+http://example.local/PRI-WSVIDT.ts
+#EXTINF:-1 tvg-chno="31999" tvg-name="WTCV" group-title="Puerto Rico" tvg-id="WTCV" tvc-guide-stationid="31999",WTCV
+http://example.local/PRI-WTCV.ts
 #EXTINF:-1 tvg-chno="48904" tvg-name="WTCV-DT (MEGAUS)" tvg-logo="https://zap2it.tmsimg.com/assets/s58698_ll_h9_aa.png" group-title="Puerto Rico" tvg-id="WTCVDT" tvc-guide-stationid="48904",WTCV-DT (MEGAUS)
 http://example.local/PRI-WTCVDT.ts
 #EXTINF:-1 tvg-chno="63810" tvg-name="WTIN-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s63389_h3_ba.png" group-title="Puerto Rico" tvg-id="WTINDT" tvc-guide-stationid="63810",WTIN-DT
@@ -1157,25 +1471,53 @@ http://example.local/PRI-WTINDT2.ts
 http://example.local/PRI-WTINDT4.ts
 #EXTINF:-1 tvg-chno="119451" tvg-name="WTIN-DT5 (TELE)" tvg-logo="https://zap2it.tmsimg.com/assets/s10239_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="WTINDT5" tvc-guide-stationid="119451",WTIN-DT5 (TELE)
 http://example.local/PRI-WTINDT5.ts
+#EXTINF:-1 tvg-chno="49241" tvg-name="WTJX-DT (PBS)" tvg-logo="https://logos.jesmann.com/wtjxdt.png" group-title="Puerto Rico" tvg-id="WTJXDT" tvc-guide-stationid="49241",WTJX-DT (PBS)
+http://example.local/PRI-WTJXDT.ts
+#EXTINF:-1 tvg-chno="49245" tvg-name="WTJX-DT2 (HD06)" tvg-logo="https://zap2it.tmsimg.com/assets/s101364_h3_aa.png" group-title="Puerto Rico" tvg-id="WTJXDT2" tvc-guide-stationid="49245",WTJX-DT2 (HD06)
+http://example.local/PRI-WTJXDT2.ts
+#EXTINF:-1 tvg-chno="49247" tvg-name="WTJX-DT3 (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="WTJXDT3" tvc-guide-stationid="49247",WTJX-DT3 (PBS)
+http://example.local/PRI-WTJXDT3.ts
+#EXTINF:-1 tvg-chno="11916" tvg-name="WTVJ (NBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10991_ll_h15_ad.png" group-title="Puerto Rico" tvg-id="WTVJ" tvc-guide-stationid="11916",WTVJ (NBC)
+http://example.local/PRI-WTVJ.ts
 #EXTINF:-1 tvg-chno="15626" tvg-name="WUJA Canal 58" group-title="Puerto Rico" tvg-id="WUJA" tvc-guide-stationid="15626",WUJA Canal 58
 http://example.local/PRI-WUJA.ts
+#EXTINF:-1 tvg-chno="64056" tvg-name="WUJA-DT" group-title="Puerto Rico" tvg-id="WUJADT" tvc-guide-stationid="64056",WUJA-DT
+http://example.local/PRI-WUJADT.ts
 #EXTINF:-1 tvg-chno="26583" tvg-name="WVEO" group-title="Puerto Rico" tvg-id="WVEO" tvc-guide-stationid="26583",WVEO
 http://example.local/PRI-WVEO.ts
 #EXTINF:-1 tvg-chno="63994" tvg-name="WVEO-DT (MEGAUS)" tvg-logo="https://zap2it.tmsimg.com/assets/s58698_ll_h9_aa.png" group-title="Puerto Rico" tvg-id="WVEODT" tvc-guide-stationid="63994",WVEO-DT (MEGAUS)
 http://example.local/PRI-WVEODT.ts
+#EXTINF:-1 tvg-chno="77909" tvg-name="WVGN-LD (NBC)" tvg-logo="https://logos.jesmann.com/wvgnld.png" group-title="Puerto Rico" tvg-id="WVGNLD" tvc-guide-stationid="77909",WVGN-LD (NBC)
+http://example.local/PRI-WVGNLD.ts
 #EXTINF:-1 tvg-chno="63997" tvg-name="WVOZ-DT (MEGAUS)" tvg-logo="https://zap2it.tmsimg.com/assets/s58698_ll_h9_aa.png" group-title="Puerto Rico" tvg-id="WVOZDT" tvc-guide-stationid="63997",WVOZ-DT (MEGAUS)
 http://example.local/PRI-WVOZDT.ts
+#EXTINF:-1 tvg-chno="76052" tvg-name="WVQS-LD" group-title="Puerto Rico" tvg-id="WVQSLD" tvc-guide-stationid="76052",WVQS-LD
+http://example.local/PRI-WVQSLD.ts
 #EXTINF:-1 tvg-chno="63794" tvg-name="WVSN-DT" tvg-logo="https://zap2it.tmsimg.com/assets/s63794_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="WVSNDT" tvc-guide-stationid="63794",WVSN-DT
 http://example.local/PRI-WVSNDT.ts
 #EXTINF:-1 tvg-chno="76055" tvg-name="WVSN-DT2" tvg-logo="https://zap2it.tmsimg.com/assets/s63794_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="WVSNDT2" tvc-guide-stationid="76055",WVSN-DT2
 http://example.local/PRI-WVSNDT2.ts
 #EXTINF:-1 tvg-chno="15656" tvg-name="WVXF (THIS)" tvg-logo="https://zap2it.tmsimg.com/assets/s61775_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="WVXF" tvc-guide-stationid="15656",WVXF (THIS)
 http://example.local/PRI-WVXF.ts
+#EXTINF:-1 tvg-chno="63815" tvg-name="WVXF-DT (COZITV)" tvg-logo="https://zap2it.tmsimg.com/assets/s78851_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="WVXFDT" tvc-guide-stationid="63815",WVXF-DT (COZITV)
+http://example.local/PRI-WVXFDT.ts
+#EXTINF:-1 tvg-chno="86781" tvg-name="WVXF-DT2 (FOX)" tvg-logo="https://zap2it.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="WVXFDT2" tvc-guide-stationid="86781",WVXF-DT2 (FOX)
+http://example.local/PRI-WVXFDT2.ts
+#EXTINF:-1 tvg-chno="76031" tvg-name="WWXY-LD" tvg-logo="https://zap2it.tmsimg.com/assets/s76031_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="WWXYLD" tvc-guide-stationid="76031",WWXY-LD
+http://example.local/PRI-WWXYLD.ts
 #EXTINF:-1 tvg-chno="37163" tvg-name="WXWZ-LP" group-title="Puerto Rico" tvg-id="WXWZLP" tvc-guide-stationid="37163",WXWZ-LP
 http://example.local/PRI-WXWZLP.ts
+#EXTINF:-1 tvg-chno="26130" tvg-name="XEFB" tvg-logo="https://zap2it.tmsimg.com/assets/s26130_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="XEFB" tvc-guide-stationid="26130",XEFB
+http://example.local/PRI-XEFB.ts
 #EXTINF:-1 tvg-chno="16465" tvg-name="XHDF" tvg-logo="https://zap2it.tmsimg.com/assets/s79968_ll_h15_af.png" group-title="Puerto Rico" tvg-id="DXHDF" tvc-guide-stationid="16465",XHDF
 http://example.local/PRI-DXHDF.ts
-#EXTINF:-1 tvg-chno="104893" tvg-name="XHDF Azteca Uno" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_h3_aa.png" group-title="Puerto Rico" tvg-id="AZUNOHD" tvc-guide-stationid="104893",XHDF Azteca Uno
+#EXTINF:-1 tvg-chno="24519" tvg-name="XHDF (Azteca Uno) (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="XHDF" tvc-guide-stationid="24519",XHDF (Azteca Uno) (AZ1NET)
+http://example.local/PRI-XHDF.ts
+#EXTINF:-1 tvg-chno="104893" tvg-name="XHDF Azteca Uno" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png" group-title="Puerto Rico" tvg-id="AZUNOHD" tvc-guide-stationid="104893",XHDF Azteca Uno
 http://example.local/PRI-AZUNOHD.ts
 #EXTINF:-1 tvg-chno="16315" tvg-name="Xtsy-New Frontier" tvg-logo="https://zap2it.tmsimg.com/assets/s16315_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="XTSY" tvc-guide-stationid="16315",Xtsy-New Frontier
 http://example.local/PRI-XTSY.ts
+#EXTINF:-1 tvg-chno="24634" tvg-name="ZAP2IT" tvg-logo="https://zap2it.tmsimg.com/assets/s24634_ll_h15_aa.png" group-title="Puerto Rico" tvg-id="ZAP2IT" tvc-guide-stationid="24634",ZAP2IT
+http://example.local/PRI-ZAP2IT.ts
+#EXTINF:-1 tvg-chno="49331" tvg-name="ZAP2IT en Español" group-title="Puerto Rico" tvg-id="SZAP2IT" tvc-guide-stationid="49331",ZAP2IT en Español
+http://example.local/PRI-SZAP2IT.ts

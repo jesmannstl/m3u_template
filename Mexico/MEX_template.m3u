@@ -21,22 +21,22 @@ http://example.local/MEX-ABCESHD.ts
 http://example.local/MEX-ACTOL.ts
 #EXTINF:-1 tvg-chno="105654" tvg-name="ACUSTIK TV" group-title="Mexico" tvg-id="ACUSTIK" tvc-guide-stationid="105654",ACUSTIK TV
 http://example.local/MEX-ACUSTIK.ts
-#EXTINF:-1 tvg-chno="114349" tvg-name="ADN 40" tvg-logo="https://zap2it.tmsimg.com/assets/s15384_h3_ba.png" group-title="Mexico" tvg-id="ADN40ID" tvc-guide-stationid="114349",ADN 40
-http://example.local/MEX-ADN40ID.ts
 #EXTINF:-1 tvg-chno="32279" tvg-name="ADN 40 (ADNNOT)" tvg-logo="https://zap2it.tmsimg.com/assets/s15384_h3_ba.png" group-title="Mexico" tvg-id="XHTVM" tvc-guide-stationid="32279",ADN 40 (ADNNOT)
 http://example.local/MEX-XHTVM.ts
-#EXTINF:-1 tvg-chno="15384" tvg-name="ADN Noticias" tvg-logo="https://zap2it.tmsimg.com/assets/s15384_h3_ba.png" group-title="Mexico" tvg-id="ADNNOT" tvc-guide-stationid="15384",ADN Noticias
+#EXTINF:-1 tvg-chno="114349" tvg-name="ADN 40" tvg-logo="https://zap2it.tmsimg.com/assets/s15384_h3_ba.png" group-title="Mexico" tvg-id="ADN40ID" tvc-guide-stationid="114349",ADN 40
+http://example.local/MEX-ADN40ID.ts
+#EXTINF:-1 tvg-chno="15384" tvg-name="ADN Noticias" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002BFC89.png" group-title="Mexico" tvg-id="ADNNOT" tvc-guide-stationid="15384",ADN Noticias
 http://example.local/MEX-ADNNOT.ts
 #EXTINF:-1 tvg-chno="75278" tvg-name="ADN Noticias HD" tvg-logo="https://zap2it.tmsimg.com/assets/s15384_h3_ba.png" group-title="Mexico" tvg-id="ADNNOTHD" tvc-guide-stationid="75278",ADN Noticias HD
 http://example.local/MEX-ADNNOTHD.ts
-#EXTINF:-1 tvg-chno="83166" tvg-name="Adrenalina Sports Network" tvg-logo="https://zap2it.tmsimg.com/assets/s83162_h3_aa.png" group-title="Mexico" tvg-id="ADRESNH" tvc-guide-stationid="83166",Adrenalina Sports Network
-http://example.local/MEX-ADRESNH.ts
 #EXTINF:-1 tvg-chno="83162" tvg-name="Adrenalina Sports Network" tvg-logo="https://zap2it.tmsimg.com/assets/s83162_ll_h15_ad.png" group-title="Mexico" tvg-id="ADRESN" tvc-guide-stationid="83162",Adrenalina Sports Network
 http://example.local/MEX-ADRESN.ts
-#EXTINF:-1 tvg-chno="68223" tvg-name="Adult Swim" tvg-logo="https://zap2it.tmsimg.com/assets/s68223_ll_h15_ad.png" group-title="Mexico" tvg-id="ADSLAHD" tvc-guide-stationid="68223",Adult Swim
-http://example.local/MEX-ADSLAHD.ts
+#EXTINF:-1 tvg-chno="83166" tvg-name="Adrenalina Sports Network" tvg-logo="https://zap2it.tmsimg.com/assets/s83162_h3_aa.png" group-title="Mexico" tvg-id="ADRESNH" tvc-guide-stationid="83166",Adrenalina Sports Network
+http://example.local/MEX-ADRESNH.ts
 #EXTINF:-1 tvg-chno="16496" tvg-name="Adult Swim" tvg-logo="https://zap2it.tmsimg.com/assets/s16496_ll_h15_ad.png" group-title="Mexico" tvg-id="ADSLA" tvc-guide-stationid="16496",Adult Swim
 http://example.local/MEX-ADSLA.ts
+#EXTINF:-1 tvg-chno="68223" tvg-name="Adult Swim" tvg-logo="https://zap2it.tmsimg.com/assets/s68223_ll_h15_ad.png" group-title="Mexico" tvg-id="ADSLAHD" tvc-guide-stationid="68223",Adult Swim
+http://example.local/MEX-ADSLAHD.ts
 #EXTINF:-1 tvg-chno="148503" tvg-name="Adult Swim" tvg-logo="https://zap2it.tmsimg.com/assets/s148503_ll_h15_aa.png" group-title="Mexico" tvg-id="ADSMX" tvc-guide-stationid="148503",Adult Swim
 http://example.local/MEX-ADSMX.ts
 #EXTINF:-1 tvg-chno="108507" tvg-name="Afizzionados HD" tvg-logo="https://zap2it.tmsimg.com/assets/s108506_h3_aa.png" group-title="Mexico" tvg-id="AFIZZHD" tvc-guide-stationid="108507",Afizzionados HD
@@ -47,10 +47,10 @@ http://example.local/MEX-AFIHDID.ts
 http://example.local/MEX-AFIZZSD.ts
 #EXTINF:-1 tvg-chno="47605" tvg-name="Aguascalientes TV" group-title="Mexico" tvg-id="AGUASC" tvc-guide-stationid="47605",Aguascalientes TV
 http://example.local/MEX-AGUASC.ts
-#EXTINF:-1 tvg-chno="123734" tvg-name="Al Jazeera" tvg-logo="https://zap2it.tmsimg.com/assets/s27136_ll_h15_aa.png" group-title="Mexico" tvg-id="ALJAZMX" tvc-guide-stationid="123734",Al Jazeera
-http://example.local/MEX-ALJAZMX.ts
 #EXTINF:-1 tvg-chno="111165" tvg-name="Al Jazeera" tvg-logo="https://zap2it.tmsimg.com/assets/s49968_ll_h15_ac.png" group-title="Mexico" tvg-id="ALJALA" tvc-guide-stationid="111165",Al Jazeera
 http://example.local/MEX-ALJALA.ts
+#EXTINF:-1 tvg-chno="123734" tvg-name="Al Jazeera" tvg-logo="https://zap2it.tmsimg.com/assets/s27136_ll_h15_aa.png" group-title="Mexico" tvg-id="ALJAZMX" tvc-guide-stationid="123734",Al Jazeera
+http://example.local/MEX-ALJAZMX.ts
 #EXTINF:-1 tvg-chno="102458" tvg-name="Al Jazeera HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49968_ll_h15_ac.png" group-title="Mexico" tvg-id="ALJZHDI" tvc-guide-stationid="102458",Al Jazeera HD
 http://example.local/MEX-ALJZHDI.ts
 #EXTINF:-1 tvg-chno="90653" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="Mexico" tvg-id="AMCMEX" tvc-guide-stationid="90653",AMC
@@ -71,56 +71,56 @@ http://example.local/MEX-NAMBR.ts
 http://example.local/MEX-AMORR.ts
 #EXTINF:-1 tvg-chno="123882" tvg-name="Amores Verdaderos" tvg-logo="https://zap2it.tmsimg.com/assets/s123882_ll_h15_ab.png" group-title="Mexico" tvg-id="AMOVE" tvc-guide-stationid="123882",Amores Verdaderos
 http://example.local/MEX-AMOVE.ts
-#EXTINF:-1 tvg-chno="102994" tvg-name="América TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s16395_h3_aa.png" group-title="Mexico" tvg-id="AMETVHD" tvc-guide-stationid="102994",América TV HD
+#EXTINF:-1 tvg-chno="102994" tvg-name="América TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s16395_ll_h15_ac.png" group-title="Mexico" tvg-id="AMETVHD" tvc-guide-stationid="102994",América TV HD
 http://example.local/MEX-AMETVHD.ts
 #EXTINF:-1 tvg-chno="123947" tvg-name="Angelique" tvg-logo="https://zap2it.tmsimg.com/assets/s123947_ll_h15_ad.png" group-title="Mexico" tvg-id="ANGELQA" tvc-guide-stationid="123947",Angelique
 http://example.local/MEX-ANGELQA.ts
-#EXTINF:-1 tvg-chno="46162" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Mexico" tvg-id="ESANIMAL" tvc-guide-stationid="46162",Animal Planet
-http://example.local/MEX-ESANIMAL.ts
 #EXTINF:-1 tvg-chno="96445" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Mexico" tvg-id="ANIPLMX" tvc-guide-stationid="96445",Animal Planet
 http://example.local/MEX-ANIPLMX.ts
 #EXTINF:-1 tvg-chno="107374" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Mexico" tvg-id="APMXHD" tvc-guide-stationid="107374",Animal Planet
 http://example.local/MEX-APMXHD.ts
 #EXTINF:-1 tvg-chno="18649" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Mexico" tvg-id="ANIPL" tvc-guide-stationid="18649",Animal Planet
 http://example.local/MEX-ANIPL.ts
+#EXTINF:-1 tvg-chno="46162" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Mexico" tvg-id="ESANIMAL" tvc-guide-stationid="46162",Animal Planet
+http://example.local/MEX-ESANIMAL.ts
 #EXTINF:-1 tvg-chno="110618" tvg-name="Animal Planet HD" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Mexico" tvg-id="ANIPLAH" tvc-guide-stationid="110618",Animal Planet HD
 http://example.local/MEX-ANIPLAH.ts
 #EXTINF:-1 tvg-chno="90309" tvg-name="Antena 3" tvg-logo="https://zap2it.tmsimg.com/assets/s90309_ll_h9_ab.png" group-title="Mexico" tvg-id="ANTENA3" tvc-guide-stationid="90309",Antena 3
 http://example.local/MEX-ANTENA3.ts
-#EXTINF:-1 tvg-chno="83230" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s83230_ll_h9_aa.png" group-title="Mexico" tvg-id="ANT3IHD" tvc-guide-stationid="83230",Antena 3 Internacional
-http://example.local/MEX-ANT3IHD.ts
 #EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Mexico" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
 http://example.local/MEX-ANT3I.ts
-#EXTINF:-1 tvg-chno="199955" tvg-name="Apostarias por mi: Baños" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Mexico" tvg-id="APPMBA" tvc-guide-stationid="199955",Apostarias por mi: Baños
+#EXTINF:-1 tvg-chno="83230" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s83230_ll_h9_aa.png" group-title="Mexico" tvg-id="ANT3IHD" tvc-guide-stationid="83230",Antena 3 Internacional
+http://example.local/MEX-ANT3IHD.ts
+#EXTINF:-1 tvg-chno="199955" tvg-name="Apostarias por mi: Baños" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N96KD.png" group-title="Mexico" tvg-id="APPMBA" tvc-guide-stationid="199955",Apostarias por mi: Baños
 http://example.local/MEX-APPMBA.ts
-#EXTINF:-1 tvg-chno="199956" tvg-name="Apostarias por mi: Cocina" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_ba.png" group-title="Mexico" tvg-id="APPMCO" tvc-guide-stationid="199956",Apostarias por mi: Cocina
+#EXTINF:-1 tvg-chno="199956" tvg-name="Apostarias por mi: Cocina" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N96ED.png" group-title="Mexico" tvg-id="APPMCO" tvc-guide-stationid="199956",Apostarias por mi: Cocina
 http://example.local/MEX-APPMCO.ts
-#EXTINF:-1 tvg-chno="199951" tvg-name="Apostarias por mi: Conexión Total 24/7" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Mexico" tvg-id="APPMCTM" tvc-guide-stationid="199951",Apostarias por mi: Conexión Total 24/7
+#EXTINF:-1 tvg-chno="199951" tvg-name="Apostarias por mi: Conexión Total 24/7" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N96JS.png" group-title="Mexico" tvg-id="APPMCTM" tvc-guide-stationid="199951",Apostarias por mi: Conexión Total 24/7
 http://example.local/MEX-APPMCTM.ts
-#EXTINF:-1 tvg-chno="199953" tvg-name="Apostarias por mi: Habitación Corazón" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Mexico" tvg-id="APPMHC" tvc-guide-stationid="199953",Apostarias por mi: Habitación Corazón
+#EXTINF:-1 tvg-chno="199953" tvg-name="Apostarias por mi: Habitación Corazón" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N972W.png" group-title="Mexico" tvg-id="APPMHC" tvc-guide-stationid="199953",Apostarias por mi: Habitación Corazón
 http://example.local/MEX-APPMHC.ts
-#EXTINF:-1 tvg-chno="199954" tvg-name="Apostarias por mi: Habitación Trébol" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Mexico" tvg-id="APPMHT" tvc-guide-stationid="199954",Apostarias por mi: Habitación Trébol
+#EXTINF:-1 tvg-chno="199954" tvg-name="Apostarias por mi: Habitación Trébol" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N9764.png" group-title="Mexico" tvg-id="APPMHT" tvc-guide-stationid="199954",Apostarias por mi: Habitación Trébol
 http://example.local/MEX-APPMHT.ts
-#EXTINF:-1 tvg-chno="199958" tvg-name="Apostarias por mi: Multicámaras" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" group-title="Mexico" tvg-id="APPMMU" tvc-guide-stationid="199958",Apostarias por mi: Multicámaras
+#EXTINF:-1 tvg-chno="199958" tvg-name="Apostarias por mi: Multicámaras" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N979R.png" group-title="Mexico" tvg-id="APPMMU" tvc-guide-stationid="199958",Apostarias por mi: Multicámaras
 http://example.local/MEX-APPMMU.ts
-#EXTINF:-1 tvg-chno="199957" tvg-name="Apostarias por mi: Sala" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" group-title="Mexico" tvg-id="APPMSA" tvc-guide-stationid="199957",Apostarias por mi: Sala
+#EXTINF:-1 tvg-chno="199957" tvg-name="Apostarias por mi: Sala" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N987T.png" group-title="Mexico" tvg-id="APPMSA" tvc-guide-stationid="199957",Apostarias por mi: Sala
 http://example.local/MEX-APPMSA.ts
-#EXTINF:-1 tvg-chno="199952" tvg-name="Apostarias por mi: Villa en Vivo" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Mexico" tvg-id="APPMVV" tvc-guide-stationid="199952",Apostarias por mi: Villa en Vivo
+#EXTINF:-1 tvg-chno="199952" tvg-name="Apostarias por mi: Villa en Vivo" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002N98K9.png" group-title="Mexico" tvg-id="APPMVV" tvc-guide-stationid="199952",Apostarias por mi: Villa en Vivo
 http://example.local/MEX-APPMVV.ts
 #EXTINF:-1 tvg-chno="87915" tvg-name="Aprende+" tvg-logo="https://zap2it.tmsimg.com/assets/s87915_ll_h15_ab.png" group-title="Mexico" tvg-id="APRENMAS" tvc-guide-stationid="87915",Aprende+
 http://example.local/MEX-APRENMAS.ts
 #EXTINF:-1 tvg-chno="123964" tvg-name="Aquí y Ahora" tvg-logo="https://zap2it.tmsimg.com/assets/s123964_ll_h15_ab.png" group-title="Mexico" tvg-id="AYAA" tvc-guide-stationid="123964",Aquí y Ahora
 http://example.local/MEX-AYAA.ts
-#EXTINF:-1 tvg-chno="120581" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Mexico" tvg-id="ARANGSP" tvc-guide-stationid="120581",Arirang
-http://example.local/MEX-ARANGSP.ts
 #EXTINF:-1 tvg-chno="28452" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Mexico" tvg-id="ARANG" tvc-guide-stationid="28452",Arirang
 http://example.local/MEX-ARANG.ts
+#EXTINF:-1 tvg-chno="120581" tvg-name="Arirang" tvg-logo="https://zap2it.tmsimg.com/assets/s28452_ll_h15_aa.png" group-title="Mexico" tvg-id="ARANGSP" tvc-guide-stationid="120581",Arirang
+http://example.local/MEX-ARANGSP.ts
 #EXTINF:-1 tvg-chno="36250" tvg-name="ARTS" group-title="Mexico" tvg-id="ARTST" tvc-guide-stationid="36250",ARTS
 http://example.local/MEX-ARTST.ts
-#EXTINF:-1 tvg-chno="111412" tvg-name="Atrescine" tvg-logo="https://zap2it.tmsimg.com/assets/s82808_ll_h15_aa.png" group-title="Mexico" tvg-id="A3CI" tvc-guide-stationid="111412",Atrescine
-http://example.local/MEX-A3CI.ts
 #EXTINF:-1 tvg-chno="82808" tvg-name="Atrescine" tvg-logo="https://zap2it.tmsimg.com/assets/s82808_ll_h15_aa.png" group-title="Mexico" tvg-id="A3CINE" tvc-guide-stationid="82808",Atrescine
 http://example.local/MEX-A3CINE.ts
+#EXTINF:-1 tvg-chno="111412" tvg-name="Atrescine" tvg-logo="https://zap2it.tmsimg.com/assets/s82808_ll_h15_aa.png" group-title="Mexico" tvg-id="A3CI" tvc-guide-stationid="111412",Atrescine
+http://example.local/MEX-A3CI.ts
 #EXTINF:-1 tvg-chno="90898" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Mexico" tvg-id="ATRES" tvc-guide-stationid="90898",Atreseries
 http://example.local/MEX-ATRES.ts
 #EXTINF:-1 tvg-chno="90917" tvg-name="Atreseries" tvg-logo="https://zap2it.tmsimg.com/assets/s90917_ll_h15_ac.png" group-title="Mexico" tvg-id="ATRESSD" tvc-guide-stationid="90917",Atreseries
@@ -135,7 +135,7 @@ http://example.local/MEX-DLADULT.ts
 http://example.local/MEX-BLUESDL.ts
 #EXTINF:-1 tvg-chno="41758" tvg-name="AUDIO DLA CLASICOS INSTRUMENTALES" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png" group-title="Mexico" tvg-id="CLSINST" tvc-guide-stationid="41758",AUDIO DLA CLASICOS INSTRUMENTALES
 http://example.local/MEX-CLSINST.ts
-#EXTINF:-1 tvg-chno="37863" tvg-name="AUDIO DLA DANCE" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png" group-title="Mexico" tvg-id="DLADANC" tvc-guide-stationid="37863",AUDIO DLA DANCE
+#EXTINF:-1 tvg-chno="37863" tvg-name="AUDIO DLA DANCE" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png" group-title="Mexico" tvg-id="DLADANC" tvc-guide-stationid="37863",AUDIO DLA DANCE
 http://example.local/MEX-DLADANC.ts
 #EXTINF:-1 tvg-chno="39713" tvg-name="AUDIO DLA DISCO" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png" group-title="Mexico" tvg-id="DISCODL" tvc-guide-stationid="39713",AUDIO DLA DISCO
 http://example.local/MEX-DISCODL.ts
@@ -149,7 +149,7 @@ http://example.local/MEX-ORQUEST.ts
 http://example.local/MEX-GRVEDL.ts
 #EXTINF:-1 tvg-chno="38803" tvg-name="AUDIO DLA HOT HITS" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png" group-title="Mexico" tvg-id="DLAHOTH" tvc-guide-stationid="38803",AUDIO DLA HOT HITS
 http://example.local/MEX-DLAHOTH.ts
-#EXTINF:-1 tvg-chno="41524" tvg-name="AUDIO DLA INFANTIL EN INGLES" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png" group-title="Mexico" tvg-id="INFANTE" tvc-guide-stationid="41524",AUDIO DLA INFANTIL EN INGLES
+#EXTINF:-1 tvg-chno="41524" tvg-name="AUDIO DLA INFANTIL EN INGLES" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png" group-title="Mexico" tvg-id="INFANTE" tvc-guide-stationid="41524",AUDIO DLA INFANTIL EN INGLES
 http://example.local/MEX-INFANTE.ts
 #EXTINF:-1 tvg-chno="45138" tvg-name="Audio DLA Instrumentales Navidenos" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png" group-title="Mexico" tvg-id="INSTRN" tvc-guide-stationid="45138",Audio DLA Instrumentales Navidenos
 http://example.local/MEX-INSTRN.ts
@@ -157,9 +157,9 @@ http://example.local/MEX-INSTRN.ts
 http://example.local/MEX-JAZZLAT.ts
 #EXTINF:-1 tvg-chno="38149" tvg-name="AUDIO DLA LATINA" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png" group-title="Mexico" tvg-id="ALATINA" tvc-guide-stationid="38149",AUDIO DLA LATINA
 http://example.local/MEX-ALATINA.ts
-#EXTINF:-1 tvg-chno="39425" tvg-name="AUDIO DLA LOVE MUSIC" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png" group-title="Mexico" tvg-id="DLALOVE" tvc-guide-stationid="39425",AUDIO DLA LOVE MUSIC
+#EXTINF:-1 tvg-chno="39425" tvg-name="AUDIO DLA LOVE MUSIC" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png" group-title="Mexico" tvg-id="DLALOVE" tvc-guide-stationid="39425",AUDIO DLA LOVE MUSIC
 http://example.local/MEX-DLALOVE.ts
-#EXTINF:-1 tvg-chno="38805" tvg-name="AUDIO DLA MARIACHI" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png" group-title="Mexico" tvg-id="MARIACH" tvc-guide-stationid="38805",AUDIO DLA MARIACHI
+#EXTINF:-1 tvg-chno="38805" tvg-name="AUDIO DLA MARIACHI" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png" group-title="Mexico" tvg-id="MARIACH" tvc-guide-stationid="38805",AUDIO DLA MARIACHI
 http://example.local/MEX-MARIACH.ts
 #EXTINF:-1 tvg-chno="42609" tvg-name="Audio DLA Megatips Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png" group-title="Mexico" tvg-id="TIPHIT" tvc-guide-stationid="42609",Audio DLA Megatips Hits
 http://example.local/MEX-TIPHIT.ts
@@ -177,15 +177,15 @@ http://example.local/MEX-PIANODL.ts
 http://example.local/MEX-POWERHT.ts
 #EXTINF:-1 tvg-chno="54805" tvg-name="Audio DLA Reggaeton" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png" group-title="Mexico" tvg-id="REGTON" tvc-guide-stationid="54805",Audio DLA Reggaeton
 http://example.local/MEX-REGTON.ts
-#EXTINF:-1 tvg-chno="41305" tvg-name="AUDIO DLA RITMOS DEL CARIBE" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png" group-title="Mexico" tvg-id="CARIBE" tvc-guide-stationid="41305",AUDIO DLA RITMOS DEL CARIBE
+#EXTINF:-1 tvg-chno="41305" tvg-name="AUDIO DLA RITMOS DEL CARIBE" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png" group-title="Mexico" tvg-id="CARIBE" tvc-guide-stationid="41305",AUDIO DLA RITMOS DEL CARIBE
 http://example.local/MEX-CARIBE.ts
 #EXTINF:-1 tvg-chno="39964" tvg-name="AUDIO DLA ROCK CLÁSICO" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png" group-title="Mexico" tvg-id="ROCKCLS" tvc-guide-stationid="39964",AUDIO DLA ROCK CLÁSICO
 http://example.local/MEX-ROCKCLS.ts
 #EXTINF:-1 tvg-chno="39714" tvg-name="AUDIO DLA ROCK LATINO" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png" group-title="Mexico" tvg-id="ROCKLAT" tvc-guide-stationid="39714",AUDIO DLA ROCK LATINO
 http://example.local/MEX-ROCKLAT.ts
-#EXTINF:-1 tvg-chno="39715" tvg-name="AUDIO DLA ROCK PESADO" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png" group-title="Mexico" tvg-id="RCKPESA" tvc-guide-stationid="39715",AUDIO DLA ROCK PESADO
+#EXTINF:-1 tvg-chno="39715" tvg-name="AUDIO DLA ROCK PESADO" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png" group-title="Mexico" tvg-id="RCKPESA" tvc-guide-stationid="39715",AUDIO DLA ROCK PESADO
 http://example.local/MEX-RCKPESA.ts
-#EXTINF:-1 tvg-chno="37867" tvg-name="AUDIO DLA SALSA" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png" group-title="Mexico" tvg-id="DLASALS" tvc-guide-stationid="37867",AUDIO DLA SALSA
+#EXTINF:-1 tvg-chno="37867" tvg-name="AUDIO DLA SALSA" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png" group-title="Mexico" tvg-id="DLASALS" tvc-guide-stationid="37867",AUDIO DLA SALSA
 http://example.local/MEX-DLASALS.ts
 #EXTINF:-1 tvg-chno="41957" tvg-name="AUDIO DLA SALSA Y MERENGUE" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png" group-title="Mexico" tvg-id="SALSMER" tvc-guide-stationid="41957",AUDIO DLA SALSA Y MERENGUE
 http://example.local/MEX-SALSMER.ts
@@ -207,14 +207,14 @@ http://example.local/MEX-EXITO80.ts
 http://example.local/MEX-EXITO90.ts
 #EXTINF:-1 tvg-chno="41300" tvg-name="Audio DLA Éxitos En Español" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png" group-title="Mexico" tvg-id="EXITOES" tvc-guide-stationid="41300",Audio DLA Éxitos En Español
 http://example.local/MEX-EXITOES.ts
-#EXTINF:-1 tvg-chno="41080" tvg-name="Audio DLA Éxitos En Italiano" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png" group-title="Mexico" tvg-id="EXITOIT" tvc-guide-stationid="41080",Audio DLA Éxitos En Italiano
+#EXTINF:-1 tvg-chno="41080" tvg-name="Audio DLA Éxitos En Italiano" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png" group-title="Mexico" tvg-id="EXITOIT" tvc-guide-stationid="41080",Audio DLA Éxitos En Italiano
 http://example.local/MEX-EXITOIT.ts
 #EXTINF:-1 tvg-chno="40285" tvg-name="Audio DLA Éxitos Samba Y Pagode" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png" group-title="Mexico" tvg-id="SAMBAPA" tvc-guide-stationid="40285",Audio DLA Éxitos Samba Y Pagode
 http://example.local/MEX-SAMBAPA.ts
-#EXTINF:-1 tvg-chno="72534" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s72534_ll_h15_ab.png" group-title="Mexico" tvg-id="AXNHD" tvc-guide-stationid="72534",AXN
-http://example.local/MEX-AXNHD.ts
 #EXTINF:-1 tvg-chno="17484" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s17484_ll_h15_ab.png" group-title="Mexico" tvg-id="AXNL" tvc-guide-stationid="17484",AXN
 http://example.local/MEX-AXNL.ts
+#EXTINF:-1 tvg-chno="72534" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s72534_ll_h15_ab.png" group-title="Mexico" tvg-id="AXNHD" tvc-guide-stationid="72534",AXN
+http://example.local/MEX-AXNHD.ts
 #EXTINF:-1 tvg-chno="26083" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s17484_ll_h15_ab.png" group-title="Mexico" tvg-id="AXNARG" tvc-guide-stationid="26083",AXN
 http://example.local/MEX-AXNARG.ts
 #EXTINF:-1 tvg-chno="34863" tvg-name="AyM Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s34863_ll_h15_ab.png" group-title="Mexico" tvg-id="AYM" tvc-guide-stationid="34863",AyM Sports
@@ -239,7 +239,7 @@ http://example.local/MEX-AZTDEP.ts
 http://example.local/MEX-MUNDS.ts
 #EXTINF:-1 tvg-chno="79968" tvg-name="Azteca Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s79968_ll_h15_af.png" group-title="Mexico" tvg-id="AZINTL" tvc-guide-stationid="79968",Azteca Internacional
 http://example.local/MEX-AZINTL.ts
-#EXTINF:-1 tvg-chno="52628" tvg-name="Azteca uno (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png" group-title="Mexico" tvg-id="XHDFTDT" tvc-guide-stationid="52628",Azteca uno (AZ1NET)
+#EXTINF:-1 tvg-chno="52628" tvg-name="Azteca uno (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_h3_aa.png" group-title="Mexico" tvg-id="XHDFTDT" tvc-guide-stationid="52628",Azteca uno (AZ1NET)
 http://example.local/MEX-XHDFTDT.ts
 #EXTINF:-1 tvg-chno="46607" tvg-name="Azteca Uno (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s46607_ll_h15_aa.png" group-title="Mexico" tvg-id="AZDELAY" tvc-guide-stationid="46607",Azteca Uno (AZ1NET)
 http://example.local/MEX-AZDELAY.ts
@@ -259,10 +259,10 @@ http://example.local/MEX-BABYFS.ts
 http://example.local/MEX-BABY1AS.ts
 #EXTINF:-1 tvg-chno="50338" tvg-name="BabyFirst TV" tvg-logo="https://zap2it.tmsimg.com/assets/s50338_ll_h15_ab.png" group-title="Mexico" tvg-id="BABY1" tvc-guide-stationid="50338",BabyFirst TV
 http://example.local/MEX-BABY1.ts
-#EXTINF:-1 tvg-chno="109098" tvg-name="Bandamax" tvg-logo="https://zap2it.tmsimg.com/assets/s18101_ll_h15_ac.png" group-title="Mexico" tvg-id="BANDAHD" tvc-guide-stationid="109098",Bandamax
-http://example.local/MEX-BANDAHD.ts
 #EXTINF:-1 tvg-chno="18101" tvg-name="Bandamax" tvg-logo="https://zap2it.tmsimg.com/assets/s18101_ll_h15_ac.png" group-title="Mexico" tvg-id="BANDA" tvc-guide-stationid="18101",Bandamax
 http://example.local/MEX-BANDA.ts
+#EXTINF:-1 tvg-chno="109098" tvg-name="Bandamax" tvg-logo="https://zap2it.tmsimg.com/assets/s18101_ll_h15_ac.png" group-title="Mexico" tvg-id="BANDAHD" tvc-guide-stationid="109098",Bandamax
+http://example.local/MEX-BANDAHD.ts
 #EXTINF:-1 tvg-chno="123988" tvg-name="Baywatch" tvg-logo="https://zap2it.tmsimg.com/assets/s123988_ll_h15_aa.png" group-title="Mexico" tvg-id="BAYWA" tvc-guide-stationid="123988",Baywatch
 http://example.local/MEX-BAYWA.ts
 #EXTINF:-1 tvg-chno="138359" tvg-name="Baño" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002672KH.png" group-title="Mexico" tvg-id="BANO" tvc-guide-stationid="138359",Baño
@@ -275,14 +275,24 @@ http://example.local/MEX-BBCASPH.ts
 http://example.local/MEX-BBCWDNA.ts
 #EXTINF:-1 tvg-chno="122119" tvg-name="beIN SPORTS XTRA en Español" group-title="Mexico" tvg-id="VIZBSXT" tvc-guide-stationid="122119",beIN SPORTS XTRA en Español
 http://example.local/MEX-VIZBSXT.ts
-#EXTINF:-1 tvg-chno="111747" tvg-name="Bitme" tvg-logo="https://zap2it.tmsimg.com/assets/s72801_ll_h15_ab.png" group-title="Mexico" tvg-id="BITMEH" tvc-guide-stationid="111747",Bitme
-http://example.local/MEX-BITMEH.ts
 #EXTINF:-1 tvg-chno="72801" tvg-name="Bitme" tvg-logo="https://zap2it.tmsimg.com/assets/s72801_ll_h15_ab.png" group-title="Mexico" tvg-id="BITME" tvc-guide-stationid="72801",Bitme
 http://example.local/MEX-BITME.ts
+#EXTINF:-1 tvg-chno="111747" tvg-name="Bitme" tvg-logo="https://zap2it.tmsimg.com/assets/s72801_ll_h15_ab.png" group-title="Mexico" tvg-id="BITMEH" tvc-guide-stationid="111747",Bitme
+http://example.local/MEX-BITMEH.ts
 #EXTINF:-1 tvg-chno="114666" tvg-name="Bloomberg Business Television HD 4K" tvg-logo="https://zap2it.tmsimg.com/assets/s14755_ll_h15_ab.png" group-title="Mexico" tvg-id="BLOOM4K" tvc-guide-stationid="114666",Bloomberg Business Television HD 4K
 http://example.local/MEX-BLOOM4K.ts
 #EXTINF:-1 tvg-chno="84530" tvg-name="Bloomberg TV" tvg-logo="https://zap2it.tmsimg.com/assets/s14755_ll_h15_ab.png" group-title="Mexico" tvg-id="DBLMIS" tvc-guide-stationid="84530",Bloomberg TV
 http://example.local/MEX-DBLMIS.ts
+#EXTINF:-1 tvg-chno="79127" tvg-name="Boomerang" tvg-logo="https://zap2it.tmsimg.com/assets/s79127_ll_h15_aa.png" group-title="Mexico" tvg-id="BOOMF" tvc-guide-stationid="79127",Boomerang
+http://example.local/MEX-BOOMF.ts
+#EXTINF:-1 tvg-chno="21883" tvg-name="Boomerang" tvg-logo="https://zap2it.tmsimg.com/assets/s21883_ll_h15_ab.png" group-title="Mexico" tvg-id="BOOM" tvc-guide-stationid="21883",Boomerang
+http://example.local/MEX-BOOM.ts
+#EXTINF:-1 tvg-chno="158873" tvg-name="Boomerang" group-title="Mexico" tvg-id="INDBOO" tvc-guide-stationid="158873",Boomerang
+http://example.local/MEX-INDBOO.ts
+#EXTINF:-1 tvg-chno="83921" tvg-name="Boomerang" tvg-logo="https://zap2it.tmsimg.com/assets/s83921_ll_h15_aa.png" group-title="Mexico" tvg-id="BOOMITA" tvc-guide-stationid="83921",Boomerang
+http://example.local/MEX-BOOMITA.ts
+#EXTINF:-1 tvg-chno="170616" tvg-name="Boomerang" group-title="Mexico" tvg-id="BOOMEU" tvc-guide-stationid="170616",Boomerang
+http://example.local/MEX-BOOMEU.ts
 #EXTINF:-1 tvg-chno="75994" tvg-name="C5N" tvg-logo="https://zap2it.tmsimg.com/assets/s75994_ll_h15_aa.png" group-title="Mexico" tvg-id="C5NARG" tvc-guide-stationid="75994",C5N
 http://example.local/MEX-C5NARG.ts
 #EXTINF:-1 tvg-chno="51343" tvg-name="Cablevision Especial Channel" group-title="Mexico" tvg-id="CANALE" tvc-guide-stationid="51343",Cablevision Especial Channel
@@ -301,27 +311,11 @@ http://example.local/MEX-CABLEHD.ts
 http://example.local/MEX-CATR.ts
 #EXTINF:-1 tvg-chno="80064" tvg-name="Cali TV" tvg-logo="https://zap2it.tmsimg.com/assets/s80064_ll_h15_aa.png" group-title="Mexico" tvg-id="CALITV" tvc-guide-stationid="80064",Cali TV
 http://example.local/MEX-CALITV.ts
-#EXTINF:-1 tvg-chno="173704" tvg-name="Caliente TV 2" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027PVGS.png" group-title="Mexico" tvg-id="CALINTV2" tvc-guide-stationid="173704",Caliente TV 2
-http://example.local/MEX-CALINTV2.ts
-#EXTINF:-1 tvg-chno="173705" tvg-name="Caliente TV 3" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027PVGS.png" group-title="Mexico" tvg-id="CALINTV3" tvc-guide-stationid="173705",Caliente TV 3
-http://example.local/MEX-CALINTV3.ts
-#EXTINF:-1 tvg-chno="173738" tvg-name="Caliente TV 4" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027PVGS.png" group-title="Mexico" tvg-id="CALINTV4" tvc-guide-stationid="173738",Caliente TV 4
-http://example.local/MEX-CALINTV4.ts
-#EXTINF:-1 tvg-chno="173771" tvg-name="Caliente TV 5" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027PVGS.png" group-title="Mexico" tvg-id="CALINTV5" tvc-guide-stationid="173771",Caliente TV 5
-http://example.local/MEX-CALINTV5.ts
-#EXTINF:-1 tvg-chno="173804" tvg-name="Caliente TV 6" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027PVGS.png" group-title="Mexico" tvg-id="CALINTV6" tvc-guide-stationid="173804",Caliente TV 6
-http://example.local/MEX-CALINTV6.ts
-#EXTINF:-1 tvg-chno="173805" tvg-name="Caliente TV 7" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027PVGS.png" group-title="Mexico" tvg-id="CALINTV7" tvc-guide-stationid="173805",Caliente TV 7
-http://example.local/MEX-CALINTV7.ts
-#EXTINF:-1 tvg-chno="173806" tvg-name="Caliente TV 8" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027PVGS.png" group-title="Mexico" tvg-id="CALINTV8" tvc-guide-stationid="173806",Caliente TV 8
-http://example.local/MEX-CALINTV8.ts
-#EXTINF:-1 tvg-chno="173807" tvg-name="Caliente TV 9" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0027PVGS.png" group-title="Mexico" tvg-id="CALINTV9" tvc-guide-stationid="173807",Caliente TV 9
-http://example.local/MEX-CALINTV9.ts
 #EXTINF:-1 tvg-chno="106728" tvg-name="Canal (á) HD" tvg-logo="https://zap2it.tmsimg.com/assets/s18075_ll_h15_aa.png" group-title="Mexico" tvg-id="CANAHD" tvc-guide-stationid="106728",Canal (á) HD
 http://example.local/MEX-CANAHD.ts
 #EXTINF:-1 tvg-chno="55180" tvg-name="Canal 13 Colombia" tvg-logo="https://zap2it.tmsimg.com/assets/s55180_ll_h15_ah.png" group-title="Mexico" tvg-id="CAN13" tvc-guide-stationid="55180",Canal 13 Colombia
 http://example.local/MEX-CAN13.ts
-#EXTINF:-1 tvg-chno="90518" tvg-name="Canal 14" tvg-logo="https://zap2it.tmsimg.com/assets/s90518_h3_aa.png" group-title="Mexico" tvg-id="C14MX" tvc-guide-stationid="90518",Canal 14
+#EXTINF:-1 tvg-chno="90518" tvg-name="Canal 14" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0023XQ01.png" group-title="Mexico" tvg-id="C14MX" tvc-guide-stationid="90518",Canal 14
 http://example.local/MEX-C14MX.ts
 #EXTINF:-1 tvg-chno="92395" tvg-name="Canal 14 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90518_h3_aa.png" group-title="Mexico" tvg-id="C14MXHD" tvc-guide-stationid="92395",Canal 14 HD
 http://example.local/MEX-C14MXHD.ts
@@ -347,6 +341,8 @@ http://example.local/MEX-XHGC.ts
 http://example.local/MEX-CANL7.ts
 #EXTINF:-1 tvg-chno="110075" tvg-name="Canal 9" tvg-logo="https://zap2it.tmsimg.com/assets/s110075_ll_h15_aa.png" group-title="Mexico" tvg-id="CAN9M" tvc-guide-stationid="110075",Canal 9
 http://example.local/MEX-CAN9M.ts
+#EXTINF:-1 tvg-chno="97202" tvg-name="Canal Claro" tvg-logo="https://zap2it.tmsimg.com/assets/s79664_ll_h9_aa.png" group-title="Mexico" tvg-id="CCLARHD" tvc-guide-stationid="97202",Canal Claro
+http://example.local/MEX-CCLARHD.ts
 #EXTINF:-1 tvg-chno="20548" tvg-name="Canal del Congreso" tvg-logo="https://zap2it.tmsimg.com/assets/s20548_ll_h15_aa.png" group-title="Mexico" tvg-id="CONG" tvc-guide-stationid="20548",Canal del Congreso
 http://example.local/MEX-CONG.ts
 #EXTINF:-1 tvg-chno="81622" tvg-name="Canal DHE" tvg-logo="https://zap2it.tmsimg.com/assets/s81622_ll_h15_aa.png" group-title="Mexico" tvg-id="CNLDHE" tvc-guide-stationid="81622",Canal DHE
@@ -363,10 +359,10 @@ http://example.local/MEX-XEQ.ts
 http://example.local/MEX-XEIPN.ts
 #EXTINF:-1 tvg-chno="19385" tvg-name="Canal Sony" tvg-logo="https://zap2it.tmsimg.com/assets/s19385_ll_h15_ac.png" group-title="Mexico" tvg-id="SETLC" tvc-guide-stationid="19385",Canal Sony
 http://example.local/MEX-SETLC.ts
-#EXTINF:-1 tvg-chno="88517" tvg-name="Canal Sony" tvg-logo="https://zap2it.tmsimg.com/assets/s19385_ll_h15_ac.png" group-title="Mexico" tvg-id="SENTTVH" tvc-guide-stationid="88517",Canal Sony
-http://example.local/MEX-SENTTVH.ts
 #EXTINF:-1 tvg-chno="70312" tvg-name="Canal Sony" tvg-logo="https://zap2it.tmsimg.com/assets/s70312_ll_h15_ab.png" group-title="Mexico" tvg-id="SETLCHD" tvc-guide-stationid="70312",Canal Sony
 http://example.local/MEX-SETLCHD.ts
+#EXTINF:-1 tvg-chno="88517" tvg-name="Canal Sony" tvg-logo="https://zap2it.tmsimg.com/assets/s19385_ll_h15_ac.png" group-title="Mexico" tvg-id="SENTTVH" tvc-guide-stationid="88517",Canal Sony
+http://example.local/MEX-SENTTVH.ts
 #EXTINF:-1 tvg-chno="16211" tvg-name="Canal Sony" tvg-logo="https://zap2it.tmsimg.com/assets/s16211_ll_h15_ab.png" group-title="Mexico" tvg-id="SETL" tvc-guide-stationid="16211",Canal Sony
 http://example.local/MEX-SETL.ts
 #EXTINF:-1 tvg-chno="149755" tvg-name="Canal Vix US" tvg-logo="https://zap2it.tmsimg.com/assets/s149755_ll_h15_aa.png" group-title="Mexico" tvg-id="CAVIUS" tvc-guide-stationid="149755",Canal Vix US
@@ -385,22 +381,22 @@ http://example.local/MEX-CAPALA.ts
 http://example.local/MEX-CARAIHD.ts
 #EXTINF:-1 tvg-chno="39719" tvg-name="CARACOL INTERNATIONAL" tvg-logo="https://zap2it.tmsimg.com/assets/s39719_ll_h15_ab.png" group-title="Mexico" tvg-id="CARAI" tvc-guide-stationid="39719",CARACOL INTERNATIONAL
 http://example.local/MEX-CARAI.ts
-#EXTINF:-1 tvg-chno="100108" tvg-name="Cartoon Network" group-title="Mexico" tvg-id="STOONHD" tvc-guide-stationid="100108",Cartoon Network
-http://example.local/MEX-STOONHD.ts
 #EXTINF:-1 tvg-chno="16141" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Mexico" tvg-id="TOONL" tvc-guide-stationid="16141",Cartoon Network
 http://example.local/MEX-TOONL.ts
 #EXTINF:-1 tvg-chno="101735" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Mexico" tvg-id="TOONLHD" tvc-guide-stationid="101735",Cartoon Network
 http://example.local/MEX-TOONLHD.ts
-#EXTINF:-1 tvg-chno="19458" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Mexico" tvg-id="TOONLS" tvc-guide-stationid="19458",Cartoon Network
-http://example.local/MEX-TOONLS.ts
 #EXTINF:-1 tvg-chno="12631" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Mexico" tvg-id="TOONI" tvc-guide-stationid="12631",Cartoon Network
 http://example.local/MEX-TOONI.ts
+#EXTINF:-1 tvg-chno="19458" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Mexico" tvg-id="TOONLS" tvc-guide-stationid="19458",Cartoon Network
+http://example.local/MEX-TOONLS.ts
+#EXTINF:-1 tvg-chno="100108" tvg-name="Cartoon Network" group-title="Mexico" tvg-id="STOONHD" tvc-guide-stationid="100108",Cartoon Network
+http://example.local/MEX-STOONHD.ts
 #EXTINF:-1 tvg-chno="60048" tvg-name="Cartoon Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60048_ll_h15_ac.png" group-title="Mexico" tvg-id="TOONHD" tvc-guide-stationid="60048",Cartoon Network HD
 http://example.local/MEX-TOONHD.ts
-#EXTINF:-1 tvg-chno="108560" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Mexico" tvg-id="CARTHDP" tvc-guide-stationid="108560",Cartoonito
-http://example.local/MEX-CARTHDP.ts
 #EXTINF:-1 tvg-chno="55719" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Mexico" tvg-id="CARTOM" tvc-guide-stationid="55719",Cartoonito
 http://example.local/MEX-CARTOM.ts
+#EXTINF:-1 tvg-chno="108560" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Mexico" tvg-id="CARTHDP" tvc-guide-stationid="108560",Cartoonito
+http://example.local/MEX-CARTHDP.ts
 #EXTINF:-1 tvg-chno="10098" tvg-name="CBS Corporation (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="Mexico" tvg-id="CBS" tvc-guide-stationid="10098",CBS Corporation (CBS)
 http://example.local/MEX-CBS.ts
 #EXTINF:-1 tvg-chno="108080" tvg-name="CBS ESP HD (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="Mexico" tvg-id="CBSESHD" tvc-guide-stationid="108080",CBS ESP HD (CBS)
@@ -429,31 +425,33 @@ http://example.local/MEX-CINEREA.ts
 http://example.local/MEX-CCL.ts
 #EXTINF:-1 tvg-chno="67687" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Mexico" tvg-id="CCLHD" tvc-guide-stationid="67687",Cinecanal
 http://example.local/MEX-CCLHD.ts
-#EXTINF:-1 tvg-chno="105851" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Mexico" tvg-id="CANALHD" tvc-guide-stationid="105851",Cinecanal
-http://example.local/MEX-CANALHD.ts
 #EXTINF:-1 tvg-chno="104919" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Mexico" tvg-id="CINCHD" tvc-guide-stationid="104919",Cinecanal
 http://example.local/MEX-CINCHD.ts
 #EXTINF:-1 tvg-chno="70424" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Mexico" tvg-id="GIGACCL" tvc-guide-stationid="70424",Cinecanal
 http://example.local/MEX-GIGACCL.ts
 #EXTINF:-1 tvg-chno="82428" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Mexico" tvg-id="CINECC" tvc-guide-stationid="82428",Cinecanal
 http://example.local/MEX-CINECC.ts
-#EXTINF:-1 tvg-chno="105154" tvg-name="Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s95687_ll_h15_ad.png" group-title="Mexico" tvg-id="CINEMHD" tvc-guide-stationid="105154",Cinema
-http://example.local/MEX-CINEMHD.ts
+#EXTINF:-1 tvg-chno="105851" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Mexico" tvg-id="CANALHD" tvc-guide-stationid="105851",Cinecanal
+http://example.local/MEX-CANALHD.ts
 #EXTINF:-1 tvg-chno="95687" tvg-name="Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s95687_ll_h15_ad.png" group-title="Mexico" tvg-id="CINEM" tvc-guide-stationid="95687",Cinema
 http://example.local/MEX-CINEM.ts
-#EXTINF:-1 tvg-chno="16522" tvg-name="Cinema Platino" tvg-logo="https://zap2it.tmsimg.com/assets/s16522_h3_aa.png" group-title="Mexico" tvg-id="CINPLA" tvc-guide-stationid="16522",Cinema Platino
+#EXTINF:-1 tvg-chno="105154" tvg-name="Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s95687_ll_h15_ad.png" group-title="Mexico" tvg-id="CINEMHD" tvc-guide-stationid="105154",Cinema
+http://example.local/MEX-CINEMHD.ts
+#EXTINF:-1 tvg-chno="16522" tvg-name="Cinema Platino" tvg-logo="https://zap2it.tmsimg.com/assets/s16522_ll_h15_aa.png" group-title="Mexico" tvg-id="CINPLA" tvc-guide-stationid="16522",Cinema Platino
 http://example.local/MEX-CINPLA.ts
-#EXTINF:-1 tvg-chno="38486" tvg-name="Cinema Platino 2" tvg-logo="https://zap2it.tmsimg.com/assets/s16522_ll_h15_aa.png" group-title="Mexico" tvg-id="CINPL2" tvc-guide-stationid="38486",Cinema Platino 2
+#EXTINF:-1 tvg-chno="38486" tvg-name="Cinema Platino 2" tvg-logo="https://zap2it.tmsimg.com/assets/s16522_h3_aa.png" group-title="Mexico" tvg-id="CINPL2" tvc-guide-stationid="38486",Cinema Platino 2
 http://example.local/MEX-CINPL2.ts
 #EXTINF:-1 tvg-chno="47398" tvg-name="Cinema Platino Multiplex" tvg-logo="https://zap2it.tmsimg.com/assets/s16522_ll_h15_aa.png" group-title="Mexico" tvg-id="PLATMPX" tvc-guide-stationid="47398",Cinema Platino Multiplex
 http://example.local/MEX-PLATMPX.ts
-#EXTINF:-1 tvg-chno="70314" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Mexico" tvg-id="MAXPNAM" tvc-guide-stationid="70314",Cinemax
-http://example.local/MEX-MAXPNAM.ts
 #EXTINF:-1 tvg-chno="16794" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Mexico" tvg-id="CINELW" tvc-guide-stationid="16794",Cinemax
 http://example.local/MEX-CINELW.ts
+#EXTINF:-1 tvg-chno="70314" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Mexico" tvg-id="MAXPNAM" tvc-guide-stationid="70314",Cinemax
+http://example.local/MEX-MAXPNAM.ts
 #EXTINF:-1 tvg-chno="101730" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Mexico" tvg-id="CINELWH" tvc-guide-stationid="101730",Cinemax
 http://example.local/MEX-CINELWH.ts
-#EXTINF:-1 tvg-chno="78538" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_h3_aa.png" group-title="Mexico" tvg-id="MAXSUR" tvc-guide-stationid="78538",Cinemax
+#EXTINF:-1 tvg-chno="10120" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s10120_ll_h15_ab.png" group-title="Mexico" tvg-id="MAX" tvc-guide-stationid="10120",Cinemax
+http://example.local/MEX-MAX.ts
+#EXTINF:-1 tvg-chno="78538" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s16794_ll_h15_ab.png" group-title="Mexico" tvg-id="MAXSUR" tvc-guide-stationid="78538",Cinemax
 http://example.local/MEX-MAXSUR.ts
 #EXTINF:-1 tvg-chno="106727" tvg-name="Ciudad Magazine HD" tvg-logo="https://zap2it.tmsimg.com/assets/s16878_ll_h15_ab.png" group-title="Mexico" tvg-id="CMAGHD" tvc-guide-stationid="106727",Ciudad Magazine HD
 http://example.local/MEX-CMAGHD.ts
@@ -461,37 +459,37 @@ http://example.local/MEX-CMAGHD.ts
 http://example.local/MEX-CLAN.ts
 #EXTINF:-1 tvg-chno="97501" tvg-name="Claro Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s106711_ll_h15_aa.png" group-title="Mexico" tvg-id="CLACI" tvc-guide-stationid="97501",Claro Cinema
 http://example.local/MEX-CLACI.ts
-#EXTINF:-1 tvg-chno="106711" tvg-name="Claro Cinema HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106711_h3_ba.png" group-title="Mexico" tvg-id="CLACIHD" tvc-guide-stationid="106711",Claro Cinema HD
+#EXTINF:-1 tvg-chno="106711" tvg-name="Claro Cinema HD" tvg-logo="https://zap2it.tmsimg.com/assets/s106711_ll_h15_aa.png" group-title="Mexico" tvg-id="CLACIHD" tvc-guide-stationid="106711",Claro Cinema HD
 http://example.local/MEX-CLACIHD.ts
+#EXTINF:-1 tvg-chno="72291" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72291_ll_h15_ab.png" group-title="Mexico" tvg-id="CLAROSP" tvc-guide-stationid="72291",Claro Sports
+http://example.local/MEX-CLAROSP.ts
+#EXTINF:-1 tvg-chno="86779" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s86779_ll_h15_ab.png" group-title="Mexico" tvg-id="CLAJO4S" tvc-guide-stationid="86779",Claro Sports
+http://example.local/MEX-CLAJO4S.ts
+#EXTINF:-1 tvg-chno="115714" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72291_ll_h15_ab.png" group-title="Mexico" tvg-id="CLARDIH" tvc-guide-stationid="115714",Claro Sports
+http://example.local/MEX-CLARDIH.ts
+#EXTINF:-1 tvg-chno="115713" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72291_ll_h15_ab.png" group-title="Mexico" tvg-id="CLARDIS" tvc-guide-stationid="115713",Claro Sports
+http://example.local/MEX-CLARDIS.ts
 #EXTINF:-1 tvg-chno="87029" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s86779_ll_h15_ab.png" group-title="Mexico" tvg-id="CLARJO4" tvc-guide-stationid="87029",Claro Sports
 http://example.local/MEX-CLARJO4.ts
 #EXTINF:-1 tvg-chno="118938" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s119144_ll_h15_aa.png" group-title="Mexico" tvg-id="CLARJO3" tvc-guide-stationid="118938",Claro Sports
 http://example.local/MEX-CLARJO3.ts
 #EXTINF:-1 tvg-chno="118937" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s119143_ll_h15_aa.png" group-title="Mexico" tvg-id="CLARJO2" tvc-guide-stationid="118937",Claro Sports
 http://example.local/MEX-CLARJO2.ts
-#EXTINF:-1 tvg-chno="86779" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s86779_h3_ba.png" group-title="Mexico" tvg-id="CLAJO4S" tvc-guide-stationid="86779",Claro Sports
-http://example.local/MEX-CLAJO4S.ts
-#EXTINF:-1 tvg-chno="72291" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72291_ll_h15_ab.png" group-title="Mexico" tvg-id="CLAROSP" tvc-guide-stationid="72291",Claro Sports
-http://example.local/MEX-CLAROSP.ts
-#EXTINF:-1 tvg-chno="115713" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72291_ll_h15_ab.png" group-title="Mexico" tvg-id="CLARDIS" tvc-guide-stationid="115713",Claro Sports
-http://example.local/MEX-CLARDIS.ts
-#EXTINF:-1 tvg-chno="115714" tvg-name="Claro Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s72291_ll_h15_ab.png" group-title="Mexico" tvg-id="CLARDIH" tvc-guide-stationid="115714",Claro Sports
-http://example.local/MEX-CLARDIH.ts
 #EXTINF:-1 tvg-chno="16325" tvg-name="Classic Arts Showcase" tvg-logo="https://zap2it.tmsimg.com/assets/s16325_ll_h6_aa.png" group-title="Mexico" tvg-id="CAS" tvc-guide-stationid="16325",Classic Arts Showcase
 http://example.local/MEX-CAS.ts
-#EXTINF:-1 tvg-chno="111305" tvg-name="Clic" tvg-logo="https://zap2it.tmsimg.com/assets/s92197_ll_h15_ae.png" group-title="Mexico" tvg-id="AZCLICH" tvc-guide-stationid="111305",Clic
-http://example.local/MEX-AZCLICH.ts
 #EXTINF:-1 tvg-chno="92197" tvg-name="Clic" tvg-logo="https://zap2it.tmsimg.com/assets/s92197_ll_h15_ae.png" group-title="Mexico" tvg-id="AZCLIC" tvc-guide-stationid="92197",Clic
 http://example.local/MEX-AZCLIC.ts
+#EXTINF:-1 tvg-chno="111305" tvg-name="Clic" tvg-logo="https://zap2it.tmsimg.com/assets/s92197_ll_h15_ae.png" group-title="Mexico" tvg-id="AZCLICH" tvc-guide-stationid="111305",Clic
+http://example.local/MEX-AZCLICH.ts
 #EXTINF:-1 tvg-chno="89006" tvg-name="Club MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s89006_ll_h15_ac.png" group-title="Mexico" tvg-id="CLUBINT" tvc-guide-stationid="89006",Club MTV
 http://example.local/MEX-CLUBINT.ts
-#EXTINF:-1 tvg-chno="90330" tvg-name="Club MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s90330_ll_h15_aa.png" group-title="Mexico" tvg-id="CLMTVES" tvc-guide-stationid="90330",Club MTV
-http://example.local/MEX-CLMTVES.ts
 #EXTINF:-1 tvg-chno="24214" tvg-name="Club MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s24214_ll_h15_ae.png" group-title="Mexico" tvg-id="CLMTVUK" tvc-guide-stationid="24214",Club MTV
 http://example.local/MEX-CLMTVUK.ts
+#EXTINF:-1 tvg-chno="90330" tvg-name="Club MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s90330_ll_h15_aa.png" group-title="Mexico" tvg-id="CLMTVES" tvc-guide-stationid="90330",Club MTV
+http://example.local/MEX-CLMTVES.ts
 #EXTINF:-1 tvg-chno="25042" tvg-name="CM Canal de la Musica" tvg-logo="https://zap2it.tmsimg.com/assets/s25042_ll_h9_ab.png" group-title="Mexico" tvg-id="CM" tvc-guide-stationid="25042",CM Canal de la Musica
 http://example.local/MEX-CM.ts
-#EXTINF:-1 tvg-chno="58780" tvg-name="CNBC HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NF468.png" group-title="Mexico" tvg-id="CNBCHD" tvc-guide-stationid="58780",CNBC HD
+#EXTINF:-1 tvg-chno="58780" tvg-name="CNBC HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NF45H.png" group-title="Mexico" tvg-id="CNBCHD" tvc-guide-stationid="58780",CNBC HD
 http://example.local/MEX-CNBCHD.ts
 #EXTINF:-1 tvg-chno="27773" tvg-name="CNN en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png" group-title="Mexico" tvg-id="CNNEM" tvc-guide-stationid="27773",CNN en Español
 http://example.local/MEX-CNNEM.ts
@@ -521,6 +519,8 @@ http://example.local/MEX-COMCCE.ts
 http://example.local/MEX-COMCCEH.ts
 #EXTINF:-1 tvg-chno="123877" tvg-name="Como Dice el Dicho" tvg-logo="https://zap2it.tmsimg.com/assets/s123877_ll_h15_ab.png" group-title="Mexico" tvg-id="COMADA" tvc-guide-stationid="123877",Como Dice el Dicho
 http://example.local/MEX-COMADA.ts
+#EXTINF:-1 tvg-chno="67610" tvg-name="Concert Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s72020_ll_h15_aa.png" group-title="Mexico" tvg-id="CNCRTHD" tvc-guide-stationid="67610",Concert Channel
+http://example.local/MEX-CNCRTHD.ts
 #EXTINF:-1 tvg-chno="124064" tvg-name="COPS en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s124064_ll_h15_ab.png" group-title="Mexico" tvg-id="COPSE" tvc-guide-stationid="124064",COPS en Español
 http://example.local/MEX-COPSE.ts
 #EXTINF:-1 tvg-chno="61404" tvg-name="Corazón" tvg-logo="https://zap2it.tmsimg.com/assets/s61404_ll_h15_ad.png" group-title="Mexico" tvg-id="CORAZ" tvc-guide-stationid="61404",Corazón
@@ -547,10 +547,10 @@ http://example.local/MEX-DEPE2.ts
 http://example.local/MEX-DEPELC.ts
 #EXTINF:-1 tvg-chno="74016" tvg-name="De Pelicula Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s74016_ll_h15_ab.png" group-title="Mexico" tvg-id="DEPELPL" tvc-guide-stationid="74016",De Pelicula Plus
 http://example.local/MEX-DEPELPL.ts
-#EXTINF:-1 tvg-chno="117056" tvg-name="De Película" tvg-logo="https://zap2it.tmsimg.com/assets/s16288_h3_ba.png" group-title="Mexico" tvg-id="DEPLHD" tvc-guide-stationid="117056",De Película
-http://example.local/MEX-DEPLHD.ts
 #EXTINF:-1 tvg-chno="16288" tvg-name="De Película" tvg-logo="https://zap2it.tmsimg.com/assets/s16288_ll_h15_ac.png" group-title="Mexico" tvg-id="DEPEL" tvc-guide-stationid="16288",De Película
 http://example.local/MEX-DEPEL.ts
+#EXTINF:-1 tvg-chno="117056" tvg-name="De Película" tvg-logo="https://zap2it.tmsimg.com/assets/s16288_ll_h15_ac.png" group-title="Mexico" tvg-id="DEPLHD" tvc-guide-stationid="117056",De Película
+http://example.local/MEX-DEPLHD.ts
 #EXTINF:-1 tvg-chno="91771" tvg-name="DeporTV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s91771_ll_h9_aa.png" group-title="Mexico" tvg-id="DEPORHD" tvc-guide-stationid="91771",DeporTV HD
 http://example.local/MEX-DEPORHD.ts
 #EXTINF:-1 tvg-chno="169487" tvg-name="Derbez en Vix" tvg-logo="https://zap2it.tmsimg.com/assets/s157637_ll_h15_aa.png" group-title="Mexico" tvg-id="DBZVIXLT" tvc-guide-stationid="169487",Derbez en Vix
@@ -559,34 +559,34 @@ http://example.local/MEX-DBZVIXLT.ts
 http://example.local/MEX-DDWLAE.ts
 #EXTINF:-1 tvg-chno="25788" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="Mexico" tvg-id="DISCCH" tvc-guide-stationid="25788",Discovery Channel
 http://example.local/MEX-DISCCH.ts
-#EXTINF:-1 tvg-chno="96307" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_h3_aa.png" group-title="Mexico" tvg-id="DISCCHD" tvc-guide-stationid="96307",Discovery Channel
+#EXTINF:-1 tvg-chno="96307" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="Mexico" tvg-id="DISCCHD" tvc-guide-stationid="96307",Discovery Channel
 http://example.local/MEX-DISCCHD.ts
-#EXTINF:-1 tvg-chno="54195" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="Mexico" tvg-id="TDCLA" tvc-guide-stationid="54195",Discovery Channel
-http://example.local/MEX-TDCLA.ts
 #EXTINF:-1 tvg-chno="91515" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="Mexico" tvg-id="TDCLHD" tvc-guide-stationid="91515",Discovery Channel
 http://example.local/MEX-TDCLHD.ts
+#EXTINF:-1 tvg-chno="54195" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="Mexico" tvg-id="TDCLA" tvc-guide-stationid="54195",Discovery Channel
+http://example.local/MEX-TDCLA.ts
 #EXTINF:-1 tvg-chno="83573" tvg-name="Discovery Channel HD" tvg-logo="https://logos.jesmann.com/DSCGHD.png" group-title="Mexico" tvg-id="DSCGHD" tvc-guide-stationid="83573",Discovery Channel HD
 http://example.local/MEX-DSCGHD.ts
 #EXTINF:-1 tvg-chno="59582" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_ll_h15_ae.png" group-title="Mexico" tvg-id="DHEALM" tvc-guide-stationid="59582",Discovery Home & Health
 http://example.local/MEX-DHEALM.ts
-#EXTINF:-1 tvg-chno="76960" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s97571_h3_aa.png" group-title="Mexico" tvg-id="DHEALHD" tvc-guide-stationid="76960",Discovery Home & Health
-http://example.local/MEX-DHEALHD.ts
-#EXTINF:-1 tvg-chno="97928" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s97571_ll_h15_ab.png" group-title="Mexico" tvg-id="DHEAMHD" tvc-guide-stationid="97928",Discovery Home & Health
-http://example.local/MEX-DHEAMHD.ts
-#EXTINF:-1 tvg-chno="84492" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_ll_h15_ae.png" group-title="Mexico" tvg-id="DHEALAR" tvc-guide-stationid="84492",Discovery Home & Health
-http://example.local/MEX-DHEALAR.ts
-#EXTINF:-1 tvg-chno="91959" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s97571_h3_aa.png" group-title="Mexico" tvg-id="DHEALHE" tvc-guide-stationid="91959",Discovery Home & Health
-http://example.local/MEX-DHEALHE.ts
 #EXTINF:-1 tvg-chno="97571" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s97571_ll_h15_ab.png" group-title="Mexico" tvg-id="DHEALH" tvc-guide-stationid="97571",Discovery Home & Health
 http://example.local/MEX-DHEALH.ts
-#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_h3_aa.png" group-title="Mexico" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
+#EXTINF:-1 tvg-chno="97928" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s97571_ll_h15_ab.png" group-title="Mexico" tvg-id="DHEAMHD" tvc-guide-stationid="97928",Discovery Home & Health
+http://example.local/MEX-DHEAMHD.ts
+#EXTINF:-1 tvg-chno="76960" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s97571_ll_h15_ab.png" group-title="Mexico" tvg-id="DHEALHD" tvc-guide-stationid="76960",Discovery Home & Health
+http://example.local/MEX-DHEALHD.ts
+#EXTINF:-1 tvg-chno="91959" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s97571_ll_h15_ab.png" group-title="Mexico" tvg-id="DHEALHE" tvc-guide-stationid="91959",Discovery Home & Health
+http://example.local/MEX-DHEALHE.ts
+#EXTINF:-1 tvg-chno="84492" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_ll_h15_ae.png" group-title="Mexico" tvg-id="DHEALAR" tvc-guide-stationid="84492",Discovery Home & Health
+http://example.local/MEX-DHEALAR.ts
+#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Mexico" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
 http://example.local/MEX-DKNLM.ts
 #EXTINF:-1 tvg-chno="89909" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_h3_aa.png" group-title="Mexico" tvg-id="DKNLMHD" tvc-guide-stationid="89909",Discovery Kids
 http://example.local/MEX-DKNLMHD.ts
-#EXTINF:-1 tvg-chno="110960" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s48527_ll_h15_aa.png" group-title="Mexico" tvg-id="DSCIENH" tvc-guide-stationid="110960",Discovery Science
-http://example.local/MEX-DSCIENH.ts
 #EXTINF:-1 tvg-chno="46610" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s48527_ll_h15_aa.png" group-title="Mexico" tvg-id="DSCIENL" tvc-guide-stationid="46610",Discovery Science
 http://example.local/MEX-DSCIENL.ts
+#EXTINF:-1 tvg-chno="110960" tvg-name="Discovery Science" tvg-logo="https://zap2it.tmsimg.com/assets/s48527_ll_h15_aa.png" group-title="Mexico" tvg-id="DSCIENH" tvc-guide-stationid="110960",Discovery Science
+http://example.local/MEX-DSCIENH.ts
 #EXTINF:-1 tvg-chno="65940" tvg-name="Discovery Theater HD" tvg-logo="https://zap2it.tmsimg.com/assets/s65940_ll_h15_ab.png" group-title="Mexico" tvg-id="DTHLAHD" tvc-guide-stationid="65940",Discovery Theater HD
 http://example.local/MEX-DTHLAHD.ts
 #EXTINF:-1 tvg-chno="46608" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="Mexico" tvg-id="DTURBOL" tvc-guide-stationid="46608",Discovery Turbo
@@ -595,22 +595,22 @@ http://example.local/MEX-DTURBOL.ts
 http://example.local/MEX-DTRBLAH.ts
 #EXTINF:-1 tvg-chno="66488" tvg-name="Discovery World" tvg-logo="https://zap2it.tmsimg.com/assets/s66488_ll_h15_aa.png" group-title="Mexico" tvg-id="DWRLDHD" tvc-guide-stationid="66488",Discovery World
 http://example.local/MEX-DWRLDHD.ts
-#EXTINF:-1 tvg-chno="88893" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s88893_ll_h15_aa.png" group-title="Mexico" tvg-id="DISLCHD" tvc-guide-stationid="88893",Disney Channel
-http://example.local/MEX-DISLCHD.ts
 #EXTINF:-1 tvg-chno="19234" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s19234_ll_h15_ab.png" group-title="Mexico" tvg-id="DISNL" tvc-guide-stationid="19234",Disney Channel
 http://example.local/MEX-DISNL.ts
 #EXTINF:-1 tvg-chno="79589" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s79589_ll_h15_aa.png" group-title="Mexico" tvg-id="DISNLHD" tvc-guide-stationid="79589",Disney Channel
 http://example.local/MEX-DISNLHD.ts
 #EXTINF:-1 tvg-chno="107644" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s41223_ll_h15_aa.png" group-title="Mexico" tvg-id="DISNLSH" tvc-guide-stationid="107644",Disney Channel
 http://example.local/MEX-DISNLSH.ts
+#EXTINF:-1 tvg-chno="88893" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s88893_ll_h15_aa.png" group-title="Mexico" tvg-id="DISLCHD" tvc-guide-stationid="88893",Disney Channel
+http://example.local/MEX-DISLCHD.ts
 #EXTINF:-1 tvg-chno="61311" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Mexico" tvg-id="DISNJMX" tvc-guide-stationid="61311",Disney Junior
 http://example.local/MEX-DISNJMX.ts
 #EXTINF:-1 tvg-chno="70506" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Mexico" tvg-id="DISJMXE" tvc-guide-stationid="70506",Disney Junior
 http://example.local/MEX-DISJMXE.ts
-#EXTINF:-1 tvg-chno="60506" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Mexico" tvg-id="DISNJS" tvc-guide-stationid="60506",Disney Junior
-http://example.local/MEX-DISNJS.ts
 #EXTINF:-1 tvg-chno="114439" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Mexico" tvg-id="DISJMXH" tvc-guide-stationid="114439",Disney Junior
 http://example.local/MEX-DISJMXH.ts
+#EXTINF:-1 tvg-chno="60506" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s60506_ll_h15_ab.png" group-title="Mexico" tvg-id="DISNJS" tvc-guide-stationid="60506",Disney Junior
+http://example.local/MEX-DISNJS.ts
 #EXTINF:-1 tvg-chno="110962" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_ll_h15_ab.png" group-title="Mexico" tvg-id="DISNXDH" tvc-guide-stationid="110962",Disney XD
 http://example.local/MEX-DISNXDH.ts
 #EXTINF:-1 tvg-chno="55980" tvg-name="Distrito Comedia" tvg-logo="https://zap2it.tmsimg.com/assets/s55980_ll_h15_aa.png" group-title="Mexico" tvg-id="DISTCOM" tvc-guide-stationid="55980",Distrito Comedia
@@ -623,21 +623,21 @@ http://example.local/MEX-ADCOHOL.ts
 http://example.local/MEX-ALTMPOP.ts
 #EXTINF:-1 tvg-chno="50416" tvg-name="DMX Blue Martini" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Mexico" tvg-id="BLUEMAR" tvc-guide-stationid="50416",DMX Blue Martini
 http://example.local/MEX-BLUEMAR.ts
-#EXTINF:-1 tvg-chno="50423" tvg-name="DMX Holiday Favorites" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_h3_aa.png" group-title="Mexico" tvg-id="HDAYFAV" tvc-guide-stationid="50423",DMX Holiday Favorites
+#EXTINF:-1 tvg-chno="50423" tvg-name="DMX Holiday Favorites" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Mexico" tvg-id="HDAYFAV" tvc-guide-stationid="50423",DMX Holiday Favorites
 http://example.local/MEX-HDAYFAV.ts
 #EXTINF:-1 tvg-chno="50419" tvg-name="DMX Mix 750" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Mexico" tvg-id="MIX750" tvc-guide-stationid="50419",DMX Mix 750
 http://example.local/MEX-MIX750.ts
-#EXTINF:-1 tvg-chno="50422" tvg-name="DMX Musica Cubana" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_h3_aa.png" group-title="Mexico" tvg-id="MUSCUBA" tvc-guide-stationid="50422",DMX Musica Cubana
+#EXTINF:-1 tvg-chno="50422" tvg-name="DMX Musica Cubana" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Mexico" tvg-id="MUSCUBA" tvc-guide-stationid="50422",DMX Musica Cubana
 http://example.local/MEX-MUSCUBA.ts
 #EXTINF:-1 tvg-chno="50410" tvg-name="DMX Nightclub" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Mexico" tvg-id="NITCLUB" tvc-guide-stationid="50410",DMX Nightclub
 http://example.local/MEX-NITCLUB.ts
 #EXTINF:-1 tvg-chno="50420" tvg-name="DMX Studio 54" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Mexico" tvg-id="STU54" tvc-guide-stationid="50420",DMX Studio 54
 http://example.local/MEX-STU54.ts
-#EXTINF:-1 tvg-chno="49621" tvg-name="DMX: Arias and Overtures" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_h3_aa.png" group-title="Mexico" tvg-id="AANDO" tvc-guide-stationid="49621",DMX: Arias and Overtures
+#EXTINF:-1 tvg-chno="49621" tvg-name="DMX: Arias and Overtures" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Mexico" tvg-id="AANDO" tvc-guide-stationid="49621",DMX: Arias and Overtures
 http://example.local/MEX-AANDO.ts
-#EXTINF:-1 tvg-chno="46699" tvg-name="DMX: CityScapes" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_h3_aa.png" group-title="Mexico" tvg-id="CITYSCP" tvc-guide-stationid="46699",DMX: CityScapes
+#EXTINF:-1 tvg-chno="46699" tvg-name="DMX: CityScapes" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Mexico" tvg-id="CITYSCP" tvc-guide-stationid="46699",DMX: CityScapes
 http://example.local/MEX-CITYSCP.ts
-#EXTINF:-1 tvg-chno="19006" tvg-name="DMX: Coffeehouse Rock" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_h3_aa.png" group-title="Mexico" tvg-id="COFFEE" tvc-guide-stationid="19006",DMX: Coffeehouse Rock
+#EXTINF:-1 tvg-chno="19006" tvg-name="DMX: Coffeehouse Rock" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Mexico" tvg-id="COFFEE" tvc-guide-stationid="19006",DMX: Coffeehouse Rock
 http://example.local/MEX-COFFEE.ts
 #EXTINF:-1 tvg-chno="19012" tvg-name="DMX: Contemporary Instrumentals" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Mexico" tvg-id="CONTEM" tvc-guide-stationid="19012",DMX: Contemporary Instrumentals
 http://example.local/MEX-CONTEM.ts
@@ -645,7 +645,7 @@ http://example.local/MEX-CONTEM.ts
 http://example.local/MEX-FTROP.ts
 #EXTINF:-1 tvg-chno="21419" tvg-name="DMX: Hot Jamz" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Mexico" tvg-id="HTJAMZ" tvc-guide-stationid="21419",DMX: Hot Jamz
 http://example.local/MEX-HTJAMZ.ts
-#EXTINF:-1 tvg-chno="19323" tvg-name="DMX: Jazz" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_h3_aa.png" group-title="Mexico" tvg-id="JAZZ" tvc-guide-stationid="19323",DMX: Jazz
+#EXTINF:-1 tvg-chno="19323" tvg-name="DMX: Jazz" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Mexico" tvg-id="JAZZ" tvc-guide-stationid="19323",DMX: Jazz
 http://example.local/MEX-JAZZ.ts
 #EXTINF:-1 tvg-chno="19792" tvg-name="DMX: Lite Classical" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Mexico" tvg-id="LTECLAS" tvc-guide-stationid="19792",DMX: Lite Classical
 http://example.local/MEX-LTECLAS.ts
@@ -661,9 +661,9 @@ http://example.local/MEX-RBCLAS.ts
 http://example.local/MEX-SILKYSL.ts
 #EXTINF:-1 tvg-chno="19827" tvg-name="DMX: Soft Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Mexico" tvg-id="SFTHITS" tvc-guide-stationid="19827",DMX: Soft Hits
 http://example.local/MEX-SFTHITS.ts
-#EXTINF:-1 tvg-chno="19797" tvg-name="DMX: Tranquility" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_h3_aa.png" group-title="Mexico" tvg-id="TRNQUIL" tvc-guide-stationid="19797",DMX: Tranquility
+#EXTINF:-1 tvg-chno="19797" tvg-name="DMX: Tranquility" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Mexico" tvg-id="TRNQUIL" tvc-guide-stationid="19797",DMX: Tranquility
 http://example.local/MEX-TRNQUIL.ts
-#EXTINF:-1 tvg-chno="19807" tvg-name="DMX: Upbeat Oldies" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_h3_aa.png" group-title="Mexico" tvg-id="UPOLD" tvc-guide-stationid="19807",DMX: Upbeat Oldies
+#EXTINF:-1 tvg-chno="19807" tvg-name="DMX: Upbeat Oldies" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Mexico" tvg-id="UPOLD" tvc-guide-stationid="19807",DMX: Upbeat Oldies
 http://example.local/MEX-UPOLD.ts
 #EXTINF:-1 tvg-chno="19824" tvg-name="DMX: Y2k Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s50415_ll_h9_aa.png" group-title="Mexico" tvg-id="Y2KHITS" tvc-guide-stationid="19824",DMX: Y2k Hits
 http://example.local/MEX-Y2KHITS.ts
@@ -679,7 +679,7 @@ http://example.local/MEX-DREAMWL.ts
 http://example.local/MEX-DPXEIMT.ts
 #EXTINF:-1 tvg-chno="102405" tvg-name="Duplicate XEIPN-TV Canal 11 (Once TV)" tvg-logo="https://zap2it.tmsimg.com/assets/s116166_ll_h15_aa.png" group-title="Mexico" tvg-id="DPXEIPN" tvc-guide-stationid="102405",Duplicate XEIPN-TV Canal 11 (Once TV)
 http://example.local/MEX-DPXEIPN.ts
-#EXTINF:-1 tvg-chno="97020" tvg-name="Duplicate XEQ" tvg-logo="https://zap2it.tmsimg.com/assets/s116171_h3_aa.png" group-title="Mexico" tvg-id="DUPXEQ" tvc-guide-stationid="97020",Duplicate XEQ
+#EXTINF:-1 tvg-chno="97020" tvg-name="Duplicate XEQ" tvg-logo="https://zap2it.tmsimg.com/assets/s116171_ll_h15_aa.png" group-title="Mexico" tvg-id="DUPXEQ" tvc-guide-stationid="97020",Duplicate XEQ
 http://example.local/MEX-DUPXEQ.ts
 #EXTINF:-1 tvg-chno="102406" tvg-name="Duplicate XHIMT Canal 7 TV Azteca" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png" group-title="Mexico" tvg-id="DPXHIMT" tvc-guide-stationid="102406",Duplicate XHIMT Canal 7 TV Azteca
 http://example.local/MEX-DPXHIMT.ts
@@ -693,7 +693,7 @@ http://example.local/MEX-DWLA.ts
 http://example.local/MEX-DETVLEH.ts
 #EXTINF:-1 tvg-chno="30259" tvg-name="E! Entertainment TV" tvg-logo="https://zap2it.tmsimg.com/assets/s30259_ll_h15_aa.png" group-title="Mexico" tvg-id="ETVLN" tvc-guide-stationid="30259",E! Entertainment TV
 http://example.local/MEX-ETVLN.ts
-#EXTINF:-1 tvg-chno="101734" tvg-name="E! Entertainment TV" tvg-logo="https://zap2it.tmsimg.com/assets/s30259_h3_ba.png" group-title="Mexico" tvg-id="ETVLNHD" tvc-guide-stationid="101734",E! Entertainment TV
+#EXTINF:-1 tvg-chno="101734" tvg-name="E! Entertainment TV" tvg-logo="https://zap2it.tmsimg.com/assets/s30259_ll_h15_aa.png" group-title="Mexico" tvg-id="ETVLNHD" tvc-guide-stationid="101734",E! Entertainment TV
 http://example.local/MEX-ETVLNHD.ts
 #EXTINF:-1 tvg-chno="63328" tvg-name="Efekto Tv" tvg-logo="https://zap2it.tmsimg.com/assets/s63328_ll_h15_ac.png" group-title="Mexico" tvg-id="EFEKTO" tvc-guide-stationid="63328",Efekto Tv
 http://example.local/MEX-EFEKTO.ts
@@ -705,12 +705,12 @@ http://example.local/MEX-FINANC.ts
 http://example.local/MEX-FINANCH.ts
 #EXTINF:-1 tvg-chno="45910" tvg-name="El Gourmet" tvg-logo="https://zap2it.tmsimg.com/assets/s25553_ll_h15_ad.png" group-title="Mexico" tvg-id="GOURMETN" tvc-guide-stationid="45910",El Gourmet
 http://example.local/MEX-GOURMETN.ts
-#EXTINF:-1 tvg-chno="100602" tvg-name="El Gourmet" tvg-logo="https://zap2it.tmsimg.com/assets/s25553_h3_ba.png" group-title="Mexico" tvg-id="GOURNSD" tvc-guide-stationid="100602",El Gourmet
-http://example.local/MEX-GOURNSD.ts
-#EXTINF:-1 tvg-chno="25553" tvg-name="El Gourmet" tvg-logo="https://zap2it.tmsimg.com/assets/s25553_ll_h15_ad.png" group-title="Mexico" tvg-id="GOURMET" tvc-guide-stationid="25553",El Gourmet
-http://example.local/MEX-GOURMET.ts
 #EXTINF:-1 tvg-chno="99509" tvg-name="El Gourmet" tvg-logo="https://zap2it.tmsimg.com/assets/s25553_ll_h15_ad.png" group-title="Mexico" tvg-id="GOURMHD" tvc-guide-stationid="99509",El Gourmet
 http://example.local/MEX-GOURMHD.ts
+#EXTINF:-1 tvg-chno="25553" tvg-name="El Gourmet" tvg-logo="https://zap2it.tmsimg.com/assets/s25553_ll_h15_ad.png" group-title="Mexico" tvg-id="GOURMET" tvc-guide-stationid="25553",El Gourmet
+http://example.local/MEX-GOURMET.ts
+#EXTINF:-1 tvg-chno="100602" tvg-name="El Gourmet" tvg-logo="https://zap2it.tmsimg.com/assets/s25553_ll_h15_ad.png" group-title="Mexico" tvg-id="GOURNSD" tvc-guide-stationid="100602",El Gourmet
+http://example.local/MEX-GOURNSD.ts
 #EXTINF:-1 tvg-chno="124066" tvg-name="El Reino Infantil" tvg-logo="https://zap2it.tmsimg.com/assets/s124066_ll_h15_ab.png" group-title="Mexico" tvg-id="REININ" tvc-guide-stationid="124066",El Reino Infantil
 http://example.local/MEX-REININ.ts
 #EXTINF:-1 tvg-chno="46421" tvg-name="El Sembrador" tvg-logo="https://zap2it.tmsimg.com/assets/s46421_ll_h9_aa.png" group-title="Mexico" tvg-id="ESNE" tvc-guide-stationid="46421",El Sembrador
@@ -719,28 +719,28 @@ http://example.local/MEX-ESNE.ts
 http://example.local/MEX-ENCU.ts
 #EXTINF:-1 tvg-chno="49258" tvg-name="Enlace Juvenil" tvg-logo="https://zap2it.tmsimg.com/assets/s49258_ll_h15_aa.png" group-title="Mexico" tvg-id="ENLACJ" tvc-guide-stationid="49258",Enlace Juvenil
 http://example.local/MEX-ENLACJ.ts
-#EXTINF:-1 tvg-chno="20286" tvg-name="ENLACE TV" tvg-logo="https://zap2it.tmsimg.com/assets/s20286_h3_ba.png" group-title="Mexico" tvg-id="ENLACE" tvc-guide-stationid="20286",ENLACE TV
+#EXTINF:-1 tvg-chno="20286" tvg-name="ENLACE TV" tvg-logo="https://zap2it.tmsimg.com/assets/s20286_ll_h15_ab.png" group-title="Mexico" tvg-id="ENLACE" tvc-guide-stationid="20286",ENLACE TV
 http://example.local/MEX-ENLACE.ts
 #EXTINF:-1 tvg-chno="114678" tvg-name="Especiales Stingray Music" tvg-logo="https://zap2it.tmsimg.com/assets/s95856_ll_h15_aa.png" group-title="Mexico" tvg-id="ESPEMU" tvc-guide-stationid="114678",Especiales Stingray Music
 http://example.local/MEX-ESPEMU.ts
-#EXTINF:-1 tvg-chno="110964" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s17725_h3_aa.png" group-title="Mexico" tvg-id="ESPNMH" tvc-guide-stationid="110964",ESPN
+#EXTINF:-1 tvg-chno="110964" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s17725_ll_h15_ac.png" group-title="Mexico" tvg-id="ESPNMH" tvc-guide-stationid="110964",ESPN
 http://example.local/MEX-ESPNMH.ts
 #EXTINF:-1 tvg-chno="19158" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s17725_ll_h15_ac.png" group-title="Mexico" tvg-id="ESPNM" tvc-guide-stationid="19158",ESPN
 http://example.local/MEX-ESPNM.ts
-#EXTINF:-1 tvg-chno="96535" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s17725_h3_aa.png" group-title="Mexico" tvg-id="ESPARH" tvc-guide-stationid="96535",ESPN
+#EXTINF:-1 tvg-chno="96535" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s17725_ll_h15_ac.png" group-title="Mexico" tvg-id="ESPARH" tvc-guide-stationid="96535",ESPN
 http://example.local/MEX-ESPARH.ts
-#EXTINF:-1 tvg-chno="63212" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Mexico" tvg-id="ESP2LN" tvc-guide-stationid="63212",ESPN 2
-http://example.local/MEX-ESP2LN.ts
+#EXTINF:-1 tvg-chno="37747" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Mexico" tvg-id="ESPN2MX" tvc-guide-stationid="37747",ESPN 2
+http://example.local/MEX-ESPN2MX.ts
 #EXTINF:-1 tvg-chno="96876" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Mexico" tvg-id="ESPN2MH" tvc-guide-stationid="96876",ESPN 2
 http://example.local/MEX-ESPN2MH.ts
 #EXTINF:-1 tvg-chno="10180" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Mexico" tvg-id="ESP2ME" tvc-guide-stationid="10180",ESPN 2
 http://example.local/MEX-ESP2ME.ts
-#EXTINF:-1 tvg-chno="37747" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Mexico" tvg-id="ESPN2MX" tvc-guide-stationid="37747",ESPN 2
-http://example.local/MEX-ESPN2MX.ts
-#EXTINF:-1 tvg-chno="99064" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_h3_aa.png" group-title="Mexico" tvg-id="ESP2SH" tvc-guide-stationid="99064",ESPN 2
-http://example.local/MEX-ESP2SH.ts
-#EXTINF:-1 tvg-chno="90293" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_h3_aa.png" group-title="Mexico" tvg-id="ESP2NH" tvc-guide-stationid="90293",ESPN 2
+#EXTINF:-1 tvg-chno="90293" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Mexico" tvg-id="ESP2NH" tvc-guide-stationid="90293",ESPN 2
 http://example.local/MEX-ESP2NH.ts
+#EXTINF:-1 tvg-chno="99064" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Mexico" tvg-id="ESP2SH" tvc-guide-stationid="99064",ESPN 2
+http://example.local/MEX-ESP2SH.ts
+#EXTINF:-1 tvg-chno="63212" tvg-name="ESPN 2" tvg-logo="https://zap2it.tmsimg.com/assets/s88735_ll_h15_ac.png" group-title="Mexico" tvg-id="ESP2LN" tvc-guide-stationid="63212",ESPN 2
+http://example.local/MEX-ESP2LN.ts
 #EXTINF:-1 tvg-chno="79042" tvg-name="ESPN 3" tvg-logo="https://zap2it.tmsimg.com/assets/s73833_h3_aa.png" group-title="Mexico" tvg-id="ESPN3N" tvc-guide-stationid="79042",ESPN 3
 http://example.local/MEX-ESPN3N.ts
 #EXTINF:-1 tvg-chno="121144" tvg-name="ESPN 4 México" tvg-logo="https://zap2it.tmsimg.com/assets/s65930_ll_h15_ae.png" group-title="Mexico" tvg-id="ESP4MXS" tvc-guide-stationid="121144",ESPN 4 México
@@ -767,10 +767,10 @@ http://example.local/MEX-ESTRLLA.ts
 http://example.local/MEX-ENLUSA.ts
 #EXTINF:-1 tvg-chno="16574" tvg-name="Eurochannel" tvg-logo="https://zap2it.tmsimg.com/assets/s16574_ll_h15_aa.png" group-title="Mexico" tvg-id="EURO" tvc-guide-stationid="16574",Eurochannel
 http://example.local/MEX-EURO.ts
-#EXTINF:-1 tvg-chno="50365" tvg-name="euronews" tvg-logo="https://zap2it.tmsimg.com/assets/s50365_ll_h15_aa.png" group-title="Mexico" tvg-id="EUROMX" tvc-guide-stationid="50365",euronews
-http://example.local/MEX-EUROMX.ts
 #EXTINF:-1 tvg-chno="40704" tvg-name="euronews" tvg-logo="https://zap2it.tmsimg.com/assets/s40704_ll_h15_aa.png" group-title="Mexico" tvg-id="EURONWS" tvc-guide-stationid="40704",euronews
 http://example.local/MEX-EURONWS.ts
+#EXTINF:-1 tvg-chno="50365" tvg-name="euronews" tvg-logo="https://zap2it.tmsimg.com/assets/s50365_ll_h15_aa.png" group-title="Mexico" tvg-id="EUROMX" tvc-guide-stationid="50365",euronews
+http://example.local/MEX-EUROMX.ts
 #EXTINF:-1 tvg-chno="123999" tvg-name="Euronews - Spanish Edition" tvg-logo="https://zap2it.tmsimg.com/assets/s123999_ll_h15_ab.png" group-title="Mexico" tvg-id="EUROSV" tvc-guide-stationid="123999",Euronews - Spanish Edition
 http://example.local/MEX-EUROSV.ts
 #EXTINF:-1 tvg-chno="27741" tvg-name="Europa Europa" tvg-logo="https://zap2it.tmsimg.com/assets/s27741_ll_h15_aa.png" group-title="Mexico" tvg-id="EUROPA" tvc-guide-stationid="27741",Europa Europa
@@ -803,10 +803,10 @@ http://example.local/MEX-FIGHTBX.ts
 http://example.local/MEX-FIGHTBH.ts
 #EXTINF:-1 tvg-chno="88305" tvg-name="Film & Arts" tvg-logo="https://zap2it.tmsimg.com/assets/s87687_ll_h15_aa.png" group-title="Mexico" tvg-id="FABMEX" tvc-guide-stationid="88305",Film & Arts
 http://example.local/MEX-FABMEX.ts
-#EXTINF:-1 tvg-chno="16215" tvg-name="Film & Arts" tvg-logo="https://zap2it.tmsimg.com/assets/s87687_ll_h15_aa.png" group-title="Mexico" tvg-id="FABL" tvc-guide-stationid="16215",Film & Arts
-http://example.local/MEX-FABL.ts
 #EXTINF:-1 tvg-chno="106731" tvg-name="Film & Arts" tvg-logo="https://zap2it.tmsimg.com/assets/s87687_ll_h15_aa.png" group-title="Mexico" tvg-id="FAMEXHD" tvc-guide-stationid="106731",Film & Arts
 http://example.local/MEX-FAMEXHD.ts
+#EXTINF:-1 tvg-chno="16215" tvg-name="Film & Arts" tvg-logo="https://zap2it.tmsimg.com/assets/s87687_ll_h15_aa.png" group-title="Mexico" tvg-id="FABL" tvc-guide-stationid="16215",Film & Arts
+http://example.local/MEX-FABL.ts
 #EXTINF:-1 tvg-chno="83525" tvg-name="FilmBox Arthouse" tvg-logo="https://zap2it.tmsimg.com/assets/s83525_ll_h15_aa.png" group-title="Mexico" tvg-id="FILMBOX" tvc-guide-stationid="83525",FilmBox Arthouse
 http://example.local/MEX-FILMBOX.ts
 #EXTINF:-1 tvg-chno="126134" tvg-name="Filmex" tvg-logo="https://zap2it.tmsimg.com/assets/s126134_ll_h15_aa.png" group-title="Mexico" tvg-id="FILMEX" tvc-guide-stationid="126134",Filmex
@@ -841,12 +841,28 @@ http://example.local/MEX-ESFNC.ts
 http://example.local/MEX-FNC.ts
 #EXTINF:-1 tvg-chno="60179" tvg-name="Fox News Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60179_ll_h15_ab.png" group-title="Mexico" tvg-id="FNCHD" tvc-guide-stationid="60179",Fox News Channel HD
 http://example.local/MEX-FNCHD.ts
-#EXTINF:-1 tvg-chno="68952" tvg-name="FOX SPORTS" group-title="Mexico" tvg-id="FSARH" tvc-guide-stationid="68952",FOX SPORTS
-http://example.local/MEX-FSARH.ts
+#EXTINF:-1 tvg-chno="173704" tvg-name="Fox One 2" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002HWT7Y.png" group-title="Mexico" tvg-id="FOXONE2" tvc-guide-stationid="173704",Fox One 2
+http://example.local/MEX-FOXONE2.ts
+#EXTINF:-1 tvg-chno="173705" tvg-name="Fox One 3" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002HWT7Y.png" group-title="Mexico" tvg-id="FOXONE3" tvc-guide-stationid="173705",Fox One 3
+http://example.local/MEX-FOXONE3.ts
+#EXTINF:-1 tvg-chno="173738" tvg-name="Fox One 4" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002HWT7Y.png" group-title="Mexico" tvg-id="FOXONE4" tvc-guide-stationid="173738",Fox One 4
+http://example.local/MEX-FOXONE4.ts
+#EXTINF:-1 tvg-chno="173771" tvg-name="Fox One 5" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002HWT7Y.png" group-title="Mexico" tvg-id="FOXONE5" tvc-guide-stationid="173771",Fox One 5
+http://example.local/MEX-FOXONE5.ts
+#EXTINF:-1 tvg-chno="173804" tvg-name="Fox One 6" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002HWT7Y.png" group-title="Mexico" tvg-id="FOXONE6" tvc-guide-stationid="173804",Fox One 6
+http://example.local/MEX-FOXONE6.ts
+#EXTINF:-1 tvg-chno="173805" tvg-name="Fox One 7" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002HWT7Y.png" group-title="Mexico" tvg-id="FOXONE7" tvc-guide-stationid="173805",Fox One 7
+http://example.local/MEX-FOXONE7.ts
+#EXTINF:-1 tvg-chno="173806" tvg-name="Fox One 8" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002HWT7Y.png" group-title="Mexico" tvg-id="FOXONE8" tvc-guide-stationid="173806",Fox One 8
+http://example.local/MEX-FOXONE8.ts
+#EXTINF:-1 tvg-chno="173807" tvg-name="Fox One 9" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002HWT7Y.png" group-title="Mexico" tvg-id="FOXONE9" tvc-guide-stationid="173807",Fox One 9
+http://example.local/MEX-FOXONE9.ts
 #EXTINF:-1 tvg-chno="61704" tvg-name="Fox Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s41677_ll_h15_ac.png" group-title="Mexico" tvg-id="FSALPHD" tvc-guide-stationid="61704",Fox Sports
 http://example.local/MEX-FSALPHD.ts
 #EXTINF:-1 tvg-chno="41677" tvg-name="Fox Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s41677_ll_h15_ac.png" group-title="Mexico" tvg-id="FSALPM" tvc-guide-stationid="41677",Fox Sports
 http://example.local/MEX-FSALPM.ts
+#EXTINF:-1 tvg-chno="68952" tvg-name="FOX SPORTS" group-title="Mexico" tvg-id="FSARH" tvc-guide-stationid="68952",FOX SPORTS
+http://example.local/MEX-FSARH.ts
 #EXTINF:-1 tvg-chno="30262" tvg-name="FOX Sports (Cono Sur Argentina)" tvg-logo="https://zap2it.tmsimg.com/assets/s41677_ll_h15_ac.png" group-title="Mexico" tvg-id="FSALA" tvc-guide-stationid="30262",FOX Sports (Cono Sur Argentina)
 http://example.local/MEX-FSALA.ts
 #EXTINF:-1 tvg-chno="66365" tvg-name="Fox Sports 2" tvg-logo="https://zap2it.tmsimg.com/assets/s66365_ll_h15_ab.png" group-title="Mexico" tvg-id="FOXS2" tvc-guide-stationid="66365",Fox Sports 2
@@ -855,19 +871,19 @@ http://example.local/MEX-FOXS2.ts
 http://example.local/MEX-FOXSHD2.ts
 #EXTINF:-1 tvg-chno="113161" tvg-name="Fox Sports 2 Cono Sur" tvg-logo="https://zap2it.tmsimg.com/assets/s73935_ll_h15_ac.png" group-title="Mexico" tvg-id="FOXS2SA" tvc-guide-stationid="113161",Fox Sports 2 Cono Sur
 http://example.local/MEX-FOXS2SA.ts
-#EXTINF:-1 tvg-chno="105006" tvg-name="Fox Sports 3" tvg-logo="https://zap2it.tmsimg.com/assets/s105006_ll_h15_aa.png" group-title="Mexico" tvg-id="FSP3" tvc-guide-stationid="105006",Fox Sports 3
-http://example.local/MEX-FSP3.ts
-#EXTINF:-1 tvg-chno="112239" tvg-name="Fox Sports 3" tvg-logo="https://zap2it.tmsimg.com/assets/s105006_ll_h15_aa.png" group-title="Mexico" tvg-id="FOXS3AM" tvc-guide-stationid="112239",Fox Sports 3
-http://example.local/MEX-FOXS3AM.ts
 #EXTINF:-1 tvg-chno="105005" tvg-name="Fox Sports 3" tvg-logo="https://zap2it.tmsimg.com/assets/s105006_ll_h15_aa.png" group-title="Mexico" tvg-id="FSP3HD" tvc-guide-stationid="105005",Fox Sports 3
 http://example.local/MEX-FSP3HD.ts
+#EXTINF:-1 tvg-chno="112239" tvg-name="Fox Sports 3" tvg-logo="https://zap2it.tmsimg.com/assets/s105006_ll_h15_aa.png" group-title="Mexico" tvg-id="FOXS3AM" tvc-guide-stationid="112239",Fox Sports 3
+http://example.local/MEX-FOXS3AM.ts
+#EXTINF:-1 tvg-chno="105006" tvg-name="Fox Sports 3" tvg-logo="https://zap2it.tmsimg.com/assets/s105006_ll_h15_aa.png" group-title="Mexico" tvg-id="FSP3" tvc-guide-stationid="105006",Fox Sports 3
+http://example.local/MEX-FSP3.ts
 #EXTINF:-1 tvg-chno="123189" tvg-name="Fox Sports 3 (Argentina)" group-title="Mexico" tvg-id="FS3AR" tvc-guide-stationid="123189",Fox Sports 3 (Argentina)
 http://example.local/MEX-FS3AR.ts
 #EXTINF:-1 tvg-chno="123582" tvg-name="Fox Sports Premium" tvg-logo="https://zap2it.tmsimg.com/assets/s123582_ll_h15_aa.png" group-title="Mexico" tvg-id="FSPRMM" tvc-guide-stationid="123582",Fox Sports Premium
 http://example.local/MEX-FSPRMM.ts
 #EXTINF:-1 tvg-chno="58685" tvg-name="France 24" tvg-logo="https://zap2it.tmsimg.com/assets/s58685_ll_h15_aa.png" group-title="Mexico" tvg-id="FRNC24" tvc-guide-stationid="58685",France 24
 http://example.local/MEX-FRNC24.ts
-#EXTINF:-1 tvg-chno="105781" tvg-name="France 24" tvg-logo="https://zap2it.tmsimg.com/assets/s105780_ll_h15_ab.png" group-title="Mexico" tvg-id="FR24ESD" tvc-guide-stationid="105781",France 24
+#EXTINF:-1 tvg-chno="105781" tvg-name="France 24" tvg-logo="https://zap2it.tmsimg.com/assets/s105780_h3_ac.png" group-title="Mexico" tvg-id="FR24ESD" tvc-guide-stationid="105781",France 24
 http://example.local/MEX-FR24ESD.ts
 #EXTINF:-1 tvg-chno="70130" tvg-name="France 24 English" tvg-logo="https://zap2it.tmsimg.com/assets/s70130_ll_h15_aa.png" group-title="Mexico" tvg-id="F24EN" tvc-guide-stationid="70130",France 24 English
 http://example.local/MEX-F24EN.ts
@@ -925,12 +941,14 @@ http://example.local/MEX-GBITVHD.ts
 http://example.local/MEX-AGUASTV.ts
 #EXTINF:-1 tvg-chno="62009" tvg-name="Gigacable Canal Tecnico" group-title="Mexico" tvg-id="GIGATEC" tvc-guide-stationid="62009",Gigacable Canal Tecnico
 http://example.local/MEX-GIGATEC.ts
-#EXTINF:-1 tvg-chno="118698" tvg-name="Ginx TV International" tvg-logo="https://zap2it.tmsimg.com/assets/s118698_ll_h9_ab.png" group-title="Mexico" tvg-id="GINXUSI" tvc-guide-stationid="118698",Ginx TV International
-http://example.local/MEX-GINXUSI.ts
 #EXTINF:-1 tvg-chno="125039" tvg-name="Ginx TV International" tvg-logo="https://zap2it.tmsimg.com/assets/s118698_ll_h9_ab.png" group-title="Mexico" tvg-id="GINXUSD" tvc-guide-stationid="125039",Ginx TV International
 http://example.local/MEX-GINXUSD.ts
+#EXTINF:-1 tvg-chno="118698" tvg-name="Ginx TV International" tvg-logo="https://zap2it.tmsimg.com/assets/s118698_ll_h9_ab.png" group-title="Mexico" tvg-id="GINXUSI" tvc-guide-stationid="118698",Ginx TV International
+http://example.local/MEX-GINXUSI.ts
 #EXTINF:-1 tvg-chno="24459" tvg-name="Glitz" tvg-logo="https://zap2it.tmsimg.com/assets/s61514_ll_h15_aa.png" group-title="Mexico" tvg-id="GLITZ" tvc-guide-stationid="24459",Glitz
 http://example.local/MEX-GLITZ.ts
+#EXTINF:-1 tvg-chno="42206" tvg-name="Globo" tvg-logo="https://zap2it.tmsimg.com/assets/s42206_ll_h15_cc.png" group-title="Mexico" tvg-id="REDEGL" tvc-guide-stationid="42206",Globo
+http://example.local/MEX-REDEGL.ts
 #EXTINF:-1 tvg-chno="16298" tvg-name="Golden" tvg-logo="https://zap2it.tmsimg.com/assets/s50709_ll_h15_aa.png" group-title="Mexico" tvg-id="GLDENM" tvc-guide-stationid="16298",Golden
 http://example.local/MEX-GLDENM.ts
 #EXTINF:-1 tvg-chno="16423" tvg-name="Golden Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16423_ll_h15_ac.png" group-title="Mexico" tvg-id="GOLDEDG" tvc-guide-stationid="16423",Golden Edge
@@ -939,17 +957,17 @@ http://example.local/MEX-GOLDEDG.ts
 http://example.local/MEX-GOLDM.ts
 #EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Mexico" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
 http://example.local/MEX-GOLDNHD.ts
+#EXTINF:-1 tvg-chno="80804" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Mexico" tvg-id="GPREMSD" tvc-guide-stationid="80804",Golden Premier
+http://example.local/MEX-GPREMSD.ts
 #EXTINF:-1 tvg-chno="80596" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Mexico" tvg-id="GLDPREM" tvc-guide-stationid="80596",Golden Premier
 http://example.local/MEX-GLDPREM.ts
-#EXTINF:-1 tvg-chno="80804" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_h3_ba.png" group-title="Mexico" tvg-id="GPREMSD" tvc-guide-stationid="80804",Golden Premier
-http://example.local/MEX-GPREMSD.ts
 #EXTINF:-1 tvg-chno="80660" tvg-name="Golden Premier" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Mexico" tvg-id="GLDPRD2" tvc-guide-stationid="80660",Golden Premier
 http://example.local/MEX-GLDPRD2.ts
 #EXTINF:-1 tvg-chno="80805" tvg-name="Golden Premier 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80596_ll_h15_ab.png" group-title="Mexico" tvg-id="GPRD2SD" tvc-guide-stationid="80805",Golden Premier 2
 http://example.local/MEX-GPRD2SD.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Mexico" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Mexico" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
 http://example.local/MEX-GOLF.ts
-#EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s61854_ll_h15_ab.png" group-title="Mexico" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
+#EXTINF:-1 tvg-chno="61854" tvg-name="Golf Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFQBE.png" group-title="Mexico" tvg-id="GOLFHD" tvc-guide-stationid="61854",Golf Channel HD
 http://example.local/MEX-GOLFHD.ts
 #EXTINF:-1 tvg-chno="124017" tvg-name="Grandes Parejas" tvg-logo="https://zap2it.tmsimg.com/assets/s124017_ll_h15_ab.png" group-title="Mexico" tvg-id="GRNPA" tvc-guide-stationid="124017",Grandes Parejas
 http://example.local/MEX-GRNPA.ts
@@ -959,25 +977,25 @@ http://example.local/MEX-GUATVIS.ts
 http://example.local/MEX-COMGC.ts
 #EXTINF:-1 tvg-chno="125017" tvg-name="Hasta Que el Dinero Nos Separe" tvg-logo="https://zap2it.tmsimg.com/assets/s125017_ll_h15_ab.png" group-title="Mexico" tvg-id="HQEDNS" tvc-guide-stationid="125017",Hasta Que el Dinero Nos Separe
 http://example.local/MEX-HQEDNS.ts
-#EXTINF:-1 tvg-chno="84823" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Mexico" tvg-id="HBOLWHD" tvc-guide-stationid="84823",HBO
-http://example.local/MEX-HBOLWHD.ts
-#EXTINF:-1 tvg-chno="15361" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s15361_ll_h15_ab.png" group-title="Mexico" tvg-id="HBOB" tvc-guide-stationid="15361",HBO
-http://example.local/MEX-HBOB.ts
 #EXTINF:-1 tvg-chno="16795" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Mexico" tvg-id="HBOLW" tvc-guide-stationid="16795",HBO
 http://example.local/MEX-HBOLW.ts
+#EXTINF:-1 tvg-chno="15361" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s15361_ll_h15_ab.png" group-title="Mexico" tvg-id="HBOB" tvc-guide-stationid="15361",HBO
+http://example.local/MEX-HBOB.ts
+#EXTINF:-1 tvg-chno="84823" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Mexico" tvg-id="HBOLWHD" tvc-guide-stationid="84823",HBO
+http://example.local/MEX-HBOLWHD.ts
 #EXTINF:-1 tvg-chno="12288" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s12288_ll_h15_ab.png" group-title="Mexico" tvg-id="HBOL" tvc-guide-stationid="12288",HBO
 http://example.local/MEX-HBOL.ts
 #EXTINF:-1 tvg-chno="68140" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Mexico" tvg-id="HBO2LA" tvc-guide-stationid="68140",HBO 2
 http://example.local/MEX-HBO2LA.ts
 #EXTINF:-1 tvg-chno="80652" tvg-name="HBO 2" tvg-logo="https://zap2it.tmsimg.com/assets/s68140_ll_h15_ad.png" group-title="Mexico" tvg-id="HBO2MHD" tvc-guide-stationid="80652",HBO 2
 http://example.local/MEX-HBO2MHD.ts
-#EXTINF:-1 tvg-chno="34879" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_ll_h15_ae.png" group-title="Mexico" tvg-id="HBOFAM" tvc-guide-stationid="34879",HBO Family
-http://example.local/MEX-HBOFAM.ts
-#EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Mexico" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
+#EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_ll_h15_ae.png" group-title="Mexico" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
 http://example.local/MEX-HBOFMHD.ts
 #EXTINF:-1 tvg-chno="56092" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s56092_ll_h15_ab.png" group-title="Mexico" tvg-id="HBOFBE" tvc-guide-stationid="56092",HBO Family
 http://example.local/MEX-HBOFBE.ts
-#EXTINF:-1 tvg-chno="80550" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Mexico" tvg-id="HBOFMEH" tvc-guide-stationid="80550",HBO Family
+#EXTINF:-1 tvg-chno="34879" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_ll_h15_ae.png" group-title="Mexico" tvg-id="HBOFAM" tvc-guide-stationid="34879",HBO Family
+http://example.local/MEX-HBOFAM.ts
+#EXTINF:-1 tvg-chno="80550" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_ll_h15_ae.png" group-title="Mexico" tvg-id="HBOFMEH" tvc-guide-stationid="80550",HBO Family
 http://example.local/MEX-HBOFMEH.ts
 #EXTINF:-1 tvg-chno="136200" tvg-name="HBO Max LA 01" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0025RX2C.png" group-title="Mexico" tvg-id="MLA1" tvc-guide-stationid="136200",HBO Max LA 01
 http://example.local/MEX-MLA1.ts
@@ -1003,22 +1021,22 @@ http://example.local/MEX-HBOMUND.ts
 http://example.local/MEX-MUNLA.ts
 #EXTINF:-1 tvg-chno="80560" tvg-name="HBO Mundi" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_h3_ba.png" group-title="Mexico" tvg-id="MUNLAH" tvc-guide-stationid="80560",HBO Mundi
 http://example.local/MEX-MUNLAH.ts
+#EXTINF:-1 tvg-chno="75537" tvg-name="HBO Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s34725_ll_h15_ab.png" group-title="Mexico" tvg-id="HBOPPA" tvc-guide-stationid="75537",HBO Plus
+http://example.local/MEX-HBOPPA.ts
 #EXTINF:-1 tvg-chno="113954" tvg-name="HBO Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s34725_ll_h15_ab.png" group-title="Mexico" tvg-id="HBODA" tvc-guide-stationid="113954",HBO Plus
 http://example.local/MEX-HBODA.ts
 #EXTINF:-1 tvg-chno="80112" tvg-name="HBO Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s34725_ll_h15_ab.png" group-title="Mexico" tvg-id="HBOPPHD" tvc-guide-stationid="80112",HBO Plus
 http://example.local/MEX-HBOPPHD.ts
-#EXTINF:-1 tvg-chno="75537" tvg-name="HBO Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s34725_ll_h15_ab.png" group-title="Mexico" tvg-id="HBOPPA" tvc-guide-stationid="75537",HBO Plus
-http://example.local/MEX-HBOPPA.ts
-#EXTINF:-1 tvg-chno="75590" tvg-name="HBO Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s75590_ll_h15_ad.png" group-title="Mexico" tvg-id="HBOPOP" tvc-guide-stationid="75590",HBO Pop
-http://example.local/MEX-HBOPOP.ts
 #EXTINF:-1 tvg-chno="92951" tvg-name="HBO Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_ll_h15_ab.png" group-title="Mexico" tvg-id="POPLA" tvc-guide-stationid="92951",HBO Pop
 http://example.local/MEX-POPLA.ts
 #EXTINF:-1 tvg-chno="68301" tvg-name="HBO POP" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_ll_h15_ab.png" group-title="Mexico" tvg-id="POPMXH" tvc-guide-stationid="68301",HBO POP
 http://example.local/MEX-POPMXH.ts
+#EXTINF:-1 tvg-chno="75590" tvg-name="HBO Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s75590_ll_h15_ad.png" group-title="Mexico" tvg-id="HBOPOP" tvc-guide-stationid="75590",HBO Pop
+http://example.local/MEX-HBOPOP.ts
+#EXTINF:-1 tvg-chno="70545" tvg-name="HBO Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_ll_h15_ab.png" group-title="Mexico" tvg-id="POPLEH" tvc-guide-stationid="70545",HBO Pop
+http://example.local/MEX-POPLEH.ts
 #EXTINF:-1 tvg-chno="68134" tvg-name="HBO Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_ll_h15_ab.png" group-title="Mexico" tvg-id="POPLAH" tvc-guide-stationid="68134",HBO Pop
 http://example.local/MEX-POPLAH.ts
-#EXTINF:-1 tvg-chno="70545" tvg-name="HBO Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_h3_aa.png" group-title="Mexico" tvg-id="POPLEH" tvc-guide-stationid="70545",HBO Pop
-http://example.local/MEX-POPLEH.ts
 #EXTINF:-1 tvg-chno="74450" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Mexico" tvg-id="HBOSLA" tvc-guide-stationid="74450",HBO Signature
 http://example.local/MEX-HBOSLA.ts
 #EXTINF:-1 tvg-chno="80120" tvg-name="HBO Signature" tvg-logo="https://zap2it.tmsimg.com/assets/s80120_ll_h15_ac.png" group-title="Mexico" tvg-id="HBOSLHD" tvc-guide-stationid="80120",HBO Signature
@@ -1027,7 +1045,7 @@ http://example.local/MEX-HBOSLHD.ts
 http://example.local/MEX-HBOSB.ts
 #EXTINF:-1 tvg-chno="34887" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Mexico" tvg-id="HBOXMX" tvc-guide-stationid="34887",HBO Xtreme
 http://example.local/MEX-HBOXMX.ts
-#EXTINF:-1 tvg-chno="80115" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_h3_aa.png" group-title="Mexico" tvg-id="HBOXMXH" tvc-guide-stationid="80115",HBO Xtreme
+#EXTINF:-1 tvg-chno="80115" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Mexico" tvg-id="HBOXMXH" tvc-guide-stationid="80115",HBO Xtreme
 http://example.local/MEX-HBOXMXH.ts
 #EXTINF:-1 tvg-chno="80199" tvg-name="HBO Xtreme" tvg-logo="https://zap2it.tmsimg.com/assets/s80211_ll_h15_ab.png" group-title="Mexico" tvg-id="HBOXLA" tvc-guide-stationid="80199",HBO Xtreme
 http://example.local/MEX-HBOXLA.ts
@@ -1053,18 +1071,18 @@ http://example.local/MEX-HCLM.ts
 http://example.local/MEX-HCLMHD.ts
 #EXTINF:-1 tvg-chno="159468" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Mexico" tvg-id="HISTSOU" tvc-guide-stationid="159468",History
 http://example.local/MEX-HISTSOU.ts
-#EXTINF:-1 tvg-chno="100817" tvg-name="History 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_ll_h15_ae.png" group-title="Mexico" tvg-id="H2LAHD" tvc-guide-stationid="100817",History 2
-http://example.local/MEX-H2LAHD.ts
 #EXTINF:-1 tvg-chno="80374" tvg-name="History 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_ll_h15_ae.png" group-title="Mexico" tvg-id="H2LAM" tvc-guide-stationid="80374",History 2
 http://example.local/MEX-H2LAM.ts
-#EXTINF:-1 tvg-chno="89610" tvg-name="History 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_h3_ba.png" group-title="Mexico" tvg-id="H2LAT" tvc-guide-stationid="89610",History 2
+#EXTINF:-1 tvg-chno="100817" tvg-name="History 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_ll_h15_ae.png" group-title="Mexico" tvg-id="H2LAHD" tvc-guide-stationid="100817",History 2
+http://example.local/MEX-H2LAHD.ts
+#EXTINF:-1 tvg-chno="89610" tvg-name="History 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_ll_h15_ae.png" group-title="Mexico" tvg-id="H2LAT" tvc-guide-stationid="89610",History 2
 http://example.local/MEX-H2LAT.ts
 #EXTINF:-1 tvg-chno="113876" tvg-name="HLN" tvg-logo="https://zap2it.tmsimg.com/assets/s113876_ll_h15_aa.png" group-title="Mexico" tvg-id="HLNPAN" tvc-guide-stationid="113876",HLN
 http://example.local/MEX-HLNPAN.ts
-#EXTINF:-1 tvg-chno="82970" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Mexico" tvg-id="HOLALA" tvc-guide-stationid="82970",HOLA! TV
-http://example.local/MEX-HOLALA.ts
 #EXTINF:-1 tvg-chno="92054" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Mexico" tvg-id="HOLALAH" tvc-guide-stationid="92054",HOLA! TV
 http://example.local/MEX-HOLALAH.ts
+#EXTINF:-1 tvg-chno="82970" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Mexico" tvg-id="HOLALA" tvc-guide-stationid="82970",HOLA! TV
+http://example.local/MEX-HOLALA.ts
 #EXTINF:-1 tvg-chno="62161" tvg-name="HOLA! TV" tvg-logo="https://zap2it.tmsimg.com/assets/s82970_ll_h15_aa.png" group-title="Mexico" tvg-id="HOLATV" tvc-guide-stationid="62161",HOLA! TV
 http://example.local/MEX-HOLATV.ts
 #EXTINF:-1 tvg-chno="15969" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png" group-title="Mexico" tvg-id="HTVLA" tvc-guide-stationid="15969",HTV
@@ -1099,16 +1117,14 @@ http://example.local/MEX-IZZI2.ts
 http://example.local/MEX-JAJAJA.ts
 #EXTINF:-1 tvg-chno="100795" tvg-name="Jesus Christ Network" tvg-logo="https://zap2it.tmsimg.com/assets/s100795_ll_h6_aa.png" group-title="Mexico" tvg-id="JCNET" tvc-guide-stationid="100795",Jesus Christ Network
 http://example.local/MEX-JCNET.ts
-#EXTINF:-1 tvg-chno="62629" tvg-name="JUICY Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s58684_h3_ba.png" group-title="Mexico" tvg-id="JUICYLA" tvc-guide-stationid="62629",JUICY Spanish
+#EXTINF:-1 tvg-chno="62629" tvg-name="JUICY Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s58684_ll_h15_aa.png" group-title="Mexico" tvg-id="JUICYLA" tvc-guide-stationid="62629",JUICY Spanish
 http://example.local/MEX-JUICYLA.ts
-#EXTINF:-1 tvg-chno="50577" tvg-name="Justicia TV" tvg-logo="https://zap2it.tmsimg.com/assets/s50577_ll_h15_ab.png" group-title="Mexico" tvg-id="JUSTV" tvc-guide-stationid="50577",Justicia TV
-http://example.local/MEX-JUSTV.ts
 #EXTINF:-1 tvg-chno="105629" tvg-name="K17DL-D2 (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s51306_ll_h15_ac.png" group-title="Mexico" tvg-id="K17DLD2" tvc-guide-stationid="105629",K17DL-D2 (CW)
 http://example.local/MEX-K17DLD2.ts
-#EXTINF:-1 tvg-chno="119198" tvg-name="Kanal D Drama" tvg-logo="https://zap2it.tmsimg.com/assets/s112558_ll_h15_ab.png" group-title="Mexico" tvg-id="KANALL" tvc-guide-stationid="119198",Kanal D Drama
-http://example.local/MEX-KANALL.ts
 #EXTINF:-1 tvg-chno="130329" tvg-name="Kanal D Drama" tvg-logo="https://zap2it.tmsimg.com/assets/s112558_ll_h15_ab.png" group-title="Mexico" tvg-id="KNLLSD" tvc-guide-stationid="130329",Kanal D Drama
 http://example.local/MEX-KNLLSD.ts
+#EXTINF:-1 tvg-chno="119198" tvg-name="Kanal D Drama" tvg-logo="https://zap2it.tmsimg.com/assets/s112558_ll_h15_ab.png" group-title="Mexico" tvg-id="KANALL" tvc-guide-stationid="119198",Kanal D Drama
+http://example.local/MEX-KANALL.ts
 #EXTINF:-1 tvg-chno="43048" tvg-name="KMEX-DT (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Mexico" tvg-id="KMEXDT" tvc-guide-stationid="43048",KMEX-DT (UNI)
 http://example.local/MEX-KMEXDT.ts
 #EXTINF:-1 tvg-chno="35653" tvg-name="KXLN-DT (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" group-title="Mexico" tvg-id="KXLNDT" tvc-guide-stationid="35653",KXLN-DT (UNI)
@@ -1137,16 +1153,16 @@ http://example.local/MEX-LAUSUR.ts
 http://example.local/MEX-LATAMSP.ts
 #EXTINF:-1 tvg-chno="124022" tvg-name="Las 3 Marias" tvg-logo="https://zap2it.tmsimg.com/assets/s124022_ll_h15_ab.png" group-title="Mexico" tvg-id="LAS3M" tvc-guide-stationid="124022",Las 3 Marias
 http://example.local/MEX-LAS3M.ts
-#EXTINF:-1 tvg-chno="124285" tvg-name="Las Estrellas" group-title="Mexico" tvg-id="XEWHDI3" tvc-guide-stationid="124285",Las Estrellas
-http://example.local/MEX-XEWHDI3.ts
 #EXTINF:-1 tvg-chno="45831" tvg-name="Las Estrellas (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png" group-title="Mexico" tvg-id="XEWTDT" tvc-guide-stationid="45831",Las Estrellas (ESTRNET)
 http://example.local/MEX-XEWTDT.ts
 #EXTINF:-1 tvg-chno="16461" tvg-name="Las Estrellas (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png" group-title="Mexico" tvg-id="XEW" tvc-guide-stationid="16461",Las Estrellas (ESTRNET)
 http://example.local/MEX-XEW.ts
+#EXTINF:-1 tvg-chno="124285" tvg-name="Las Estrellas" group-title="Mexico" tvg-id="XEWHDI3" tvc-guide-stationid="124285",Las Estrellas
+http://example.local/MEX-XEWHDI3.ts
+#EXTINF:-1 tvg-chno="16257" tvg-name="Las Estrellas Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16257_ll_h15_ab.png" group-title="Mexico" tvg-id="ESTRE" tvc-guide-stationid="16257",Las Estrellas Internacional
+http://example.local/MEX-ESTRE.ts
 #EXTINF:-1 tvg-chno="77243" tvg-name="Las Estrellas Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16257_ll_h15_ab.png" group-title="Mexico" tvg-id="ESTREHD" tvc-guide-stationid="77243",Las Estrellas Internacional
 http://example.local/MEX-ESTREHD.ts
-#EXTINF:-1 tvg-chno="16257" tvg-name="Las Estrellas Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16257_h3_aa.png" group-title="Mexico" tvg-id="ESTRE" tvc-guide-stationid="16257",Las Estrellas Internacional
-http://example.local/MEX-ESTRE.ts
 #EXTINF:-1 tvg-chno="102694" tvg-name="Las Estrellas menos dos horas" tvg-logo="https://zap2it.tmsimg.com/assets/s16257_ll_h15_ab.png" group-title="Mexico" tvg-id="XEWHD" tvc-guide-stationid="102694",Las Estrellas menos dos horas
 http://example.local/MEX-XEWHD.ts
 #EXTINF:-1 tvg-chno="106396" tvg-name="Latin Angels" tvg-logo="https://zap2it.tmsimg.com/assets/s106396_ll_h15_aa.png" group-title="Mexico" tvg-id="LANGELS" tvc-guide-stationid="106396",Latin Angels
@@ -1155,13 +1171,13 @@ http://example.local/MEX-LANGELS.ts
 http://example.local/MEX-LAURBAN.ts
 #EXTINF:-1 tvg-chno="90682" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Mexico" tvg-id="LIFEMEX" tvc-guide-stationid="90682",Lifetime
 http://example.local/MEX-LIFEMEX.ts
+#EXTINF:-1 tvg-chno="106095" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Mexico" tvg-id="LIFEMXH" tvc-guide-stationid="106095",Lifetime
+http://example.local/MEX-LIFEMXH.ts
 #EXTINF:-1 tvg-chno="159513" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Mexico" tvg-id="LIFSURH" tvc-guide-stationid="159513",Lifetime
 http://example.local/MEX-LIFSURH.ts
-#EXTINF:-1 tvg-chno="106095" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_h3_aa.png" group-title="Mexico" tvg-id="LIFEMXH" tvc-guide-stationid="106095",Lifetime
-http://example.local/MEX-LIFEMXH.ts
 #EXTINF:-1 tvg-chno="105818" tvg-name="LIGA MEXICANA DEL PACIFICO" group-title="Mexico" tvg-id="LMP" tvc-guide-stationid="105818",LIGA MEXICANA DEL PACIFICO
 http://example.local/MEX-LMP.ts
-#EXTINF:-1 tvg-chno="101238" tvg-name="LN+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s101238_h3_aa.png" group-title="Mexico" tvg-id="NACIONP" tvc-guide-stationid="101238",LN+ HD
+#EXTINF:-1 tvg-chno="101238" tvg-name="LN+ HD" tvg-logo="https://zap2it.tmsimg.com/assets/s101238_ll_h15_aa.png" group-title="Mexico" tvg-id="NACIONP" tvc-guide-stationid="101238",LN+ HD
 http://example.local/MEX-NACIONP.ts
 #EXTINF:-1 tvg-chno="124015" tvg-name="Lo Mejor de la Liga MX" tvg-logo="https://zap2it.tmsimg.com/assets/s124015_ll_h15_ab.png" group-title="Mexico" tvg-id="LOMLIG" tvc-guide-stationid="124015",Lo Mejor de la Liga MX
 http://example.local/MEX-LOMLIG.ts
@@ -1209,15 +1225,15 @@ http://example.local/MEX-MOONB.ts
 http://example.local/MEX-MOOVM.ts
 #EXTINF:-1 tvg-chno="119829" tvg-name="Moto ADV" tvg-logo="https://zap2it.tmsimg.com/assets/s119829_ll_h9_aa.png" group-title="Mexico" tvg-id="MOTOADV" tvc-guide-stationid="119829",Moto ADV
 http://example.local/MEX-MOTOADV.ts
-#EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="Mexico" tvg-id="MTVL" tvc-guide-stationid="12712",MTV
+#EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_h3_ba.png" group-title="Mexico" tvg-id="MTVL" tvc-guide-stationid="12712",MTV
 http://example.local/MEX-MTVL.ts
 #EXTINF:-1 tvg-chno="84432" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_h3_ba.png" group-title="Mexico" tvg-id="MTVLHD" tvc-guide-stationid="84432",MTV
 http://example.local/MEX-MTVLHD.ts
-#EXTINF:-1 tvg-chno="97257" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_h3_ba.png" group-title="Mexico" tvg-id="MTVLAHD" tvc-guide-stationid="97257",MTV
+#EXTINF:-1 tvg-chno="97257" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="Mexico" tvg-id="MTVLAHD" tvc-guide-stationid="97257",MTV
 http://example.local/MEX-MTVLAHD.ts
 #EXTINF:-1 tvg-chno="60964" tvg-name="MTV - Music Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s60964_ll_h15_aa.png" group-title="Mexico" tvg-id="MTVHD" tvc-guide-stationid="60964",MTV - Music Television HD
 http://example.local/MEX-MTVHD.ts
-#EXTINF:-1 tvg-chno="120767" tvg-name="MTV 00s" tvg-logo="https://zap2it.tmsimg.com/assets/s56245_ll_h15_ab.png" group-title="Mexico" tvg-id="MTV00S" tvc-guide-stationid="120767",MTV 00s
+#EXTINF:-1 tvg-chno="120767" tvg-name="MTV 00s" group-title="Mexico" tvg-id="MTV00S" tvc-guide-stationid="120767",MTV 00s
 http://example.local/MEX-MTV00S.ts
 #EXTINF:-1 tvg-chno="65060" tvg-name="MTV 80's" tvg-logo="https://zap2it.tmsimg.com/assets/s65060_ll_h15_aa.png" group-title="Mexico" tvg-id="MTV80L" tvc-guide-stationid="65060",MTV 80's
 http://example.local/MEX-MTV80L.ts
@@ -1245,11 +1261,11 @@ http://example.local/MEX-MULTV.ts
 http://example.local/MEX-MPREL.ts
 #EXTINF:-1 tvg-chno="116475" tvg-name="Multipremier" tvg-logo="https://zap2it.tmsimg.com/assets/s116475_ll_h15_aa.png" group-title="Mexico" tvg-id="MPRELH" tvc-guide-stationid="116475",Multipremier
 http://example.local/MEX-MPRELH.ts
-#EXTINF:-1 tvg-chno="46719" tvg-name="MVS TV" tvg-logo="https://zap2it.tmsimg.com/assets/s15213_ll_h15_ab.png" group-title="Mexico" tvg-id="MVSTVI" tvc-guide-stationid="46719",MVS TV
-http://example.local/MEX-MVSTVI.ts
 #EXTINF:-1 tvg-chno="15213" tvg-name="MVS TV" tvg-logo="https://zap2it.tmsimg.com/assets/s15213_ll_h15_ab.png" group-title="Mexico" tvg-id="MVSTV" tvc-guide-stationid="15213",MVS TV
 http://example.local/MEX-MVSTV.ts
-#EXTINF:-1 tvg-chno="107379" tvg-name="MVS TV (Dish HD)" tvg-logo="https://zap2it.tmsimg.com/assets/s15213_h3_aa.png" group-title="Mexico" tvg-id="MVSTVDH" tvc-guide-stationid="107379",MVS TV (Dish HD)
+#EXTINF:-1 tvg-chno="46719" tvg-name="MVS TV" tvg-logo="https://zap2it.tmsimg.com/assets/s15213_ll_h15_ab.png" group-title="Mexico" tvg-id="MVSTVI" tvc-guide-stationid="46719",MVS TV
+http://example.local/MEX-MVSTVI.ts
+#EXTINF:-1 tvg-chno="107379" tvg-name="MVS TV (Dish HD)" tvg-logo="https://zap2it.tmsimg.com/assets/s15213_ll_h15_ab.png" group-title="Mexico" tvg-id="MVSTVDH" tvc-guide-stationid="107379",MVS TV (Dish HD)
 http://example.local/MEX-MVSTVDH.ts
 #EXTINF:-1 tvg-chno="109982" tvg-name="MVS TV (Dish)" tvg-logo="https://zap2it.tmsimg.com/assets/s15213_ll_h15_ab.png" group-title="Mexico" tvg-id="MVSTVDI" tvc-guide-stationid="109982",MVS TV (Dish)
 http://example.local/MEX-MVSTVDI.ts
@@ -1257,10 +1273,10 @@ http://example.local/MEX-MVSTVDI.ts
 http://example.local/MEX-XEIMTTDT2.ts
 #EXTINF:-1 tvg-chno="107890" tvg-name="Mórbido TV" tvg-logo="https://zap2it.tmsimg.com/assets/s107890_ll_h15_aa.png" group-title="Mexico" tvg-id="MORBTV" tvc-guide-stationid="107890",Mórbido TV
 http://example.local/MEX-MORBTV.ts
-#EXTINF:-1 tvg-chno="66635" tvg-name="N+ Foro" tvg-logo="https://zap2it.tmsimg.com/assets/s66635_ll_h15_ac.png" group-title="Mexico" tvg-id="NMASFOMX" tvc-guide-stationid="66635",N+ Foro
-http://example.local/MEX-NMASFOMX.ts
 #EXTINF:-1 tvg-chno="16462" tvg-name="N+ Foro (NMASFOMX)" tvg-logo="https://zap2it.tmsimg.com/assets/s66635_ll_h15_ac.png" group-title="Mexico" tvg-id="XHTV" tvc-guide-stationid="16462",N+ Foro (NMASFOMX)
 http://example.local/MEX-XHTV.ts
+#EXTINF:-1 tvg-chno="66635" tvg-name="N+ Foro" tvg-logo="https://zap2it.tmsimg.com/assets/s66635_ll_h15_ac.png" group-title="Mexico" tvg-id="NMASFOMX" tvc-guide-stationid="66635",N+ Foro
+http://example.local/MEX-NMASFOMX.ts
 #EXTINF:-1 tvg-chno="149756" tvg-name="N+ Guadalajara" tvg-logo="https://zap2it.tmsimg.com/assets/s149756_ll_h15_aa.png" group-title="Mexico" tvg-id="NMGDL" tvc-guide-stationid="149756",N+ Guadalajara
 http://example.local/MEX-NMGDL.ts
 #EXTINF:-1 tvg-chno="123946" tvg-name="N+ Media" tvg-logo="https://zap2it.tmsimg.com/assets/s123946_ll_h15_ab.png" group-title="Mexico" tvg-id="NMEDA" tvc-guide-stationid="123946",N+ Media
@@ -1269,20 +1285,20 @@ http://example.local/MEX-NMEDA.ts
 http://example.local/MEX-NMED.ts
 #EXTINF:-1 tvg-chno="149757" tvg-name="N+ Monterrey" tvg-logo="https://zap2it.tmsimg.com/assets/s149757_ll_h15_aa.png" group-title="Mexico" tvg-id="NMMTY" tvc-guide-stationid="149757",N+ Monterrey
 http://example.local/MEX-NMMTY.ts
-#EXTINF:-1 tvg-chno="112839" tvg-name="Nat Geo Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Mexico" tvg-id="NGKCAMC" tvc-guide-stationid="112839",Nat Geo Kids
-http://example.local/MEX-NGKCAMC.ts
 #EXTINF:-1 tvg-chno="105877" tvg-name="Nat Geo Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Mexico" tvg-id="NGKCM" tvc-guide-stationid="105877",Nat Geo Kids
 http://example.local/MEX-NGKCM.ts
+#EXTINF:-1 tvg-chno="112839" tvg-name="Nat Geo Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Mexico" tvg-id="NGKCAMC" tvc-guide-stationid="112839",Nat Geo Kids
+http://example.local/MEX-NGKCAMC.ts
 #EXTINF:-1 tvg-chno="105878" tvg-name="Nat Geo Kids HD" group-title="Mexico" tvg-id="NGKCMHD" tvc-guide-stationid="105878",Nat Geo Kids HD
 http://example.local/MEX-NGKCMHD.ts
-#EXTINF:-1 tvg-chno="113204" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Mexico" tvg-id="NGCCLAM" tvc-guide-stationid="113204",National Geographic
-http://example.local/MEX-NGCCLAM.ts
-#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Mexico" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Mexico" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
 http://example.local/MEX-NGCLA.ts
-#EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Mexico" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
+#EXTINF:-1 tvg-chno="88533" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_aa.png" group-title="Mexico" tvg-id="NGCLAH" tvc-guide-stationid="88533",National Geographic
 http://example.local/MEX-NGCLAH.ts
-#EXTINF:-1 tvg-chno="90918" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Mexico" tvg-id="NGLATHD" tvc-guide-stationid="90918",National Geographic
+#EXTINF:-1 tvg-chno="90918" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Mexico" tvg-id="NGLATHD" tvc-guide-stationid="90918",National Geographic
 http://example.local/MEX-NGLATHD.ts
+#EXTINF:-1 tvg-chno="113204" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Mexico" tvg-id="NGCCLAM" tvc-guide-stationid="113204",National Geographic
+http://example.local/MEX-NGCCLAM.ts
 #EXTINF:-1 tvg-chno="32281" tvg-name="NBA TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32281_ll_h15_ad.png" group-title="Mexico" tvg-id="NBATV" tvc-guide-stationid="32281",NBA TV
 http://example.local/MEX-NBATV.ts
 #EXTINF:-1 tvg-chno="84532" tvg-name="NBA TV International (Spanish)" tvg-logo="https://zap2it.tmsimg.com/assets/s62829_ll_h15_ab.png" group-title="Mexico" tvg-id="NBATVIS" tvc-guide-stationid="84532",NBA TV International (Spanish)
@@ -1327,35 +1343,35 @@ http://example.local/MEX-NOVORO.ts
 http://example.local/MEX-NOVROM.ts
 #EXTINF:-1 tvg-chno="123907" tvg-name="Novelas en Familia" tvg-logo="https://zap2it.tmsimg.com/assets/s123907_ll_h15_ab.png" group-title="Mexico" tvg-id="NOVFAM" tvc-guide-stationid="123907",Novelas en Familia
 http://example.local/MEX-NOVFAM.ts
-#EXTINF:-1 tvg-chno="120979" tvg-name="Novelisima" tvg-logo="https://zap2it.tmsimg.com/assets/s120979_h3_aa.png" group-title="Mexico" tvg-id="NOVELIS" tvc-guide-stationid="120979",Novelisima
+#EXTINF:-1 tvg-chno="120979" tvg-name="Novelisima" tvg-logo="https://zap2it.tmsimg.com/assets/s120979_ll_h15_aa.png" group-title="Mexico" tvg-id="NOVELIS" tvc-guide-stationid="120979",Novelisima
 http://example.local/MEX-NOVELIS.ts
 #EXTINF:-1 tvg-chno="61988" tvg-name="NTN24" tvg-logo="https://zap2it.tmsimg.com/assets/s61988_ll_h15_ac.png" group-title="Mexico" tvg-id="NTN24" tvc-guide-stationid="61988",NTN24
 http://example.local/MEX-NTN24.ts
 #EXTINF:-1 tvg-chno="91644" tvg-name="NU Music" tvg-logo="https://zap2it.tmsimg.com/assets/s47403_ll_h15_aa.png" group-title="Mexico" tvg-id="NU" tvc-guide-stationid="91644",NU Music
 http://example.local/MEX-NU.ts
-#EXTINF:-1 tvg-chno="120646" tvg-name="Nu9ve" group-title="Mexico" tvg-id="XEQID" tvc-guide-stationid="120646",Nu9ve
-http://example.local/MEX-XEQID.ts
 #EXTINF:-1 tvg-chno="114360" tvg-name="Nu9ve" tvg-logo="https://zap2it.tmsimg.com/assets/s59528_ll_h15_aa.png" group-title="Mexico" tvg-id="XEQIZD" tvc-guide-stationid="114360",Nu9ve
 http://example.local/MEX-XEQIZD.ts
-#EXTINF:-1 tvg-chno="105162" tvg-name="Once" tvg-logo="https://zap2it.tmsimg.com/assets/s116166_ll_h15_aa.png" group-title="Mexico" tvg-id="CNL11HD" tvc-guide-stationid="105162",Once
-http://example.local/MEX-CNL11HD.ts
+#EXTINF:-1 tvg-chno="120646" tvg-name="Nu9ve" group-title="Mexico" tvg-id="XEQID" tvc-guide-stationid="120646",Nu9ve
+http://example.local/MEX-XEQID.ts
 #EXTINF:-1 tvg-chno="36139" tvg-name="Once" tvg-logo="https://zap2it.tmsimg.com/assets/s116166_ll_h15_aa.png" group-title="Mexico" tvg-id="CANAL11" tvc-guide-stationid="36139",Once
 http://example.local/MEX-CANAL11.ts
+#EXTINF:-1 tvg-chno="105162" tvg-name="Once" tvg-logo="https://zap2it.tmsimg.com/assets/s116166_ll_h15_aa.png" group-title="Mexico" tvg-id="CNL11HD" tvc-guide-stationid="105162",Once
+http://example.local/MEX-CNL11HD.ts
 #EXTINF:-1 tvg-chno="123960" tvg-name="Operacion Repo" group-title="Mexico" tvg-id="OPEREPO" tvc-guide-stationid="123960",Operacion Repo
 http://example.local/MEX-OPEREPO.ts
-#EXTINF:-1 tvg-chno="124934" tvg-name="Outdoor Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14776_ll_h15_ab.png" group-title="Mexico" tvg-id="OUTMXSD" tvc-guide-stationid="124934",Outdoor Channel
-http://example.local/MEX-OUTMXSD.ts
 #EXTINF:-1 tvg-chno="14776" tvg-name="Outdoor Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14776_ll_h15_ab.png" group-title="Mexico" tvg-id="OUTD" tvc-guide-stationid="14776",Outdoor Channel
 http://example.local/MEX-OUTD.ts
-#EXTINF:-1 tvg-chno="46737" tvg-name="Outdoor Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s46737_ll_h15_ab.png" group-title="Mexico" tvg-id="OUTHD" tvc-guide-stationid="46737",Outdoor Channel HD
-http://example.local/MEX-OUTHD.ts
+#EXTINF:-1 tvg-chno="124934" tvg-name="Outdoor Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14776_ll_h15_ab.png" group-title="Mexico" tvg-id="OUTMXSD" tvc-guide-stationid="124934",Outdoor Channel
+http://example.local/MEX-OUTMXSD.ts
 #EXTINF:-1 tvg-chno="124935" tvg-name="Outdoor Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s46737_ll_h15_ab.png" group-title="Mexico" tvg-id="OUTMXHD" tvc-guide-stationid="124935",Outdoor Channel HD
 http://example.local/MEX-OUTMXHD.ts
+#EXTINF:-1 tvg-chno="46737" tvg-name="Outdoor Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s46737_ll_h15_ab.png" group-title="Mexico" tvg-id="OUTHD" tvc-guide-stationid="46737",Outdoor Channel HD
+http://example.local/MEX-OUTHD.ts
 #EXTINF:-1 tvg-chno="87140" tvg-name="Pakapaka" tvg-logo="https://zap2it.tmsimg.com/assets/s87140_ll_h15_ab.png" group-title="Mexico" tvg-id="PAKA" tvc-guide-stationid="87140",Pakapaka
 http://example.local/MEX-PAKA.ts
 #EXTINF:-1 tvg-chno="73535" tvg-name="Panico" tvg-logo="https://zap2it.tmsimg.com/assets/s73535_ll_h15_aa.png" group-title="Mexico" tvg-id="PANICO" tvc-guide-stationid="73535",Panico
 http://example.local/MEX-PANICO.ts
-#EXTINF:-1 tvg-chno="106214" tvg-name="Paramount" tvg-logo="https://zap2it.tmsimg.com/assets/s106214_ll_h15_aa.png" group-title="Mexico" tvg-id="PARALN" tvc-guide-stationid="106214",Paramount
+#EXTINF:-1 tvg-chno="106214" tvg-name="Paramount" tvg-logo="https://zap2it.tmsimg.com/assets/s106214_h3_aa.png" group-title="Mexico" tvg-id="PARALN" tvc-guide-stationid="106214",Paramount
 http://example.local/MEX-PARALN.ts
 #EXTINF:-1 tvg-chno="91029" tvg-name="Paramount Network" tvg-logo="https://zap2it.tmsimg.com/assets/s106215_ll_h15_aa.png" group-title="Mexico" tvg-id="PARAMNT" tvc-guide-stationid="91029",Paramount Network
 http://example.local/MEX-PARAMNT.ts
@@ -1385,6 +1401,8 @@ http://example.local/MEX-PLAYLE.ts
 http://example.local/MEX-PLAYLHD.ts
 #EXTINF:-1 tvg-chno="16788" tvg-name="Playboy TV Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16788_ll_h15_aa.png" group-title="Mexico" tvg-id="PLAYL" tvc-guide-stationid="16788",Playboy TV Latin America
 http://example.local/MEX-PLAYL.ts
+#EXTINF:-1 tvg-chno="50577" tvg-name="Plural TV" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NX8RT.png" group-title="Mexico" tvg-id="PLURTV" tvc-guide-stationid="50577",Plural TV
+http://example.local/MEX-PLURTV.ts
 #EXTINF:-1 tvg-chno="37021" tvg-name="PPE BARKER" group-title="Mexico" tvg-id="PPEBARK" tvc-guide-stationid="37021",PPE BARKER
 http://example.local/MEX-PPEBARK.ts
 #EXTINF:-1 tvg-chno="24102" tvg-name="PPE-1 Cablevision PPV" group-title="Mexico" tvg-id="PPE1" tvc-guide-stationid="24102",PPE-1 Cablevision PPV
@@ -1407,11 +1425,11 @@ http://example.local/MEX-RBCLASI.ts
 http://example.local/MEX-RTVV.ts
 #EXTINF:-1 tvg-chno="75785" tvg-name="RAI International Spanish" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="Mexico" tvg-id="ESRAI" tvc-guide-stationid="75785",RAI International Spanish
 http://example.local/MEX-ESRAI.ts
-#EXTINF:-1 tvg-chno="19040" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Mexico" tvg-id="RAIIS" tvc-guide-stationid="19040",Rai Italia
+#EXTINF:-1 tvg-chno="19040" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="Mexico" tvg-id="RAIIS" tvc-guide-stationid="19040",Rai Italia
 http://example.local/MEX-RAIIS.ts
 #EXTINF:-1 tvg-chno="17250" tvg-name="Rai Italia" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="Mexico" tvg-id="RAII" tvc-guide-stationid="17250",Rai Italia
 http://example.local/MEX-RAII.ts
-#EXTINF:-1 tvg-chno="109462" tvg-name="Rai Italia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_h3_aa.png" group-title="Mexico" tvg-id="RAIIHD" tvc-guide-stationid="109462",Rai Italia HD
+#EXTINF:-1 tvg-chno="109462" tvg-name="Rai Italia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s75785_ll_h15_aa.png" group-title="Mexico" tvg-id="RAIIHD" tvc-guide-stationid="109462",Rai Italia HD
 http://example.local/MEX-RAIIHD.ts
 #EXTINF:-1 tvg-chno="46481" tvg-name="RCG Acuna Canal 36" group-title="Mexico" tvg-id="RCG" tvc-guide-stationid="46481",RCG Acuna Canal 36
 http://example.local/MEX-RCG.ts
@@ -1441,7 +1459,7 @@ http://example.local/MEX-VIXGT.ts
 http://example.local/MEX-RISAPI.ts
 #EXTINF:-1 tvg-chno="124008" tvg-name="Risas de Oro" tvg-logo="https://zap2it.tmsimg.com/assets/s124008_ll_h15_ab.png" group-title="Mexico" tvg-id="RIDOR" tvc-guide-stationid="124008",Risas de Oro
 http://example.local/MEX-RIDOR.ts
-#EXTINF:-1 tvg-chno="39708" tvg-name="Rock Alternativo" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_ll_h15_aa.png" group-title="Mexico" tvg-id="ROCKALT" tvc-guide-stationid="39708",Rock Alternativo
+#EXTINF:-1 tvg-chno="39708" tvg-name="Rock Alternativo" tvg-logo="https://zap2it.tmsimg.com/assets/s38800_h3_aa.png" group-title="Mexico" tvg-id="ROCKALT" tvc-guide-stationid="39708",Rock Alternativo
 http://example.local/MEX-ROCKALT.ts
 #EXTINF:-1 tvg-chno="138947" tvg-name="Romance Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s138947_ll_h15_aa.png" group-title="Mexico" tvg-id="RCL" tvc-guide-stationid="138947",Romance Channel
 http://example.local/MEX-RCL.ts
@@ -1477,28 +1495,28 @@ http://example.local/MEX-SKYPOR.ts
 http://example.local/MEX-SKYWKND.ts
 #EXTINF:-1 tvg-chno="119123" tvg-name="Sony Canal Competencias" group-title="Mexico" tvg-id="VIZSOCC" tvc-guide-stationid="119123",Sony Canal Competencias
 http://example.local/MEX-VIZSOCC.ts
-#EXTINF:-1 tvg-chno="123608" tvg-name="Sony Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s124605_ll_h15_aa.png" group-title="Mexico" tvg-id="SONYML" tvc-guide-stationid="123608",Sony Movies
-http://example.local/MEX-SONYML.ts
 #EXTINF:-1 tvg-chno="123692" tvg-name="Sony Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s124605_ll_h15_aa.png" group-title="Mexico" tvg-id="SONYMS" tvc-guide-stationid="123692",Sony Movies
 http://example.local/MEX-SONYMS.ts
+#EXTINF:-1 tvg-chno="123608" tvg-name="Sony Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s124605_ll_h15_aa.png" group-title="Mexico" tvg-id="SONYML" tvc-guide-stationid="123608",Sony Movies
+http://example.local/MEX-SONYML.ts
 #EXTINF:-1 tvg-chno="124010" tvg-name="Sortilegio" tvg-logo="https://zap2it.tmsimg.com/assets/s124010_ll_h15_ab.png" group-title="Mexico" tvg-id="SORTI" tvc-guide-stationid="124010",Sortilegio
 http://example.local/MEX-SORTI.ts
 #EXTINF:-1 tvg-chno="60801" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="Mexico" tvg-id="SPACEM" tvc-guide-stationid="60801",Space
 http://example.local/MEX-SPACEM.ts
 #EXTINF:-1 tvg-chno="66349" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s68021_ll_h15_aa.png" group-title="Mexico" tvg-id="SPACMHD" tvc-guide-stationid="66349",Space
 http://example.local/MEX-SPACMHD.ts
-#EXTINF:-1 tvg-chno="70351" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="Mexico" tvg-id="SPACES" tvc-guide-stationid="70351",Space
-http://example.local/MEX-SPACES.ts
 #EXTINF:-1 tvg-chno="62982" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="Mexico" tvg-id="SPACEEM" tvc-guide-stationid="62982",Space
 http://example.local/MEX-SPACEEM.ts
+#EXTINF:-1 tvg-chno="70351" tvg-name="Space" tvg-logo="https://zap2it.tmsimg.com/assets/s16499_ll_h15_aa.png" group-title="Mexico" tvg-id="SPACES" tvc-guide-stationid="70351",Space
+http://example.local/MEX-SPACES.ts
 #EXTINF:-1 tvg-chno="15688" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_ll_h15_ac.png" group-title="Mexico" tvg-id="STARMEX" tvc-guide-stationid="15688",Star Channel
 http://example.local/MEX-STARMEX.ts
 #EXTINF:-1 tvg-chno="88534" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s88534_ll_h15_aa.png" group-title="Mexico" tvg-id="STARMHD" tvc-guide-stationid="88534",Star Channel
 http://example.local/MEX-STARMHD.ts
-#EXTINF:-1 tvg-chno="106790" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_ll_h15_ac.png" group-title="Mexico" tvg-id="STARGHD" tvc-guide-stationid="106790",Star Channel
-http://example.local/MEX-STARGHD.ts
 #EXTINF:-1 tvg-chno="81785" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s81785_ll_h15_ab.png" group-title="Mexico" tvg-id="STARCHAN" tvc-guide-stationid="81785",Star Channel
 http://example.local/MEX-STARCHAN.ts
+#EXTINF:-1 tvg-chno="106790" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_ll_h15_ac.png" group-title="Mexico" tvg-id="STARGHD" tvc-guide-stationid="106790",Star Channel
+http://example.local/MEX-STARGHD.ts
 #EXTINF:-1 tvg-chno="87056" tvg-name="Star Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87056_ll_h15_aa.png" group-title="Mexico" tvg-id="STARESHD" tvc-guide-stationid="87056",Star Channel HD
 http://example.local/MEX-STARESHD.ts
 #EXTINF:-1 tvg-chno="106724" tvg-name="Star TVE" tvg-logo="https://zap2it.tmsimg.com/assets/s106724_ll_h15_ac.png" group-title="Mexico" tvg-id="STARHD" tvc-guide-stationid="106724",Star TVE
@@ -1545,10 +1563,10 @@ http://example.local/MEX-SMESP38.ts
 http://example.local/MEX-SMESP75.ts
 #EXTINF:-1 tvg-chno="88781" tvg-name="Stingray Euro Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s95856_ll_h15_aa.png" group-title="Mexico" tvg-id="SMESP68" tvc-guide-stationid="88781",Stingray Euro Hits
 http://example.local/MEX-SMESP68.ts
-#EXTINF:-1 tvg-chno="68691" tvg-name="Stingray Felices Fiestas" tvg-logo="https://zap2it.tmsimg.com/assets/s95856_ll_h15_aa.png" group-title="Mexico" tvg-id="SMUS47" tvc-guide-stationid="68691",Stingray Felices Fiestas
-http://example.local/MEX-SMUS47.ts
 #EXTINF:-1 tvg-chno="77004" tvg-name="Stingray Felices Fiestas" tvg-logo="https://zap2it.tmsimg.com/assets/s95856_ll_h15_aa.png" group-title="Mexico" tvg-id="SMESP21" tvc-guide-stationid="77004",Stingray Felices Fiestas
 http://example.local/MEX-SMESP21.ts
+#EXTINF:-1 tvg-chno="68691" tvg-name="Stingray Felices Fiestas" tvg-logo="https://zap2it.tmsimg.com/assets/s95856_ll_h15_aa.png" group-title="Mexico" tvg-id="SMUS47" tvc-guide-stationid="68691",Stingray Felices Fiestas
+http://example.local/MEX-SMUS47.ts
 #EXTINF:-1 tvg-chno="67565" tvg-name="Stingray Flashback 70's" tvg-logo="https://zap2it.tmsimg.com/assets/s67565_ll_h15_aa.png" group-title="Mexico" tvg-id="SMUS05" tvc-guide-stationid="67565",Stingray Flashback 70's
 http://example.local/MEX-SMUS05.ts
 #EXTINF:-1 tvg-chno="68625" tvg-name="Stingray Groove (Disco and Funk)" tvg-logo="https://zap2it.tmsimg.com/assets/s95856_ll_h15_aa.png" group-title="Mexico" tvg-id="SMUS09" tvc-guide-stationid="68625",Stingray Groove (Disco and Funk)
@@ -1683,18 +1701,18 @@ http://example.local/MEX-STULM.ts
 http://example.local/MEX-STULMHD.ts
 #EXTINF:-1 tvg-chno="62672" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s29017_h3_ba.png" group-title="Mexico" tvg-id="STULCO" tvc-guide-stationid="62672",Studio Universal
 http://example.local/MEX-STULCO.ts
-#EXTINF:-1 tvg-chno="11097" tvg-name="SYFY" tvg-logo="https://zap2it.tmsimg.com/assets/s11097_h3_aa.png" group-title="Mexico" tvg-id="SYFY" tvc-guide-stationid="11097",SYFY
+#EXTINF:-1 tvg-chno="11097" tvg-name="SYFY" tvg-logo="https://zap2it.tmsimg.com/assets/s11097_ll_h15_ae.png" group-title="Mexico" tvg-id="SYFY" tvc-guide-stationid="11097",SYFY
 http://example.local/MEX-SYFY.ts
 #EXTINF:-1 tvg-chno="123961" tvg-name="Talk Show" tvg-logo="https://zap2it.tmsimg.com/assets/s123961_ll_h15_ab.png" group-title="Mexico" tvg-id="TALKS" tvc-guide-stationid="123961",Talk Show
 http://example.local/MEX-TALKS.ts
 #EXTINF:-1 tvg-chno="123956" tvg-name="Tastemade" tvg-logo="https://zap2it.tmsimg.com/assets/s123956_ll_h15_ab.png" group-title="Mexico" tvg-id="TASTVIX" tvc-guide-stationid="123956",Tastemade
 http://example.local/MEX-TASTVIX.ts
-#EXTINF:-1 tvg-chno="19246" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s19246_h3_aa.png" group-title="Mexico" tvg-id="TCML" tvc-guide-stationid="19246",TCM
+#EXTINF:-1 tvg-chno="19246" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s19246_ll_h15_ac.png" group-title="Mexico" tvg-id="TCML" tvc-guide-stationid="19246",TCM
 http://example.local/MEX-TCML.ts
-#EXTINF:-1 tvg-chno="72294" tvg-name="TeenNick" tvg-logo="https://zap2it.tmsimg.com/assets/s77783_ll_h15_ab.png" group-title="Mexico" tvg-id="NIKLAHD" tvc-guide-stationid="72294",TeenNick
-http://example.local/MEX-NIKLAHD.ts
 #EXTINF:-1 tvg-chno="77783" tvg-name="TeenNick" tvg-logo="https://zap2it.tmsimg.com/assets/s77783_ll_h15_ab.png" group-title="Mexico" tvg-id="NIKLAHS" tvc-guide-stationid="77783",TeenNick
 http://example.local/MEX-NIKLAHS.ts
+#EXTINF:-1 tvg-chno="72294" tvg-name="TeenNick" group-title="Mexico" tvg-id="NIKLAHD" tvc-guide-stationid="72294",TeenNick
+http://example.local/MEX-NIKLAHD.ts
 #EXTINF:-1 tvg-chno="103377" tvg-name="Telefe" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284GB5.png" group-title="Mexico" tvg-id="TELFEAH" tvc-guide-stationid="103377",Telefe
 http://example.local/MEX-TELFEAH.ts
 #EXTINF:-1 tvg-chno="16189" tvg-name="Telefe Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s100066_ll_h15_ad.png" group-title="Mexico" tvg-id="TEFEI" tvc-guide-stationid="16189",Telefe Internacional
@@ -1703,14 +1721,14 @@ http://example.local/MEX-TEFEI.ts
 http://example.local/MEX-TFORM.ts
 #EXTINF:-1 tvg-chno="87167" tvg-name="Teleformula HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87167_ll_h15_aa.png" group-title="Mexico" tvg-id="TFORMHD" tvc-guide-stationid="87167",Teleformula HD
 http://example.local/MEX-TFORMHD.ts
-#EXTINF:-1 tvg-chno="120477" tvg-name="Telehit" tvg-logo="https://zap2it.tmsimg.com/assets/s15211_h3_ba.png" group-title="Mexico" tvg-id="THITH" tvc-guide-stationid="120477",Telehit
-http://example.local/MEX-THITH.ts
 #EXTINF:-1 tvg-chno="15211" tvg-name="Telehit" tvg-logo="https://zap2it.tmsimg.com/assets/s15211_ll_h15_ac.png" group-title="Mexico" tvg-id="THIT" tvc-guide-stationid="15211",Telehit
 http://example.local/MEX-THIT.ts
-#EXTINF:-1 tvg-chno="116549" tvg-name="Telehit Música" tvg-logo="https://zap2it.tmsimg.com/assets/s34394_h3_ba.png" group-title="Mexico" tvg-id="THMUH" tvc-guide-stationid="116549",Telehit Música
-http://example.local/MEX-THMUH.ts
+#EXTINF:-1 tvg-chno="120477" tvg-name="Telehit" tvg-logo="https://zap2it.tmsimg.com/assets/s15211_ll_h15_ac.png" group-title="Mexico" tvg-id="THITH" tvc-guide-stationid="120477",Telehit
+http://example.local/MEX-THITH.ts
 #EXTINF:-1 tvg-chno="15210" tvg-name="Telehit Música" tvg-logo="https://zap2it.tmsimg.com/assets/s34394_ll_h15_ae.png" group-title="Mexico" tvg-id="THMU" tvc-guide-stationid="15210",Telehit Música
 http://example.local/MEX-THMU.ts
+#EXTINF:-1 tvg-chno="116549" tvg-name="Telehit Música" tvg-logo="https://zap2it.tmsimg.com/assets/s34394_ll_h15_ae.png" group-title="Mexico" tvg-id="THMUH" tvc-guide-stationid="116549",Telehit Música
+http://example.local/MEX-THMUH.ts
 #EXTINF:-1 tvg-chno="73070" tvg-name="Telehit Música Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s73070_ll_h15_ab.png" group-title="Mexico" tvg-id="THITPL" tvc-guide-stationid="73070",Telehit Música Plus
 http://example.local/MEX-THITPL.ts
 #EXTINF:-1 tvg-chno="64835" tvg-name="Telemundo Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s64835_ll_h15_ac.png" group-title="Mexico" tvg-id="CABTELE" tvc-guide-stationid="64835",Telemundo Internacional
@@ -1719,7 +1737,7 @@ http://example.local/MEX-CABTELE.ts
 http://example.local/MEX-TELICAH.ts
 #EXTINF:-1 tvg-chno="101442" tvg-name="Telemundo Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s102862_ll_h15_aa.png" group-title="Mexico" tvg-id="TELILF" tvc-guide-stationid="101442",Telemundo Internacional
 http://example.local/MEX-TELILF.ts
-#EXTINF:-1 tvg-chno="140179" tvg-name="Telemundo Internacional HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102862_h3_aa.png" group-title="Mexico" tvg-id="CABTLHD" tvc-guide-stationid="140179",Telemundo Internacional HD
+#EXTINF:-1 tvg-chno="140179" tvg-name="Telemundo Internacional HD" tvg-logo="https://zap2it.tmsimg.com/assets/s102862_ll_h15_aa.png" group-title="Mexico" tvg-id="CABTLHD" tvc-guide-stationid="140179",Telemundo Internacional HD
 http://example.local/MEX-CABTLHD.ts
 #EXTINF:-1 tvg-chno="32749" tvg-name="Teleritmo" tvg-logo="https://zap2it.tmsimg.com/assets/s32749_ll_h15_ab.png" group-title="Mexico" tvg-id="TRIT" tvc-guide-stationid="32749",Teleritmo
 http://example.local/MEX-TRIT.ts
@@ -1737,20 +1755,20 @@ http://example.local/MEX-DWEATHS.ts
 http://example.local/MEX-TLCMEX.ts
 #EXTINF:-1 tvg-chno="107373" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s73822_ll_h15_ae.png" group-title="Mexico" tvg-id="TLCMXH" tvc-guide-stationid="107373",TLC
 http://example.local/MEX-TLCMXH.ts
-#EXTINF:-1 tvg-chno="115895" tvg-name="TLNovelas" tvg-logo="https://zap2it.tmsimg.com/assets/s37232_ll_h15_ab.png" group-title="Mexico" tvg-id="TLNOVLH" tvc-guide-stationid="115895",TLNovelas
-http://example.local/MEX-TLNOVLH.ts
 #EXTINF:-1 tvg-chno="37232" tvg-name="TLNovelas" tvg-logo="https://zap2it.tmsimg.com/assets/s37232_ll_h15_ab.png" group-title="Mexico" tvg-id="TLNOVEL" tvc-guide-stationid="37232",TLNovelas
 http://example.local/MEX-TLNOVEL.ts
-#EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Mexico" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
+#EXTINF:-1 tvg-chno="115895" tvg-name="TLNovelas" tvg-logo="https://zap2it.tmsimg.com/assets/s37232_ll_h15_ab.png" group-title="Mexico" tvg-id="TLNOVLH" tvc-guide-stationid="115895",TLNovelas
+http://example.local/MEX-TLNOVLH.ts
+#EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_h3_ba.png" group-title="Mexico" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
 http://example.local/MEX-TNTLC.ts
 #EXTINF:-1 tvg-chno="80807" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Mexico" tvg-id="TNTLAHD" tvc-guide-stationid="80807",TNT
 http://example.local/MEX-TNTLAHD.ts
-#EXTINF:-1 tvg-chno="91987" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Mexico" tvg-id="TNTLA" tvc-guide-stationid="91987",TNT
-http://example.local/MEX-TNTLA.ts
-#EXTINF:-1 tvg-chno="83143" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_h3_aa.png" group-title="Mexico" tvg-id="TNTLDEN" tvc-guide-stationid="83143",TNT
-http://example.local/MEX-TNTLDEN.ts
 #EXTINF:-1 tvg-chno="89899" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Mexico" tvg-id="TNTLAMH" tvc-guide-stationid="89899",TNT
 http://example.local/MEX-TNTLAMH.ts
+#EXTINF:-1 tvg-chno="83143" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Mexico" tvg-id="TNTLDEN" tvc-guide-stationid="83143",TNT
+http://example.local/MEX-TNTLDEN.ts
+#EXTINF:-1 tvg-chno="91987" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Mexico" tvg-id="TNTLA" tvc-guide-stationid="91987",TNT
+http://example.local/MEX-TNTLA.ts
 #EXTINF:-1 tvg-chno="140027" tvg-name="TNT Novelas" tvg-logo="https://zap2it.tmsimg.com/assets/s140026_ll_h15_aa.png" group-title="Mexico" tvg-id="TNOVESH" tvc-guide-stationid="140027",TNT Novelas
 http://example.local/MEX-TNOVESH.ts
 #EXTINF:-1 tvg-chno="140026" tvg-name="TNT Novelas" tvg-logo="https://zap2it.tmsimg.com/assets/s140026_ll_h15_aa.png" group-title="Mexico" tvg-id="TNOVES" tvc-guide-stationid="140026",TNT Novelas
@@ -1759,12 +1777,12 @@ http://example.local/MEX-TNOVES.ts
 http://example.local/MEX-TNTSMS.ts
 #EXTINF:-1 tvg-chno="92075" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_ll_h15_ab.png" group-title="Mexico" tvg-id="TNTSPAH" tvc-guide-stationid="92075",TNT Series
 http://example.local/MEX-TNTSPAH.ts
-#EXTINF:-1 tvg-chno="91993" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_ll_h15_ab.png" group-title="Mexico" tvg-id="TNTSER" tvc-guide-stationid="91993",TNT Series
-http://example.local/MEX-TNTSER.ts
-#EXTINF:-1 tvg-chno="107365" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_h3_aa.png" group-title="Mexico" tvg-id="TNTSMX" tvc-guide-stationid="107365",TNT Series
-http://example.local/MEX-TNTSMX.ts
 #EXTINF:-1 tvg-chno="106709" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_ll_h15_ab.png" group-title="Mexico" tvg-id="TNTSERH" tvc-guide-stationid="106709",TNT Series
 http://example.local/MEX-TNTSERH.ts
+#EXTINF:-1 tvg-chno="107365" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_h3_aa.png" group-title="Mexico" tvg-id="TNTSMX" tvc-guide-stationid="107365",TNT Series
+http://example.local/MEX-TNTSMX.ts
+#EXTINF:-1 tvg-chno="91993" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_ll_h15_ab.png" group-title="Mexico" tvg-id="TNTSER" tvc-guide-stationid="91993",TNT Series
+http://example.local/MEX-TNTSER.ts
 #EXTINF:-1 tvg-chno="136855" tvg-name="Toda La Casa 24/7" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002673RX.png" group-title="Mexico" tvg-id="TDLAC1" tvc-guide-stationid="136855",Toda La Casa 24/7
 http://example.local/MEX-TDLAC1.ts
 #EXTINF:-1 tvg-chno="148558" tvg-name="Todo Cine" tvg-logo="https://zap2it.tmsimg.com/assets/s148558_ll_h15_aa.png" group-title="Mexico" tvg-id="TCINE" tvc-guide-stationid="148558",Todo Cine
@@ -1787,14 +1805,14 @@ http://example.local/MEX-TRIUAMA.ts
 http://example.local/MEX-TRUTV.ts
 #EXTINF:-1 tvg-chno="138843" tvg-name="Tu Clío" tvg-logo="https://zap2it.tmsimg.com/assets/s138843_ll_h15_aa.png" group-title="Mexico" tvg-id="TUCL" tvc-guide-stationid="138843",Tu Clío
 http://example.local/MEX-TUCL.ts
-#EXTINF:-1 tvg-chno="75176" tvg-name="TUDN" tvg-logo="https://zap2it.tmsimg.com/assets/s75176_h3_aa.png" group-title="Mexico" tvg-id="TUDNU" tvc-guide-stationid="75176",TUDN
-http://example.local/MEX-TUDNU.ts
+#EXTINF:-1 tvg-chno="38683" tvg-name="TUDN" tvg-logo="https://zap2it.tmsimg.com/assets/s65129_ll_h15_aa.png" group-title="Mexico" tvg-id="TUDNM" tvc-guide-stationid="38683",TUDN
+http://example.local/MEX-TUDNM.ts
 #EXTINF:-1 tvg-chno="65129" tvg-name="TUDN" tvg-logo="https://zap2it.tmsimg.com/assets/s65129_ll_h15_aa.png" group-title="Mexico" tvg-id="TUDNMH" tvc-guide-stationid="65129",TUDN
 http://example.local/MEX-TUDNMH.ts
-#EXTINF:-1 tvg-chno="38683" tvg-name="TUDN" tvg-logo="https://zap2it.tmsimg.com/assets/s65129_h3_aa.png" group-title="Mexico" tvg-id="TUDNM" tvc-guide-stationid="38683",TUDN
-http://example.local/MEX-TUDNM.ts
 #EXTINF:-1 tvg-chno="77068" tvg-name="TUDN" tvg-logo="https://zap2it.tmsimg.com/assets/s89113_ll_h15_ac.png" group-title="Mexico" tvg-id="TUDNC" tvc-guide-stationid="77068",TUDN
 http://example.local/MEX-TUDNC.ts
+#EXTINF:-1 tvg-chno="75176" tvg-name="TUDN" tvg-logo="https://zap2it.tmsimg.com/assets/s75176_ll_h15_ae.png" group-title="Mexico" tvg-id="TUDNU" tvc-guide-stationid="75176",TUDN
+http://example.local/MEX-TUDNU.ts
 #EXTINF:-1 tvg-chno="16046" tvg-name="TV Chile" tvg-logo="https://zap2it.tmsimg.com/assets/s16046_ll_h15_ab.png" group-title="Mexico" tvg-id="TVNI" tvc-guide-stationid="16046",TV Chile
 http://example.local/MEX-TVNI.ts
 #EXTINF:-1 tvg-chno="47558" tvg-name="TV Hidalgo" group-title="Mexico" tvg-id="HIDALGO" tvc-guide-stationid="47558",TV Hidalgo
@@ -1807,11 +1825,11 @@ http://example.local/MEX-TXMEXHD.ts
 http://example.local/MEX-TVMIGRAS.ts
 #EXTINF:-1 tvg-chno="47664" tvg-name="TV Tabasquena" group-title="Mexico" tvg-id="TVT" tvc-guide-stationid="47664",TV Tabasquena
 http://example.local/MEX-TVT.ts
-#EXTINF:-1 tvg-chno="114312" tvg-name="TV UNAM" tvg-logo="https://zap2it.tmsimg.com/assets/s116169_h3_aa.png" group-title="Mexico" tvg-id="UNAIZD2" tvc-guide-stationid="114312",TV UNAM
+#EXTINF:-1 tvg-chno="114312" tvg-name="TV UNAM" tvg-logo="https://zap2it.tmsimg.com/assets/s116169_ll_h15_aa.png" group-title="Mexico" tvg-id="UNAIZD2" tvc-guide-stationid="114312",TV UNAM
 http://example.local/MEX-UNAIZD2.ts
 #EXTINF:-1 tvg-chno="16422" tvg-name="TV5 Latin America" tvg-logo="https://zap2it.tmsimg.com/assets/s16422_ll_h15_aa.png" group-title="Mexico" tvg-id="TV5L" tvc-guide-stationid="16422",TV5 Latin America
 http://example.local/MEX-TV5L.ts
-#EXTINF:-1 tvg-chno="95641" tvg-name="TV5 Monde Europe HD" tvg-logo="https://zap2it.tmsimg.com/assets/s95641_ll_h15_ab.png" group-title="Mexico" tvg-id="TV5MHD" tvc-guide-stationid="95641",TV5 Monde Europe HD
+#EXTINF:-1 tvg-chno="95641" tvg-name="TV5 Monde Europe HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002M09E0.png" group-title="Mexico" tvg-id="TV5MHD" tvc-guide-stationid="95641",TV5 Monde Europe HD
 http://example.local/MEX-TV5MHD.ts
 #EXTINF:-1 tvg-chno="60855" tvg-name="TVC Delay Feed" tvg-logo="https://zap2it.tmsimg.com/assets/s16292_ll_h9_ab.png" group-title="Mexico" tvg-id="TVCD" tvc-guide-stationid="60855",TVC Delay Feed
 http://example.local/MEX-TVCD.ts
@@ -1829,52 +1847,54 @@ http://example.local/MEX-TVE.ts
 http://example.local/MEX-TVEIH.ts
 #EXTINF:-1 tvg-chno="90400" tvg-name="TVG" tvg-logo="https://zap2it.tmsimg.com/assets/s90400_ll_h15_aa.png" group-title="Mexico" tvg-id="TVGES" tvc-guide-stationid="90400",TVG
 http://example.local/MEX-TVGES.ts
+#EXTINF:-1 tvg-chno="16275" tvg-name="TyC Sports" tvg-logo="https://zap2it.tmsimg.com/assets/s16275_ll_h15_aa.png" group-title="Mexico" tvg-id="TYC" tvc-guide-stationid="16275",TyC Sports
+http://example.local/MEX-TYC.ts
 #EXTINF:-1 tvg-chno="90677" tvg-name="TyC Sports HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90677_ll_h15_aa.png" group-title="Mexico" tvg-id="TYCHD" tvc-guide-stationid="90677",TyC Sports HD
 http://example.local/MEX-TYCHD.ts
+#EXTINF:-1 tvg-chno="112117" tvg-name="TyC Sports International" tvg-logo="https://zap2it.tmsimg.com/assets/s16275_ll_h15_aa.png" group-title="Mexico" tvg-id="TYCINTH" tvc-guide-stationid="112117",TyC Sports International
+http://example.local/MEX-TYCINTH.ts
 #EXTINF:-1 tvg-chno="62043" tvg-name="TyC Sports International" tvg-logo="https://zap2it.tmsimg.com/assets/s16275_ll_h15_aa.png" group-title="Mexico" tvg-id="TYCINTL" tvc-guide-stationid="62043",TyC Sports International
 http://example.local/MEX-TYCINTL.ts
-#EXTINF:-1 tvg-chno="112117" tvg-name="TyC Sports International" tvg-logo="https://zap2it.tmsimg.com/assets/s16275_h3_ba.png" group-title="Mexico" tvg-id="TYCINTH" tvc-guide-stationid="112117",TyC Sports International
-http://example.local/MEX-TYCINTH.ts
 #EXTINF:-1 tvg-chno="114732" tvg-name="U-Beat HD" tvg-logo="https://zap2it.tmsimg.com/assets/s114732_ll_h15_aa.png" group-title="Mexico" tvg-id="UBEAT" tvc-guide-stationid="114732",U-Beat HD
 http://example.local/MEX-UBEAT.ts
 #EXTINF:-1 tvg-chno="123912" tvg-name="Una familia con suerte" tvg-logo="https://zap2it.tmsimg.com/assets/s123912_ll_h15_ab.png" group-title="Mexico" tvg-id="UNFASU" tvc-guide-stationid="123912",Una familia con suerte
 http://example.local/MEX-UNFASU.ts
 #EXTINF:-1 tvg-chno="125020" tvg-name="Una Familia de Diez" tvg-logo="https://zap2it.tmsimg.com/assets/s125020_ll_h15_ab.png" group-title="Mexico" tvg-id="UFDD" tvc-guide-stationid="125020",Una Familia de Diez
 http://example.local/MEX-UFDD.ts
-#EXTINF:-1 tvg-chno="84425" tvg-name="Unicable" tvg-logo="https://zap2it.tmsimg.com/assets/s16521_h3_aa.png" group-title="Mexico" tvg-id="UNICHD" tvc-guide-stationid="84425",Unicable
-http://example.local/MEX-UNICHD.ts
 #EXTINF:-1 tvg-chno="16521" tvg-name="Unicable" tvg-logo="https://zap2it.tmsimg.com/assets/s16521_ll_h15_ad.png" group-title="Mexico" tvg-id="UNIC" tvc-guide-stationid="16521",Unicable
 http://example.local/MEX-UNIC.ts
-#EXTINF:-1 tvg-chno="29058" tvg-name="UniMas (UNIMAS)" tvg-logo="https://zap2it.tmsimg.com/assets/s29058_h3_aa.png" group-title="Mexico" tvg-id="UNIMAS" tvc-guide-stationid="29058",UniMas (UNIMAS)
+#EXTINF:-1 tvg-chno="84425" tvg-name="Unicable" tvg-logo="https://zap2it.tmsimg.com/assets/s16521_h3_aa.png" group-title="Mexico" tvg-id="UNICHD" tvc-guide-stationid="84425",Unicable
+http://example.local/MEX-UNICHD.ts
+#EXTINF:-1 tvg-chno="29058" tvg-name="UniMas (UNIMAS)" tvg-logo="https://zap2it.tmsimg.com/assets/s29058_ll_h15_ab.png" group-title="Mexico" tvg-id="UNIMAS" tvc-guide-stationid="29058",UniMas (UNIMAS)
 http://example.local/MEX-UNIMAS.ts
-#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
-http://example.local/MEX-UNICI.ts
 #EXTINF:-1 tvg-chno="122767" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICIM" tvc-guide-stationid="122767",Universal Cinema
 http://example.local/MEX-UNICIM.ts
+#EXTINF:-1 tvg-chno="121869" tvg-name="Universal Cinema" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICI" tvc-guide-stationid="121869",Universal Cinema
+http://example.local/MEX-UNICI.ts
 #EXTINF:-1 tvg-chno="122548" tvg-name="Universal Cinema HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121869_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICIZ" tvc-guide-stationid="122548",Universal Cinema HD
 http://example.local/MEX-UNICIZ.ts
+#EXTINF:-1 tvg-chno="122769" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICOM" tvc-guide-stationid="122769",Universal Comedy
+http://example.local/MEX-UNICOM.ts
 #EXTINF:-1 tvg-chno="121870" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICO" tvc-guide-stationid="121870",Universal Comedy
 http://example.local/MEX-UNICO.ts
-#EXTINF:-1 tvg-chno="122769" tvg-name="Universal Comedy" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_h3_aa.png" group-title="Mexico" tvg-id="UNICOM" tvc-guide-stationid="122769",Universal Comedy
-http://example.local/MEX-UNICOM.ts
 #EXTINF:-1 tvg-chno="122550" tvg-name="Universal Comedy HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121870_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICOZ" tvc-guide-stationid="122550",Universal Comedy HD
 http://example.local/MEX-UNICOZ.ts
-#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
-http://example.local/MEX-UNICR.ts
 #EXTINF:-1 tvg-chno="122765" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICRM" tvc-guide-stationid="122765",Universal Crime
 http://example.local/MEX-UNICRM.ts
+#EXTINF:-1 tvg-chno="121868" tvg-name="Universal Crime" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICR" tvc-guide-stationid="121868",Universal Crime
+http://example.local/MEX-UNICR.ts
 #EXTINF:-1 tvg-chno="122551" tvg-name="Universal Crime HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121868_ll_h15_aa.png" group-title="Mexico" tvg-id="UNICRZ" tvc-guide-stationid="122551",Universal Crime HD
 http://example.local/MEX-UNICRZ.ts
-#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Mexico" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
-http://example.local/MEX-UNIPR.ts
 #EXTINF:-1 tvg-chno="122761" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Mexico" tvg-id="UNIPRM" tvc-guide-stationid="122761",Universal Premiere
 http://example.local/MEX-UNIPRM.ts
+#EXTINF:-1 tvg-chno="121866" tvg-name="Universal Premiere" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Mexico" tvg-id="UNIPR" tvc-guide-stationid="121866",Universal Premiere
+http://example.local/MEX-UNIPR.ts
 #EXTINF:-1 tvg-chno="122545" tvg-name="Universal Premiere HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121866_ll_h15_aa.png" group-title="Mexico" tvg-id="UNIPRZ" tvc-guide-stationid="122545",Universal Premiere HD
 http://example.local/MEX-UNIPRZ.ts
-#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Mexico" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
-http://example.local/MEX-UNIRE.ts
 #EXTINF:-1 tvg-chno="122763" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Mexico" tvg-id="UNIREM" tvc-guide-stationid="122763",Universal Reality
 http://example.local/MEX-UNIREM.ts
+#EXTINF:-1 tvg-chno="121867" tvg-name="Universal Reality" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Mexico" tvg-id="UNIRE" tvc-guide-stationid="121867",Universal Reality
+http://example.local/MEX-UNIRE.ts
 #EXTINF:-1 tvg-chno="122552" tvg-name="Universal Reality HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121867_ll_h15_aa.png" group-title="Mexico" tvg-id="UNIREZ" tvc-guide-stationid="122552",Universal Reality HD
 http://example.local/MEX-UNIREZ.ts
 #EXTINF:-1 tvg-chno="16799" tvg-name="Universal TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53218_ll_h15_ab.png" group-title="Mexico" tvg-id="UNTVM" tvc-guide-stationid="16799",Universal TV
@@ -1889,10 +1909,10 @@ http://example.local/MEX-UNTVCOH.ts
 http://example.local/MEX-UNI.ts
 #EXTINF:-1 tvg-chno="75951" tvg-name="Univision TDN" tvg-logo="https://zap2it.tmsimg.com/assets/s75176_ll_h15_ae.png" group-title="Mexico" tvg-id="UTDN" tvc-guide-stationid="75951",Univision TDN
 http://example.local/MEX-UTDN.ts
-#EXTINF:-1 tvg-chno="101327" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Mexico" tvg-id="USALAH" tvc-guide-stationid="101327",USA
-http://example.local/MEX-USALAH.ts
 #EXTINF:-1 tvg-chno="56727" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Mexico" tvg-id="USALA" tvc-guide-stationid="56727",USA
 http://example.local/MEX-USALA.ts
+#EXTINF:-1 tvg-chno="101327" tvg-name="USA" tvg-logo="https://zap2it.tmsimg.com/assets/s56727_ll_h15_ad.png" group-title="Mexico" tvg-id="USALAH" tvc-guide-stationid="101327",USA
+http://example.local/MEX-USALAH.ts
 #EXTINF:-1 tvg-chno="99240" tvg-name="Ve Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s99240_h3_aa.png" group-title="Mexico" tvg-id="VEPTVHD" tvc-guide-stationid="99240",Ve Plus
 http://example.local/MEX-VEPTVHD.ts
 #EXTINF:-1 tvg-chno="124013" tvg-name="Vecinos" tvg-logo="https://zap2it.tmsimg.com/assets/s124013_ll_h15_ab.png" group-title="Mexico" tvg-id="VECINA" tvc-guide-stationid="124013",Vecinos
@@ -1923,6 +1943,10 @@ http://example.local/MEX-VROLA.ts
 http://example.local/MEX-VROLAHD.ts
 #EXTINF:-1 tvg-chno="125015" tvg-name="ViX Cine Retro" tvg-logo="https://zap2it.tmsimg.com/assets/s125015_ll_h15_aa.png" group-title="Mexico" tvg-id="CINRE" tvc-guide-stationid="125015",ViX Cine Retro
 http://example.local/MEX-CINRE.ts
+#EXTINF:-1 tvg-chno="202663" tvg-name="ViX Deportes (49)" group-title="Mexico" tvg-id="VD49" tvc-guide-stationid="202663",ViX Deportes (49)
+http://example.local/MEX-VD49.ts
+#EXTINF:-1 tvg-chno="202664" tvg-name="ViX Deportes (50)" group-title="Mexico" tvg-id="VD50" tvc-guide-stationid="202664",ViX Deportes (50)
+http://example.local/MEX-VD50.ts
 #EXTINF:-1 tvg-chno="123939" tvg-name="ViX Deportes 21" tvg-logo="https://zap2it.tmsimg.com/assets/s123939_ll_h15_ab.png" group-title="Mexico" tvg-id="VD21" tvc-guide-stationid="123939",ViX Deportes 21
 http://example.local/MEX-VD21.ts
 #EXTINF:-1 tvg-chno="123941" tvg-name="ViX Deportes 22" tvg-logo="https://zap2it.tmsimg.com/assets/s123941_ll_h15_ab.png" group-title="Mexico" tvg-id="VD22" tvc-guide-stationid="123941",ViX Deportes 22
@@ -1937,6 +1961,22 @@ http://example.local/MEX-VD38.ts
 http://example.local/MEX-VID39.ts
 #EXTINF:-1 tvg-chno="146447" tvg-name="ViX Deportes 40" group-title="Mexico" tvg-id="VID40" tvc-guide-stationid="146447",ViX Deportes 40
 http://example.local/MEX-VID40.ts
+#EXTINF:-1 tvg-chno="201625" tvg-name="ViX Deportes 41" group-title="Mexico" tvg-id="VIXOLF1" tvc-guide-stationid="201625",ViX Deportes 41
+http://example.local/MEX-VIXOLF1.ts
+#EXTINF:-1 tvg-chno="201626" tvg-name="ViX Deportes 42" group-title="Mexico" tvg-id="VIXOLF2" tvc-guide-stationid="201626",ViX Deportes 42
+http://example.local/MEX-VIXOLF2.ts
+#EXTINF:-1 tvg-chno="201627" tvg-name="ViX Deportes 43" group-title="Mexico" tvg-id="VIXOLF3" tvc-guide-stationid="201627",ViX Deportes 43
+http://example.local/MEX-VIXOLF3.ts
+#EXTINF:-1 tvg-chno="201660" tvg-name="ViX Deportes 44" group-title="Mexico" tvg-id="VIXOLF4" tvc-guide-stationid="201660",ViX Deportes 44
+http://example.local/MEX-VIXOLF4.ts
+#EXTINF:-1 tvg-chno="201661" tvg-name="ViX Deportes 45" group-title="Mexico" tvg-id="VIXOLF5" tvc-guide-stationid="201661",ViX Deportes 45
+http://example.local/MEX-VIXOLF5.ts
+#EXTINF:-1 tvg-chno="201662" tvg-name="ViX Deportes 46" group-title="Mexico" tvg-id="VIXOLF6" tvc-guide-stationid="201662",ViX Deportes 46
+http://example.local/MEX-VIXOLF6.ts
+#EXTINF:-1 tvg-chno="201663" tvg-name="ViX Deportes 47" group-title="Mexico" tvg-id="VIXOLF7" tvc-guide-stationid="201663",ViX Deportes 47
+http://example.local/MEX-VIXOLF7.ts
+#EXTINF:-1 tvg-chno="201664" tvg-name="ViX Deportes 48" group-title="Mexico" tvg-id="VIXOLF8" tvc-guide-stationid="201664",ViX Deportes 48
+http://example.local/MEX-VIXOLF8.ts
 #EXTINF:-1 tvg-chno="167229" tvg-name="ViX Música" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Mexico" tvg-id="CAVIMX" tvc-guide-stationid="167229",ViX Música
 http://example.local/MEX-CAVIMX.ts
 #EXTINF:-1 tvg-chno="124057" tvg-name="ViX Novelas en Familia" tvg-logo="https://zap2it.tmsimg.com/assets/s124057_ll_h15_aa.png" group-title="Mexico" tvg-id="NFAM" tvc-guide-stationid="124057",ViX Novelas en Familia
@@ -1957,11 +1997,11 @@ http://example.local/MEX-VOLV.ts
 http://example.local/MEX-WAPAP.ts
 #EXTINF:-1 tvg-chno="16213" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_ll_h15_ae.png" group-title="Mexico" tvg-id="WBL" tvc-guide-stationid="16213",Warner Channel
 http://example.local/MEX-WBL.ts
-#EXTINF:-1 tvg-chno="98111" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_h3_aa.png" group-title="Mexico" tvg-id="WBLMHD" tvc-guide-stationid="98111",Warner Channel
+#EXTINF:-1 tvg-chno="98111" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_ll_h15_ae.png" group-title="Mexico" tvg-id="WBLMHD" tvc-guide-stationid="98111",Warner Channel
 http://example.local/MEX-WBLMHD.ts
 #EXTINF:-1 tvg-chno="37771" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_ll_h15_ae.png" group-title="Mexico" tvg-id="WOLEARG" tvc-guide-stationid="37771",Warner Channel
 http://example.local/MEX-WOLEARG.ts
-#EXTINF:-1 tvg-chno="80808" tvg-name="Warner Channel Mexico HD" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_h3_aa.png" group-title="Mexico" tvg-id="WBLH" tvc-guide-stationid="80808",Warner Channel Mexico HD
+#EXTINF:-1 tvg-chno="80808" tvg-name="Warner Channel Mexico HD" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_ll_h15_ae.png" group-title="Mexico" tvg-id="WBLH" tvc-guide-stationid="80808",Warner Channel Mexico HD
 http://example.local/MEX-WBLH.ts
 #EXTINF:-1 tvg-chno="111816" tvg-name="Wizz Sports Lite (IZZI)" tvg-logo="https://zap2it.tmsimg.com/assets/s111815_ll_h15_aa.png" group-title="Mexico" tvg-id="WIZLT" tvc-guide-stationid="111816",Wizz Sports Lite (IZZI)
 http://example.local/MEX-WIZLT.ts
@@ -1971,11 +2011,11 @@ http://example.local/MEX-WLTVDT.ts
 http://example.local/MEX-WOBI.ts
 #EXTINF:-1 tvg-chno="64046" tvg-name="World Fishing Network HD (US)" tvg-logo="https://zap2it.tmsimg.com/assets/s64046_ll_h15_aa.png" group-title="Mexico" tvg-id="WFNUSHD" tvc-guide-stationid="64046",World Fishing Network HD (US)
 http://example.local/MEX-WFNUSHD.ts
-#EXTINF:-1 tvg-chno="35361" tvg-name="WXTV-DT (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_ll_h15_ab.png" group-title="Mexico" tvg-id="WXTVDT" tvc-guide-stationid="35361",WXTV-DT (UNI)
+#EXTINF:-1 tvg-chno="35361" tvg-name="WXTV-DT (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" group-title="Mexico" tvg-id="WXTVDT" tvc-guide-stationid="35361",WXTV-DT (UNI)
 http://example.local/MEX-WXTVDT.ts
 #EXTINF:-1 tvg-chno="91847" tvg-name="XEDK-TDT (NU9NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116171_ll_h15_aa.png" group-title="Mexico" tvg-id="XEDKTDT" tvc-guide-stationid="91847",XEDK-TDT (NU9NET)
 http://example.local/MEX-XEDKTDT.ts
-#EXTINF:-1 tvg-chno="26130" tvg-name="XEFB" tvg-logo="https://zap2it.tmsimg.com/assets/s26130_h3_aa.png" group-title="Mexico" tvg-id="XEFB" tvc-guide-stationid="26130",XEFB
+#EXTINF:-1 tvg-chno="26130" tvg-name="XEFB" tvg-logo="https://zap2it.tmsimg.com/assets/s26130_ll_h15_aa.png" group-title="Mexico" tvg-id="XEFB" tvc-guide-stationid="26130",XEFB
 http://example.local/MEX-XEFB.ts
 #EXTINF:-1 tvg-chno="91729" tvg-name="XEFB-TDT" tvg-logo="https://zap2it.tmsimg.com/assets/s26130_h3_aa.png" group-title="Mexico" tvg-id="XEFBTDT" tvc-guide-stationid="91729",XEFB-TDT
 http://example.local/MEX-XEFBTDT.ts
@@ -2011,7 +2051,7 @@ http://example.local/MEX-XEW2.ts
 http://example.local/MEX-XEWDT2A.ts
 #EXTINF:-1 tvg-chno="36266" tvg-name="XEW1" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png" group-title="Mexico" tvg-id="XEW1" tvc-guide-stationid="36266",XEW1
 http://example.local/MEX-XEW1.ts
-#EXTINF:-1 tvg-chno="70110" tvg-name="XEW2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_h3_aa.png" group-title="Mexico" tvg-id="XEW2HD" tvc-guide-stationid="70110",XEW2 HD
+#EXTINF:-1 tvg-chno="70110" tvg-name="XEW2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png" group-title="Mexico" tvg-id="XEW2HD" tvc-guide-stationid="70110",XEW2 HD
 http://example.local/MEX-XEW2HD.ts
 #EXTINF:-1 tvg-chno="47440" tvg-name="XEWH-TDT" group-title="Mexico" tvg-id="XEWHTDT" tvc-guide-stationid="47440",XEWH-TDT
 http://example.local/MEX-XEWHTDT.ts
@@ -2069,7 +2109,7 @@ http://example.local/MEX-XHAQTDT2.ts
 http://example.local/MEX-XHAQR.ts
 #EXTINF:-1 tvg-chno="96750" tvg-name="XHAQR-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png" group-title="Mexico" tvg-id="XHAQRTDT" tvc-guide-stationid="96750",XHAQR-TDT (AZ7NET)
 http://example.local/MEX-XHAQRTDT.ts
-#EXTINF:-1 tvg-chno="64347" tvg-name="XHAS-TDT (ESTRLLA)" tvg-logo="https://zap2it.tmsimg.com/assets/s65064_h3_ba.png" group-title="Mexico" tvg-id="XHASTDT" tvc-guide-stationid="64347",XHAS-TDT (ESTRLLA)
+#EXTINF:-1 tvg-chno="64347" tvg-name="XHAS-TDT" group-title="Mexico" tvg-id="XHASTDT" tvc-guide-stationid="64347",XHAS-TDT
 http://example.local/MEX-XHASTDT.ts
 #EXTINF:-1 tvg-chno="91863" tvg-name="XHATZ-TDT (NU9NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116171_ll_h15_aa.png" group-title="Mexico" tvg-id="XHATZTDT" tvc-guide-stationid="91863",XHATZ-TDT (NU9NET)
 http://example.local/MEX-XHATZTDT.ts
@@ -2077,7 +2117,7 @@ http://example.local/MEX-XHATZTDT.ts
 http://example.local/MEX-XHAUCTDT.ts
 #EXTINF:-1 tvg-chno="54300" tvg-name="XHAW-TDT (MULTVHD)" tvg-logo="https://zap2it.tmsimg.com/assets/s91505_h3_ba.png" group-title="Mexico" tvg-id="XHAWTDT" tvc-guide-stationid="54300",XHAW-TDT (MULTVHD)
 http://example.local/MEX-XHAWTDT.ts
-#EXTINF:-1 tvg-chno="99794" tvg-name="XHAW-TDT2 (MULTVHD)" tvg-logo="https://zap2it.tmsimg.com/assets/s91505_h3_ba.png" group-title="Mexico" tvg-id="XHAWTDT2" tvc-guide-stationid="99794",XHAW-TDT2 (MULTVHD)
+#EXTINF:-1 tvg-chno="99794" tvg-name="XHAW-TDT2 (MULTVHD)" tvg-logo="https://zap2it.tmsimg.com/assets/s91505_ll_h15_ab.png" group-title="Mexico" tvg-id="XHAWTDT2" tvc-guide-stationid="99794",XHAW-TDT2 (MULTVHD)
 http://example.local/MEX-XHAWTDT2.ts
 #EXTINF:-1 tvg-chno="96696" tvg-name="XHAZL-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_h3_aa.png" group-title="Mexico" tvg-id="XHAZLTDT" tvc-guide-stationid="96696",XHAZL-TDT (AZ1NET)
 http://example.local/MEX-XHAZLTDT.ts
@@ -2099,7 +2139,7 @@ http://example.local/MEX-XHBMTDT.ts
 http://example.local/MEX-XHBOTDT.ts
 #EXTINF:-1 tvg-chno="96778" tvg-name="XHBQ-TDT (C5NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116152_ll_h15_aa.png" group-title="Mexico" tvg-id="XHBQTDT" tvc-guide-stationid="96778",XHBQ-TDT (C5NET)
 http://example.local/MEX-XHBQTDT.ts
-#EXTINF:-1 tvg-chno="90278" tvg-name="XHBR-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png" group-title="Mexico" tvg-id="XHBRTDT" tvc-guide-stationid="90278",XHBR-TDT (ESTRNET)
+#EXTINF:-1 tvg-chno="90278" tvg-name="XHBR-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_h3_ba.png" group-title="Mexico" tvg-id="XHBRTDT" tvc-guide-stationid="90278",XHBR-TDT (ESTRNET)
 http://example.local/MEX-XHBRTDT.ts
 #EXTINF:-1 tvg-chno="107919" tvg-name="XHBR-TDT2 (C5NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116152_ll_h15_aa.png" group-title="Mexico" tvg-id="XHBRTDT2" tvc-guide-stationid="107919",XHBR-TDT2 (C5NET)
 http://example.local/MEX-XHBRTDT2.ts
@@ -2135,7 +2175,7 @@ http://example.local/MEX-XHCCNTDT.ts
 http://example.local/MEX-XHCCQ.ts
 #EXTINF:-1 tvg-chno="96748" tvg-name="XHCCQ-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_h3_aa.png" group-title="Mexico" tvg-id="XHCCQTDT" tvc-guide-stationid="96748",XHCCQ-TDT (AZ1NET)
 http://example.local/MEX-XHCCQTDT.ts
-#EXTINF:-1 tvg-chno="115513" tvg-name="XHCCQ-TDT2 (ADNNOT)" tvg-logo="https://zap2it.tmsimg.com/assets/s15384_h3_ba.png" group-title="Mexico" tvg-id="XHCCQTDT2" tvc-guide-stationid="115513",XHCCQ-TDT2 (ADNNOT)
+#EXTINF:-1 tvg-chno="115513" tvg-name="XHCCQ-TDT2 (ADNNOT)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002BFC89.png" group-title="Mexico" tvg-id="XHCCQTDT2" tvc-guide-stationid="115513",XHCCQ-TDT2 (ADNNOT)
 http://example.local/MEX-XHCCQTDT2.ts
 #EXTINF:-1 tvg-chno="96637" tvg-name="XHCCT-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png" group-title="Mexico" tvg-id="XHCCTTDT" tvc-guide-stationid="96637",XHCCT-TDT (AZ7NET)
 http://example.local/MEX-XHCCTTDT.ts
@@ -2167,7 +2207,7 @@ http://example.local/MEX-XHCIPTDT.ts
 http://example.local/MEX-XHCJTDT.ts
 #EXTINF:-1 tvg-chno="60736" tvg-name="XHCJE-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png" group-title="Mexico" tvg-id="XHCJETDT" tvc-guide-stationid="60736",XHCJE-TDT (AZ1NET)
 http://example.local/MEX-XHCJETDT.ts
-#EXTINF:-1 tvg-chno="104728" tvg-name="XHCJE-TDT2 (ADNNOT)" tvg-logo="https://zap2it.tmsimg.com/assets/s15384_h3_ba.png" group-title="Mexico" tvg-id="XHCJETDT2" tvc-guide-stationid="104728",XHCJE-TDT2 (ADNNOT)
+#EXTINF:-1 tvg-chno="104728" tvg-name="XHCJE-TDT2 (ADNNOT)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002BFC89.png" group-title="Mexico" tvg-id="XHCJETDT2" tvc-guide-stationid="104728",XHCJE-TDT2 (ADNNOT)
 http://example.local/MEX-XHCJETDT2.ts
 #EXTINF:-1 tvg-chno="91695" tvg-name="XHCJH-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png" group-title="Mexico" tvg-id="XHCJHTDT" tvc-guide-stationid="91695",XHCJH-TDT (AZ7NET)
 http://example.local/MEX-XHCJHTDT.ts
@@ -2267,7 +2307,7 @@ http://example.local/MEX-XHCVTDT.ts
 http://example.local/MEX-XHCVI.ts
 #EXTINF:-1 tvg-chno="91629" tvg-name="XHCVO-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png" group-title="Mexico" tvg-id="XHCVOTDT" tvc-guide-stationid="91629",XHCVO-TDT (AZ7NET)
 http://example.local/MEX-XHCVOTDT.ts
-#EXTINF:-1 tvg-chno="96634" tvg-name="XHCVT-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_h3_aa.png" group-title="Mexico" tvg-id="XHCVTTDT" tvc-guide-stationid="96634",XHCVT-TDT (AZ1NET)
+#EXTINF:-1 tvg-chno="96634" tvg-name="XHCVT-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png" group-title="Mexico" tvg-id="XHCVTTDT" tvc-guide-stationid="96634",XHCVT-TDT (AZ1NET)
 http://example.local/MEX-XHCVTTDT.ts
 #EXTINF:-1 tvg-chno="96668" tvg-name="XHD-TDT (C5NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116152_ll_h15_aa.png" group-title="Mexico" tvg-id="XHDTDT" tvc-guide-stationid="96668",XHD-TDT (C5NET)
 http://example.local/MEX-XHDTDT.ts
@@ -2293,7 +2333,7 @@ http://example.local/MEX-XHDITDT.ts
 http://example.local/MEX-XHDLTDT.ts
 #EXTINF:-1 tvg-chno="96820" tvg-name="XHDO-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png" group-title="Mexico" tvg-id="XHDOTDT" tvc-guide-stationid="96820",XHDO-TDT (AZ7NET)
 http://example.local/MEX-XHDOTDT.ts
-#EXTINF:-1 tvg-chno="91763" tvg-name="XHDR-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_h3_aa.png" group-title="Mexico" tvg-id="XHDRTDT" tvc-guide-stationid="91763",XHDR-TDT (AZ1NET)
+#EXTINF:-1 tvg-chno="91763" tvg-name="XHDR-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png" group-title="Mexico" tvg-id="XHDRTDT" tvc-guide-stationid="91763",XHDR-TDT (AZ1NET)
 http://example.local/MEX-XHDRTDT.ts
 #EXTINF:-1 tvg-chno="96767" tvg-name="XHDRG-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png" group-title="Mexico" tvg-id="XHDRGTDT" tvc-guide-stationid="96767",XHDRG-TDT (AZ7NET)
 http://example.local/MEX-XHDRGTDT.ts
@@ -2445,7 +2485,7 @@ http://example.local/MEX-XHJALTDT.ts
 http://example.local/MEX-XHJALTDT2.ts
 #EXTINF:-1 tvg-chno="96589" tvg-name="XHJCC-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png" group-title="Mexico" tvg-id="XHJCCTDT" tvc-guide-stationid="96589",XHJCC-TDT (AZ1NET)
 http://example.local/MEX-XHJCCTDT.ts
-#EXTINF:-1 tvg-chno="91692" tvg-name="XHJCH-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_h3_aa.png" group-title="Mexico" tvg-id="XHJCHTDT" tvc-guide-stationid="91692",XHJCH-TDT (AZ1NET)
+#EXTINF:-1 tvg-chno="91692" tvg-name="XHJCH-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png" group-title="Mexico" tvg-id="XHJCHTDT" tvc-guide-stationid="91692",XHJCH-TDT (AZ1NET)
 http://example.local/MEX-XHJCHTDT.ts
 #EXTINF:-1 tvg-chno="67403" tvg-name="XHJCI-TDT" tvg-logo="https://zap2it.tmsimg.com/assets/s26130_ll_h15_aa.png" group-title="Mexico" tvg-id="XHJCITDT" tvc-guide-stationid="67403",XHJCI-TDT
 http://example.local/MEX-XHJCITDT.ts
@@ -2475,7 +2515,7 @@ http://example.local/MEX-XHKFTDT.ts
 http://example.local/MEX-XHKGTDT.ts
 #EXTINF:-1 tvg-chno="91835" tvg-name="XHKW-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png" group-title="Mexico" tvg-id="XHKWTDT" tvc-guide-stationid="91835",XHKW-TDT (ESTRNET)
 http://example.local/MEX-XHKWTDT.ts
-#EXTINF:-1 tvg-chno="96773" tvg-name="XHKYU-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_h3_aa.png" group-title="Mexico" tvg-id="XHKYUTDT" tvc-guide-stationid="96773",XHKYU-TDT (AZ1NET)
+#EXTINF:-1 tvg-chno="96773" tvg-name="XHKYU-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png" group-title="Mexico" tvg-id="XHKYUTDT" tvc-guide-stationid="96773",XHKYU-TDT (AZ1NET)
 http://example.local/MEX-XHKYUTDT.ts
 #EXTINF:-1 tvg-chno="91822" tvg-name="XHL-TDT" group-title="Mexico" tvg-id="XHLTDT" tvc-guide-stationid="91822",XHL-TDT
 http://example.local/MEX-XHLTDT.ts
@@ -2537,8 +2577,6 @@ http://example.local/MEX-XHMISTDT.ts
 http://example.local/MEX-XHMLATDT.ts
 #EXTINF:-1 tvg-chno="91741" tvg-name="XHMNL-TDT" tvg-logo="https://zap2it.tmsimg.com/assets/s116228_ll_h15_ab.png" group-title="Mexico" tvg-id="XHMNLTDT" tvc-guide-stationid="91741",XHMNL-TDT
 http://example.local/MEX-XHMNLTDT.ts
-#EXTINF:-1 tvg-chno="91742" tvg-name="XHMNU-TDT" group-title="Mexico" tvg-id="XHMNUTDT" tvc-guide-stationid="91742",XHMNU-TDT
-http://example.local/MEX-XHMNUTDT.ts
 #EXTINF:-1 tvg-chno="48116" tvg-name="XHMOR-TDT (TELEMCH)" group-title="Mexico" tvg-id="XHMORTDT" tvc-guide-stationid="48116",XHMOR-TDT (TELEMCH)
 http://example.local/MEX-XHMORTDT.ts
 #EXTINF:-1 tvg-chno="91834" tvg-name="XHMOW-TDT (C5NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116152_ll_h15_aa.png" group-title="Mexico" tvg-id="XHMOWTDT" tvc-guide-stationid="91834",XHMOW-TDT (C5NET)
@@ -2573,9 +2611,9 @@ http://example.local/MEX-XHNSSTDT.ts
 http://example.local/MEX-XHOTDT.ts
 #EXTINF:-1 tvg-chno="91738" tvg-name="XHOAH-TDT (MULTVHD)" tvg-logo="https://zap2it.tmsimg.com/assets/s91505_h3_ba.png" group-title="Mexico" tvg-id="XHOAHTDT" tvc-guide-stationid="91738",XHOAH-TDT (MULTVHD)
 http://example.local/MEX-XHOAHTDT.ts
-#EXTINF:-1 tvg-chno="96678" tvg-name="XHOMC-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_h3_aa.png" group-title="Mexico" tvg-id="XHOMCTDT" tvc-guide-stationid="96678",XHOMC-TDT (AZ1NET)
+#EXTINF:-1 tvg-chno="96678" tvg-name="XHOMC-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_ll_h15_ab.png" group-title="Mexico" tvg-id="XHOMCTDT" tvc-guide-stationid="96678",XHOMC-TDT (AZ1NET)
 http://example.local/MEX-XHOMCTDT.ts
-#EXTINF:-1 tvg-chno="98192" tvg-name="XHOPMA-TDT (SD Feed)" tvg-logo="https://zap2it.tmsimg.com/assets/s90518_h3_aa.png" group-title="Mexico" tvg-id="CANL14" tvc-guide-stationid="98192",XHOPMA-TDT (SD Feed)
+#EXTINF:-1 tvg-chno="98192" tvg-name="XHOPMA-TDT (SD Feed)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0023XQ01.png" group-title="Mexico" tvg-id="CANL14" tvc-guide-stationid="98192",XHOPMA-TDT (SD Feed)
 http://example.local/MEX-CANL14.ts
 #EXTINF:-1 tvg-chno="83205" tvg-name="XHOR-TDT (AZ7NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116154_ll_h15_ac.png" group-title="Mexico" tvg-id="XHORTDT" tvc-guide-stationid="83205",XHOR-TDT (AZ7NET)
 http://example.local/MEX-XHORTDT.ts
@@ -2647,12 +2685,10 @@ http://example.local/MEX-XHRCG.ts
 http://example.local/MEX-XHRCSTDT.ts
 #EXTINF:-1 tvg-chno="81342" tvg-name="XHREY-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_h3_aa.png" group-title="Mexico" tvg-id="XHREYTDT" tvc-guide-stationid="81342",XHREY-TDT (AZ1NET)
 http://example.local/MEX-XHREYTDT.ts
-#EXTINF:-1 tvg-chno="102813" tvg-name="XHREY-TDT2 (ADNNOT)" tvg-logo="https://zap2it.tmsimg.com/assets/s15384_h3_ba.png" group-title="Mexico" tvg-id="XHREYTDT2" tvc-guide-stationid="102813",XHREY-TDT2 (ADNNOT)
+#EXTINF:-1 tvg-chno="102813" tvg-name="XHREY-TDT2 (ADNNOT)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002BFC89.png" group-title="Mexico" tvg-id="XHREYTDT2" tvc-guide-stationid="102813",XHREY-TDT2 (ADNNOT)
 http://example.local/MEX-XHREYTDT2.ts
 #EXTINF:-1 tvg-chno="16459" tvg-name="XHS-TDT" group-title="Mexico" tvg-id="XHSTDT" tvc-guide-stationid="16459",XHS-TDT
 http://example.local/MEX-XHSTDT.ts
-#EXTINF:-1 tvg-chno="91752" tvg-name="XHSAW-TDT" group-title="Mexico" tvg-id="XHSAWTDT" tvc-guide-stationid="91752",XHSAW-TDT
-http://example.local/MEX-XHSAWTDT.ts
 #EXTINF:-1 tvg-chno="96704" tvg-name="XHSCC-TDT (ESTRNET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116151_ll_h15_ac.png" group-title="Mexico" tvg-id="XHSCCTDT" tvc-guide-stationid="96704",XHSCC-TDT (ESTRNET)
 http://example.local/MEX-XHSCCTDT.ts
 #EXTINF:-1 tvg-chno="96743" tvg-name="XHSCO-TDT (AZ1NET)" tvg-logo="https://zap2it.tmsimg.com/assets/s116153_h3_aa.png" group-title="Mexico" tvg-id="XHSCOTDT" tvc-guide-stationid="96743",XHSCO-TDT (AZ1NET)
@@ -2817,9 +2853,9 @@ http://example.local/MEX-XHVIZTDT3.ts
 http://example.local/MEX-XHVTUTDT.ts
 #EXTINF:-1 tvg-chno="114030" tvg-name="XHVTV-TDT (MULTVHD)" tvg-logo="https://zap2it.tmsimg.com/assets/s91505_ll_h15_ab.png" group-title="Mexico" tvg-id="XHVTVTDT" tvc-guide-stationid="114030",XHVTV-TDT (MULTVHD)
 http://example.local/MEX-XHVTVTDT.ts
-#EXTINF:-1 tvg-chno="114031" tvg-name="XHVTV-TDT2 (MILENIO)" tvg-logo="https://zap2it.tmsimg.com/assets/s61719_h3_ba.png" group-title="Mexico" tvg-id="XHVTVTDT2" tvc-guide-stationid="114031",XHVTV-TDT2 (MILENIO)
+#EXTINF:-1 tvg-chno="114031" tvg-name="XHVTV-TDT2 (MILENIO)" tvg-logo="https://zap2it.tmsimg.com/assets/s61719_ll_h15_ab.png" group-title="Mexico" tvg-id="XHVTVTDT2" tvc-guide-stationid="114031",XHVTV-TDT2 (MILENIO)
 http://example.local/MEX-XHVTVTDT2.ts
-#EXTINF:-1 tvg-chno="114033" tvg-name="XHVTV-TDT3" tvg-logo="https://zap2it.tmsimg.com/assets/s95679_h3_ba.png" group-title="Mexico" tvg-id="XHVTVTDT3" tvc-guide-stationid="114033",XHVTV-TDT3
+#EXTINF:-1 tvg-chno="114033" tvg-name="XHVTV-TDT3" tvg-logo="https://zap2it.tmsimg.com/assets/s95679_ll_h15_ab.png" group-title="Mexico" tvg-id="XHVTVTDT3" tvc-guide-stationid="114033",XHVTV-TDT3
 http://example.local/MEX-XHVTVTDT3.ts
 #EXTINF:-1 tvg-chno="114034" tvg-name="XHVTV-TDT4 (MVSTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s15213_ll_h15_ab.png" group-title="Mexico" tvg-id="XHVTVTDT4" tvc-guide-stationid="114034",XHVTV-TDT4 (MVSTV)
 http://example.local/MEX-XHVTVTDT4.ts

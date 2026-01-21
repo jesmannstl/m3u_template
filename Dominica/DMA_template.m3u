@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="10002" tvg-name="3 Angels Broadcasting Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10002_ll_h15_aa.png" group-title="Dominica" tvg-id="3ANGELS" tvc-guide-stationid="10002",3 Angels Broadcasting Network
 http://example.local/DMA-3ANGELS.ts
-#EXTINF:-1 tvg-chno="10035" tvg-name="A&E" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_ll_h15_ab.png" group-title="Dominica" tvg-id="AETV" tvc-guide-stationid="10035",A&E
+#EXTINF:-1 tvg-chno="10035" tvg-name="A&E" tvg-logo="https://logos.jesmann.com/aetv.png" group-title="Dominica" tvg-id="AETV" tvc-guide-stationid="10035",A&E
 http://example.local/DMA-AETV.ts
 #EXTINF:-1 tvg-chno="18955" tvg-name="A&E" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_ll_h15_ab.png" group-title="Dominica" tvg-id="AEMX" tvc-guide-stationid="18955",A&E
 http://example.local/DMA-AEMX.ts
@@ -19,7 +19,7 @@ http://example.local/DMA-ABC.ts
 http://example.local/DMA-APL.ts
 #EXTINF:-1 tvg-chno="18649" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Dominica" tvg-id="ANIPL" tvc-guide-stationid="18649",Animal Planet
 http://example.local/DMA-ANIPL.ts
-#EXTINF:-1 tvg-chno="97167" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_h3_ba.png" group-title="Dominica" tvg-id="ANIPLH" tvc-guide-stationid="97167",Animal Planet
+#EXTINF:-1 tvg-chno="97167" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="Dominica" tvg-id="ANIPLH" tvc-guide-stationid="97167",Animal Planet
 http://example.local/DMA-ANIPLH.ts
 #EXTINF:-1 tvg-chno="16800" tvg-name="Antena 3 Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s16800_ll_h9_ab.png" group-title="Dominica" tvg-id="ANT3I" tvc-guide-stationid="16800",Antena 3 Internacional
 http://example.local/DMA-ANT3I.ts
@@ -49,7 +49,7 @@ http://example.local/DMA-CNN.ts
 http://example.local/DMA-CAN24.ts
 #EXTINF:-1 tvg-chno="19385" tvg-name="Canal Sony" tvg-logo="https://zap2it.tmsimg.com/assets/s19385_ll_h15_ac.png" group-title="Dominica" tvg-id="SETLC" tvc-guide-stationid="19385",Canal Sony
 http://example.local/DMA-SETLC.ts
-#EXTINF:-1 tvg-chno="12131" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s12131_h3_ba.png" group-title="Dominica" tvg-id="TOON" tvc-guide-stationid="12131",Cartoon Network
+#EXTINF:-1 tvg-chno="12131" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s12131_ll_h15_aa.png" group-title="Dominica" tvg-id="TOON" tvc-guide-stationid="12131",Cartoon Network
 http://example.local/DMA-TOON.ts
 #EXTINF:-1 tvg-chno="16141" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Dominica" tvg-id="TOONL" tvc-guide-stationid="16141",Cartoon Network
 http://example.local/DMA-TOONL.ts
@@ -57,10 +57,14 @@ http://example.local/DMA-TOONL.ts
 http://example.local/DMA-CARTPHD.ts
 #EXTINF:-1 tvg-chno="10098" tvg-name="CBS Corporation (CBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s10098_ll_h15_ac.png" group-title="Dominica" tvg-id="CBS" tvc-guide-stationid="10098",CBS Corporation (CBS)
 http://example.local/DMA-CBS.ts
+#EXTINF:-1 tvg-chno="29114" tvg-name="China Global Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/s29114_ll_h9_ab.png" group-title="Dominica" tvg-id="CGTN" tvc-guide-stationid="29114",China Global Television Network
+http://example.local/DMA-CGTN.ts
 #EXTINF:-1 tvg-chno="15296" tvg-name="Cine Latino" tvg-logo="https://zap2it.tmsimg.com/assets/s15296_ll_h9_ab.png" group-title="Dominica" tvg-id="CINL" tvc-guide-stationid="15296",Cine Latino
 http://example.local/DMA-CINL.ts
 #EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Dominica" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
 http://example.local/DMA-CCL.ts
+#EXTINF:-1 tvg-chno="10120" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s10120_ll_h15_ab.png" group-title="Dominica" tvg-id="MAX" tvc-guide-stationid="10120",Cinemax
+http://example.local/DMA-MAX.ts
 #EXTINF:-1 tvg-chno="61718" tvg-name="CNC3" tvg-logo="https://zap2it.tmsimg.com/assets/s61718_ll_h9_aa.png" group-title="Dominica" tvg-id="CNC3" tvc-guide-stationid="61718",CNC3
 http://example.local/DMA-CNC3.ts
 #EXTINF:-1 tvg-chno="27773" tvg-name="CNN en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png" group-title="Dominica" tvg-id="CNNEM" tvc-guide-stationid="27773",CNN en Español
@@ -79,15 +83,15 @@ http://example.local/DMA-SCIFIS.ts
 http://example.local/DMA-DEPEL.ts
 #EXTINF:-1 tvg-chno="106261" tvg-name="DirecTV2 Sports" group-title="Dominica" tvg-id="DT2SPT" tvc-guide-stationid="106261",DirecTV2 Sports
 http://example.local/DMA-DT2SPT.ts
-#EXTINF:-1 tvg-chno="11150" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11150_h3_ba.png" group-title="Dominica" tvg-id="DSC" tvc-guide-stationid="11150",Discovery Channel
+#EXTINF:-1 tvg-chno="11150" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11150_ll_h15_af.png" group-title="Dominica" tvg-id="DSC" tvc-guide-stationid="11150",Discovery Channel
 http://example.local/DMA-DSC.ts
-#EXTINF:-1 tvg-chno="96307" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_h3_aa.png" group-title="Dominica" tvg-id="DISCCHD" tvc-guide-stationid="96307",Discovery Channel
+#EXTINF:-1 tvg-chno="96307" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="Dominica" tvg-id="DISCCHD" tvc-guide-stationid="96307",Discovery Channel
 http://example.local/DMA-DISCCHD.ts
 #EXTINF:-1 tvg-chno="59582" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_ll_h15_ae.png" group-title="Dominica" tvg-id="DHEALM" tvc-guide-stationid="59582",Discovery Home & Health
 http://example.local/DMA-DHEALM.ts
-#EXTINF:-1 tvg-chno="91959" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s97571_h3_aa.png" group-title="Dominica" tvg-id="DHEALHE" tvc-guide-stationid="91959",Discovery Home & Health
+#EXTINF:-1 tvg-chno="91959" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s97571_ll_h15_ab.png" group-title="Dominica" tvg-id="DHEALHE" tvc-guide-stationid="91959",Discovery Home & Health
 http://example.local/DMA-DHEALHE.ts
-#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_h3_aa.png" group-title="Dominica" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
+#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="Dominica" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
 http://example.local/DMA-DKNLM.ts
 #EXTINF:-1 tvg-chno="81239" tvg-name="Discovery Kids LatinAm HD" tvg-logo="https://zap2it.tmsimg.com/assets/s81239_ll_h15_aa.png" group-title="Dominica" tvg-id="DKNLHD" tvc-guide-stationid="81239",Discovery Kids LatinAm HD
 http://example.local/DMA-DKNLHD.ts
@@ -111,7 +115,7 @@ http://example.local/DMA-DISJMXE.ts
 http://example.local/DMA-DISNXD.ts
 #EXTINF:-1 tvg-chno="30259" tvg-name="E! Entertainment TV" tvg-logo="https://zap2it.tmsimg.com/assets/s30259_ll_h15_aa.png" group-title="Dominica" tvg-id="ETVLN" tvc-guide-stationid="30259",E! Entertainment TV
 http://example.local/DMA-ETVLN.ts
-#EXTINF:-1 tvg-chno="101734" tvg-name="E! Entertainment TV" tvg-logo="https://zap2it.tmsimg.com/assets/s30259_h3_ba.png" group-title="Dominica" tvg-id="ETVLNHD" tvc-guide-stationid="101734",E! Entertainment TV
+#EXTINF:-1 tvg-chno="101734" tvg-name="E! Entertainment TV" tvg-logo="https://zap2it.tmsimg.com/assets/s30259_ll_h15_aa.png" group-title="Dominica" tvg-id="ETVLNHD" tvc-guide-stationid="101734",E! Entertainment TV
 http://example.local/DMA-ETVLNHD.ts
 #EXTINF:-1 tvg-chno="45910" tvg-name="El Gourmet" tvg-logo="https://zap2it.tmsimg.com/assets/s25553_ll_h15_ad.png" group-title="Dominica" tvg-id="GOURMETN" tvc-guide-stationid="45910",El Gourmet
 http://example.local/DMA-GOURMETN.ts
@@ -171,9 +175,9 @@ http://example.local/DMA-GLDEN.ts
 http://example.local/DMA-GOLDEDG.ts
 #EXTINF:-1 tvg-chno="68317" tvg-name="GOLDEN PLUS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG00284G3Y.png" group-title="Dominica" tvg-id="GOLDNHD" tvc-guide-stationid="68317",GOLDEN PLUS
 http://example.local/DMA-GOLDNHD.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Dominica" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Dominica" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
 http://example.local/DMA-GOLF.ts
-#EXTINF:-1 tvg-chno="100668" tvg-name="H2 History" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_h3_ba.png" group-title="Dominica" tvg-id="H2LATH" tvc-guide-stationid="100668",H2 History
+#EXTINF:-1 tvg-chno="100668" tvg-name="H2 History" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_ll_h15_ae.png" group-title="Dominica" tvg-id="H2LATH" tvc-guide-stationid="100668",H2 History
 http://example.local/DMA-H2LATH.ts
 #EXTINF:-1 tvg-chno="10240" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s10240_ll_h15_aa.png" group-title="Dominica" tvg-id="HBO" tvc-guide-stationid="10240",HBO
 http://example.local/DMA-HBO.ts
@@ -183,21 +187,21 @@ http://example.local/DMA-HBOCAR.ts
 http://example.local/DMA-HBOCARH.ts
 #EXTINF:-1 tvg-chno="16585" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s16585_ll_h15_aa.png" group-title="Dominica" tvg-id="HBOF" tvc-guide-stationid="16585",HBO Family
 http://example.local/DMA-HBOF.ts
-#EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_h3_ba.png" group-title="Dominica" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
+#EXTINF:-1 tvg-chno="80118" tvg-name="HBO Family" tvg-logo="https://zap2it.tmsimg.com/assets/s34879_ll_h15_ae.png" group-title="Dominica" tvg-id="HBOFMHD" tvc-guide-stationid="80118",HBO Family
 http://example.local/DMA-HBOFMHD.ts
 #EXTINF:-1 tvg-chno="10241" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="Dominica" tvg-id="HBOHTS" tvc-guide-stationid="10241",HBO Hits
 http://example.local/DMA-HBOHTS.ts
-#EXTINF:-1 tvg-chno="10242" tvg-name="HBO Hits (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CL6E.png" group-title="Dominica" tvg-id="HBOHTP" tvc-guide-stationid="10242",HBO Hits (Pacific)
+#EXTINF:-1 tvg-chno="10242" tvg-name="HBO Hits (Pacific)" tvg-logo="https://logos.jesmann.com/hbohtp.png" group-title="Dominica" tvg-id="HBOHTP" tvc-guide-stationid="10242",HBO Hits (Pacific)
 http://example.local/DMA-HBOHTP.ts
-#EXTINF:-1 tvg-chno="59837" tvg-name="HBO Latino HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_h3_ba.png" group-title="Dominica" tvg-id="HBOLAHD" tvc-guide-stationid="59837",HBO Latino HD
+#EXTINF:-1 tvg-chno="59837" tvg-name="HBO Latino HD" tvg-logo="https://zap2it.tmsimg.com/assets/s24553_ll_h9_ab.png" group-title="Dominica" tvg-id="HBOLAHD" tvc-guide-stationid="59837",HBO Latino HD
 http://example.local/DMA-HBOLAHD.ts
 #EXTINF:-1 tvg-chno="70081" tvg-name="HBO Mundi" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png" group-title="Dominica" tvg-id="MUNMEX" tvc-guide-stationid="70081",HBO Mundi
 http://example.local/DMA-MUNMEX.ts
 #EXTINF:-1 tvg-chno="86765" tvg-name="HBO Mundi Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png" group-title="Dominica" tvg-id="MUNCAR" tvc-guide-stationid="86765",HBO Mundi Caribbean
 http://example.local/DMA-MUNCAR.ts
-#EXTINF:-1 tvg-chno="96531" tvg-name="HBO Mundi Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_h3_ba.png" group-title="Dominica" tvg-id="MUNCARH" tvc-guide-stationid="96531",HBO Mundi Caribbean
+#EXTINF:-1 tvg-chno="96531" tvg-name="HBO Mundi Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s70081_ll_h15_ab.png" group-title="Dominica" tvg-id="MUNCARH" tvc-guide-stationid="96531",HBO Mundi Caribbean
 http://example.local/DMA-MUNCARH.ts
-#EXTINF:-1 tvg-chno="93262" tvg-name="HBO Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_h3_aa.png" group-title="Dominica" tvg-id="POPLAE" tvc-guide-stationid="93262",HBO Pop
+#EXTINF:-1 tvg-chno="93262" tvg-name="HBO Pop" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_ll_h15_ab.png" group-title="Dominica" tvg-id="POPLAE" tvc-guide-stationid="93262",HBO Pop
 http://example.local/DMA-POPLAE.ts
 #EXTINF:-1 tvg-chno="68301" tvg-name="HBO POP" tvg-logo="https://zap2it.tmsimg.com/assets/s68134_ll_h15_ab.png" group-title="Dominica" tvg-id="POPMXH" tvc-guide-stationid="68301",HBO POP
 http://example.local/DMA-POPMXH.ts
@@ -215,7 +219,7 @@ http://example.local/DMA-HISTORY.ts
 http://example.local/DMA-HCLM.ts
 #EXTINF:-1 tvg-chno="70669" tvg-name="History" tvg-logo="https://zap2it.tmsimg.com/assets/s40137_ll_h15_ac.png" group-title="Dominica" tvg-id="HCLMHD" tvc-guide-stationid="70669",History
 http://example.local/DMA-HCLMHD.ts
-#EXTINF:-1 tvg-chno="89238" tvg-name="History 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_h3_ba.png" group-title="Dominica" tvg-id="H2LAME" tvc-guide-stationid="89238",History 2
+#EXTINF:-1 tvg-chno="89238" tvg-name="History 2" tvg-logo="https://zap2it.tmsimg.com/assets/s80374_ll_h15_ae.png" group-title="Dominica" tvg-id="H2LAME" tvc-guide-stationid="89238",History 2
 http://example.local/DMA-H2LAME.ts
 #EXTINF:-1 tvg-chno="10145" tvg-name="HLN" tvg-logo="https://zap2it.tmsimg.com/assets/s10145_ll_h15_ac.png" group-title="Dominica" tvg-id="HLN" tvc-guide-stationid="10145",HLN
 http://example.local/DMA-HLN.ts
@@ -235,7 +239,7 @@ http://example.local/DMA-IDLEHD.ts
 http://example.local/DMA-LIFELC.ts
 #EXTINF:-1 tvg-chno="159513" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s89197_ll_h15_ab.png" group-title="Dominica" tvg-id="LIFSURH" tvc-guide-stationid="159513",Lifetime
 http://example.local/DMA-LIFSURH.ts
-#EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_ll_h15_ab.png" group-title="Dominica" tvg-id="MTVL" tvc-guide-stationid="12712",MTV
+#EXTINF:-1 tvg-chno="12712" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s12712_h3_ba.png" group-title="Dominica" tvg-id="MTVL" tvc-guide-stationid="12712",MTV
 http://example.local/DMA-MTVL.ts
 #EXTINF:-1 tvg-chno="10986" tvg-name="MTV - Music Television" tvg-logo="https://zap2it.tmsimg.com/assets/s10986_ll_h15_aa.png" group-title="Dominica" tvg-id="MTV" tvc-guide-stationid="10986",MTV - Music Television
 http://example.local/DMA-MTV.ts
@@ -243,7 +247,7 @@ http://example.local/DMA-MTV.ts
 http://example.local/DMA-MTVHD.ts
 #EXTINF:-1 tvg-chno="104524" tvg-name="National Geo kids" tvg-logo="https://zap2it.tmsimg.com/assets/s104524_ll_h15_aa.png" group-title="Dominica" tvg-id="NGKLA" tvc-guide-stationid="104524",National Geo kids
 http://example.local/DMA-NGKLA.ts
-#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_h3_ba.png" group-title="Dominica" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
+#EXTINF:-1 tvg-chno="25068" tvg-name="National Geographic" tvg-logo="https://zap2it.tmsimg.com/assets/s25068_ll_h15_ab.png" group-title="Dominica" tvg-id="NGCLA" tvc-guide-stationid="25068",National Geographic
 http://example.local/DMA-NGCLA.ts
 #EXTINF:-1 tvg-chno="67590" tvg-name="National Geographic Wild" tvg-logo="https://zap2it.tmsimg.com/assets/s67590_ll_h15_aa.png" group-title="Dominica" tvg-id="NGWLAHD" tvc-guide-stationid="67590",National Geographic Wild
 http://example.local/DMA-NGWLAHD.ts
@@ -295,7 +299,7 @@ http://example.local/DMA-STARACE.ts
 http://example.local/DMA-STRACHD.ts
 #EXTINF:-1 tvg-chno="15688" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_ll_h15_ac.png" group-title="Dominica" tvg-id="STARMEX" tvc-guide-stationid="15688",Star Channel
 http://example.local/DMA-STARMEX.ts
-#EXTINF:-1 tvg-chno="92111" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_h3_ba.png" group-title="Dominica" tvg-id="STRANHD" tvc-guide-stationid="92111",Star Channel
+#EXTINF:-1 tvg-chno="92111" tvg-name="Star Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s75423_ll_h15_ac.png" group-title="Dominica" tvg-id="STRANHD" tvc-guide-stationid="92111",Star Channel
 http://example.local/DMA-STRANHD.ts
 #EXTINF:-1 tvg-chno="71662" tvg-name="STAR CINEMA" tvg-logo="https://zap2it.tmsimg.com/assets/s71662_ll_h15_ac.png" group-title="Dominica" tvg-id="STARCI" tvc-guide-stationid="71662",STAR CINEMA
 http://example.local/DMA-STARCI.ts
@@ -303,11 +307,11 @@ http://example.local/DMA-STARCI.ts
 http://example.local/DMA-STARCIH.ts
 #EXTINF:-1 tvg-chno="44028" tvg-name="Star Classics" tvg-logo="https://zap2it.tmsimg.com/assets/s44028_ll_h15_ac.png" group-title="Dominica" tvg-id="STARCLA" tvc-guide-stationid="44028",Star Classics
 http://example.local/DMA-STARCLA.ts
-#EXTINF:-1 tvg-chno="90916" tvg-name="STAR COMEDY" tvg-logo="https://zap2it.tmsimg.com/assets/s90916_ll_h15_ac.png" group-title="Dominica" tvg-id="STARCOM" tvc-guide-stationid="90916",STAR COMEDY
+#EXTINF:-1 tvg-chno="90916" tvg-name="STAR COMEDY" tvg-logo="https://zap2it.tmsimg.com/assets/s90916_h3_ba.png" group-title="Dominica" tvg-id="STARCOM" tvc-guide-stationid="90916",STAR COMEDY
 http://example.local/DMA-STARCOM.ts
 #EXTINF:-1 tvg-chno="90969" tvg-name="STAR COMEDY" tvg-logo="https://zap2it.tmsimg.com/assets/s90916_ll_h15_ac.png" group-title="Dominica" tvg-id="STRCOME" tvc-guide-stationid="90969",STAR COMEDY
 http://example.local/DMA-STRCOME.ts
-#EXTINF:-1 tvg-chno="65399" tvg-name="STAR FUN" tvg-logo="https://zap2it.tmsimg.com/assets/s65399_h3_aa.png" group-title="Dominica" tvg-id="STARFAM" tvc-guide-stationid="65399",STAR FUN
+#EXTINF:-1 tvg-chno="65399" tvg-name="STAR FUN" tvg-logo="https://zap2it.tmsimg.com/assets/s65399_ll_h15_ac.png" group-title="Dominica" tvg-id="STARFAM" tvc-guide-stationid="65399",STAR FUN
 http://example.local/DMA-STARFAM.ts
 #EXTINF:-1 tvg-chno="92028" tvg-name="STAR FUN" tvg-logo="https://zap2it.tmsimg.com/assets/s65399_ll_h15_ac.png" group-title="Dominica" tvg-id="STRFAEH" tvc-guide-stationid="92028",STAR FUN
 http://example.local/DMA-STRFAEH.ts
@@ -363,9 +367,9 @@ http://example.local/DMA-SMESP30.ts
 http://example.local/DMA-STULM.ts
 #EXTINF:-1 tvg-chno="90605" tvg-name="Studio Universal" tvg-logo="https://zap2it.tmsimg.com/assets/s90605_ll_h15_aa.png" group-title="Dominica" tvg-id="STULMHD" tvc-guide-stationid="90605",Studio Universal
 http://example.local/DMA-STULMHD.ts
-#EXTINF:-1 tvg-chno="19246" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s19246_h3_aa.png" group-title="Dominica" tvg-id="TCML" tvc-guide-stationid="19246",TCM
+#EXTINF:-1 tvg-chno="19246" tvg-name="TCM" tvg-logo="https://zap2it.tmsimg.com/assets/s19246_ll_h15_ac.png" group-title="Dominica" tvg-id="TCML" tvc-guide-stationid="19246",TCM
 http://example.local/DMA-TCML.ts
-#EXTINF:-1 tvg-chno="72294" tvg-name="TeenNick" tvg-logo="https://zap2it.tmsimg.com/assets/s77783_ll_h15_ab.png" group-title="Dominica" tvg-id="NIKLAHD" tvc-guide-stationid="72294",TeenNick
+#EXTINF:-1 tvg-chno="72294" tvg-name="TeenNick" group-title="Dominica" tvg-id="NIKLAHD" tvc-guide-stationid="72294",TeenNick
 http://example.local/DMA-NIKLAHD.ts
 #EXTINF:-1 tvg-chno="61033" tvg-name="The Golf Channel Latinoamerica" tvg-logo="https://zap2it.tmsimg.com/assets/s61033_ll_h15_ab.png" group-title="Dominica" tvg-id="GOLFLA" tvc-guide-stationid="61033",The Golf Channel Latinoamerica
 http://example.local/DMA-GOLFLA.ts
@@ -379,7 +383,7 @@ http://example.local/DMA-TRAV.ts
 http://example.local/DMA-WEATH.ts
 #EXTINF:-1 tvg-chno="67579" tvg-name="TikTok Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s67579_ll_h15_ab.png" group-title="Dominica" tvg-id="SMUS43" tvc-guide-stationid="67579",TikTok Radio
 http://example.local/DMA-SMUS43.ts
-#EXTINF:-1 tvg-chno="11158" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s11158_ll_h15_ad.png" group-title="Dominica" tvg-id="TLC" tvc-guide-stationid="11158",TLC
+#EXTINF:-1 tvg-chno="11158" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s11158_h3_aa.png" group-title="Dominica" tvg-id="TLC" tvc-guide-stationid="11158",TLC
 http://example.local/DMA-TLC.ts
 #EXTINF:-1 tvg-chno="73822" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s73822_ll_h15_ae.png" group-title="Dominica" tvg-id="TLCLASP" tvc-guide-stationid="73822",TLC
 http://example.local/DMA-TLCLASP.ts
@@ -387,7 +391,7 @@ http://example.local/DMA-TLCLASP.ts
 http://example.local/DMA-TLNOVEL.ts
 #EXTINF:-1 tvg-chno="11164" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s11164_h3_aa.png" group-title="Dominica" tvg-id="TNT" tvc-guide-stationid="11164",TNT
 http://example.local/DMA-TNT.ts
-#EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Dominica" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
+#EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_h3_ba.png" group-title="Dominica" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
 http://example.local/DMA-TNTLC.ts
 #EXTINF:-1 tvg-chno="106062" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="Dominica" tvg-id="TNTLCHH" tvc-guide-stationid="106062",TNT
 http://example.local/DMA-TNTLCHH.ts
@@ -399,9 +403,9 @@ http://example.local/DMA-TNTSERH.ts
 http://example.local/DMA-TBN.ts
 #EXTINF:-1 tvg-chno="10153" tvg-name="truTV" tvg-logo="https://zap2it.tmsimg.com/assets/s10153_ll_h15_ad.png" group-title="Dominica" tvg-id="TRUTV" tvc-guide-stationid="10153",truTV
 http://example.local/DMA-TRUTV.ts
-#EXTINF:-1 tvg-chno="16123" tvg-name="TV Land" tvg-logo="https://zap2it.tmsimg.com/assets/s16123_h3_aa.png" group-title="Dominica" tvg-id="TVLAND" tvc-guide-stationid="16123",TV Land
+#EXTINF:-1 tvg-chno="16123" tvg-name="TV Land" tvg-logo="https://zap2it.tmsimg.com/assets/s16123_ll_h15_aa.png" group-title="Dominica" tvg-id="TVLAND" tvc-guide-stationid="16123",TV Land
 http://example.local/DMA-TVLAND.ts
-#EXTINF:-1 tvg-chno="56112" tvg-name="TV5 Monde (FBSM)" tvg-logo="https://zap2it.tmsimg.com/assets/s56112_ll_h15_aa.png" group-title="Dominica" tvg-id="TV5FBSM" tvc-guide-stationid="56112",TV5 Monde (FBSM)
+#EXTINF:-1 tvg-chno="56112" tvg-name="TV5 Monde (FBSM)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002M0MHK.png" group-title="Dominica" tvg-id="TV5FBSM" tvc-guide-stationid="56112",TV5 Monde (FBSM)
 http://example.local/DMA-TV5FBSM.ts
 #EXTINF:-1 tvg-chno="16217" tvg-name="TVE" tvg-logo="https://zap2it.tmsimg.com/assets/s16217_ll_h15_aa.png" group-title="Dominica" tvg-id="TVEI" tvc-guide-stationid="16217",TVE
 http://example.local/DMA-TVEI.ts

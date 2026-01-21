@@ -7,7 +7,7 @@ http://example.local/BHS-3ABNL.ts
 http://example.local/BHS-AWE.ts
 #EXTINF:-1 tvg-chno="45438" tvg-name="A Wealth of Entertainment HD" tvg-logo="https://zap2it.tmsimg.com/assets/s45438_ll_h15_aa.png" group-title="Bahamas" tvg-id="AWEHD" tvc-guide-stationid="45438",A Wealth of Entertainment HD
 http://example.local/BHS-AWEHD.ts
-#EXTINF:-1 tvg-chno="10035" tvg-name="A&E" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_ll_h15_ab.png" group-title="Bahamas" tvg-id="AETV" tvc-guide-stationid="10035",A&E
+#EXTINF:-1 tvg-chno="10035" tvg-name="A&E" tvg-logo="https://logos.jesmann.com/aetv.png" group-title="Bahamas" tvg-id="AETV" tvc-guide-stationid="10035",A&E
 http://example.local/BHS-AETV.ts
 #EXTINF:-1 tvg-chno="65994" tvg-name="Adult Swim" tvg-logo="https://zap2it.tmsimg.com/assets/s16496_ll_h15_ad.png" group-title="Bahamas" tvg-id="ADSENS" tvc-guide-stationid="65994",Adult Swim
 http://example.local/BHS-ADSENS.ts
@@ -53,7 +53,7 @@ http://example.local/BHS-BOOM.ts
 http://example.local/BHS-BOUNCE.ts
 #EXTINF:-1 tvg-chno="10057" tvg-name="Bravo" tvg-logo="https://zap2it.tmsimg.com/assets/s10057_ll_h15_ab.png" group-title="Bahamas" tvg-id="BRAVO" tvc-guide-stationid="10057",Bravo
 http://example.local/BHS-BRAVO.ts
-#EXTINF:-1 tvg-chno="72096" tvg-name="Cable Bahamas ISAT Mexico (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s16497_h3_aa.png" group-title="Bahamas" tvg-id="CISATMX" tvc-guide-stationid="72096",Cable Bahamas ISAT Mexico (English)
+#EXTINF:-1 tvg-chno="72096" tvg-name="Cable Bahamas ISAT Mexico (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s16497_ll_h15_aa.png" group-title="Bahamas" tvg-id="CISATMX" tvc-guide-stationid="72096",Cable Bahamas ISAT Mexico (English)
 http://example.local/BHS-CISATMX.ts
 #EXTINF:-1 tvg-chno="10142" tvg-name="Cable News Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10142_ll_h15_aa.png" group-title="Bahamas" tvg-id="CNN" tvc-guide-stationid="10142",Cable News Network
 http://example.local/BHS-CNN.ts
@@ -63,29 +63,31 @@ http://example.local/BHS-CRN1.ts
 http://example.local/BHS-CLCSC.ts
 #EXTINF:-1 tvg-chno="49411" tvg-name="Caribvision" tvg-logo="https://zap2it.tmsimg.com/assets/s49411_ll_h6_aa.png" group-title="Bahamas" tvg-id="CARIBVN" tvc-guide-stationid="49411",Caribvision
 http://example.local/BHS-CARIBVN.ts
-#EXTINF:-1 tvg-chno="12131" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s12131_h3_ba.png" group-title="Bahamas" tvg-id="TOON" tvc-guide-stationid="12131",Cartoon Network
+#EXTINF:-1 tvg-chno="12131" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s12131_ll_h15_aa.png" group-title="Bahamas" tvg-id="TOON" tvc-guide-stationid="12131",Cartoon Network
 http://example.local/BHS-TOON.ts
 #EXTINF:-1 tvg-chno="42502" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="Bahamas" tvg-id="TOONES" tvc-guide-stationid="42502",Cartoon Network
 http://example.local/BHS-TOONES.ts
 #EXTINF:-1 tvg-chno="44832" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="Bahamas" tvg-id="CARTOAI" tvc-guide-stationid="44832",Cartoonito
 http://example.local/BHS-CARTOAI.ts
-#EXTINF:-1 tvg-chno="10091" tvg-name="CBC Toronto (CBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10084_ll_h15_ab.png" group-title="Bahamas" tvg-id="CBLT" tvc-guide-stationid="10091",CBC Toronto (CBC)
+#EXTINF:-1 tvg-chno="10091" tvg-name="CBC Toronto (CBC)" tvg-logo="https://logos.jesmann.com/cblt.png" group-title="Bahamas" tvg-id="CBLT" tvc-guide-stationid="10091",CBC Toronto (CBC)
 http://example.local/BHS-CBLT.ts
-#EXTINF:-1 tvg-chno="10092" tvg-name="CBMT - CBC Montreal (CBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10084_ll_h15_ab.png" group-title="Bahamas" tvg-id="CBMT" tvc-guide-stationid="10092",CBMT - CBC Montreal (CBC)
+#EXTINF:-1 tvg-chno="10092" tvg-name="CBMT - CBC Montreal (CBC)" tvg-logo="https://logos.jesmann.com/cbmt.png" group-title="Bahamas" tvg-id="CBMT" tvc-guide-stationid="10092",CBMT - CBC Montreal (CBC)
 http://example.local/BHS-CBMT.ts
-#EXTINF:-1 tvg-chno="53502" tvg-name="CBMT-DT (CBC)" tvg-logo="https://zap2it.tmsimg.com/assets/s10084_ll_h15_ab.png" group-title="Bahamas" tvg-id="CBMTDT" tvc-guide-stationid="53502",CBMT-DT (CBC)
+#EXTINF:-1 tvg-chno="53502" tvg-name="CBMT-DT (CBC)" tvg-logo="https://logos.jesmann.com/cbmtdt.png" group-title="Bahamas" tvg-id="CBMTDT" tvc-guide-stationid="53502",CBMT-DT (CBC)
 http://example.local/BHS-CBMTDT.ts
 #EXTINF:-1 tvg-chno="16435" tvg-name="Cinecanal" tvg-logo="https://zap2it.tmsimg.com/assets/s105609_ll_h15_aa.png" group-title="Bahamas" tvg-id="CCL" tvc-guide-stationid="16435",Cinecanal
 http://example.local/BHS-CCL.ts
+#EXTINF:-1 tvg-chno="10120" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s10120_ll_h15_ab.png" group-title="Bahamas" tvg-id="MAX" tvc-guide-stationid="10120",Cinemax
+http://example.local/BHS-MAX.ts
 #EXTINF:-1 tvg-chno="10121" tvg-name="Cinemax Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CKD8.png" group-title="Bahamas" tvg-id="CINEHIT" tvc-guide-stationid="10121",Cinemax Hits
 http://example.local/BHS-CINEHIT.ts
-#EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_h3_ba.png" group-title="Bahamas" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
+#EXTINF:-1 tvg-chno="10125" tvg-name="CityTv (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s10125_ll_h15_ab.png" group-title="Bahamas" tvg-id="CITY" tvc-guide-stationid="10125",CityTv (CITYDT)
 http://example.local/BHS-CITY.ts
 #EXTINF:-1 tvg-chno="10138" tvg-name="CMT" tvg-logo="https://zap2it.tmsimg.com/assets/s10138_ll_h15_ab.png" group-title="Bahamas" tvg-id="CMTV" tvc-guide-stationid="10138",CMT
 http://example.local/BHS-CMTV.ts
 #EXTINF:-1 tvg-chno="10139" tvg-name="CNBC" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NF468.png" group-title="Bahamas" tvg-id="CNBC" tvc-guide-stationid="10139",CNBC
 http://example.local/BHS-CNBC.ts
-#EXTINF:-1 tvg-chno="10149" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s10149_h3_ba.png" group-title="Bahamas" tvg-id="COMEDY" tvc-guide-stationid="10149",Comedy Central
+#EXTINF:-1 tvg-chno="10149" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s10149_ll_h15_ab.png" group-title="Bahamas" tvg-id="COMEDY" tvc-guide-stationid="10149",Comedy Central
 http://example.local/BHS-COMEDY.ts
 #EXTINF:-1 tvg-chno="62420" tvg-name="Comedy Central HD" tvg-logo="https://zap2it.tmsimg.com/assets/s62420_ll_h15_ab.png" group-title="Bahamas" tvg-id="CCHD" tvc-guide-stationid="62420",Comedy Central HD
 http://example.local/BHS-CCHD.ts
@@ -97,13 +99,13 @@ http://example.local/BHS-COOKHD.ts
 http://example.local/BHS-CSPAN.ts
 #EXTINF:-1 tvg-chno="17609" tvg-name="CTV SCI-FI CHANNEL" tvg-logo="https://zap2it.tmsimg.com/assets/s17609_ll_h15_ac.png" group-title="Bahamas" tvg-id="SCIFIS" tvc-guide-stationid="17609",CTV SCI-FI CHANNEL
 http://example.local/BHS-SCIFIS.ts
-#EXTINF:-1 tvg-chno="10108" tvg-name="CTV Toronto (CTV)" tvg-logo="https://zap2it.tmsimg.com/assets/s10108_ll_h15_ab.png" group-title="Bahamas" tvg-id="CFTO" tvc-guide-stationid="10108",CTV Toronto (CTV)
+#EXTINF:-1 tvg-chno="10108" tvg-name="CTV Toronto (CTV)" tvg-logo="https://logos.jesmann.com/cfto.png" group-title="Bahamas" tvg-id="CFTO" tvc-guide-stationid="10108",CTV Toronto (CTV)
 http://example.local/BHS-CFTO.ts
 #EXTINF:-1 tvg-chno="19026" tvg-name="Daystar Television Network" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0028Y563.png" group-title="Bahamas" tvg-id="DYSTR" tvc-guide-stationid="19026",Daystar Television Network
 http://example.local/BHS-DYSTR.ts
 #EXTINF:-1 tvg-chno="15800" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s15798_ll_h15_ae.png" group-title="Bahamas" tvg-id="TDCI" tvc-guide-stationid="15800",Discovery Channel
 http://example.local/BHS-TDCI.ts
-#EXTINF:-1 tvg-chno="11150" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11150_h3_ba.png" group-title="Bahamas" tvg-id="DSC" tvc-guide-stationid="11150",Discovery Channel
+#EXTINF:-1 tvg-chno="11150" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11150_ll_h15_af.png" group-title="Bahamas" tvg-id="DSC" tvc-guide-stationid="11150",Discovery Channel
 http://example.local/BHS-DSC.ts
 #EXTINF:-1 tvg-chno="48524" tvg-name="Discovery Civilization" tvg-logo="https://zap2it.tmsimg.com/assets/s48524_ll_h15_aa.png" group-title="Bahamas" tvg-id="DCIVILI" tvc-guide-stationid="48524",Discovery Civilization
 http://example.local/BHS-DCIVILI.ts
@@ -131,6 +133,8 @@ http://example.local/BHS-DWEUR.ts
 http://example.local/BHS-DWPLUS.ts
 #EXTINF:-1 tvg-chno="32195" tvg-name="E! Entertainment" tvg-logo="https://zap2it.tmsimg.com/assets/s32195_ll_h15_aa.png" group-title="Bahamas" tvg-id="ETVINT" tvc-guide-stationid="32195",E! Entertainment
 http://example.local/BHS-ETVINT.ts
+#EXTINF:-1 tvg-chno="10989" tvg-name="E! Entertainment Television" tvg-logo="https://zap2it.tmsimg.com/assets/s10989_ll_h15_aa.png" group-title="Bahamas" tvg-id="E" tvc-guide-stationid="10989",E! Entertainment Television
+http://example.local/BHS-E.ts
 #EXTINF:-1 tvg-chno="47255" tvg-name="EPG Parliamentary Programming" group-title="Bahamas" tvg-id="EPGPARL" tvc-guide-stationid="47255",EPG Parliamentary Programming
 http://example.local/BHS-EPGPARL.ts
 #EXTINF:-1 tvg-chno="10179" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s10179_ll_h15_aa.png" group-title="Bahamas" tvg-id="ESPN" tvc-guide-stationid="10179",ESPN
@@ -211,9 +215,9 @@ http://example.local/BHS-GAME9.ts
 http://example.local/BHS-GSN.ts
 #EXTINF:-1 tvg-chno="110439" tvg-name="GO242 Celebrations" group-title="Bahamas" tvg-id="PULS5" tvc-guide-stationid="110439",GO242 Celebrations
 http://example.local/BHS-PULS5.ts
-#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s14899_ll_h15_ad.png" group-title="Bahamas" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
+#EXTINF:-1 tvg-chno="14899" tvg-name="Golf Channel" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RFK1J.png" group-title="Bahamas" tvg-id="GOLF" tvc-guide-stationid="14899",Golf Channel
 http://example.local/BHS-GOLF.ts
-#EXTINF:-1 tvg-chno="89922" tvg-name="Grit" tvg-logo="https://zap2it.tmsimg.com/assets/s89922_h3_ba.png" group-title="Bahamas" tvg-id="GRIT" tvc-guide-stationid="89922",Grit
+#EXTINF:-1 tvg-chno="89922" tvg-name="Grit" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002FEPV8.png" group-title="Bahamas" tvg-id="GRIT" tvc-guide-stationid="89922",Grit
 http://example.local/BHS-GRIT.ts
 #EXTINF:-1 tvg-chno="11221" tvg-name="Hallmark Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11221_ll_h15_aa.png" group-title="Bahamas" tvg-id="HALL" tvc-guide-stationid="11221",Hallmark Channel
 http://example.local/BHS-HALL.ts
@@ -221,7 +225,7 @@ http://example.local/BHS-HALL.ts
 http://example.local/BHS-HBO.ts
 #EXTINF:-1 tvg-chno="57383" tvg-name="HBO" tvg-logo="https://zap2it.tmsimg.com/assets/s10240_ll_h15_aa.png" group-title="Bahamas" tvg-id="HBOCAR" tvc-guide-stationid="57383",HBO
 http://example.local/BHS-HBOCAR.ts
-#EXTINF:-1 tvg-chno="10244" tvg-name="HBO (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s10240_ll_h15_aa.png" group-title="Bahamas" tvg-id="HBOP" tvc-guide-stationid="10244",HBO (Pacific)
+#EXTINF:-1 tvg-chno="10244" tvg-name="HBO (Pacific)" tvg-logo="https://logos.jesmann.com/hbop.png" group-title="Bahamas" tvg-id="HBOP" tvc-guide-stationid="10244",HBO (Pacific)
 http://example.local/BHS-HBOP.ts
 #EXTINF:-1 tvg-chno="10243" tvg-name="HBO Drama" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBV2.png" group-title="Bahamas" tvg-id="HBODRMA" tvc-guide-stationid="10243",HBO Drama
 http://example.local/BHS-HBODRMA.ts
@@ -229,7 +233,7 @@ http://example.local/BHS-HBODRMA.ts
 http://example.local/BHS-HBOF.ts
 #EXTINF:-1 tvg-chno="10241" tvg-name="HBO Hits" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="Bahamas" tvg-id="HBOHTS" tvc-guide-stationid="10241",HBO Hits
 http://example.local/BHS-HBOHTS.ts
-#EXTINF:-1 tvg-chno="10242" tvg-name="HBO Hits (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029CL6E.png" group-title="Bahamas" tvg-id="HBOHTP" tvc-guide-stationid="10242",HBO Hits (Pacific)
+#EXTINF:-1 tvg-chno="10242" tvg-name="HBO Hits (Pacific)" tvg-logo="https://logos.jesmann.com/hbohtp.png" group-title="Bahamas" tvg-id="HBOHTP" tvc-guide-stationid="10242",HBO Hits (Pacific)
 http://example.local/BHS-HBOHTP.ts
 #EXTINF:-1 tvg-chno="59368" tvg-name="HBO Hits HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0029BBSR.png" group-title="Bahamas" tvg-id="HBOHTHD" tvc-guide-stationid="59368",HBO Hits HD
 http://example.local/BHS-HBOHTHD.ts
@@ -261,7 +265,9 @@ http://example.local/BHS-INSP.ts
 http://example.local/BHS-INSPINT.ts
 #EXTINF:-1 tvg-chno="69443" tvg-name="Inspirational Network International" tvg-logo="https://zap2it.tmsimg.com/assets/s69443_ll_h15_ab.png" group-title="Bahamas" tvg-id="INSPI" tvc-guide-stationid="69443",Inspirational Network International
 http://example.local/BHS-INSPI.ts
-#EXTINF:-1 tvg-chno="69073" tvg-name="ISAT" tvg-logo="https://zap2it.tmsimg.com/assets/s16497_h3_aa.png" group-title="Bahamas" tvg-id="ISATENG" tvc-guide-stationid="69073",ISAT
+#EXTINF:-1 tvg-chno="16615" tvg-name="Investigation Discovery" tvg-logo="https://zap2it.tmsimg.com/assets/s16615_ll_h15_ad.png" group-title="Bahamas" tvg-id="ID" tvc-guide-stationid="16615",Investigation Discovery
+http://example.local/BHS-ID.ts
+#EXTINF:-1 tvg-chno="69073" tvg-name="ISAT" tvg-logo="https://zap2it.tmsimg.com/assets/s16497_ll_h15_aa.png" group-title="Bahamas" tvg-id="ISATENG" tvc-guide-stationid="69073",ISAT
 http://example.local/BHS-ISATENG.ts
 #EXTINF:-1 tvg-chno="101310" tvg-name="Island Luck TV" tvg-logo="https://zap2it.tmsimg.com/assets/s101310_ll_h15_aa.png" group-title="Bahamas" tvg-id="ILTV" tvc-guide-stationid="101310",Island Luck TV
 http://example.local/BHS-ILTV.ts
@@ -269,7 +275,7 @@ http://example.local/BHS-ILTV.ts
 http://example.local/BHS-JTV.ts
 #EXTINF:-1 tvg-chno="56653" tvg-name="Jones Communication Network" tvg-logo="https://zap2it.tmsimg.com/assets/s56653_ll_h6_aa.png" group-title="Bahamas" tvg-id="JCN" tvc-guide-stationid="56653",Jones Communication Network
 http://example.local/BHS-JCN.ts
-#EXTINF:-1 tvg-chno="58684" tvg-name="Juicy-New Frontier" tvg-logo="https://zap2it.tmsimg.com/assets/s58684_h3_ba.png" group-title="Bahamas" tvg-id="JUICY" tvc-guide-stationid="58684",Juicy-New Frontier
+#EXTINF:-1 tvg-chno="58684" tvg-name="Juicy-New Frontier" tvg-logo="https://zap2it.tmsimg.com/assets/s58684_ll_h15_aa.png" group-title="Bahamas" tvg-id="JUICY" tvc-guide-stationid="58684",Juicy-New Frontier
 http://example.local/BHS-JUICY.ts
 #EXTINF:-1 tvg-chno="79670" tvg-name="Justice Central SD" tvg-logo="https://zap2it.tmsimg.com/assets/s79670_ll_h9_aa.png" group-title="Bahamas" tvg-id="JUSTSD" tvc-guide-stationid="79670",Justice Central SD
 http://example.local/BHS-JUSTSD.ts
@@ -323,11 +329,11 @@ http://example.local/BHS-NFLNET.ts
 http://example.local/BHS-NFLHD.ts
 #EXTINF:-1 tvg-chno="65024" tvg-name="NFL RedZone" tvg-logo="https://zap2it.tmsimg.com/assets/s65024_ll_h9_aa.png" group-title="Bahamas" tvg-id="NFLNRZ" tvc-guide-stationid="65024",NFL RedZone
 http://example.local/BHS-NFLNRZ.ts
-#EXTINF:-1 tvg-chno="17678" tvg-name="NFL Sunday Ticket - 704" tvg-logo="https://zap2it.tmsimg.com/assets/s17678_h3_aa.png" group-title="Bahamas" tvg-id="NFL704" tvc-guide-stationid="17678",NFL Sunday Ticket - 704
+#EXTINF:-1 tvg-chno="17678" tvg-name="NFL Sunday Ticket - 704" tvg-logo="https://zap2it.tmsimg.com/assets/s17678_ll_h15_aa.png" group-title="Bahamas" tvg-id="NFL704" tvc-guide-stationid="17678",NFL Sunday Ticket - 704
 http://example.local/BHS-NFL704.ts
-#EXTINF:-1 tvg-chno="17679" tvg-name="NFL Sunday Ticket - 705" tvg-logo="https://zap2it.tmsimg.com/assets/s17679_h3_aa.png" group-title="Bahamas" tvg-id="NFL705" tvc-guide-stationid="17679",NFL Sunday Ticket - 705
+#EXTINF:-1 tvg-chno="17679" tvg-name="NFL Sunday Ticket - 705" tvg-logo="https://zap2it.tmsimg.com/assets/s17679_ll_h15_aa.png" group-title="Bahamas" tvg-id="NFL705" tvc-guide-stationid="17679",NFL Sunday Ticket - 705
 http://example.local/BHS-NFL705.ts
-#EXTINF:-1 tvg-chno="17680" tvg-name="NFL Sunday Ticket - 706" tvg-logo="https://zap2it.tmsimg.com/assets/s17680_h3_aa.png" group-title="Bahamas" tvg-id="NFL706" tvc-guide-stationid="17680",NFL Sunday Ticket - 706
+#EXTINF:-1 tvg-chno="17680" tvg-name="NFL Sunday Ticket - 706" tvg-logo="https://zap2it.tmsimg.com/assets/s17680_ll_h15_aa.png" group-title="Bahamas" tvg-id="NFL706" tvc-guide-stationid="17680",NFL Sunday Ticket - 706
 http://example.local/BHS-NFL706.ts
 #EXTINF:-1 tvg-chno="17681" tvg-name="NFL Sunday Ticket - 707" tvg-logo="https://zap2it.tmsimg.com/assets/s17681_ll_h15_aa.png" group-title="Bahamas" tvg-id="NFL707" tvc-guide-stationid="17681",NFL Sunday Ticket - 707
 http://example.local/BHS-NFL707.ts
@@ -363,11 +369,11 @@ http://example.local/BHS-PAR.ts
 http://example.local/BHS-PARSHO.ts
 #EXTINF:-1 tvg-chno="19556" tvg-name="Peachtree TV (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s19556_ll_h15_aa.png" group-title="Bahamas" tvg-id="WPCH" tvc-guide-stationid="19556",Peachtree TV (CW)
 http://example.local/BHS-WPCH.ts
-#EXTINF:-1 tvg-chno="73705" tvg-name="Penthouse TV Latin America (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s73704_h3_aa.png" group-title="Bahamas" tvg-id="PENTTVE" tvc-guide-stationid="73705",Penthouse TV Latin America (English)
+#EXTINF:-1 tvg-chno="73705" tvg-name="Penthouse TV Latin America (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s73704_ll_h15_aa.png" group-title="Bahamas" tvg-id="PENTTVE" tvc-guide-stationid="73705",Penthouse TV Latin America (English)
 http://example.local/BHS-PENTTVE.ts
 #EXTINF:-1 tvg-chno="91307" tvg-name="Playboy Premium SD" tvg-logo="https://zap2it.tmsimg.com/assets/s91307_ll_h15_aa.png" group-title="Bahamas" tvg-id="PLYPRM" tvc-guide-stationid="91307",Playboy Premium SD
 http://example.local/BHS-PLYPRM.ts
-#EXTINF:-1 tvg-chno="11069" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s11069_ll_h15_ad.png" group-title="Bahamas" tvg-id="QVC" tvc-guide-stationid="11069",QVC
+#EXTINF:-1 tvg-chno="11069" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s11069_h3_ba.png" group-title="Bahamas" tvg-id="QVC" tvc-guide-stationid="11069",QVC
 http://example.local/BHS-QVC.ts
 #EXTINF:-1 tvg-chno="45169" tvg-name="RACER Network" tvg-logo="https://zap2it.tmsimg.com/assets/s45169_ll_h15_ac.png" group-title="Bahamas" tvg-id="RACER" tvc-guide-stationid="45169",RACER Network
 http://example.local/BHS-RACER.ts
@@ -405,11 +411,11 @@ http://example.local/BHS-STRACO.ts
 http://example.local/BHS-STARCI.ts
 #EXTINF:-1 tvg-chno="44028" tvg-name="Star Classics" tvg-logo="https://zap2it.tmsimg.com/assets/s44028_ll_h15_ac.png" group-title="Bahamas" tvg-id="STARCLA" tvc-guide-stationid="44028",Star Classics
 http://example.local/BHS-STARCLA.ts
-#EXTINF:-1 tvg-chno="90916" tvg-name="STAR COMEDY" tvg-logo="https://zap2it.tmsimg.com/assets/s90916_ll_h15_ac.png" group-title="Bahamas" tvg-id="STARCOM" tvc-guide-stationid="90916",STAR COMEDY
+#EXTINF:-1 tvg-chno="90916" tvg-name="STAR COMEDY" tvg-logo="https://zap2it.tmsimg.com/assets/s90916_h3_ba.png" group-title="Bahamas" tvg-id="STARCOM" tvc-guide-stationid="90916",STAR COMEDY
 http://example.local/BHS-STARCOM.ts
-#EXTINF:-1 tvg-chno="65399" tvg-name="STAR FUN" tvg-logo="https://zap2it.tmsimg.com/assets/s65399_h3_aa.png" group-title="Bahamas" tvg-id="STARFAM" tvc-guide-stationid="65399",STAR FUN
+#EXTINF:-1 tvg-chno="65399" tvg-name="STAR FUN" tvg-logo="https://zap2it.tmsimg.com/assets/s65399_ll_h15_ac.png" group-title="Bahamas" tvg-id="STARFAM" tvc-guide-stationid="65399",STAR FUN
 http://example.local/BHS-STARFAM.ts
-#EXTINF:-1 tvg-chno="65400" tvg-name="STAR FUN" tvg-logo="https://zap2it.tmsimg.com/assets/s65399_ll_h15_ac.png" group-title="Bahamas" tvg-id="STARFO" tvc-guide-stationid="65400",STAR FUN
+#EXTINF:-1 tvg-chno="65400" tvg-name="STAR FUN" tvg-logo="https://zap2it.tmsimg.com/assets/s65399_h3_ba.png" group-title="Bahamas" tvg-id="STARFO" tvc-guide-stationid="65400",STAR FUN
 http://example.local/BHS-STARFO.ts
 #EXTINF:-1 tvg-chno="58833" tvg-name="Star Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s58833_ll_h15_ae.png" group-title="Bahamas" tvg-id="STARHIT" tvc-guide-stationid="58833",Star Hits
 http://example.local/BHS-STARHIT.ts
@@ -417,7 +423,7 @@ http://example.local/BHS-STARHIT.ts
 http://example.local/BHS-STARZ.ts
 #EXTINF:-1 tvg-chno="16311" tvg-name="Starz Edge" tvg-logo="https://zap2it.tmsimg.com/assets/s16311_ll_h15_ab.png" group-title="Bahamas" tvg-id="STZE" tvc-guide-stationid="16311",Starz Edge
 http://example.local/BHS-STZE.ts
-#EXTINF:-1 tvg-chno="16833" tvg-name="Starz in Black" tvg-logo="https://zap2it.tmsimg.com/assets/s16833_h3_aa.png" group-title="Bahamas" tvg-id="STZIB" tvc-guide-stationid="16833",Starz in Black
+#EXTINF:-1 tvg-chno="16833" tvg-name="Starz in Black" tvg-logo="https://zap2it.tmsimg.com/assets/s16833_ll_h15_ac.png" group-title="Bahamas" tvg-id="STZIB" tvc-guide-stationid="16833",Starz in Black
 http://example.local/BHS-STZIB.ts
 #EXTINF:-1 tvg-chno="67574" tvg-name="Stingray Adult Alternative" tvg-logo="https://zap2it.tmsimg.com/assets/s95856_ll_h15_aa.png" group-title="Bahamas" tvg-id="SMUS18" tvc-guide-stationid="67574",Stingray Adult Alternative
 http://example.local/BHS-SMUS18.ts
@@ -499,7 +505,7 @@ http://example.local/BHS-SMUS48.ts
 http://example.local/BHS-SMUS49.ts
 #EXTINF:-1 tvg-chno="67571" tvg-name="Stingray Smooth Jazz" tvg-logo="https://zap2it.tmsimg.com/assets/s67571_ll_h15_ab.png" group-title="Bahamas" tvg-id="SMUS33" tvc-guide-stationid="67571",Stingray Smooth Jazz
 http://example.local/BHS-SMUS33.ts
-#EXTINF:-1 tvg-chno="67563" tvg-name="Stingray Soul Storm" tvg-logo="https://zap2it.tmsimg.com/assets/s67563_ll_h15_ac.png" group-title="Bahamas" tvg-id="SMUS27" tvc-guide-stationid="67563",Stingray Soul Storm
+#EXTINF:-1 tvg-chno="67563" tvg-name="Stingray Soul Storm" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NEECP.png" group-title="Bahamas" tvg-id="SMUS27" tvc-guide-stationid="67563",Stingray Soul Storm
 http://example.local/BHS-SMUS27.ts
 #EXTINF:-1 tvg-chno="67572" tvg-name="Stingray The Blues" tvg-logo="https://zap2it.tmsimg.com/assets/s67572_ll_h15_aa.png" group-title="Bahamas" tvg-id="SMUS17" tvc-guide-stationid="67572",Stingray The Blues
 http://example.local/BHS-SMUS17.ts
@@ -517,9 +523,9 @@ http://example.local/BHS-SMUS44.ts
 http://example.local/BHS-SUNDANC.ts
 #EXTINF:-1 tvg-chno="88851" tvg-name="Swift My Destination TV" group-title="Bahamas" tvg-id="SMYDEST" tvc-guide-stationid="88851",Swift My Destination TV
 http://example.local/BHS-SMYDEST.ts
-#EXTINF:-1 tvg-chno="88852" tvg-name="Swift Pursuit Channel (PURST)" tvg-logo="https://zap2it.tmsimg.com/assets/s60111_h3_aa.png" group-title="Bahamas" tvg-id="SPURST" tvc-guide-stationid="88852",Swift Pursuit Channel (PURST)
+#EXTINF:-1 tvg-chno="88852" tvg-name="Swift Pursuit Channel (PURST)" tvg-logo="https://zap2it.tmsimg.com/assets/s60111_ll_h15_aa.png" group-title="Bahamas" tvg-id="SPURST" tvc-guide-stationid="88852",Swift Pursuit Channel (PURST)
 http://example.local/BHS-SPURST.ts
-#EXTINF:-1 tvg-chno="11097" tvg-name="SYFY" tvg-logo="https://zap2it.tmsimg.com/assets/s11097_h3_aa.png" group-title="Bahamas" tvg-id="SYFY" tvc-guide-stationid="11097",SYFY
+#EXTINF:-1 tvg-chno="11097" tvg-name="SYFY" tvg-logo="https://zap2it.tmsimg.com/assets/s11097_ll_h15_ae.png" group-title="Bahamas" tvg-id="SYFY" tvc-guide-stationid="11097",SYFY
 http://example.local/BHS-SYFY.ts
 #EXTINF:-1 tvg-chno="11867" tvg-name="TBS" tvg-logo="https://zap2it.tmsimg.com/assets/s11867_ll_h15_ac.png" group-title="Bahamas" tvg-id="TBS" tvc-guide-stationid="11867",TBS
 http://example.local/BHS-TBS.ts
@@ -541,7 +547,7 @@ http://example.local/BHS-BREC.ts
 http://example.local/BHS-COWBOY.ts
 #EXTINF:-1 tvg-chno="11160" tvg-name="The Movie Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11160_ll_h15_aa.png" group-title="Bahamas" tvg-id="TMC" tvc-guide-stationid="11160",The Movie Channel
 http://example.local/BHS-TMC.ts
-#EXTINF:-1 tvg-chno="12509" tvg-name="The Movie Channel (Pacific)" tvg-logo="https://zap2it.tmsimg.com/assets/s11160_ll_h15_aa.png" group-title="Bahamas" tvg-id="TMCP" tvc-guide-stationid="12509",The Movie Channel (Pacific)
+#EXTINF:-1 tvg-chno="12509" tvg-name="The Movie Channel (Pacific)" tvg-logo="https://logos.jesmann.com/tmcp.png" group-title="Bahamas" tvg-id="TMCP" tvc-guide-stationid="12509",The Movie Channel (Pacific)
 http://example.local/BHS-TMCP.ts
 #EXTINF:-1 tvg-chno="11180" tvg-name="The Travel Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11180_ll_h15_ac.png" group-title="Bahamas" tvg-id="TRAV" tvc-guide-stationid="11180",The Travel Channel
 http://example.local/BHS-TRAV.ts
@@ -553,13 +559,13 @@ http://example.local/BHS-WEATH.ts
 http://example.local/BHS-WORD.ts
 #EXTINF:-1 tvg-chno="67579" tvg-name="TikTok Radio" tvg-logo="https://zap2it.tmsimg.com/assets/s67579_ll_h15_ab.png" group-title="Bahamas" tvg-id="SMUS43" tvc-guide-stationid="67579",TikTok Radio
 http://example.local/BHS-SMUS43.ts
-#EXTINF:-1 tvg-chno="11158" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s11158_ll_h15_ad.png" group-title="Bahamas" tvg-id="TLC" tvc-guide-stationid="11158",TLC
+#EXTINF:-1 tvg-chno="11158" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s11158_h3_aa.png" group-title="Bahamas" tvg-id="TLC" tvc-guide-stationid="11158",TLC
 http://example.local/BHS-TLC.ts
 #EXTINF:-1 tvg-chno="11164" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s11164_h3_aa.png" group-title="Bahamas" tvg-id="TNT" tvc-guide-stationid="11164",TNT
 http://example.local/BHS-TNT.ts
 #EXTINF:-1 tvg-chno="15914" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Bahamas" tvg-id="TNTL" tvc-guide-stationid="15914",TNT
 http://example.local/BHS-TNTL.ts
-#EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_ll_h15_ag.png" group-title="Bahamas" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
+#EXTINF:-1 tvg-chno="19384" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71148_h3_ba.png" group-title="Bahamas" tvg-id="TNTLC" tvc-guide-stationid="19384",TNT
 http://example.local/BHS-TNTLC.ts
 #EXTINF:-1 tvg-chno="17639" tvg-name="Treehouse" tvg-logo="https://zap2it.tmsimg.com/assets/s17639_ll_h15_ab.png" group-title="Bahamas" tvg-id="TREEC" tvc-guide-stationid="17639",Treehouse
 http://example.local/BHS-TREEC.ts
@@ -573,13 +579,15 @@ http://example.local/BHS-CRN3.ts
 http://example.local/BHS-TRUTV.ts
 #EXTINF:-1 tvg-chno="11182" tvg-name="TSN 1" tvg-logo="https://zap2it.tmsimg.com/assets/s11182_ll_h15_aa.png" group-title="Bahamas" tvg-id="TSN1" tvc-guide-stationid="11182",TSN 1
 http://example.local/BHS-TSN1.ts
+#EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="Bahamas" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
+http://example.local/BHS-TCM.ts
 #EXTINF:-1 tvg-chno="14781" tvg-name="TV Guide" tvg-logo="https://zap2it.tmsimg.com/assets/s14781_ll_h15_aa.png" group-title="Bahamas" tvg-id="PRGU" tvc-guide-stationid="14781",TV Guide
 http://example.local/BHS-PRGU.ts
-#EXTINF:-1 tvg-chno="16123" tvg-name="TV Land" tvg-logo="https://zap2it.tmsimg.com/assets/s16123_h3_aa.png" group-title="Bahamas" tvg-id="TVLAND" tvc-guide-stationid="16123",TV Land
+#EXTINF:-1 tvg-chno="16123" tvg-name="TV Land" tvg-logo="https://zap2it.tmsimg.com/assets/s16123_ll_h15_aa.png" group-title="Bahamas" tvg-id="TVLAND" tvc-guide-stationid="16123",TV Land
 http://example.local/BHS-TVLAND.ts
-#EXTINF:-1 tvg-chno="56112" tvg-name="TV5 Monde (FBSM)" tvg-logo="https://zap2it.tmsimg.com/assets/s56112_ll_h15_aa.png" group-title="Bahamas" tvg-id="TV5FBSM" tvc-guide-stationid="56112",TV5 Monde (FBSM)
+#EXTINF:-1 tvg-chno="56112" tvg-name="TV5 Monde (FBSM)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002M0MHK.png" group-title="Bahamas" tvg-id="TV5FBSM" tvc-guide-stationid="56112",TV5 Monde (FBSM)
 http://example.local/BHS-TV5FBSM.ts
-#EXTINF:-1 tvg-chno="91983" tvg-name="TV5Monde Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/s91983_ll_h9_aa.png" group-title="Bahamas" tvg-id="TV5MNDC" tvc-guide-stationid="91983",TV5Monde Caribbean
+#EXTINF:-1 tvg-chno="91983" tvg-name="TV5Monde Caribbean" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002M0XC8.png" group-title="Bahamas" tvg-id="TV5MNDC" tvc-guide-stationid="91983",TV5Monde Caribbean
 http://example.local/BHS-TV5MNDC.ts
 #EXTINF:-1 tvg-chno="10119" tvg-name="TVO" tvg-logo="https://zap2it.tmsimg.com/assets/s10119_ll_h15_ab.png" group-title="Bahamas" tvg-id="CICA" tvc-guide-stationid="10119",TVO
 http://example.local/BHS-CICA.ts
@@ -597,7 +605,7 @@ http://example.local/BHS-USAA.ts
 http://example.local/BHS-VH1.ts
 #EXTINF:-1 tvg-chno="18822" tvg-name="Vice" tvg-logo="https://zap2it.tmsimg.com/assets/s18822_ll_h15_ac.png" group-title="Bahamas" tvg-id="VICE" tvc-guide-stationid="18822",Vice
 http://example.local/BHS-VICE.ts
-#EXTINF:-1 tvg-chno="49472" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_h3_aa.png" group-title="Bahamas" tvg-id="WBLI2" tvc-guide-stationid="49472",Warner Channel
+#EXTINF:-1 tvg-chno="49472" tvg-name="Warner Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s16213_ll_h15_ae.png" group-title="Bahamas" tvg-id="WBLI2" tvc-guide-stationid="49472",Warner Channel
 http://example.local/BHS-WBLI2.ts
 #EXTINF:-1 tvg-chno="11352" tvg-name="WCLJ (BOUNCE)" tvg-logo="https://zap2it.tmsimg.com/assets/s73067_ll_h15_ab.png" group-title="Bahamas" tvg-id="WCLJ" tvc-guide-stationid="11352",WCLJ (BOUNCE)
 http://example.local/BHS-WCLJ.ts
@@ -615,7 +623,7 @@ http://example.local/BHS-WGN.ts
 http://example.local/BHS-WHDH.ts
 #EXTINF:-1 tvg-chno="11715" tvg-name="WNET (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png" group-title="Bahamas" tvg-id="WNET" tvc-guide-stationid="11715",WNET (PBS)
 http://example.local/BHS-WNET.ts
-#EXTINF:-1 tvg-chno="11771" tvg-name="WPBT (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_h3_ba.png" group-title="Bahamas" tvg-id="WPBT" tvc-guide-stationid="11771",WPBT (PBS)
+#EXTINF:-1 tvg-chno="11771" tvg-name="WPBT (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png" group-title="Bahamas" tvg-id="WPBT" tvc-guide-stationid="11771",WPBT (PBS)
 http://example.local/BHS-WPBT.ts
 #EXTINF:-1 tvg-chno="26192" tvg-name="WPBT-DT (PBS)" tvg-logo="https://logos.jesmann.com/wpbtdt.png" group-title="Bahamas" tvg-id="WPBTDT" tvc-guide-stationid="26192",WPBT-DT (PBS)
 http://example.local/BHS-WPBTDT.ts

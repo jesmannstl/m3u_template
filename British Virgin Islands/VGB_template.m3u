@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="10002" tvg-name="3 Angels Broadcasting Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10002_ll_h15_aa.png" group-title="British Virgin Islands" tvg-id="3ANGELS" tvc-guide-stationid="10002",3 Angels Broadcasting Network
 http://example.local/VGB-3ANGELS.ts
-#EXTINF:-1 tvg-chno="10035" tvg-name="A&E" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_ll_h15_ab.png" group-title="British Virgin Islands" tvg-id="AETV" tvc-guide-stationid="10035",A&E
+#EXTINF:-1 tvg-chno="10035" tvg-name="A&E" tvg-logo="https://logos.jesmann.com/aetv.png" group-title="British Virgin Islands" tvg-id="AETV" tvc-guide-stationid="10035",A&E
 http://example.local/VGB-AETV.ts
 #EXTINF:-1 tvg-chno="104959" tvg-name="AMC" tvg-logo="https://zap2it.tmsimg.com/assets/s90653_ll_h15_ad.png" group-title="British Virgin Islands" tvg-id="AMCHSPE" tvc-guide-stationid="104959",AMC
 http://example.local/VGB-AMCHSPE.ts
-#EXTINF:-1 tvg-chno="18649" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="British Virgin Islands" tvg-id="ANIPL" tvc-guide-stationid="18649",Animal Planet
-http://example.local/VGB-ANIPL.ts
 #EXTINF:-1 tvg-chno="18648" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="British Virgin Islands" tvg-id="ANIPI" tvc-guide-stationid="18648",Animal Planet
 http://example.local/VGB-ANIPI.ts
+#EXTINF:-1 tvg-chno="18649" tvg-name="Animal Planet" tvg-logo="https://zap2it.tmsimg.com/assets/s18649_ll_h15_af.png" group-title="British Virgin Islands" tvg-id="ANIPL" tvc-guide-stationid="18649",Animal Planet
+http://example.local/VGB-ANIPL.ts
 #EXTINF:-1 tvg-chno="26083" tvg-name="AXN" tvg-logo="https://zap2it.tmsimg.com/assets/s17484_ll_h15_ab.png" group-title="British Virgin Islands" tvg-id="AXNARG" tvc-guide-stationid="26083",AXN
 http://example.local/VGB-AXNARG.ts
 #EXTINF:-1 tvg-chno="50338" tvg-name="BabyFirst TV" tvg-logo="https://zap2it.tmsimg.com/assets/s50338_ll_h15_ab.png" group-title="British Virgin Islands" tvg-id="BABY1" tvc-guide-stationid="50338",BabyFirst TV
@@ -39,21 +39,23 @@ http://example.local/VGB-CALAACT.ts
 http://example.local/VGB-CLWTR.ts
 #EXTINF:-1 tvg-chno="19099" tvg-name="Canal TV Guide" tvg-logo="https://zap2it.tmsimg.com/assets/s19099_ll_h15_aa.png" group-title="British Virgin Islands" tvg-id="TVGUL" tvc-guide-stationid="19099",Canal TV Guide
 http://example.local/VGB-TVGUL.ts
-#EXTINF:-1 tvg-chno="12131" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s12131_h3_ba.png" group-title="British Virgin Islands" tvg-id="TOON" tvc-guide-stationid="12131",Cartoon Network
-http://example.local/VGB-TOON.ts
 #EXTINF:-1 tvg-chno="42502" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s59562_ll_h15_aa.png" group-title="British Virgin Islands" tvg-id="TOONES" tvc-guide-stationid="42502",Cartoon Network
 http://example.local/VGB-TOONES.ts
+#EXTINF:-1 tvg-chno="12131" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s12131_ll_h15_aa.png" group-title="British Virgin Islands" tvg-id="TOON" tvc-guide-stationid="12131",Cartoon Network
+http://example.local/VGB-TOON.ts
 #EXTINF:-1 tvg-chno="55719" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s26089_ll_h15_ac.png" group-title="British Virgin Islands" tvg-id="CARTOM" tvc-guide-stationid="55719",Cartoonito
 http://example.local/VGB-CARTOM.ts
 #EXTINF:-1 tvg-chno="10094" tvg-name="CBC News Network" tvg-logo="https://zap2it.tmsimg.com/assets/s10094_ll_h15_ad.png" group-title="British Virgin Islands" tvg-id="CBNEWS" tvc-guide-stationid="10094",CBC News Network
 http://example.local/VGB-CBNEWS.ts
+#EXTINF:-1 tvg-chno="10120" tvg-name="Cinemax" tvg-logo="https://zap2it.tmsimg.com/assets/s10120_ll_h15_ab.png" group-title="British Virgin Islands" tvg-id="MAX" tvc-guide-stationid="10120",Cinemax
+http://example.local/VGB-MAX.ts
 #EXTINF:-1 tvg-chno="34200" tvg-name="Citytv Toronto HD (CITYDT)" tvg-logo="https://zap2it.tmsimg.com/assets/s34200_ll_h15_ab.png" group-title="British Virgin Islands" tvg-id="CITYDT" tvc-guide-stationid="34200",Citytv Toronto HD (CITYDT)
 http://example.local/VGB-CITYDT.ts
 #EXTINF:-1 tvg-chno="10139" tvg-name="CNBC" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NF468.png" group-title="British Virgin Islands" tvg-id="CNBC" tvc-guide-stationid="10139",CNBC
 http://example.local/VGB-CNBC.ts
 #EXTINF:-1 tvg-chno="10146" tvg-name="CNN International" tvg-logo="https://zap2it.tmsimg.com/assets/s10146_ll_h15_ac.png" group-title="British Virgin Islands" tvg-id="CNNI" tvc-guide-stationid="10146",CNN International
 http://example.local/VGB-CNNI.ts
-#EXTINF:-1 tvg-chno="10149" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s10149_h3_ba.png" group-title="British Virgin Islands" tvg-id="COMEDY" tvc-guide-stationid="10149",Comedy Central
+#EXTINF:-1 tvg-chno="10149" tvg-name="Comedy Central" tvg-logo="https://zap2it.tmsimg.com/assets/s10149_ll_h15_ab.png" group-title="British Virgin Islands" tvg-id="COMEDY" tvc-guide-stationid="10149",Comedy Central
 http://example.local/VGB-COMEDY.ts
 #EXTINF:-1 tvg-chno="97051" tvg-name="Comet" tvg-logo="https://zap2it.tmsimg.com/assets/s97051_ll_h15_ab.png" group-title="British Virgin Islands" tvg-id="COMET" tvc-guide-stationid="97051",Comet
 http://example.local/VGB-COMET.ts
@@ -61,14 +63,14 @@ http://example.local/VGB-COMET.ts
 http://example.local/VGB-CSPAN.ts
 #EXTINF:-1 tvg-chno="76921" tvg-name="CTV News Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s76921_ll_h9_ac.png" group-title="British Virgin Islands" tvg-id="NWSNTHD" tvc-guide-stationid="76921",CTV News Channel HD
 http://example.local/VGB-NWSNTHD.ts
-#EXTINF:-1 tvg-chno="11150" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11150_h3_ba.png" group-title="British Virgin Islands" tvg-id="DSC" tvc-guide-stationid="11150",Discovery Channel
+#EXTINF:-1 tvg-chno="11150" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s11150_ll_h15_af.png" group-title="British Virgin Islands" tvg-id="DSC" tvc-guide-stationid="11150",Discovery Channel
 http://example.local/VGB-DSC.ts
-#EXTINF:-1 tvg-chno="34083" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_h3_aa.png" group-title="British Virgin Islands" tvg-id="DHEAI" tvc-guide-stationid="34083",Discovery Home & Health
+#EXTINF:-1 tvg-chno="34083" tvg-name="Discovery Home & Health" tvg-logo="https://zap2it.tmsimg.com/assets/s24424_ll_h15_ae.png" group-title="British Virgin Islands" tvg-id="DHEAI" tvc-guide-stationid="34083",Discovery Home & Health
 http://example.local/VGB-DHEAI.ts
-#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_h3_aa.png" group-title="British Virgin Islands" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
-http://example.local/VGB-DKNLM.ts
 #EXTINF:-1 tvg-chno="16665" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16665_ll_h15_aa.png" group-title="British Virgin Islands" tvg-id="DKNI" tvc-guide-stationid="16665",Discovery Kids
 http://example.local/VGB-DKNI.ts
+#EXTINF:-1 tvg-chno="45955" tvg-name="Discovery Kids" tvg-logo="https://zap2it.tmsimg.com/assets/s16680_ll_h15_ab.png" group-title="British Virgin Islands" tvg-id="DKNLM" tvc-guide-stationid="45955",Discovery Kids
+http://example.local/VGB-DKNLM.ts
 #EXTINF:-1 tvg-chno="65301" tvg-name="Discovery Theater HD" tvg-logo="https://zap2it.tmsimg.com/assets/s65940_ll_h15_ab.png" group-title="British Virgin Islands" tvg-id="DTHLIHD" tvc-guide-stationid="65301",Discovery Theater HD
 http://example.local/VGB-DTHLIHD.ts
 #EXTINF:-1 tvg-chno="54948" tvg-name="Discovery Turbo" tvg-logo="https://zap2it.tmsimg.com/assets/s46608_ll_h15_aa.png" group-title="British Virgin Islands" tvg-id="DTURBO" tvc-guide-stationid="54948",Discovery Turbo
@@ -81,6 +83,8 @@ http://example.local/VGB-DISN.ts
 http://example.local/VGB-DISJMXE.ts
 #EXTINF:-1 tvg-chno="95556" tvg-name="Disney XD" tvg-logo="https://zap2it.tmsimg.com/assets/s54930_ll_h15_ab.png" group-title="British Virgin Islands" tvg-id="DISXMUE" tvc-guide-stationid="95556",Disney XD
 http://example.local/VGB-DISXMUE.ts
+#EXTINF:-1 tvg-chno="10989" tvg-name="E! Entertainment Television" tvg-logo="https://zap2it.tmsimg.com/assets/s10989_ll_h15_aa.png" group-title="British Virgin Islands" tvg-id="E" tvc-guide-stationid="10989",E! Entertainment Television
+http://example.local/VGB-E.ts
 #EXTINF:-1 tvg-chno="10179" tvg-name="ESPN" tvg-logo="https://zap2it.tmsimg.com/assets/s10179_ll_h15_aa.png" group-title="British Virgin Islands" tvg-id="ESPN" tvc-guide-stationid="10179",ESPN
 http://example.local/VGB-ESPN.ts
 #EXTINF:-1 tvg-chno="64997" tvg-name="ESPN Caribbean" group-title="British Virgin Islands" tvg-id="ESPNIC" tvc-guide-stationid="64997",ESPN Caribbean
@@ -123,11 +127,11 @@ http://example.local/VGB-HLNINT.ts
 http://example.local/VGB-HGTV.ts
 #EXTINF:-1 tvg-chno="110785" tvg-name="HTV" tvg-logo="https://zap2it.tmsimg.com/assets/s15969_ll_h15_aa.png" group-title="British Virgin Islands" tvg-id="HTVLAH" tvc-guide-stationid="110785",HTV
 http://example.local/VGB-HTVLAH.ts
-#EXTINF:-1 tvg-chno="25793" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="British Virgin Islands" tvg-id="IDM" tvc-guide-stationid="25793",ID
-http://example.local/VGB-IDM.ts
 #EXTINF:-1 tvg-chno="16446" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="British Virgin Islands" tvg-id="IDLE" tvc-guide-stationid="16446",ID
 http://example.local/VGB-IDLE.ts
-#EXTINF:-1 tvg-chno="112570" tvg-name="Laff HD" tvg-logo="https://zap2it.tmsimg.com/assets/s112570_ll_h15_aa.png" group-title="British Virgin Islands" tvg-id="LAFFHD" tvc-guide-stationid="112570",Laff HD
+#EXTINF:-1 tvg-chno="25793" tvg-name="ID" tvg-logo="https://zap2it.tmsimg.com/assets/s25743_ll_h15_ac.png" group-title="British Virgin Islands" tvg-id="IDM" tvc-guide-stationid="25793",ID
+http://example.local/VGB-IDM.ts
+#EXTINF:-1 tvg-chno="112570" tvg-name="Laff HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NRDWT.png" group-title="British Virgin Islands" tvg-id="LAFFHD" tvc-guide-stationid="112570",Laff HD
 http://example.local/VGB-LAFFHD.ts
 #EXTINF:-1 tvg-chno="10918" tvg-name="Lifetime" tvg-logo="https://zap2it.tmsimg.com/assets/s10918_ll_h15_ac.png" group-title="British Virgin Islands" tvg-id="LIFE" tvc-guide-stationid="10918",Lifetime
 http://example.local/VGB-LIFE.ts
@@ -175,10 +179,10 @@ http://example.local/VGB-TEMPO.ts
 http://example.local/VGB-WEATH.ts
 #EXTINF:-1 tvg-chno="73824" tvg-name="TLC Latin America (English)" tvg-logo="https://zap2it.tmsimg.com/assets/s73822_ll_h15_ae.png" group-title="British Virgin Islands" tvg-id="TLCLAE" tvc-guide-stationid="73824",TLC Latin America (English)
 http://example.local/VGB-TLCLAE.ts
-#EXTINF:-1 tvg-chno="11164" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s11164_h3_aa.png" group-title="British Virgin Islands" tvg-id="TNT" tvc-guide-stationid="11164",TNT
-http://example.local/VGB-TNT.ts
 #EXTINF:-1 tvg-chno="97390" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s71727_ll_h15_aa.png" group-title="British Virgin Islands" tvg-id="TNTLDEH" tvc-guide-stationid="97390",TNT
 http://example.local/VGB-TNTLDEH.ts
+#EXTINF:-1 tvg-chno="11164" tvg-name="TNT" tvg-logo="https://zap2it.tmsimg.com/assets/s11164_h3_aa.png" group-title="British Virgin Islands" tvg-id="TNT" tvc-guide-stationid="11164",TNT
+http://example.local/VGB-TNT.ts
 #EXTINF:-1 tvg-chno="92105" tvg-name="TNT Series" tvg-logo="https://zap2it.tmsimg.com/assets/s91993_ll_h15_ab.png" group-title="British Virgin Islands" tvg-id="TNTSPAE" tvc-guide-stationid="92105",TNT Series
 http://example.local/VGB-TNTSPAE.ts
 #EXTINF:-1 tvg-chno="67595" tvg-name="TOONCAST" tvg-logo="https://zap2it.tmsimg.com/assets/s63109_ll_h15_aa.png" group-title="British Virgin Islands" tvg-id="TNCSTEN" tvc-guide-stationid="67595",TOONCAST
@@ -187,6 +191,8 @@ http://example.local/VGB-TNCSTEN.ts
 http://example.local/VGB-TBN.ts
 #EXTINF:-1 tvg-chno="10153" tvg-name="truTV" tvg-logo="https://zap2it.tmsimg.com/assets/s10153_ll_h15_ad.png" group-title="British Virgin Islands" tvg-id="TRUTV" tvc-guide-stationid="10153",truTV
 http://example.local/VGB-TRUTV.ts
+#EXTINF:-1 tvg-chno="12852" tvg-name="Turner Classic Movies" tvg-logo="https://zap2it.tmsimg.com/assets/s12852_ll_h15_ab.png" group-title="British Virgin Islands" tvg-id="TCM" tvc-guide-stationid="12852",Turner Classic Movies
+http://example.local/VGB-TCM.ts
 #EXTINF:-1 tvg-chno="64312" tvg-name="Turner Classic Movies HD" tvg-logo="https://zap2it.tmsimg.com/assets/s64312_ll_h15_ab.png" group-title="British Virgin Islands" tvg-id="TCMHD" tvc-guide-stationid="64312",Turner Classic Movies HD
 http://example.local/VGB-TCMHD.ts
 #EXTINF:-1 tvg-chno="10119" tvg-name="TVO" tvg-logo="https://zap2it.tmsimg.com/assets/s10119_ll_h15_ab.png" group-title="British Virgin Islands" tvg-id="CICA" tvc-guide-stationid="10119",TVO
@@ -205,7 +211,7 @@ http://example.local/VGB-WFORDT.ts
 http://example.local/VGB-WGN.ts
 #EXTINF:-1 tvg-chno="34962" tvg-name="WLTV-DT (UNI)" tvg-logo="https://zap2it.tmsimg.com/assets/s11118_h3_aa.png" group-title="British Virgin Islands" tvg-id="WLTVDT" tvc-guide-stationid="34962",WLTV-DT (UNI)
 http://example.local/VGB-WLTVDT.ts
-#EXTINF:-1 tvg-chno="11709" tvg-name="WNED (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_h3_ba.png" group-title="British Virgin Islands" tvg-id="WNED" tvc-guide-stationid="11709",WNED (PBS)
+#EXTINF:-1 tvg-chno="11709" tvg-name="WNED (PBS)" tvg-logo="https://zap2it.tmsimg.com/assets/s11039_ll_h15_ab.png" group-title="British Virgin Islands" tvg-id="WNED" tvc-guide-stationid="11709",WNED (PBS)
 http://example.local/VGB-WNED.ts
 #EXTINF:-1 tvg-chno="11714" tvg-name="WNLO (CW)" tvg-logo="https://zap2it.tmsimg.com/assets/s51306_ll_h15_ac.png" group-title="British Virgin Islands" tvg-id="WNLO" tvc-guide-stationid="11714",WNLO (CW)
 http://example.local/VGB-WNLO.ts

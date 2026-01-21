@@ -7,10 +7,10 @@ http://example.local/DNK-6ERENHD.ts
 http://example.local/DNK-ALJAZEN.ts
 #EXTINF:-1 tvg-chno="102458" tvg-name="Al Jazeera HD" tvg-logo="https://zap2it.tmsimg.com/assets/s49968_ll_h15_ac.png" group-title="Denmark" tvg-id="ALJZHDI" tvc-guide-stationid="102458",Al Jazeera HD
 http://example.local/DNK-ALJZHDI.ts
-#EXTINF:-1 tvg-chno="36844" tvg-name="BBC News" tvg-logo="https://zap2it.tmsimg.com/assets/s36844_ll_h15_ad.png" group-title="Denmark" tvg-id="BBCNEEU" tvc-guide-stationid="36844",BBC News
-http://example.local/DNK-BBCNEEU.ts
 #EXTINF:-1 tvg-chno="19037" tvg-name="BBC News" tvg-logo="https://zap2it.tmsimg.com/assets/s19037_ll_h15_ab.png" group-title="Denmark" tvg-id="BBCNEWS" tvc-guide-stationid="19037",BBC News
 http://example.local/DNK-BBCNEWS.ts
+#EXTINF:-1 tvg-chno="36844" tvg-name="BBC News" tvg-logo="https://zap2it.tmsimg.com/assets/s36844_ll_h15_ad.png" group-title="Denmark" tvg-id="BBCNEEU" tvc-guide-stationid="36844",BBC News
+http://example.local/DNK-BBCNEEU.ts
 #EXTINF:-1 tvg-chno="76774" tvg-name="BBC News Europe HD" tvg-logo="https://zap2it.tmsimg.com/assets/s76774_ll_h15_ab.png" group-title="Denmark" tvg-id="BBCNEUHD" tvc-guide-stationid="76774",BBC News Europe HD
 http://example.local/DNK-BBCNEUHD.ts
 #EXTINF:-1 tvg-chno="16873" tvg-name="BBC Nordic" tvg-logo="https://zap2it.tmsimg.com/assets/s16873_ll_h9_ac.png" group-title="Denmark" tvg-id="BBCNORD" tvc-guide-stationid="16873",BBC Nordic
@@ -135,8 +135,8 @@ http://example.local/DNK-NGEOWD.ts
 http://example.local/DNK-NAUTFRE.ts
 #EXTINF:-1 tvg-chno="83623" tvg-name="NDR Fernsehen" tvg-logo="https://zap2it.tmsimg.com/assets/s83623_ll_h9_ab.png" group-title="Denmark" tvg-id="NDRFRN" tvc-guide-stationid="83623",NDR Fernsehen
 http://example.local/DNK-NDRFRN.ts
-#EXTINF:-1 tvg-chno="84124" tvg-name="NDR Fernsehen NDS HD" tvg-logo="https://zap2it.tmsimg.com/assets/s84124_ll_h15_ab.png" group-title="Denmark" tvg-id="NDRNHD" tvc-guide-stationid="84124",NDR Fernsehen NDS HD
-http://example.local/DNK-NDRNHD.ts
+#EXTINF:-1 tvg-chno="83624" tvg-name="NDR Fernsehen HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83624_ll_h15_ab.png" group-title="Denmark" tvg-id="NDRFNHD" tvc-guide-stationid="83624",NDR Fernsehen HD
+http://example.local/DNK-NDRFNHD.ts
 #EXTINF:-1 tvg-chno="87763" tvg-name="Nick Jr." tvg-logo="https://zap2it.tmsimg.com/assets/s87763_ll_h15_aa.png" group-title="Denmark" tvg-id="NICKJD" tvc-guide-stationid="87763",Nick Jr.
 http://example.local/DNK-NICKJD.ts
 #EXTINF:-1 tvg-chno="72292" tvg-name="Nick Music" tvg-logo="https://zap2it.tmsimg.com/assets/s72292_ll_h15_aa.png" group-title="Denmark" tvg-id="NICMSIC" tvc-guide-stationid="72292",Nick Music
@@ -191,10 +191,14 @@ http://example.local/DNK-TRAVEU.ts
 http://example.local/DNK-TRVLHDE.ts
 #EXTINF:-1 tvg-chno="52896" tvg-name="TV 2 Direkte" tvg-logo="https://zap2it.tmsimg.com/assets/s52896_ll_h15_ad.png" group-title="Denmark" tvg-id="TV2NOR" tvc-guide-stationid="52896",TV 2 Direkte
 http://example.local/DNK-TV2NOR.ts
+#EXTINF:-1 tvg-chno="203616" tvg-name="TV 2 Kosmopol HD" group-title="Denmark" tvg-id="TV2KOSM" tvc-guide-stationid="203616",TV 2 Kosmopol HD
+http://example.local/DNK-TV2KOSM.ts
 #EXTINF:-1 tvg-chno="122260" tvg-name="TV 2 Premium HD" group-title="Denmark" tvg-id="TV2PREM" tvc-guide-stationid="122260",TV 2 Premium HD
 http://example.local/DNK-TV2PREM.ts
 #EXTINF:-1 tvg-chno="118364" tvg-name="TV 2 SPORT X" tvg-logo="https://zap2it.tmsimg.com/assets/s118364_ll_h15_aa.png" group-title="Denmark" tvg-id="TV2SPOX" tvc-guide-stationid="118364",TV 2 SPORT X
 http://example.local/DNK-TV2SPOX.ts
+#EXTINF:-1 tvg-chno="203517" tvg-name="TV 2 SPORT X HD" group-title="Denmark" tvg-id="TV2SPRTX" tvc-guide-stationid="203517",TV 2 SPORT X HD
+http://example.local/DNK-TV2SPRTX.ts
 #EXTINF:-1 tvg-chno="170629" tvg-name="TV12 Bedehuskanalen" tvg-logo="https://zap2it.tmsimg.com/assets/s170629_ll_h15_aa.png" group-title="Denmark" tvg-id="TV12BEDHD" tvc-guide-stationid="170629",TV12 Bedehuskanalen
 http://example.local/DNK-TV12BEDHD.ts
 #EXTINF:-1 tvg-chno="87792" tvg-name="TV2" tvg-logo="https://zap2it.tmsimg.com/assets/s87792_h3_ab.png" group-title="Denmark" tvg-id="TV2DEN" tvc-guide-stationid="87792",TV2
@@ -229,13 +233,15 @@ http://example.local/DNK-TV3PLHD.ts
 http://example.local/DNK-TV3SP1.ts
 #EXTINF:-1 tvg-chno="87812" tvg-name="TV3 Sport 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87812_ll_h9_aa.png" group-title="Denmark" tvg-id="TV3SP1H" tvc-guide-stationid="87812",TV3 Sport 1 HD
 http://example.local/DNK-TV3SP1H.ts
+#EXTINF:-1 tvg-chno="87800" tvg-name="TV3HDK" tvg-logo="https://zap2it.tmsimg.com/assets/s87800_ll_h15_ab.png" group-title="Denmark" tvg-id="TV3HDK" tvc-guide-stationid="87800",TV3HDK
+http://example.local/DNK-TV3HDK.ts
 #EXTINF:-1 tvg-chno="104335" tvg-name="TV4" tvg-logo="https://zap2it.tmsimg.com/assets/s104335_ll_h15_aa.png" group-title="Denmark" tvg-id="TV4SAP" tvc-guide-stationid="104335",TV4
 http://example.local/DNK-TV4SAP.ts
 #EXTINF:-1 tvg-chno="54090" tvg-name="TV4" tvg-logo="https://zap2it.tmsimg.com/assets/s54090_ll_h15_aa.png" group-title="Denmark" tvg-id="TV4SWED" tvc-guide-stationid="54090",TV4
 http://example.local/DNK-TV4SWED.ts
 #EXTINF:-1 tvg-chno="76807" tvg-name="TV4 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s76807_ll_h15_aa.png" group-title="Denmark" tvg-id="TV4HD" tvc-guide-stationid="76807",TV4 HD
 http://example.local/DNK-TV4HD.ts
-#EXTINF:-1 tvg-chno="101755" tvg-name="TV5 Monde" tvg-logo="https://zap2it.tmsimg.com/assets/s101755_ll_h15_aa.png" group-title="Denmark" tvg-id="TV5MENG" tvc-guide-stationid="101755",TV5 Monde
+#EXTINF:-1 tvg-chno="101755" tvg-name="TV5 Monde" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002M0RR8.png" group-title="Denmark" tvg-id="TV5MENG" tvc-guide-stationid="101755",TV5 Monde
 http://example.local/DNK-TV5MENG.ts
 #EXTINF:-1 tvg-chno="90320" tvg-name="TVE Internacional" tvg-logo="https://zap2it.tmsimg.com/assets/s90320_ll_h15_aa.png" group-title="Denmark" tvg-id="TVEINTS" tvc-guide-stationid="90320",TVE Internacional
 http://example.local/DNK-TVEINTS.ts
@@ -243,6 +249,10 @@ http://example.local/DNK-TVEINTS.ts
 http://example.local/DNK-VGOLFHD.ts
 #EXTINF:-1 tvg-chno="100631" tvg-name="V Sport Ultra HD" tvg-logo="https://zap2it.tmsimg.com/assets/s100631_ll_h15_ab.png" group-title="Denmark" tvg-id="VSPOULT" tvc-guide-stationid="100631",V Sport Ultra HD
 http://example.local/DNK-VSPOULT.ts
+#EXTINF:-1 tvg-chno="191442" tvg-name="Viaplay Film & Serier" group-title="Denmark" tvg-id="VIAPLFS" tvc-guide-stationid="191442",Viaplay Film & Serier
+http://example.local/DNK-VIAPLFS.ts
+#EXTINF:-1 tvg-chno="191443" tvg-name="Viaplay Film & Serier med reklamer" group-title="Denmark" tvg-id="VPLFSMR" tvc-guide-stationid="191443",Viaplay Film & Serier med reklamer
+http://example.local/DNK-VPLFSMR.ts
 #EXTINF:-1 tvg-chno="166424" tvg-name="Viaplay Sport News" tvg-logo="https://zap2it.tmsimg.com/assets/s166424_ll_h15_aa.png" group-title="Denmark" tvg-id="VPSPNEW" tvc-guide-stationid="166424",Viaplay Sport News
 http://example.local/DNK-VPSPNEW.ts
 #EXTINF:-1 tvg-chno="87816" tvg-name="Viasat Explore" tvg-logo="https://zap2it.tmsimg.com/assets/s87816_ll_h9_aa.png" group-title="Denmark" tvg-id="VIAEXP" tvc-guide-stationid="87816",Viasat Explore

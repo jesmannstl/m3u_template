@@ -141,10 +141,10 @@ http://example.local/BEL-ARMEN1.ts
 http://example.local/BEL-ARTEBE.ts
 #EXTINF:-1 tvg-chno="116030" tvg-name="ARTE Belgique HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116030_ll_h15_aa.png" group-title="Belgium" tvg-id="ARTEBEH" tvc-guide-stationid="116030",ARTE Belgique HD
 http://example.local/BEL-ARTEBEH.ts
-#EXTINF:-1 tvg-chno="79103" tvg-name="ARTE HD" tvg-logo="https://logos.jesmann.com/ARTEHD.png" group-title="Belgium" tvg-id="ARTEHD" tvc-guide-stationid="79103",ARTE HD
-http://example.local/BEL-ARTEHD.ts
 #EXTINF:-1 tvg-chno="87847" tvg-name="ARTE HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87847_ll_h15_ac.png" group-title="Belgium" tvg-id="ARTDEUH" tvc-guide-stationid="87847",ARTE HD
 http://example.local/BEL-ARTDEUH.ts
+#EXTINF:-1 tvg-chno="79103" tvg-name="ARTE HD" tvg-logo="https://logos.jesmann.com/ARTEHD.png" group-title="Belgium" tvg-id="ARTEHD" tvc-guide-stationid="79103",ARTE HD
+http://example.local/BEL-ARTEHD.ts
 #EXTINF:-1 tvg-chno="49314" tvg-name="ARY QTV" tvg-logo="https://zap2it.tmsimg.com/assets/s49314_ll_h15_aa.png" group-title="Belgium" tvg-id="ARYQTV" tvc-guide-stationid="49314",ARY QTV
 http://example.local/BEL-ARYQTV.ts
 #EXTINF:-1 tvg-chno="52041" tvg-name="ATN Bangla UK" tvg-logo="https://zap2it.tmsimg.com/assets/s52041_ll_h15_aa.png" group-title="Belgium" tvg-id="ATNBNUK" tvc-guide-stationid="52041",ATN Bangla UK
@@ -203,10 +203,10 @@ http://example.local/BEL-BBCFBEHD.ts
 http://example.local/BEL-BBC4.ts
 #EXTINF:-1 tvg-chno="83282" tvg-name="BBC Four HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83282_ll_h15_ad.png" group-title="Belgium" tvg-id="BBC4HD" tvc-guide-stationid="83282",BBC Four HD
 http://example.local/BEL-BBC4HD.ts
-#EXTINF:-1 tvg-chno="36844" tvg-name="BBC News" tvg-logo="https://zap2it.tmsimg.com/assets/s36844_ll_h15_ad.png" group-title="Belgium" tvg-id="BBCNEEU" tvc-guide-stationid="36844",BBC News
-http://example.local/BEL-BBCNEEU.ts
 #EXTINF:-1 tvg-chno="19037" tvg-name="BBC News" tvg-logo="https://zap2it.tmsimg.com/assets/s19037_ll_h15_ab.png" group-title="Belgium" tvg-id="BBCNEWS" tvc-guide-stationid="19037",BBC News
 http://example.local/BEL-BBCNEWS.ts
+#EXTINF:-1 tvg-chno="36844" tvg-name="BBC News" tvg-logo="https://zap2it.tmsimg.com/assets/s36844_ll_h15_ad.png" group-title="Belgium" tvg-id="BBCNEEU" tvc-guide-stationid="36844",BBC News
+http://example.local/BEL-BBCNEEU.ts
 #EXTINF:-1 tvg-chno="76774" tvg-name="BBC News Europe HD" tvg-logo="https://zap2it.tmsimg.com/assets/s76774_ll_h15_ab.png" group-title="Belgium" tvg-id="BBCNEUHD" tvc-guide-stationid="76774",BBC News Europe HD
 http://example.local/BEL-BBCNEUHD.ts
 #EXTINF:-1 tvg-chno="83285" tvg-name="BBC News HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83285_ll_h15_ab.png" group-title="Belgium" tvg-id="BBCNWHD" tvc-guide-stationid="83285",BBC News HD
@@ -323,7 +323,7 @@ http://example.local/BEL-BOUKEBE.ts
 http://example.local/BEL-BRNORD.ts
 #EXTINF:-1 tvg-chno="90623" tvg-name="BR Fernsehen Süd (BRGER)" tvg-logo="https://zap2it.tmsimg.com/assets/s90623_ll_h15_ab.png" group-title="Belgium" tvg-id="BRSUED" tvc-guide-stationid="90623",BR Fernsehen Süd (BRGER)
 http://example.local/BEL-BRSUED.ts
-#EXTINF:-1 tvg-chno="59651" tvg-name="BritAsia TV" tvg-logo="https://zap2it.tmsimg.com/assets/s59651_ll_h15_aa.png" group-title="Belgium" tvg-id="BRTASIA" tvc-guide-stationid="59651",BritAsia TV
+#EXTINF:-1 tvg-chno="59651" tvg-name="BritAsia TV" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NWYES.png" group-title="Belgium" tvg-id="BRTASIA" tvc-guide-stationid="59651",BritAsia TV
 http://example.local/BEL-BRTASIA.ts
 #EXTINF:-1 tvg-chno="117241" tvg-name="British Muslim TV" tvg-logo="https://zap2it.tmsimg.com/assets/s117241_ll_h15_aa.png" group-title="Belgium" tvg-id="BRMUSTV" tvc-guide-stationid="117241",British Muslim TV
 http://example.local/BEL-BRMUSTV.ts
@@ -335,7 +335,7 @@ http://example.local/BEL-BRUZZRHD.ts
 http://example.local/BEL-BUNNY24.ts
 #EXTINF:-1 tvg-chno="100667" tvg-name="BVN" tvg-logo="https://zap2it.tmsimg.com/assets/s100667_ll_h15_ae.png" group-title="Belgium" tvg-id="BVNEU" tvc-guide-stationid="100667",BVN
 http://example.local/BEL-BVNEU.ts
-#EXTINF:-1 tvg-chno="116304" tvg-name="BX1" tvg-logo="https://zap2it.tmsimg.com/assets/s116304_ll_h15_aa.png" group-title="Belgium" tvg-id="BX1" tvc-guide-stationid="116304",BX1
+#EXTINF:-1 tvg-chno="116304" tvg-name="BX1" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002SDKWD.png" group-title="Belgium" tvg-id="BX1" tvc-guide-stationid="116304",BX1
 http://example.local/BEL-BX1.ts
 #EXTINF:-1 tvg-chno="103923" tvg-name="Bé Series HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103923_ll_h15_aa.png" group-title="Belgium" tvg-id="BESERHD" tvc-guide-stationid="103923",Bé Series HD
 http://example.local/BEL-BESERHD.ts
@@ -361,18 +361,18 @@ http://example.local/BEL-CANPHFR.ts
 http://example.local/BEL-CNSPTHD.ts
 #EXTINF:-1 tvg-chno="84781" tvg-name="Canale Italia 83" tvg-logo="https://zap2it.tmsimg.com/assets/s84781_ll_h9_aa.png" group-title="Belgium" tvg-id="CAITA83" tvc-guide-stationid="84781",Canale Italia 83
 http://example.local/BEL-CAITA83.ts
-#EXTINF:-1 tvg-chno="51779" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s51779_ll_h15_aa.png" group-title="Belgium" tvg-id="CANETFR" tvc-guide-stationid="51779",Cartoon Network
-http://example.local/BEL-CANETFR.ts
 #EXTINF:-1 tvg-chno="112919" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s112919_ll_h15_aa.png" group-title="Belgium" tvg-id="CANWNL" tvc-guide-stationid="112919",Cartoon Network
 http://example.local/BEL-CANWNL.ts
+#EXTINF:-1 tvg-chno="51779" tvg-name="Cartoon Network" tvg-logo="https://zap2it.tmsimg.com/assets/s51779_ll_h15_aa.png" group-title="Belgium" tvg-id="CANETFR" tvc-guide-stationid="51779",Cartoon Network
+http://example.local/BEL-CANETFR.ts
 #EXTINF:-1 tvg-chno="112931" tvg-name="Cartoon Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s112931_ll_h15_aa.png" group-title="Belgium" tvg-id="CANNLHD" tvc-guide-stationid="112931",Cartoon Network HD
 http://example.local/BEL-CANNLHD.ts
 #EXTINF:-1 tvg-chno="90474" tvg-name="Cartoon Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90474_ll_h15_aa.png" group-title="Belgium" tvg-id="CARFRHD" tvc-guide-stationid="90474",Cartoon Network HD
 http://example.local/BEL-CARFRHD.ts
-#EXTINF:-1 tvg-chno="69093" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s69093_ll_h15_ah.png" group-title="Belgium" tvg-id="CARTOOFR" tvc-guide-stationid="69093",Cartoonito
-http://example.local/BEL-CARTOOFR.ts
 #EXTINF:-1 tvg-chno="112918" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s112918_ll_h15_ab.png" group-title="Belgium" tvg-id="CARTOONL" tvc-guide-stationid="112918",Cartoonito
 http://example.local/BEL-CARTOONL.ts
+#EXTINF:-1 tvg-chno="69093" tvg-name="Cartoonito" tvg-logo="https://zap2it.tmsimg.com/assets/s69093_ll_h15_ah.png" group-title="Belgium" tvg-id="CARTOOFR" tvc-guide-stationid="69093",Cartoonito
+http://example.local/BEL-CARTOOFR.ts
 #EXTINF:-1 tvg-chno="112930" tvg-name="Cartoonito HD" tvg-logo="https://zap2it.tmsimg.com/assets/s112930_ll_h15_aa.png" group-title="Belgium" tvg-id="CARTONLH" tvc-guide-stationid="112930",Cartoonito HD
 http://example.local/BEL-CARTONLH.ts
 #EXTINF:-1 tvg-chno="29324" tvg-name="CBBC" tvg-logo="https://zap2it.tmsimg.com/assets/s29324_ll_h15_ac.png" group-title="Belgium" tvg-id="CBBC" tvc-guide-stationid="29324",CBBC
@@ -451,10 +451,10 @@ http://example.local/BEL-CLASFRH.ts
 http://example.local/BEL-CLIPMOB.ts
 #EXTINF:-1 tvg-chno="87330" tvg-name="Clubbing TV" tvg-logo="https://zap2it.tmsimg.com/assets/s87330_ll_h15_aa.png" group-title="Belgium" tvg-id="CLUBTVF" tvc-guide-stationid="87330",Clubbing TV
 http://example.local/BEL-CLUBTVF.ts
+#EXTINF:-1 tvg-chno="68892" tvg-name="CNBC" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NFM73.png" group-title="Belgium" tvg-id="CNBCUK" tvc-guide-stationid="68892",CNBC
+http://example.local/BEL-CNBCUK.ts
 #EXTINF:-1 tvg-chno="16230" tvg-name="CNBC" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NFJXN.png" group-title="Belgium" tvg-id="CNBCEU" tvc-guide-stationid="16230",CNBC
 http://example.local/BEL-CNBCEU.ts
-#EXTINF:-1 tvg-chno="68892" tvg-name="CNBC" tvg-logo="https://zap2it.tmsimg.com/assets/s68892_ll_h15_ac.png" group-title="Belgium" tvg-id="CNBCUK" tvc-guide-stationid="68892",CNBC
-http://example.local/BEL-CNBCUK.ts
 #EXTINF:-1 tvg-chno="113145" tvg-name="CNBC HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NFJQJ.png" group-title="Belgium" tvg-id="CNBCEHD" tvc-guide-stationid="113145",CNBC HD
 http://example.local/BEL-CNBCEHD.ts
 #EXTINF:-1 tvg-chno="52091" tvg-name="CNews" tvg-logo="https://zap2it.tmsimg.com/assets/s52091_ll_h15_aa.png" group-title="Belgium" tvg-id="CNEWSFR" tvc-guide-stationid="52091",CNews
@@ -555,10 +555,10 @@ http://example.local/BEL-DELRAP.ts
 http://example.local/BEL-DELROCK.ts
 #EXTINF:-1 tvg-chno="149958" tvg-name="DF1 HD" tvg-logo="https://logos.jesmann.com/DF1HDDE.png" group-title="Belgium" tvg-id="DF1HDDE" tvc-guide-stationid="149958",DF1 HD
 http://example.local/BEL-DF1HDDE.ts
-#EXTINF:-1 tvg-chno="51817" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s51817_ll_h15_ab.png" group-title="Belgium" tvg-id="DISCHAF" tvc-guide-stationid="51817",Discovery Channel
-http://example.local/BEL-DISCHAF.ts
 #EXTINF:-1 tvg-chno="105093" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s105093_ll_h15_ab.png" group-title="Belgium" tvg-id="DISCONL" tvc-guide-stationid="105093",Discovery Channel
 http://example.local/BEL-DISCONL.ts
+#EXTINF:-1 tvg-chno="51817" tvg-name="Discovery Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s51817_ll_h15_ab.png" group-title="Belgium" tvg-id="DISCHAF" tvc-guide-stationid="51817",Discovery Channel
+http://example.local/BEL-DISCHAF.ts
 #EXTINF:-1 tvg-chno="121505" tvg-name="Discovery Channel HD (Flanders)" tvg-logo="https://zap2it.tmsimg.com/assets/s121505_ll_h15_aa.png" group-title="Belgium" tvg-id="DICHFLA" tvc-guide-stationid="121505",Discovery Channel HD (Flanders)
 http://example.local/BEL-DICHFLA.ts
 #EXTINF:-1 tvg-chno="103387" tvg-name="Discovery HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103387_ll_h15_aa.png" group-title="Belgium" tvg-id="DISHDFR" tvc-guide-stationid="103387",Discovery HD
@@ -569,22 +569,22 @@ http://example.local/BEL-DISSCIN.ts
 http://example.local/BEL-DISSHDNL.ts
 #EXTINF:-1 tvg-chno="83574" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s83574_ll_h15_ac.png" group-title="Belgium" tvg-id="DISNG" tvc-guide-stationid="83574",Disney Channel
 http://example.local/BEL-DISNG.ts
-#EXTINF:-1 tvg-chno="117025" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s117025_ll_h15_aa.png" group-title="Belgium" tvg-id="DISCHBF" tvc-guide-stationid="117025",Disney Channel
-http://example.local/BEL-DISCHBF.ts
 #EXTINF:-1 tvg-chno="105105" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s105105_ll_h15_aa.png" group-title="Belgium" tvg-id="DISCBEN" tvc-guide-stationid="105105",Disney Channel
 http://example.local/BEL-DISCBEN.ts
 #EXTINF:-1 tvg-chno="87392" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s87392_ll_h15_ab.png" group-title="Belgium" tvg-id="DISNFR" tvc-guide-stationid="87392",Disney Channel
 http://example.local/BEL-DISNFR.ts
+#EXTINF:-1 tvg-chno="117025" tvg-name="Disney Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s117025_ll_h15_aa.png" group-title="Belgium" tvg-id="DISCHBF" tvc-guide-stationid="117025",Disney Channel
+http://example.local/BEL-DISCHBF.ts
 #EXTINF:-1 tvg-chno="103388" tvg-name="Disney Channel +1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103388_ll_h15_aa.png" group-title="Belgium" tvg-id="DIFP1HD" tvc-guide-stationid="103388",Disney Channel +1 HD
 http://example.local/BEL-DIFP1HD.ts
-#EXTINF:-1 tvg-chno="87393" tvg-name="Disney Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87393_ll_h15_aa.png" group-title="Belgium" tvg-id="DISNFRH" tvc-guide-stationid="87393",Disney Channel HD
-http://example.local/BEL-DISNFRH.ts
 #EXTINF:-1 tvg-chno="113408" tvg-name="Disney Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s113408_ll_h9_aa.png" group-title="Belgium" tvg-id="DISBENH" tvc-guide-stationid="113408",Disney Channel HD
 http://example.local/BEL-DISBENH.ts
-#EXTINF:-1 tvg-chno="117114" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s117114_ll_h15_aa.png" group-title="Belgium" tvg-id="DISJBEN" tvc-guide-stationid="117114",Disney Junior
-http://example.local/BEL-DISJBEN.ts
+#EXTINF:-1 tvg-chno="87393" tvg-name="Disney Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87393_ll_h15_aa.png" group-title="Belgium" tvg-id="DISNFRH" tvc-guide-stationid="87393",Disney Channel HD
+http://example.local/BEL-DISNFRH.ts
 #EXTINF:-1 tvg-chno="79387" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s79387_ll_h15_aa.png" group-title="Belgium" tvg-id="DISJF" tvc-guide-stationid="79387",Disney Junior
 http://example.local/BEL-DISJF.ts
+#EXTINF:-1 tvg-chno="117114" tvg-name="Disney Junior" tvg-logo="https://zap2it.tmsimg.com/assets/s117114_ll_h15_aa.png" group-title="Belgium" tvg-id="DISJBEN" tvc-guide-stationid="117114",Disney Junior
+http://example.local/BEL-DISJBEN.ts
 #EXTINF:-1 tvg-chno="122163" tvg-name="Disney Junior (Wallonia)" tvg-logo="https://zap2it.tmsimg.com/assets/s122163_ll_h15_aa.png" group-title="Belgium" tvg-id="DISJRWA" tvc-guide-stationid="122163",Disney Junior (Wallonia)
 http://example.local/BEL-DISJRWA.ts
 #EXTINF:-1 tvg-chno="122743" tvg-name="Disney Junior (Wallonia) HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122743_ll_h15_aa.png" group-title="Belgium" tvg-id="DJRWAHD" tvc-guide-stationid="122743",Disney Junior (Wallonia) HD
@@ -599,10 +599,10 @@ http://example.local/BEL-DIXDNLH.ts
 http://example.local/BEL-DIVOOBE.ts
 #EXTINF:-1 tvg-chno="87387" tvg-name="Djazz TV" tvg-logo="https://zap2it.tmsimg.com/assets/s87387_ll_h15_aa.png" group-title="Belgium" tvg-id="DJAZZTV" tvc-guide-stationid="87387",Djazz TV
 http://example.local/BEL-DJAZZTV.ts
-#EXTINF:-1 tvg-chno="83579" tvg-name="DMAX" tvg-logo="https://zap2it.tmsimg.com/assets/s83579_ll_h15_ac.png" group-title="Belgium" tvg-id="DMAXD" tvc-guide-stationid="83579",DMAX
-http://example.local/BEL-DMAXD.ts
 #EXTINF:-1 tvg-chno="58793" tvg-name="DMAX" tvg-logo="https://zap2it.tmsimg.com/assets/s58793_ll_h15_ab.png" group-title="Belgium" tvg-id="DMAXE" tvc-guide-stationid="58793",DMAX
 http://example.local/BEL-DMAXE.ts
+#EXTINF:-1 tvg-chno="83579" tvg-name="DMAX" tvg-logo="https://zap2it.tmsimg.com/assets/s83579_ll_h15_ac.png" group-title="Belgium" tvg-id="DMAXD" tvc-guide-stationid="83579",DMAX
+http://example.local/BEL-DMAXD.ts
 #EXTINF:-1 tvg-chno="58792" tvg-name="DMAX +1" tvg-logo="https://zap2it.tmsimg.com/assets/s58792_ll_h15_ab.png" group-title="Belgium" tvg-id="DMAXP1" tvc-guide-stationid="58792",DMAX +1
 http://example.local/BEL-DMAXP1.ts
 #EXTINF:-1 tvg-chno="100346" tvg-name="DMAX Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s100346_ll_h15_aa.png" group-title="Belgium" tvg-id="DMAXAU" tvc-guide-stationid="100346",DMAX Austria
@@ -647,10 +647,10 @@ http://example.local/BEL-DWEURHD.ts
 http://example.local/BEL-EFRANCE.ts
 #EXTINF:-1 tvg-chno="115463" tvg-name="E!" tvg-logo="https://zap2it.tmsimg.com/assets/s115463_ll_h15_aa.png" group-title="Belgium" tvg-id="ENETH" tvc-guide-stationid="115463",E!
 http://example.local/BEL-ENETH.ts
-#EXTINF:-1 tvg-chno="115746" tvg-name="E! HD" tvg-logo="https://zap2it.tmsimg.com/assets/s115746_ll_h15_aa.png" group-title="Belgium" tvg-id="ENETHD" tvc-guide-stationid="115746",E! HD
-http://example.local/BEL-ENETHD.ts
 #EXTINF:-1 tvg-chno="99228" tvg-name="E! HD" tvg-logo="https://zap2it.tmsimg.com/assets/s99228_ll_h9_ab.png" group-title="Belgium" tvg-id="EFRAHD" tvc-guide-stationid="99228",E! HD
 http://example.local/BEL-EFRAHD.ts
+#EXTINF:-1 tvg-chno="115746" tvg-name="E! HD" tvg-logo="https://zap2it.tmsimg.com/assets/s115746_ll_h15_aa.png" group-title="Belgium" tvg-id="ENETHD" tvc-guide-stationid="115746",E! HD
+http://example.local/BEL-ENETHD.ts
 #EXTINF:-1 tvg-chno="25117" tvg-name="E4" tvg-logo="https://zap2it.tmsimg.com/assets/s25117_ll_h15_ab.png" group-title="Belgium" tvg-id="E4" tvc-guide-stationid="25117",E4
 http://example.local/BEL-E4.ts
 #EXTINF:-1 tvg-chno="33882" tvg-name="E4 +1" tvg-logo="https://zap2it.tmsimg.com/assets/s33882_ll_h15_ab.png" group-title="Belgium" tvg-id="E4P1" tvc-guide-stationid="33882",E4 +1
@@ -663,18 +663,18 @@ http://example.local/BEL-EARTHXEU.ts
 http://example.local/BEL-ECLIPS.ts
 #EXTINF:-1 tvg-chno="122706" tvg-name="Eclips TV HD" group-title="Belgium" tvg-id="ECLIPSHD" tvc-guide-stationid="122706",Eclips TV HD
 http://example.local/BEL-ECLIPSHD.ts
-#EXTINF:-1 tvg-chno="121344" tvg-name="Eleven JPL 1" tvg-logo="https://zap2it.tmsimg.com/assets/s121344_ll_h15_aa.png" group-title="Belgium" tvg-id="ELJPLFR" tvc-guide-stationid="121344",Eleven JPL 1
-http://example.local/BEL-ELJPLFR.ts
 #EXTINF:-1 tvg-chno="121347" tvg-name="Eleven JPL 1" tvg-logo="https://zap2it.tmsimg.com/assets/s121347_ll_h15_aa.png" group-title="Belgium" tvg-id="ELJPLNL" tvc-guide-stationid="121347",Eleven JPL 1
 http://example.local/BEL-ELJPLNL.ts
-#EXTINF:-1 tvg-chno="121345" tvg-name="Eleven JPL 2" tvg-logo="https://zap2it.tmsimg.com/assets/s121345_ll_h15_aa.png" group-title="Belgium" tvg-id="ELJPLFR2" tvc-guide-stationid="121345",Eleven JPL 2
-http://example.local/BEL-ELJPLFR2.ts
+#EXTINF:-1 tvg-chno="121344" tvg-name="Eleven JPL 1" tvg-logo="https://zap2it.tmsimg.com/assets/s121344_ll_h15_aa.png" group-title="Belgium" tvg-id="ELJPLFR" tvc-guide-stationid="121344",Eleven JPL 1
+http://example.local/BEL-ELJPLFR.ts
 #EXTINF:-1 tvg-chno="121348" tvg-name="Eleven JPL 2" tvg-logo="https://zap2it.tmsimg.com/assets/s121348_ll_h15_aa.png" group-title="Belgium" tvg-id="ELJPLNL2" tvc-guide-stationid="121348",Eleven JPL 2
 http://example.local/BEL-ELJPLNL2.ts
-#EXTINF:-1 tvg-chno="121346" tvg-name="Eleven JPL 3" tvg-logo="https://zap2it.tmsimg.com/assets/s121346_ll_h15_aa.png" group-title="Belgium" tvg-id="ELJPLFR3" tvc-guide-stationid="121346",Eleven JPL 3
-http://example.local/BEL-ELJPLFR3.ts
+#EXTINF:-1 tvg-chno="121345" tvg-name="Eleven JPL 2" tvg-logo="https://zap2it.tmsimg.com/assets/s121345_ll_h15_aa.png" group-title="Belgium" tvg-id="ELJPLFR2" tvc-guide-stationid="121345",Eleven JPL 2
+http://example.local/BEL-ELJPLFR2.ts
 #EXTINF:-1 tvg-chno="121349" tvg-name="Eleven JPL 3" tvg-logo="https://zap2it.tmsimg.com/assets/s121349_ll_h15_aa.png" group-title="Belgium" tvg-id="ELJPLNL3" tvc-guide-stationid="121349",Eleven JPL 3
 http://example.local/BEL-ELJPLNL3.ts
+#EXTINF:-1 tvg-chno="121346" tvg-name="Eleven JPL 3" tvg-logo="https://zap2it.tmsimg.com/assets/s121346_ll_h15_aa.png" group-title="Belgium" tvg-id="ELJPLFR3" tvc-guide-stationid="121346",Eleven JPL 3
+http://example.local/BEL-ELJPLFR3.ts
 #EXTINF:-1 tvg-chno="116518" tvg-name="Eleven Sports 1" tvg-logo="https://zap2it.tmsimg.com/assets/s116518_ll_h15_ab.png" group-title="Belgium" tvg-id="ELSP1NL" tvc-guide-stationid="116518",Eleven Sports 1
 http://example.local/BEL-ELSP1NL.ts
 #EXTINF:-1 tvg-chno="103926" tvg-name="Eleven Sports 1" tvg-logo="https://zap2it.tmsimg.com/assets/s103926_ll_h15_aa.png" group-title="Belgium" tvg-id="ELEVEN" tvc-guide-stationid="103926",Eleven Sports 1
@@ -693,16 +693,16 @@ http://example.local/BEL-EQUTVIT.ts
 http://example.local/BEL-ERTWRDE.ts
 #EXTINF:-1 tvg-chno="120534" tvg-name="ESKA TV EXTRA SD" tvg-logo="https://zap2it.tmsimg.com/assets/s120534_ll_h9_aa.png" group-title="Belgium" tvg-id="ESKAXSD" tvc-guide-stationid="120534",ESKA TV EXTRA SD
 http://example.local/BEL-ESKAXSD.ts
-#EXTINF:-1 tvg-chno="53548" tvg-name="euronews" tvg-logo="https://zap2it.tmsimg.com/assets/s53548_ll_h15_aa.png" group-title="Belgium" tvg-id="EUROITA" tvc-guide-stationid="53548",euronews
-http://example.local/BEL-EUROITA.ts
+#EXTINF:-1 tvg-chno="96485" tvg-name="euronews" tvg-logo="https://zap2it.tmsimg.com/assets/s96485_ll_h15_ab.png" group-title="Belgium" tvg-id="EUNWRU" tvc-guide-stationid="96485",euronews
+http://example.local/BEL-EUNWRU.ts
 #EXTINF:-1 tvg-chno="59421" tvg-name="euronews" tvg-logo="https://zap2it.tmsimg.com/assets/s59421_ll_h15_ab.png" group-title="Belgium" tvg-id="EURNWGR" tvc-guide-stationid="59421",euronews
 http://example.local/BEL-EURNWGR.ts
+#EXTINF:-1 tvg-chno="53548" tvg-name="euronews" tvg-logo="https://zap2it.tmsimg.com/assets/s53548_ll_h15_aa.png" group-title="Belgium" tvg-id="EUROITA" tvc-guide-stationid="53548",euronews
+http://example.local/BEL-EUROITA.ts
 #EXTINF:-1 tvg-chno="83671" tvg-name="euronews" tvg-logo="https://zap2it.tmsimg.com/assets/s83671_ll_h15_ab.png" group-title="Belgium" tvg-id="EURONAR" tvc-guide-stationid="83671",euronews
 http://example.local/BEL-EURONAR.ts
 #EXTINF:-1 tvg-chno="51849" tvg-name="euronews" tvg-logo="https://zap2it.tmsimg.com/assets/s51849_ll_h15_ab.png" group-title="Belgium" tvg-id="EUROFRA" tvc-guide-stationid="51849",euronews
 http://example.local/BEL-EUROFRA.ts
-#EXTINF:-1 tvg-chno="96485" tvg-name="euronews" tvg-logo="https://zap2it.tmsimg.com/assets/s96485_ll_h15_ab.png" group-title="Belgium" tvg-id="EUNWRU" tvc-guide-stationid="96485",euronews
-http://example.local/BEL-EUNWRU.ts
 #EXTINF:-1 tvg-chno="103473" tvg-name="Euronews HD" tvg-logo="https://zap2it.tmsimg.com/assets/s103473_ll_h15_ab.png" group-title="Belgium" tvg-id="EURNWHD" tvc-guide-stationid="103473",Euronews HD
 http://example.local/BEL-EURNWHD.ts
 #EXTINF:-1 tvg-chno="103472" tvg-name="euronews HD" tvg-logo="https://zap2it.tmsimg.com/assets/s34292_ll_h15_ab.png" group-title="Belgium" tvg-id="EURNFHD" tvc-guide-stationid="103472",euronews HD
@@ -715,10 +715,10 @@ http://example.local/BEL-EUSPOWA.ts
 http://example.local/BEL-EUROSGR.ts
 #EXTINF:-1 tvg-chno="38359" tvg-name="Eurosport 1" tvg-logo="https://zap2it.tmsimg.com/assets/s38359_ll_h15_aa.png" group-title="Belgium" tvg-id="DEUROSP" tvc-guide-stationid="38359",Eurosport 1
 http://example.local/BEL-DEUROSP.ts
-#EXTINF:-1 tvg-chno="87327" tvg-name="Eurosport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s87327_ll_h15_aa.png" group-title="Belgium" tvg-id="EUSP2FR" tvc-guide-stationid="87327",Eurosport 2
-http://example.local/BEL-EUSP2FR.ts
 #EXTINF:-1 tvg-chno="104917" tvg-name="Eurosport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s104917_ll_h15_ab.png" group-title="Belgium" tvg-id="EUSP2NL" tvc-guide-stationid="104917",Eurosport 2
 http://example.local/BEL-EUSP2NL.ts
+#EXTINF:-1 tvg-chno="87327" tvg-name="Eurosport 2" tvg-logo="https://zap2it.tmsimg.com/assets/s87327_ll_h15_aa.png" group-title="Belgium" tvg-id="EUSP2FR" tvc-guide-stationid="87327",Eurosport 2
+http://example.local/BEL-EUSP2FR.ts
 #EXTINF:-1 tvg-chno="87629" tvg-name="Eurosport 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87629_ll_h15_ac.png" group-title="Belgium" tvg-id="EUSP2FH" tvc-guide-stationid="87629",Eurosport 2 HD
 http://example.local/BEL-EUSP2FH.ts
 #EXTINF:-1 tvg-chno="122041" tvg-name="Eurosport 2 HD (Flanders)" tvg-logo="https://zap2it.tmsimg.com/assets/s122041_ll_h15_aa.png" group-title="Belgium" tvg-id="EUSPOFL2" tvc-guide-stationid="122041",Eurosport 2 HD (Flanders)
@@ -747,10 +747,10 @@ http://example.local/BEL-FOCBEHD.ts
 http://example.local/BEL-FOLXSD.ts
 #EXTINF:-1 tvg-chno="97077" tvg-name="Folx TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s97077_ll_h15_ab.png" group-title="Belgium" tvg-id="FOLXTV" tvc-guide-stationid="97077",Folx TV HD
 http://example.local/BEL-FOLXTV.ts
-#EXTINF:-1 tvg-chno="68135" tvg-name="Food Network" tvg-logo="https://zap2it.tmsimg.com/assets/s68135_ll_h15_aa.png" group-title="Belgium" tvg-id="FOODEUR" tvc-guide-stationid="68135",Food Network
-http://example.local/BEL-FOODEUR.ts
 #EXTINF:-1 tvg-chno="44718" tvg-name="Food Network" tvg-logo="https://zap2it.tmsimg.com/assets/s44718_ll_h15_ab.png" group-title="Belgium" tvg-id="FOODNET" tvc-guide-stationid="44718",Food Network
 http://example.local/BEL-FOODNET.ts
+#EXTINF:-1 tvg-chno="68135" tvg-name="Food Network" tvg-logo="https://zap2it.tmsimg.com/assets/s68135_ll_h15_aa.png" group-title="Belgium" tvg-id="FOODEUR" tvc-guide-stationid="68135",Food Network
+http://example.local/BEL-FOODEUR.ts
 #EXTINF:-1 tvg-chno="55670" tvg-name="Food Network +1" tvg-logo="https://zap2it.tmsimg.com/assets/s55670_ll_h15_ab.png" group-title="Belgium" tvg-id="FOODNP1" tvc-guide-stationid="55670",Food Network +1
 http://example.local/BEL-FOODNP1.ts
 #EXTINF:-1 tvg-chno="116545" tvg-name="Foodxp" tvg-logo="https://zap2it.tmsimg.com/assets/s116545_ll_h15_ab.png" group-title="Belgium" tvg-id="FOODXP" tvc-guide-stationid="116545",Foodxp
@@ -793,10 +793,6 @@ http://example.local/BEL-FTVHD.ts
 http://example.local/BEL-FTVUHD.ts
 #EXTINF:-1 tvg-chno="87097" tvg-name="Galicia TV Europa" tvg-logo="https://zap2it.tmsimg.com/assets/s87097_ll_h15_aa.png" group-title="Belgium" tvg-id="GALTVE" tvc-guide-stationid="87097",Galicia TV Europa
 http://example.local/BEL-GALTVE.ts
-#EXTINF:-1 tvg-chno="52080" tvg-name="Game One" tvg-logo="https://zap2it.tmsimg.com/assets/s52080_ll_h9_aa.png" group-title="Belgium" tvg-id="GAMEONE" tvc-guide-stationid="52080",Game One
-http://example.local/BEL-GAMEONE.ts
-#EXTINF:-1 tvg-chno="87354" tvg-name="Game One HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87354_ll_h15_aa.png" group-title="Belgium" tvg-id="GMONEHD" tvc-guide-stationid="87354",Game One HD
-http://example.local/BEL-GMONEHD.ts
 #EXTINF:-1 tvg-chno="113320" tvg-name="Gay Chat TV" group-title="Belgium" tvg-id="GAYCHAT" tvc-guide-stationid="113320",Gay Chat TV
 http://example.local/BEL-GAYCHAT.ts
 #EXTINF:-1 tvg-chno="118853" tvg-name="GB News HD" tvg-logo="https://zap2it.tmsimg.com/assets/s118853_ll_h15_aa.png" group-title="Belgium" tvg-id="GBNEWS" tvc-guide-stationid="118853",GB News HD
@@ -867,7 +863,7 @@ http://example.local/BEL-HIGHST.ts
 http://example.local/BEL-HIGHSTR2.ts
 #EXTINF:-1 tvg-chno="118535" tvg-name="High Street TV 3" tvg-logo="https://zap2it.tmsimg.com/assets/s118535_ll_h15_aa.png" group-title="Belgium" tvg-id="HIGHSTR3" tvc-guide-stationid="118535",High Street TV 3
 http://example.local/BEL-HIGHSTR3.ts
-#EXTINF:-1 tvg-chno="144656" tvg-name="hip trips" tvg-logo="https://zap2it.tmsimg.com/assets/s137719_h3_aa.png" group-title="Belgium" tvg-id="HIPTRSD" tvc-guide-stationid="144656",hip trips
+#EXTINF:-1 tvg-chno="144656" tvg-name="hip trips" tvg-logo="https://zap2it.tmsimg.com/assets/s137719_ll_h15_ab.png" group-title="Belgium" tvg-id="HIPTRSD" tvc-guide-stationid="144656",hip trips
 http://example.local/BEL-HIPTRSD.ts
 #EXTINF:-1 tvg-chno="89067" tvg-name="Histoire" tvg-logo="https://zap2it.tmsimg.com/assets/s89067_ll_h15_aa.png" group-title="Belgium" tvg-id="HISTOIR" tvc-guide-stationid="89067",Histoire
 http://example.local/BEL-HISTOIR.ts
@@ -907,7 +903,7 @@ http://example.local/BEL-HSE24TR.ts
 http://example.local/BEL-HT1INN.ts
 #EXTINF:-1 tvg-chno="116805" tvg-name="HUM Europe" tvg-logo="https://zap2it.tmsimg.com/assets/s116805_ll_h15_aa.png" group-title="Belgium" tvg-id="HUMEU" tvc-guide-stationid="116805",HUM Europe
 http://example.local/BEL-HUMEU.ts
-#EXTINF:-1 tvg-chno="116975" tvg-name="HUM Masala (Europe)" tvg-logo="https://zap2it.tmsimg.com/assets/s116975_ll_h15_ab.png" group-title="Belgium" tvg-id="HUMMAEU" tvc-guide-stationid="116975",HUM Masala (Europe)
+#EXTINF:-1 tvg-chno="116975" tvg-name="HUM NEWS" tvg-logo="https://zap2it.tmsimg.com/assets/s116975_ll_h15_ab.png" group-title="Belgium" tvg-id="HUMMAEU" tvc-guide-stationid="116975",HUM NEWS
 http://example.local/BEL-HUMMAEU.ts
 #EXTINF:-1 tvg-chno="78645" tvg-name="Hustler TV" tvg-logo="https://zap2it.tmsimg.com/assets/s78645_ll_h15_aa.png" group-title="Belgium" tvg-id="HUSTSWE" tvc-guide-stationid="78645",Hustler TV
 http://example.local/BEL-HUSTSWE.ts
@@ -1155,12 +1151,8 @@ http://example.local/BEL-MDRTHHD.ts
 http://example.local/BEL-MEDIAIT.ts
 #EXTINF:-1 tvg-chno="84650" tvg-name="Mediaset TGCOM24" tvg-logo="https://zap2it.tmsimg.com/assets/s84650_ll_h15_aa.png" group-title="Belgium" tvg-id="MEDTG24" tvc-guide-stationid="84650",Mediaset TGCOM24
 http://example.local/BEL-MEDTG24.ts
-#EXTINF:-1 tvg-chno="122204" tvg-name="MediaShop - Immer etwas Neues" tvg-logo="https://zap2it.tmsimg.com/assets/s122204_ll_h15_aa.png" group-title="Belgium" tvg-id="MSIEN" tvc-guide-stationid="122204",MediaShop - Immer etwas Neues
-http://example.local/BEL-MSIEN.ts
 #EXTINF:-1 tvg-chno="122203" tvg-name="MediaShop - Meine Einkaufswelt" tvg-logo="https://zap2it.tmsimg.com/assets/s122203_ll_h15_aa.png" group-title="Belgium" tvg-id="MSNME" tvc-guide-stationid="122203",MediaShop - Meine Einkaufswelt
 http://example.local/BEL-MSNME.ts
-#EXTINF:-1 tvg-chno="84061" tvg-name="MediaShop - Neuheiten" tvg-logo="https://zap2it.tmsimg.com/assets/s84061_ll_h15_ab.png" group-title="Belgium" tvg-id="MEDIASN" tvc-guide-stationid="84061",MediaShop - Neuheiten
-http://example.local/BEL-MEDIASN.ts
 #EXTINF:-1 tvg-chno="122337" tvg-name="meinTVshop (MTVS)" tvg-logo="https://zap2it.tmsimg.com/assets/s122337_ll_h9_aa.png" group-title="Belgium" tvg-id="MTVSSD" tvc-guide-stationid="122337",meinTVshop (MTVS)
 http://example.local/BEL-MTVSSD.ts
 #EXTINF:-1 tvg-chno="113327" tvg-name="Melodie Express" group-title="Belgium" tvg-id="MELOEXP" tvc-guide-stationid="113327",Melodie Express
@@ -1195,22 +1187,20 @@ http://example.local/BEL-MTRVSNH.ts
 http://example.local/BEL-MTA1WHD.ts
 #EXTINF:-1 tvg-chno="52456" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s52456_ll_h15_aa.png" group-title="Belgium" tvg-id="MTVFR" tvc-guide-stationid="52456",MTV
 http://example.local/BEL-MTVFR.ts
-#EXTINF:-1 tvg-chno="105100" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s105100_ll_h15_ab.png" group-title="Belgium" tvg-id="MTVNL" tvc-guide-stationid="105100",MTV
-http://example.local/BEL-MTVNL.ts
 #EXTINF:-1 tvg-chno="116970" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s116970_ll_h15_aa.png" group-title="Belgium" tvg-id="MTVBEN" tvc-guide-stationid="116970",MTV
 http://example.local/BEL-MTVBEN.ts
+#EXTINF:-1 tvg-chno="105100" tvg-name="MTV" tvg-logo="https://zap2it.tmsimg.com/assets/s105100_ll_h15_ab.png" group-title="Belgium" tvg-id="MTVNL" tvc-guide-stationid="105100",MTV
+http://example.local/BEL-MTVNL.ts
 #EXTINF:-1 tvg-chno="56245" tvg-name="MTV 00s Europe" tvg-logo="https://zap2it.tmsimg.com/assets/s56245_ll_h15_ab.png" group-title="Belgium" tvg-id="MTV00EU" tvc-guide-stationid="56245",MTV 00s Europe
 http://example.local/BEL-MTV00EU.ts
 #EXTINF:-1 tvg-chno="56244" tvg-name="MTV 80s" tvg-logo="https://zap2it.tmsimg.com/assets/s56244_ll_h9_ab.png" group-title="Belgium" tvg-id="MTV80" tvc-guide-stationid="56244",MTV 80s
 http://example.local/BEL-MTV80.ts
 #EXTINF:-1 tvg-chno="66604" tvg-name="MTV Deutschland" tvg-logo="https://zap2it.tmsimg.com/assets/s66604_ll_h15_ab.png" group-title="Belgium" tvg-id="MTVGERH" tvc-guide-stationid="66604",MTV Deutschland
 http://example.local/BEL-MTVGERH.ts
-#EXTINF:-1 tvg-chno="90501" tvg-name="MTV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90501_ll_h15_aa.png" group-title="Belgium" tvg-id="MTVFRHD" tvc-guide-stationid="90501",MTV HD
-http://example.local/BEL-MTVFRHD.ts
 #EXTINF:-1 tvg-chno="122717" tvg-name="MTV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122717_ll_h15_aa.png" group-title="Belgium" tvg-id="MTVBEHD" tvc-guide-stationid="122717",MTV HD
 http://example.local/BEL-MTVBEHD.ts
-#EXTINF:-1 tvg-chno="97487" tvg-name="MTV Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s97487_ll_h15_aa.png" group-title="Belgium" tvg-id="MTVITS" tvc-guide-stationid="97487",MTV Hits
-http://example.local/BEL-MTVITS.ts
+#EXTINF:-1 tvg-chno="90501" tvg-name="MTV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90501_ll_h15_aa.png" group-title="Belgium" tvg-id="MTVFRHD" tvc-guide-stationid="90501",MTV HD
+http://example.local/BEL-MTVFRHD.ts
 #EXTINF:-1 tvg-chno="115331" tvg-name="MTV Hits" tvg-logo="https://zap2it.tmsimg.com/assets/s115331_ll_h15_ab.png" group-title="Belgium" tvg-id="MTVHTNL" tvc-guide-stationid="115331",MTV Hits
 http://example.local/BEL-MTVHTNL.ts
 #EXTINF:-1 tvg-chno="115332" tvg-name="MTV Live HD" tvg-logo="https://zap2it.tmsimg.com/assets/s115332_ll_h9_aa.png" group-title="Belgium" tvg-id="MTVLINL" tvc-guide-stationid="115332",MTV Live HD
@@ -1249,10 +1239,10 @@ http://example.local/BEL-NGWFLHD.ts
 http://example.local/BEL-NATGEF.ts
 #EXTINF:-1 tvg-chno="105092" tvg-name="National Geographic Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s105092_ll_h15_aa.png" group-title="Belgium" tvg-id="NATGENL" tvc-guide-stationid="105092",National Geographic Channel
 http://example.local/BEL-NATGENL.ts
-#EXTINF:-1 tvg-chno="52473" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s52473_ll_h15_aa.png" group-title="Belgium" tvg-id="NATGHD" tvc-guide-stationid="52473",National Geographic HD
-http://example.local/BEL-NATGHD.ts
 #EXTINF:-1 tvg-chno="121147" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s121147_ll_h15_aa.png" group-title="Belgium" tvg-id="NATGBEHD" tvc-guide-stationid="121147",National Geographic HD
 http://example.local/BEL-NATGBEHD.ts
+#EXTINF:-1 tvg-chno="52473" tvg-name="National Geographic HD" tvg-logo="https://zap2it.tmsimg.com/assets/s52473_ll_h15_aa.png" group-title="Belgium" tvg-id="NATGHD" tvc-guide-stationid="52473",National Geographic HD
+http://example.local/BEL-NATGHD.ts
 #EXTINF:-1 tvg-chno="87635" tvg-name="National Geographic Wild HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87635_ll_h15_aa.png" group-title="Belgium" tvg-id="NGEOWHF" tvc-guide-stationid="87635",National Geographic Wild HD
 http://example.local/BEL-NGEOWHF.ts
 #EXTINF:-1 tvg-chno="115754" tvg-name="National Geographic WILD HD" tvg-logo="https://zap2it.tmsimg.com/assets/s115754_ll_h15_ab.png" group-title="Belgium" tvg-id="NGWNHD" tvc-guide-stationid="115754",National Geographic WILD HD
@@ -1297,16 +1287,16 @@ http://example.local/BEL-NIKJBEN.ts
 http://example.local/BEL-NICKMNL.ts
 #EXTINF:-1 tvg-chno="112728" tvg-name="Nick/Comedy Central +1" tvg-logo="https://zap2it.tmsimg.com/assets/s112728_ll_h15_ae.png" group-title="Belgium" tvg-id="NICKCC" tvc-guide-stationid="112728",Nick/Comedy Central +1
 http://example.local/BEL-NICKCC.ts
-#EXTINF:-1 tvg-chno="83626" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s83626_ll_h15_ab.png" group-title="Belgium" tvg-id="NICKDEU" tvc-guide-stationid="83626",Nickelodeon
-http://example.local/BEL-NICKDEU.ts
-#EXTINF:-1 tvg-chno="116968" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s116968_ll_h15_aa.png" group-title="Belgium" tvg-id="NICKBEF" tvc-guide-stationid="116968",Nickelodeon
-http://example.local/BEL-NICKBEF.ts
 #EXTINF:-1 tvg-chno="116623" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s116623_ll_h15_aa.png" group-title="Belgium" tvg-id="NICKBEN" tvc-guide-stationid="116623",Nickelodeon
 http://example.local/BEL-NICKBEN.ts
+#EXTINF:-1 tvg-chno="83626" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s83626_ll_h15_ab.png" group-title="Belgium" tvg-id="NICKDEU" tvc-guide-stationid="83626",Nickelodeon
+http://example.local/BEL-NICKDEU.ts
 #EXTINF:-1 tvg-chno="52479" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s52479_ll_h15_aa.png" group-title="Belgium" tvg-id="NCKLDN" tvc-guide-stationid="52479",Nickelodeon
 http://example.local/BEL-NCKLDN.ts
 #EXTINF:-1 tvg-chno="105099" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s105099_ll_h15_aa.png" group-title="Belgium" tvg-id="NICKLNL" tvc-guide-stationid="105099",Nickelodeon
 http://example.local/BEL-NICKLNL.ts
+#EXTINF:-1 tvg-chno="116968" tvg-name="Nickelodeon" tvg-logo="https://zap2it.tmsimg.com/assets/s116968_ll_h15_aa.png" group-title="Belgium" tvg-id="NICKBEF" tvc-guide-stationid="116968",Nickelodeon
+http://example.local/BEL-NICKBEF.ts
 #EXTINF:-1 tvg-chno="117454" tvg-name="Nickelodeon (Belgium - Flanders) HD" tvg-logo="https://zap2it.tmsimg.com/assets/s117454_ll_h15_aa.png" group-title="Belgium" tvg-id="NICKBENH" tvc-guide-stationid="117454",Nickelodeon (Belgium - Flanders) HD
 http://example.local/BEL-NICKBENH.ts
 #EXTINF:-1 tvg-chno="123926" tvg-name="Nickelodeon Global" tvg-logo="https://zap2it.tmsimg.com/assets/s123926_ll_h9_aa.png" group-title="Belgium" tvg-id="NICKUAPLU" tvc-guide-stationid="123926",Nickelodeon Global
@@ -1333,7 +1323,7 @@ http://example.local/BEL-NJAMHD.ts
 http://example.local/BEL-NOLLYWD.ts
 #EXTINF:-1 tvg-chno="58490" tvg-name="Noor TV" tvg-logo="https://zap2it.tmsimg.com/assets/s58490_ll_h15_ab.png" group-title="Belgium" tvg-id="NOORTV" tvc-guide-stationid="58490",Noor TV
 http://example.local/BEL-NOORTV.ts
-#EXTINF:-1 tvg-chno="116503" tvg-name="Notélé" tvg-logo="https://zap2it.tmsimg.com/assets/s116503_ll_h15_aa.png" group-title="Belgium" tvg-id="NOTELBE" tvc-guide-stationid="116503",Notélé
+#EXTINF:-1 tvg-chno="116503" tvg-name="Notélé" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NE1D9.png" group-title="Belgium" tvg-id="NOTELBE" tvc-guide-stationid="116503",Notélé
 http://example.local/BEL-NOTELBE.ts
 #EXTINF:-1 tvg-chno="43428" tvg-name="NOURSAT (International)" tvg-logo="https://zap2it.tmsimg.com/assets/s43428_ll_h9_aa.png" group-title="Belgium" tvg-id="NOURSAT" tvc-guide-stationid="43428",NOURSAT (International)
 http://example.local/BEL-NOURSAT.ts
@@ -1395,8 +1385,6 @@ http://example.local/BEL-OTVAHD.ts
 http://example.local/BEL-OUTTVNL.ts
 #EXTINF:-1 tvg-chno="115755" tvg-name="OutTV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s115755_ll_h15_aa.png" group-title="Belgium" tvg-id="OUTTNHD" tvc-guide-stationid="115755",OutTV HD
 http://example.local/BEL-OUTTNHD.ts
-#EXTINF:-1 tvg-chno="90512" tvg-name="Paramount Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90512_ll_h15_aa.png" group-title="Belgium" tvg-id="PARFRHD" tvc-guide-stationid="90512",Paramount Channel HD
-http://example.local/BEL-PARFRHD.ts
 #EXTINF:-1 tvg-chno="109848" tvg-name="Parole di Vita" tvg-logo="https://zap2it.tmsimg.com/assets/s109848_ll_h15_aa.png" group-title="Belgium" tvg-id="PARVIT" tvc-guide-stationid="109848",Parole di Vita
 http://example.local/BEL-PARVIT.ts
 #EXTINF:-1 tvg-chno="115337" tvg-name="PassieXXX" tvg-logo="https://zap2it.tmsimg.com/assets/s115337_ll_h15_aa.png" group-title="Belgium" tvg-id="PASSIEX" tvc-guide-stationid="115337",PassieXXX
@@ -1455,16 +1443,16 @@ http://example.local/BEL-PLAYFBE.ts
 http://example.local/BEL-PLAYFBEH.ts
 #EXTINF:-1 tvg-chno="117311" tvg-name="Play HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002FL31V.png" group-title="Belgium" tvg-id="PLAYBEH" tvc-guide-stationid="117311",Play HD
 http://example.local/BEL-PLAYBEH.ts
-#EXTINF:-1 tvg-chno="120747" tvg-name="Play Kerst" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002FL45K.png" group-title="Belgium" tvg-id="PLAYRBE" tvc-guide-stationid="120747",Play Kerst
-http://example.local/BEL-PLAYRBE.ts
-#EXTINF:-1 tvg-chno="122722" tvg-name="Play Kerst HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002FL485.png" group-title="Belgium" tvg-id="PLAYRBEH" tvc-guide-stationid="122722",Play Kerst HD
-http://example.local/BEL-PLAYRBEH.ts
 #EXTINF:-1 tvg-chno="122719" tvg-name="Play More Black HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122719_ll_h15_aa.png" group-title="Belgium" tvg-id="PLMOBHD" tvc-guide-stationid="122719",Play More Black HD
 http://example.local/BEL-PLMOBHD.ts
 #EXTINF:-1 tvg-chno="122720" tvg-name="Play More Cinema HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122720_ll_h15_aa.png" group-title="Belgium" tvg-id="PLMOCHD" tvc-guide-stationid="122720",Play More Cinema HD
 http://example.local/BEL-PLMOCHD.ts
 #EXTINF:-1 tvg-chno="122721" tvg-name="Play More Kicks HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122721_ll_h15_aa.png" group-title="Belgium" tvg-id="PLMOKHD" tvc-guide-stationid="122721",Play More Kicks HD
 http://example.local/BEL-PLMOKHD.ts
+#EXTINF:-1 tvg-chno="120747" tvg-name="Play Reality" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RB0ZF.png" group-title="Belgium" tvg-id="PLAYRBE" tvc-guide-stationid="120747",Play Reality
+http://example.local/BEL-PLAYRBE.ts
+#EXTINF:-1 tvg-chno="122722" tvg-name="Play Reality HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RB0EF.png" group-title="Belgium" tvg-id="PLAYRBEH" tvc-guide-stationid="122722",Play Reality HD
+http://example.local/BEL-PLAYRBEH.ts
 #EXTINF:-1 tvg-chno="116684" tvg-name="Play Sports 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0025VRR6.png" group-title="Belgium" tvg-id="PLAYS1H" tvc-guide-stationid="116684",Play Sports 1 HD
 http://example.local/BEL-PLAYS1H.ts
 #EXTINF:-1 tvg-chno="116685" tvg-name="Play Sports 2 HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG0025VRVT.png" group-title="Belgium" tvg-id="PLAYS2H" tvc-guide-stationid="116685",Play Sports 2 HD
@@ -1523,6 +1511,8 @@ http://example.local/BEL-PUBSENH.ts
 http://example.local/BEL-QMUSICTV.ts
 #EXTINF:-1 tvg-chno="122723" tvg-name="Q-music HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122723_ll_h15_aa.png" group-title="Belgium" tvg-id="QMUSHD" tvc-guide-stationid="122723",Q-music HD
 http://example.local/BEL-QMUSHD.ts
+#EXTINF:-1 tvg-chno="130146" tvg-name="QMAXHIT" tvg-logo="https://zap2it.tmsimg.com/assets/s130146_ll_h9_ab.png" group-title="Belgium" tvg-id="QMAXHIT" tvc-guide-stationid="130146",QMAXHIT
+http://example.local/BEL-QMAXHIT.ts
 #EXTINF:-1 tvg-chno="116504" tvg-name="Qu4tre HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116504_ll_h15_aa.png" group-title="Belgium" tvg-id="QU4TRE" tvc-guide-stationid="116504",Qu4tre HD
 http://example.local/BEL-QU4TRE.ts
 #EXTINF:-1 tvg-chno="62391" tvg-name="Quest" tvg-logo="https://zap2it.tmsimg.com/assets/s62391_ll_h15_ae.png" group-title="Belgium" tvg-id="QUEST" tvc-guide-stationid="62391",Quest
@@ -1535,20 +1525,20 @@ http://example.local/BEL-QUESHDV.ts
 http://example.local/BEL-QREDUK.ts
 #EXTINF:-1 tvg-chno="102764" tvg-name="Quest Red +1" tvg-logo="https://zap2it.tmsimg.com/assets/s102764_ll_h15_ab.png" group-title="Belgium" tvg-id="QREDUK1" tvc-guide-stationid="102764",Quest Red +1
 http://example.local/BEL-QREDUK1.ts
-#EXTINF:-1 tvg-chno="125129" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s125129_ll_h15_aa.png" group-title="Belgium" tvg-id="QVCUKSD" tvc-guide-stationid="125129",QVC
-http://example.local/BEL-QVCUKSD.ts
 #EXTINF:-1 tvg-chno="75287" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s75287_ll_h15_aa.png" group-title="Belgium" tvg-id="QVCITA" tvc-guide-stationid="75287",QVC
 http://example.local/BEL-QVCITA.ts
 #EXTINF:-1 tvg-chno="73259" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s73259_ll_h15_ad.png" group-title="Belgium" tvg-id="QVCDEUT" tvc-guide-stationid="73259",QVC
 http://example.local/BEL-QVCDEUT.ts
+#EXTINF:-1 tvg-chno="125129" tvg-name="QVC" tvg-logo="https://zap2it.tmsimg.com/assets/s125129_ll_h15_aa.png" group-title="Belgium" tvg-id="QVCUKSD" tvc-guide-stationid="125129",QVC
+http://example.local/BEL-QVCUKSD.ts
 #EXTINF:-1 tvg-chno="29693" tvg-name="QVC Beauty" tvg-logo="https://zap2it.tmsimg.com/assets/s29693_ll_h9_ad.png" group-title="Belgium" tvg-id="QVCBEAU" tvc-guide-stationid="29693",QVC Beauty
 http://example.local/BEL-QVCBEAU.ts
 #EXTINF:-1 tvg-chno="116569" tvg-name="QVC Extra" tvg-logo="https://zap2it.tmsimg.com/assets/s116569_ll_h15_aa.png" group-title="Belgium" tvg-id="QVCEXUK" tvc-guide-stationid="116569",QVC Extra
 http://example.local/BEL-QVCEXUK.ts
-#EXTINF:-1 tvg-chno="83633" tvg-name="QVC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83633_ll_h15_ad.png" group-title="Belgium" tvg-id="QVCGHD" tvc-guide-stationid="83633",QVC HD
-http://example.local/BEL-QVCGHD.ts
 #EXTINF:-1 tvg-chno="110089" tvg-name="QVC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s110089_ll_h15_ab.png" group-title="Belgium" tvg-id="QVCITHD" tvc-guide-stationid="110089",QVC HD
 http://example.local/BEL-QVCITHD.ts
+#EXTINF:-1 tvg-chno="83633" tvg-name="QVC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s83633_ll_h15_ad.png" group-title="Belgium" tvg-id="QVCGHD" tvc-guide-stationid="83633",QVC HD
+http://example.local/BEL-QVCGHD.ts
 #EXTINF:-1 tvg-chno="87231" tvg-name="QVC HD" group-title="Belgium" tvg-id="QVCUKHD" tvc-guide-stationid="87231",QVC HD
 http://example.local/BEL-QVCUKHD.ts
 #EXTINF:-1 tvg-chno="83634" tvg-name="QVC Style" tvg-logo="https://zap2it.tmsimg.com/assets/s83634_ll_h15_ac.png" group-title="Belgium" tvg-id="QVCBTY" tvc-guide-stationid="83634",QVC Style
@@ -1619,8 +1609,6 @@ http://example.local/BEL-RBBBRAN.ts
 http://example.local/BEL-RBBBRHD.ts
 #EXTINF:-1 tvg-chno="45828" tvg-name="Really UKTV" tvg-logo="https://zap2it.tmsimg.com/assets/s45828_ll_h15_aa.png" group-title="Belgium" tvg-id="REALLY" tvc-guide-stationid="45828",Really UKTV
 http://example.local/BEL-REALLY.ts
-#EXTINF:-1 tvg-chno="118489" tvg-name="Red Carpet TV HD" group-title="Belgium" tvg-id="REDCARP" tvc-guide-stationid="118489",Red Carpet TV HD
-http://example.local/BEL-REDCARP.ts
 #EXTINF:-1 tvg-chno="84216" tvg-name="REGIO TV SCHWABEN" tvg-logo="https://zap2it.tmsimg.com/assets/s84216_ll_h9_ab.png" group-title="Belgium" tvg-id="REGITV" tvc-guide-stationid="84216",REGIO TV SCHWABEN
 http://example.local/BEL-REGITV.ts
 #EXTINF:-1 tvg-chno="101110" tvg-name="Regional Fernsehen Oberbayern HD" tvg-logo="https://zap2it.tmsimg.com/assets/s101110_ll_h15_ac.png" group-title="Belgium" tvg-id="REGOHD" tvc-guide-stationid="101110",Regional Fernsehen Oberbayern HD
@@ -1651,10 +1639,10 @@ http://example.local/BEL-RINGBEHD.ts
 http://example.local/BEL-ROBBEHD.ts
 #EXTINF:-1 tvg-chno="109586" tvg-name="RT Documentary HD" tvg-logo="https://zap2it.tmsimg.com/assets/s109586_ll_h9_aa.png" group-title="Belgium" tvg-id="RTDUKHD" tvc-guide-stationid="109586",RT Documentary HD
 http://example.local/BEL-RTDUKHD.ts
-#EXTINF:-1 tvg-chno="52564" tvg-name="RTL" tvg-logo="https://zap2it.tmsimg.com/assets/s52564_ll_h9_ac.png" group-title="Belgium" tvg-id="RTLGER" tvc-guide-stationid="52564",RTL
-http://example.local/BEL-RTLGER.ts
 #EXTINF:-1 tvg-chno="53955" tvg-name="RTL" tvg-logo="https://zap2it.tmsimg.com/assets/s53955_ll_h9_ac.png" group-title="Belgium" tvg-id="RTLOSTR" tvc-guide-stationid="53955",RTL
 http://example.local/BEL-RTLOSTR.ts
+#EXTINF:-1 tvg-chno="52564" tvg-name="RTL" tvg-logo="https://zap2it.tmsimg.com/assets/s52564_ll_h9_ac.png" group-title="Belgium" tvg-id="RTLGER" tvc-guide-stationid="52564",RTL
+http://example.local/BEL-RTLGER.ts
 #EXTINF:-1 tvg-chno="125505" tvg-name="RTL 102.5 NEWS HD" group-title="Belgium" tvg-id="RTLNEWS" tvc-guide-stationid="125505",RTL 102.5 NEWS HD
 http://example.local/BEL-RTLNEWS.ts
 #EXTINF:-1 tvg-chno="105182" tvg-name="RTL 102.5 TV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s105182_ll_h15_aa.png" group-title="Belgium" tvg-id="RTL102H" tvc-guide-stationid="105182",RTL 102.5 TV HD
@@ -1685,12 +1673,12 @@ http://example.local/BEL-RTLWEST.ts
 http://example.local/BEL-RTLUP.ts
 #EXTINF:-1 tvg-chno="122162" tvg-name="RTLup Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s122162_ll_h15_aa.png" group-title="Belgium" tvg-id="RTLUPAT" tvc-guide-stationid="122162",RTLup Austria
 http://example.local/BEL-RTLUPAT.ts
-#EXTINF:-1 tvg-chno="66610" tvg-name="RTLZWEI" tvg-logo="https://zap2it.tmsimg.com/assets/s66610_ll_h15_ac.png" group-title="Belgium" tvg-id="RTL2GRH" tvc-guide-stationid="66610",RTLZWEI
-http://example.local/BEL-RTL2GRH.ts
-#EXTINF:-1 tvg-chno="83956" tvg-name="RTLZWEI" tvg-logo="https://zap2it.tmsimg.com/assets/s83956_ll_h15_ac.png" group-title="Belgium" tvg-id="RTL2OST" tvc-guide-stationid="83956",RTLZWEI
-http://example.local/BEL-RTL2OST.ts
 #EXTINF:-1 tvg-chno="88671" tvg-name="RTLZWEI" tvg-logo="https://zap2it.tmsimg.com/assets/s88671_ll_h15_ab.png" group-title="Belgium" tvg-id="RTL2SCH" tvc-guide-stationid="88671",RTLZWEI
 http://example.local/BEL-RTL2SCH.ts
+#EXTINF:-1 tvg-chno="83956" tvg-name="RTLZWEI" tvg-logo="https://zap2it.tmsimg.com/assets/s83956_ll_h15_ac.png" group-title="Belgium" tvg-id="RTL2OST" tvc-guide-stationid="83956",RTLZWEI
+http://example.local/BEL-RTL2OST.ts
+#EXTINF:-1 tvg-chno="66610" tvg-name="RTLZWEI" tvg-logo="https://zap2it.tmsimg.com/assets/s66610_ll_h15_ac.png" group-title="Belgium" tvg-id="RTL2GRH" tvc-guide-stationid="66610",RTLZWEI
+http://example.local/BEL-RTL2GRH.ts
 #EXTINF:-1 tvg-chno="120870" tvg-name="RTNC" group-title="Belgium" tvg-id="RTNCBE" tvc-guide-stationid="120870",RTNC
 http://example.local/BEL-RTNCBE.ts
 #EXTINF:-1 tvg-chno="97666" tvg-name="RTP Internacional Europe" tvg-logo="https://zap2it.tmsimg.com/assets/s97666_ll_h15_aa.png" group-title="Belgium" tvg-id="RTPIE" tvc-guide-stationid="97666",RTP Internacional Europe
@@ -1729,10 +1717,10 @@ http://example.local/BEL-MARINORTV.ts
 http://example.local/BEL-SANGAT.ts
 #EXTINF:-1 tvg-chno="117516" tvg-name="Sanskar TV" tvg-logo="https://zap2it.tmsimg.com/assets/s117516_ll_h9_ab.png" group-title="Belgium" tvg-id="SANSKTV" tvc-guide-stationid="117516",Sanskar TV
 http://example.local/BEL-SANSKTV.ts
-#EXTINF:-1 tvg-chno="21842" tvg-name="Sat.1" tvg-logo="https://zap2it.tmsimg.com/assets/s21842_ll_h15_aa.png" group-title="Belgium" tvg-id="SAT1" tvc-guide-stationid="21842",Sat.1
-http://example.local/BEL-SAT1.ts
 #EXTINF:-1 tvg-chno="88678" tvg-name="Sat.1" tvg-logo="https://zap2it.tmsimg.com/assets/s88678_ll_h15_aa.png" group-title="Belgium" tvg-id="SAT1SC" tvc-guide-stationid="88678",Sat.1
 http://example.local/BEL-SAT1SC.ts
+#EXTINF:-1 tvg-chno="21842" tvg-name="Sat.1" tvg-logo="https://zap2it.tmsimg.com/assets/s21842_ll_h15_aa.png" group-title="Belgium" tvg-id="SAT1" tvc-guide-stationid="21842",Sat.1
+http://example.local/BEL-SAT1.ts
 #EXTINF:-1 tvg-chno="83656" tvg-name="Sat.1 Bayern (SAT1)" tvg-logo="https://zap2it.tmsimg.com/assets/s83656_ll_h9_ab.png" group-title="Belgium" tvg-id="BAYERN" tvc-guide-stationid="83656",Sat.1 Bayern (SAT1)
 http://example.local/BEL-BAYERN.ts
 #EXTINF:-1 tvg-chno="83651" tvg-name="Sat.1 Gold" tvg-logo="https://zap2it.tmsimg.com/assets/s83651_ll_h15_ad.png" group-title="Belgium" tvg-id="SAT1GLD" tvc-guide-stationid="83651",Sat.1 Gold
@@ -1773,6 +1761,8 @@ http://example.local/BEL-SLCHD.ts
 http://example.local/BEL-SHOPQUA.ts
 #EXTINF:-1 tvg-chno="115655" tvg-name="ShortsTV HD" tvg-logo="https://zap2it.tmsimg.com/assets/s115655_ll_h15_ab.png" group-title="Belgium" tvg-id="SHORTHD" tvc-guide-stationid="115655",ShortsTV HD
 http://example.local/BEL-SHORTHD.ts
+#EXTINF:-1 tvg-chno="118489" tvg-name="SHOW TV HD" group-title="Belgium" tvg-id="SHOWHDPL" tvc-guide-stationid="118489",SHOW TV HD
+http://example.local/BEL-SHOWHDPL.ts
 #EXTINF:-1 tvg-chno="49678" tvg-name="Sikh Channel" tvg-logo="https://zap2it.tmsimg.com/assets/s49678_ll_h9_ab.png" group-title="Belgium" tvg-id="SIKHCH" tvc-guide-stationid="49678",Sikh Channel
 http://example.local/BEL-SIKHCH.ts
 #EXTINF:-1 tvg-chno="32207" tvg-name="Siraj TV" tvg-logo="https://zap2it.tmsimg.com/assets/s32207_ll_h9_ab.png" group-title="Belgium" tvg-id="SIRAJTV" tvc-guide-stationid="32207",Siraj TV
@@ -1925,8 +1915,8 @@ http://example.local/BEL-THOLDIES.ts
 http://example.local/BEL-THATSTV.ts
 #EXTINF:-1 tvg-chno="136453" tvg-name="That's TV 2" tvg-logo="https://zap2it.tmsimg.com/assets/s136453_ll_h15_ad.png" group-title="Belgium" tvg-id="THATS2" tvc-guide-stationid="136453",That's TV 2
 http://example.local/BEL-THATS2.ts
-#EXTINF:-1 tvg-chno="131027" tvg-name="Thats Melody" tvg-logo="https://zap2it.tmsimg.com/assets/s131027_ll_h15_ad.png" group-title="Belgium" tvg-id="THAT80S" tvc-guide-stationid="131027",Thats Melody
-http://example.local/BEL-THAT80S.ts
+#EXTINF:-1 tvg-chno="131027" tvg-name="Thats Melody" tvg-logo="https://zap2it.tmsimg.com/assets/s131027_ll_h15_ad.png" group-title="Belgium" tvg-id="THATMEL" tvc-guide-stationid="131027",Thats Melody
+http://example.local/BEL-THATMEL.ts
 #EXTINF:-1 tvg-chno="21492" tvg-name="The Box" tvg-logo="https://zap2it.tmsimg.com/assets/s21492_ll_h15_aa.png" group-title="Belgium" tvg-id="BOX" tvc-guide-stationid="21492",The Box
 http://example.local/BEL-BOX.ts
 #EXTINF:-1 tvg-chno="113589" tvg-name="The Jewellery Channel HD" tvg-logo="https://zap2it.tmsimg.com/assets/s113589_ll_h15_aa.png" group-title="Belgium" tvg-id="TJCHD" tvc-guide-stationid="113589",The Jewellery Channel HD
@@ -1951,7 +1941,7 @@ http://example.local/BEL-TIPIKVI.ts
 http://example.local/BEL-TLCGER.ts
 #EXTINF:-1 tvg-chno="105094" tvg-name="TLC" tvg-logo="https://zap2it.tmsimg.com/assets/s105094_ll_h15_aa.png" group-title="Belgium" tvg-id="TLCNL" tvc-guide-stationid="105094",TLC
 http://example.local/BEL-TLCNL.ts
-#EXTINF:-1 tvg-chno="122757" tvg-name="TLC (Austria)" tvg-logo="https://zap2it.tmsimg.com/assets/s122757_ll_h15_aa.png" group-title="Belgium" tvg-id="TLCAT" tvc-guide-stationid="122757",TLC (Austria)
+#EXTINF:-1 tvg-chno="122757" tvg-name="TLC Austria" tvg-logo="https://zap2it.tmsimg.com/assets/s122757_ll_h15_aa.png" group-title="Belgium" tvg-id="TLCAT" tvc-guide-stationid="122757",TLC Austria
 http://example.local/BEL-TLCAT.ts
 #EXTINF:-1 tvg-chno="122730" tvg-name="TLC HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122730_ll_h15_aa.png" group-title="Belgium" tvg-id="TLCBEHD" tvc-guide-stationid="122730",TLC HD
 http://example.local/BEL-TLCBEHD.ts
@@ -2041,11 +2031,11 @@ http://example.local/BEL-INTVRHD.ts
 http://example.local/BEL-TV1OOE.ts
 #EXTINF:-1 tvg-chno="122911" tvg-name="TV2000 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122911_ll_h15_ac.png" group-title="Belgium" tvg-id="TV2000HD" tvc-guide-stationid="122911",TV2000 HD
 http://example.local/BEL-TV2000HD.ts
-#EXTINF:-1 tvg-chno="56112" tvg-name="TV5 Monde (FBSM)" tvg-logo="https://zap2it.tmsimg.com/assets/s56112_ll_h15_aa.png" group-title="Belgium" tvg-id="TV5FBSM" tvc-guide-stationid="56112",TV5 Monde (FBSM)
+#EXTINF:-1 tvg-chno="56112" tvg-name="TV5 Monde (FBSM)" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002M0MHK.png" group-title="Belgium" tvg-id="TV5FBSM" tvc-guide-stationid="56112",TV5 Monde (FBSM)
 http://example.local/BEL-TV5FBSM.ts
-#EXTINF:-1 tvg-chno="21495" tvg-name="TV5 Monde Europe" tvg-logo="https://zap2it.tmsimg.com/assets/s21495_ll_h15_aa.png" group-title="Belgium" tvg-id="TV5MON" tvc-guide-stationid="21495",TV5 Monde Europe
+#EXTINF:-1 tvg-chno="21495" tvg-name="TV5 Monde Europe" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002M09J4.png" group-title="Belgium" tvg-id="TV5MON" tvc-guide-stationid="21495",TV5 Monde Europe
 http://example.local/BEL-TV5MON.ts
-#EXTINF:-1 tvg-chno="95641" tvg-name="TV5 Monde Europe HD" tvg-logo="https://zap2it.tmsimg.com/assets/s95641_ll_h15_ab.png" group-title="Belgium" tvg-id="TV5MHD" tvc-guide-stationid="95641",TV5 Monde Europe HD
+#EXTINF:-1 tvg-chno="95641" tvg-name="TV5 Monde Europe HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002M09E0.png" group-title="Belgium" tvg-id="TV5MHD" tvc-guide-stationid="95641",TV5 Monde Europe HD
 http://example.local/BEL-TV5MHD.ts
 #EXTINF:-1 tvg-chno="97608" tvg-name="TV5 Monde HD (FBSM)" tvg-logo="https://zap2it.tmsimg.com/assets/s97608_ll_h15_ab.png" group-title="Belgium" tvg-id="TV5FBSMHD" tvc-guide-stationid="97608",TV5 Monde HD (FBSM)
 http://example.local/BEL-TV5FBSMHD.ts
@@ -2093,13 +2083,13 @@ http://example.local/BEL-TTOONPH.ts
 http://example.local/BEL-TELTP1H.ts
 #EXTINF:-1 tvg-chno="24305" tvg-name="U&Dave" tvg-logo="https://zap2it.tmsimg.com/assets/s24305_ll_h15_ac.png" group-title="Belgium" tvg-id="UDAVE" tvc-guide-stationid="24305",U&Dave
 http://example.local/BEL-UDAVE.ts
-#EXTINF:-1 tvg-chno="116439" tvg-name="U&Dave ROI" tvg-logo="https://zap2it.tmsimg.com/assets/s116439_ll_h15_aa.png" group-title="Belgium" tvg-id="UDAVROI" tvc-guide-stationid="116439",U&Dave ROI
+#EXTINF:-1 tvg-chno="116439" tvg-name="U&Dave ROI" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002HXC65.png" group-title="Belgium" tvg-id="UDAVROI" tvc-guide-stationid="116439",U&Dave ROI
 http://example.local/BEL-UDAVROI.ts
-#EXTINF:-1 tvg-chno="44855" tvg-name="U&DaveJaVu" tvg-logo="https://zap2it.tmsimg.com/assets/s44855_ll_h15_aa.png" group-title="Belgium" tvg-id="UDAVEJV" tvc-guide-stationid="44855",U&DaveJaVu
+#EXTINF:-1 tvg-chno="44855" tvg-name="U&DaveJaVu" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002HXFEC.png" group-title="Belgium" tvg-id="UDAVEJV" tvc-guide-stationid="44855",U&DaveJaVu
 http://example.local/BEL-UDAVEJV.ts
 #EXTINF:-1 tvg-chno="117464" tvg-name="U&Drama" tvg-logo="https://zap2it.tmsimg.com/assets/s117464_ll_h15_ae.png" group-title="Belgium" tvg-id="UDRAMA" tvc-guide-stationid="117464",U&Drama
 http://example.local/BEL-UDRAMA.ts
-#EXTINF:-1 tvg-chno="116440" tvg-name="U&Drama ROI" tvg-logo="https://zap2it.tmsimg.com/assets/s116440_ll_h15_ab.png" group-title="Belgium" tvg-id="UDRAMROI" tvc-guide-stationid="116440",U&Drama ROI
+#EXTINF:-1 tvg-chno="116440" tvg-name="U&Drama ROI" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002HXGNN.png" group-title="Belgium" tvg-id="UDRAMROI" tvc-guide-stationid="116440",U&Drama ROI
 http://example.local/BEL-UDRAMROI.ts
 #EXTINF:-1 tvg-chno="111955" tvg-name="U&Drama+1" tvg-logo="https://zap2it.tmsimg.com/assets/s111955_ll_h15_ab.png" group-title="Belgium" tvg-id="UDRP1VM" tvc-guide-stationid="111955",U&Drama+1
 http://example.local/BEL-UDRP1VM.ts
@@ -2109,7 +2099,7 @@ http://example.local/BEL-UANDW.ts
 http://example.local/BEL-UANDWP1.ts
 #EXTINF:-1 tvg-chno="31783" tvg-name="U&Yesterday HD" tvg-logo="https://zap2it.tmsimg.com/assets/s31783_ll_h15_ae.png" group-title="Belgium" tvg-id="UYESTER" tvc-guide-stationid="31783",U&Yesterday HD
 http://example.local/BEL-UYESTER.ts
-#EXTINF:-1 tvg-chno="35706" tvg-name="U&Yesterday+1" tvg-logo="https://zap2it.tmsimg.com/assets/s35706_ll_h15_ab.png" group-title="Belgium" tvg-id="UYESTP1" tvc-guide-stationid="35706",U&Yesterday+1
+#EXTINF:-1 tvg-chno="35706" tvg-name="U&Yesterday+1" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002JHCF7.png" group-title="Belgium" tvg-id="UYESTP1" tvc-guide-stationid="35706",U&Yesterday+1
 http://example.local/BEL-UYESTP1.ts
 #EXTINF:-1 tvg-chno="119764" tvg-name="UHD1 by ASTRA UHD" group-title="Belgium" tvg-id="ASTRAUHD" tvc-guide-stationid="119764",UHD1 by ASTRA UHD
 http://example.local/BEL-ASTRAUHD.ts
@@ -2155,10 +2145,10 @@ http://example.local/BEL-VOOSP2HD.ts
 http://example.local/BEL-VOOSPO3.ts
 #EXTINF:-1 tvg-chno="122750" tvg-name="VOOsport World 3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122750_ll_h9_aa.png" group-title="Belgium" tvg-id="VOOSP3HD" tvc-guide-stationid="122750",VOOsport World 3 HD
 http://example.local/BEL-VOOSP3HD.ts
-#EXTINF:-1 tvg-chno="66616" tvg-name="VOX" tvg-logo="https://zap2it.tmsimg.com/assets/s66616_ll_h9_ab.png" group-title="Belgium" tvg-id="VOXGERH" tvc-guide-stationid="66616",VOX
-http://example.local/BEL-VOXGERH.ts
 #EXTINF:-1 tvg-chno="83958" tvg-name="VOX" tvg-logo="https://zap2it.tmsimg.com/assets/s83958_ll_h9_ab.png" group-title="Belgium" tvg-id="VOXOST" tvc-guide-stationid="83958",VOX
 http://example.local/BEL-VOXOST.ts
+#EXTINF:-1 tvg-chno="66616" tvg-name="VOX" tvg-logo="https://zap2it.tmsimg.com/assets/s66616_ll_h9_ab.png" group-title="Belgium" tvg-id="VOXGERH" tvc-guide-stationid="66616",VOX
+http://example.local/BEL-VOXGERH.ts
 #EXTINF:-1 tvg-chno="113043" tvg-name="VOXup" tvg-logo="https://zap2it.tmsimg.com/assets/s113043_ll_h9_ab.png" group-title="Belgium" tvg-id="VOXUP" tvc-guide-stationid="113043",VOXup
 http://example.local/BEL-VOXUP.ts
 #EXTINF:-1 tvg-chno="110976" tvg-name="VRT 1" tvg-logo="https://zap2it.tmsimg.com/assets/s110976_ll_h15_ag.png" group-title="Belgium" tvg-id="VRT1BE" tvc-guide-stationid="110976",VRT 1
@@ -2191,10 +2181,10 @@ http://example.local/BEL-VTMGOLD.ts
 http://example.local/BEL-VTMGOHD.ts
 #EXTINF:-1 tvg-chno="116080" tvg-name="VTM HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116080_ll_h15_ab.png" group-title="Belgium" tvg-id="VTMBEHD" tvc-guide-stationid="116080",VTM HD
 http://example.local/BEL-VTMBEHD.ts
-#EXTINF:-1 tvg-chno="116303" tvg-name="VTM XMAS" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002B36RD.png" group-title="Belgium" tvg-id="VTMLIFE" tvc-guide-stationid="116303",VTM XMAS
-http://example.local/BEL-VTMLIFE.ts
-#EXTINF:-1 tvg-chno="116574" tvg-name="VTM XMAS HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002B36E1.png" group-title="Belgium" tvg-id="VTMLIHD" tvc-guide-stationid="116574",VTM XMAS HD
-http://example.local/BEL-VTMLIHD.ts
+#EXTINF:-1 tvg-chno="116303" tvg-name="VTM Series" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RB12D.png" group-title="Belgium" tvg-id="VTMSER" tvc-guide-stationid="116303",VTM Series
+http://example.local/BEL-VTMSER.ts
+#EXTINF:-1 tvg-chno="116574" tvg-name="VTM Series HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002RB1C7.png" group-title="Belgium" tvg-id="VTMSEHD" tvc-guide-stationid="116574",VTM Series HD
+http://example.local/BEL-VTMSEHD.ts
 #EXTINF:-1 tvg-chno="116983" tvg-name="Védia" group-title="Belgium" tvg-id="VEDIABF" tvc-guide-stationid="116983",Védia
 http://example.local/BEL-VEDIABF.ts
 #EXTINF:-1 tvg-chno="126363" tvg-name="W Sport HD" tvg-logo="https://zap2it.tmsimg.com/assets/s126363_ll_h15_ab.png" group-title="Belgium" tvg-id="WSPORT" tvc-guide-stationid="126363",W Sport HD
@@ -2289,8 +2279,6 @@ http://example.local/BEL-ZDFGERH.ts
 http://example.local/BEL-INFOGEH.ts
 #EXTINF:-1 tvg-chno="83543" tvg-name="ZDFinfo HD" tvg-logo="https://logos.jesmann.com/ZDFINHD.png" group-title="Belgium" tvg-id="ZDFINHD" tvc-guide-stationid="83543",ZDFinfo HD
 http://example.local/BEL-ZDFINHD.ts
-#EXTINF:-1 tvg-chno="67216" tvg-name="ZDFneo" tvg-logo="https://zap2it.tmsimg.com/assets/s67216_ll_h15_ab.png" group-title="Belgium" tvg-id="ZDFNGEH" tvc-guide-stationid="67216",ZDFneo
-http://example.local/BEL-ZDFNGEH.ts
 #EXTINF:-1 tvg-chno="90438" tvg-name="ZDFneo HD" tvg-logo="https://logos.jesmann.com/ZDFNGHD.png" group-title="Belgium" tvg-id="ZDFNGHD" tvc-guide-stationid="90438",ZDFneo HD
 http://example.local/BEL-ZDFNGHD.ts
 #EXTINF:-1 tvg-chno="119170" tvg-name="Zwei Music Television HD" tvg-logo="https://zap2it.tmsimg.com/assets/s119170_ll_h9_aa.png" group-title="Belgium" tvg-id="TWOMUTV" tvc-guide-stationid="119170",Zwei Music Television HD
