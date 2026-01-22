@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="32015" tvg-name="" group-title="Canada" tvg-id="YOURTV" tvc-guide-stationid="32015",
-http://example.local/CAN-YOURTV.ts
 #EXTINF:-1 tvg-chno="98639" tvg-name="1 Plus 1 International" tvg-logo="https://zap2it.tmsimg.com/assets/s98639_ll_h15_aa.png" group-title="Canada" tvg-id="1P1INT" tvc-guide-stationid="98639",1 Plus 1 International
 http://example.local/CAN-1P1INT.ts
 #EXTINF:-1 tvg-chno="89446" tvg-name="101.9 CHAI FM (CHAI-FM)" group-title="Canada" tvg-id="CHAIRAD" tvc-guide-stationid="89446",101.9 CHAI FM (CHAI-FM)
@@ -7143,6 +7141,8 @@ http://example.local/CAN-CITSDT.ts
 http://example.local/CAN-YHC.ts
 #EXTINF:-1 tvg-chno="105041" tvg-name="Your World This Week" group-title="Canada" tvg-id="YWTW" tvc-guide-stationid="105041",Your World This Week
 http://example.local/CAN-YWTW.ts
+#EXTINF:-1 tvg-chno="32015" tvg-name="YourTV" group-title="Canada" tvg-id="YOURTV" tvc-guide-stationid="32015",YourTV
+http://example.local/CAN-YOURTV.ts
 #EXTINF:-1 tvg-chno="92069" tvg-name="YourTV Sarnia HD" tvg-logo="https://zap2it.tmsimg.com/assets/s92069_ll_h15_aa.png" group-title="Canada" tvg-id="TVCSAR" tvc-guide-stationid="92069",YourTV Sarnia HD
 http://example.local/CAN-TVCSAR.ts
 #EXTINF:-1 tvg-chno="101209" tvg-name="YouTBell" group-title="Canada" tvg-id="YOUTB" tvc-guide-stationid="101209",YouTBell

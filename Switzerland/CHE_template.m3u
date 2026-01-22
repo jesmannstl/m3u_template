@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="87280" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/assets/s87280_ll_h9_aa.png" group-title="Switzerland" tvg-id="CNCSNHD" tvc-guide-stationid="87280",
-http://example.local/CHE-CNCSNHD.ts
 #EXTINF:-1 tvg-chno="115154" tvg-name="1 FL TV" group-title="Switzerland" tvg-id="1FLTV" tvc-guide-stationid="115154",1 FL TV
 http://example.local/CHE-1FLTV.ts
 #EXTINF:-1 tvg-chno="123063" tvg-name="1+1 International" tvg-logo="https://zap2it.tmsimg.com/assets/s123063_ll_h15_aa.png" group-title="Switzerland" tvg-id="1PLUS1UKR" tvc-guide-stationid="123063",1+1 International
@@ -693,6 +691,8 @@ http://example.local/CHE-CNBCEU.ts
 http://example.local/CHE-CNBCUK.ts
 #EXTINF:-1 tvg-chno="113145" tvg-name="CNBC HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NFJQJ.png" group-title="Switzerland" tvg-id="CNBCEHD" tvc-guide-stationid="113145",CNBC HD
 http://example.local/CHE-CNBCEHD.ts
+#EXTINF:-1 tvg-chno="87280" tvg-name="CNCSNHD" tvg-logo="https://zap2it.tmsimg.com/assets/s87280_ll_h9_aa.png" group-title="Switzerland" tvg-id="CNCSNHD" tvc-guide-stationid="87280",CNCSNHD
+http://example.local/CHE-CNCSNHD.ts
 #EXTINF:-1 tvg-chno="52091" tvg-name="CNews" tvg-logo="https://zap2it.tmsimg.com/assets/s52091_ll_h15_aa.png" group-title="Switzerland" tvg-id="CNEWSFR" tvc-guide-stationid="52091",CNews
 http://example.local/CHE-CNEWSFR.ts
 #EXTINF:-1 tvg-chno="90511" tvg-name="CNews HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90511_ll_h15_aa.png" group-title="Switzerland" tvg-id="CNEWSHD" tvc-guide-stationid="90511",CNews HD

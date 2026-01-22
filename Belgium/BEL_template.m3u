@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="130146" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/assets/s130146_ll_h9_ab.png" group-title="Belgium" tvg-id="QMAXHIT" tvc-guide-stationid="130146",
-http://example.local/BEL-QMAXHIT.ts
 #EXTINF:-1 tvg-chno="53409" tvg-name="1-2-3.tv" tvg-logo="https://zap2it.tmsimg.com/assets/s53409_ll_h15_ac.png" group-title="Belgium" tvg-id="123TVGR" tvc-guide-stationid="53409",1-2-3.tv
 http://example.local/BEL-123TVGR.ts
 #EXTINF:-1 tvg-chno="90494" tvg-name="1-2-3.tv HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002F84SJ.png" group-title="Belgium" tvg-id="123TVGH" tvc-guide-stationid="90494",1-2-3.tv HD
@@ -1513,6 +1511,8 @@ http://example.local/BEL-PUBSENH.ts
 http://example.local/BEL-QMUSICTV.ts
 #EXTINF:-1 tvg-chno="122723" tvg-name="Q-music HD" tvg-logo="https://zap2it.tmsimg.com/assets/s122723_ll_h15_aa.png" group-title="Belgium" tvg-id="QMUSHD" tvc-guide-stationid="122723",Q-music HD
 http://example.local/BEL-QMUSHD.ts
+#EXTINF:-1 tvg-chno="130146" tvg-name="QMAXHIT" tvg-logo="https://zap2it.tmsimg.com/assets/s130146_ll_h9_ab.png" group-title="Belgium" tvg-id="QMAXHIT" tvc-guide-stationid="130146",QMAXHIT
+http://example.local/BEL-QMAXHIT.ts
 #EXTINF:-1 tvg-chno="116504" tvg-name="Qu4tre HD" tvg-logo="https://zap2it.tmsimg.com/assets/s116504_ll_h15_aa.png" group-title="Belgium" tvg-id="QU4TRE" tvc-guide-stationid="116504",Qu4tre HD
 http://example.local/BEL-QU4TRE.ts
 #EXTINF:-1 tvg-chno="62391" tvg-name="Quest" tvg-logo="https://zap2it.tmsimg.com/assets/s62391_ll_h15_ae.png" group-title="Belgium" tvg-id="QUEST" tvc-guide-stationid="62391",Quest

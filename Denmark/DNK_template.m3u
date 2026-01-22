@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="87800" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/assets/s87800_ll_h15_ab.png" group-title="Denmark" tvg-id="TV3HDK" tvc-guide-stationid="87800",
-http://example.local/DNK-TV3HDK.ts
 #EXTINF:-1 tvg-chno="87692" tvg-name="6'eren" tvg-logo="https://zap2it.tmsimg.com/assets/s87692_ll_h15_ab.png" group-title="Denmark" tvg-id="6EREN" tvc-guide-stationid="87692",6'eren
 http://example.local/DNK-6EREN.ts
 #EXTINF:-1 tvg-chno="87694" tvg-name="6'eren HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87694_ll_h15_ab.png" group-title="Denmark" tvg-id="6ERENHD" tvc-guide-stationid="87694",6'eren HD
@@ -235,6 +233,8 @@ http://example.local/DNK-TV3PLHD.ts
 http://example.local/DNK-TV3SP1.ts
 #EXTINF:-1 tvg-chno="87812" tvg-name="TV3 Sport 1 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s87812_ll_h9_aa.png" group-title="Denmark" tvg-id="TV3SP1H" tvc-guide-stationid="87812",TV3 Sport 1 HD
 http://example.local/DNK-TV3SP1H.ts
+#EXTINF:-1 tvg-chno="87800" tvg-name="TV3HDK" tvg-logo="https://zap2it.tmsimg.com/assets/s87800_ll_h15_ab.png" group-title="Denmark" tvg-id="TV3HDK" tvc-guide-stationid="87800",TV3HDK
+http://example.local/DNK-TV3HDK.ts
 #EXTINF:-1 tvg-chno="104335" tvg-name="TV4" tvg-logo="https://zap2it.tmsimg.com/assets/s104335_ll_h15_aa.png" group-title="Denmark" tvg-id="TV4SAP" tvc-guide-stationid="104335",TV4
 http://example.local/DNK-TV4SAP.ts
 #EXTINF:-1 tvg-chno="54090" tvg-name="TV4" tvg-logo="https://zap2it.tmsimg.com/assets/s54090_ll_h15_aa.png" group-title="Denmark" tvg-id="TV4SWED" tvc-guide-stationid="54090",TV4

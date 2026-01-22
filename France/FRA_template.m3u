@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="87280" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/assets/s87280_ll_h9_aa.png" group-title="France" tvg-id="CNCSNHD" tvc-guide-stationid="87280",
-http://example.local/FRA-CNCSNHD.ts
 #EXTINF:-1 tvg-chno="53409" tvg-name="1-2-3.tv" tvg-logo="https://zap2it.tmsimg.com/assets/s53409_ll_h15_ac.png" group-title="France" tvg-id="123TVGR" tvc-guide-stationid="53409",1-2-3.tv
 http://example.local/FRA-123TVGR.ts
 #EXTINF:-1 tvg-chno="90494" tvg-name="1-2-3.tv HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002F84SJ.png" group-title="France" tvg-id="123TVGH" tvc-guide-stationid="90494",1-2-3.tv HD
@@ -351,6 +349,8 @@ http://example.local/FRA-CMTVPOR.ts
 http://example.local/FRA-CNBCEU.ts
 #EXTINF:-1 tvg-chno="113145" tvg-name="CNBC HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NFJQJ.png" group-title="France" tvg-id="CNBCEHD" tvc-guide-stationid="113145",CNBC HD
 http://example.local/FRA-CNBCEHD.ts
+#EXTINF:-1 tvg-chno="87280" tvg-name="CNCSNHD" tvg-logo="https://zap2it.tmsimg.com/assets/s87280_ll_h9_aa.png" group-title="France" tvg-id="CNCSNHD" tvc-guide-stationid="87280",CNCSNHD
+http://example.local/FRA-CNCSNHD.ts
 #EXTINF:-1 tvg-chno="52091" tvg-name="CNews" tvg-logo="https://zap2it.tmsimg.com/assets/s52091_ll_h15_aa.png" group-title="France" tvg-id="CNEWSFR" tvc-guide-stationid="52091",CNews
 http://example.local/FRA-CNEWSFR.ts
 #EXTINF:-1 tvg-chno="90511" tvg-name="CNews HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90511_ll_h15_aa.png" group-title="France" tvg-id="CNEWSHD" tvc-guide-stationid="90511",CNews HD

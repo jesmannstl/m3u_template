@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="83371" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/assets/s83371_ll_h15_ac.png" group-title="Sweden" tvg-id="IDSWE" tvc-guide-stationid="83371",
-http://example.local/SWE-IDSWE.ts
 #EXTINF:-1 tvg-chno="66621" tvg-name="3sat" tvg-logo="https://zap2it.tmsimg.com/assets/s66621_ll_h15_ac.png" group-title="Sweden" tvg-id="3SATGEH" tvc-guide-stationid="66621",3sat
 http://example.local/SWE-3SATGEH.ts
 #EXTINF:-1 tvg-chno="27136" tvg-name="Al Jazeera" tvg-logo="https://zap2it.tmsimg.com/assets/s27136_ll_h15_aa.png" group-title="Sweden" tvg-id="ALJAZ" tvc-guide-stationid="27136",Al Jazeera
@@ -153,6 +151,8 @@ http://example.local/SWE-HORSECT.ts
 http://example.local/SWE-HRHF.ts
 #EXTINF:-1 tvg-chno="77390" tvg-name="HRT1" tvg-logo="https://zap2it.tmsimg.com/assets/s77390_ll_h15_aa.png" group-title="Sweden" tvg-id="HRT1" tvc-guide-stationid="77390",HRT1
 http://example.local/SWE-HRT1.ts
+#EXTINF:-1 tvg-chno="83371" tvg-name="IDSWE" tvg-logo="https://zap2it.tmsimg.com/assets/s83371_ll_h15_ac.png" group-title="Sweden" tvg-id="IDSWE" tvc-guide-stationid="83371",IDSWE
+http://example.local/SWE-IDSWE.ts
 #EXTINF:-1 tvg-chno="78629" tvg-name="Kanal 10" tvg-logo="https://zap2it.tmsimg.com/assets/s78629_ll_h15_aa.png" group-title="Sweden" tvg-id="KANAL10" tvc-guide-stationid="78629",Kanal 10
 http://example.local/SWE-KANAL10.ts
 #EXTINF:-1 tvg-chno="76825" tvg-name="Kanal 11" tvg-logo="https://zap2it.tmsimg.com/assets/s76825_ll_h15_ab.png" group-title="Sweden" tvg-id="KANAL11" tvc-guide-stationid="76825",Kanal 11

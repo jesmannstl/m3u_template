@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="102091" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/assets/s102091_ll_h15_af.png" group-title="Norway" tvg-id="TV2NKHD" tvc-guide-stationid="102091",
-http://example.local/NOR-TV2NKHD.ts
-#EXTINF:-1 tvg-chno="90808" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/assets/s90808_ll_h15_ac.png" group-title="Norway" tvg-id="VIGOLFN" tvc-guide-stationid="90808",
-http://example.local/NOR-VIGOLFN.ts
 #EXTINF:-1 tvg-chno="66621" tvg-name="3sat" tvg-logo="https://zap2it.tmsimg.com/assets/s66621_ll_h15_ac.png" group-title="Norway" tvg-id="3SATGEH" tvc-guide-stationid="66621",3sat
 http://example.local/NOR-3SATGEH.ts
 #EXTINF:-1 tvg-chno="83545" tvg-name="3sat HD" tvg-logo="https://logos.jesmann.com/3SATHD.png" group-title="Norway" tvg-id="3SATHD" tvc-guide-stationid="83545",3sat HD
@@ -359,6 +355,8 @@ http://example.local/NOR-TV2SP2.ts
 http://example.local/NOR-TV2SPT1.ts
 #EXTINF:-1 tvg-chno="90778" tvg-name="TV2 Sport Premium 2" tvg-logo="https://zap2it.tmsimg.com/assets/s90778_ll_h15_ac.png" group-title="Norway" tvg-id="TV2SPR2" tvc-guide-stationid="90778",TV2 Sport Premium 2
 http://example.local/NOR-TV2SPR2.ts
+#EXTINF:-1 tvg-chno="102091" tvg-name="TV2NKHD" tvg-logo="https://zap2it.tmsimg.com/assets/s102091_ll_h15_af.png" group-title="Norway" tvg-id="TV2NKHD" tvc-guide-stationid="102091",TV2NKHD
+http://example.local/NOR-TV2NKHD.ts
 #EXTINF:-1 tvg-chno="90052" tvg-name="TV3" tvg-logo="https://zap2it.tmsimg.com/assets/s90052_ll_h15_aa.png" group-title="Norway" tvg-id="TV3NO" tvc-guide-stationid="90052",TV3
 http://example.local/NOR-TV3NO.ts
 #EXTINF:-1 tvg-chno="90785" tvg-name="TV3 HD" tvg-logo="https://zap2it.tmsimg.com/assets/s90785_ll_h15_aa.png" group-title="Norway" tvg-id="TV3NRHD" tvc-guide-stationid="90785",TV3 HD
@@ -445,6 +443,8 @@ http://example.local/NOR-VISPOR2.ts
 http://example.local/NOR-VISPOR3.ts
 #EXTINF:-1 tvg-chno="110060" tvg-name="Viasat Sport Plus" tvg-logo="https://zap2it.tmsimg.com/assets/s110060_ll_h9_aa.png" group-title="Norway" tvg-id="VIAPLUS" tvc-guide-stationid="110060",Viasat Sport Plus
 http://example.local/NOR-VIAPLUS.ts
+#EXTINF:-1 tvg-chno="90808" tvg-name="VIGOLFN" tvg-logo="https://zap2it.tmsimg.com/assets/s90808_ll_h15_ac.png" group-title="Norway" tvg-id="VIGOLFN" tvc-guide-stationid="90808",VIGOLFN
+http://example.local/NOR-VIGOLFN.ts
 #EXTINF:-1 tvg-chno="136192" tvg-name="Vision Sverige" tvg-logo="https://zap2it.tmsimg.com/assets/s136192_ll_h15_ab.png" group-title="Norway" tvg-id="VISIOSV" tvc-guide-stationid="136192",Vision Sverige
 http://example.local/NOR-VISIOSV.ts
 #EXTINF:-1 tvg-chno="82376" tvg-name="Visjon Norge HD" tvg-logo="https://zap2it.tmsimg.com/assets/s82376_ll_h15_ab.png" group-title="Norway" tvg-id="VISNORG" tvc-guide-stationid="82376",Visjon Norge HD

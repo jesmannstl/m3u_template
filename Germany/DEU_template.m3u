@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="87280" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/assets/s87280_ll_h9_aa.png" group-title="Germany" tvg-id="CNCSNHD" tvc-guide-stationid="87280",
-http://example.local/DEU-CNCSNHD.ts
-#EXTINF:-1 tvg-chno="115243" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/assets/s115243_ll_h9_ac.png" group-title="Germany" tvg-id="ALTRAD" tvc-guide-stationid="115243",
-http://example.local/DEU-ALTRAD.ts
 #EXTINF:-1 tvg-chno="114727" tvg-name="#dabeiTV" tvg-logo="https://zap2it.tmsimg.com/assets/s114727_ll_h15_ab.png" group-title="Germany" tvg-id="DTAGDAB" tvc-guide-stationid="114727",#dabeiTV
 http://example.local/DEU-DTAGDAB.ts
 #EXTINF:-1 tvg-chno="159597" tvg-name="089 Kult" group-title="Germany" tvg-id="089KULT" tvc-guide-stationid="159597",089 Kult
@@ -163,6 +159,8 @@ http://example.local/DEU-ALLGAUN.ts
 http://example.local/DEU-ALLGHIT.ts
 #EXTINF:-1 tvg-chno="115289" tvg-name="Alternative FM" tvg-logo="https://zap2it.tmsimg.com/assets/s115289_ll_h9_aa.png" group-title="Germany" tvg-id="ALTERFM" tvc-guide-stationid="115289",Alternative FM
 http://example.local/DEU-ALTERFM.ts
+#EXTINF:-1 tvg-chno="115243" tvg-name="ALTRAD" tvg-logo="https://zap2it.tmsimg.com/assets/s115243_ll_h9_ac.png" group-title="Germany" tvg-id="ALTRAD" tvc-guide-stationid="115243",ALTRAD
+http://example.local/DEU-ALTRAD.ts
 #EXTINF:-1 tvg-chno="124325" tvg-name="Amasia" group-title="Germany" tvg-id="AMASIA" tvc-guide-stationid="124325",Amasia
 http://example.local/DEU-AMASIA.ts
 #EXTINF:-1 tvg-chno="53426" tvg-name="Andalucia TV" tvg-logo="https://zap2it.tmsimg.com/assets/s53426_ll_h9_aa.png" group-title="Germany" tvg-id="ANDALTV" tvc-guide-stationid="53426",Andalucia TV
@@ -723,6 +721,8 @@ http://example.local/DEU-CNBCEU.ts
 http://example.local/DEU-CNBCUK.ts
 #EXTINF:-1 tvg-chno="113145" tvg-name="CNBC HD" tvg-logo="https://zap2it.tmsimg.com/assets/GNLZZGG002NFJQJ.png" group-title="Germany" tvg-id="CNBCEHD" tvc-guide-stationid="113145",CNBC HD
 http://example.local/DEU-CNBCEHD.ts
+#EXTINF:-1 tvg-chno="87280" tvg-name="CNCSNHD" tvg-logo="https://zap2it.tmsimg.com/assets/s87280_ll_h9_aa.png" group-title="Germany" tvg-id="CNCSNHD" tvc-guide-stationid="87280",CNCSNHD
+http://example.local/DEU-CNCSNHD.ts
 #EXTINF:-1 tvg-chno="52091" tvg-name="CNews" tvg-logo="https://zap2it.tmsimg.com/assets/s52091_ll_h15_aa.png" group-title="Germany" tvg-id="CNEWSFR" tvc-guide-stationid="52091",CNews
 http://example.local/DEU-CNEWSFR.ts
 #EXTINF:-1 tvg-chno="68053" tvg-name="CNN HD" tvg-logo="https://zap2it.tmsimg.com/assets/s68053_ll_h15_aa.png" group-title="Germany" tvg-id="CNNEUVM" tvc-guide-stationid="68053",CNN HD

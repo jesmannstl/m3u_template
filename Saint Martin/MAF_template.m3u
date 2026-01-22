@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="87280" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/assets/s87280_ll_h9_aa.png" group-title="Saint Martin" tvg-id="CNCSNHD" tvc-guide-stationid="87280",
-http://example.local/MAF-CNCSNHD.ts
 #EXTINF:-1 tvg-chno="18955" tvg-name="A&E" tvg-logo="https://zap2it.tmsimg.com/assets/s10035_ll_h15_ab.png" group-title="Saint Martin" tvg-id="AEMX" tvc-guide-stationid="18955",A&E
 http://example.local/MAF-AEMX.ts
 #EXTINF:-1 tvg-chno="10035" tvg-name="A&E" tvg-logo="https://logos.jesmann.com/aetv.png" group-title="Saint Martin" tvg-id="AETV" tvc-guide-stationid="10035",A&E
@@ -71,6 +69,8 @@ http://example.local/MAF-CCL.ts
 http://example.local/MAF-CNPEMHD.ts
 #EXTINF:-1 tvg-chno="61718" tvg-name="CNC3" tvg-logo="https://zap2it.tmsimg.com/assets/s61718_ll_h9_aa.png" group-title="Saint Martin" tvg-id="CNC3" tvc-guide-stationid="61718",CNC3
 http://example.local/MAF-CNC3.ts
+#EXTINF:-1 tvg-chno="87280" tvg-name="CNCSNHD" tvg-logo="https://zap2it.tmsimg.com/assets/s87280_ll_h9_aa.png" group-title="Saint Martin" tvg-id="CNCSNHD" tvc-guide-stationid="87280",CNCSNHD
+http://example.local/MAF-CNCSNHD.ts
 #EXTINF:-1 tvg-chno="52091" tvg-name="CNews" tvg-logo="https://zap2it.tmsimg.com/assets/s52091_ll_h15_aa.png" group-title="Saint Martin" tvg-id="CNEWSFR" tvc-guide-stationid="52091",CNews
 http://example.local/MAF-CNEWSFR.ts
 #EXTINF:-1 tvg-chno="27773" tvg-name="CNN en Español" tvg-logo="https://zap2it.tmsimg.com/assets/s17054_ll_h15_ab.png" group-title="Saint Martin" tvg-id="CNNEM" tvc-guide-stationid="27773",CNN en Español

@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="118669" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/assets/s118669_ll_h9_ab.png" group-title="Poland" tvg-id="FOXHDPL" tvc-guide-stationid="118669",
-http://example.local/POL-FOXHDPL.ts
-#EXTINF:-1 tvg-chno="118671" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/assets/s118671_ll_h15_ab.png" group-title="Poland" tvg-id="FOXCOPL" tvc-guide-stationid="118671",
-http://example.local/POL-FOXCOPL.ts
-#EXTINF:-1 tvg-chno="120539" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/assets/s120539_ll_h15_aa.png" group-title="Poland" tvg-id="FOXCOPLSD" tvc-guide-stationid="120539",
-http://example.local/POL-FOXCOPLSD.ts
 #EXTINF:-1 tvg-chno="98639" tvg-name="1 Plus 1 International" tvg-logo="https://zap2it.tmsimg.com/assets/s98639_ll_h15_aa.png" group-title="Poland" tvg-id="1P1INT" tvc-guide-stationid="98639",1 Plus 1 International
 http://example.local/POL-1P1INT.ts
 #EXTINF:-1 tvg-chno="123063" tvg-name="1+1 International" tvg-logo="https://zap2it.tmsimg.com/assets/s123063_ll_h15_aa.png" group-title="Poland" tvg-id="1PLUS1UKR" tvc-guide-stationid="123063",1+1 International
@@ -637,6 +631,12 @@ http://example.local/POL-FOKUSHD.ts
 http://example.local/POL-FOKUSSD.ts
 #EXTINF:-1 tvg-chno="117115" tvg-name="Food Network HD" tvg-logo="https://zap2it.tmsimg.com/assets/s117115_ll_h15_aa.png" group-title="Poland" tvg-id="FONEPLH" tvc-guide-stationid="117115",Food Network HD
 http://example.local/POL-FONEPLH.ts
+#EXTINF:-1 tvg-chno="118671" tvg-name="FOXCOPL" tvg-logo="https://zap2it.tmsimg.com/assets/s118671_ll_h15_ab.png" group-title="Poland" tvg-id="FOXCOPL" tvc-guide-stationid="118671",FOXCOPL
+http://example.local/POL-FOXCOPL.ts
+#EXTINF:-1 tvg-chno="120539" tvg-name="FOXCOPLSD" tvg-logo="https://zap2it.tmsimg.com/assets/s120539_ll_h15_aa.png" group-title="Poland" tvg-id="FOXCOPLSD" tvc-guide-stationid="120539",FOXCOPLSD
+http://example.local/POL-FOXCOPLSD.ts
+#EXTINF:-1 tvg-chno="118669" tvg-name="FOXHDPL" tvg-logo="https://zap2it.tmsimg.com/assets/s118669_ll_h9_ab.png" group-title="Poland" tvg-id="FOXHDPL" tvc-guide-stationid="118669",FOXHDPL
+http://example.local/POL-FOXHDPL.ts
 #EXTINF:-1 tvg-chno="24463" tvg-name="France 2" tvg-logo="https://zap2it.tmsimg.com/assets/s24463_ll_h15_aa.png" group-title="Poland" tvg-id="FR2" tvc-guide-stationid="24463",France 2
 http://example.local/POL-FR2.ts
 #EXTINF:-1 tvg-chno="58685" tvg-name="France 24" tvg-logo="https://zap2it.tmsimg.com/assets/s58685_ll_h15_aa.png" group-title="Poland" tvg-id="FRNC24" tvc-guide-stationid="58685",France 24
