@@ -1057,6 +1057,8 @@ http://example.local/USA-MLBATH.ts
 http://example.local/USA-ATINFO.ts
 #EXTINF:-1 tvg-chno="111023" tvg-name="Atlanta 21" group-title="United States" tvg-id="ATL21" tvc-guide-stationid="111023",Atlanta 21
 http://example.local/USA-ATL21.ts
+#EXTINF:-1 tvg-chno="136334" tvg-name="Atlanta Braves" tvg-logo="https://emby.tmsimg.com/assets/s136334_ll_h15_ab.png" group-title="United States" tvg-id="ATLB" tvc-guide-stationid="136334",Atlanta Braves
+http://example.local/USA-ATLB.ts
 #EXTINF:-1 tvg-chno="102262" tvg-name="Atlanta Braves: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbatl.png" group-title="United States" tvg-id="MLBATL" tvc-guide-stationid="102262",Atlanta Braves: MLB Extra Innings
 http://example.local/USA-MLBATL.ts
 #EXTINF:-1 tvg-chno="104880" tvg-name="Atlanta Hawks: NBA League Pass" tvg-logo="https://logos.jesmann.com/nbaatl.png" group-title="United States" tvg-id="NBAATL" tvc-guide-stationid="104880",Atlanta Hawks: NBA League Pass
@@ -2671,6 +2673,8 @@ http://example.local/USA-CBNNEWS.ts
 http://example.local/USA-CBOCH.ts
 #EXTINF:-1 tvg-chno="52235" tvg-name="CBOFT-DT (SRC)" tvg-logo="https://emby.tmsimg.com/assets/s52235_ll_h15_ab.png" group-title="United States" tvg-id="CBOFTDT" tvc-guide-stationid="52235",CBOFT-DT (SRC)
 http://example.local/USA-CBOFTDT.ts
+#EXTINF:-1 tvg-chno="152581" tvg-name="CBS 4K (CBS)" tvg-logo="https://emby.tmsimg.com/assets/s152581_ll_h15_aa.png" group-title="United States" tvg-id="CBS4K" tvc-guide-stationid="152581",CBS 4K (CBS)
+http://example.local/USA-CBS4K.ts
 #EXTINF:-1 tvg-chno="159991" tvg-name="CBS Atlanta (Atlanta News First)" group-title="United States" tvg-id="CBSATL" tvc-guide-stationid="159991",CBS Atlanta (Atlanta News First)
 http://example.local/USA-CBSATL.ts
 #EXTINF:-1 tvg-chno="160093" tvg-name="CBS Kansas City (KCTV5)" group-title="United States" tvg-id="CBSKCTV" tvc-guide-stationid="160093",CBS Kansas City (KCTV5)
@@ -3177,6 +3181,8 @@ http://example.local/USA-CIMTDT.ts
 http://example.local/USA-CINC1.ts
 #EXTINF:-1 tvg-chno="98470" tvg-name="Cincinnati PEG2" group-title="United States" tvg-id="CINC2" tvc-guide-stationid="98470",Cincinnati PEG2
 http://example.local/USA-CINC2.ts
+#EXTINF:-1 tvg-chno="136323" tvg-name="Cincinnati Reds" tvg-logo="https://emby.tmsimg.com/assets/s136323_ll_h15_ab.png" group-title="United States" tvg-id="CINR" tvc-guide-stationid="136323",Cincinnati Reds
+http://example.local/USA-CINR.ts
 #EXTINF:-1 tvg-chno="102279" tvg-name="Cincinnati Reds: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbcin.png" group-title="United States" tvg-id="MLBCIN" tvc-guide-stationid="102279",Cincinnati Reds: MLB Extra Innings
 http://example.local/USA-MLBCIN.ts
 #EXTINF:-1 tvg-chno="123938" tvg-name="Cine Club" tvg-logo="https://emby.tmsimg.com/assets/s123938_ll_h15_ab.png" group-title="United States" tvg-id="CINCLB" tvc-guide-stationid="123938",Cine Club
@@ -4815,6 +4821,8 @@ http://example.local/USA-DESTHD.ts
 http://example.local/USA-NBADET.ts
 #EXTINF:-1 tvg-chno="100278" tvg-name="Detroit Red Wings: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhldet.png" group-title="United States" tvg-id="NHLDET" tvc-guide-stationid="100278",Detroit Red Wings: NHL Center Ice
 http://example.local/USA-NHLDET.ts
+#EXTINF:-1 tvg-chno="136329" tvg-name="Detroit Tigers" tvg-logo="https://emby.tmsimg.com/assets/s136329_ll_h15_ab.png" group-title="United States" tvg-id="DETT" tvc-guide-stationid="136329",Detroit Tigers
+http://example.local/USA-DETT.ts
 #EXTINF:-1 tvg-chno="102276" tvg-name="Detroit Tigers: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbdet.png" group-title="United States" tvg-id="MLBDET" tvc-guide-stationid="102276",Detroit Tigers: MLB Extra Innings
 http://example.local/USA-MLBDET.ts
 #EXTINF:-1 tvg-chno="100167" tvg-name="Dharm Sandesh" group-title="United States" tvg-id="DHARMSAN" tvc-guide-stationid="100167",Dharm Sandesh
@@ -19371,6 +19379,8 @@ http://example.local/USA-KANALDL.ts
 http://example.local/USA-KANALDP.ts
 #EXTINF:-1 tvg-chno="33311" tvg-name="KANG-LP (UNIMAS)" tvg-logo="https://emby.tmsimg.com/assets/s29058_h3_aa.png" group-title="United States" tvg-id="KANGLP" tvc-guide-stationid="33311",KANG-LP (UNIMAS)
 http://example.local/USA-KANGLP.ts
+#EXTINF:-1 tvg-chno="136331" tvg-name="Kansas City Royals" tvg-logo="https://emby.tmsimg.com/assets/s136331_ll_h15_ab.png" group-title="United States" tvg-id="ROYL" tvc-guide-stationid="136331",Kansas City Royals
+http://example.local/USA-ROYL.ts
 #EXTINF:-1 tvg-chno="102294" tvg-name="Kansas City Royals: MLB Extra Innings" tvg-logo="https://emby.tmsimg.com/assets/s102294_ll_h15_aa.png" group-title="United States" tvg-id="MLBKC" tvc-guide-stationid="102294",Kansas City Royals: MLB Extra Innings
 http://example.local/USA-MLBKC.ts
 #EXTINF:-1 tvg-chno="75621" tvg-name="Kapatid" tvg-logo="https://emby.tmsimg.com/assets/s75621_ll_h15_aa.png" group-title="United States" tvg-id="KAPATID" tvc-guide-stationid="75621",Kapatid
@@ -26713,7 +26723,7 @@ http://example.local/USA-KPAO22H.ts
 http://example.local/USA-KPAX.ts
 #EXTINF:-1 tvg-chno="34654" tvg-name="KPAX-DT (CBS)" tvg-logo="https://logos.jesmann.com/kpaxdt.png" group-title="United States" tvg-id="KPAXDT" tvc-guide-stationid="34654",KPAX-DT (CBS)
 http://example.local/USA-KPAXDT.ts
-#EXTINF:-1 tvg-chno="52647" tvg-name="KPAX-DT2" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG00253HKR.png" group-title="United States" tvg-id="KPAXDT2" tvc-guide-stationid="52647",KPAX-DT2
+#EXTINF:-1 tvg-chno="52647" tvg-name="KPAX-DT2" tvg-logo="https://logos.jesmann.com/kpaxdt2.png" group-title="United States" tvg-id="KPAXDT2" tvc-guide-stationid="52647",KPAX-DT2
 http://example.local/USA-KPAXDT2.ts
 #EXTINF:-1 tvg-chno="102027" tvg-name="KPAX-DT3 (GRIT)" tvg-logo="https://emby.tmsimg.com/assets/s89922_h3_aa.png" group-title="United States" tvg-id="KPAXDT3" tvc-guide-stationid="102027",KPAX-DT3 (GRIT)
 http://example.local/USA-KPAXDT3.ts
@@ -28287,7 +28297,7 @@ http://example.local/USA-KRTRFM.ts
 http://example.local/USA-KRTV.ts
 #EXTINF:-1 tvg-chno="52220" tvg-name="KRTV-DT (CBS)" tvg-logo="https://logos.jesmann.com/krtvdt.png" group-title="United States" tvg-id="KRTVDT" tvc-guide-stationid="52220",KRTV-DT (CBS)
 http://example.local/USA-KRTVDT.ts
-#EXTINF:-1 tvg-chno="52645" tvg-name="KRTV-DT2" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG00253HKR.png" group-title="United States" tvg-id="KRTVDT2" tvc-guide-stationid="52645",KRTV-DT2
+#EXTINF:-1 tvg-chno="52645" tvg-name="KRTV-DT2" tvg-logo="https://logos.jesmann.com/krtvdt2.png" group-title="United States" tvg-id="KRTVDT2" tvc-guide-stationid="52645",KRTV-DT2
 http://example.local/USA-KRTVDT2.ts
 #EXTINF:-1 tvg-chno="96073" tvg-name="KRTV-DT2 (SD Feed)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG00253HKR.png" group-title="United States" tvg-id="KRTV2SD" tvc-guide-stationid="96073",KRTV-DT2 (SD Feed)
 http://example.local/USA-KRTV2SD.ts
@@ -36109,6 +36119,8 @@ http://example.local/USA-LOOR996.ts
 http://example.local/USA-LSALCTY.ts
 #EXTINF:-1 tvg-chno="107066" tvg-name="Los Altos Public Access" group-title="United States" tvg-id="KMVTLA" tvc-guide-stationid="107066",Los Altos Public Access
 http://example.local/USA-KMVTLA.ts
+#EXTINF:-1 tvg-chno="136333" tvg-name="Los Angeles Angels" tvg-logo="https://emby.tmsimg.com/assets/s136333_ll_h15_ab.png" group-title="United States" tvg-id="ANGL" tvc-guide-stationid="136333",Los Angeles Angels
+http://example.local/USA-ANGL.ts
 #EXTINF:-1 tvg-chno="102282" tvg-name="Los Angeles Angels: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlblaa.png" group-title="United States" tvg-id="MLBLAA" tvc-guide-stationid="102282",Los Angeles Angels: MLB Extra Innings
 http://example.local/USA-MLBLAA.ts
 #EXTINF:-1 tvg-chno="104857" tvg-name="Los Angeles Clippers: NBA League Pass" tvg-logo="https://logos.jesmann.com/nbalac.png" group-title="United States" tvg-id="NBALAC" tvc-guide-stationid="104857",Los Angeles Clippers: NBA League Pass
@@ -36543,6 +36555,8 @@ http://example.local/USA-EMISORA.ts
 http://example.local/USA-MDCTV.ts
 #EXTINF:-1 tvg-chno="104860" tvg-name="Miami Heat: NBA League Pass" tvg-logo="https://logos.jesmann.com/nbamia.png" group-title="United States" tvg-id="NBAMIA" tvc-guide-stationid="104860",Miami Heat: NBA League Pass
 http://example.local/USA-NBAMIA.ts
+#EXTINF:-1 tvg-chno="136330" tvg-name="Miami Marlins" tvg-logo="https://emby.tmsimg.com/assets/s136330_ll_h15_ab.png" group-title="United States" tvg-id="MIAM" tvc-guide-stationid="136330",Miami Marlins
+http://example.local/USA-MIAM.ts
 #EXTINF:-1 tvg-chno="102269" tvg-name="Miami Marlins: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbmia.png" group-title="United States" tvg-id="MLBMIA" tvc-guide-stationid="102269",Miami Marlins: MLB Extra Innings
 http://example.local/USA-MLBMIA.ts
 #EXTINF:-1 tvg-chno="92837" tvg-name="Miami-Dade TV" group-title="United States" tvg-id="MIAMIDA" tvc-guide-stationid="92837",Miami-Dade TV
@@ -36593,6 +36607,8 @@ http://example.local/USA-MILHS.ts
 http://example.local/USA-MDHH.ts
 #EXTINF:-1 tvg-chno="164081" tvg-name="Million Dollar Listing Vault" tvg-logo="https://emby.tmsimg.com/assets/s164081_ll_h15_aa.png" group-title="United States" tvg-id="MDLV" tvc-guide-stationid="164081",Million Dollar Listing Vault
 http://example.local/USA-MDLV.ts
+#EXTINF:-1 tvg-chno="136336" tvg-name="Milwaukee Brewers" tvg-logo="https://emby.tmsimg.com/assets/s136336_ll_h15_ab.png" group-title="United States" tvg-id="BREW" tvc-guide-stationid="136336",Milwaukee Brewers
+http://example.local/USA-BREW.ts
 #EXTINF:-1 tvg-chno="102308" tvg-name="Milwaukee Brewers: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbmil.png" group-title="United States" tvg-id="MLBMIL" tvc-guide-stationid="102308",Milwaukee Brewers: MLB Extra Innings
 http://example.local/USA-MLBMIL.ts
 #EXTINF:-1 tvg-chno="104867" tvg-name="Milwaukee Bucks: NBA League Pass" tvg-logo="https://logos.jesmann.com/nbamil.png" group-title="United States" tvg-id="NBAMIL" tvc-guide-stationid="104867",Milwaukee Bucks: NBA League Pass
@@ -37803,6 +37819,66 @@ http://example.local/USA-NBAFC.ts
 http://example.local/USA-NBAFCH1.ts
 #EXTINF:-1 tvg-chno="32382" tvg-name="NBA HD" tvg-logo="https://emby.tmsimg.com/assets/s62829_ll_h15_ab.png" group-title="United States" tvg-id="NBAHD" tvc-guide-stationid="32382",NBA HD
 http://example.local/USA-NBAHD.ts
+#EXTINF:-1 tvg-chno="17818" tvg-name="NBA League Pass (76ers)" tvg-logo="https://logos.jesmann.com/nbax20.png" group-title="United States" tvg-id="NBAX20" tvc-guide-stationid="17818",NBA League Pass (76ers)
+http://example.local/USA-NBAX20.ts
+#EXTINF:-1 tvg-chno="17799" tvg-name="NBA League Pass (Atlanta Hawks)" tvg-logo="https://logos.jesmann.com/nbax1.png" group-title="United States" tvg-id="NBAX1" tvc-guide-stationid="17799",NBA League Pass (Atlanta Hawks)
+http://example.local/USA-NBAX1.ts
+#EXTINF:-1 tvg-chno="17800" tvg-name="NBA League Pass (Boston Celtics)" tvg-logo="https://logos.jesmann.com/nbax2.png" group-title="United States" tvg-id="NBAX2" tvc-guide-stationid="17800",NBA League Pass (Boston Celtics)
+http://example.local/USA-NBAX2.ts
+#EXTINF:-1 tvg-chno="44898" tvg-name="NBA League Pass (Charlotte Hornets)" tvg-logo="https://logos.jesmann.com/nbax30.png" group-title="United States" tvg-id="NBAX30" tvc-guide-stationid="44898",NBA League Pass (Charlotte Hornets)
+http://example.local/USA-NBAX30.ts
+#EXTINF:-1 tvg-chno="17802" tvg-name="NBA League Pass (Chicago Bulls)" tvg-logo="https://logos.jesmann.com/nbax4.png" group-title="United States" tvg-id="NBAX4" tvc-guide-stationid="17802",NBA League Pass (Chicago Bulls)
+http://example.local/USA-NBAX4.ts
+#EXTINF:-1 tvg-chno="17803" tvg-name="NBA League Pass (Cleveland Cavaliers)" tvg-logo="https://logos.jesmann.com/nbax5.png" group-title="United States" tvg-id="NBAX5" tvc-guide-stationid="17803",NBA League Pass (Cleveland Cavaliers)
+http://example.local/USA-NBAX5.ts
+#EXTINF:-1 tvg-chno="17804" tvg-name="NBA League Pass (Dallas Mavericks)" tvg-logo="https://logos.jesmann.com/nbax6.png" group-title="United States" tvg-id="NBAX6" tvc-guide-stationid="17804",NBA League Pass (Dallas Mavericks)
+http://example.local/USA-NBAX6.ts
+#EXTINF:-1 tvg-chno="17805" tvg-name="NBA League Pass (Denver Nuggets)" tvg-logo="https://logos.jesmann.com/nbax7.png" group-title="United States" tvg-id="NBAX7" tvc-guide-stationid="17805",NBA League Pass (Denver Nuggets)
+http://example.local/USA-NBAX7.ts
+#EXTINF:-1 tvg-chno="17806" tvg-name="NBA League Pass (Detroit Pistons)" tvg-logo="https://logos.jesmann.com/nbax8.png" group-title="United States" tvg-id="NBAX8" tvc-guide-stationid="17806",NBA League Pass (Detroit Pistons)
+http://example.local/USA-NBAX8.ts
+#EXTINF:-1 tvg-chno="17807" tvg-name="NBA League Pass (Golden State Warriors)" tvg-logo="https://logos.jesmann.com/nbax9.png" group-title="United States" tvg-id="NBAX9" tvc-guide-stationid="17807",NBA League Pass (Golden State Warriors)
+http://example.local/USA-NBAX9.ts
+#EXTINF:-1 tvg-chno="17828" tvg-name="NBA League Pass (Grizzlies)" tvg-logo="https://logos.jesmann.com/nbax28.png" group-title="United States" tvg-id="NBAX28" tvc-guide-stationid="17828",NBA League Pass (Grizzlies)
+http://example.local/USA-NBAX28.ts
+#EXTINF:-1 tvg-chno="17808" tvg-name="NBA League Pass (Houston Rockets)" tvg-logo="https://logos.jesmann.com/nbax10.png" group-title="United States" tvg-id="NBAX10" tvc-guide-stationid="17808",NBA League Pass (Houston Rockets)
+http://example.local/USA-NBAX10.ts
+#EXTINF:-1 tvg-chno="17809" tvg-name="NBA League Pass (Indiana Pacers)" tvg-logo="https://logos.jesmann.com/nbax11.png" group-title="United States" tvg-id="NBAX11" tvc-guide-stationid="17809",NBA League Pass (Indiana Pacers)
+http://example.local/USA-NBAX11.ts
+#EXTINF:-1 tvg-chno="17826" tvg-name="NBA League Pass (Jazz)" tvg-logo="https://logos.jesmann.com/nbax27.png" group-title="United States" tvg-id="NBAX27" tvc-guide-stationid="17826",NBA League Pass (Jazz)
+http://example.local/USA-NBAX27.ts
+#EXTINF:-1 tvg-chno="17821" tvg-name="NBA League Pass (Kings)" tvg-logo="https://logos.jesmann.com/nbax23.png" group-title="United States" tvg-id="NBAX23" tvc-guide-stationid="17821",NBA League Pass (Kings)
+http://example.local/USA-NBAX23.ts
+#EXTINF:-1 tvg-chno="17810" tvg-name="NBA League Pass (LA Clippers)" tvg-logo="https://logos.jesmann.com/nbax12.png" group-title="United States" tvg-id="NBAX12" tvc-guide-stationid="17810",NBA League Pass (LA Clippers)
+http://example.local/USA-NBAX12.ts
+#EXTINF:-1 tvg-chno="17811" tvg-name="NBA League Pass (LA Lakers)" tvg-logo="https://logos.jesmann.com/nbax13.png" group-title="United States" tvg-id="NBAX13" tvc-guide-stationid="17811",NBA League Pass (LA Lakers)
+http://example.local/USA-NBAX13.ts
+#EXTINF:-1 tvg-chno="17817" tvg-name="NBA League Pass (Magic)" tvg-logo="https://logos.jesmann.com/nbax19.png" group-title="United States" tvg-id="NBAX19" tvc-guide-stationid="17817",NBA League Pass (Magic)
+http://example.local/USA-NBAX19.ts
+#EXTINF:-1 tvg-chno="17812" tvg-name="NBA League Pass (Miami Heat)" tvg-logo="https://logos.jesmann.com/nbax14.png" group-title="United States" tvg-id="NBAX14" tvc-guide-stationid="17812",NBA League Pass (Miami Heat)
+http://example.local/USA-NBAX14.ts
+#EXTINF:-1 tvg-chno="17813" tvg-name="NBA League Pass (Milwaukee Bucks)" tvg-logo="https://logos.jesmann.com/nbax15.png" group-title="United States" tvg-id="NBAX15" tvc-guide-stationid="17813",NBA League Pass (Milwaukee Bucks)
+http://example.local/USA-NBAX15.ts
+#EXTINF:-1 tvg-chno="17801" tvg-name="NBA League Pass (New Orleans Pelicans)" tvg-logo="https://logos.jesmann.com/nbax3.png" group-title="United States" tvg-id="NBAX3" tvc-guide-stationid="17801",NBA League Pass (New Orleans Pelicans)
+http://example.local/USA-NBAX3.ts
+#EXTINF:-1 tvg-chno="17815" tvg-name="NBA League Pass (NJ Nets)" tvg-logo="https://logos.jesmann.com/nbax17.png" group-title="United States" tvg-id="NBAX17" tvc-guide-stationid="17815",NBA League Pass (NJ Nets)
+http://example.local/USA-NBAX17.ts
+#EXTINF:-1 tvg-chno="17816" tvg-name="NBA League Pass (NY Knicks)" tvg-logo="https://logos.jesmann.com/nbax18.png" group-title="United States" tvg-id="NBAX18" tvc-guide-stationid="17816",NBA League Pass (NY Knicks)
+http://example.local/USA-NBAX18.ts
+#EXTINF:-1 tvg-chno="17824" tvg-name="NBA League Pass (Raptors)" tvg-logo="https://logos.jesmann.com/nbax26.png" group-title="United States" tvg-id="NBAX26" tvc-guide-stationid="17824",NBA League Pass (Raptors)
+http://example.local/USA-NBAX26.ts
+#EXTINF:-1 tvg-chno="17822" tvg-name="NBA League Pass (Spurs)" tvg-logo="https://logos.jesmann.com/nbax24.png" group-title="United States" tvg-id="NBAX24" tvc-guide-stationid="17822",NBA League Pass (Spurs)
+http://example.local/USA-NBAX24.ts
+#EXTINF:-1 tvg-chno="17819" tvg-name="NBA League Pass (Suns)" tvg-logo="https://logos.jesmann.com/nbax21.png" group-title="United States" tvg-id="NBAX21" tvc-guide-stationid="17819",NBA League Pass (Suns)
+http://example.local/USA-NBAX21.ts
+#EXTINF:-1 tvg-chno="17823" tvg-name="NBA League Pass (Thunder)" tvg-logo="https://logos.jesmann.com/nbax25.png" group-title="United States" tvg-id="NBAX25" tvc-guide-stationid="17823",NBA League Pass (Thunder)
+http://example.local/USA-NBAX25.ts
+#EXTINF:-1 tvg-chno="17814" tvg-name="NBA League Pass (Timberwolves)" tvg-logo="https://logos.jesmann.com/nbax16.png" group-title="United States" tvg-id="NBAX16" tvc-guide-stationid="17814",NBA League Pass (Timberwolves)
+http://example.local/USA-NBAX16.ts
+#EXTINF:-1 tvg-chno="17820" tvg-name="NBA League Pass (Trail Blazers)" tvg-logo="https://logos.jesmann.com/nbax22.png" group-title="United States" tvg-id="NBAX22" tvc-guide-stationid="17820",NBA League Pass (Trail Blazers)
+http://example.local/USA-NBAX22.ts
+#EXTINF:-1 tvg-chno="17853" tvg-name="NBA League Pass (Wizards)" tvg-logo="https://logos.jesmann.com/nbax29.png" group-title="United States" tvg-id="NBAX29" tvc-guide-stationid="17853",NBA League Pass (Wizards)
+http://example.local/USA-NBAX29.ts
 #EXTINF:-1 tvg-chno="20810" tvg-name="NBA League Pass 1" tvg-logo="https://emby.tmsimg.com/assets/s20810_ll_h15_ad.png" group-title="United States" tvg-id="TEAM1" tvc-guide-stationid="20810",NBA League Pass 1
 http://example.local/USA-TEAM1.ts
 #EXTINF:-1 tvg-chno="55597" tvg-name="NBA League Pass 1 HD" tvg-logo="https://emby.tmsimg.com/assets/s55597_ll_h15_ad.png" group-title="United States" tvg-id="TMHD1" tvc-guide-stationid="55597",NBA League Pass 1 HD
@@ -42117,6 +42193,8 @@ http://example.local/USA-SEATTLE.ts
 http://example.local/USA-SCCTV.ts
 #EXTINF:-1 tvg-chno="120618" tvg-name="Seattle Kraken: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhlskr.png" group-title="United States" tvg-id="NHLSKR" tvc-guide-stationid="120618",Seattle Kraken: NHL Center Ice
 http://example.local/USA-NHLSKR.ts
+#EXTINF:-1 tvg-chno="136328" tvg-name="Seattle Mariners" tvg-logo="https://emby.tmsimg.com/assets/s136328_ll_h15_ab.png" group-title="United States" tvg-id="SEAM" tvc-guide-stationid="136328",Seattle Mariners
+http://example.local/USA-SEAM.ts
 #EXTINF:-1 tvg-chno="102292" tvg-name="Seattle Mariners: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbsea.png" group-title="United States" tvg-id="MLBSEA" tvc-guide-stationid="102292",Seattle Mariners: MLB Extra Innings
 http://example.local/USA-MLBSEA.ts
 #EXTINF:-1 tvg-chno="93339" tvg-name="Seattle Schools" group-title="United States" tvg-id="SEATSCH" tvc-guide-stationid="93339",Seattle Schools
@@ -43583,6 +43661,8 @@ http://example.local/USA-SPCTV.ts
 http://example.local/USA-LOCSTJ.ts
 #EXTINF:-1 tvg-chno="100210" tvg-name="St. Louis Blues: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhlstl.png" group-title="United States" tvg-id="NHLSTL" tvc-guide-stationid="100210",St. Louis Blues: NHL Center Ice
 http://example.local/USA-NHLSTL.ts
+#EXTINF:-1 tvg-chno="136862" tvg-name="St. Louis Cardinals" tvg-logo="https://emby.tmsimg.com/assets/s136862_ll_h15_ab.png" group-title="United States" tvg-id="CARD" tvc-guide-stationid="136862",St. Louis Cardinals
+http://example.local/USA-CARD.ts
 #EXTINF:-1 tvg-chno="102255" tvg-name="St. Louis Cardinals: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbstl.png" group-title="United States" tvg-id="MLBSTL" tvc-guide-stationid="102255",St. Louis Cardinals: MLB Extra Innings
 http://example.local/USA-MLBSTL.ts
 #EXTINF:-1 tvg-chno="107081" tvg-name="St. Tammany Parish Education Television" group-title="United States" tvg-id="STPSB" tvc-guide-stationid="107081",St. Tammany Parish Education Television
@@ -44419,6 +44499,8 @@ http://example.local/USA-TBAE.ts
 http://example.local/USA-TBAEN.ts
 #EXTINF:-1 tvg-chno="100272" tvg-name="Tampa Bay Lightning: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhltb.png" group-title="United States" tvg-id="NHLTB" tvc-guide-stationid="100272",Tampa Bay Lightning: NHL Center Ice
 http://example.local/USA-NHLTB.ts
+#EXTINF:-1 tvg-chno="136335" tvg-name="Tampa Bay Rays" tvg-logo="https://emby.tmsimg.com/assets/s136335_ll_h15_ab.png" group-title="United States" tvg-id="RAYS" tvc-guide-stationid="136335",Tampa Bay Rays
+http://example.local/USA-RAYS.ts
 #EXTINF:-1 tvg-chno="102265" tvg-name="Tampa Bay Rays: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbtb.png" group-title="United States" tvg-id="MLBTB" tvc-guide-stationid="102265",Tampa Bay Rays: MLB Extra Innings
 http://example.local/USA-MLBTB.ts
 #EXTINF:-1 tvg-chno="55533" tvg-name="Tan Tv" group-title="United States" tvg-id="TANTV" tvc-guide-stationid="55533",Tan Tv
@@ -48451,6 +48533,8 @@ http://example.local/USA-NHLWAS.ts
 http://example.local/USA-WCL.ts
 #EXTINF:-1 tvg-chno="112635" tvg-name="Washington DC 190 Leased Access (CBNNEWS)" tvg-logo="https://emby.tmsimg.com/assets/s109977_ll_h15_aa.png" group-title="United States" tvg-id="WD1LA" tvc-guide-stationid="112635",Washington DC 190 Leased Access (CBNNEWS)
 http://example.local/USA-WD1LA.ts
+#EXTINF:-1 tvg-chno="205026" tvg-name="Washington Nationals" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002WGP8W.png" group-title="United States" tvg-id="NATS" tvc-guide-stationid="205026",Washington Nationals
+http://example.local/USA-NATS.ts
 #EXTINF:-1 tvg-chno="102263" tvg-name="Washington Nationals: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbwsh.png" group-title="United States" tvg-id="MLBWSH" tvc-guide-stationid="102263",Washington Nationals: MLB Extra Innings
 http://example.local/USA-MLBWSH.ts
 #EXTINF:-1 tvg-chno="104874" tvg-name="Washington Wizards: NBA League Pass" tvg-logo="https://logos.jesmann.com/nbawas.png" group-title="United States" tvg-id="NBAWAS" tvc-guide-stationid="104874",Washington Wizards: NBA League Pass
