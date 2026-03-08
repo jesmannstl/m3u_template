@@ -90753,12 +90753,12 @@ http://example.local/GTM-SKYLN.ts
 http://example.local/DOM-SKYLN.ts
 #EXTINF:-1 tvg-chno="47418" tvg-name="SKY Local News" group-title="Panama" tvg-id="SKYLN" tvc-guide-stationid="47418",SKY Local News
 http://example.local/PAN-SKYLN.ts
-#EXTINF:-1 tvg-chno="120545" tvg-name="Sky Max HD" tvg-logo="https://emby.tmsimg.com/assets/s120545_ll_h9_ad.png" group-title="United Kingdom" tvg-id="SKYMAX" tvc-guide-stationid="120545",Sky Max HD
-http://example.local/GBR-SKYMAX.ts
+#EXTINF:-1 tvg-chno="120545" tvg-name="Sky One HD" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002YY19Q" group-title="United Kingdom" tvg-id="SKYONE" tvc-guide-stationid="120545",Sky One HD
+http://example.local/GBR-SKYONE.ts
 #EXTINF:-1 tvg-chno="120548" tvg-name="Sky Max HD" group-title="United Kingdom" tvg-id="SKMXSVM" tvc-guide-stationid="120548",Sky Max HD
 http://example.local/GBR-SKMXSVM.ts
-#EXTINF:-1 tvg-chno="120545" tvg-name="Sky Max HD" tvg-logo="https://emby.tmsimg.com/assets/s120545_ll_h9_ad.png" group-title="Ireland" tvg-id="SKYMAX" tvc-guide-stationid="120545",Sky Max HD
-http://example.local/IRL-SKYMAX.ts
+#EXTINF:-1 tvg-chno="120545" tvg-name="Sky Max HD" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002YY19Q.png" group-title="Ireland" tvg-id="SKYMAX" tvc-guide-stationid="120545",Sky One HD
+http://example.local/IRL-SKYONE.ts
 #EXTINF:-1 tvg-chno="120546" tvg-name="Sky Max SD" tvg-logo="https://emby.tmsimg.com/assets/s120546_ll_h9_aa.png" group-title="United Kingdom" tvg-id="SKMXSD" tvc-guide-stationid="120546",Sky Max SD
 http://example.local/GBR-SKMXSD.ts
 #EXTINF:-1 tvg-chno="120546" tvg-name="Sky Max SD" tvg-logo="https://emby.tmsimg.com/assets/s120546_ll_h9_aa.png" group-title="Ireland" tvg-id="SKMXSD" tvc-guide-stationid="120546",Sky Max SD
@@ -131841,5 +131841,4 @@ http://example.local/POL-ZYCHST.ts
 http://example.local/POL-TELEMID.ts
 #EXTINF:-1 tvg-chno="122123" tvg-name="소상공인시장TV" tvg-logo="https://emby.tmsimg.com/assets/s122123_ll_h9_ab.png" group-title="Belgium" tvg-id="YESTVKR" tvc-guide-stationid="122123",소상공인시장TV
 http://example.local/BEL-YESTVKR.ts
-#EXTINF:-1 tvg-chno="120545" tvg-name="Sky One HD" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002YY19Q.png" group-title="United Kingdom" tvg-id="SKYONE" tvc-guide-stationid="120545",Sky One HD
-http://example.local/GBR-SKYONE.ts
+
