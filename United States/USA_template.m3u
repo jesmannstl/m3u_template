@@ -1057,8 +1057,6 @@ http://example.local/USA-MLBATH.ts
 http://example.local/USA-ATINFO.ts
 #EXTINF:-1 tvg-chno="111023" tvg-name="Atlanta 21" group-title="United States" tvg-id="ATL21" tvc-guide-stationid="111023",Atlanta 21
 http://example.local/USA-ATL21.ts
-#EXTINF:-1 tvg-chno="136334" tvg-name="Atlanta Braves" tvg-logo="https://emby.tmsimg.com/assets/s136334_ll_h15_ab.png" group-title="United States" tvg-id="ATLB" tvc-guide-stationid="136334",Atlanta Braves
-http://example.local/USA-ATLB.ts
 #EXTINF:-1 tvg-chno="102262" tvg-name="Atlanta Braves: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbatl.png" group-title="United States" tvg-id="MLBATL" tvc-guide-stationid="102262",Atlanta Braves: MLB Extra Innings
 http://example.local/USA-MLBATL.ts
 #EXTINF:-1 tvg-chno="104880" tvg-name="Atlanta Hawks: NBA League Pass" tvg-logo="https://logos.jesmann.com/nbaatl.png" group-title="United States" tvg-id="NBAATL" tvc-guide-stationid="104880",Atlanta Hawks: NBA League Pass
@@ -2151,6 +2149,8 @@ http://example.local/USA-BCTV2HD.ts
 http://example.local/USA-BCTV2.ts
 #EXTINF:-1 tvg-chno="141778" tvg-name="Brattleboro Community TV Public Access (HD Feed)" group-title="United States" tvg-id="BCTV1HD" tvc-guide-stationid="141778",Brattleboro Community TV Public Access (HD Feed)
 http://example.local/USA-BCTV1HD.ts
+#EXTINF:-1 tvg-chno="136334" tvg-name="BravesVision" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002EK4L6.png" group-title="United States" tvg-id="ATLB" tvc-guide-stationid="136334",BravesVision
+http://example.local/USA-ATLB.ts
 #EXTINF:-1 tvg-chno="10057" tvg-name="Bravo" tvg-logo="https://emby.tmsimg.com/assets/s10057_ll_h15_ab.png" group-title="United States" tvg-id="BRAVO" tvc-guide-stationid="10057",Bravo
 http://example.local/USA-BRAVO.ts
 #EXTINF:-1 tvg-chno="50622" tvg-name="Bravo" group-title="United States" tvg-id="GMBRVOP" tvc-guide-stationid="50622",Bravo
@@ -4821,8 +4821,8 @@ http://example.local/USA-DESTHD.ts
 http://example.local/USA-NBADET.ts
 #EXTINF:-1 tvg-chno="100278" tvg-name="Detroit Red Wings: NHL Center Ice" tvg-logo="https://logos.jesmann.com/nhldet.png" group-title="United States" tvg-id="NHLDET" tvc-guide-stationid="100278",Detroit Red Wings: NHL Center Ice
 http://example.local/USA-NHLDET.ts
-#EXTINF:-1 tvg-chno="136329" tvg-name="Detroit Tigers" tvg-logo="https://emby.tmsimg.com/assets/s136329_ll_h15_ab.png" group-title="United States" tvg-id="DETT" tvc-guide-stationid="136329",Detroit Tigers
-http://example.local/USA-DETT.ts
+#EXTINF:-1 tvg-chno="136329" tvg-name="Detroit SportsNet" tvg-logo="https://emby.tmsimg.com/assets/s136329_ll_h15_ab.png" group-title="United States" tvg-id="DSN" tvc-guide-stationid="136329",Detroit SportsNet
+http://example.local/USA-DSN.ts
 #EXTINF:-1 tvg-chno="102276" tvg-name="Detroit Tigers: MLB Extra Innings" tvg-logo="https://logos.jesmann.com/mlbdet.png" group-title="United States" tvg-id="MLBDET" tvc-guide-stationid="102276",Detroit Tigers: MLB Extra Innings
 http://example.local/USA-MLBDET.ts
 #EXTINF:-1 tvg-chno="100167" tvg-name="Dharm Sandesh" group-title="United States" tvg-id="DHARMSAN" tvc-guide-stationid="100167",Dharm Sandesh
@@ -22367,9 +22367,9 @@ http://example.local/USA-KFLULD7.ts
 http://example.local/USA-KFMB.ts
 #EXTINF:-1 tvg-chno="21212" tvg-name="KFMB-DT (CBS)" tvg-logo="https://logos.jesmann.com/kfmbdt.png" group-title="United States" tvg-id="KFMBDT" tvc-guide-stationid="21212",KFMB-DT (CBS)
 http://example.local/USA-KFMBDT.ts
-#EXTINF:-1 tvg-chno="73496" tvg-name="KFMB-DT2 (CW)" tvg-logo="https://logos.jesmann.com/kfmbdt2.png" group-title="United States" tvg-id="KFMBDT2" tvc-guide-stationid="73496",KFMB-DT2 (CW)
+#EXTINF:-1 tvg-chno="73496" tvg-name="KFMB-DT2 (MNT)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0028Y3ZQ.png" group-title="United States" tvg-id="KFMBDT2" tvc-guide-stationid="73496",KFMB-DT2 (MNT)
 http://example.local/USA-KFMBDT2.ts
-#EXTINF:-1 tvg-chno="103852" tvg-name="KFMB-DT2 (SD Feed) (CW)" tvg-logo="https://emby.tmsimg.com/assets/s51306_ll_h15_ac.png" group-title="United States" tvg-id="KFMB2SD" tvc-guide-stationid="103852",KFMB-DT2 (SD Feed) (CW)
+#EXTINF:-1 tvg-chno="103852" tvg-name="KFMB-DT2 (SD Feed) (MNT)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0028Y3ZQ.png" group-title="United States" tvg-id="KFMB2SD" tvc-guide-stationid="103852",KFMB-DT2 (SD Feed) (MNT)
 http://example.local/USA-KFMB2SD.ts
 #EXTINF:-1 tvg-chno="100093" tvg-name="KFMB-DT3 (QUESTSD)" tvg-logo="https://emby.tmsimg.com/assets/s106838_ll_h9_ad.png" group-title="United States" tvg-id="KFMBDT3" tvc-guide-stationid="100093",KFMB-DT3 (QUESTSD)
 http://example.local/USA-KFMBDT3.ts
@@ -30011,11 +30011,11 @@ http://example.local/USA-KTTZDT3.ts
 http://example.local/USA-KTUL.ts
 #EXTINF:-1 tvg-chno="34302" tvg-name="KTUL-DT (ABC)" tvg-logo="https://logos.jesmann.com/ktuldt.png" group-title="United States" tvg-id="KTULDT" tvc-guide-stationid="34302",KTUL-DT (ABC)
 http://example.local/USA-KTULDT.ts
-#EXTINF:-1 tvg-chno="34304" tvg-name="KTUL-DT2 (CHARGE)" tvg-logo="https://emby.tmsimg.com/assets/s102148_h3_ba.png" group-title="United States" tvg-id="KTULDT2" tvc-guide-stationid="34304",KTUL-DT2 (CHARGE)
+#EXTINF:-1 tvg-chno="34304" tvg-name="KTUL-DT2 (FOX)" tvg-logo="https://logos.jesmann.com/ktuldt2.png" group-title="United States" tvg-id="KTULDT2" tvc-guide-stationid="34304",KTUL-DT2 (FOX)
 http://example.local/USA-KTULDT2.ts
 #EXTINF:-1 tvg-chno="54457" tvg-name="KTUL-DT3 (ANTENNA)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0028Y4HS.png" group-title="United States" tvg-id="KTULDT3" tvc-guide-stationid="54457",KTUL-DT3 (ANTENNA)
 http://example.local/USA-KTULDT3.ts
-#EXTINF:-1 tvg-chno="102378" tvg-name="KTUL-DT4 (ROARTV)" tvg-logo="https://emby.tmsimg.com/assets/s102116_ll_h15_ac.png" group-title="United States" tvg-id="KTULDT4" tvc-guide-stationid="102378",KTUL-DT4 (ROARTV)
+#EXTINF:-1 tvg-chno="102378" tvg-name="KTUL-DT4 (REWIND)" tvg-logo="https://emby.tmsimg.com/assets/s119814_ll_h15_ab.png" group-title="United States" tvg-id="KTULDT4" tvc-guide-stationid="102378",KTUL-DT4 (REWIND)
 http://example.local/USA-KTULDT4.ts
 #EXTINF:-1 tvg-chno="118561" tvg-name="KTUL-DT5 (COMET)" tvg-logo="https://emby.tmsimg.com/assets/s97051_ll_h15_ab.png" group-title="United States" tvg-id="KTULDT5" tvc-guide-stationid="118561",KTUL-DT5 (COMET)
 http://example.local/USA-KTULDT5.ts
@@ -30025,11 +30025,11 @@ http://example.local/USA-KTULDT6.ts
 http://example.local/USA-KTULDT7.ts
 #EXTINF:-1 tvg-chno="98060" tvg-name="KTUL-LD (ABC)" tvg-logo="https://emby.tmsimg.com/assets/s10003_ll_h15_ac.png" group-title="United States" tvg-id="KTULLD" tvc-guide-stationid="98060",KTUL-LD (ABC)
 http://example.local/USA-KTULLD.ts
-#EXTINF:-1 tvg-chno="98061" tvg-name="KTUL-LD2 (CHARGE)" tvg-logo="https://emby.tmsimg.com/assets/s102148_h3_ba.png" group-title="United States" tvg-id="KTULLD2" tvc-guide-stationid="98061",KTUL-LD2 (CHARGE)
+#EXTINF:-1 tvg-chno="98061" tvg-name="KTUL-LD2 (FOX)" tvg-logo="https://emby.tmsimg.com/assets/s10212_ll_h15_ab.png" group-title="United States" tvg-id="KTULLD2" tvc-guide-stationid="98061",KTUL-LD2 (FOX)
 http://example.local/USA-KTULLD2.ts
 #EXTINF:-1 tvg-chno="98062" tvg-name="KTUL-LD3 (ANTENNA)" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG0028Y4HS.png" group-title="United States" tvg-id="KTULLD3" tvc-guide-stationid="98062",KTUL-LD3 (ANTENNA)
 http://example.local/USA-KTULLD3.ts
-#EXTINF:-1 tvg-chno="102379" tvg-name="KTUL-LD4 (ROARTV)" tvg-logo="https://emby.tmsimg.com/assets/s102116_ll_h15_ac.png" group-title="United States" tvg-id="KTULLD4" tvc-guide-stationid="102379",KTUL-LD4 (ROARTV)
+#EXTINF:-1 tvg-chno="102379" tvg-name="KTUL-LD4 (REWIND)" tvg-logo="https://emby.tmsimg.com/assets/s119814_ll_h15_ab.png" group-title="United States" tvg-id="KTULLD4" tvc-guide-stationid="102379",KTUL-LD4 (REWIND)
 http://example.local/USA-KTULLD4.ts
 #EXTINF:-1 tvg-chno="118562" tvg-name="KTUL-LD5 (COMET)" tvg-logo="https://emby.tmsimg.com/assets/s97051_ll_h15_ab.png" group-title="United States" tvg-id="KTULLD5" tvc-guide-stationid="118562",KTUL-LD5 (COMET)
 http://example.local/USA-KTULLD5.ts
@@ -30963,7 +30963,7 @@ http://example.local/USA-KUSELD6.ts
 http://example.local/USA-KUSELD7.ts
 #EXTINF:-1 tvg-chno="10782" tvg-name="KUSI" group-title="United States" tvg-id="KUSI" tvc-guide-stationid="10782",KUSI
 http://example.local/USA-KUSI.ts
-#EXTINF:-1 tvg-chno="32781" tvg-name="KUSI-DT" tvg-logo="https://logos.jesmann.com/kusidt.png" group-title="United States" tvg-id="KUSIDT" tvc-guide-stationid="32781",KUSI-DT
+#EXTINF:-1 tvg-chno="32781" tvg-name="KUSI-DT (CW)" tvg-logo="https://logos.jesmann.com/kusidt.png" group-title="United States" tvg-id="KUSIDT" tvc-guide-stationid="32781",KUSI-DT (CW)
 http://example.local/USA-KUSIDT.ts
 #EXTINF:-1 tvg-chno="153180" tvg-name="KUSI-DT2 (REWIND)" tvg-logo="https://emby.tmsimg.com/assets/s119814_ll_h15_ab.png" group-title="United States" tvg-id="KUSIDT2" tvc-guide-stationid="153180",KUSI-DT2 (REWIND)
 http://example.local/USA-KUSIDT2.ts
@@ -42173,6 +42173,8 @@ http://example.local/USA-SCWSTHD.ts
 http://example.local/USA-SCNEWST.ts
 #EXTINF:-1 tvg-chno="96827" tvg-name="Scripps News" tvg-logo="https://emby.tmsimg.com/assets/s96827_ll_h15_ad.png" group-title="United States" tvg-id="SCNEWS" tvc-guide-stationid="96827",Scripps News
 http://example.local/USA-SCNEWS.ts
+#EXTINF:-1 tvg-chno="204956" tvg-name="Scripps Sports" tvg-logo="https://emby.tmsimg.com/assets/GNLZZGG002YHZPK.png" group-title="United States" tvg-id="SCSPST" tvc-guide-stationid="204956",Scripps Sports
+http://example.local/USA-SCSPST.ts
 #EXTINF:-1 tvg-chno="62612" tvg-name="SD01 (PBS)" tvg-logo="https://emby.tmsimg.com/assets/s11039_ll_h15_ab.png" group-title="United States" tvg-id="SD01" tvc-guide-stationid="62612",SD01 (PBS)
 http://example.local/USA-SD01.ts
 #EXTINF:-1 tvg-chno="92565" tvg-name="SDSU Channel" group-title="United States" tvg-id="SDSU" tvc-guide-stationid="92565",SDSU Channel
